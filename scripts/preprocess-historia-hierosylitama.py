@@ -1,4 +1,10 @@
 # preprocess-historia-hierosylitama.py
+# @author: Philipp Schneider
+# @date: 2020-02-25
+#
+# Prepares Fulcher Chroncile for Tracer
+# Extracts segmented text from TEI
+# Text is stored as txt accoridng to tracer standards
 
 from bs4 import BeautifulSoup
 import sys
