@@ -9,7 +9,6 @@
 
 from SPARQLWrapper import SPARQLWrapper, JSON
 import sys
-import csv
 
 # Check if a string is a number
 def is_number(string):
