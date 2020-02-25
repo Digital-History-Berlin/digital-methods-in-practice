@@ -5,6 +5,8 @@
 # Prepares Fulcher Chroncile for Tracer
 # Extracts segmented text from TEI
 # Text is stored as txt accoridng to tracer standards
+# Extracts lemmas from TEI
+# Stores lemmas in seperate file
 
 from bs4 import BeautifulSoup
 import sys
