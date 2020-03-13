@@ -53,7 +53,7 @@ def get_lemmas_by_word(word):
 lemmas = ""
 
 # Open file to creta lemmas from
-with open("data/Vulgata/01 Segmentation/vulgata.tsv") as full_text_file:
+with open("../data/Vulgata/01 Segmentation/vulgata.tsv") as full_text_file:
     full_text = full_text_file.read()
 
 text_length = len(full_text.split())
