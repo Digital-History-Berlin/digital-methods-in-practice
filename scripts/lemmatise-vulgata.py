@@ -75,6 +75,6 @@ for word in full_text.split():
     #     break
 
 # Write lemmas to file
-lemma_file = open("data/Vulgata/01 Segmentation/Vulgata.lemma", "w")
+lemma_file = open("data/Vulgata/01 Segmentation/vulgata.lemma", "w")
 lemma_file.write(lemmas)
 lemma_file.close()
