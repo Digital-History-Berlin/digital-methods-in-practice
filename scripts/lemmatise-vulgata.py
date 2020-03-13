@@ -56,10 +56,6 @@ lemmas = ""
 with open("data/Vulgata/01 Segmentation/vulgata.tsv") as full_text_file:
     full_text = full_text_file.read()
 
-# # Prepare log file
-# lemma_log = ""
-# log_counter = 1
-
 text_length = len(full_text.split())
 text_pos = 1
 
@@ -70,19 +66,7 @@ for word in full_text.split():
         # Check if word has already been queried
         if word not in lemmas:
             lemmas += get_lemmas_by_word(word)
-            
-            # Log progress
-            log_line = "Lemmatising word " + str(text_pos) + "/" + str(text_length)
-            print(log_line)
-            # lemma_log = lemma_log + "\n" + log_line
-            # log_counter += 1
-
-            # if log_counter > 100:
-            #     log_file = open("logs/lemma.log")
-            #     lemma_old_log = log_file.read()
-            #     lemma_log = lemma_old_log + lemma_log
-            #     log_file.write(lemma_log)
-            #     log_file.close()
+            print("Lemmatising word " + str(text_pos) + "/" + str(text_length))
 
     text_pos += 1
 
