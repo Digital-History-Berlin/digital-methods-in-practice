@@ -3,3 +3,11 @@
 launch.json
 nohup.out
 tracer.zip
+tracer//nbproject/private/
+tracer/build/classes/
+tracer/dist/
+tracer/doc/web/
+tracer/nbbuild.xml
+tracer/nbproject/
+tracer/tmp/
+tracer/tracer.jar
