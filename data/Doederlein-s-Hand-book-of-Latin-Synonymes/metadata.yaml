@@ -1,0 +1,49 @@
+_repo: D-derlein-s-Hand-book-of-Latin-Synonymes_33197
+_version: 0.1.0
+alternative_title: Döderlein's Hand-book of Latin Synonyms
+contributor:
+  author_of_introduction:
+    agent_name: Taylor, Samuel H. (Samuel Harvey)
+    alias: Taylor, S. H. (Samuel Harvey)
+    birthdate: 1807
+    deathdate: 1871
+    gutenberg_agent_id: '36258'
+    url: http://www.gutenberg.org/2009/agents/36258
+  translator:
+    agent_name: Arnold, Henry Hamilton
+    gutenberg_agent_id: '36259'
+    url: http://www.gutenberg.org/2009/agents/36259
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doederlein, Ludwig von
+    aliases:
+    - Doederlein, Johann Ludwig Christoph Wilhelm von
+    - Von Doederlein, Ludwig
+    - Doderlein, Ludwig
+    - Döderlein, Ludwig
+    birthdate: 1791
+    deathdate: 1863
+    gutenberg_agent_id: '36257'
+    url: http://www.gutenberg.org/2009/agents/36257
+description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33197#D-derlein-s-Hand-book-of-Latin-Synonymes
+gutenberg_issued: '2010-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33197'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Latin language -- Synonyms and antonyms'
+- GITenberg
+title: Döderlein's Hand-book of Latin Synonymes
+url: http://www.gutenberg.org/ebooks/33197
