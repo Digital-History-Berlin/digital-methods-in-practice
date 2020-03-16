@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>false</primitive>
+  <delegateAnalysisEngineSpecifiers>
+    <delegateAnalysisEngine key="SentenceSignatureAnnotatorDescriptor">
+      <import location="SentenceSignatureAnnotatorDescriptor.xml"/>
+    </delegateAnalysisEngine>
+    <delegateAnalysisEngine key="SentenceSignatureAnnotatorDescriptor2">
+      <import location="SentenceSignatureAnnotatorDescriptor.xml"/>
+    </delegateAnalysisEngine>
+    <delegateAnalysisEngine key="SentenceHashAnnotatorDescriptor">
+      <import location="SentenceHashAnnotatorDescriptor.xml"/>
+    </delegateAnalysisEngine>
+  </delegateAnalysisEngineSpecifiers>
+  <analysisEngineMetaData>
+    <name>ParaSAnnotatorDescriptor</name>
+    <description>A ParaSAnnotator utilizes the SentenceHashAnnotator and SentenceSignatureAnnotator to create the Annotations needed by the ParaSConsumer.
+It expects an default and tokenized view and creates a SentenceSignature for both views and a SentenceHash for the default view.
+A possible flow could contain a SentenceReader, a TokenizerAnnotator and a ParaSAnnotator.
+
+This annotator does not have parameters.</description>
+    <version>1.0</version>
+    <vendor/>
+    <configurationParameters searchStrategy="language_fallback"/>
+    <configurationParameterSettings/>
+    <flowConstraints>
+      <fixedFlow>
+        <node>SentenceSignatureAnnotatorDescriptor</node>
+        <node>SentenceSignatureAnnotatorDescriptor2</node>
+        <node>SentenceHashAnnotatorDescriptor</node>
+      </fixedFlow>
+    </flowConstraints>
+    <typePriorities/>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs/>
+        <outputs>
+          <type allAnnotatorFeatures="true">de.uni_leipzig.asv.medusa.uima.types.SentenceSignature</type>
+          <type allAnnotatorFeatures="true">de.uni_leipzig.asv.medusa.uima.types.SentenceHash</type>
+        </outputs>
+        <inputSofas>
+          <sofaName>tokenized-sofa</sofaName>
+        </inputSofas>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+    <operationalProperties>
+      <modifiesCas>true</modifiesCas>
+      <multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <resourceManagerConfiguration/>
+  <sofaMappings>
+    <sofaMapping>
+      <componentKey>SentenceSignatureAnnotatorDescriptor2</componentKey>
+      <aggregateSofaName>tokenized-sofa</aggregateSofaName>
+    </sofaMapping>
+  </sofaMappings>
+</analysisEngineDescription>

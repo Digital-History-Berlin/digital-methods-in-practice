@@ -1,0 +1,247 @@
+body {
+	font-family: 'Droid Sans', serif;
+	background-image: url(images/bible.jpg);
+	
+}
+
+#Pagination {
+	margin-top: 20px;
+}
+
+#header {
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	color: white;
+	padding: 30px;
+}
+
+#textfacet {
+	text-align: center;
+}
+
+.copyright {
+	text-align: center;
+	padding-top: 20px;
+	color: #EEE;
+}
+
+.algorithm {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+.container {
+	text-align: center;
+	position: relative;
+}
+
+.menu {
+	z-index: 1;
+	height: 55px;
+	text-align: center;
+}
+
+.tab {
+	display: inline-block;
+	width: 190px;
+	height: 70px;
+	cursor: pointer;
+}
+
+.movies {
+	background-image: url(images/movies.png);
+}
+
+.people {
+	background-image: url(images/people.png);
+}
+
+.statistics {
+	background-image: url(images/statistics.png);
+}
+
+.moviesSelected {
+	background-image: url(images/movies-selected.png);
+}
+
+.peopleSelected {
+	background-image: url(images/people-selected.png);
+}
+
+.statisticsSelected {
+	background-image: url(images/statistics-selected.png);
+}
+
+.title {
+	color: #3E576F;
+	font-size: 16px;
+}
+
+.leftpanel {
+	width: 15px;
+	background-image: url(images/left.png);
+}
+
+.rightpanel {
+	width: 15px;
+	background-image: url(images/right.png);
+}
+
+.content {
+	background-image: url(images/bg.png);
+	padding: 10px;
+}
+
+.contentpanel {
+	table-layout: fixed;
+	width: 100%;	
+	border-spacing:0;
+	border-collapse:collapse;
+}
+
+#build {
+	position: absolute;
+}
+
+.tagcloudTag {
+	cursor: pointer;
+}
+
+.textfield {
+	background:#FFFFFF url(images/search.png) no-repeat 6px 4px;
+	font-family: 'Droid Sans', serif;
+	padding:4px 4px 4px 30px;
+	border:1px solid #CCCCCC;
+	width:150px;
+	height:18px;
+}
+
+.biblePos {
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 0px;
+}
+
+.biblePos td {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.goBack {
+	display: none;
+	position: absolute;
+	width: 24px;
+	height: 10px;
+	background: url(images/back1.png) no-repeat;
+	cursor: pointer;
+	z-index: 1000;
+}
+
+.parallelDiv {
+	display: inline-block;
+	width: 400px;
+	height: 600px;
+	overflow: auto;
+	background-color: white;
+}
+
+.overviewDiv {
+	display: inline-block;
+	width: 200px;
+	height: 600px;
+	overflow: auto;
+	background-color: white;
+}
+
+.betweenDiv {
+	display: inline-block;
+	width: 100px;
+	height: 600px;
+	overflow: auto;
+	background-color: white;
+}
+
+.parallelVerse {
+	padding: 5px 10px;
+	text-align: left;
+	color: #3e576f;
+	font-size: 12px;
+}
+
+.parallelId {
+	color: #3e576f;
+	font-size: 14px;
+}
+
+.parallelHeader {
+	padding: 10px 0px;
+	width: 400px;
+	display: inline-block;
+	color: #3e576f;
+	background-color: white;
+}
+
+.filterSlider {
+	display: inline-block;
+	width: 100px;
+}
+
+.thinningLabel {
+	margin: 0px 15px 0px 30px;
+}
+
+.options {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 25px;
+	z-index: 2;
+	position: relative;	
+	width: 600px;
+}
+
+.reuseDiv {
+	text-align: center;
+	overflow-y: hidden;
+	top: -30px;
+	position: relative;
+	z-index: 1;
+}
+
+.overlay {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: white;
+	opacity: 0.4;	
+	z-index: 10000;
+}
+
+.typeLabel {
+	margin: 0px 15px 0px 30px;
+}
+
+#home {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 40px;
+	height: 40px;
+}
+
+.contact {
+	position: absolute;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	top: 20px;
+	right: 20px;
+}
+
+.contact a {
+	color: white;
+}

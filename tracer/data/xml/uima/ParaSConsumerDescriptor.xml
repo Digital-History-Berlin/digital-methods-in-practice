@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>true</primitive>
+  <annotatorImplementationName>de.uni_leipzig.asv.medusa.uima.consumer.ParaSConsumer</annotatorImplementationName>
+  <analysisEngineMetaData>
+    <name>ParaSConsumerDescriptor</name>
+    <description>A ParaSConsumer prints out sentence hashes and signatures like MEDUSAs para_s file. The output has 7 columns separated by TAB-characters :
+&lt;sentence-id&gt;TAB&lt;hash&gt;TAB&lt;untokenized signature&gt;TAB&lt;tokenized signature&gt;TAB null TAB null TAB null
+This consumer expects three Annotations for the default-view ( SentenceInformation, SentenceHash and SentenceSignature) and in the tokenized-view an Annotation of the @link SentenceSignature.
+A possible flow could contain a SentenceReader, a TokenizerAnnotator, a ParaSAnnotator and a ParaSConsumer.
+
+There are two parameters : the name of the output file and it's character encoding.</description>
+    <version>1.0</version>
+    <vendor/>
+    <configurationParameters>
+      <configurationParameter>
+        <name>outputFileName</name>
+        <description>Name of the file the output will be written to.
+If a file with this name already exists it will be overwritten.</description>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>true</mandatory>
+      </configurationParameter>
+      <configurationParameter>
+        <name>outputEncoding</name>
+        <description>The character set used for output</description>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>true</mandatory>
+      </configurationParameter>
+    </configurationParameters>
+    <configurationParameterSettings>
+      <nameValuePair>
+        <name>outputFileName</name>
+        <value>
+          <string>output.para_s</string>
+        </value>
+      </nameValuePair>
+      <nameValuePair>
+        <name>outputEncoding</name>
+        <value>
+          <string>UTF-8</string>
+        </value>
+      </nameValuePair>
+    </configurationParameterSettings>
+    <typeSystemDescription>
+      <imports>
+        <import location="SentenceInformationTypeDescriptor.xml"/>
+        <import location="SentenceHashTypeDescriptor.xml"/>
+        <import location="SentenceSignatureTypeDescriptor.xml"/>
+      </imports>
+    </typeSystemDescription>
+    <typePriorities/>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs>
+          <type>de.uni_leipzig.asv.medusa.uima.types.SentenceInformation</type>
+          <feature>de.uni_leipzig.asv.medusa.uima.types.SentenceInformation:nr</feature>
+          <type>de.uni_leipzig.asv.medusa.uima.types.SentenceSignature</type>
+          <type>de.uni_leipzig.asv.medusa.uima.types.SentenceHash</type>
+          <feature>de.uni_leipzig.asv.medusa.uima.types.SentenceSignature:Signature</feature>
+          <feature>de.uni_leipzig.asv.medusa.uima.types.SentenceHash:Hash</feature>
+        </inputs>
+        <outputs/>
+        <inputSofas>
+          <sofaName>tokenized-sofa</sofaName>
+        </inputSofas>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+    <operationalProperties>
+      <modifiesCas>false</modifiesCas>
+      <multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <resourceManagerConfiguration/>
+</analysisEngineDescription>
