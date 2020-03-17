@@ -20,7 +20,7 @@
 
         <property name="SENTENCE_FILE_NAME" value="data/corpora/Bible/KJV.txt" />
         <property name="BASEFORM_FILE_NAME" value="data/corpora/Bible/Bible.lemma" />
-        <property name="SYNONYMS_FILE_NAME" value="data/corpora/Bible/latin.syns" />
+        <property name="SYNONYMS_FILE_NAME" value="data/corpora/Bible/Bible.syns" />
         
         <property name="TOKENISATION_CHARACTERS_FILE_NAME" value="data/wordlists/100-wn-all.txt" />
         <property name="LETTER_SHAVER_MAPPING_FILE_NAME" value="data/letter-mappings/arabic.txt" />
