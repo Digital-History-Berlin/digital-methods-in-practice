@@ -7,8 +7,8 @@
         <!-- TRACER general configurations -->
         <property name="FRAMEWORK_IMPL" value="eu.etrap.tracer.DefaultFrameWorkImpl" />
         <property name="PREPROCESSING_IMPL" value="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl" />
-        <!--property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/-->
-        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl"/>
+        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/>
+        <!-- <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl"/> -->
         <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl"/>
         <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
         <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
@@ -73,8 +73,8 @@
     </category>
 
     <category name="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl">
-        <property name="boolLemmatisation" value="false" />
-        <property name="boolReplaceSynonyms" value="false" />
+        <property name="boolLemmatisation" value="true" />
+        <property name="boolReplaceSynonyms" value="true" />
         <property name="boolReplaceStringSimilarWords" value="false" />
         <property name="boolRemoveDiachritics" value="false" />
         <property name="boolMakeAllLowerCase" value="true" />
