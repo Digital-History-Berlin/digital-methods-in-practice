@@ -14,7 +14,7 @@
         <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
         <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl"/>
         
-        <property name="SENTENCE_FILE_NAME" value="data/corpora/1_vulgata_francorum/1_2_vulgata_francorum.txt" />
+        <property name="SENTENCE_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt" />
         <property name="BASEFORM_FILE_NAME" value="data/corpora/1_vulgata_francorum/1_vulgata_francorum.lemma" />
         <property name="SYNONYMS_FILE_NAME" value="data/corpora/1_vulgata_francorum/latin.syns" />
 
