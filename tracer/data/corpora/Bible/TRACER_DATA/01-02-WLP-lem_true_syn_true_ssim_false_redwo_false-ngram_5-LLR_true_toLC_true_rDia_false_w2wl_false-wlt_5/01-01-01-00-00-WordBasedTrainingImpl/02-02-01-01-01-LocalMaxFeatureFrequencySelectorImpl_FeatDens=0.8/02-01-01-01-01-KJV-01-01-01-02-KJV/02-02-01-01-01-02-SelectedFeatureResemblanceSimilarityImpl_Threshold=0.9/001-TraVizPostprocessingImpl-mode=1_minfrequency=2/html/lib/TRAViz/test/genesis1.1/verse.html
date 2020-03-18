@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>Basic Example</title>
+    <script src="../../traviz-min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../traviz.css"></link>
+  </head>  
+  <body>
+    <div id="containerDiv"></div>
+    <script type="text/javascript">
+	var traviz = new TRAViz("containerDiv",{
+		lineBreaks: false,
+		curveRadius: 5
+	});
+	traviz.align([{
+		    edition: "American Standard Version",
+		    text: "In the beginning God created the heavens and the earth."
+		 },{
+		    edition: "Bible in Basic English",
+		    text: "At the first God made the heaven and the earth."
+		 },{
+		    edition: "Darby Bible",
+		    text: "In the beginning God created the heavens and the earth."
+		 },{
+		    edition: "King James Version",
+		    text: "In the beginning God created the heaven and the earth."
+		 },{
+		    edition: "World English Bible",
+		    text: "In the beginning God created the heavens and the earth."
+		 },{
+		    edition: "Young's Literal Translation",
+		    text: "In the beginning of God`s preparing the heavens and the earth --"
+		 },{
+		    edition: "New Life Version",
+		    text: "In the beginning God made from nothing the heavens and the earth."
+		}]);
+	traviz.visualize();
+    </script>
+  </body>
+</html>
