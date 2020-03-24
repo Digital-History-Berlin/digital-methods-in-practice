@@ -125,7 +125,7 @@
 
     <category name="eu.etrap.tracer.selection.globallocal.GlobalWordClassSelectorImpl">
         <property name="dblFeatureDensity" value="0.65" />
-        <property name="strWordClassFileName" value="data/corpora/example/Lems/TLG.lem.pos.txt.tagged" />
+        <!-- <property name="strWordClassFileName" value="data/corpora/example/Lems/TLG.lem.pos.txt.tagged" /> -->
     </category>
 
     <category name="eu.etrap.tracer.selection.globallocal.GlobalBibleWordClassSelectorImpl">
