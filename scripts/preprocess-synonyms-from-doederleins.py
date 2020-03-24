@@ -33,9 +33,10 @@ for syn_entry in synonyms:
 
     for i in range(1, len(syn_entry_list)):
         synonyms_tracer += syn_lemma + "\t" + syn_entry_list[i] + "\n"
+        synonyms_tracer += syn_entry_list[i] + "\t" + syn_lemma + "\n"
 
 synonyms_tracer_file = open("data/latin.syns", "w")
 synonyms_tracer_file.write(synonyms_tracer)
 synonyms_tracer_file.close()
 
-print("Synonym list is stored in data/latin.syns")
+print("Done. Synonym list is stored in data/latin.syns")
