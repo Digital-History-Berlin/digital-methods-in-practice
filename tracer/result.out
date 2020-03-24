@@ -9,7 +9,7 @@ Processing corpus: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt 
 Checking whether sentence file is tokenized: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 3 s 3 ms]
+sentences are tokenized. [elapsed time: 3 s 33 ms]
 
 
 Checking whether word numbers were computed already in file: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.internal.wn
@@ -25,12 +25,12 @@ word numbers generated. [elapsed time: 2 s 9 ms]
 Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wswn
 Transforming word numbers ...
 Reading known numbers: data/wordlists/100-wn-all.txt
-wswn generated. [elapsed time: 352 ms]
+wswn generated. [elapsed time: 507 ms]
 
 
 Checking whether word numbers complete file is created: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 65 ms]
+word numbers complete file is generated. [elapsed time: 124 ms]
 
 
 Checking whether idx file was computed already in file: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.sidx
@@ -42,14 +42,14 @@ AbstractInputImpl: loading sources from: data/corpora/1_2_vulgata_francorum/1_2_
 10000 words loaded20000 words loaded30000 words loaded40000 words loaded
 First 46233 of 46233 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 1 s 50 ms]
+IDX-file is written. [elapsed time: 2 s 1 ms]
 
 
 Checking whether bow word frequencies was computed already in file: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 322 ms]
+BOW word frequencies counted. [elapsed time: 399 ms]
 
 
 Checking whether hash file was filled already in file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash
@@ -98,12 +98,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 177 ms]
+filter component is written. [elapsed time: 141 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 827 ms]
+Parser loaded. [elapsed time: 832 ms]
 
 
 
@@ -117,7 +117,7 @@ Processing ...
 Merging started ...
 final swapping ram hash on disc:
 /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
- after 3872 ms finshed.
+ after 5158 ms finshed.
 
 
 Opening swap files
@@ -179,13 +179,13 @@ merge time: 5 s
 
 
 
-Processing finished. [elapsed time: 12 s 27 ms]
+Processing finished. [elapsed time: 12 s 15 ms]
 
 
 Checking whether export file was filled already in file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.inv
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.PositionalInvertedListFlatFileExporterImpl
-Export finished. [elapsed time: 737 ms]
+Export finished. [elapsed time: 736 ms]
 
 
 Positional inverted list created.
@@ -193,55 +193,55 @@ Writing meta file to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.tx
 
 
 Computing string similarity ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp with filter: eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp with filter: eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.40000 lines processed.
-sentences are tokenized. [elapsed time: 440 ms]
+sentences are tokenized. [elapsed time: 436 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.40000 lines processed.
-word numbers generated. [elapsed time: 305 ms]
+word numbers generated. [elapsed time: 295 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 85 ms]
+wswn generated. [elapsed time: 82 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.wnc
 Generating word numbers complete file ...
 word numbers complete file is generated. [elapsed time: 1 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.src
 
 First 769 of 769 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.40000 lines processed.
-IDX-file is written. [elapsed time: 1 s 36 ms]
+IDX-file is written. [elapsed time: 1 s 37 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed33000 sentences processed34000 sentences processed35000 sentences processed36000 sentences processed37000 sentences processed38000 sentences processed39000 sentences processed40000 sentences processed41000 sentences processed42000 sentences processed43000 sentences processed44000 sentences processed45000 sentences processed46000 sentences processed
-BOW word frequencies counted. [elapsed time: 72 ms]
+BOW word frequencies counted. [elapsed time: 79 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
 
 
 
@@ -292,7 +292,7 @@ filter component is written. [elapsed time: 53 ms]
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 184 ms]
+Parser loaded. [elapsed time: 183 ms]
 
 
 
@@ -305,16 +305,16 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
- after 1802 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
+ after 2722 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -324,11 +324,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 1.44
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -338,25 +338,25 @@ Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
 merge time: 3 s
 
 
 
-Processing finished. [elapsed time: 7 s 16 ms]
+Processing finished. [elapsed time: 7 s 19 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -365,81 +365,81 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=46222
 AbstractExporterImpl: Using non-bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 1 s 16 ms]
+Export finished. [elapsed time: 1 s 4 ms]
 
 
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.internal.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.wswn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.wnc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.src
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.internal.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp.tok.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.8352987945447459265.tmp
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.internal.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.internal.wf.bow
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.sidx
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.tok
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.wswn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.98.6506509638790249281.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
 Writing meta file to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.meta
 String similarity computed.
 
 
 
 Creating character distribution ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp with filter: eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp with filter: eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 1 s 31 ms]
+sentences are tokenized. [elapsed time: 1 s 25 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 734 ms]
+word numbers generated. [elapsed time: 1 s 0 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 73 ms]
+wswn generated. [elapsed time: 65 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 1 ms]
+word numbers complete file is generated. [elapsed time: 3 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.src
 
 First 59 of 59 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 6 s 61 ms]
+IDX-file is written. [elapsed time: 6 s 56 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 240 ms]
+BOW word frequencies counted. [elapsed time: 187 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
 
 
 
@@ -485,12 +485,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 50 ms]
+filter component is written. [elapsed time: 57 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 265 ms]
+Parser loaded. [elapsed time: 243 ms]
 
 
 
@@ -503,28 +503,28 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
- after 2168 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
+ after 2714 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
-merge time: 4 s
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.ram-swap.1
+merge time: 3 s
 
-Processing finished. [elapsed time: 8 s 2 ms]
+Processing finished. [elapsed time: 7 s 42 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -533,26 +533,26 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=32469
 AbstractExporterImpl: Using non-bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 411 ms]
+Export finished. [elapsed time: 419 ms]
 
 
-Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.char
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.internal.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.wnc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.src
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.wswn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.internal.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.5449419879320421287.tmp.tok.db
+Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.char
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.internal.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.eu.etrap.medusa.filter.sidx.IDXIDFeaturingFilterImpl.hash.lgl2.expo
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.wswn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.sidx
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.internal.wf.bow
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.108.1564107465701309217.tmp.tok
 Character distribution created.
 
 
@@ -560,55 +560,55 @@ Character distribution created.
 Creating a set of letter n-grams ...
 
 Processing letter n-grams of size 2 ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 1 s 23 ms]
+sentences are tokenized. [elapsed time: 1 s 21 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 821 ms]
+word numbers generated. [elapsed time: 474 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
 wswn generated. [elapsed time: 91 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 3 ms]
+word numbers complete file is generated. [elapsed time: 6 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.src
 
 First 769 of 769 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 5 s 36 ms]
+IDX-file is written. [elapsed time: 5 s 40 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 148 ms]
+BOW word frequencies counted. [elapsed time: 156 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
 
 
 
@@ -654,12 +654,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 48 ms]
+filter component is written. [elapsed time: 47 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 301 ms]
+Parser loaded. [elapsed time: 272 ms]
 
 
 
@@ -672,28 +672,28 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
- after 2224 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+ after 3000 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
-merge time: 4 s
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+merge time: 3 s
 
-Processing finished. [elapsed time: 7 s 39 ms]
+Processing finished. [elapsed time: 7 s 48 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -702,79 +702,79 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=32469
 AbstractExporterImpl: Using bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 222 ms]
+Export finished. [elapsed time: 252 ms]
 
 
-Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.02gram
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.src
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.wnc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.wswn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.tok.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.internal.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4445549419004676812.tmp.internal.wn
+Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.02gram
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.internal.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.tok
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.internal.wf.bow
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.sidx
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.wswn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3112101121195347724.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 
 Generation of letter n-grams of size 2 finished.
 
 Processing letter n-grams of size 3 ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 594 ms]
+sentences are tokenized. [elapsed time: 576 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 499 ms]
+word numbers generated. [elapsed time: 494 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 70 ms]
+wswn generated. [elapsed time: 77 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 15 ms]
+word numbers complete file is generated. [elapsed time: 10 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.src
 
 First 4924 of 4924 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 4 s 6 ms]
+IDX-file is written. [elapsed time: 3 s 44 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 140 ms]
+BOW word frequencies counted. [elapsed time: 139 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
 
 
 
@@ -820,12 +820,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 48 ms]
+filter component is written. [elapsed time: 46 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 141 ms]
+Parser loaded. [elapsed time: 151 ms]
 
 
 
@@ -838,16 +838,16 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
- after 2236 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+ after 3272 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -857,11 +857,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 1.44
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -871,25 +871,25 @@ Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
-merge time: 0 s
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+merge time: 3 s
 
 
 
-Processing finished. [elapsed time: 4 s 43 ms]
+Processing finished. [elapsed time: 8 s 6 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -898,79 +898,79 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=32469
 AbstractExporterImpl: Using bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 449 ms]
+Export finished. [elapsed time: 438 ms]
 
 
-Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.03gram
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.tok.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.wswn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.wnc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.internal.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.src
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.internal.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2562451398237755148.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.03gram
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.wswn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.internal.wf.bow
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.tok
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.internal.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8341812736359248164.tmp.sidx
 
 Generation of letter n-grams of size 3 finished.
 
 Processing letter n-grams of size 4 ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 608 ms]
+sentences are tokenized. [elapsed time: 600 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 535 ms]
+word numbers generated. [elapsed time: 577 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 142 ms]
+wswn generated. [elapsed time: 130 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 41 ms]
+word numbers complete file is generated. [elapsed time: 36 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.src
 10000 words loaded
 First 18139 of 18139 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 3 s 7 ms]
+IDX-file is written. [elapsed time: 3 s 24 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 136 ms]
+BOW word frequencies counted. [elapsed time: 122 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
 
 
 
@@ -1016,12 +1016,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 60 ms]
+filter component is written. [elapsed time: 71 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 221 ms]
+Parser loaded. [elapsed time: 147 ms]
 
 
 
@@ -1034,16 +1034,16 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
- after 2600 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+ after 3207 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1053,11 +1053,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 1.44
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1067,25 +1067,25 @@ Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
-merge time: 0 s
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+merge time: 3 s
 
 
 
-Processing finished. [elapsed time: 4 s 55 ms]
+Processing finished. [elapsed time: 8 s 2 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -1094,79 +1094,79 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=32469
 AbstractExporterImpl: Using bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 614 ms]
+Export finished. [elapsed time: 622 ms]
 
 
-Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.04gram
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.tok.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.internal.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.wswn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.src
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.wnc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3683547571568092797.tmp.internal.wf
+Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.04gram
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.internal.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.sidx
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.wswn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.tok
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.6909983701380015315.tmp.internal.wf.bow
 
 Generation of letter n-grams of size 4 finished.
 
 Processing letter n-grams of size 5 ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 436 ms]
+sentences are tokenized. [elapsed time: 450 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 605 ms]
+word numbers generated. [elapsed time: 773 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 171 ms]
+wswn generated. [elapsed time: 173 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 45 ms]
+word numbers complete file is generated. [elapsed time: 47 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.src
 10000 words loaded20000 words loaded30000 words loaded
 First 37363 of 37363 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 2 s 25 ms]
+IDX-file is written. [elapsed time: 2 s 23 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 134 ms]
+BOW word frequencies counted. [elapsed time: 131 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
 
 
 
@@ -1212,12 +1212,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 84 ms]
+filter component is written. [elapsed time: 87 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 218 ms]
+Parser loaded. [elapsed time: 206 ms]
 
 
 
@@ -1230,16 +1230,16 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
- after 2609 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+ after 3028 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1249,11 +1249,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 1.44
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1263,11 +1263,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1277,26 +1277,26 @@ Merging abort: hash is choosen too small. Rescale factor increased to 4.29981695
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
 merge time: 3 s
 
 
 
 
-Processing finished. [elapsed time: 7 s 39 ms]
+Processing finished. [elapsed time: 7 s 43 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -1305,79 +1305,79 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=32461
 AbstractExporterImpl: Using bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 707 ms]
+Export finished. [elapsed time: 722 ms]
 
 
-Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.05gram
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.internal.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.tok.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.src
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.internal.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.wnc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.3333952208441666622.tmp.wswn
+Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.05gram
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.tok
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.wswn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.internal.wf.bow
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.sidx
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.8226887672531789137.tmp.internal.wn
 
 Generation of letter n-grams of size 5 finished.
 
 Processing letter n-grams of size 6 ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
 sentences are tokenized. [elapsed time: 394 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 592 ms]
+word numbers generated. [elapsed time: 639 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 188 ms]
+wswn generated. [elapsed time: 231 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 52 ms]
+word numbers complete file is generated. [elapsed time: 53 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.src
 10000 words loaded20000 words loaded30000 words loaded40000 words loaded50000 words loaded
 First 51422 of 51422 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 2 s 3 ms]
+IDX-file is written. [elapsed time: 1 s 61 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 123 ms]
+BOW word frequencies counted. [elapsed time: 118 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
 
 
 
@@ -1428,7 +1428,7 @@ filter component is written. [elapsed time: 80 ms]
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 229 ms]
+Parser loaded. [elapsed time: 231 ms]
 
 
 
@@ -1441,16 +1441,16 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
- after 2600 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+ after 3075 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1460,11 +1460,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 1.44
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1474,11 +1474,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.couldn't add data set
@@ -1488,26 +1488,26 @@ Merging abort: hash is choosen too small. Rescale factor increased to 4.29981695
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
-merge time: 0 s
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+merge time: 3 s
 
 
 
 
-Processing finished. [elapsed time: 4 s 38 ms]
+Processing finished. [elapsed time: 7 s 41 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -1516,79 +1516,79 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=32376
 AbstractExporterImpl: Using bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 725 ms]
+Export finished. [elapsed time: 729 ms]
 
 
-Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.06gram
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.internal.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.tok.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.wswn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.internal.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.wnc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.4321754862686204990.tmp.src
+Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.06gram
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.sidx
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.internal.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.tok
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.internal.wf.bow
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.5682096963401106321.tmp.wswn
 
 Generation of letter n-grams of size 6 finished.
 
 Processing letter n-grams of size 7 ...
-Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp
-Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
-Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.tok
+Copy from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp
+Processing corpus: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp with filter: eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl
+Checking whether sentence file is tokenized: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 375 ms]
+sentences are tokenized. [elapsed time: 370 ms]
 
 
-Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.internal.wn
+Checking whether word numbers were computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.internal.wn
 Generating word numbers ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 482 ms]
+word numbers generated. [elapsed time: 474 ms]
 
 
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.wswn
+Checking whether word numbers needs transformation into wortschatz word numbers (wswn): tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 218 ms]
+wswn generated. [elapsed time: 230 ms]
 
 
-Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.wnc
+Checking whether word numbers complete file is created: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 29 ms]
+word numbers complete file is generated. [elapsed time: 28 ms]
 
 
-Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.sidx
+Checking whether idx file was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.sidx
 Writing IDX-file ...
 MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.src
+AbstractInputImpl: loading sources from: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.src
 10000 words loaded20000 words loaded30000 words loaded40000 words loaded50000 words loaded
 First 55776 of 55776 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 1 s 19 ms]
+IDX-file is written. [elapsed time: 1 s 20 ms]
 
 
-Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.internal.wf.bow
+Checking whether bow word frequencies was computed already in file: tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 80 ms]
+BOW word frequencies counted. [elapsed time: 78 ms]
 
 
-Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Checking whether hash file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
 
 
 
@@ -1634,12 +1634,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 77 ms]
+filter component is written. [elapsed time: 78 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 185 ms]
+Parser loaded. [elapsed time: 183 ms]
 
 
 
@@ -1652,16 +1652,16 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
- after 2670 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+ after 3036 ms finshed.
 
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1671,11 +1671,11 @@ Merging abort: hash is choosen too small. Rescale factor increased to 1.44
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -1685,25 +1685,25 @@ Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
 
 Merging started ...
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
-merge time: 0 s
+Removing tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.ram-swap.1
+merge time: 3 s
 
 
 
-Processing finished. [elapsed time: 4 s 18 ms]
+Processing finished. [elapsed time: 7 s 33 ms]
 
 
-Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
+Checking whether export file was filled already in file tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.IDFeatureFlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.LogLikelihood2SignificanceImpl
@@ -1712,26 +1712,26 @@ AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencyS
 n=32038
 AbstractExporterImpl: Using bow word frequencies
 1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 664 ms]
+Export finished. [elapsed time: 682 ms]
 
 
-Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.07gram
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.sidx
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.tok.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.wswn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.src
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.db
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.para_s
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.internal.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.fc
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.wf
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.internal.wf.bow
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.internal.wn
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.tok
-Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.2001134328475411084.tmp.wnc
+Copy distribution from tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.wnc to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.07gram
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.para_s
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.tok.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.internal.wf
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.db
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.tok
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.internal.wn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.wnc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.fc
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.internal.wf.bow
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.sidx
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.wswn
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.src
+Deleting file /home/ec2-user/digital-methods-in-practice/tracer/tmp/eu.etrap.tracer.AbstractTracerFrameWork.checkPreRequirements.127.1755889342336140369.tmp.eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl.hash.lgl2.expo
 
 Generation of letter n-grams of size 7 finished.
 
@@ -1753,16 +1753,16 @@ Preprocessing baseform graph is finished and stored in data/corpora/1_2_vulgata_
 
 Preprocessing synonym graph in data/corpora/1_vulgata_francorum/latin.syns ...
 Total number of loaded word forms is 46233
-Total number of loaded directed/indirected associations is 488
-Number of directed associations is 322
-Number of total replacement candidates is 318
-Total number of directed associations is 318
+Total number of loaded directed/indirected associations is 1706
+Number of directed associations is 1043
+Number of total replacement candidates is 609
+Total number of directed associations is 609
 Preprocessing synonym graph is finished and stored in data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.sim.prep ...
 
 
 Using implementation eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl for preprocessing.
 Starting to load mapping from word to lemma from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.base.prep ... FINISHED. Loaded 6909 datasets.
-Starting to load mapping from word to synonym from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.sim.prep ... FINISHED. Loaded 322 datasets.
+Starting to load mapping from word to synonym from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.sim.prep ... FINISHED. Loaded 1043 datasets.
 Storing data in foler data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5
 Preprocessing infile=data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep
 Start pre-processing ...
@@ -1776,7 +1776,7 @@ Processing corpus: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_
 Checking whether sentence file is tokenized: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 369 ms]
+sentences are tokenized. [elapsed time: 667 ms]
 
 
 Checking whether word numbers were computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wn
@@ -1786,18 +1786,18 @@ AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-method
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: loading sources from: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 875 ms]
+word numbers generated. [elapsed time: 598 ms]
 
 
 Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.wnc
-wswn generated. [elapsed time: 364 ms]
+wswn generated. [elapsed time: 209 ms]
 
 
 Checking whether word numbers complete file is created: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 23 ms]
+word numbers complete file is generated. [elapsed time: 24 ms]
 
 
 Checking whether idx file was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.sidx
@@ -1807,16 +1807,16 @@ AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-method
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: loading sources from: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.src
 10000 words loaded20000 words loaded30000 words loaded40000 words loaded
-First 41606 of 41606 words will be hold in memory.
+First 41332 of 41332 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 1 s 27 ms]
+IDX-file is written. [elapsed time: 1 s 26 ms]
 
 
 Checking whether bow word frequencies was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 84 ms]
+BOW word frequencies counted. [elapsed time: 81 ms]
 
 
 Checking whether hash file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash
@@ -1865,12 +1865,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 59 ms]
+filter component is written. [elapsed time: 55 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 592 ms]
+Parser loaded. [elapsed time: 556 ms]
 
 
 
@@ -1884,7 +1884,7 @@ Processing ...
 Merging started ...
 final swapping ram hash on disc:
 /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
- after 5183 ms finshed.
+ after 5097 ms finshed.
 
 
 Opening swap files
@@ -1923,7 +1923,7 @@ Opening swap files
 Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
-1000 buckets merged.2000 buckets merged.couldn't add data set
+1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.couldn't add data set
 Merging abort: hash is choosen too small. Rescale factor increased to 4.299816959999999
 
 
@@ -1941,18 +1941,18 @@ Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_s
 Merging finished ...
 Deleting swap files ...
 Removing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
-merge time: 6 s
+merge time: 5 s
 
 
 
 
-Processing finished. [elapsed time: 12 s 18 ms]
+Processing finished. [elapsed time: 12 s 0 ms]
 
 
 Checking whether export file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.inv
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.PositionalInvertedListFlatFileExporterImpl
-Export finished. [elapsed time: 805 ms]
+Export finished. [elapsed time: 775 ms]
 
 
 Positional inverted list created.
@@ -1977,7 +1977,7 @@ Checking whether hash file was filled already in file data/corpora/1_2_vulgata_f
 Checking whether export file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.lgl2.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.PositionalInvertedListFlatFileExporterImpl
-Export finished. [elapsed time: 554 ms]
+Export finished. [elapsed time: 582 ms]
 
 
 Positional inverted list created ...
@@ -2011,9 +2011,9 @@ Weighting features for 1 selection strategies.
 	Sorting file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/1_2_vulgata_francorum.train ... DONE.
 	Reading train file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/1_2_vulgata_francorum.train
 	Global feature distribution stored by key GlobalFeatureFrequencyDistribution
-	Feature IDs range from 101 to 53992.
+	Feature IDs range from 101 to 53945.
 	Weighting features by word frequency ...
-	Loading feature weights from file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/1_2_vulgata_francorum.train.wordfreq.asc.sorted ... DONE! 41606 feature weights loaded.
+	Loading feature weights from file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/1_2_vulgata_francorum.train.wordfreq.asc.sorted ... DONE! 41332 feature weights loaded.
 	451262 feature tokens are selected out of 564004 by a configured feature density of 0.8 (configured: 0.8).
 	Writing meta information ... DONE!
 [1/1]: DONE.
@@ -2054,7 +2054,7 @@ OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-
 	Scoring data 
 		FROM data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/1_2_vulgata_francorum-1_2_vulgata_francorum.link ...
 		TO data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_false_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/1_2_vulgata_francorum-1_2_vulgata_francorum.score ...
-		100000 re-use candidates processed. Selection by scoring is 0,0000000%.		200000 re-use candidates processed. Selection by scoring is 0,0000000%.		300000 re-use candidates processed. Selection by scoring is 0,0000000%.		400000 re-use candidates processed. Selection by scoring is 0,0000000%.		500000 re-use candidates processed. Selection by scoring is 0,0000000%.		600000 re-use candidates processed. Selection by scoring is 0,0000000%.		700000 re-use candidates processed. Selection by scoring is 0,0000000%.		800000 re-use candidates processed. Selection by scoring is 0,0000000%.		900000 re-use candidates processed. Selection by scoring is 0,0000000%.		1000000 re-use candidates processed. Selection by scoring is 0,0000000%.		1100000 re-use candidates processed. Selection by scoring is 0,0000000%.		1200000 re-use candidates processed. Selection by scoring is 0,0000000%.		1300000 re-use candidates processed. Selection by scoring is 0,0000000%.		1400000 re-use candidates processed. Selection by scoring is 0,0000000%.		1500000 re-use candidates processed. Selection by scoring is 0,0000000%.		1600000 re-use candidates processed. Selection by scoring is 0,0000000%.		1700000 re-use candidates processed. Selection by scoring is 0,0000000%.		1800000 re-use candidates processed. Selection by scoring is 0,0000000%.		1900000 re-use candidates processed. Selection by scoring is 0,0000000%.		2000000 re-use candidates processed. Selection by scoring is 0,0000000%.		2100000 re-use candidates processed. Selection by scoring is 0,0000000%.		2200000 re-use candidates processed. Selection by scoring is 0,0000000%.
+		100000 re-use candidates processed. Selection by scoring is 0,0000000%.		200000 re-use candidates processed. Selection by scoring is 0,0000000%.		300000 re-use candidates processed. Selection by scoring is 0,0000000%.		400000 re-use candidates processed. Selection by scoring is 0,0000000%.		500000 re-use candidates processed. Selection by scoring is 0,0000000%.		600000 re-use candidates processed. Selection by scoring is 0,0000000%.		700000 re-use candidates processed. Selection by scoring is 0,0000000%.		800000 re-use candidates processed. Selection by scoring is 0,0000000%.		900000 re-use candidates processed. Selection by scoring is 0,0000000%.		1000000 re-use candidates processed. Selection by scoring is 0,0000000%.		1100000 re-use candidates processed. Selection by scoring is 0,0000000%.		1200000 re-use candidates processed. Selection by scoring is 0,0000000%.		1300000 re-use candidates processed. Selection by scoring is 0,0000000%.		1400000 re-use candidates processed. Selection by scoring is 0,0000000%.		1500000 re-use candidates processed. Selection by scoring is 0,0000000%.		1600000 re-use candidates processed. Selection by scoring is 0,0000000%.		1700000 re-use candidates processed. Selection by scoring is 0,0000000%.		1800000 re-use candidates processed. Selection by scoring is 0,0000000%.		1900000 re-use candidates processed. Selection by scoring is 0,0000000%.		2000000 re-use candidates processed. Selection by scoring is 0,0000000%.		2100000 re-use candidates processed. Selection by scoring is 0,0000000%.		2200000 re-use candidates processed. Selection by scoring is 0,0000000%.		2300000 re-use candidates processed. Selection by scoring is 0,0000000%.		2400000 re-use candidates processed. Selection by scoring is 0,0000000%.
 	DONE!!
 
 END OF PROCESS LEVEL 5 (SCORING)
