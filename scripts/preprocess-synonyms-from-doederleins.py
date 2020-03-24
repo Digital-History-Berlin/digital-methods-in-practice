@@ -32,8 +32,8 @@ for syn_entry in synonyms:
     syn_lemma = syn_entry_list[0]
 
     for i in range(1, len(syn_entry_list)):
-        synonyms_tracer += syn_lemma + "\t" + syn_entry_list[i] + "\n"
-        synonyms_tracer += syn_entry_list[i] + "\t" + syn_lemma + "\n"
+        synonyms_tracer += syn_lemma.lower() + "\t" + syn_entry_list[i].lower() + "\n"
+        synonyms_tracer += syn_entry_list[i].lower() + "\t" + syn_lemma.lower() + "\n"
 
 synonyms_tracer_file = open("data/latin.syns", "w")
 synonyms_tracer_file.write(synonyms_tracer)
