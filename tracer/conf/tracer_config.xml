@@ -7,12 +7,12 @@
         <!-- TRACER general configurations -->
         <property name="FRAMEWORK_IMPL" value="eu.etrap.tracer.DefaultFrameWorkImpl" />
         <property name="PREPROCESSING_IMPL" value="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl" />
-        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/>
-        <!-- <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl"/> -->
+        <!--property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/-->
+        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl"/>
         <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl"/>
         <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
-        <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.asymmetric.SelectedFeatureContainmentSimilarityImpl"/>
-        <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.FeatureColumnPostProcessingImpl"/>
+        <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
+        <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl"/>
         
         <property name="SENTENCE_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt" />
         <property name="BASEFORM_FILE_NAME" value="data/corpora/1_vulgata_francorum/1_vulgata_francorum.lemma" />
@@ -77,8 +77,8 @@
     </category>
 
     <category name="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl">
-        <property name="boolLemmatisation" value="true" />
-        <property name="boolReplaceSynonyms" value="true" />
+        <property name="boolLemmatisation" value="false" />
+        <property name="boolReplaceSynonyms" value="false" />
         <property name="boolReplaceStringSimilarWords" value="false" />
         <property name="boolRemoveDiachritics" value="false" />
         <property name="boolMakeAllLowerCase" value="true" />
@@ -126,7 +126,6 @@
     <category name="eu.etrap.tracer.selection.globallocal.GlobalWordClassSelectorImpl">
         <property name="dblFeatureDensity" value="0.65" />
         <property name="strWordClassFileName" value="data/corpora/example/Lems/TLG.lem.pos.txt.tagged" />
-        <!-- <property name="strWordClassFileName" value="../data/Historia_Francorum/01 Segmentation/historia-francorum.lemma" /> -->
     </category>
 
     <category name="eu.etrap.tracer.selection.globallocal.GlobalBibleWordClassSelectorImpl">
@@ -265,7 +264,7 @@
     <category name="eu.etrap.tracer.linking.InterCorpusLinkingImpl">
         <property name="strRUID2FeatureImplementation" value="eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl" />
         <property name="strFeature2RUIDImplementation" value="eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl" />
-	<property name="intWorkNumbering" value="100000000" />
+	<property name="intWorkNumbering" value="1000000" />
 	<property name="intMinOverlap" value="2" />
     </category>
 
