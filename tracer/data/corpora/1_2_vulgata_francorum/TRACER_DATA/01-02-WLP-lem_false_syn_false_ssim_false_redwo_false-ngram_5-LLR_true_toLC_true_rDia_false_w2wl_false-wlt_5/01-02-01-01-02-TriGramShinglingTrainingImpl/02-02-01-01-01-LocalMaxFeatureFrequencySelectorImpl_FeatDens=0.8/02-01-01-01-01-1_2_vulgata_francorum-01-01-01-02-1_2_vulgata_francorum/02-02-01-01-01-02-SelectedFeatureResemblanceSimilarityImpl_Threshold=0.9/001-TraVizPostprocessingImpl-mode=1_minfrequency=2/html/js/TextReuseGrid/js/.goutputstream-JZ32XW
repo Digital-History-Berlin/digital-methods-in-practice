@@ -1,0 +1,128 @@
+var ReuseViz = new function(){
+
+	this.colors = [ "DarkBlue", "Crimson", "DarkGreen", "OrangeRed", "Gold", "Sienna", "Maroon" ];
+	this.sources = [ "ASV", "BasicEnglish", "Darby", "KJV", "Webster", "WEB", "YLT" ];
+	this.algo = 'pair';
+
+	var iid = 0;
+	this.getIndependentIndex = function(){
+		return ++iid;
+	}
+
+	var vid = 0;
+	this.getVertexIndex = function(){
+		return ++vid;
+	}
+
+	var history = [];
+
+	var prefix = "/tpp/req?url=http://localhost:8983";
+
+	this.initialize = function(){
+
+		this.books = getJson(prefix+"/solr/select/?wt=json&indent=on&q=title:*&rows=100").response.docs;
+		this.container = $('<div class="container"/>').appendTo($('#container')[0]);
+		var editionSelect = $("<table class='biblePos'></table>").appendTo(this.container);
+
+		this.reuse = $("<div style='text-align:center;overflow-y:auto;margin-top:20px;'></div>").appendTo(this.container);
+		this.reuseViz = $("<div id='reuse' style='display:block;'></div>").appendTo(this.reuse);
+
+		this.parallelView = $('<div class="parallelView"/>').appendTo(this.container);
+
+		this.goBack = $("<div class='goBack'></div>").appendTo(this.reuse);
+		$(this.goBack).click(function(){
+			history.pop();
+			if( history.length > 0 ){
+				var h = history[history.length-1];
+				ReuseViz.visualizeReuses(h.min1,h.max1,h.min2,h.max2);
+			}
+			else {
+				ReuseViz.visualizeBooks();
+				$(ReuseViz.goBack).css('display','none');
+			}
+		});
+
+		var titles = $("<tr></tr>").appendTo(editionSelect);
+		$("<td>Edition 1</td>").appendTo(titles);
+		$("<td>Edition 2</td>").appendTo(titles);
+		$("<td></td>").appendTo(titles);
+
+		var dropdowns = $("<tr></tr>").appendTo(editionSelect);
+		var cell1 = $('<td/>').appendTo(dropdowns);
+		var cell2 = $('<td/>').appendTo(dropdowns);
+		var cell3 = $('<td/>').appendTo(dropdowns);
+
+		this.selectEdition1 = $('<select></select>').appendTo(cell1);
+		$("<option>ASV</option>").appendTo(this.selectEdition1);
+		$("<option>BasicEnglish</option>").appendTo(this.selectEdition1);
+		$("<option>Darby</option>").appendTo(this.selectEdition1);
+		$("<option>KJV</option>").appendTo(this.selectEdition1);
+		$("<option>Webster</option>").appendTo(this.selectEdition1);
+		$("<option>WEB</option>").appendTo(this.selectEdition1);
+		$("<option>YLT</option>").appendTo(this.selectEdition1);
+
+		this.selectEdition2 = $(this.selectEdition1).clone().appendTo(cell2);
+		this.setEditions = $('<input type="button" value="Set Editions!">').appendTo(cell3);
+
+		var showReuses = function(){
+			$('option:selected',ReuseViz.selectEdition1).each(function(reuse,index){
+				ReuseViz.edition1 = $(this).val();
+			});
+			$('option:selected',ReuseViz.selectEdition2).each(function(reuse,ind){
+				ReuseViz.edition2 = $(this).val();
+			});
+			var index1 = -1, index2 = -1;
+			for( var i=0; i<ReuseViz.sources.length; i++ ){
+				if( ReuseViz.edition1 == ReuseViz.sources[i] ){
+					index1 = i;
+				}
+				if( ReuseViz.edition2 == ReuseViz.sources[i] ){
+					index2 = i;
+				}
+			}
+			if( index1 > index2 ){
+				var tmp = ReuseViz.edition2;
+				ReuseViz.edition2 = ReuseViz.edition1;
+				ReuseViz.edition1 = tmp;
+			}
+			ReuseViz.bookReuses = undefined;
+			ReuseViz.visualizeBooks();
+		}
+
+		$(this.setEditions).click(function(){
+			showReuses();
+		});
+
+		ReuseViz.edition1 = "ASV";
+		ReuseViz.edition2 = "ASV";
+		ReuseViz.book1 = { title: "2 Kings" };
+		ReuseViz.book2 = {title: "Isaiah" };
+		this.visualizeReuses(9535,10253,15195,16486);
+
+	}
+
+	var getJson = function(url) {
+		var data;
+		$.ajax({
+			url : url,
+			async : false,
+			dataType : 'json',
+			success : function(json) {
+				data = json;
+			}
+		});
+		return data;
+	}
+
+	this.visualizeBooks = function(){
+
+		ReuseViz.chapterReuses = undefined;
+
+		var setTooltip = function(node,book1,book2,reuses,rcc){
+			node.ttip = 0;
+			$(node).mouseenter(function(){
+				if( node.ttip == 0 ){
+					node.ttip = 1;
+					$(node).qtip({
+						content: {	
+							text: "<span style='font-size: 12px'>"+ReuseViz.edition1+":<span style='font-weight: bold'>&nbsp;"+book1.title+"<
