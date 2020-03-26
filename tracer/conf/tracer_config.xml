@@ -10,7 +10,7 @@
         <!--property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/-->
         <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl"/>
         <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl"/>
-        <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.IntraCorpusLinkingImpl"/>
+        <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
         <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
         <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl"/>
         
@@ -293,7 +293,7 @@
     </category>
 
     <category name="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl">
-        <property name="dblScoringThreshold" value="0.9" />
+        <property name="dblScoringThreshold" value="0.7" />
     </category>
 
 
