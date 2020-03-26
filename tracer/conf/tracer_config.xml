@@ -8,7 +8,7 @@
         <property name="FRAMEWORK_IMPL" value="eu.etrap.tracer.DefaultFrameWorkImpl" />
         <property name="PREPROCESSING_IMPL" value="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl" />
         <!--property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/-->
-        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl"/>
+        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl"/>
         <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl"/>
         <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
         <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
