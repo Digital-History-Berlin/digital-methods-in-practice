@@ -28,50 +28,31 @@ Generation of letter n-grams finished.
 
 START TO PROCESS LEVEL 1 (PRE-PROCESSING)
 
-Preprocessing baseform graph in data/corpora/1_vulgata_francorum/1_vulgata_francorum.lemma ...
-Total number of loaded word forms is 46233
-Total number of loaded directed/indirected associations is 10176
-Number of total replacement candidates is 24502
-Total number of directed associations is 24502
-Preprocessing baseform graph is finished and stored in data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.base.prep ...
-
-
-Preprocessing string similarity graph in data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.ssim ...
-Total number of loaded word forms is 46233
-Total number of loaded directed/indirected associations is 35617
-Number of directed associations is 26636
-Number of total replacement candidates is 12835
-Total number of directed associations is 12835
-Preprocessing string similarity graph is finished and stored in data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.ssim.prep ...
-
-
-Preprocessing synonym graph in data/corpora/1_vulgata_francorum/latin.syns ...
-Total number of loaded word forms is 46233
-Total number of loaded directed/indirected associations is 1706
-Number of directed associations is 1043
-Number of total replacement candidates is 609
-Total number of directed associations is 609
-Preprocessing synonym graph is finished and stored in data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.sim.prep ...
-
-
 Using implementation eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl for preprocessing.
 Starting to load mapping from word to lemma from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.base.prep ... FINISHED. Loaded 6909 datasets.
 Starting to load mapping from word to synonym from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.sim.prep ... FINISHED. Loaded 1043 datasets.
 Starting to load mapping from word to string similar word from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.ssim.prep ... FINISHED. Loaded 26636 datasets.
-Storing data in foler data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5
-Preprocessing infile=data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok to outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep
-Start pre-processing ...
-10000 lines processed ...20000 lines processed ...30000 lines processed ...strLevelMetaInformationFileName=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.meta
-Writing meta file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.meta
-Preprocessing finished.
+OUTPUT file outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep already exists
 
 
-Generating positional inverted list ...
-Processing corpus: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep with filter: eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl
+Inverted positional list data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.inv is already computed.
+
+
+
+END OF PROCESS LEVEL 1 (PRE-PROCESSING)
+
+
+
+START TO PROCESS LEVEL 2 (TRAINING)
+
+Using implementation eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl for training.
+Training from infile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep to outdir=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.train
+Training data by class eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl ...
+Processing corpus: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep with filter: eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl
 Checking whether sentence file is tokenized: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 1 s 28 ms]
+sentences are tokenized. [elapsed time: 1 s 30 ms]
 
 
 Checking whether word numbers were computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wn
@@ -81,18 +62,18 @@ AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-method
 Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
 AbstractInputImpl: loading sources from: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 1 s 32 ms]
+word numbers generated. [elapsed time: 1 s 31 ms]
 
 
 Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wswn
 Transforming word numbers ...
 Reading known numbers: data/wordlists/100-wn-all.txt
-wswn generated. [elapsed time: 193 ms]
+wswn generated. [elapsed time: 203 ms]
 
 
 Checking whether word numbers complete file is created: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 44 ms]
+word numbers complete file is generated. [elapsed time: 37 ms]
 
 
 Checking whether idx file was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.sidx
@@ -104,68 +85,68 @@ AbstractInputImpl: loading sources from: data/corpora/1_2_vulgata_francorum/TRAC
 10000 words loaded20000 words loaded
 First 25346 of 25346 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 1 s 40 ms]
+IDX-file is written. [elapsed time: 1 s 47 ms]
 
 
 Checking whether bow word frequencies was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 381 ms]
+BOW word frequencies counted. [elapsed time: 389 ms]
 
 
-Checking whether hash file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash
-using DEFAULT free mem: 15728640
+Checking whether hash file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash
 
 
 
 
 MEDUSA'S TECHNICAL CONFIGURATION MODULE (MTCM)
-using heuristic implemenation: eu.etrap.medusa.config.PositionalInvertedListMemoryAllocatorImpl
+using heuristic implemenation: eu.etrap.medusa.config.DefaultMemoryAllocatorImpl
 
 checking jvm size ...
 no restrictions are neccessary.
 
 DATASET FORMAT DESCRIPTION
 intSizeOfWordNumbers		:            2
-intSizeOfSentenceNumber		:            4
-intSizeOfPosition		:            3
+intFreqSizeOfArrayHash		:            2
 intFreqSizeOfRAMHash		:            1
 intFreqSizeOfDiscHash		:            2
-intSizeOfDataSetRAMHash		:           10
+intSizeOfDataSetArrayHash	:            2
+intSizeOfDataSetRAMHash		:            5
 intSizeOfDataSetDiscHash	:            6
 
 
 MEDUSA'S HASH CONFIGURATION
 BLOCKS 				:       65.536
 BLOCK_SIZE			:        8.192
-intDataSetsPerBucket		:          678
+intArrayEntries			:        2.291
+intDataSetsPerBucket		:          866
 
 MEMORY USAGE
-array hash size 		:            0 (disabled)
-ram hash size			:  444.465.152
-free mem			:  163.708.928
+array hash size 		:   10.497.362
+ram hash size			:  283.901.952
+free mem			:  313.774.766
 total				:  608.174.080 (580.0 MB)
 
 
 
 
 RESERVED HASH ADRESSES
-array hash			:            0 (disabled)
-ram hash			:   44.433.408
-total				:   44.433.408
+array hash			:    5.248.681
+ram hash			:   56.754.176
+total				:   62.002.857
 
 
 Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 135 ms]
+filter component is written. [elapsed time: 156 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 792 ms]
+Parser loaded. [elapsed time: 515 ms]
 
 
 
@@ -178,171 +159,16 @@ Processing ...
 
 Merging started ...
 final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
- after 5350 ms finshed.
+/home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash.ram-swap.1
+ after 2476 ms finshed.
 
 
 Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 1.44
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 4.299816959999999
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
-Merging finished ...
-Deleting swap files ...
-Removing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
-merge time: 5 s
-
-
-
-
-Processing finished. [elapsed time: 12 s 30 ms]
-
-
-Checking whether export file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.inv
-Exporting ...
-EXPORTER_IMPL: eu.etrap.medusa.export.PositionalInvertedListFlatFileExporterImpl
-Export finished. [elapsed time: 719 ms]
-
-
-Positional inverted list created.
-
-END OF PROCESS LEVEL 1 (PRE-PROCESSING)
-
-
-
-START TO PROCESS LEVEL 2 (TRAINING)
-
-Using implementation eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl for training.
-Training from infile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep to outdir=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.train
-Training data by class eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl ...
-Processing corpus: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep with filter: eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl
-Checking whether sentence file is tokenized: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.tok
-Checking whether word numbers were computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wn
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wswn
-Checking whether word numbers complete file is created: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc
-Checking whether idx file was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.sidx
-Checking whether bow word frequencies was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wf.bow
-Checking whether hash file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash
-using DEFAULT free mem: 15728640
-
-
-
-
-MEDUSA'S TECHNICAL CONFIGURATION MODULE (MTCM)
-using heuristic implemenation: eu.etrap.medusa.config.NGramMemoryAllocatorImpl
-
-checking jvm size ...
-no restrictions are neccessary.
-
-DATASET FORMAT DESCRIPTION
-intSizeOfWordNumbers		:            2
-intFreqSizeOfArrayHash		:            2 (disabled)
-intFreqSizeOfRAMHash		:            2
-intFreqSizeOfDiscHash		:            2
-intSizeOfDataSetArrayHash	:            2 (disabled)
-intSizeOfDataSetRAMHash		:            8
-intSizeOfDataSetDiscHash	:            6
-
-
-MEDUSA'S HASH CONFIGURATION
-BLOCKS 				:       65.536
-BLOCK_SIZE			:        8.192
-intArrayEntries			:            0 (disabled)
-intDataSetsPerBucket		:          843
-
-MEMORY USAGE
-array hash size 		:            0 (disabled)
-ram hash size			:  442.105.856
-free mem			:  166.068.224
-total				:  608.174.080 (580.0 MB)
-
-
-
-
-RESERVED HASH ADRESSES
-array hash			:            0 (disabled)
-ram hash			:   55.246.848
-total				:   55.246.848
-
-
-Creating filter component ...
-stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 78 ms]
-
-
-Loading parser ...
-HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 253 ms]
-
-
-
-
-
-Processing ...
-1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-
-
-
-Merging started ...
-final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1
- after 5445 ms finshed.
-
-
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 couldn't add data set
@@ -352,53 +178,38 @@ Merging abort: hash is choosen too small. Rescale factor increased to 1.44
 
 Merging started ...
 Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
+Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
 1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
 Merging finished ...
 Deleting swap files ...
-Removing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1
-merge time: 6 s
+Removing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash.ram-swap.1
+merge time: 0 s
 
 
+Processing finished. [elapsed time: 4 s 35 ms]
 
-Processing finished. [elapsed time: 12 s 22 ms]
 
-
-Checking whether export file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.freq.expo
+Checking whether export file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXRightBiGramFilterImpl.hash.freq.expo
 Exporting ...
-EXPORTER_IMPL: eu.etrap.medusa.export.NGramFlatFileExporterImpl
+EXPORTER_IMPL: eu.etrap.medusa.export.FlatFileExporterImpl
 AbstractExporter.loadSignificance: eu.etrap.medusa.significance.FrequencySignificanceImpl
-n=499070
+n=531535
 AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencySignificanceImpl
-n=499070
+n=531535
 AbstractExporterImpl: Using non-bow word frequencies
 threshold=0.0	minimum frequency=0	cutoff threshold=0.0	cutoff minimum frequency=0
-1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 1 s 10 ms]
+1000 buckets exported.2000 buckets exported.3000 buckets exported.4000 buckets exported.5000 buckets exported.6000 buckets exported.7000 buckets exported.8000 buckets exported.9000 buckets exported.10000 buckets exported.11000 buckets exported.12000 buckets exported.13000 buckets exported.14000 buckets exported.15000 buckets exported.16000 buckets exported.17000 buckets exported.18000 buckets exported.19000 buckets exported.20000 buckets exported.21000 buckets exported.22000 buckets exported.23000 buckets exported.24000 buckets exported.25000 buckets exported.26000 buckets exported.27000 buckets exported.28000 buckets exported.29000 buckets exported.30000 buckets exported.31000 buckets exported.32000 buckets exported.33000 buckets exported.34000 buckets exported.35000 buckets exported.36000 buckets exported.37000 buckets exported.38000 buckets exported.39000 buckets exported.40000 buckets exported.41000 buckets exported.42000 buckets exported.43000 buckets exported.44000 buckets exported.45000 buckets exported.46000 buckets exported.47000 buckets exported.48000 buckets exported.49000 buckets exported.50000 buckets exported.51000 buckets exported.52000 buckets exported.53000 buckets exported.54000 buckets exported.55000 buckets exported.56000 buckets exported.57000 buckets exported.58000 buckets exported.59000 buckets exported.60000 buckets exported.61000 buckets exported.62000 buckets exported.63000 buckets exported.64000 buckets exported.65000 buckets exported.
+Export finished. [elapsed time: 2 s 49 ms]
 
 
 
-Training of corpus by class eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl finished.
+Training of corpus by class eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl finished.
 
 Copy from data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.kn
 Generating positional inverted list ...
@@ -406,47 +217,47 @@ Processing corpus: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_
 Checking whether sentence file is tokenized: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.tok
 Tokenizing sentence file ...
 10000 lines processed.20000 lines processed.30000 lines processed.
-sentences are tokenized. [elapsed time: 755 ms]
+sentences are tokenized. [elapsed time: 841 ms]
 
 
 Checking whether word numbers were computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wn
 Generating word numbers ...
-MWU_FILE_NAME: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.trigram.shingle
-AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.trigram.shingle
-408584 different mwu's found and loaded.
+MWU_FILE_NAME: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.bigram.shingle
+AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.bigram.shingle
+237864 different mwu's found and loaded.
 AbstractInputImpl: loading sources from: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.src
 10000 lines processed.20000 lines processed.30000 lines processed.
-word numbers generated. [elapsed time: 10 s 25 ms]
+word numbers generated. [elapsed time: 8 s 29 ms]
 
 
 Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wswn
 Transforming word numbers ...
 Reading known numbers: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.kn
-wswn generated. [elapsed time: 3 s 5 ms]
+wswn generated. [elapsed time: 3 s 8 ms]
 
 
 Checking whether word numbers complete file is created: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc
 Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 551 ms]
+word numbers complete file is generated. [elapsed time: 550 ms]
 
 
 Checking whether idx file was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.sidx
 Writing IDX-file ...
-MWU_FILE_NAME: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.trigram.shingle
-AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.trigram.shingle
-408584 different mwu's found and loaded.
+MWU_FILE_NAME: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.bigram.shingle
+AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.bigram.shingle
+237864 different mwu's found and loaded.
 AbstractInputImpl: loading sources from: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.src
-10000 words loaded20000 words loaded30000 words loaded40000 words loaded50000 words loaded60000 words loaded70000 words loaded80000 words loaded90000 words loaded100000 words loaded110000 words loaded120000 words loaded130000 words loaded140000 words loaded150000 words loaded160000 words loaded170000 words loaded180000 words loaded190000 words loaded200000 words loaded210000 words loaded220000 words loaded230000 words loaded240000 words loaded250000 words loaded260000 words loaded270000 words loaded280000 words loaded290000 words loaded300000 words loaded310000 words loaded320000 words loaded330000 words loaded340000 words loaded350000 words loaded360000 words loaded370000 words loaded380000 words loaded390000 words loaded400000 words loaded410000 words loaded420000 words loaded430000 words loaded
-First 433930 of 433930 words will be hold in memory.
+10000 words loaded20000 words loaded30000 words loaded40000 words loaded50000 words loaded60000 words loaded70000 words loaded80000 words loaded90000 words loaded100000 words loaded110000 words loaded120000 words loaded130000 words loaded140000 words loaded150000 words loaded160000 words loaded170000 words loaded180000 words loaded190000 words loaded200000 words loaded210000 words loaded220000 words loaded230000 words loaded240000 words loaded250000 words loaded260000 words loaded
+First 263210 of 263210 words will be hold in memory.
 10000 lines processed.20000 lines processed.30000 lines processed.
-IDX-file is written. [elapsed time: 10 s 52 ms]
+IDX-file is written. [elapsed time: 8 s 32 ms]
 
 
 Checking whether bow word frequencies was computed already in file: data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.internal.wf.bow
 Creating BOW word frequencies ...
 HARD_DISC_BLOCK=1048576
 1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed29000 sentences processed30000 sentences processed31000 sentences processed32000 sentences processed
-BOW word frequencies counted. [elapsed time: 852 ms]
+BOW word frequencies counted. [elapsed time: 837 ms]
 
 
 Checking whether hash file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash
@@ -477,7 +288,7 @@ BLOCK_SIZE			:        8.192
 intDataSetsPerBucket		:          616
 
 MEMORY USAGE
-array hash size 		:            0 (disabled)
+array hash size 		:            0
 ram hash size			:  444.203.008
 free mem			:  163.971.072
 total				:  608.174.080 (580.0 MB)
@@ -486,7 +297,7 @@ total				:  608.174.080 (580.0 MB)
 
 
 RESERVED HASH ADRESSES
-array hash			:            0 (disabled)
+array hash			:            0
 ram hash			:   40.370.176
 total				:   40.370.176
 
@@ -495,12 +306,12 @@ Creating filter component ...
 stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
 WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 336 ms]
+filter component is written. [elapsed time: 194 ms]
 
 
 Loading parser ...
 HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 618 ms]
+Parser loaded. [elapsed time: 572 ms]
 
 
 
@@ -514,7 +325,7 @@ Processing ...
 Merging started ...
 final swapping ram hash on disc:
 /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
- after 5527 ms finshed.
+ after 4914 ms finshed.
 
 
 Opening swap files
@@ -553,7 +364,7 @@ Opening swap files
 Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
 1 swap files opened.
 
-couldn't add data set
+1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.couldn't add data set
 Merging abort: hash is choosen too small. Rescale factor increased to 4.299816959999999
 
 
@@ -571,40 +382,40 @@ Try to open "data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_s
 Merging finished ...
 Deleting swap files ...
 Removing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
-merge time: 5 s
+merge time: 4 s
 
 
 
 
-Processing finished. [elapsed time: 12 s 49 ms]
+Processing finished. [elapsed time: 13 s 27 ms]
 
 
 Checking whether export file was filled already in file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.freq.expo
 Exporting ...
 EXPORTER_IMPL: eu.etrap.medusa.export.PositionalInvertedListFlatFileExporterImpl
-Export finished. [elapsed time: 1 s 3 ms]
+Export finished. [elapsed time: 1 s 6 ms]
 
 
 Positional inverted list created ...
 
-Writing feats file from data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.feats
+Writing feats file from data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.feats
 Feats file finally written.
 
 
-Writing fmap file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.fmap
+Writing fmap file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.fmap
 Loading word numbers from data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc
 Word are loaded.
 
 Fmap file finally written.
 
 
-Writing train file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.train
+Writing train file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.train
 Loading ngram id's from  data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.wnc
 Ngram id's are loaded.
 
 Train file finally written.
 
-Writing meta file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.meta
+Writing meta file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.meta
 
 END OF PROCESS LEVEL 2 (TRAINING)
 
@@ -615,23 +426,23 @@ START TO PROCESS LEVEL 3 (SELECTION)
 1 of 1 configured selection implementations need to be excecuted. 0 selection strategies are already pre-computed.
 
 Using 1 implementation(s) eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl for selection.
-Selection done from infile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.train to outdir=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel
+Selection done from infile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.train to outdir=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel
 Weighting features for 1 selection strategies.
 [1/1]: Computing features weights for selection strategies eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl
-	Sorting file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.train ... DONE.
-	Reading train file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.train
+	Sorting file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.train ... DONE.
+	Reading train file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.train
 	Global feature distribution stored by key GlobalFeatureFrequencyDistribution
-	Feature IDs range from 25447 to 434030.
+	Feature IDs range from 25447 to 263310.
 	Weighting features by word frequency ...
-	Loading feature weights from file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/1_2_vulgata_francorum.train.wordfreq.asc.sorted ... DONE! 408584 feature weights loaded.
-	399621 feature tokens are selected out of 499532 by a configured feature density of 0.8 (configured: 0.8).
+	Loading feature weights from file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/1_2_vulgata_francorum.train.wordfreq.asc.sorted ... DONE! 237864 feature weights loaded.
+	425139 feature tokens are selected out of 531535 by a configured feature density of 0.8 (configured: 0.8).
 	Writing meta information ... DONE!
 [1/1]: DONE.
 
 
 Creating multiple selection for ... 
-	[1/1]: Still 399621 selected features after processing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/01-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel
-Writing final selection file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel ...DONE!
+	[1/1]: Still 425139 selected features after processing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/01-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel
+Writing final selection file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel ...DONE!
 	Writing meta information ... DONE!
 
 END OF PROCESS LEVEL 3 (SELECTION)
@@ -641,15 +452,15 @@ END OF PROCESS LEVEL 3 (SELECTION)
 START TO PROCESS LEVEL 4 (LINKING)
 
 Using eu.etrap.tracer.linking.InterCorpusLinkingImpl implementation  for linking.
-OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/1_2_vulgata_francorum-1_2_vulgata_francorum.link ... 
+OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/1_2_vulgata_francorum-1_2_vulgata_francorum.link ... 
 	Preparing RUID2Feature connector by implementation in eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl
 	DONE!
 
 	Preparing Feature2RUID connector by implementation in eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl
 	DONE!
 
-	Linking process started for 32404 fingerprinted re-use units
-		1000 re-use units processed. 3% DONE!		2000 re-use units processed. 6% DONE!		3000 re-use units processed. 9% DONE!		4000 re-use units processed. 12% DONE!		5000 re-use units processed. 15% DONE!		6000 re-use units processed. 18% DONE!		7000 re-use units processed. 21% DONE!		8000 re-use units processed. 24% DONE!		9000 re-use units processed. 27% DONE!		10000 re-use units processed. 30% DONE!		11000 re-use units processed. 33% DONE!		12000 re-use units processed. 37% DONE!		13000 re-use units processed. 40% DONE!		14000 re-use units processed. 43% DONE!		15000 re-use units processed. 46% DONE!		16000 re-use units processed. 49% DONE!		17000 re-use units processed. 52% DONE!		18000 re-use units processed. 55% DONE!		19000 re-use units processed. 58% DONE!		20000 re-use units processed. 61% DONE!		21000 re-use units processed. 64% DONE!		22000 re-use units processed. 67% DONE!		23000 re-use units processed. 70% DONE!		24000 re-use units processed. 74% DONE!		25000 re-use units processed. 77% DONE!		26000 re-use units processed. 80% DONE!		27000 re-use units processed. 83% DONE!		28000 re-use units processed. 86% DONE!		29000 re-use units processed. 89% DONE!		30000 re-use units processed. 92% DONE!		31000 re-use units processed. 95% DONE!		32000 re-use units processed. 98% DONE!		32404 re-use units processed. 100% DONE!
+	Linking process started for 32465 fingerprinted re-use units
+		1000 re-use units processed. 3% DONE!		2000 re-use units processed. 6% DONE!		3000 re-use units processed. 9% DONE!		4000 re-use units processed. 12% DONE!		5000 re-use units processed. 15% DONE!		6000 re-use units processed. 18% DONE!		7000 re-use units processed. 21% DONE!		8000 re-use units processed. 24% DONE!		9000 re-use units processed. 27% DONE!		10000 re-use units processed. 30% DONE!		11000 re-use units processed. 33% DONE!		12000 re-use units processed. 36% DONE!		13000 re-use units processed. 40% DONE!		14000 re-use units processed. 43% DONE!		15000 re-use units processed. 46% DONE!		16000 re-use units processed. 49% DONE!		17000 re-use units processed. 52% DONE!		18000 re-use units processed. 55% DONE!		19000 re-use units processed. 58% DONE!		20000 re-use units processed. 61% DONE!		21000 re-use units processed. 64% DONE!		22000 re-use units processed. 67% DONE!		23000 re-use units processed. 70% DONE!		24000 re-use units processed. 73% DONE!		25000 re-use units processed. 77% DONE!		26000 re-use units processed. 80% DONE!		27000 re-use units processed. 83% DONE!		28000 re-use units processed. 86% DONE!		29000 re-use units processed. 89% DONE!		30000 re-use units processed. 92% DONE!		31000 re-use units processed. 95% DONE!		32000 re-use units processed. 98% DONE!		32465 re-use units processed. 100% DONE!
 	DONE!!
 
 END OF PROCESS LEVEL 4 (LINKING)
@@ -659,11 +470,11 @@ END OF PROCESS LEVEL 4 (LINKING)
 START TO PROCESS LEVEL 5 (SCORING)
 
 Using eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl implementation  for scoring.
-OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/1_2_vulgata_francorum-1_2_vulgata_francorum.score ... 
-	Preparing data from data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel ...
+OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/1_2_vulgata_francorum-1_2_vulgata_francorum.score ... 
+	Preparing data from data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/1_2_vulgata_francorum.sel ...
 	Scoring data 
-		FROM data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/1_2_vulgata_francorum-1_2_vulgata_francorum.link ...
-		TO data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/1_2_vulgata_francorum-1_2_vulgata_francorum.score ...
+		FROM data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/1_2_vulgata_francorum-1_2_vulgata_francorum.link ...
+		TO data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/1_2_vulgata_francorum-1_2_vulgata_francorum.score ...
 
 	DONE!!
 
@@ -674,9 +485,9 @@ END OF PROCESS LEVEL 5 (SCORING)
 START TO PROCESS LEVEL 6 (POSTPROCESING)
 
 Using eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl implementation  for postprocessing.
-OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/001-TraVizPostprocessingImpl-mode=1_minfrequency=2/1_2_vulgata_francorum-1_2_vulgata_francorum.pproc ... 
+OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/001-TraVizPostprocessingImpl-mode=1_minfrequency=2/1_2_vulgata_francorum-1_2_vulgata_francorum.pproc ... 
 Corpus file name         : data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt
-TRACER's score file name : data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/1_2_vulgata_francorum-1_2_vulgata_francorum.score
+TRACER's score file name : data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-01-BiGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/1_2_vulgata_francorum-1_2_vulgata_francorum.score
 TRV mode                 : 1
 Minimum frequency        : 2
 	DONE!!
