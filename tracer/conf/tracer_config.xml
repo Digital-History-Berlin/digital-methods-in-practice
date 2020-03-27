@@ -11,16 +11,12 @@
         <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl"/>
         <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl"/>
         <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
-        <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.asymmetric.SelectedFeatureContainmentSimilarityImpl"/>
+        <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
         <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl"/>
         
-        <property name="SENTENCE_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt" />
-        <property name="BASEFORM_FILE_NAME" value="data/corpora/1_vulgata_francorum/1_vulgata_francorum.lemma" />
-        <property name="SYNONYMS_FILE_NAME" value="data/corpora/1_vulgata_francorum/latin.syns" />
-
-        <!-- <property name="SENTENCE_FILE_NAME" value="data/corpora/Bible/KJV.txt" />
+        <property name="SENTENCE_FILE_NAME" value="data/corpora/Bible/KJV.txt" />
         <property name="BASEFORM_FILE_NAME" value="data/corpora/Bible/Bible.lemma" />
-        <property name="SYNONYMS_FILE_NAME" value="data/corpora/Bible/Bible.syns" /> -->
+        <property name="SYNONYMS_FILE_NAME" value="data/corpora/Bible/Bible.syns" />
         
         <property name="TOKENISATION_CHARACTERS_FILE_NAME" value="data/wordlists/100-wn-all.txt" />
         <property name="LETTER_SHAVER_MAPPING_FILE_NAME" value="data/letter-mappings/arabic.txt" />
@@ -77,9 +73,9 @@
     </category>
 
     <category name="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl">
-        <property name="boolLemmatisation" value="true" />
-        <property name="boolReplaceSynonyms" value="true" />
-        <property name="boolReplaceStringSimilarWords" value="true" />
+        <property name="boolLemmatisation" value="false" />
+        <property name="boolReplaceSynonyms" value="false" />
+        <property name="boolReplaceStringSimilarWords" value="false" />
         <property name="boolRemoveDiachritics" value="false" />
         <property name="boolMakeAllLowerCase" value="true" />
         <property name="boolReplaceWordByWordLength" value="false" />
@@ -264,7 +260,7 @@
     <category name="eu.etrap.tracer.linking.InterCorpusLinkingImpl">
         <property name="strRUID2FeatureImplementation" value="eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl" />
         <property name="strFeature2RUIDImplementation" value="eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl" />
-	<property name="intWorkNumbering" value="1000000000" />
+	<property name="intWorkNumbering" value="1000000" />
 	<property name="intMinOverlap" value="2" />
     </category>
 
