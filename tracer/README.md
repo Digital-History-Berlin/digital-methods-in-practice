@@ -1,1 +1,0 @@
-This repository contains the TRACER framework for automatic detection of historical text reuse.

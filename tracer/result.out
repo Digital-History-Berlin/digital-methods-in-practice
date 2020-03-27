@@ -1,655 +1,0 @@
-Starting Tracer ...
-
-
-ConfigurationContainer: saving configuration to data/corpora/Bible/KJV.txt.conf
-Using FRAMEWORK_IMPL=eu.etrap.tracer.DefaultFrameWorkImpl
-ORIGINAL_CORPUS=data/corpora/Bible/KJV.txt
-Inverted positional list data/corpora/Bible/KJV.txt.inv is already computed.
-
-
-String similarity file data/corpora/Bible/KJV.txt.ssim is already computed.
-
-
-Character distribution file data/corpora/Bible/KJV.txt.tok.dist.char is already computed.
-
-Creating a set of letter n-grams ...
-Character distribution file data/corpora/Bible/KJV.txt.tok.dist.letter.02gram is already computed.
-Character distribution file data/corpora/Bible/KJV.txt.tok.dist.letter.03gram is already computed.
-Character distribution file data/corpora/Bible/KJV.txt.tok.dist.letter.04gram is already computed.
-Character distribution file data/corpora/Bible/KJV.txt.tok.dist.letter.05gram is already computed.
-Character distribution file data/corpora/Bible/KJV.txt.tok.dist.letter.06gram is already computed.
-Character distribution file data/corpora/Bible/KJV.txt.tok.dist.letter.07gram is already computed.
-
-Generation of letter n-grams finished.
-
-
-
-
-
-START TO PROCESS LEVEL 1 (PRE-PROCESSING)
-
-Preprocessing string similarity graph in data/corpora/Bible/KJV.txt.ssim ...
-Total number of loaded word forms is 13617
-Total number of loaded directed/indirected associations is 0
-Number of directed associations is 0
-Number of total replacement candidates is 0
-Total number of directed associations is 0
-Preprocessing string similarity graph is finished and stored in data/corpora/Bible/KJV.txt.ssim.prep ...
-
-
-Using implementation eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl for preprocessing.
-Starting to load mapping from word to lemma from data/corpora/Bible/KJV.txt.tok.base.prep ... FINISHED. Loaded 3310 datasets.
-Starting to load mapping from word to synonym from data/corpora/Bible/KJV.txt.sim.prep ... FINISHED. Loaded 2543 datasets.
-Starting to load mapping from word to string similar word from data/corpora/Bible/KJV.txt.ssim.prep ... FINISHED. Loaded 0 datasets.
-Storing data in foler data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5
-Preprocessing infile=data/corpora/Bible/KJV.txt.tok to outfile=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep
-Start pre-processing ...
-10000 lines processed ...20000 lines processed ...strLevelMetaInformationFileName=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.meta
-Writing meta file to data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.meta
-Preprocessing finished.
-
-
-Generating positional inverted list ...
-Processing corpus: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep with filter: eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl
-Checking whether sentence file is tokenized: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.tok
-Tokenizing sentence file ...
-10000 lines processed.20000 lines processed.
-sentences are tokenized. [elapsed time: 1 s 27 ms]
-
-
-Checking whether word numbers were computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.internal.wn
-Generating word numbers ...
-MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
-Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.src
-10000 lines processed.20000 lines processed.
-word numbers generated. [elapsed time: 1 s 10 ms]
-
-
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wswn
-Transforming word numbers ...
-Reading known numbers: data/wordlists/100-wn-all.txt
-wswn generated. [elapsed time: 117 ms]
-
-
-Checking whether word numbers complete file is created: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wnc
-Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 27 ms]
-
-
-Checking whether idx file was computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.sidx
-Writing IDX-file ...
-MWU_FILE_NAME: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/example/mwu-example.mwus
-Warning: Couldn't read mwu file: data/corpora/example/mwu-example.mwus
-AbstractInputImpl: loading sources from: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.src
-
-First 8865 of 8865 words will be hold in memory.
-10000 lines processed.20000 lines processed.
-IDX-file is written. [elapsed time: 2 s 0 ms]
-
-
-Checking whether bow word frequencies was computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.internal.wf.bow
-Creating BOW word frequencies ...
-HARD_DISC_BLOCK=1048576
-1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed
-BOW word frequencies counted. [elapsed time: 392 ms]
-
-
-Checking whether hash file was filled already in file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash
-using DEFAULT free mem: 15728640
-
-
-
-
-MEDUSA'S TECHNICAL CONFIGURATION MODULE (MTCM)
-using heuristic implemenation: eu.etrap.medusa.config.PositionalInvertedListMemoryAllocatorImpl
-
-checking jvm size ...
-no restrictions are neccessary.
-
-DATASET FORMAT DESCRIPTION
-intSizeOfWordNumbers		:            2
-intSizeOfSentenceNumber		:            4
-intSizeOfPosition		:            3
-intFreqSizeOfRAMHash		:            1
-intFreqSizeOfDiscHash		:            2
-intSizeOfDataSetRAMHash		:           10
-intSizeOfDataSetDiscHash	:            6
-
-
-MEDUSA'S HASH CONFIGURATION
-BLOCKS 				:       65.536
-BLOCK_SIZE			:        8.192
-intDataSetsPerBucket		:          678
-
-MEMORY USAGE
-array hash size 		:            0 (disabled)
-ram hash size			:  444.465.152
-free mem			:  163.708.928
-total				:  608.174.080 (580.0 MB)
-
-
-
-
-RESERVED HASH ADRESSES
-array hash			:            0 (disabled)
-ram hash			:   44.433.408
-total				:   44.433.408
-
-
-Creating filter component ...
-stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 95 ms]
-
-
-Loading parser ...
-HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 791 ms]
-
-
-
-
-
-Processing ...
-1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed
-
-
-
-Merging started ...
-final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
- after 5185 ms finshed.
-
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 1.44
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 4.299816959999999
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
-Merging finished ...
-Deleting swap files ...
-Removing data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
-merge time: 5 s
-
-
-
-
-Processing finished. [elapsed time: 12 s 30 ms]
-
-
-Checking whether export file was filled already in file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.inv
-Exporting ...
-EXPORTER_IMPL: eu.etrap.medusa.export.PositionalInvertedListFlatFileExporterImpl
-Export finished. [elapsed time: 716 ms]
-
-
-Positional inverted list created.
-
-END OF PROCESS LEVEL 1 (PRE-PROCESSING)
-
-
-
-START TO PROCESS LEVEL 2 (TRAINING)
-
-Using implementation eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl for training.
-Training from infile=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep to outdir=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.train
-Training data by class eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl ...
-Processing corpus: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep with filter: eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl
-Checking whether sentence file is tokenized: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.tok
-Checking whether word numbers were computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.internal.wn
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wswn
-Checking whether word numbers complete file is created: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wnc
-Checking whether idx file was computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.sidx
-Checking whether bow word frequencies was computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.internal.wf.bow
-Checking whether hash file was filled already in file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash
-using DEFAULT free mem: 15728640
-
-
-
-
-MEDUSA'S TECHNICAL CONFIGURATION MODULE (MTCM)
-using heuristic implemenation: eu.etrap.medusa.config.NGramMemoryAllocatorImpl
-
-checking jvm size ...
-no restrictions are neccessary.
-
-DATASET FORMAT DESCRIPTION
-intSizeOfWordNumbers		:            2
-intFreqSizeOfArrayHash		:            2 (disabled)
-intFreqSizeOfRAMHash		:            2
-intFreqSizeOfDiscHash		:            2
-intSizeOfDataSetArrayHash	:            2 (disabled)
-intSizeOfDataSetRAMHash		:            8
-intSizeOfDataSetDiscHash	:            6
-
-
-MEDUSA'S HASH CONFIGURATION
-BLOCKS 				:       65.536
-BLOCK_SIZE			:        8.192
-intArrayEntries			:            0 (disabled)
-intDataSetsPerBucket		:          843
-
-MEMORY USAGE
-array hash size 		:            0 (disabled)
-ram hash size			:  442.105.856
-free mem			:  166.068.224
-total				:  608.174.080 (580.0 MB)
-
-
-
-
-RESERVED HASH ADRESSES
-array hash			:            0 (disabled)
-ram hash			:   55.246.848
-total				:   55.246.848
-
-
-Creating filter component ...
-stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 64 ms]
-
-
-Loading parser ...
-HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 401 ms]
-
-
-
-
-
-Processing ...
-1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed
-
-
-
-Merging started ...
-final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1
- after 5267 ms finshed.
-
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 1.44
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.2000 buckets merged.couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
-Merging finished ...
-Deleting swap files ...
-Removing data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.ram-swap.1
-merge time: 5 s
-
-
-
-Processing finished. [elapsed time: 12 s 19 ms]
-
-
-Checking whether export file was filled already in file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXRightTriGramFilterImpl.hash.freq.expo
-Exporting ...
-EXPORTER_IMPL: eu.etrap.medusa.export.NGramFlatFileExporterImpl
-AbstractExporter.loadSignificance: eu.etrap.medusa.significance.FrequencySignificanceImpl
-n=689482
-AbstractExporter.loadCutoffSignificance: eu.etrap.medusa.significance.FrequencySignificanceImpl
-n=689482
-AbstractExporterImpl: Using non-bow word frequencies
-threshold=0.0	minimum frequency=0	cutoff threshold=0.0	cutoff minimum frequency=0
-1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.1000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.2000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.3000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.4000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.5000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.6000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.7000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.8000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.9000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.10000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.11000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.12000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.13000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.14000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.15000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.16000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.17000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.18000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.19000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.20000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.21000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.22000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.23000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.24000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.25000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.26000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.27000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.28000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.29000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.30000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.31000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.32000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.33000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.34000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.35000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.36000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.37000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.38000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.39000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.40000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.41000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.42000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.43000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.44000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.45000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.46000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.47000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.48000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.49000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.50000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.51000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.52000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.53000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.54000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.55000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.56000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.57000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.58000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.59000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.60000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.61000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.62000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.63000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.64000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.65000 buckets exported.
-Export finished. [elapsed time: 994 ms]
-
-
-
-Training of corpus by class eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl finished.
-
-Copy from data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wnc to data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.kn
-Generating positional inverted list ...
-Processing corpus: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep with filter: eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl
-Checking whether sentence file is tokenized: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.tok
-Tokenizing sentence file ...
-10000 lines processed.20000 lines processed.
-sentences are tokenized. [elapsed time: 622 ms]
-
-
-Checking whether word numbers were computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.internal.wn
-Generating word numbers ...
-MWU_FILE_NAME: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.trigram.shingle
-AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.trigram.shingle
-323073 different mwu's found and loaded.
-AbstractInputImpl: loading sources from: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.src
-10000 lines processed.20000 lines processed.
-word numbers generated. [elapsed time: 14 s 30 ms]
-
-
-Checking whether word numbers needs transformation into wortschatz word numbers (wswn): data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wswn
-Transforming word numbers ...
-Reading known numbers: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.kn
-wswn generated. [elapsed time: 2 s 6 ms]
-
-
-Checking whether word numbers complete file is created: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wnc
-Generating word numbers complete file ...
-word numbers complete file is generated. [elapsed time: 310 ms]
-
-
-Checking whether idx file was computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.sidx
-Writing IDX-file ...
-MWU_FILE_NAME: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.trigram.shingle
-AbstractInputImpl: Using multi word units (mwu) in /home/ec2-user/digital-methods-in-practice/tracer/data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.trigram.shingle
-323073 different mwu's found and loaded.
-AbstractInputImpl: loading sources from: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.src
-10000 words loaded20000 words loaded30000 words loaded40000 words loaded50000 words loaded60000 words loaded70000 words loaded80000 words loaded90000 words loaded100000 words loaded110000 words loaded120000 words loaded130000 words loaded140000 words loaded150000 words loaded160000 words loaded170000 words loaded180000 words loaded190000 words loaded200000 words loaded210000 words loaded220000 words loaded230000 words loaded240000 words loaded250000 words loaded260000 words loaded270000 words loaded280000 words loaded290000 words loaded300000 words loaded310000 words loaded320000 words loaded330000 words loaded
-First 331938 of 331938 words will be hold in memory.
-10000 lines processed.20000 lines processed.
-IDX-file is written. [elapsed time: 15 s 28 ms]
-
-
-Checking whether bow word frequencies was computed already in file: data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.internal.wf.bow
-Creating BOW word frequencies ...
-HARD_DISC_BLOCK=1048576
-1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed
-BOW word frequencies counted. [elapsed time: 866 ms]
-
-
-Checking whether hash file was filled already in file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash
-using DEFAULT free mem: 15728640
-
-
-
-
-MEDUSA'S TECHNICAL CONFIGURATION MODULE (MTCM)
-using heuristic implemenation: eu.etrap.medusa.config.PositionalInvertedListMemoryAllocatorImpl
-
-checking jvm size ...
-no restrictions are neccessary.
-
-DATASET FORMAT DESCRIPTION
-intSizeOfWordNumbers		:            3
-intSizeOfSentenceNumber		:            4
-intSizeOfPosition		:            3
-intFreqSizeOfRAMHash		:            1
-intFreqSizeOfDiscHash		:            2
-intSizeOfDataSetRAMHash		:           11
-intSizeOfDataSetDiscHash	:            8
-
-
-MEDUSA'S HASH CONFIGURATION
-BLOCKS 				:       65.536
-BLOCK_SIZE			:        8.192
-intDataSetsPerBucket		:          616
-
-MEMORY USAGE
-array hash size 		:            0 (disabled)
-ram hash size			:  444.203.008
-free mem			:  163.971.072
-total				:  608.174.080 (580.0 MB)
-
-
-
-
-RESERVED HASH ADRESSES
-array hash			:            0 (disabled)
-ram hash			:   40.370.176
-total				:   40.370.176
-
-
-Creating filter component ...
-stopword file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-ATTENTION!!! WordlistFilterComponentImpl can't find the following file: /home/ec2-user/digital-methods-in-practice/tracer/data/stopwords/no-stopwords.txt
-WordlistFilterComponentImpl disabled...
-filter component is written. [elapsed time: 307 ms]
-
-
-Loading parser ...
-HARD_DISC_BLOCK=1048576
-Parser loaded. [elapsed time: 845 ms]
-
-
-
-
-
-Processing ...
-1000 sentences processed2000 sentences processed3000 sentences processed4000 sentences processed5000 sentences processed6000 sentences processed7000 sentences processed8000 sentences processed9000 sentences processed10000 sentences processed11000 sentences processed12000 sentences processed13000 sentences processed14000 sentences processed15000 sentences processed16000 sentences processed17000 sentences processed18000 sentences processed19000 sentences processed20000 sentences processed21000 sentences processed22000 sentences processed23000 sentences processed24000 sentences processed25000 sentences processed26000 sentences processed27000 sentences processed28000 sentences processed
-
-
-
-Merging started ...
-final swapping ram hash on disc:
-/home/ec2-user/digital-methods-in-practice/tracer/data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
- after 5180 ms finshed.
-
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 1.44
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-couldn't add data set
-Merging abort: hash is choosen too small. Rescale factor increased to 2.0736
-
-
-
-Merging started ...
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-Opening swap files
-Try to open "data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1" ... File opened.
-1 swap files opened.
-
-1000 buckets merged.2000 buckets merged.3000 buckets merged.4000 buckets merged.5000 buckets merged.6000 buckets merged.7000 buckets merged.8000 buckets merged.9000 buckets merged.10000 buckets merged.11000 buckets merged.12000 buckets merged.13000 buckets merged.14000 buckets merged.15000 buckets merged.16000 buckets merged.17000 buckets merged.18000 buckets merged.19000 buckets merged.20000 buckets merged.21000 buckets merged.22000 buckets merged.23000 buckets merged.24000 buckets merged.25000 buckets merged.26000 buckets merged.27000 buckets merged.28000 buckets merged.29000 buckets merged.30000 buckets merged.31000 buckets merged.32000 buckets merged.33000 buckets merged.34000 buckets merged.35000 buckets merged.36000 buckets merged.37000 buckets merged.38000 buckets merged.39000 buckets merged.40000 buckets merged.41000 buckets merged.42000 buckets merged.43000 buckets merged.44000 buckets merged.45000 buckets merged.46000 buckets merged.47000 buckets merged.48000 buckets merged.49000 buckets merged.50000 buckets merged.51000 buckets merged.52000 buckets merged.53000 buckets merged.54000 buckets merged.55000 buckets merged.56000 buckets merged.57000 buckets merged.58000 buckets merged.59000 buckets merged.60000 buckets merged.61000 buckets merged.62000 buckets merged.63000 buckets merged.64000 buckets merged.65000 buckets merged.
-Merging finished ...
-Deleting swap files ...
-Removing data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.ram-swap.1
-merge time: 5 s
-
-
-
-Processing finished. [elapsed time: 12 s 37 ms]
-
-
-Checking whether export file was filled already in file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.eu.etrap.medusa.filter.sidx.IDXPositionalInvertedListFilterImpl.hash.freq.expo
-Exporting ...
-EXPORTER_IMPL: eu.etrap.medusa.export.PositionalInvertedListFlatFileExporterImpl
-Export finished. [elapsed time: 1 s 16 ms]
-
-
-Positional inverted list created ...
-
-Writing feats file from data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wnc to data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.feats
-Feats file finally written.
-
-
-Writing fmap file to data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.fmap
-Loading word numbers from data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wnc
-Word are loaded.
-
-Fmap file finally written.
-
-
-Writing train file to data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.train
-Loading ngram id's from  data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/KJV.prep.wnc
-Ngram id's are loaded.
-
-Train file finally written.
-
-Writing meta file to data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.meta
-
-END OF PROCESS LEVEL 2 (TRAINING)
-
-
-
-START TO PROCESS LEVEL 3 (SELECTION)
-
-1 of 1 configured selection implementations need to be excecuted. 0 selection strategies are already pre-computed.
-
-Using 1 implementation(s) eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl for selection.
-Selection done from infile=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.train to outdir=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/KJV.sel
-Weighting features for 1 selection strategies.
-[1/1]: Computing features weights for selection strategies eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl
-	Sorting file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.train ... DONE.
-	Reading train file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.train
-	Global feature distribution stored by key GlobalFeatureFrequencyDistribution
-	Feature IDs range from 8966 to 332038.
-	Weighting features by word frequency ...
-	Loading feature weights from file data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/KJV.train.wordfreq.asc.sorted ... DONE! 323073 feature weights loaded.
-	553253 feature tokens are selected out of 691553 by a configured feature density of 0.8 (configured: 0.8).
-	Writing meta information ... DONE!
-[1/1]: DONE.
-
-
-Creating multiple selection for ... 
-	[1/1]: Still 553253 selected features after processing data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/01-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/KJV.sel
-Writing final selection file to data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/KJV.sel ...DONE!
-	Writing meta information ... DONE!
-
-END OF PROCESS LEVEL 3 (SELECTION)
-
-
-
-START TO PROCESS LEVEL 4 (LINKING)
-
-Using eu.etrap.tracer.linking.InterCorpusLinkingImpl implementation  for linking.
-OUTPUT file is outfile=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-KJV-01-01-01-02-KJV/KJV-KJV.link ... 
-	Preparing RUID2Feature connector by implementation in eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl
-	DONE!
-
-	Preparing Feature2RUID connector by implementation in eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl
-	DONE!
-
-	Linking process started for 28630 fingerprinted re-use units
-		1000 re-use units processed. 3% DONE!		2000 re-use units processed. 6% DONE!		3000 re-use units processed. 10% DONE!		4000 re-use units processed. 13% DONE!		5000 re-use units processed. 17% DONE!		6000 re-use units processed. 20% DONE!		7000 re-use units processed. 24% DONE!		8000 re-use units processed. 27% DONE!		9000 re-use units processed. 31% DONE!		10000 re-use units processed. 34% DONE!		11000 re-use units processed. 38% DONE!		12000 re-use units processed. 41% DONE!		13000 re-use units processed. 45% DONE!		14000 re-use units processed. 48% DONE!		15000 re-use units processed. 52% DONE!		16000 re-use units processed. 55% DONE!		17000 re-use units processed. 59% DONE!		18000 re-use units processed. 62% DONE!		19000 re-use units processed. 66% DONE!		20000 re-use units processed. 69% DONE!		21000 re-use units processed. 73% DONE!		22000 re-use units processed. 76% DONE!		23000 re-use units processed. 80% DONE!		24000 re-use units processed. 83% DONE!		25000 re-use units processed. 87% DONE!		26000 re-use units processed. 90% DONE!		27000 re-use units processed. 94% DONE!		28000 re-use units processed. 97% DONE!		28630 re-use units processed. 100% DONE!
-	DONE!!
-
-END OF PROCESS LEVEL 4 (LINKING)
-
-
-
-START TO PROCESS LEVEL 5 (SCORING)
-
-Using eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl implementation  for scoring.
-OUTPUT file is outfile=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-KJV-01-01-01-02-KJV/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/KJV-KJV.score ... 
-	Preparing data from data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/KJV.sel ...
-	Scoring data 
-		FROM data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-KJV-01-01-01-02-KJV/KJV-KJV.link ...
-		TO data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-KJV-01-01-01-02-KJV/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/KJV-KJV.score ...
-
-	DONE!!
-
-END OF PROCESS LEVEL 5 (SCORING)
-
-
-
-START TO PROCESS LEVEL 6 (POSTPROCESING)
-
-Using eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl implementation  for postprocessing.
-OUTPUT file is outfile=data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-KJV-01-01-01-02-KJV/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/001-TraVizPostprocessingImpl-mode=1_minfrequency=2/KJV-KJV.pproc ... 
-Corpus file name         : data/corpora/Bible/KJV.txt
-TRACER's score file name : data/corpora/Bible/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-02-01-01-02-TriGramShinglingTrainingImpl/02-02-01-01-01-LocalMaxFeatureFrequencySelectorImpl_FeatDens=0.8/02-01-01-01-01-KJV-01-01-01-02-KJV/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.9/KJV-KJV.score
-TRV mode                 : 1
-Minimum frequency        : 2
-	DONE!!
-
-END OF PROCESS LEVEL 6 (POSTPROCESSING)
-
-
-
