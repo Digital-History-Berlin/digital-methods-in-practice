@@ -202,7 +202,7 @@
     </category>
 
     <category name="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl">
-        <property name="dblFeatureDensity" value="0.8" />
+        <property name="dblFeatureDensity" value="0.4" />
     </category>
 
     <category name="eu.etrap.tracer.selection.localglobal.LocalMinFeatureFrequencySelectorImpl">
