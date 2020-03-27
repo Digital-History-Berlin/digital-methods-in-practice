@@ -2,15 +2,15 @@
 <!-- For detailed information of every property look into the Reference Card -->
 <properties>
 
-    <!-- general properties for running medusa: main files and classes which shall used -->
+    <!-- general properties for running medusa: main files and classes which will be used -->
     <category name="general">
         <!-- TRACER general configurations -->
         <property name="FRAMEWORK_IMPL" value="eu.etrap.tracer.DefaultFrameWorkImpl" />
         <property name="PREPROCESSING_IMPL" value="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl" />
-        <!--property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/-->
-        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl"/>
+        <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/>
+        <!--property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl"/-->
         <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl"/>
-        <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
+        <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.IntraCorpusLinkingImpl"/>
         <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
         <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl"/>
         
@@ -65,6 +65,7 @@
         <property name="intMinWordLength" value="5" />
     </category>
 
+    <!-- TRACER PRE-PROCESSING SECTION -->
     <category name="eu.etrap.tracer.preprocessing.LetterLevelPreprocessingImpl">
         <property name="boolReplaceWhitespaces" value="false" />
         <property name="intNGramSize" value="5" />
@@ -75,7 +76,7 @@
     <category name="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl">
         <property name="boolLemmatisation" value="true" />
         <property name="boolReplaceSynonyms" value="true" />
-        <property name="boolReplaceStringSimilarWords" value="true" />
+        <property name="boolReplaceStringSimilarWords" value="false" />
         <property name="boolRemoveDiachritics" value="false" />
         <property name="boolMakeAllLowerCase" value="true" />
         <property name="boolReplaceWordByWordLength" value="false" />
@@ -86,6 +87,22 @@
         <property name="weigthByLogLikelihoodRatio" value="true"/>;
     </category>
 
+    <category name="eu.etrap.tracer.preprocessing.external.lemmatisation.TreeTaggerLemmatiserImpl">
+        <property name="strDataDirectory" value="data/corpora/latin" />
+        <property name="strFileSuffix" value="tagged" />
+        <property name="strTagSetMappingFile" value="data/pos-mappings/lat-treetagger-mapping.csv" />
+        <property name="intScaleFactor" value="1000000" />
+        <property name="boolRemoveNonLetters" value="true" />
+    </category>
+    
+    <category name="eu.etrap.tracer.preprocessing.external.lemmatisation.StanfordNLPLemmatiserImpl">
+        <property name="strDataDirectory" value="data/corpora/jane-austen/tagged-texts" />
+        <property name="strFileSuffix" value="conll" />
+        <property name="strTagSetMappingFile" value="data/pos-mappings/eng-stanfordnlp-mapping.csv" />
+        <property name="intScaleFactor" value="1000000" />
+        <property name="boolRemoveNonLetters" value="true" />
+    </category>
+    
     <!-- TRACER SELECTION SECTION -->
     <category name="eu.etrap.tracer.selection.globalglobal.GlobalMaxFeatureFrequencySelectorImpl">
         <property name="dblFeatureDensity" value="0.7" />
@@ -254,14 +271,14 @@
     <category name="eu.etrap.tracer.linking.IntraCorpusLinkingImpl">
         <property name="strRUID2FeatureImplementation" value="eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl" />
         <property name="strFeature2RUIDImplementation" value="eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl" />
-	<property name="intMinOverlap" value="2" />
+        <property name="intMinOverlap" value="2" />
     </category>
 
     <category name="eu.etrap.tracer.linking.InterCorpusLinkingImpl">
         <property name="strRUID2FeatureImplementation" value="eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl" />
         <property name="strFeature2RUIDImplementation" value="eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl" />
-	<property name="intWorkNumbering" value="1000000" />
-	<property name="intMinOverlap" value="2" />
+        <property name="intWorkNumbering" value="1000000" />
+        <property name="intMinOverlap" value="2" />
     </category>
 
     <!-- TRACER (CONNECTOR) LINKING SECTION -->
@@ -289,7 +306,7 @@
     </category>
 
     <category name="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl">
-        <property name="dblScoringThreshold" value="0.9" />
+        <property name="dblScoringThreshold" value="0.5" />
     </category>
 
 
@@ -300,11 +317,11 @@
 
     <!-- ControlFlow section-->
     <!-- Interface   : eu.etrap.medusa.controlflow.ControlFlow -->
-    <!-- Description : a control flow is batch-based stack of different nlp elements
-                       which shall execetuted sequentially -->
+    <!-- Description : a control flow is a batch-based stack of different nlp elements
+    which are executed sequentially -->
     
     <!-- Standard controlflow which can enable/disable different "tables" from 
-         the Wortschatz default db schema. -->
+    the Wortschatz default db schema. -->
     <category name="eu.etrap.medusa.controlflow.StandardASVControlFlowImpl">
         <property name="boolEnableMWUAutoDetection" value="false" />
         <property name="boolEnableSentenceCooccurrences" value="false" />
@@ -364,7 +381,7 @@
     </category>
 
 
-    <!-- Iterate nb co-cooccurrences for detecting possible Multi Word Units. -->
+    <!-- Iterate nb co-cooccurrences for detecting possible Multi-Word Units. -->
     <category name="eu.etrap.medusa.controlflow.MWUDetectionControlFlowImpl">
         <property name="intLoops" value="1000" />
         <property name="dblThreshold" value="3.00" />
@@ -398,7 +415,7 @@
     <!-- Filter section -->
     <!-- Interface   : eu.etrap.medusa.loader.filter.Filter -->
     <!-- Description : Transforms an input like the unstructured sidx or semi- 
-                       structured xml file into an structured persistent hash. -->
+    structured xml file into a structured persistent hash. -->
     
     <!-- SIDX-based filters-->                   
     <!-- Computing sentence co-occurrences -->
@@ -412,7 +429,7 @@
     </category>
     
     <!-- Computing sentence co-occurrences located on the left side of the pivot
-         element. -->
+    element. -->
     <category name="eu.etrap.medusa.filter.sidx.IDXLeftNeighbourSentenceFilterImpl">
         <property name="useBOW" value="true"/>
         <property name="dblSignificanceThreshold" value="6.63"/>
@@ -422,7 +439,7 @@
     </category>
     
     <!-- Computing sentence co-occurrences located on the right side of the pivot
-         element. -->
+    element. -->
     <category name="eu.etrap.medusa.filter.sidx.IDXRightNeighbourSentenceFilterImpl">
         <property name="useBOW" value="true"/>
         <property name="dblSignificanceThreshold" value="6.63"/>
@@ -431,7 +448,7 @@
         <property name="intCutoffMinimumFrequency" value="0"/>
     </category>
     
-    <!-- Computing neighbour co-occurrences (only the immediately followed word) -->
+    <!-- Computing neighbour co-occurrences (only the following word) -->
     <category name="eu.etrap.medusa.filter.sidx.IDXNeighbourhoodFilterImpl">
         <property name="useBOW" value="false"/>
         <property name="dblSignificanceThreshold" value="3.84"/>
@@ -440,7 +457,7 @@
         <property name="intCutoffMinimumFrequency" value="0"/>
     </category>
    
-    <!-- Computing neighbour co-occurrences of mwu's (only the immediately followed word) -->
+    <!-- Computing neighbour co-occurrences of mwu's (only the following word) -->
     <category name="eu.etrap.medusa.filter.sidx.IDXNGramExpansionFilterImpl">
         <property name="useBOW" value="false"/>
         <property name="dblSignificanceThreshold" value="3.84"/>
@@ -451,9 +468,9 @@
 
  
     <!-- Computing sentence based co-occurrences, but the first word in every 
-         line is the category. In the result table the word column represents
-         this first word per line. The second word column are words associating 
-         with the corresponding category.-->
+    line is the category. In the result table the word column represents
+    this first word per line. The second word column are words associating 
+    with the corresponding category.-->
     <category name="eu.etrap.medusa.filter.sidx.IDXTypedTermsFilterImpl">
         <property name="useBOW" value="true"/>
         <property name="dblSignificanceThreshold" value="6.63"/>
@@ -471,7 +488,7 @@
     
     <!-- XML-based filters -->   
     <!-- Computing co-occurrences from an xml file from same location of a single
-         XPath expression (intra-element co-occurrences). -->
+    XPath expression (intra-element co-occurrences). -->
     <category name="eu.etrap.medusa.filter.xml.WordFrequencyCounterXMLFilterImpl">
         <property name="strXPath" value="/meldung/mo/text()" />
         <property name="useBOW" value="true" />
@@ -497,32 +514,32 @@
     
     <!-- Filter Component section -->
     <!-- Interface   : eu.etrap.medusa.loader.filter.component.FilterComponent -->
-    <!-- Description : Sets an bit array with size of the number of words which 
-                       can be set true or false. If true for all envolved words, 
-                       than the extracted information will be stored in the hash
-                       system. -->
+    <!-- Description : Sets a bit array with size of the number of words which 
+    can be set true or false. If true for all involved words, 
+    then the extracted information will be stored in the hash
+    system. -->
     
     <!-- Initializes an array with one per word. This array will be written in 
-         the fc-file. -->
+    the fc-file. -->
     <category name="eu.etrap.medusa.filter.component.InitialFilterComponentImpl">
         <property name="isSetBit" value="true"/>
     </category>
     
     <!-- Sets word as true (initializing was false for investigating only a 
-         smaller subset of words) or as false (initializing was true for 
-         handling the words in the file as stopwords). -->
+    smaller subset of words) or as false (initializing was true for 
+    handling the words in the file as stopwords). -->
     <category name="eu.etrap.medusa.filter.component.WordlistFilterComponentImpl">
         <property name="isSetBit" value="false"/>
         <property name="strSelectedWordList" value="data/stopwords/no-stopwords.txt"/>
     </category>
     
-    <!-- Ignoring words with an frequency below the defined threshold -->
+    <!-- Ignoring words with a frequency below the defined threshold -->
     <category name="eu.etrap.medusa.filter.component.FrequencyFilterComponentImpl">
         <property name="intMinimumFrequency" value="0"/>
     </category>
     
-    <!-- Ignoring words with an frequency below the defined threshold IF
-         the frequency is unknown by using a Zipfian Law approximation. -->
+    <!-- Ignoring words with a frequency below the defined threshold IF
+    the frequency is unknown by using a Zipfian Law approximation. -->
     <category name="eu.etrap.medusa.filter.component.ZipfFilterComponentImpl">
         <property name="intMinimumFrequency" value="2"/>
     </category>
@@ -532,7 +549,7 @@
     <!-- Memory allocator section -->
     <!-- Interface   : eu.etrap.medusa.config.MemoryAllocator -->
     <!-- Description : Allocates the memory in most efficient way for the hash 
-                       system. -->
+    system. -->
     
     <!-- Memory allocator for co-occurence analysis. -->
     <category name="eu.etrap.medusa.config.DefaultMemoryAllocatorImpl">
@@ -549,11 +566,11 @@
     <!-- Tokenizer section -->
     <!-- Interface   : eu.etrap.medusa.input.Tokenizer -->
     <!-- Description : Tokenizes text as a first preprocessing step for nlp 
-                       algorithms. -->
+    algorithms. -->
     
     <!-- Tokenizer works with an abbreviation file and using the defined 
-         TOKENISATION_CHARACTERS_FILE_NAME property some characters. Furthermore, 
-         number, date and time data will can be replaced by %N% . -->
+    TOKENISATION_CHARACTERS_FILE_NAME property some characters. Furthermore, 
+    number, date and time data will can be replaced by %N% . -->
     <category name="eu.etrap.medusa.input.ImprovedWordTokenizerImpl">
         <property name="strAbbrevListFile" value="data/abbreviation/abbrev.txt" />
         <property name="strFixedTokens" value="data/wordlists/fixed_tokens.txt" />
@@ -610,7 +627,7 @@
         <property name="strFlatFileSeperator" value="\t"/>
     </category>
 
-   <!-- Exports co-occurrences from hash using different significance thresholds. -->
+    <!-- Exports co-occurrences from hash using different significance thresholds. -->
     <category name="eu.etrap.medusa.export.FullFlatFileExporterImpl">
         <property name="boolReplaceWordNumbers" value="false"/>
         <property name="boolExportFrequency" value="true"/>
@@ -638,10 +655,10 @@
     <!-- Store section-->
     <!-- Interface   : eu.etrap.medusa.store.Store -->
     <!-- Description : a store handles the extracted information by using any
-                       dedicated caching and merging strategy. -->
+    dedicated caching and merging strategy. -->
     
     <!-- Default store using an array and an ordinary ram hash which can be swapped
-         on disc and after processing the corpus will be merged to a disc hash.-->
+    on disc and after processing the corpus will be merged to a disc hash.-->
     <category name="eu.etrap.medusa.store.DefaultStoreImpl">
         <property name="boolRemoveSwapFiles" value="true" />
         <property name="dblCapacityFactor" value="1.2"/>
@@ -653,7 +670,7 @@
     </category>
     
     <!-- Almost the same as eu.etrap.medusa.store.ArrayStoreImpl but 
-         data will be storeed in a vector. -->
+    data will be storeed in a vector. -->
     <category name="eu.etrap.medusa.store.OneDimensionArrayStoreImpl">
         <property name="strOutputFile" value="data/1D-array-occurrance.txt" />
     </category>
@@ -663,7 +680,7 @@
     <!-- Preprocessing and management section-->
     
     <!-- Default store using an array and an ordinary ram hash which can be swapped
-         on disc and after processing the corpus will be merged to a disc hash.-->
+    on disc and after processing the corpus will be merged to a disc hash.-->
     <category name="eu.etrap.medusa.input.SentencePreparer">
         <property name="boolWriteSentenceBoundaries" value="false" />
         <property name="strFormat" value="yyyy-MM-dd"/>
@@ -688,7 +705,7 @@
     
     
     <!-- Collects information of the system and runtime properties which will be
-         writen to the meta-file or -table. -->
+    writen to the meta-file or -table. -->
     <category name="eu.etrap.medusa.utils.MetaInformation">
         <property name="strMetaInformationsFileName" value="data/internal/meta_informations.txt"/>
     </category>
@@ -715,7 +732,7 @@
         <property name="scalefactor" value="1" />
     </category>
     
-        <!-- Computes mutual information.-->
+    <!-- Computes mutual information.-->
     <category name="eu.etrap.medusa.significance.DiceSignificanceImpl">
         <property name="scalefactor" value="1" />
     </category>
@@ -725,7 +742,7 @@
     <!-- Format section-->
     <!-- Interface   : eu.etrap.medusa.format.Format -->
     <!-- Description : Specifies the static format of a dataset in the hash 
-                       system. -->
+    system. -->
     
     <!-- Stores default hash format settings.-->
     <category name="eu.etrap.medusa.format.DefaultFormatImpl">
