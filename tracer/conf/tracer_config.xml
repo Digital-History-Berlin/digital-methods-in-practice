@@ -73,8 +73,8 @@
     </category>
 
     <category name="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl">
-        <property name="boolLemmatisation" value="false" />
-        <property name="boolReplaceSynonyms" value="false" />
+        <property name="boolLemmatisation" value="true" />
+        <property name="boolReplaceSynonyms" value="true" />
         <property name="boolReplaceStringSimilarWords" value="false" />
         <property name="boolRemoveDiachritics" value="false" />
         <property name="boolMakeAllLowerCase" value="true" />
