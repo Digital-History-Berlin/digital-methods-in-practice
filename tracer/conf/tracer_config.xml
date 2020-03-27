@@ -202,7 +202,7 @@
     </category>
 
     <category name="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl">
-        <property name="dblFeatureDensity" value="0.4" />
+        <property name="dblFeatureDensity" value="0.8" />
     </category>
 
     <category name="eu.etrap.tracer.selection.localglobal.LocalMinFeatureFrequencySelectorImpl">
@@ -264,7 +264,7 @@
     <category name="eu.etrap.tracer.linking.InterCorpusLinkingImpl">
         <property name="strRUID2FeatureImplementation" value="eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl" />
         <property name="strFeature2RUIDImplementation" value="eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl" />
-	<property name="intWorkNumbering" value="1000000" />
+	<property name="intWorkNumbering" value="1000000000" />
 	<property name="intMinOverlap" value="2" />
     </category>
 
