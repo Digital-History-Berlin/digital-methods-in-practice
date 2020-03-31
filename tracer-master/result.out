@@ -1,0 +1,124 @@
+Starting Tracer ...
+
+
+ConfigurationContainer: saving configuration to data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.conf
+Using FRAMEWORK_IMPL=eu.etrap.tracer.DefaultFrameWorkImpl
+ORIGINAL_CORPUS=data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt
+Inverted positional list data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.inv is already computed.
+
+
+String similarity file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.ssim is already computed.
+
+
+Character distribution file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.char is already computed.
+
+Creating a set of letter n-grams ...
+Character distribution file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.02gram is already computed.
+Character distribution file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.03gram is already computed.
+Character distribution file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.04gram is already computed.
+Character distribution file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.05gram is already computed.
+Character distribution file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.06gram is already computed.
+Character distribution file data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.dist.letter.07gram is already computed.
+
+Generation of letter n-grams finished.
+
+
+
+
+
+START TO PROCESS LEVEL 1 (PRE-PROCESSING)
+
+Using implementation eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl for preprocessing.
+Starting to load mapping from word to lemma from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.tok.base.prep ... FINISHED. Loaded 6909 datasets.
+Starting to load mapping from word to synonym from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.sim.prep ... FINISHED. Loaded 1043 datasets.
+Starting to load mapping from word to string similar word from data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt.ssim.prep ... FINISHED. Loaded 26636 datasets.
+OUTPUT file outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep already exists
+
+
+Inverted positional list data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/1_2_vulgata_francorum.prep.inv is already computed.
+
+
+
+END OF PROCESS LEVEL 1 (PRE-PROCESSING)
+
+
+
+START TO PROCESS LEVEL 2 (TRAINING)
+
+Using implementation eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl for training.
+OUTPUT file outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/1_2_vulgata_francorum.train already exists
+
+END OF PROCESS LEVEL 2 (TRAINING)
+
+
+
+START TO PROCESS LEVEL 3 (SELECTION)
+
+1 of 1 configured selection implementations need to be excecuted. 0 selection strategies are already pre-computed.
+
+Using 1 implementation(s) eu.etrap.tracer.selection.locallocal.LocalRandomFeatureSelectorFilterImpl for selection.
+Selection done from infile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/1_2_vulgata_francorum.train to outdir=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/1_2_vulgata_francorum.sel
+Weighting features for 1 selection strategies.
+[1/1]: Computing features weights for selection strategies eu.etrap.tracer.selection.locallocal.LocalRandomFeatureSelectorFilterImpl
+	Sorting file data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/1_2_vulgata_francorum.train ... Already sorted.
+	367299 feature tokens are selected out of 564004 by a configured feature density of 0.651 (configured: 0.65).
+	Writing meta information ... DONE!
+[1/1]: DONE.
+
+
+Creating multiple selection for ... 
+	[1/1]: Still 367299 selected features after processing data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/01-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/1_2_vulgata_francorum.sel
+Writing final selection file to data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/1_2_vulgata_francorum.sel ...DONE!
+	Writing meta information ... DONE!
+
+END OF PROCESS LEVEL 3 (SELECTION)
+
+
+
+START TO PROCESS LEVEL 4 (LINKING)
+
+Using eu.etrap.tracer.linking.InterCorpusLinkingImpl implementation  for linking.
+OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/1_2_vulgata_francorum-1_2_vulgata_francorum.link ... 
+	Preparing RUID2Feature connector by implementation in eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl
+	DONE!
+
+	Preparing Feature2RUID connector by implementation in eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl
+	DONE!
+
+	Linking process started for 32469 fingerprinted re-use units
+		1000 re-use units processed. 3% DONE!		2000 re-use units processed. 6% DONE!		3000 re-use units processed. 9% DONE!		4000 re-use units processed. 12% DONE!		5000 re-use units processed. 15% DONE!		6000 re-use units processed. 18% DONE!		7000 re-use units processed. 21% DONE!		8000 re-use units processed. 24% DONE!		9000 re-use units processed. 27% DONE!		10000 re-use units processed. 30% DONE!		11000 re-use units processed. 33% DONE!		12000 re-use units processed. 36% DONE!		13000 re-use units processed. 40% DONE!		14000 re-use units processed. 43% DONE!		15000 re-use units processed. 46% DONE!		16000 re-use units processed. 49% DONE!		17000 re-use units processed. 52% DONE!		18000 re-use units processed. 55% DONE!		19000 re-use units processed. 58% DONE!		20000 re-use units processed. 61% DONE!		21000 re-use units processed. 64% DONE!		22000 re-use units processed. 67% DONE!		23000 re-use units processed. 70% DONE!		24000 re-use units processed. 73% DONE!		25000 re-use units processed. 76% DONE!		26000 re-use units processed. 80% DONE!		27000 re-use units processed. 83% DONE!		28000 re-use units processed. 86% DONE!		29000 re-use units processed. 89% DONE!		30000 re-use units processed. 92% DONE!		31000 re-use units processed. 95% DONE!		32000 re-use units processed. 98% DONE!		32469 re-use units processed. 100% DONE!
+	DONE!!
+
+END OF PROCESS LEVEL 4 (LINKING)
+
+
+
+START TO PROCESS LEVEL 5 (SCORING)
+
+Using eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl implementation  for scoring.
+OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.3/1_2_vulgata_francorum-1_2_vulgata_francorum.score ... 
+	Preparing data from data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/1_2_vulgata_francorum.sel ...
+	Scoring data 
+		FROM data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/1_2_vulgata_francorum-1_2_vulgata_francorum.link ...
+		TO data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.3/1_2_vulgata_francorum-1_2_vulgata_francorum.score ...
+		100000 re-use candidates processed. Selection by scoring is 0,0000000%.		200000 re-use candidates processed. Selection by scoring is 0,0040000%.		300000 re-use candidates processed. Selection by scoring is 0,0080000%.		400000 re-use candidates processed. Selection by scoring is 0,0085000%.		500000 re-use candidates processed. Selection by scoring is 0,0088000%.		600000 re-use candidates processed. Selection by scoring is 0,0076667%.		700000 re-use candidates processed. Selection by scoring is 0,0074286%.		800000 re-use candidates processed. Selection by scoring is 0,0067500%.		900000 re-use candidates processed. Selection by scoring is 0,0066667%.		1000000 re-use candidates processed. Selection by scoring is 0,0068000%.		1100000 re-use candidates processed. Selection by scoring is 0,0061818%.		1200000 re-use candidates processed. Selection by scoring is 0,0078333%.		1300000 re-use candidates processed. Selection by scoring is 0,0093846%.		1400000 re-use candidates processed. Selection by scoring is 0,0101429%.		1500000 re-use candidates processed. Selection by scoring is 0,0108000%.		1600000 re-use candidates processed. Selection by scoring is 0,0123750%.		1700000 re-use candidates processed. Selection by scoring is 0,0132941%.		1800000 re-use candidates processed. Selection by scoring is 0,0136667%.		1900000 re-use candidates processed. Selection by scoring is 0,0150526%.		2000000 re-use candidates processed. Selection by scoring is 0,0144000%.		2100000 re-use candidates processed. Selection by scoring is 0,0140000%.		2200000 re-use candidates processed. Selection by scoring is 0,0134545%.		2300000 re-use candidates processed. Selection by scoring is 0,0130435%.		2400000 re-use candidates processed. Selection by scoring is 0,0125833%.		2500000 re-use candidates processed. Selection by scoring is 0,0122400%.		2600000 re-use candidates processed. Selection by scoring is 0,0118462%.		2700000 re-use candidates processed. Selection by scoring is 0,0134074%.		2800000 re-use candidates processed. Selection by scoring is 0,0135714%.		2900000 re-use candidates processed. Selection by scoring is 0,0133103%.		3000000 re-use candidates processed. Selection by scoring is 0,0129333%.		3100000 re-use candidates processed. Selection by scoring is 0,0125806%.		3200000 re-use candidates processed. Selection by scoring is 0,0122500%.		3300000 re-use candidates processed. Selection by scoring is 0,0123636%.		3400000 re-use candidates processed. Selection by scoring is 0,0121765%.		3500000 re-use candidates processed. Selection by scoring is 0,0118857%.		3600000 re-use candidates processed. Selection by scoring is 0,0116111%.		3700000 re-use candidates processed. Selection by scoring is 0,0112973%.		3800000 re-use candidates processed. Selection by scoring is 0,0110526%.		3900000 re-use candidates processed. Selection by scoring is 0,0107692%.		4000000 re-use candidates processed. Selection by scoring is 0,0105000%.		4100000 re-use candidates processed. Selection by scoring is 0,0103902%.		4200000 re-use candidates processed. Selection by scoring is 0,0103333%.		4300000 re-use candidates processed. Selection by scoring is 0,0103721%.		4400000 re-use candidates processed. Selection by scoring is 0,0102727%.		4500000 re-use candidates processed. Selection by scoring is 0,0101333%.		4600000 re-use candidates processed. Selection by scoring is 0,0100000%.		4700000 re-use candidates processed. Selection by scoring is 0,0098723%.		4800000 re-use candidates processed. Selection by scoring is 0,0097083%.		4900000 re-use candidates processed. Selection by scoring is 0,0095102%.		5000000 re-use candidates processed. Selection by scoring is 0,0093200%.		5100000 re-use candidates processed. Selection by scoring is 0,0092549%.		5200000 re-use candidates processed. Selection by scoring is 0,0093077%.		5300000 re-use candidates processed. Selection by scoring is 0,0093208%.		5400000 re-use candidates processed. Selection by scoring is 0,0092593%.		5500000 re-use candidates processed. Selection by scoring is 0,0090909%.		5600000 re-use candidates processed. Selection by scoring is 0,0089643%.		5700000 re-use candidates processed. Selection by scoring is 0,0088421%.		5800000 re-use candidates processed. Selection by scoring is 0,0087241%.		5900000 re-use candidates processed. Selection by scoring is 0,0086780%.		6000000 re-use candidates processed. Selection by scoring is 0,0085667%.		6100000 re-use candidates processed. Selection by scoring is 0,0084262%.		6200000 re-use candidates processed. Selection by scoring is 0,0084516%.		6300000 re-use candidates processed. Selection by scoring is 0,0083492%.		6400000 re-use candidates processed. Selection by scoring is 0,0082813%.		6500000 re-use candidates processed. Selection by scoring is 0,0082769%.		6600000 re-use candidates processed. Selection by scoring is 0,0083333%.		6700000 re-use candidates processed. Selection by scoring is 0,0085075%.		6800000 re-use candidates processed. Selection by scoring is 0,0087941%.		6900000 re-use candidates processed. Selection by scoring is 0,0089565%.		7000000 re-use candidates processed. Selection by scoring is 0,0091429%.		7100000 re-use candidates processed. Selection by scoring is 0,0094366%.		7200000 re-use candidates processed. Selection by scoring is 0,0097222%.		7300000 re-use candidates processed. Selection by scoring is 0,0099178%.		7400000 re-use candidates processed. Selection by scoring is 0,0100270%.		7500000 re-use candidates processed. Selection by scoring is 0,0099467%.		7600000 re-use candidates processed. Selection by scoring is 0,0099211%.		7700000 re-use candidates processed. Selection by scoring is 0,0098961%.		7800000 re-use candidates processed. Selection by scoring is 0,0097692%.		7900000 re-use candidates processed. Selection by scoring is 0,0096709%.		8000000 re-use candidates processed. Selection by scoring is 0,0097500%.		8100000 re-use candidates processed. Selection by scoring is 0,0098272%.		8200000 re-use candidates processed. Selection by scoring is 0,0097317%.		8300000 re-use candidates processed. Selection by scoring is 0,0096867%.		8400000 re-use candidates processed. Selection by scoring is 0,0096667%.		8500000 re-use candidates processed. Selection by scoring is 0,0096471%.		8600000 re-use candidates processed. Selection by scoring is 0,0096279%.		8700000 re-use candidates processed. Selection by scoring is 0,0095402%.		8800000 re-use candidates processed. Selection by scoring is 0,0097273%.		8900000 re-use candidates processed. Selection by scoring is 0,0097528%.		9000000 re-use candidates processed. Selection by scoring is 0,0096667%.		9100000 re-use candidates processed. Selection by scoring is 0,0096044%.		9200000 re-use candidates processed. Selection by scoring is 0,0095000%.		9300000 re-use candidates processed. Selection by scoring is 0,0095484%.		9400000 re-use candidates processed. Selection by scoring is 0,0095745%.		9500000 re-use candidates processed. Selection by scoring is 0,0096842%.		9600000 re-use candidates processed. Selection by scoring is 0,0099375%.		9700000 re-use candidates processed. Selection by scoring is 0,0098763%.		9800000 re-use candidates processed. Selection by scoring is 0,0099796%.		9900000 re-use candidates processed. Selection by scoring is 0,0099798%.		10000000 re-use candidates processed. Selection by scoring is 0,0098800%.		10100000 re-use candidates processed. Selection by scoring is 0,0097822%.		10200000 re-use candidates processed. Selection by scoring is 0,0097059%.		10300000 re-use candidates processed. Selection by scoring is 0,0096505%.		10400000 re-use candidates processed. Selection by scoring is 0,0095769%.		10500000 re-use candidates processed. Selection by scoring is 0,0095429%.		10600000 re-use candidates processed. Selection by scoring is 0,0095660%.		10700000 re-use candidates processed. Selection by scoring is 0,0095327%.		10800000 re-use candidates processed. Selection by scoring is 0,0096481%.		10900000 re-use candidates processed. Selection by scoring is 0,0097615%.		11000000 re-use candidates processed. Selection by scoring is 0,0097455%.		11100000 re-use candidates processed. Selection by scoring is 0,0098018%.		11200000 re-use candidates processed. Selection by scoring is 0,0097679%.		11300000 re-use candidates processed. Selection by scoring is 0,0097876%.		11400000 re-use candidates processed. Selection by scoring is 0,0098596%.		11500000 re-use candidates processed. Selection by scoring is 0,0099304%.		11600000 re-use candidates processed. Selection by scoring is 0,0100172%.		11700000 re-use candidates processed. Selection by scoring is 0,0100171%.		11800000 re-use candidates processed. Selection by scoring is 0,0101186%.		11900000 re-use candidates processed. Selection by scoring is 0,0101008%.		12000000 re-use candidates processed. Selection by scoring is 0,0101167%.		12100000 re-use candidates processed. Selection by scoring is 0,0101818%.		12200000 re-use candidates processed. Selection by scoring is 0,0103443%.		12300000 re-use candidates processed. Selection by scoring is 0,0104228%.		12400000 re-use candidates processed. Selection by scoring is 0,0104194%.		12500000 re-use candidates processed. Selection by scoring is 0,0104640%.		12600000 re-use candidates processed. Selection by scoring is 0,0104921%.		12700000 re-use candidates processed. Selection by scoring is 0,0104724%.		12800000 re-use candidates processed. Selection by scoring is 0,0105313%.		12900000 re-use candidates processed. Selection by scoring is 0,0105426%.		13000000 re-use candidates processed. Selection by scoring is 0,0105538%.		13100000 re-use candidates processed. Selection by scoring is 0,0105802%.		13200000 re-use candidates processed. Selection by scoring is 0,0105909%.		13300000 re-use candidates processed. Selection by scoring is 0,0105263%.		13400000 re-use candidates processed. Selection by scoring is 0,0105821%.		13500000 re-use candidates processed. Selection by scoring is 0,0105481%.		13600000 re-use candidates processed. Selection by scoring is 0,0105588%.		13700000 re-use candidates processed. Selection by scoring is 0,0105401%.		13800000 re-use candidates processed. Selection by scoring is 0,0105507%.		13900000 re-use candidates processed. Selection by scoring is 0,0105324%.		14000000 re-use candidates processed. Selection by scoring is 0,0105000%.		14100000 re-use candidates processed. Selection by scoring is 0,0104823%.		14200000 re-use candidates processed. Selection by scoring is 0,0104085%.		14300000 re-use candidates processed. Selection by scoring is 0,0103776%.
+	DONE!!
+
+END OF PROCESS LEVEL 5 (SCORING)
+
+
+
+START TO PROCESS LEVEL 6 (POSTPROCESING)
+
+Using eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl implementation  for postprocessing.
+OUTPUT file is outfile=data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.3/001-TraVizPostprocessingImpl-mode=1_minfrequency=2/1_2_vulgata_francorum-1_2_vulgata_francorum.pproc ... 
+Corpus file name         : data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt
+TRACER's score file name : data/corpora/1_2_vulgata_francorum/TRACER_DATA/01-02-WLP-lem_true_syn_true_ssim_true_redwo_false-ngram_5-LLR_true_toLC_true_rDia_false_w2wl_false-wlt_5/01-01-01-00-00-WordBasedTrainingImpl/02-02-02-02-01-LocalRandomFeatureSelectorFilterImpl_FeatDens=0.65/02-01-01-01-01-1_2_vulgata_francorum-01-01-01-02-1_2_vulgata_francorum/02-02-01-01-01-02-SelectedFeatureResemblanceSimilarityImpl_Threshold=0.3/1_2_vulgata_francorum-1_2_vulgata_francorum.score
+TRV mode                 : 1
+Minimum frequency        : 2
+	DONE!!
+
+END OF PROCESS LEVEL 6 (POSTPROCESSING)
+
+
+

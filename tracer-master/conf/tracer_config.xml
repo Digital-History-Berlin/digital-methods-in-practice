@@ -8,15 +8,19 @@
         <property name="FRAMEWORK_IMPL" value="eu.etrap.tracer.DefaultFrameWorkImpl" />
         <property name="PREPROCESSING_IMPL" value="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl" />
         <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/>
-        <!--property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.TriGramShinglingTrainingImpl"/-->
-        <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl"/>
-        <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.IntraCorpusLinkingImpl"/>
+        <!-- <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl" /> -->
+        <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.locallocal.LocalRandomFeatureSelectorFilterImpl"/>
+        <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
         <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
         <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl"/>
         
-        <property name="SENTENCE_FILE_NAME" value="data/corpora/Bible/KJV.txt" />
+        <property name="SENTENCE_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt" />
+        <property name="BASEFORM_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_vulgata_francorum.lemma" />
+        <property name="SYNONYMS_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/latin.syns" />
+        
+        <!-- <property name="SENTENCE_FILE_NAME" value="data/corpora/Bible/KJV.txt" />
         <property name="BASEFORM_FILE_NAME" value="data/corpora/Bible/Bible.lemma" />
-        <property name="SYNONYMS_FILE_NAME" value="data/corpora/Bible/Bible.syns" />
+        <property name="SYNONYMS_FILE_NAME" value="data/corpora/Bible/Bible.syns" /> -->
         
         <property name="TOKENISATION_CHARACTERS_FILE_NAME" value="data/wordlists/100-wn-all.txt" />
         <property name="LETTER_SHAVER_MAPPING_FILE_NAME" value="data/letter-mappings/arabic.txt" />
@@ -76,7 +80,7 @@
     <category name="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl">
         <property name="boolLemmatisation" value="true" />
         <property name="boolReplaceSynonyms" value="true" />
-        <property name="boolReplaceStringSimilarWords" value="false" />
+        <property name="boolReplaceStringSimilarWords" value="true" />
         <property name="boolRemoveDiachritics" value="false" />
         <property name="boolMakeAllLowerCase" value="true" />
         <property name="boolReplaceWordByWordLength" value="false" />
@@ -215,7 +219,7 @@
     </category>
 
     <category name="eu.etrap.tracer.selection.localglobal.LocalMaxFeatureFrequencySelectorImpl">
-        <property name="dblFeatureDensity" value="0.8" />
+        <property name="dblFeatureDensity" value="0.6" />
     </category>
 
     <category name="eu.etrap.tracer.selection.localglobal.LocalMinFeatureFrequencySelectorImpl">
@@ -274,10 +278,18 @@
         <property name="intMinOverlap" value="2" />
     </category>
 
+    <!-- <category name="eu.etrap.tracer.linking.MovingWindowInterCorpusLinking">
+        <property name="strRUID2FeatureImplementation" value="eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl" />
+        <property name="strFeature2RUIDImplementation" value="eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl" />
+        <property name="intWorkNumbering" value="100000000" />
+        <property name="intMinOverlap" value="2" />
+        <property name="intWindowSize" value="15" />
+    </!--> -->
+
     <category name="eu.etrap.tracer.linking.InterCorpusLinkingImpl">
         <property name="strRUID2FeatureImplementation" value="eu.etrap.tracer.linking.connector.ram.RUID2FeatureRAMConnectorImpl" />
         <property name="strFeature2RUIDImplementation" value="eu.etrap.tracer.linking.connector.ram.Feature2RUIDRAMConnectorImpl" />
-        <property name="intWorkNumbering" value="1000000" />
+        <property name="intWorkNumbering" value="100000000" />
         <property name="intMinOverlap" value="2" />
     </category>
 
@@ -306,7 +318,7 @@
     </category>
 
     <category name="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl">
-        <property name="dblScoringThreshold" value="0.5" />
+        <property name="dblScoringThreshold" value="0.3" />
     </category>
 
 
