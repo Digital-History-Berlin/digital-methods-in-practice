@@ -86,5 +86,23 @@
     "op": "core/column-removal",
     "description": "Remove column Column 4 2",
     "columnName": "Column 4 2"
+  },
+  {
+    "op": "core/blank-down",
+    "description": "Blank down cells in column Column 4 1",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 4 1"
+  },
+  {
+    "op": "core/fill-down",
+    "description": "Fill down cells in column Column 4 1",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 4 1"
   }
 ]
