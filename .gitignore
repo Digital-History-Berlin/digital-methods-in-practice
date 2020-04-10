@@ -10,6 +10,7 @@ tracer-master/doc/web/
 tracer-master/nbbuild.xml
 tracer-master/nbproject/
 tracer-master/tmp/
-tracer-master/conf/tmp/
+tracer-master/conf/
 tracer-master/tracer.jar
 notes.md
+~$*
