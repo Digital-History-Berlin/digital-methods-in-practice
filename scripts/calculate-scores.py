@@ -39,12 +39,6 @@ except IndexError:
 
 evaluation_path = result_path.replace("reuses.js", "") + "evaluation_scores.txt"
 
-print("---")
-print("Results can be found in:\n\n" + evaluation_path)
-print("---")
-
-sys.stdout = open(evaluation_path, "w")
-
 number_relevant_retrieved = 0
 
 for retrieved in reuse_results:
@@ -62,7 +56,22 @@ precision = float(number_relevant_retrieved) / float(number_retrieved)
 recall_frac = str(number_relevant_retrieved) + "/" + str(number_relevant)
 recall = float(number_relevant_retrieved) / float(number_relevant)
 
-f_measure = 2 * ((precision * recall) / precision + recall)
+f_measure = 2 * ((precision * recall) / (precision + recall))
+
+print("---")
+print("precision_frac: " + precision_frac)
+print("precision: " + str(precision))
+print("---")
+print("recall_frac: " + recall_frac)
+print("recall: " + str(recall))
+print("---")
+print("f_measure: " + str(f_measure))
+
+print("---")
+print("Results can be found in:\n\n" + evaluation_path)
+print("---")
+
+sys.stdout = open(evaluation_path, "w")
 
 print("precision_frac: " + precision_frac)
 print("precision: " + str(precision))
