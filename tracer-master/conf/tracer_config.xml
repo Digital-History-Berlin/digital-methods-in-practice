@@ -9,13 +9,13 @@
         <property name="PREPROCESSING_IMPL" value="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl" />
         <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.semantic.WordBasedTrainingImpl"/>
         <!-- <property name="TRAINING_IMPL" value="eu.etrap.tracer.featuring.syntactic.shingle.BiGramShinglingTrainingImpl" /> -->
-        <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.locallocal.LocalRandomFeatureSelectorFilterImpl"/>
+        <property name="SELECTION_IMPL" value="eu.etrap.tracer.selection.globalglobal.GlobalEntropySelectorImpl"/>
         <property name="LINKING_IMPL" value="eu.etrap.tracer.linking.InterCorpusLinkingImpl"/>
-        <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.symmetric.SelectedFeatureResemblanceSimilarityImpl"/>
+        <property name="SCORING_IMPL" value="eu.etrap.tracer.scoring.feature.selected.asymmetric.SelectedFeatureContainmentSimilarityImpl"/>
         <property name="POSTPROCESSING_IMPL" value="eu.etrap.tracer.postprocessing.traviz.TraVizPostprocessingImpl"/>
         
-        <property name="SENTENCE_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.txt" />
-        <property name="BASEFORM_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_vulgata_francorum.lemma" />
+        <property name="SENTENCE_FILE_NAME" value="data/corpora/1_7_vulgata_francorum/1_6_vulgata_francorum.txt" />
+        <property name="BASEFORM_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/1_2_vulgata_francorum.lemma" />
         <property name="SYNONYMS_FILE_NAME" value="data/corpora/1_2_vulgata_francorum/latin.syns" />
         
         <!-- <property name="SENTENCE_FILE_NAME" value="data/corpora/Bible/KJV.txt" />
@@ -65,7 +65,7 @@
 
     <!-- TRACER config section -->
     <category name="eu.etrap.tracer.requirements.DefaultRequirementsControlFlowImpl">
-        <property name="dblStringSimThreshold" value="0.8" />
+        <property name="dblStringSimThreshold" value="0.6" />
         <property name="intMinWordLength" value="5" />
     </category>
 
@@ -78,8 +78,8 @@
     </category>
 
     <category name="eu.etrap.tracer.preprocessing.WordLevelPreprocessingImpl">
-        <property name="boolLemmatisation" value="true" />
-        <property name="boolReplaceSynonyms" value="true" />
+        <property name="boolLemmatisation" value="false" />
+        <property name="boolReplaceSynonyms" value="false" />
         <property name="boolReplaceStringSimilarWords" value="true" />
         <property name="boolRemoveDiachritics" value="false" />
         <property name="boolMakeAllLowerCase" value="true" />
@@ -125,7 +125,7 @@
     </category>
 
     <category name="eu.etrap.tracer.selection.globalglobal.GlobalEntropySelectorImpl">
-        <property name="dblFeatureDensity" value="0.55" />
+        <property name="dblFeatureDensity" value="0.7" />
     </category>
 
     <category name="eu.etrap.tracer.selection.globalglobal.GlobalSelfInformationSelectorImpl">
@@ -321,6 +321,10 @@
         <property name="dblScoringThreshold" value="0.3" />
     </category>
 
+    <category name="eu.etrap.tracer.scoring.feature.selected.asymmetric.SelectedFeatureContainmentSimilarityImpl">
+        <property name="dblScoringThreshold" value="0.7" />
+    </category>
+
 
 
 
@@ -387,7 +391,7 @@
         <property name="dblThreshold" value="-10000000.00" />
         <property name="intMinFragmentLength" value="5" />
         <property name="intMinFrequency" value="2" />
-        <property name="strStopWordList" value="data/stopwords/top-100-stopwords.txt" />
+        <property name="strStopWordList" value="data/stopwords/latin.txt" />
         <property name="dblHKLDiffThreshold" value="1.0" />
 
     </category>
@@ -398,7 +402,7 @@
         <property name="intLoops" value="1000" />
         <property name="dblThreshold" value="3.00" />
         <property name="intMinFrequency" value="2" />
-        <property name="strStopWordList" value="data/stopwords/englishST.txt" />
+        <property name="strStopWordList" value="data/stopwords/latin.txt" />
         <property name="dblHKLDiffThreshold" value="1.0" />
     </category>
     
