@@ -1,6 +1,7 @@
 # prepare-vulgata.py
 
 # Remove brackets before Psalms
+# OBSOLETE WITH VULGATA VERSION FROM COMPHISTSEM
 
 import re
 

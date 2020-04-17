@@ -1,4 +1,12 @@
 # calculate-scores.py
+# @author: Philipp Schneider
+# @date: 2020-04-10
+# 
+# Calculates the precision, recall and f-score for the result of a text reuse analysis with tracer
+# 
+# The program needs the following arguments:
+# 1. A concordance table as a csv. Must include the coloumns 'vulgata_zeile' and '\xef\xbb\xbfhistoria-francorum_zeile'
+# A tracer result file (reuses.js)
 
 import sys
 import csv

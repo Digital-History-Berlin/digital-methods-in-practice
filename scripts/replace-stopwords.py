@@ -1,4 +1,8 @@
 # replace-stopwords.py
+# @author: Philipp Schneider
+# @date: 2020-04-10
+#
+# Removes all stopwords listet in the file latin.txt from the vulgate. Currently no input parameters
 
 with open("tracer-master/data/stopwords/latin.txt", "r") as stopword_file:
     stopwords = stopword_file.readlines()
