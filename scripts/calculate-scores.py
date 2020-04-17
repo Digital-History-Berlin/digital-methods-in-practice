@@ -34,7 +34,7 @@ try:
     # source_number = sys.argv[3]
     # source_title = output_file_name.split("/")[-1]
 except IndexError:
-    print("Not enough arguments. Please give the TEI file as a first argument, the name of the output file as the second (no file suffix), and the number of your source as the third (for the text id in the tracer input)")
+    print("Not enough arguments. Please give the concordance table file as a first argument and the name and path of the reuses.js as the second.")
     sys.exit()
 
 evaluation_path = result_path.replace("reuses.js", "") + "evaluation_scores.txt"
@@ -50,6 +50,16 @@ for retrieved in reuse_results:
 number_retrieved = len(reuse_results)
 number_relevant = len(concordance_data)
 
+if number_retrieved == 0 or number_relevant == 0 or number_relevant_retrieved == 0:
+    print("number_retrieved: " + str(number_retrieved))
+    print("number_relevant: " + str(number_relevant))
+    print("number_relevant_retrieved: " + str(number_relevant_retrieved))
+    sys.exit()
+
+# print(number_relevant)
+# print(number_retrieved)
+# print(number_relevant_retrieved)
+
 precision_frac = str(number_relevant_retrieved) + "/" + str(number_retrieved)
 precision = float(number_relevant_retrieved) / float(number_retrieved)
 
@@ -58,6 +68,8 @@ recall = float(number_relevant_retrieved) / float(number_relevant)
 
 f_measure = 2 * ((precision * recall) / (precision + recall))
 
+print("---")
+print("Results: " + str(number_retrieved))
 print("---")
 print("precision_frac: " + precision_frac)
 print("precision: " + str(precision))
