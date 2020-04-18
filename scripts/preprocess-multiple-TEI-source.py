@@ -53,8 +53,3 @@ for tei in tei_files:
     tei_name = tei_name.replace(".xml", "")
 
     os.system('python scripts/preprocess-TEI-source.py "' + input_file_path + '" "' + output_dir + '/' + tei_name + '" ' + source_number)
-
-
-# Segmentierung bei anderem Skript korrigieren!
-
-# lemmata in eine Datei
