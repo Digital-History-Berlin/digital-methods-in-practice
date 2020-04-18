@@ -1,0 +1,913 @@
+1100000001	liber secundus regum	2020-04-18	Liber_Secundus_Regum
+1100000002	caput 1	2020-04-18	Liber_Secundus_Regum
+1100000003	factum est autem, postquam mortuus est saul, ut david reverteretur a caede amalec, et maneret in siceleg duos dies.	2020-04-18	Liber_Secundus_Regum
+1100000004	in die autem tertia apparuit homo veniens de castris saul veste conscissa, et pulvere conspersus caput: et ut venit ad david, cecidit super faciem suam, et adoravit.	2020-04-18	Liber_Secundus_Regum
+1100000005	dixitque ad eum david: unde venis? 	2020-04-18	Liber_Secundus_Regum
+1100000006	qui ait ad eum: de castris israel fugi.	2020-04-18	Liber_Secundus_Regum
+1100000007	et dixit ad eum david: quod est verbum quod factum est? 	2020-04-18	Liber_Secundus_Regum
+1100000008	indica mihi. 	2020-04-18	Liber_Secundus_Regum
+1100000009	qui ait: fugit populus ex praelio, et multi corruentes e populo mortui sunt: sed et saul et ionathas filius eius interierunt.	2020-04-18	Liber_Secundus_Regum
+1100000010	dixitque david ad adolescentem qui nuntiabat ei: unde scis quia mortuus est saul, et ionathas filius eius?	2020-04-18	Liber_Secundus_Regum
+1100000011	et ait adolescens qui nuntiabat ei: casu veni in montem gelboe, et saul incumbebat super hastam suam: porro currus et equites appropinquabant ei,et conversus post tergum suum, vidensque me, vocavit. 	2020-04-18	Liber_Secundus_Regum
+1100000012	cui cum respondissem: adsum:dixit mihi: quisnam es tu? 	2020-04-18	Liber_Secundus_Regum
+1100000013	et aio ad eum: amalecites ego sum.	2020-04-18	Liber_Secundus_Regum
+1100000014	et locutus est mihi: sta super me, et interfice me: quoniam tenent me angustiae, et adhuc tota anima mea in me est.	2020-04-18	Liber_Secundus_Regum
+1100000015	stansque super eum, occidi illum: sciebam enim quod vivere non poterat post ruinam: et tuli diadema quod erat in capite eius, et armillam de brachio illius, et attuli ad te dominum meum huc.	2020-04-18	Liber_Secundus_Regum
+1100000016	apprehendens autem david, vestimenta sua scidit, omnesque viri qui erant cum eo,et planxerunt, et fleverunt, et ieiunaverunt usque ad vesperam super saul, et super ionathan filium eius, et super populum domini, et super domum israel, eo quod corruissent gladio.	2020-04-18	Liber_Secundus_Regum
+1100000017	dixitque david ad iuvenem qui nuntiaverat ei: unde es tu? 	2020-04-18	Liber_Secundus_Regum
+1100000018	qui respondit: filius hominis advenae amalecitae ego sum.	2020-04-18	Liber_Secundus_Regum
+1100000019	et ait ad eum david: quare non timuisti mittere manum tuam ut occideres christum domini?	2020-04-18	Liber_Secundus_Regum
+1100000020	vocansque david unum de pueris suis, ait: accedens irrue in eum. 	2020-04-18	Liber_Secundus_Regum
+1100000021	qui percussit illum, et mortuus est.	2020-04-18	Liber_Secundus_Regum
+1100000022	et ait ad eum david: sanguis tuus super caput tuum: os enim tuum locutum est adversum te, dicens: ego interfeci christum domini.	2020-04-18	Liber_Secundus_Regum
+1100000023	planxit autem david planctum huiuscemodi super saul, et super ionathan filium eius(et praecepit ut docerent filios iuda arcum, sicut scriptum est in libro iustorum), et ait:	2020-04-18	Liber_Secundus_Regum
+1100000024	considera, israel, pro his qui mortui sunt,	2020-04-18	Liber_Secundus_Regum
+1100000025	super excelsa tua vulnerati.	2020-04-18	Liber_Secundus_Regum
+1100000026	inclyti israel super montes tuos interfecti sunt:	2020-04-18	Liber_Secundus_Regum
+1100000027	quomodo ceciderunt fortes?	2020-04-18	Liber_Secundus_Regum
+1100000028	nolite annuntiare in geth,	2020-04-18	Liber_Secundus_Regum
+1100000029	neque annuntietis in compitis ascalonis:	2020-04-18	Liber_Secundus_Regum
+1100000030	ne forte laetentur filiae philisthiim;	2020-04-18	Liber_Secundus_Regum
+1100000031	ne exultent filiae incircumcisorum.	2020-04-18	Liber_Secundus_Regum
+1100000032	montes gelboe, nec ros, nec pluvia veniant super vos,	2020-04-18	Liber_Secundus_Regum
+1100000033	neque sint agri primitiarum:	2020-04-18	Liber_Secundus_Regum
+1100000034	quia ibi abiectus est clypeus fortium:	2020-04-18	Liber_Secundus_Regum
+1100000035	clypeus saul, quasi non esset unctus oleo.	2020-04-18	Liber_Secundus_Regum
+1100000036	a sanguine interfectorum, ab adipe fortium,	2020-04-18	Liber_Secundus_Regum
+1100000037	sagitta ionathae numquam rediit retrorsum,	2020-04-18	Liber_Secundus_Regum
+1100000038	et gladius saul non est reversus inanis.	2020-04-18	Liber_Secundus_Regum
+1100000039	saul et ionathas amabiles, et decori in vita sua,	2020-04-18	Liber_Secundus_Regum
+1100000040	in morte quoque non sunt divisi:	2020-04-18	Liber_Secundus_Regum
+1100000041	aquilis velociores, leonibus fortiores.	2020-04-18	Liber_Secundus_Regum
+1100000042	filiae israel, super saul flete,	2020-04-18	Liber_Secundus_Regum
+1100000043	qui vestiebat vos coccino in deliciis,	2020-04-18	Liber_Secundus_Regum
+1100000044	qui praebebat ornamenta aurea cultui vestro.	2020-04-18	Liber_Secundus_Regum
+1100000045	quomodo ceciderunt fortes in praelio?	2020-04-18	Liber_Secundus_Regum
+1100000046	ionathas in excelsis tuis occisus est?	2020-04-18	Liber_Secundus_Regum
+1100000047	doleo super te, frater mi ionatha,	2020-04-18	Liber_Secundus_Regum
+1100000048	decore nimis, et amabilis super amorem mulierum.	2020-04-18	Liber_Secundus_Regum
+1100000049	sicut mater unicum amat filium suum,	2020-04-18	Liber_Secundus_Regum
+1100000050	ita ego te diligebam.	2020-04-18	Liber_Secundus_Regum
+1100000051	quomodo ceciderunt robusti,	2020-04-18	Liber_Secundus_Regum
+1100000052	et perierunt arma bellica?	2020-04-18	Liber_Secundus_Regum
+1100000053	caput 2	2020-04-18	Liber_Secundus_Regum
+1100000054	igitur post haec consuluit david dominum, dicens: num ascendam in unam de civitatibus iuda? 	2020-04-18	Liber_Secundus_Regum
+1100000055	et ait dominus ad eum: ascende. 	2020-04-18	Liber_Secundus_Regum
+1100000056	dixitque david: quo ascendam? 	2020-04-18	Liber_Secundus_Regum
+1100000057	et respondit ei: in hebron.	2020-04-18	Liber_Secundus_Regum
+1100000058	ascendit ergo david, et duae uxores eius, achinoam iezraelites, et abigail uxor nabal carmeli:sed et viros, qui erant cum eo, duxit david singulos cum domo sua: et manserunt in oppidis hebron.	2020-04-18	Liber_Secundus_Regum
+1100000059	veneruntque viri iuda, et unxerunt ibi david ut regnaret super domum iuda. 	2020-04-18	Liber_Secundus_Regum
+1100000060	et nuntiatum est david quod viri iabes galaad sepelissent saul.	2020-04-18	Liber_Secundus_Regum
+1100000061	misit ergo david nuntios ad viros iabes galaad, dixitque ad eos: benedicti vos domino, qui fecistis misericordiam hanc cum domino vestro saul, et sepelistis eum.	2020-04-18	Liber_Secundus_Regum
+1100000062	et nunc retribuet vobis quidem dominus misericordiam et veritatem: sed et ego reddam gratiam, eo quod fecistis verbum istud.	2020-04-18	Liber_Secundus_Regum
+1100000063	confortentur manus vestrae, et estote filii fortitudinis: licet enim mortuus sit dominus vester saul, tamen me unxit domus iuda in regem sibi.	2020-04-18	Liber_Secundus_Regum
+1100000064	abner autem filius ner, princeps exercitus saul, tulit isboseth filium saul, et circumduxit eum per castra,regemque constituit super galaad, et super gessuri, et super iezrael, et super ephraim, et super beniamin, et super israel universum.	2020-04-18	Liber_Secundus_Regum
+1100000065	quadraginta annorum erat isboseth filius saul cum regnare coepisset super israel, et duobus annis regnavit: sola autem domus iuda sequebatur david.	2020-04-18	Liber_Secundus_Regum
+1100000066	et fuit numerus dierum quos commoratus est david imperans in hebron super domum iuda, septem annorum et sex mensium.	2020-04-18	Liber_Secundus_Regum
+1100000067	egressusque est abner filius ner, et pueri isboseth filii saul, de castris in gabaon.	2020-04-18	Liber_Secundus_Regum
+1100000068	porro ioab filius sarviae, et pueri david, egressi sunt, et occurrerunt eis iuxta piscinam gabaon. 	2020-04-18	Liber_Secundus_Regum
+1100000069	et cum in unum convenissent, e regione sederunt: hi ex una parte piscinae, et illi ex altera.	2020-04-18	Liber_Secundus_Regum
+1100000070	dixitque abner ad ioab: surgant pueri, et ludant coram nobis. 	2020-04-18	Liber_Secundus_Regum
+1100000071	et respondit ioab: surgant.	2020-04-18	Liber_Secundus_Regum
+1100000072	surrexerunt ergo, et transierunt numero duodecim de beniamin, ex parte isboseth filii saul, et duodecim de pueris david.	2020-04-18	Liber_Secundus_Regum
+1100000073	apprehensoque unusquisque capite comparis sui, defixit gladium in latus contrarii, et ceciderunt simul: vocatumque est nomen loci illius: ager robustorum, in gabaon.	2020-04-18	Liber_Secundus_Regum
+1100000074	et ortum est bellum durum satis in die illa: fugatusque est abner et viri israel a pueris david.	2020-04-18	Liber_Secundus_Regum
+1100000075	erant autem ibi tres filii sarviae, ioab, et abisai, et asael: porro asael cursor velocissimus fuit, quasi unus de capreis quae morantur in silvis.	2020-04-18	Liber_Secundus_Regum
+1100000076	persequebatur autem asael abner, et non declinavit ad dextram neque ad sinistram omittens persequi abner.	2020-04-18	Liber_Secundus_Regum
+1100000077	respexit itaque abner post tergum suum, et ait: tune es asael? 	2020-04-18	Liber_Secundus_Regum
+1100000078	qui respondit: ego sum.	2020-04-18	Liber_Secundus_Regum
+1100000079	dixitque ei abner: vade ad dexteram, sive ad sinistram, et apprehende unum de adolescentibus, et tolle tibi spolia eius. 	2020-04-18	Liber_Secundus_Regum
+1100000080	noluit autem asael omittere quin urgeret eum.	2020-04-18	Liber_Secundus_Regum
+1100000081	rursumque locutus est abner ad asael: recede, noli me sequi, ne compellar confodere te in terram, et levare non potero faciem meam ad ioab fratrem tuum.	2020-04-18	Liber_Secundus_Regum
+1100000082	qui audire contempsit, et noluit declinare: percussit ergo eum abner aversa hasta in inguine, et transfodit, et mortuus est in eodem loco: omnesque qui transibant per locum illum, in quo ceciderat asael et mortuus erat, subsistebant.	2020-04-18	Liber_Secundus_Regum
+1100000083	persequentibus autem ioab et abisai fugientem abner, sol occubuit: et venerunt usque ad collem aquaeductus, qui est ex adverso vallis itineris deserti in gabaon.	2020-04-18	Liber_Secundus_Regum
+1100000084	congregatique sunt filii beniamin ad abner: et conglobati in unum cuneum, steterunt in summitate tumuli unius.	2020-04-18	Liber_Secundus_Regum
+1100000085	et exclamavit abner ad ioab, et ait: num usque ad internecionem tuus mucro desaeviet? 	2020-04-18	Liber_Secundus_Regum
+1100000086	an ignoras quod periculosa sit desperatio? 	2020-04-18	Liber_Secundus_Regum
+1100000087	usquequo non dicis populo ut omittat persequi fratres suos?	2020-04-18	Liber_Secundus_Regum
+1100000088	et ait ioab: vivit dominus, si locutus fuisses, mane recessisset populus persequens fratrem suum.	2020-04-18	Liber_Secundus_Regum
+1100000089	insonuit ergo ioab buccina, et stetit omnis exercitus, nec persecuti sunt ultra israel, neque iniere certamen.	2020-04-18	Liber_Secundus_Regum
+1100000090	abner autem et viri eius abierunt per campestria, tota nocte illa: et transierunt iordanem, et lustrata omni beth-horon, venerunt ad castra.	2020-04-18	Liber_Secundus_Regum
+1100000091	porro ioab reversus, omisso abner, congregavit omnem populum: et defuerunt de pueris david decem et novem viri, excepto asaele.	2020-04-18	Liber_Secundus_Regum
+1100000092	servi autem david percusserunt de beniamin, et de viris qui erant cum abner, trecentos sexaginta, qui et mortui sunt.	2020-04-18	Liber_Secundus_Regum
+1100000093	tuleruntque asael, et sepelierunt eum in sepulchro patris sui in bethlehem: et ambulaverunt tota nocte ioab et viri qui erant cum eo, et in ipso crepusculo pervenerunt in hebron.	2020-04-18	Liber_Secundus_Regum
+1100000094	caput 3	2020-04-18	Liber_Secundus_Regum
+1100000095	facta est ergo longa concertatio inter domum saul et inter domum david: david proficiscens, et semper seipso robustior, domus autem saul decrescens quotidie.	2020-04-18	Liber_Secundus_Regum
+1100000096	natique sunt filii david in hebron: fuitque primogenitus eius amnon, de achinoam iezraelitide.	2020-04-18	Liber_Secundus_Regum
+1100000097	et post eum cheleab, de abigail uxore nabal carmeli: porro tertius absalom, filius maacha filiae tholmai regis gessur.	2020-04-18	Liber_Secundus_Regum
+1100000098	quartus autem adonias, filius haggith: et quintus saphathia, filius abital.	2020-04-18	Liber_Secundus_Regum
+1100000099	sextus quoque iethraam, de egla uxore david: hi nati sunt david in hebron.	2020-04-18	Liber_Secundus_Regum
+1100000100	cum ergo esset praelium inter domum saul et domum david, abner filius ner regebat domum saul.	2020-04-18	Liber_Secundus_Regum
+1100000101	fuerat autem sauli concubina nomine respha, filia aia. 	2020-04-18	Liber_Secundus_Regum
+1100000102	dixitque isboseth ad abner:quare ingressus es ad concubinam patris mei? 	2020-04-18	Liber_Secundus_Regum
+1100000103	qui iratus nimis propter verba isboseth, ait: numquid caput canis ego sum adversum iudam hodie, qui fecerim misericordiam super domum saul patris tui, et super fratres et proximos eius, et non tradidi te in manus david, et tu requisisti in me quod argueres pro muliere hodie?	2020-04-18	Liber_Secundus_Regum
+1100000104	haec faciat deus abner, et haec addat ei, nisi quomodo iuravit dominus david, sic faciam cum eo,ut transferatur regnum de domo saul, et elevetur thronus david super israel et super iudam, a dan usque bersabee.	2020-04-18	Liber_Secundus_Regum
+1100000105	et non potuit respondere ei quidquam, quia metuebat illum.	2020-04-18	Liber_Secundus_Regum
+1100000106	misit ergo abner nuntios ad david pro se dicentes: cuius est terra? 	2020-04-18	Liber_Secundus_Regum
+1100000107	et ut loquerentur: fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum israel.	2020-04-18	Liber_Secundus_Regum
+1100000108	qui ait: optime: ego faciam tecum amicitias: sed unam rem peto a te, dicens: non videbis faciem meam antequam adduxeris michol filiam saul: et sic venies, et videbis me.	2020-04-18	Liber_Secundus_Regum
+1100000109	misit autem david nuntios ad isboseth filium saul, dicens: redde uxorem meam michol, quam despondi mihi centum praeputiis philisthiim.	2020-04-18	Liber_Secundus_Regum
+1100000110	misit ergo isboseth, et tulit eam a viro suo phaltiel filio lais.	2020-04-18	Liber_Secundus_Regum
+1100000111	sequebaturque eam vir suus, plorans usque bahurim: et dixit ad eum abner: vade, et revertere. 	2020-04-18	Liber_Secundus_Regum
+1100000112	qui reversus est.	2020-04-18	Liber_Secundus_Regum
+1100000113	sermonem quoque intulit abner ad seniores israel, dicens: tam heri quam nudiustertius quaerebatis david ut regnaret super vos.	2020-04-18	Liber_Secundus_Regum
+1100000114	nunc ergo facite: quoniam dominus locutus est ad david, dicens: in manu servi mei david salvabo populum meum israel de manu philisthiim, et omnium inimicorum eius.	2020-04-18	Liber_Secundus_Regum
+1100000115	locutus est autem abner etiam ad beniamin. 	2020-04-18	Liber_Secundus_Regum
+1100000116	et abiit ut loqueretur ad david in hebron omnia quae placuerant israeli et universo beniamin.	2020-04-18	Liber_Secundus_Regum
+1100000117	venitque ad david in hebron cum viginti viris: et fecit david abner, et viris eius qui venerant cum eo, convivium.	2020-04-18	Liber_Secundus_Regum
+1100000118	et dixit abner ad david: surgam, ut congregem ad te dominum meum regem omnem israel, et ineam tecum foedus, et imperes omnibus, sicut desiderat anima tua. 	2020-04-18	Liber_Secundus_Regum
+1100000119	cum ergo deduxisset david abner, et ille isset in pace,statim pueri david et ioab venerunt, caesis latronibus, cum praeda magna nimis: abner autem non erat cum david in hebron, quia iam dimiserat eum, et profectus fuerat in pace.	2020-04-18	Liber_Secundus_Regum
+1100000120	et ioab, et omnis exercitus qui erat cum eo, postea venerunt: nuntiatum est itaque ioab a narrantibus: venit abner filius ner ad regem, et dimisit eum, et abiit in pace.	2020-04-18	Liber_Secundus_Regum
+1100000121	et ingressus est ioab ad regem, et ait: quid fecisti? 	2020-04-18	Liber_Secundus_Regum
+1100000122	ecce venit abner ad te: quare dimisisti eum, et abiit et recessit?	2020-04-18	Liber_Secundus_Regum
+1100000123	ignoras abner filium ner, quoniam ad hoc venit ad te ut deciperet te, et sciret exitum tuum et introitum tuum, et nosset omnia quae agis?	2020-04-18	Liber_Secundus_Regum
+1100000124	egressus itaque ioab a david, misit nuntios post abner, et reduxit eum a cisterna sira, ignorante david.	2020-04-18	Liber_Secundus_Regum
+1100000125	cumque rediisset abner in hebron, seorsum adduxit eum ioab ad medium portae ut loqueretur ei, in dolo: et percussit illum ibi in inguine, et mortuus est in ultionem sanguinis asael fratris eius.	2020-04-18	Liber_Secundus_Regum
+1100000126	quod cum audisset david rem iam gestam, ait: mundus ego sum, et regnum meum apud dominum usque in sempiternum, a sanguine abner filii ner:et veniat super caput ioab, et super omnem domum patris eius: nec deficiat de domo ioab fluxum seminis sustinens, et leprosus, et tenens fusum, et cadens gladio, et indigens pane.	2020-04-18	Liber_Secundus_Regum
+1100000127	igitur ioab et abisai frater eius interfecerunt abner, eo quod occidisset asael fratrem eorum in gabaon in praelio.	2020-04-18	Liber_Secundus_Regum
+1100000128	dixit autem david ad ioab, et ad omnem populum qui erat cum eo: scindite vestimenta vestra, et accingimini saccis, et plangite ante exequias abner. 	2020-04-18	Liber_Secundus_Regum
+1100000129	porro rex david sequebatur feretrum.	2020-04-18	Liber_Secundus_Regum
+1100000130	cumque sepelissent abner in hebron, levavit rex david vocem suam, et flevit super tumulum abner: flevit autem et omnis populus.	2020-04-18	Liber_Secundus_Regum
+1100000131	plangensque rex, et lugens abner, ait:	2020-04-18	Liber_Secundus_Regum
+1100000132	nequaquam ut mori solent ignavi, mortuus est abner.	2020-04-18	Liber_Secundus_Regum
+1100000133	manus tuae ligatae non sunt,	2020-04-18	Liber_Secundus_Regum
+1100000134	et pedes tui non sunt compedibus aggravati:	2020-04-18	Liber_Secundus_Regum
+1100000135	sed sicut solent cadere coram filiis iniquitatis, sic corruisti.	2020-04-18	Liber_Secundus_Regum
+1100000136	congeminansque omnis populus flevit super eum.	2020-04-18	Liber_Secundus_Regum
+1100000137	cumque venisset universa multitudo cibum capere cum david, clara adhuc die iuravit david, dicens: haec faciat mihi deus, et haec addat, si ante occasum solis gustavero panem vel aliud quidquam.	2020-04-18	Liber_Secundus_Regum
+1100000138	omnisque populus audivit, et placuerunt eis cuncta quae fecit rex in conspectu totius populi.	2020-04-18	Liber_Secundus_Regum
+1100000139	et cognovit omne vulgus et universus israel in die illa, quoniam non actum fuisset a rege ut occideretur abner filius ner.	2020-04-18	Liber_Secundus_Regum
+1100000140	dixit quoque rex ad servos suos: num ignoratis quoniam princeps et maximus cecidit hodie in israel?	2020-04-18	Liber_Secundus_Regum
+1100000141	ego autem adhuc delicatus, et unctus rex: porro viri isti filii sarviae duri sunt mihi: retribuat dominus facienti malum iuxta malitiam suam.	2020-04-18	Liber_Secundus_Regum
+1100000142	caput 4	2020-04-18	Liber_Secundus_Regum
+1100000143	audivit autem isboseth filius saul quod cecidisset abner in hebron: et dissolutae sunt manus eius, omnisque israel perturbatus est.	2020-04-18	Liber_Secundus_Regum
+1100000144	duo autem viri principes latronum erant filio saul, nomen uni baana, et nomen alteri rechab, filii remmon berothitae de filiis beniamin: siquidem et beroth reputata est in beniamin.	2020-04-18	Liber_Secundus_Regum
+1100000145	et fugerunt berothitae in gethaim, fueruntque ibi advenae usque ad tempus illud.	2020-04-18	Liber_Secundus_Regum
+1100000146	erat autem ionathae filio saul filius debilis pedibus: quinquennis enim fuit, quando venit nuntius de saul et ionatha ex iezrahel. 	2020-04-18	Liber_Secundus_Regum
+1100000147	tollens itaque eum nutrix sua, fugit: cumque festinaret ut fugeret, cecidit, et claudus effectus est: habuitque vocabulum miphiboseth.	2020-04-18	Liber_Secundus_Regum
+1100000148	venientes igitur filii remmon berothitae, rechab et baana, ingressi sunt fervente die domum isboseth: qui dormiebat super stratum suum meridie. 	2020-04-18	Liber_Secundus_Regum
+1100000149	et ostiaria domus purgans triticum, obdormivit.	2020-04-18	Liber_Secundus_Regum
+1100000150	ingressi sunt autem domum latenter assumentes spicas tritici, et percusserunt eum in inguine rechab, et baana frater eius, et fugerunt.	2020-04-18	Liber_Secundus_Regum
+1100000151	cum autem ingressi fuissent domum, ille dormiebat super lectum suum in conclavi, et percutientes interfecerunt eum: sublatoque capite eius, abierunt per viam deserti tota nocte,et attulerunt caput isboseth ad david in hebron: dixeruntque ad regem: ecce caput isboseth filii saul inimici tui, qui quaerebat animam tuam: et dedit dominus domino meo regi ultionem hodie de saul, et de semine eius.	2020-04-18	Liber_Secundus_Regum
+1100000152	respondens autem david rechab, et baana fratri eius, filiis remmon berothitae, dixit ad eos: vivit dominus, qui eruit animam meam de omni angustia,quoniam eum qui annuntiaverat mihi, et dixerat: mortuus est saul: qui putabat se prospera nuntiare, tenui, et occidi eum in siceleg, cui oportebat mercedem dare pro nuntio.	2020-04-18	Liber_Secundus_Regum
+1100000153	quanto magis nunc cum homines impii interfecerunt virum innoxium in domo sua, super lectum suum, non quaeram sanguinem eius de manu vestra, et auferam vos de terra?	2020-04-18	Liber_Secundus_Regum
+1100000154	praecepit itaque david pueris suis, et interfecerunt eos: praecidentesque manus et pedes eorum, suspenderunt eos super piscinam in hebron: caput autem isboseth tulerunt, et sepelierunt in sepulchro abner in hebron.	2020-04-18	Liber_Secundus_Regum
+1100000155	caput 5	2020-04-18	Liber_Secundus_Regum
+1100000156	et venerunt universae tribus israel ad david in hebron, dicentes: ecce nos os tuum et caro tua sumus.	2020-04-18	Liber_Secundus_Regum
+1100000157	sed et heri et nudiustertius cum esset saul rex super nos, tu eras educens et reducens israel: dixit autem dominus ad te: tu pasces populum meum israel, et tu eris dux super israel.	2020-04-18	Liber_Secundus_Regum
+1100000158	venerunt quoque et seniores israel ad regem in hebron, et percussit cum eis rex david foedus in hebron coram domino: unxeruntque david in regem super israel.	2020-04-18	Liber_Secundus_Regum
+1100000159	filius triginta annorum erat david cum regnare coepisset, et quadraginta annis regnavit.	2020-04-18	Liber_Secundus_Regum
+1100000160	in hebron regnavit super iudam septem annis et sex mensibus: in ierusalem autem regnavit triginta tribus annis super omnem israel et iudam.	2020-04-18	Liber_Secundus_Regum
+1100000161	et abiit rex, et omnes viri qui erant cum eo, in ierusalem, ad iebusaeum habitatorem terrae: dictumque est david ab eis: non ingredieris huc, nisi abstuleris caecos et claudos dicentes: non ingredietur david huc.	2020-04-18	Liber_Secundus_Regum
+1100000162	cepit autem david arcem sion: haec est civitas david.	2020-04-18	Liber_Secundus_Regum
+1100000163	proposuerat enim david in die illa praemium, qui percussisset iebusaeum, et tetigisset domatum fistulas, et abstulisset caecos et claudos odientes animam david. 	2020-04-18	Liber_Secundus_Regum
+1100000164	idcirco dicitur in proverbio: caecus et claudus non intrabunt in templum.	2020-04-18	Liber_Secundus_Regum
+1100000165	habitavit autem david in arce, et vocavit eam civitatem david: et aedificavit per gyrum a mello et intrinsecus.	2020-04-18	Liber_Secundus_Regum
+1100000166	et ingrediebatur proficiens atque succrescens, et dominus deus exercituum erat cum eo.	2020-04-18	Liber_Secundus_Regum
+1100000167	misit quoque hiram rex tyri nuntios ad david, et ligna cedrina, et artifices lignorum, artificesque lapidum ad parietes: et aedificaverunt domum david.	2020-04-18	Liber_Secundus_Regum
+1100000168	et cognovit david quoniam confirmasset eum dominus regem super israel, et quoniam exaltasset regnum eius super populum suum israel.	2020-04-18	Liber_Secundus_Regum
+1100000169	accepit ergo david adhuc concubinas et uxores de ierusalem, postquam venerat de hebron: natique sunt david et alii filii et filiae:et haec nomina eorum, qui nati sunt ei in ierusalem: samua, et sobab, et nathan, et salomon,et iebahar, et elisua, et nepheg,et iaphia, et elisama, et elioda, et eliphaleth.	2020-04-18	Liber_Secundus_Regum
+1100000170	audierunt ergo philisthiim quod unxissent david in regem super israel, et ascenderunt universi ut quaererent david: quod cum audisset david, descendit in praesidium.	2020-04-18	Liber_Secundus_Regum
+1100000171	philisthiim autem venientes diffusi sunt in valle raphaim.	2020-04-18	Liber_Secundus_Regum
+1100000172	et consuluit david dominum, dicens: si ascendam ad philisthiim? 	2020-04-18	Liber_Secundus_Regum
+1100000173	et si dabis eos in manu mea? 	2020-04-18	Liber_Secundus_Regum
+1100000174	et dixit dominus ad david: ascende, quia tradens dabo philisthiim in manu tua.	2020-04-18	Liber_Secundus_Regum
+1100000175	venit ergo david in baal pharasim: et percussit eos ibi, et dixit: divisit dominus inimicos meos coram me, sicut dividuntur aquae. 	2020-04-18	Liber_Secundus_Regum
+1100000176	propterea vocatum est nomen loci illius, baal pharasim.	2020-04-18	Liber_Secundus_Regum
+1100000177	et reliquerunt ibi sculptilia sua, quae tulit david et viri eius.	2020-04-18	Liber_Secundus_Regum
+1100000178	et addiderunt adhuc philisthiim ut ascenderent, et diffusi sunt in valle raphaim.	2020-04-18	Liber_Secundus_Regum
+1100000179	consuluit autem david dominum: si ascendam contra philisthaeos, et tradas eos in manus meas? 	2020-04-18	Liber_Secundus_Regum
+1100000180	qui respondit: non ascendas contra eos, sed gyra post tergum eorum, et venies ad eos ex adverso pyrorum.	2020-04-18	Liber_Secundus_Regum
+1100000181	et cum audieris sonitum gradientis in cacumine pyrorum, tunc inibis praelium: quia tunc egredietur dominus ante faciem tuam, ut percutiat castra philisthiim.	2020-04-18	Liber_Secundus_Regum
+1100000182	fecit itaque david sicut praeceperat ei dominus, et percussit philisthiim de gabaa usque dum venias gezer.	2020-04-18	Liber_Secundus_Regum
+1100000183	caput 6	2020-04-18	Liber_Secundus_Regum
+1100000184	congregavit autem rursum david omnes electos ex israel, triginta millia.	2020-04-18	Liber_Secundus_Regum
+1100000185	surrexitque david, et abiit, et universus populus qui erat cum eo de viris iuda, ut adducerent arcam dei, super quam invocatum est nomen domini exercituum, sedentis in cherubim super eam.	2020-04-18	Liber_Secundus_Regum
+1100000186	et imposuerunt arcam dei super plaustrum novum: tuleruntque eam de domo abinadab, qui erat in gabaa: oza autem et ahio, filii abinadab, minabant plaustrum novum.	2020-04-18	Liber_Secundus_Regum
+1100000187	cumque tulissent eam de domo abinadab, qui erat in gabaa, custodiens arcam dei ahio praecedebat arcam.	2020-04-18	Liber_Secundus_Regum
+1100000188	david autem et omnis israel ludebant coram domino in omnibus lignis fabrefactis, et citharis et lyris et tympanis et sistris et cymbalis.	2020-04-18	Liber_Secundus_Regum
+1100000189	postquam autem venerunt ad aream nachon, extendit oza manum ad arcam dei, et tenuit eam: quoniam calcitrabant boves, et declinaverunt eam.	2020-04-18	Liber_Secundus_Regum
+1100000190	iratusque est indignatione dominus contra ozam, et percussit eum super temeritate: qui mortuus est ibi iuxta arcam dei.	2020-04-18	Liber_Secundus_Regum
+1100000191	contristatus est autem david, eo quod percussisset dominus ozam, et vocatum est nomen loci illius: percussio ozae, usque in diem hanc.	2020-04-18	Liber_Secundus_Regum
+1100000192	et extimuit david dominum in die illa, dicens: quomodo ingredietur ad me arca domini?	2020-04-18	Liber_Secundus_Regum
+1100000193	et noluit divertere ad se arcam domini in civitatem david: sed divertit eam in domum obededom gethaei.	2020-04-18	Liber_Secundus_Regum
+1100000194	et habitavit arca domini in domo obededom gethaei tribus mensibus: et benedixit dominus obededom, et omnem domum eius.	2020-04-18	Liber_Secundus_Regum
+1100000195	nuntiatumque est regi david quod benedixisset dominus obededom, et omnia eius, propter arcam dei. 	2020-04-18	Liber_Secundus_Regum
+1100000196	abiit ergo david, et adduxit arcam dei de domo obededom in civitatem david cum gaudio: et erant cum david septem chori, et victima vituli.	2020-04-18	Liber_Secundus_Regum
+1100000197	cumque transcendissent qui portabant arcam domini sex passus, immolabat bovem et arietem,et david saltabat totis viribus ante dominum: porro david erat accinctus ephod lineo.	2020-04-18	Liber_Secundus_Regum
+1100000198	et david et omnis domus israel ducebant arcam testamenti domini in iubilo, et in clangore buccinae.	2020-04-18	Liber_Secundus_Regum
+1100000199	cumque intrasset arca domini in civitatem david, michol filia saul, prospiciens per fenestram, vidit regem david subsilientem atque saltantem coram domino: et despexit eum in corde suo.	2020-04-18	Liber_Secundus_Regum
+1100000200	et introduxerunt arcam domini, et imposuerunt eam in loco suo in medio tabernaculi, quod tetenderat ei david: et obtulit david holocausta et pacifica coram domino.	2020-04-18	Liber_Secundus_Regum
+1100000201	cumque complesset offerens holocausta et pacifica, benedixit populo in nomine domini exercituum.	2020-04-18	Liber_Secundus_Regum
+1100000202	et partitus est universae multitudini israel tam viro quam mulieri singulis collyridam panis unam, et assaturam bubulae carnis unam, et similam frixam oleo: et abiit omnis populus, unusquisque in domum suam.	2020-04-18	Liber_Secundus_Regum
+1100000203	reversusque est david ut benediceret domui suae: et egressa michol filia saul in occursum david, ait: quam gloriosus fuit hodie rex israel discooperiens se ante ancillas servorum suorum, et nudatus est, quasi si nudetur unus de scurris.	2020-04-18	Liber_Secundus_Regum
+1100000204	dixitque david ad michol: ante dominum, qui elegit me potius quam patrem tuum et quam omnem domum eius, et praecepit mihi ut essem dux super populum domini in israel,et ludam, et vilior fiam plus quam factus sum: et ero humilis in oculis meis, et cum ancillis de quibus locuta es, gloriosior apparebo.	2020-04-18	Liber_Secundus_Regum
+1100000205	igitur michol filiae saul non est natus filius usque in diem mortis suae.	2020-04-18	Liber_Secundus_Regum
+1100000206	caput 7	2020-04-18	Liber_Secundus_Regum
+1100000207	factum est autem cum sedisset rex in domo sua, et dominus dedisset ei requiem undique ab universis inimicis suis,dixit ad nathan prophetam: videsne quod ego habitem in domo cedrina, et arca dei posita sit in medio pellium?	2020-04-18	Liber_Secundus_Regum
+1100000208	dixitque nathan ad regem: omne quod est in corde tuo, vade, fac: quia dominus tecum est.	2020-04-18	Liber_Secundus_Regum
+1100000209	factum est autem in illa nocte: et ecce sermo domini ad nathan, dicens:vade, et loquere ad servum meum david: haec dicit dominus: numquid tu aedificabis mihi domum ad habitandum?	2020-04-18	Liber_Secundus_Regum
+1100000210	neque enim habitavi in domo ex die illa, qua eduxi filios israel de terra aegypti, usque in diem hanc: sed ambulabam in tabernaculo, et in tentorio.	2020-04-18	Liber_Secundus_Regum
+1100000211	per cuncta loca quae transivi cum omnibus filiis israel, numquid loquens locutus sum ad unam de tribubus israel, cui praecepi ut pasceret populum meum israel, dicens: quare non aedificastis mihi domum cedrinam?	2020-04-18	Liber_Secundus_Regum
+1100000212	et nunc haec dices servo meo david: haec dicit dominus exercituum: ego tuli te de pascuis sequentem greges, ut esses dux super populum meum israel:et fui tecum in omnibus ubicumque ambulasti, et interfeci universos inimicos tuos a facie tua: fecique tibi nomen grande, iuxta nomen magnorum qui sunt in terra.	2020-04-18	Liber_Secundus_Regum
+1100000213	et ponam locum populo meo israel, et plantabo eum, et habitabit sub eo, et non turbabitur amplius: nec addent filii iniquitatis ut affligant eum sicut prius,ex die qua constitui iudices super populum meum israel: et requiem dabo tibi ab omnibus inimicis tuis: praedicitque tibi dominus quod domum faciat tibi dominus.	2020-04-18	Liber_Secundus_Regum
+1100000214	cumque completi fuerint dies tui, et dormieris cum patribus tuis, suscitabo semen tuum post te, quod egredietur de utero tuo, et firmabo regnum eius.	2020-04-18	Liber_Secundus_Regum
+1100000215	ipse aedificabit domum nomini meo, et stabiliam thronum regni eius usque in sempiternum.	2020-04-18	Liber_Secundus_Regum
+1100000216	ego ero ei in patrem, et ipse erit mihi in filium: qui si inique aliquid gesserit, arguam eum in virga virorum, et in plagis filiorum hominum.	2020-04-18	Liber_Secundus_Regum
+1100000217	misericordiam autem meam non auferam ab eo, sicut abstuli a saul, quem amovi a facie mea.	2020-04-18	Liber_Secundus_Regum
+1100000218	et fidelis erit domus tua, et regnum tuum usque in aeternum ante faciem tuam, et thronus tuus erit firmus iugiter.	2020-04-18	Liber_Secundus_Regum
+1100000219	secundum omnia verba haec, et iuxta universam visionem istam, sic locutus est nathan ad david.	2020-04-18	Liber_Secundus_Regum
+1100000220	ingressus est autem rex david, et sedit coram domino, et dixit: quis ego sum, domine deus, et quae domus mea, quia adduxisti me hucusque?	2020-04-18	Liber_Secundus_Regum
+1100000221	sed et hoc parum visum est in conspectu tuo, domine deus, nisi loquereris etiam de domo servi tui in longinquum: ista est enim lex adam, domine deus.	2020-04-18	Liber_Secundus_Regum
+1100000222	quid ergo addere poterit adhuc david, ut loquatur ad te? 	2020-04-18	Liber_Secundus_Regum
+1100000223	tu enim scis servum tuum, domine deus.	2020-04-18	Liber_Secundus_Regum
+1100000224	propter verbum tuum, et secundum cor tuum, fecisti omnia magnalia haec, ita ut notum faceres servo tuo.	2020-04-18	Liber_Secundus_Regum
+1100000225	idcirco magnificatus es, domine deus, quia non est similis tui, neque est deus extra te, in omnibus quae audivimus auribus nostris.	2020-04-18	Liber_Secundus_Regum
+1100000226	quae est autem ut populus tuus israel gens in terra, propter quam ivit deus ut redimeret eam sibi in populum, et poneret sibi nomen, faceretque eis magnalia et horribilia super terram a facie populi tui quem redemisti tibi ex aegypto, gentem, et deum eius.	2020-04-18	Liber_Secundus_Regum
+1100000227	firmasti enim tibi populum tuum israel in populum sempiternum: et tu, domine deus, factus es eis in deum.	2020-04-18	Liber_Secundus_Regum
+1100000228	nunc ergo domine deus, verbum quod locutus es super servum tuum, et super domum eius, suscita in sempiternum: et fac sicut locutus es,ut magnificetur nomen tuum usque in sempiternum, atque dicatur: dominus exercituum, deus super israel. 	2020-04-18	Liber_Secundus_Regum
+1100000229	et domus servi tui david erit stabilita coram domino,quia tu, domine exercituum deus israel, revelasti aurem servi tui, dicens: domum aedificabo tibi: propterea invenit servus tuus cor suum ut oraret te oratione hac.	2020-04-18	Liber_Secundus_Regum
+1100000230	nunc ergo domine deus, tu es deus, et verba tua erunt vera: locutus es enim ad servum tuum bona haec.	2020-04-18	Liber_Secundus_Regum
+1100000231	incipe ergo, et benedic domui servi tui, ut sit in sempiternum coram te: quia tu, domine deus, locutus es, et benedictione tua benedicetur domus servi tui in sempiternum.	2020-04-18	Liber_Secundus_Regum
+1100000232	caput 8	2020-04-18	Liber_Secundus_Regum
+1100000233	factum est autem post haec, percussit david philisthiim, et humiliavit eos, et tulit david frenum tributi de manu philisthiim.	2020-04-18	Liber_Secundus_Regum
+1100000234	et percussit moab, et mensus est eos funiculo, coaequans terrae: mensus est autem duos funiculos, unum ad occidendum, et unum ad vivificandum: factusque est moab david serviens sub tributo.	2020-04-18	Liber_Secundus_Regum
+1100000235	et percussit david adarezer filium rohob regem soba, quando profectus est ut dominaretur super flumen euphraten.	2020-04-18	Liber_Secundus_Regum
+1100000236	et captis david ex parte eius mille septingentis equitibus, et viginti millibus peditum, subnervavit omnes iugales curruum: dereliquit autem ex eis centum currus.	2020-04-18	Liber_Secundus_Regum
+1100000237	venit quoque syria damasci, ut praesidium ferret adarezer regi soba: et percussit david de syria viginti duo millia virorum.	2020-04-18	Liber_Secundus_Regum
+1100000238	et posuit david praesidium in syria damasci: factaque est syria david serviens sub tributo: servavitque dominus david in omnibus ad quaecumque profectus est.	2020-04-18	Liber_Secundus_Regum
+1100000239	et tulit david arma aurea quae habebant servi adarezer, et detulit ea in ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000240	et de bete et de beroth, civitatibus adarezer, tulit rex david aes multum nimis.	2020-04-18	Liber_Secundus_Regum
+1100000241	audivit autem thou rex emath quod percussisset david omne robur adarezer,et misit thou ioram filium suum ad regem david, ut salutaret eum congratulans, et gratias ageret: eo quod expugnasset adarezer, et percussisset eum. 	2020-04-18	Liber_Secundus_Regum
+1100000242	hostis quippe erat thou adarezer, et in manu eius erant vasa aurea, et vasa argentea, et vasa aerea:quae et ipsa sanctificavit rex david domino cum argento et auro quae sanctificaverat de universis gentibus quas subegerat,de syria, et moab, et filiis ammon, et philisthiim, et amalec, et de manubiis adarezer filii rohob regis soba.	2020-04-18	Liber_Secundus_Regum
+1100000243	fecit quoque sibi david nomen cum reverteretur capta syria in valle salinarum, caesis decem et octo millibus:et posuit in idumaea custodes, statuitque praesidium: et facta est universa idumaea serviens david, et servavit dominus david in omnibus ad quaecumque profectus est.	2020-04-18	Liber_Secundus_Regum
+1100000244	et regnavit david super omnem israel: faciebat quoque david iudicium et iustitiam omni populo suo.	2020-04-18	Liber_Secundus_Regum
+1100000245	ioab autem filius sarviae erat super exercitum: porro iosaphat filius ahilud erat a commentariis:et sadoc filius achitob, et achimelech filius abiathar, erant sacerdotes: et saraias, scriba:banaias autem filius ioiadae super cerethi et phelethi: filii autem david sacerdotes erant.	2020-04-18	Liber_Secundus_Regum
+1100000246	caput 9	2020-04-18	Liber_Secundus_Regum
+1100000247	et dixit david: putasne est aliquis qui remanserit de domo saul, ut faciam cum eo misericordiam propter ionathan?	2020-04-18	Liber_Secundus_Regum
+1100000248	erat autem de domo saul servus nomine siba: quem cum vocasset rex ad se, dixit ei: tune es siba? 	2020-04-18	Liber_Secundus_Regum
+1100000249	et ille respondit: ego sum servus tuus.	2020-04-18	Liber_Secundus_Regum
+1100000250	et ait rex: numquid superest aliquis de domo saul, ut faciam cum eo misericordiam dei? 	2020-04-18	Liber_Secundus_Regum
+1100000251	dixitque siba regi: superest filius ionathae, debilis pedibus.	2020-04-18	Liber_Secundus_Regum
+1100000252	ubi, inquit, est? 	2020-04-18	Liber_Secundus_Regum
+1100000253	et siba ad regem: ecce, ait, in domo est machir filii ammiel, in lodabar.	2020-04-18	Liber_Secundus_Regum
+1100000254	misit ergo rex david, et tulit eum de domo machir filii ammiel, de lodabar.	2020-04-18	Liber_Secundus_Regum
+1100000255	cum autem venisset miphiboseth filius ionathae filii saul ad david, corruit in faciem suam, et adoravit. 	2020-04-18	Liber_Secundus_Regum
+1100000256	dixitque david: miphiboseth? 	2020-04-18	Liber_Secundus_Regum
+1100000257	qui respondit: adsum servus tuus.	2020-04-18	Liber_Secundus_Regum
+1100000258	et ait ei david: ne timeas, quia faciens faciam in te misericordiam propter ionathan patrem tuum, et restituam tibi omnes agros saul patris tui: et tu comedes panem in mensa mea semper.	2020-04-18	Liber_Secundus_Regum
+1100000259	qui adorans eum, dixit: quis ego sum servus tuus, quoniam respexisti super canem mortuum similem mei?	2020-04-18	Liber_Secundus_Regum
+1100000260	vocavit itaque rex sibam puerum saul, et dixit ei: omnia quaecumque fuerunt saul, et universam domum eius, dedi filio domini tui.	2020-04-18	Liber_Secundus_Regum
+1100000261	operare igitur ei terram tu, et filii tui, et servi tui, et inferes filio domini tui cibos ut alatur: miphiboseth autem filius domini tui comedet semper panem super mensam meam. 	2020-04-18	Liber_Secundus_Regum
+1100000262	erant autem sibae quindecim filii, et viginti servi.	2020-04-18	Liber_Secundus_Regum
+1100000263	dixitque siba ad regem: sicut iussisti, domine mi rex, servo tuo, sic faciet servus tuus: et miphiboseth comedet super mensam meam, quasi unus de filiis regis.	2020-04-18	Liber_Secundus_Regum
+1100000264	habebat autem miphiboseth filium parvulum nomine micha: omnis vero cognatio domus sibae serviebat miphiboseth.	2020-04-18	Liber_Secundus_Regum
+1100000265	porro miphiboseth habitabat in ierusalem, quia de mensa regis iugiter vescebatur: et erat claudus utroque pede.	2020-04-18	Liber_Secundus_Regum
+1100000266	caput 10	2020-04-18	Liber_Secundus_Regum
+1100000267	factum est autem post haec ut moreretur rex filiorum ammon, et regnavit hanon filius eius pro eo.	2020-04-18	Liber_Secundus_Regum
+1100000268	dixitque david: faciam misericordiam cum hanon filio naas, sicut fecit pater eius mecum misericordiam. 	2020-04-18	Liber_Secundus_Regum
+1100000269	misit ergo david, consolans eum per servos suos super patris interitu. 	2020-04-18	Liber_Secundus_Regum
+1100000270	cum autem venissent servi david in terram filiorum ammon,dixerunt principes filiorum ammon ad hanon dominum suum: putas quod propter honorem patris tui miserit david ad te consolatores, et non ideo ut investigaret, et exploraret civitatem, et everteret eam, misit david servos suos ad te?	2020-04-18	Liber_Secundus_Regum
+1100000271	tulit itaque hanon servos david, rasitque dimidiam partem barbae eorum et praescidit vestes eorum medias usque ad nates, et dimisit eos.	2020-04-18	Liber_Secundus_Regum
+1100000272	quod cum nuntiatum esset david, misit in occursum eorum: erant enim viri confusi turpiter valde, et mandavit eis david: manete in iericho donec crescat barba vestra, et tunc revertimini.	2020-04-18	Liber_Secundus_Regum
+1100000273	videntes autem filii ammon quod iniuriam fecissent david, miserunt, et conduxerunt mercede syrum rohob, et syrum soba, viginti millia peditum, et a rege maacha mille viros, et ab istob duodecim millia virorum.	2020-04-18	Liber_Secundus_Regum
+1100000274	quod cum audisset david, misit ioab et omnem exercitum bellatorum.	2020-04-18	Liber_Secundus_Regum
+1100000275	egressi sunt ergo filii ammon, et direxerunt aciem ante ipsum introitum portae: syrus autem soba, et rohob, et istob, et maacha, seorsum erant in campo.	2020-04-18	Liber_Secundus_Regum
+1100000276	videns igitur ioab quod praeparatum esset adversum se praelium et ex adverso et post tergum, elegit ex omnibus electis israel, et instruxit aciem contra syrum:reliquam autem partem populi tradidit abisai fratri suo, qui direxit aciem adversus filios ammon.	2020-04-18	Liber_Secundus_Regum
+1100000277	et ait ioab: si praevaluerint adversum me syri, eris mihi in adiutorium: si autem filii ammon praevaluerint adversum te, auxiliabor tibi.	2020-04-18	Liber_Secundus_Regum
+1100000278	esto vir fortis, et pugnemus pro populo nostro et civitate dei nostri: dominus autem faciet quod bonum est in conspectu suo.	2020-04-18	Liber_Secundus_Regum
+1100000279	iniit itaque ioab, et populus qui erat cum eo, certamen contra syros: qui statim fugerunt a facie eius.	2020-04-18	Liber_Secundus_Regum
+1100000280	filii autem ammon videntes quia fugissent syri, fugerunt et ipsi a facie abisai, et ingressi sunt civitatem: reversusque est ioab a filiis ammon, et venit ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000281	videntes igitur syri quoniam corruissent coram israel, congregati sunt pariter.	2020-04-18	Liber_Secundus_Regum
+1100000282	misitque adarezer, et eduxit syros qui erant trans fluvium, et adduxit eorum exercitum: sobach autem, magister militiae adarezer, erat princeps eorum.	2020-04-18	Liber_Secundus_Regum
+1100000283	quod cum nuntiatum esset david, contraxit omnem israelem, et transivit iordanem, venitque in helam: et direxerunt aciem syri ex adverso david, et pugnaverunt contra eum.	2020-04-18	Liber_Secundus_Regum
+1100000284	fugeruntque syri a facie israel, et occidit david de syris septingentos currus, et quadraginta millia equitum: et sobach principem militiae percussit, qui statim mortuus est.	2020-04-18	Liber_Secundus_Regum
+1100000285	videntes autem universi reges qui erant in praesidio adarezer, se victos esse ab israel, expaverunt, et fugerunt quinquaginta et octo millia coram israel. 	2020-04-18	Liber_Secundus_Regum
+1100000286	et fecerunt pacem cum israel, et servierunt eis: timueruntque syri auxilium praebere ultra filiis ammon.	2020-04-18	Liber_Secundus_Regum
+1100000287	caput 11	2020-04-18	Liber_Secundus_Regum
+1100000288	factum est autem, vertente anno, eo tempore quo solent reges ad bella procedere, misit david ioab, et servos suos cum eo, et universum israel, et vastaverunt filios ammon, et obsederunt rabba: david autem remansit in ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000289	dum haec agerentur, accidit ut surgeret david de strato suo post meridiem, et deambularet in solario domus regiae: viditque mulierem se lavantem ex adverso super solarium suum: erat autem mulier pulchra valde.	2020-04-18	Liber_Secundus_Regum
+1100000290	misit ergo rex, et requisivit quae esset mulier. 	2020-04-18	Liber_Secundus_Regum
+1100000291	nuntiatumque est ei quod ipsa esset bethsabee filia eliam, uxor uriae hethaei.	2020-04-18	Liber_Secundus_Regum
+1100000292	missis itaque david nuntiis, tulit eam: quae cum ingressa esset ad illum, dormivit cum ea: statimque sanctificata est ab immunditia sua,et reversa est domum suam concepto foetu. 	2020-04-18	Liber_Secundus_Regum
+1100000293	mittensque nuntiavit david, et ait: concepi.	2020-04-18	Liber_Secundus_Regum
+1100000294	misit autem david ad ioab, dicens: mitte ad me uriam hethaeum. 	2020-04-18	Liber_Secundus_Regum
+1100000295	misitque ioab uriam ad david.	2020-04-18	Liber_Secundus_Regum
+1100000296	et venit urias ad david. 	2020-04-18	Liber_Secundus_Regum
+1100000297	quaesivitque david quam recte ageret ioab et populus, et quomodo administraretur bellum.	2020-04-18	Liber_Secundus_Regum
+1100000298	et dixit david ad uriam: vade in domum tuam, et lava pedes tuos. 	2020-04-18	Liber_Secundus_Regum
+1100000299	et egressus est urias de domo regis, secutusque est eum cibus regius.	2020-04-18	Liber_Secundus_Regum
+1100000300	dormivit autem urias ante portam domus regiae cum aliis servis domini sui, et non descendit ad domum suam.	2020-04-18	Liber_Secundus_Regum
+1100000301	nuntiatumque est david a dicentibus: non ivit urias in domum suam. 	2020-04-18	Liber_Secundus_Regum
+1100000302	et ait david ad uriam: numquid non de via venisti? 	2020-04-18	Liber_Secundus_Regum
+1100000303	quare non descendisti in domum tuam?	2020-04-18	Liber_Secundus_Regum
+1100000304	et ait urias ad david: arca dei et israel et iuda habitant in papilionibus, et dominus meus ioab et servi domini mei super faciem terrae manent: et ego ingrediar domum meam, ut comedam et bibam, et dormiam cum uxore mea? 	2020-04-18	Liber_Secundus_Regum
+1100000305	per salutem tuam, et per salutem animae tuae, non faciam rem hanc.	2020-04-18	Liber_Secundus_Regum
+1100000306	ait ergo david ad uriam: mane hic etiam hodie, et cras dimittam te. 	2020-04-18	Liber_Secundus_Regum
+1100000307	mansit urias in ierusalem in die illa et altera:et vocavit eum david ut comederet coram se et biberet, et inebriavit eum: qui egressus vespere, dormivit in strato suo cum servis domini sui, et in domum suam non descendit.	2020-04-18	Liber_Secundus_Regum
+1100000308	factum est ergo mane, et scripsit david epistolam ad ioab: misitque per manum uriae,scribens in epistola: ponite uriam ex adverso belli, ubi fortissimum est praelium: et derelinquite eum, ut percussus intereat.	2020-04-18	Liber_Secundus_Regum
+1100000309	igitur cum ioab obsideret urbem, posuit uriam in loco ubi sciebat viros esse fortissimos.	2020-04-18	Liber_Secundus_Regum
+1100000310	egressique viri de civitate, bellabant adversum ioab, et ceciderunt de populo servorum david, et mortuus est etiam urias hethaeus.	2020-04-18	Liber_Secundus_Regum
+1100000311	misit itaque ioab, et nuntiavit david omnia verba praelii:praecepitque nuntio, dicens: cum compleveris universos sermones belli ad regem,si eum videris indignari, et dixerit: quare accessistis ad murum, ut praeliaremini? 	2020-04-18	Liber_Secundus_Regum
+1100000312	an ignorabatis quod multa desuper ex muro tela mittantur?	2020-04-18	Liber_Secundus_Regum
+1100000313	quis percussit abimelech filium ierobaal? 	2020-04-18	Liber_Secundus_Regum
+1100000314	nonne mulier misit super eum fragmen molae de muro, et interfecit eum in thebes? 	2020-04-18	Liber_Secundus_Regum
+1100000315	quare iuxta murum accessistis? 	2020-04-18	Liber_Secundus_Regum
+1100000316	dices: etiam servus tuus urias hethaeus occubuit.	2020-04-18	Liber_Secundus_Regum
+1100000317	abiit ergo nuntius, et venit, et narravit david omnia quae ei praeceperat ioab.	2020-04-18	Liber_Secundus_Regum
+1100000318	et dixit nuntius ad david: praevaluerunt adversum nos viri, et egressi sunt ad nos in agrum: nos autem facto impetu persecuti eos sumus usque ad portam civitatis.	2020-04-18	Liber_Secundus_Regum
+1100000319	et direxerunt iacula sagittarii ad servos tuos ex muro desuper, mortuique sunt de servis regis: quin etiam servus tuus urias hethaeus mortuus est.	2020-04-18	Liber_Secundus_Regum
+1100000320	et dixit david ad nuntium: haec dices ioab: non te frangat ista res: varius enim eventus est belli, nunc hunc, et nunc illum consumit gladius: conforta bellatores tuos adversus urbem ut destruas eam, et exhortare eos.	2020-04-18	Liber_Secundus_Regum
+1100000321	audivit autem uxor uriae quod mortuus esset urias vir suus, et planxit eum.	2020-04-18	Liber_Secundus_Regum
+1100000322	transacto autem luctu, misit david, et introduxit eam in domum suam, et facta est ei uxor, peperitque ei filium: et displicuit verbum hoc quod fecerat david, coram domino.	2020-04-18	Liber_Secundus_Regum
+1100000323	caput 12	2020-04-18	Liber_Secundus_Regum
+1100000324	misit ergo dominus nathan ad david: qui cum venisset ad eum, dixit ei: duo viri erant in civitate una, unus dives, et alter pauper.	2020-04-18	Liber_Secundus_Regum
+1100000325	dives habebat oves et boves plurimos valde.	2020-04-18	Liber_Secundus_Regum
+1100000326	pauper autem nihil habebat omnino, praeter ovem unam parvulam quam emerat et nutrierat, et quae creverat apud eum cum filiis eius simul, de pane illius comedens, et de calice eius bibens, et in sinu illius dormiens: eratque illi sicut filia.	2020-04-18	Liber_Secundus_Regum
+1100000327	cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi qui venerat ad se, tulit ovem viri pauperis, et praeparavit cibos homini qui venerat ad se.	2020-04-18	Liber_Secundus_Regum
+1100000328	iratus autem indignatione david adversus hominem illum nimis, dixit ad nathan: vivit dominus, quoniam filius mortis est vir qui fecit hoc.	2020-04-18	Liber_Secundus_Regum
+1100000329	ovem reddet in quadruplum, eo quod fecerit verbum istud, et non pepercerit.	2020-04-18	Liber_Secundus_Regum
+1100000330	dixit autem nathan ad david: tu es ille vir. 	2020-04-18	Liber_Secundus_Regum
+1100000331	haec dicit dominus deus israel: ego unxi te in regem super israel, et ego erui te de manu saul,et dedi tibi domum domini tui, et uxores domini tui in sinu tuo, dedique tibi domum israel et iuda: et si parva sunt ista, adiiciam tibi multo maiora.	2020-04-18	Liber_Secundus_Regum
+1100000332	quare ergo contempsisti verbum domini, ut faceres malum in conspectu meo? 	2020-04-18	Liber_Secundus_Regum
+1100000333	uriam hethaeum percussisti gladio, et uxorem illius accepisti in uxorem tibi, et interfecisti eum gladio filiorum ammon.	2020-04-18	Liber_Secundus_Regum
+1100000334	quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem uriae hethaei ut esset uxor tua.	2020-04-18	Liber_Secundus_Regum
+1100000335	itaque haec dicit dominus: ecce ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo: et dormiet cum uxoribus tuis in oculis solis huius.	2020-04-18	Liber_Secundus_Regum
+1100000336	tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis israel, et in conspectu solis.	2020-04-18	Liber_Secundus_Regum
+1100000337	et dixit david ad nathan: peccavi domino. 	2020-04-18	Liber_Secundus_Regum
+1100000338	dixitque nathan ad david: dominus quoque transtulit peccatum tuum: non morieris.	2020-04-18	Liber_Secundus_Regum
+1100000339	verumtamen quoniam blasphemare fecisti inimicos domini, propter verbum hoc, filius qui natus est tibi, morte morietur.	2020-04-18	Liber_Secundus_Regum
+1100000340	et reversus est nathan in domum suam. 	2020-04-18	Liber_Secundus_Regum
+1100000341	percussit quoque dominus parvulum quem pepererat uxor uriae david, et desperatus est.	2020-04-18	Liber_Secundus_Regum
+1100000342	deprecatusque est david dominum pro parvulo: et ieiunavit david ieiunio, et ingressus seorsum, iacuit super terram.	2020-04-18	Liber_Secundus_Regum
+1100000343	venerunt autem seniores domus eius, cogentes eum ut surgeret de terra: qui noluit, nec comedit cum eis cibum.	2020-04-18	Liber_Secundus_Regum
+1100000344	accidit autem die septima ut moreretur infans: timueruntque servi david nuntiare ei quod mortuus esset parvulus: dixerunt enim: ecce cum parvulus adhuc viveret, loquebamur ad eum, et non audiebat vocem nostram: quanto magis si dixerimus: mortuus est puer, se affliget?	2020-04-18	Liber_Secundus_Regum
+1100000345	cum ergo david vidisset servos suos mussitantes, intellexit quod mortuus esset infantulus: dixitque ad servos suos: num mortuus est puer? 	2020-04-18	Liber_Secundus_Regum
+1100000346	qui responderunt ei: mortuus est.	2020-04-18	Liber_Secundus_Regum
+1100000347	surrexit ergo david de terra, et lotus unctusque est: cumque mutasset vestem, ingressus est domum domini: et adoravit, et venit in domum suam, petivitque ut ponerent ei panem, et comedit.	2020-04-18	Liber_Secundus_Regum
+1100000348	dixerunt autem ei servi sui: quis est sermo quem fecisti? 	2020-04-18	Liber_Secundus_Regum
+1100000349	propter infantem, cum adhuc viveret, ieiunasti et flebas: mortuo autem puero, surrexisti, et comedisti panem.	2020-04-18	Liber_Secundus_Regum
+1100000350	qui ait: propter infantem, dum adhuc viveret, ieiunavi et flevi: dicebam enim: quis scit si forte donet eum mihi dominus, et vivat infans?	2020-04-18	Liber_Secundus_Regum
+1100000351	nunc autem quia mortuus est, quare ieiunem? 	2020-04-18	Liber_Secundus_Regum
+1100000352	numquid potero revocare eum amplius? 	2020-04-18	Liber_Secundus_Regum
+1100000353	ego vadam magis ad eum: ille vero non revertetur ad me.	2020-04-18	Liber_Secundus_Regum
+1100000354	et consolatus est david bethsabee uxorem suam, ingressusque ad eam dormivit cum ea: quae genuit filium, et vocavit nomen eius salomon: et dominus dilexit eum.	2020-04-18	Liber_Secundus_Regum
+1100000355	misitque in manu nathan prophetae, et vocavit nomen eius, amabilis domino, eo quod diligeret eum dominus.	2020-04-18	Liber_Secundus_Regum
+1100000356	igitur pugnabat ioab contra rabbath filiorum ammon, et expugnabat urbem regiam.	2020-04-18	Liber_Secundus_Regum
+1100000357	misitque ioab nuntios ad david, dicens: dimicavi adversum rabbath, et capienda est urbs aquarum.	2020-04-18	Liber_Secundus_Regum
+1100000358	nunc igitur congrega reliquam partem populi, et obside civitatem, et cape eam: ne cum a me vastata fuerit urbs, nomini meo ascribatur victoria.	2020-04-18	Liber_Secundus_Regum
+1100000359	congregavit itaque david omnem populum, et profectus est adversum rabbath: cumque dimicasset, cepit eam.	2020-04-18	Liber_Secundus_Regum
+1100000360	et tulit diadema regis eorum de capite eius, pondo auri talentum, habens gemmas pretiosissimas: et impositum est super caput david. 	2020-04-18	Liber_Secundus_Regum
+1100000361	sed et praedam civitatis asportavit multam valde:populum quoque eius adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum ammon. 	2020-04-18	Liber_Secundus_Regum
+1100000362	et reversus est david et omnis exercitus in ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000363	caput 13	2020-04-18	Liber_Secundus_Regum
+1100000364	factum est autem post haec ut absalom filii david sororem speciosissimam, vocabulo thamar, adamaret amnon filius david,et deperiret eam valde, ita ut propter amorem eius aegrotaret: quia cum esset virgo, difficile ei videbatur ut quippiam inhoneste ageret cum ea.	2020-04-18	Liber_Secundus_Regum
+1100000365	erat autem amnon amicus nomine ionadab, filius semmaa fratris david, vir prudens valde.	2020-04-18	Liber_Secundus_Regum
+1100000366	qui dixit ad eum: quare sic attenuaris macie, fili regis, per singulos dies? 	2020-04-18	Liber_Secundus_Regum
+1100000367	cur non indicas mihi? 	2020-04-18	Liber_Secundus_Regum
+1100000368	dixitque ei amnon: thamar sororem fratris mei absalom amo.	2020-04-18	Liber_Secundus_Regum
+1100000369	cui respondit ionadab: cuba super lectum tuum, et languorem simula: cumque venerit pater tuus ut visitet te, dic ei: veniat, oro, thamar soror mea, ut det mihi cibum, et faciat pulmentum, ut comedam de manu eius.	2020-04-18	Liber_Secundus_Regum
+1100000370	accubuit itaque amnon, et quasi aegrotare coepit: cumque venisset rex ad visitandum eum, ait amnon ad regem: veniat, obsecro, thamar soror mea, ut faciat in oculis meis duas sorbitiunculas, et cibum capiam de manu eius.	2020-04-18	Liber_Secundus_Regum
+1100000371	misit ergo david ad thamar domum, dicens: veni in domum amnon fratris tui, et fac ei pulmentum.	2020-04-18	Liber_Secundus_Regum
+1100000372	venitque thamar in domum amnon fratris sui: ille autem iacebat. 	2020-04-18	Liber_Secundus_Regum
+1100000373	quae tollens farinam commiscuit, et liquefaciens, in oculis eius coxit sorbitiunculas.	2020-04-18	Liber_Secundus_Regum
+1100000374	tollensque quod coxerat, effudit, et posuit coram eo, et noluit comedere: dixitque amnon: eiicite universos a me. 	2020-04-18	Liber_Secundus_Regum
+1100000375	cumque eiecissent omnes,dixit amnon ad thamar: infer cibum in conclave, ut vescar de manu tua. 	2020-04-18	Liber_Secundus_Regum
+1100000376	tulit ergo thamar sorbitiunculas quas fecerat, et intulit ad amnon fratrem suum in conclave.	2020-04-18	Liber_Secundus_Regum
+1100000377	cumque obtulisset ei cibum, apprehendit eam, et ait: veni, cuba mecum, soror mea.	2020-04-18	Liber_Secundus_Regum
+1100000378	quae respondit ei: noli frater mi, noli opprimere me: neque enim hoc fas est in israel: noli facere stultitiam hanc.	2020-04-18	Liber_Secundus_Regum
+1100000379	ego enim ferre non potero opprobrium meum, et tu eris quasi unus de insipientibus in israel: quin potius loquere ad regem, et non negabit me tibi.	2020-04-18	Liber_Secundus_Regum
+1100000380	noluit autem acquiescere precibus eius, sed praevalens viribus oppressit eam, et cubavit cum ea.	2020-04-18	Liber_Secundus_Regum
+1100000381	et exosam eam habuit amnon odio magno nimis: ita ut maius esset odium quo oderat eam, amore quo ante dilexerat. 	2020-04-18	Liber_Secundus_Regum
+1100000382	dixitque ei amnon: surge, et vade.	2020-04-18	Liber_Secundus_Regum
+1100000383	quae respondit ei: maius est hoc malum quod nunc agis adversum me, quam quod ante fecisti, expellens me. 	2020-04-18	Liber_Secundus_Regum
+1100000384	et noluit audire eam:sed vocato puero qui ministrabat ei, dixit: eiice hanc a me foras, et claude ostium post eam.	2020-04-18	Liber_Secundus_Regum
+1100000385	quae induta erat talari tunica: huiuscemodi enim filiae regis virgines vestibus utebantur. 	2020-04-18	Liber_Secundus_Regum
+1100000386	eiecit itaque eam minister illius foras: clausitque fores post eam.	2020-04-18	Liber_Secundus_Regum
+1100000387	quae aspergens cinerem capiti suo, scissa talari tunica, impositisque manibus super caput suum, ibat ingrediens, et clamans.	2020-04-18	Liber_Secundus_Regum
+1100000388	dixit autem ei absalom frater suus: numquid amnon frater tuus concubuit tecum? 	2020-04-18	Liber_Secundus_Regum
+1100000389	sed nunc soror, tace: frater tuus est: neque affligas cor tuum pro hac re. 	2020-04-18	Liber_Secundus_Regum
+1100000390	mansit itaque thamar contabescens in domo absalom fratris sui.	2020-04-18	Liber_Secundus_Regum
+1100000391	cum autem audisset rex david verba haec, contristatus est valde: et noluit contristare spiritum amnon filii sui, quoniam diligebat eum, quia primogenitus erat ei.	2020-04-18	Liber_Secundus_Regum
+1100000392	porro non est locutus absalom ad amnon nec malum nec bonum: oderat enim absalom amnon, eo quod violasset thamar sororem suam.	2020-04-18	Liber_Secundus_Regum
+1100000393	factum est autem post tempus biennii ut tonderentur oves absalom in baalhasor, quae est iuxta ephraim: et vocavit absalom omnes filios regis,venitque ad regem, et ait ad eum: ecce tondentur oves servi tui: veniat, oro, rex cum servis suis ad servum suum.	2020-04-18	Liber_Secundus_Regum
+1100000394	dixitque rex ad absalom: noli fili mi, noli rogare ut veniamus omnes et gravemus te. 	2020-04-18	Liber_Secundus_Regum
+1100000395	cum autem cogeret eum, et noluisset ire, benedixit ei.	2020-04-18	Liber_Secundus_Regum
+1100000396	et ait absalom: si non vis venire, veniat, obsecro, nobiscum saltem amnon frater meus. 	2020-04-18	Liber_Secundus_Regum
+1100000397	dixitque ad eum rex: non est necesse ut vadat tecum.	2020-04-18	Liber_Secundus_Regum
+1100000398	coegit itaque absalom eum, et dimisit cum eo amnon et universos filios regis. 	2020-04-18	Liber_Secundus_Regum
+1100000399	feceratque absalom convivium quasi convivium regis.	2020-04-18	Liber_Secundus_Regum
+1100000400	praeceperat autem absalom pueris suis, dicens: observate cum temulentus fuerit amnon vino, et dixero vobis: percutite eum, et interficite: nolite timere: ego enim sum qui praecipio vobis: roboramini, et estote viri fortes.	2020-04-18	Liber_Secundus_Regum
+1100000401	fecerunt ergo pueri absalom adversum amnon sicut praeceperat eis absalom. 	2020-04-18	Liber_Secundus_Regum
+1100000402	surgentesque omnes filii regis ascenderunt singuli mulas suas, et fugerunt.	2020-04-18	Liber_Secundus_Regum
+1100000403	cumque adhuc pergerent in itinere, fama pervenit ad david, dicens: percussit absalom omnes filios regis, et non remansit ex eis saltem unus.	2020-04-18	Liber_Secundus_Regum
+1100000404	surrexit itaque rex, et scidit vestimenta sua, et cecidit super terram: et omnes servi illius qui assistebant ei, sciderunt vestimenta sua.	2020-04-18	Liber_Secundus_Regum
+1100000405	respondens autem ionadab filius semmaa fratris david, dixit: ne aestimet dominus meus rex quod omnes pueri filii regis occisi sint: amnon solus mortuus est, quoniam in ore absalom erat positus ex die qua oppressit thamar sororem eius.	2020-04-18	Liber_Secundus_Regum
+1100000406	nunc ergo ne ponat dominus meus rex super cor suum verbum istud, dicens: omnes filii regis occisi sunt: quoniam amnon solus mortuus est.	2020-04-18	Liber_Secundus_Regum
+1100000407	fugit autem absalom. 	2020-04-18	Liber_Secundus_Regum
+1100000408	et elevavit puer speculator oculos suos, et aspexit: et ecce populus multus veniebat per iter devium ex latere montis.	2020-04-18	Liber_Secundus_Regum
+1100000409	dixit autem ionadab ad regem: ecce filii regis adsunt: iuxta verbum servi tui, sic factum est.	2020-04-18	Liber_Secundus_Regum
+1100000410	cumque cessasset loqui, apparuerunt et filii regis: et intrantes levaverunt vocem suam, et fleverunt: sed et rex et omnes servi eius fleverunt ploratu magno nimis.	2020-04-18	Liber_Secundus_Regum
+1100000411	porro absalom fugiens abiit ad tholomai filium ammiud regem gessur. 	2020-04-18	Liber_Secundus_Regum
+1100000412	luxit ergo david filium suum cunctis diebus.	2020-04-18	Liber_Secundus_Regum
+1100000413	absalom autem cum fugisset, et venisset in gessur, fuit ibi tribus annis.	2020-04-18	Liber_Secundus_Regum
+1100000414	cessavitque rex david persequi absalom, eo quod consolatus esset super amnon interitu.	2020-04-18	Liber_Secundus_Regum
+1100000415	caput 14	2020-04-18	Liber_Secundus_Regum
+1100000416	intelligens autem ioab filius sarviae quod cor regis versum esset ad absalom,misit thecuam, et tulit inde mulierem sapientem: dixitque ad eam: lugere te simula, et induere veste lugubri, et ne ungaris oleo, ut sis quasi mulier iam plurimo tempore lugens mortuum:et ingredieris ad regem, et loqueris ad eum sermones huiuscemodi. 	2020-04-18	Liber_Secundus_Regum
+1100000417	posuit autem ioab verba in ore eius.	2020-04-18	Liber_Secundus_Regum
+1100000418	itaque cum ingressa fuisset mulier thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: serva me, rex.	2020-04-18	Liber_Secundus_Regum
+1100000419	et ait ad eam rex: quid causae habes? 	2020-04-18	Liber_Secundus_Regum
+1100000420	quae respondit: heu, mulier vidua ego sum: mortuus est enim vir meus.	2020-04-18	Liber_Secundus_Regum
+1100000421	et ancillae tuae erant duo filii: qui rixati sunt adversum se in agro, nullusque erat qui eos prohibere posset: et percussit alter alterum, et interfecit eum.	2020-04-18	Liber_Secundus_Regum
+1100000422	et ecce consurgens universa cognatio adversum ancillam tuam, dicit: trade eum qui percussit fratrem suum, ut occidamus eum pro anima fratris sui quem interfecit, et deleamus haeredem: et quaerunt extinguere scintillam meam quae relicta est, ut non supersit viro meo nomen, et reliquiae super terram.	2020-04-18	Liber_Secundus_Regum
+1100000423	et ait rex ad mulierem: vade in domum tuam, et ego iubebo pro te.	2020-04-18	Liber_Secundus_Regum
+1100000424	dixitque mulier thecuitis ad regem: in me, domine mi rex, sit iniquitas, et in domum patris mei: rex autem et thronus eius sit innocens.	2020-04-18	Liber_Secundus_Regum
+1100000425	et ait rex: qui contradixerit tibi, adduc eum ad me, et ultra non addet ut tangat te.	2020-04-18	Liber_Secundus_Regum
+1100000426	quae ait: recordetur rex domini dei sui, ut non multiplicentur proximi sanguinis ad ulciscendum, et nequaquam interficiant filium meum. 	2020-04-18	Liber_Secundus_Regum
+1100000427	qui ait: vivit dominus, quia non cadet de capillis filii tui super terram.	2020-04-18	Liber_Secundus_Regum
+1100000428	dixit ergo mulier: loquatur ancilla tua ad dominum meum regem verbum. 	2020-04-18	Liber_Secundus_Regum
+1100000429	et ait: loquere.	2020-04-18	Liber_Secundus_Regum
+1100000430	dixitque mulier: quare cogitasti huiuscemodi rem contra populum dei, et locutus est rex verbum istud, ut peccet, et non reducat eiectum suum?	2020-04-18	Liber_Secundus_Regum
+1100000431	omnes morimur, et quasi aquae dilabimur in terram, quae non revertuntur: nec vult deus perire animam, sed retractat cogitans ne penitus pereat qui abiectus est.	2020-04-18	Liber_Secundus_Regum
+1100000432	nunc igitur veni, ut loquar ad dominum meum regem verbum hoc, praesente populo. 	2020-04-18	Liber_Secundus_Regum
+1100000433	et dixit ancilla tua: loquar ad regem, si quomodo faciat rex verbum ancillae suae.	2020-04-18	Liber_Secundus_Regum
+1100000434	et audivit rex, ut liberaret ancillam suam de manu omnium qui volebant de haereditate dei delere me, et filium meum simul.	2020-04-18	Liber_Secundus_Regum
+1100000435	dicat ergo ancilla tua, ut fiat verbum domini mei regis sicut sacrificium. 	2020-04-18	Liber_Secundus_Regum
+1100000436	sicut enim angelus dei, sic est dominus meus rex, ut nec benedictione, nec maledictione moveatur: unde et dominus deus tuus est tecum.	2020-04-18	Liber_Secundus_Regum
+1100000437	et respondens rex, dixit ad mulierem: ne abscondas a me verbum quod te interrogo. 	2020-04-18	Liber_Secundus_Regum
+1100000438	dixitque ei mulier: loquere, domine mi rex.	2020-04-18	Liber_Secundus_Regum
+1100000439	et ait rex: numquid manus ioab tecum est in omnibus istis? 	2020-04-18	Liber_Secundus_Regum
+1100000440	respondit mulier, et ait: per salutem animae tuae, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his quae locutus est dominus meus rex: servus enim tuus ioab, ipse praecepit mihi, et ipse posuit in os ancillae tuae omnia verba haec.	2020-04-18	Liber_Secundus_Regum
+1100000441	ut verterem figuram sermonis huius, servus tuus ioab praecepit istud: tu autem, domine mi rex, sapiens es, sicut habet sapientiam angelus dei, ut intelligas omnia super terram.	2020-04-18	Liber_Secundus_Regum
+1100000442	et ait rex ad ioab: ecce placatus feci verbum tuum: vade ergo, et revoca puerum absalom.	2020-04-18	Liber_Secundus_Regum
+1100000443	cadensque ioab super faciem suam in terram, adoravit, et benedixit regi: et dixit ioab: hodie intellexit servus tuus quia inveni gratiam in oculis tuis, domine mi rex: fecisti enim sermonem servi tui.	2020-04-18	Liber_Secundus_Regum
+1100000444	surrexit ergo ioab et abiit in gessur, et adduxit absalom in ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000445	dixit autem rex: revertatur in domum suam, et faciem meam non videat. 	2020-04-18	Liber_Secundus_Regum
+1100000446	reversus est itaque absalom in domum suam, et faciem regis non vidit.	2020-04-18	Liber_Secundus_Regum
+1100000447	porro sicut absalom, vir non erat pulcher in omni israel, et decorus nimis: a vestigio pedis usque ad verticem non erat in eo ulla macula.	2020-04-18	Liber_Secundus_Regum
+1100000448	et quando tondebat capillum (semel autem in anno tondebatur, quia gravabat eum caesaries), ponderabat capillos capitis sui ducentis siclis, pondere publico.	2020-04-18	Liber_Secundus_Regum
+1100000449	nati sunt autem absalom filii tres, et filia una nomine thamar, elegantis formae.	2020-04-18	Liber_Secundus_Regum
+1100000450	mansitque absalom in ierusalem duobus annis, et faciem regis non vidit.	2020-04-18	Liber_Secundus_Regum
+1100000451	misit itaque ad ioab, ut mitteret eum ad regem: qui noluit venire ad eum. 	2020-04-18	Liber_Secundus_Regum
+1100000452	cumque secundo misisset, et ille noluisset venire ad eum,dixit servis suis: scitis agrum ioab iuxta agrum meum, habentem messem hordei: ite igitur, et succendite eum igni. 	2020-04-18	Liber_Secundus_Regum
+1100000453	succenderunt ergo servi absalom segetem igni. 	2020-04-18	Liber_Secundus_Regum
+1100000454	et venientes servi ioab, scissis vestibus suis, dixerunt: succenderunt servi absalom partem agri igni.	2020-04-18	Liber_Secundus_Regum
+1100000455	surrexitque ioab, et venit ad absalom in domum eius, et dixit: quare succenderunt servi tui segetem meam igni?	2020-04-18	Liber_Secundus_Regum
+1100000456	et respondit absalom ad ioab: misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: quare veni de gessur? 	2020-04-18	Liber_Secundus_Regum
+1100000457	melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meae, interficiat me.	2020-04-18	Liber_Secundus_Regum
+1100000458	ingressus itaque ioab ad regem, nuntiavit ei omnia: vocatusque est absalom, et intravit ad regem, et adoravit super faciem terrae coram eo: osculatusque est rex absalom.	2020-04-18	Liber_Secundus_Regum
+1100000459	caput 15	2020-04-18	Liber_Secundus_Regum
+1100000460	igitur post haec fecit sibi absalom currus, et equites, et quinquaginta viros qui praecederent eum.	2020-04-18	Liber_Secundus_Regum
+1100000461	et mane consurgens absalom, stabat iuxta introitum portae, et omnem virum qui habebat negotium ut veniret ad regis iudicium, vocabat absalom ad se, et dicebat: de qua civitate es tu? 	2020-04-18	Liber_Secundus_Regum
+1100000462	qui respondens aiebat: ex una tribu israel ego sum servus tuus.	2020-04-18	Liber_Secundus_Regum
+1100000463	respondebatque ei absalom: videntur mihi sermones tui boni et iusti, sed non est qui te audiat constitutus a rege. 	2020-04-18	Liber_Secundus_Regum
+1100000464	dicebatque absalom:quis me constituat iudicem super terram, ut ad me veniant omnes qui habent negotium, et iuste iudicem?	2020-04-18	Liber_Secundus_Regum
+1100000465	sed et cum accederet ad eum homo ut salutaret illum, extendebat manum suam, et apprehendens osculabatur eum.	2020-04-18	Liber_Secundus_Regum
+1100000466	faciebatque hoc omni israel venienti ad iudicium ut audiretur a rege, et sollicitabat corda virorum israel.	2020-04-18	Liber_Secundus_Regum
+1100000467	post quadraginta autem annos, dixit absalom ad regem david: vadam, et reddam vota mea quae vovi domino in hebron.	2020-04-18	Liber_Secundus_Regum
+1100000468	vovens enim vovit servus tuus cum esset in gessur syriae, dicens: si reduxerit me dominus in ierusalem, sacrificabo domino.	2020-04-18	Liber_Secundus_Regum
+1100000469	dixitque ei rex david: vade in pace. 	2020-04-18	Liber_Secundus_Regum
+1100000470	et surrexit, et abiit in hebron.	2020-04-18	Liber_Secundus_Regum
+1100000471	misit autem absalom exploratores in universas tribus israel, dicens: statim ut audieritis clangorem buccinae, dicite: regnavit absalom in hebron.	2020-04-18	Liber_Secundus_Regum
+1100000472	porro cum absalom ierunt ducenti viri de ierusalem vocati, euntes simplici corde, et causam penitus ignorantes.	2020-04-18	Liber_Secundus_Regum
+1100000473	accersivit quoque absalom achitophel gilonitem consiliarium david, de civitate sua gilo. 	2020-04-18	Liber_Secundus_Regum
+1100000474	cumque immolaret victimas, facta est coniuratio valida, populusque concurrens augebatur cum absalom.	2020-04-18	Liber_Secundus_Regum
+1100000475	venit igitur nuntius ad david, dicens: toto corde universus israel sequitur absalom.	2020-04-18	Liber_Secundus_Regum
+1100000476	et ait david servis suis qui erant cum eo in ierusalem: surgite, fugiamus: neque enim erit nobis effugium a facie absalom: festinate egredi, ne forte veniens occupet nos, et impellat super nos ruinam, et percutiat civitatem in ore gladii.	2020-04-18	Liber_Secundus_Regum
+1100000477	dixeruntque servi regis ad eum: omnia quaecumque praeceperit dominus noster rex, libenter exequemur servi tui.	2020-04-18	Liber_Secundus_Regum
+1100000478	egressus est ergo rex et universa domus eius pedibus suis: et dereliquit rex decem mulieres concubinas ad custodiendam domum.	2020-04-18	Liber_Secundus_Regum
+1100000479	egressusque rex et omnis israel pedibus suis, stetit procul a domo:et universi servi eius ambulabant iuxta eum, et legiones cerethi, et phelethi, et omnes gethaei, pugnatores validi, sexcenti viri qui secuti eum fuerant de geth pedites, praecedebant regem.	2020-04-18	Liber_Secundus_Regum
+1100000480	dixit autem rex ad ethai gethaeum: cur venis nobiscum? 	2020-04-18	Liber_Secundus_Regum
+1100000481	revertere, et habita cum rege, quia peregrinus es, et egressus es de loco tuo.	2020-04-18	Liber_Secundus_Regum
+1100000482	heri venisti, et hodie compelleris nobiscum egredi? 	2020-04-18	Liber_Secundus_Regum
+1100000483	ego autem vadam quo iturus sum: revertere, et reduc tecum fratres tuos, et dominus faciet tecum misericordiam et veritatem, quia ostendisti gratiam et fidem.	2020-04-18	Liber_Secundus_Regum
+1100000484	et respondit ethai regi dicens: vivit dominus, et vivit dominus meus rex, quoniam in quocumque loco fueris, domine mi rex, sive in morte, sive in vita, ibi erit servus tuus.	2020-04-18	Liber_Secundus_Regum
+1100000485	et ait david ethai: veni, et transi. 	2020-04-18	Liber_Secundus_Regum
+1100000486	et transivit ethai gethaeus, et omnes viri qui cum eo erant, et reliqua multitudo.	2020-04-18	Liber_Secundus_Regum
+1100000487	omnesque flebant voce magna, et universus populus transibat: rex quoque transgrediebatur torrentem cedron, et cunctus populus incedebat contra viam quae respicit ad desertum.	2020-04-18	Liber_Secundus_Regum
+1100000488	venit autem et sadoc sacerdos, et universi levitae cum eo, portantes arcam foederis dei: et deposuerunt arcam dei. 	2020-04-18	Liber_Secundus_Regum
+1100000489	et ascendit abiathar, donec expletus esset omnis populus qui egressus fuerat de civitate.	2020-04-18	Liber_Secundus_Regum
+1100000490	et dixit rex ad sadoc: reporta arcam dei in urbem: si invenero gratiam in oculis domini, reducet me, et ostendet mihi eam, et tabernaculum suum.	2020-04-18	Liber_Secundus_Regum
+1100000491	si autem dixerit mihi: non places: praesto sum: faciat quod bonum est coram se.	2020-04-18	Liber_Secundus_Regum
+1100000492	et dixit rex ad sadoc sacerdotem: o videns, revertere in civitatem in pace: et achimaas filius tuus, et ionathas filius abiathar, duo filii vestri, sint vobiscum.	2020-04-18	Liber_Secundus_Regum
+1100000493	ecce ego abscondar in campestribus deserti, donec veniat sermo a vobis indicans mihi.	2020-04-18	Liber_Secundus_Regum
+1100000494	reportaverunt ergo sadoc et abiathar arcam dei in ierusalem, et manserunt ibi.	2020-04-18	Liber_Secundus_Regum
+1100000495	porro david ascendebat clivum olivarum, scandens et flens, nudis pedibus incedens, et operto capite: sed et omnis populus qui erat cum eo, operto capite ascendebat plorans.	2020-04-18	Liber_Secundus_Regum
+1100000496	nuntiatum est autem david quod et achitophel esset in coniuratione cum absalom: dixitque david: infatua, quaeso, domine, consilium achitophel.	2020-04-18	Liber_Secundus_Regum
+1100000497	cumque ascenderet david summitatem montis in quo adoraturus erat dominum, ecce occurrit ei chusai arachites, scissa veste, et terra pleno capite.	2020-04-18	Liber_Secundus_Regum
+1100000498	et dixit ei david: si veneris mecum, eris mihi oneri:si autem in civitatem revertaris, et dixeris absalom: servus tuus sum, rex: sicut fui servus patris tui, sic ero servus tuus: dissipabis consilium achitophel.	2020-04-18	Liber_Secundus_Regum
+1100000499	habes autem tecum sadoc et abiathar sacerdotes: et omne verbum quodcumque audieris de domo regis, indicabis sadoc et abiathar sacerdotibus.	2020-04-18	Liber_Secundus_Regum
+1100000500	sunt autem cum eis duo filii eorum achimaas filius sadoc, et ionathas filius abiathar: et mittetis per eos ad me omne verbum quod audieritis.	2020-04-18	Liber_Secundus_Regum
+1100000501	veniente ergo chusai amico david in civitatem, absalom quoque ingressus est ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000502	caput 16	2020-04-18	Liber_Secundus_Regum
+1100000503	cumque david transisset paululum montis verticem, apparuit siba puer miphiboseth in occursum eius, cum duobus asinis, qui onerati erant ducentis panibus, et centum alligaturis uvae passae, et centum massis palatharum, et utre vini.	2020-04-18	Liber_Secundus_Regum
+1100000504	et dixit rex sibae: quid sibi volunt haec? 	2020-04-18	Liber_Secundus_Regum
+1100000505	responditque siba: asini, domesticis regis ut sedeant: panes et palathae ad vescendum pueris tuis: vinum autem ut bibat siquis defecerit in deserto.	2020-04-18	Liber_Secundus_Regum
+1100000506	et ait rex: ubi est filius domini tui? 	2020-04-18	Liber_Secundus_Regum
+1100000507	responditque siba regi: remansit in ierusalem, dicens: hodie restituet mihi domus israel regnum patris mei.	2020-04-18	Liber_Secundus_Regum
+1100000508	et ait rex sibae: tua sint omnia quae fuerunt miphiboseth. 	2020-04-18	Liber_Secundus_Regum
+1100000509	dixitque siba: oro ut inveniam gratiam coram te, domine mi rex.	2020-04-18	Liber_Secundus_Regum
+1100000510	venit ergo rex david usque bahurim: et ecce egrediebatur inde vir de cognatione domus saul, nomine semei, filius gera: procedebatque egrediens, et maledicebat,mittebatque lapides contra david et contra universos servos regis david: omnis autem populus, et universi bellatores, a dextro et a sinistro latere regis incedebant.	2020-04-18	Liber_Secundus_Regum
+1100000511	ita autem loquebatur semei cum malediceret regi: egredere, egredere, vir sanguinum, et vir belial.	2020-04-18	Liber_Secundus_Regum
+1100000512	reddidit tibi dominus universum sanguinem domus saul: quoniam invasisti regnum pro eo, et dedit dominus regnum in manu absalom filii tui: et ecce premunt te mala tua, quoniam vir sanguinum es.	2020-04-18	Liber_Secundus_Regum
+1100000513	dixit autem abisai filius sarviae regi: quare maledicit canis hic mortuus domino meo regi? 	2020-04-18	Liber_Secundus_Regum
+1100000514	vadam, et amputabo caput eius.	2020-04-18	Liber_Secundus_Regum
+1100000515	et ait rex: quid mihi et vobis est, filii sarviae? 	2020-04-18	Liber_Secundus_Regum
+1100000516	dimittite eum, ut maledicat: dominus enim praecepit ei ut malediceret david: et quis est qui audeat dicere quare sic fecerit?	2020-04-18	Liber_Secundus_Regum
+1100000517	et ait rex abisai, et universis servis suis: ecce filius meus qui egressus est de utero meo, quaerit animam meam: quanto magis nunc filius iemini? 	2020-04-18	Liber_Secundus_Regum
+1100000518	dimittite eum ut maledicat iuxta praeceptum domini:si forte respiciat dominus afflictionem meam, et reddat mihi dominus bonum pro maledictione hac hodierna.	2020-04-18	Liber_Secundus_Regum
+1100000519	ambulabat itaque david et socii eius per viam cum eo. 	2020-04-18	Liber_Secundus_Regum
+1100000520	semei autem per iugum montis ex latere contra illum gradiebatur, maledicens, et mittens lapides adversum eum, terramque spargens.	2020-04-18	Liber_Secundus_Regum
+1100000521	venit itaque rex, et universus populus cum eo lassus, et refocillati sunt ibi.	2020-04-18	Liber_Secundus_Regum
+1100000522	absalom autem et omnis populus eius ingressi sunt ierusalem, sed et achitophel cum eo.	2020-04-18	Liber_Secundus_Regum
+1100000523	cum autem venisset chusai arachites amicus david ad absalom, locutus est ad eum: salve rex, salve rex.	2020-04-18	Liber_Secundus_Regum
+1100000524	ad quem absalom: haec est, inquit, gratia tua ad amicum tuum? 	2020-04-18	Liber_Secundus_Regum
+1100000525	quare non ivisti cum amico tuo?	2020-04-18	Liber_Secundus_Regum
+1100000526	responditque chusai ad absalom: nequaquam: quia illius ero, quem elegit dominus, et omnis hic populus, et universus israel: et cum eo manebo.	2020-04-18	Liber_Secundus_Regum
+1100000527	sed ut et hoc inferam, cui ego serviturus sum? 	2020-04-18	Liber_Secundus_Regum
+1100000528	nonne filio regis? 	2020-04-18	Liber_Secundus_Regum
+1100000529	sicut parui patri tuo, ita parebo et tibi.	2020-04-18	Liber_Secundus_Regum
+1100000530	dixit autem absalom ad achitophel: inite consilium quid agere debeamus.	2020-04-18	Liber_Secundus_Regum
+1100000531	et ait achitophel ad absalom: ingredere ad concubinas patris tui, quas dimisit ad custodiendam domum: ut cum audierit omnis israel quod foedaveris patrem tuum, roborentur tecum manus eorum.	2020-04-18	Liber_Secundus_Regum
+1100000532	tetenderunt ergo absalom tabernaculum in solario, ingressusque est ad concubinas patris sui coram universo israel.	2020-04-18	Liber_Secundus_Regum
+1100000533	consilium autem achitophel quod dabat in diebus illis, quasi si quis consuleret deum: sic erat omne consilium achitophel, et cum esset cum david, et cum esset cum absalom.	2020-04-18	Liber_Secundus_Regum
+1100000534	caput 17	2020-04-18	Liber_Secundus_Regum
+1100000535	dixit ergo achitophel ad absalom: eligam mihi duodecim millia virorum, et consurgens persequar david hac nocte.	2020-04-18	Liber_Secundus_Regum
+1100000536	et irruens super eum (quippe qui lassus est, et solutis manibus), percutiam eum: cumque fugerit omnis populus qui cum eo est, percutiam regem desolatum.	2020-04-18	Liber_Secundus_Regum
+1100000537	et reducam universum populum, quomodo unus homo reverti solet: unum enim virum tu quaeris: et omnis populus erit in pace.	2020-04-18	Liber_Secundus_Regum
+1100000538	placuitque sermo eius absalom, et cunctis maioribus natu israel.	2020-04-18	Liber_Secundus_Regum
+1100000539	ait autem absalom: vocate chusai arachiten, et audiamus quid etiam ipse dicat.	2020-04-18	Liber_Secundus_Regum
+1100000540	cumque venisset chusai ad absalom, ait absalom ad eum: huiuscemodi sermonem locutus est achitophel: facere debemus an non? 	2020-04-18	Liber_Secundus_Regum
+1100000541	quod das consilium?	2020-04-18	Liber_Secundus_Regum
+1100000542	et dixit chusai ad absalom: non est bonum consilium quod dedit achitophel hac vice.	2020-04-18	Liber_Secundus_Regum
+1100000543	et rursum intulit chusai: tu nosti patrem tuum, et viros qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu saeviat: sed et pater tuus vir bellator est, nec morabitur cum populo.	2020-04-18	Liber_Secundus_Regum
+1100000544	forsitan nunc latitat in foveis, aut in uno, quo voluerit, loco: et cum ceciderit unus quilibet in principio, audiet quicumque audierit, et dicet: facta est plaga in populo qui sequebatur absalom.	2020-04-18	Liber_Secundus_Regum
+1100000545	et fortissimus quisque, cuius cor est quasi leonis, pavore solvetur: scit enim omnis populus israel fortem esse patrem tuum, et robustos omnes qui cum eo sunt.	2020-04-18	Liber_Secundus_Regum
+1100000546	sed hoc mihi videtur rectum esse consilium. 	2020-04-18	Liber_Secundus_Regum
+1100000547	congregetur ad te universus israel, a dan usque bersabee, quasi arena maris innumerabilis: et tu eris in medio eorum.	2020-04-18	Liber_Secundus_Regum
+1100000548	et irruemus super eum in quocumque loco inventus fuerit, et operiemus eum, sicut cadere solet ros super terram: et non relinquemus de viris qui cum eo sunt, ne unum quidem.	2020-04-18	Liber_Secundus_Regum
+1100000549	quod si urbem aliquam fuerit ingressus, circumdabit omnis israel civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.	2020-04-18	Liber_Secundus_Regum
+1100000550	dixitque absalom, et omnes viri israel: melius est consilium chusai arachitae, consilio achitophel: domini autem nutu dissipatum est consilium achitophel utile, ut induceret dominus super absalom malum.	2020-04-18	Liber_Secundus_Regum
+1100000551	et ait chusai sadoc et abiathar sacerdotibus: hoc et hoc modo consilium dedit achitophel absalom et senioribus israel: et ego tale et tale dedi consilium.	2020-04-18	Liber_Secundus_Regum
+1100000552	nunc ergo mittite cito, et nuntiate david, dicentes: ne moreris nocte hac in campestribus deserti, sed absque dilatione transgredere: ne forte absorbeatur rex, et omnis populus qui cum eo est.	2020-04-18	Liber_Secundus_Regum
+1100000553	ionathas autem et achimaas stabant iuxta fontem rogel: abiit ancilla et nuntiavit eis. 	2020-04-18	Liber_Secundus_Regum
+1100000554	et illi profecti sunt, ut referrent ad regem david nuntium: non enim poterant videri, aut introire civitatem.	2020-04-18	Liber_Secundus_Regum
+1100000555	vidit autem eos quidam puer, et indicavit absalom: illi vero concito gradu ingressi sunt domum cuiusdam viri in bahurim, qui habebat puteum in vestibulo suo: et descenderunt in eum.	2020-04-18	Liber_Secundus_Regum
+1100000556	tulit autem mulier, et expandit velamen super os putei, quasi siccans ptisanas: et sic latuit res.	2020-04-18	Liber_Secundus_Regum
+1100000557	cumque venissent servi absalom in domum, ad mulierem dixerunt: ubi est achimaas et ionathas? 	2020-04-18	Liber_Secundus_Regum
+1100000558	et respondit eis mulier: transierunt festinanter, gustata paululum aqua. 	2020-04-18	Liber_Secundus_Regum
+1100000559	at hi qui quaerebant, cum non reperissent, reversi sunt in ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000560	cumque abiissent, ascenderunt illi de puteo, et pergentes nuntiaverunt regi david, et dixerunt: surgite, et transite cito fluvium: quoniam huiuscemodi dedit consilium contra vos achitophel.	2020-04-18	Liber_Secundus_Regum
+1100000561	surrexit ergo david, et omnis populus qui cum eo erat, et transierunt iordanem, donec dilucesceret: et ne unus quidem residuus fuit, qui non transisset fluvium.	2020-04-18	Liber_Secundus_Regum
+1100000562	porro achitophel videns quod non fuisset factum consilium suum, stravit asinum suum, surrexitque, et abiit in domum suam et in civitatem suam: et disposita domo sua, suspendio interiit, et sepultus est in sepulchro patris sui.	2020-04-18	Liber_Secundus_Regum
+1100000563	david autem venit in castra, et absalom transivit iordanem, ipse et omnes viri israel cum eo.	2020-04-18	Liber_Secundus_Regum
+1100000564	amasam vero constituit absalom pro ioab super exercitum: amasa autem erat filius viri qui vocabatur ietra de iezraeli, qui ingressus est ad abigail filiam naas, sororem sarviae, quae fuit mater ioab.	2020-04-18	Liber_Secundus_Regum
+1100000565	et castrametatus est israel cum absalom in terra galaad.	2020-04-18	Liber_Secundus_Regum
+1100000566	cumque venisset david in castra, sobi filius naas de rabbath filiorum ammon, et machir filius ammihel de lodabar, et berzellai galaadites de rogelim,obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer,et mel, et butyrum, oves, et pingues vitulos: dederuntque david, et populo qui cum eo erat, ad vescendum: suspicati enim sunt populum fame et siti fatigari in deserto.	2020-04-18	Liber_Secundus_Regum
+1100000567	caput 18	2020-04-18	Liber_Secundus_Regum
+1100000568	igitur considerato david populo suo, constituit super eos tribunos et centuriones,et dedit populi tertiam partem sub manu ioab, et tertiam partem sub manu abisai filii sarviae fratris ioab, et tertiam partem sub manu ethai, qui erat de geth. 	2020-04-18	Liber_Secundus_Regum
+1100000569	dixitque rex ad populum: egrediar et ego vobiscum.	2020-04-18	Liber_Secundus_Regum
+1100000570	et respondit populus: non exibis: sive enim fugerimus, non magnopere ad eos de nobis pertinebit: sive media pars ceciderit e nobis, non satis curabunt, quia tu unus pro decem millibus computaris: melius est igitur ut sis nobis in urbe praesidio.	2020-04-18	Liber_Secundus_Regum
+1100000571	ad quos rex ait: quod vobis videtur rectum, hoc faciam. 	2020-04-18	Liber_Secundus_Regum
+1100000572	stetit ergo rex iuxta portam: egrediebaturque populus per turmas suas centeni et milleni.	2020-04-18	Liber_Secundus_Regum
+1100000573	et praecepit rex ioab, et abisai, et ethai, dicens: servate mihi puerum absalom. 	2020-04-18	Liber_Secundus_Regum
+1100000574	et omnis populus audiebat praecipientem regem cunctis principibus pro absalom.	2020-04-18	Liber_Secundus_Regum
+1100000575	itaque egressus est populus in campum contra israel, et factum est praelium in saltu ephraim.	2020-04-18	Liber_Secundus_Regum
+1100000576	et caesus est ibi populus israel ab exercitu david, factaque est plaga magna in die illa, viginti millium.	2020-04-18	Liber_Secundus_Regum
+1100000577	fuit autem ibi praelium dispersum super faciem omnis terrae, et multo plures erant quos saltus consumpserat de populo, quam hi quos voraverat gladius in die illa.	2020-04-18	Liber_Secundus_Regum
+1100000578	accidit autem ut occurreret absalom servis david, sedens mulo: cumque ingressus fuisset mulus subter condensam quercum et magnam, adhaesit caput eius quercui: et illo suspenso inter caelum et terram, mulus cui insederat, pertransivit.	2020-04-18	Liber_Secundus_Regum
+1100000579	vidit autem hoc quispiam, et nuntiavit ioab, dicens: vidi absalom pendere de quercu.	2020-04-18	Liber_Secundus_Regum
+1100000580	et ait ioab viro qui nuntiaverat ei: si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum?	2020-04-18	Liber_Secundus_Regum
+1100000581	qui dixit ad ioab: si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis: audientibus enim nobis praecepit rex tibi, et abisai, et ethai, dicens: custodite mihi puerum absalom.	2020-04-18	Liber_Secundus_Regum
+1100000582	sed etsi fecissem contra animam meam audacter, nequaquam hoc regem latere potuisset, et tu stares ex adverso?	2020-04-18	Liber_Secundus_Regum
+1100000583	et ait ioab: non sicut tu vis, sed aggrediar eum coram te. 	2020-04-18	Liber_Secundus_Regum
+1100000584	tulit ergo tres lanceas in manu sua, et infixit eas in corde absalom: cumque adhuc palpitaret haerens in quercu,cucurrerunt decem iuvenes armigeri ioab, et percutientes interfecerunt eum.	2020-04-18	Liber_Secundus_Regum
+1100000585	cecinit autem ioab buccina, et retinuit populum, ne persequeretur fugientem israel, volens parcere multitudini.	2020-04-18	Liber_Secundus_Regum
+1100000586	et tulerunt absalom, et proiecerunt eum in saltu, in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis: omnis autem israel fugit in tabernacula sua.	2020-04-18	Liber_Secundus_Regum
+1100000587	porro absalom erexerat sibi, cum adhuc viveret, titulum qui est in valle regis: dixerat enim: non habeo filium, et hoc erit monimentum nominis mei. 	2020-04-18	Liber_Secundus_Regum
+1100000588	vocavitque titulum nomine suo, et appellatur manus absalom, usque ad hanc diem.	2020-04-18	Liber_Secundus_Regum
+1100000589	achimaas autem filius sadoc, ait: curram, et nuntiabo regi quia iudicium fecerit ei dominus de manu inimicorum eius.	2020-04-18	Liber_Secundus_Regum
+1100000590	ad quem ioab dixit: non eris nuntius in hac die, sed nuntiabis in alia: hodie nolo te nuntiare: filius enim regis est mortuus.	2020-04-18	Liber_Secundus_Regum
+1100000591	et ait ioab chusi: vade, et nuntia regi quae vidisti. 	2020-04-18	Liber_Secundus_Regum
+1100000592	adoravit chusi ioab, et cucurrit.	2020-04-18	Liber_Secundus_Regum
+1100000593	rursus autem achimaas filius sadoc dixit ad ioab: quid impedit si etiam ego curram post chusi? 	2020-04-18	Liber_Secundus_Regum
+1100000594	dixitque ei ioab: quid vis currere, fili mi? 	2020-04-18	Liber_Secundus_Regum
+1100000595	non eris boni nuntii baiulus.	2020-04-18	Liber_Secundus_Regum
+1100000596	qui respondit: quid enim si cucurrero? 	2020-04-18	Liber_Secundus_Regum
+1100000597	et ait ei: curre. 	2020-04-18	Liber_Secundus_Regum
+1100000598	currens ergo achimaas per viam compendii, transivit chusi.	2020-04-18	Liber_Secundus_Regum
+1100000599	david autem sedebat inter duas portas: speculator vero, qui erat in fastigio portae super murum, elevans oculos, vidit hominem currentem solum.	2020-04-18	Liber_Secundus_Regum
+1100000600	et exclamans indicavit regi: dixitque rex: si solus est, bonus est nuntius in ore eius. 	2020-04-18	Liber_Secundus_Regum
+1100000601	properante autem illo, et accedente propius,vidit speculator hominem alterum currentem, et vociferans in culmine, ait: apparet mihi alter homo currens solus. 	2020-04-18	Liber_Secundus_Regum
+1100000602	dixitque rex: et iste bonus est nuntius.	2020-04-18	Liber_Secundus_Regum
+1100000603	speculator autem: contemplor, ait, cursum prioris, quasi cursum achimaas filii sadoc. 	2020-04-18	Liber_Secundus_Regum
+1100000604	et ait rex: vir bonus est, et nuntium portans bonum venit.	2020-04-18	Liber_Secundus_Regum
+1100000605	clamans autem achimaas, dixit ad regem: salve rex. 	2020-04-18	Liber_Secundus_Regum
+1100000606	et adorans regem coram eo pronus in terram, ait: benedictus dominus deus tuus, qui conclusit homines qui levaverunt manus suas contra dominum meum regem.	2020-04-18	Liber_Secundus_Regum
+1100000607	et ait rex: estne pax puero absalom? 	2020-04-18	Liber_Secundus_Regum
+1100000608	dixitque achimaas: vidi tumultum magnum cum mitteret ioab servus tuus, o rex, me servum tuum: nescio aliud.	2020-04-18	Liber_Secundus_Regum
+1100000609	ad quem rex: transi, ait, et sta hic. 	2020-04-18	Liber_Secundus_Regum
+1100000610	cumque ille transisset, et staret,apparuit chusi: et veniens ait: bonum apporto nuntium, domine mi rex: iudicavit enim pro te dominus hodie de manu omnium qui surrexerunt contra te.	2020-04-18	Liber_Secundus_Regum
+1100000611	dixit autem rex ad chusi: estne pax puero absalom? 	2020-04-18	Liber_Secundus_Regum
+1100000612	cui respondens chusi: fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum.	2020-04-18	Liber_Secundus_Regum
+1100000613	contristatus itaque rex, ascendit coenaculum portae, et flevit. 	2020-04-18	Liber_Secundus_Regum
+1100000614	et sic loquebatur, vadens: fili mi absalom, absalom fili mi: quis mihi tribuat ut ego moriar pro te, absalom fili mi, fili mi absalom?	2020-04-18	Liber_Secundus_Regum
+1100000615	caput 19	2020-04-18	Liber_Secundus_Regum
+1100000616	nuntiatum est autem ioab quod rex fleret et lugeret filium suum,et versa est victoria in luctum in die illa omni populo: audivit enim populus in die illa dici: dolet rex super filio suo.	2020-04-18	Liber_Secundus_Regum
+1100000617	et declinavit populus in die illa ingredi civitatem, quomodo declinare solet populus versus et fugiens de praelio.	2020-04-18	Liber_Secundus_Regum
+1100000618	porro rex operuit caput suum, et clamabat voce magna: fili mi absalom, absalom fili mi, fili mi.ingressus ergo ioab ad regem in domum, dixit: confudisti hodie vultus omnium servorum tuorum, qui salvam fecerunt animam tuam, et animam filiorum tuorum et filiarum tuarum, et animam uxorum tuarum, et animam concubinarum tuarum.	2020-04-18	Liber_Secundus_Regum
+1100000619	diligis odientes te, et odio habes diligentes te: et ostendisti hodie quia non curas de ducibus tuis et de servis tuis: et vere cognovi modo, quia si absalom viveret, et omnes nos occubuissemus, tunc placeret tibi.	2020-04-18	Liber_Secundus_Regum
+1100000620	nunc igitur surge, et procede, et alloquens satisfac servis tuis: iuro enim tibi per dominum quod si non exieris, ne unus quidem remansurus sit tecum nocte hac: et peius erit hoc tibi quam omnia mala quae venerunt super te ab adolescentia tua usque in praesens.	2020-04-18	Liber_Secundus_Regum
+1100000621	surrexit ergo rex et sedit in porta: et omni populo nuntiatum est quod rex sederet in porta. 	2020-04-18	Liber_Secundus_Regum
+1100000622	venitque universa multitudo coram rege: israel autem fugit in tabernacula sua.	2020-04-18	Liber_Secundus_Regum
+1100000623	omnis quoque populus certabat in cunctis tribubus israel, dicens: rex liberavit nos de manu inimicorum nostrorum; ipse salvavit nos de manu philisthinorum: et nunc fugit de terra propter absalom.	2020-04-18	Liber_Secundus_Regum
+1100000624	absalom autem, quem unximus super nos, mortuus est in bello: usquequo siletis, et non reducitis regem?	2020-04-18	Liber_Secundus_Regum
+1100000625	rex vero david misit ad sadoc et abiathar sacerdotes, dicens: loquimini ad maiores natu iuda, dicentes: cur venitis novissimi ad reducendum regem in domum suam? (	2020-04-18	Liber_Secundus_Regum
+1100000626	sermo autem omnis israel pervenerat ad regem in domo eius.)	2020-04-18	Liber_Secundus_Regum
+1100000627	fratres mei vos, os meum, et caro mea vos, quare novissimi reducitis regem?	2020-04-18	Liber_Secundus_Regum
+1100000628	et amasae dicite: nonne os meum, et caro mea es? 	2020-04-18	Liber_Secundus_Regum
+1100000629	haec faciat mihi deus, et haec addat, si non magister militiae fueris coram me omni tempore pro ioab.	2020-04-18	Liber_Secundus_Regum
+1100000630	et inclinavit cor omnium virorum iuda quasi viri unius: miseruntque ad regem, dicentes: revertere tu, et omnes servi tui.	2020-04-18	Liber_Secundus_Regum
+1100000631	et reversus est rex, et venit usque ad iordanem: et omnis iuda venit usque in galgalam ut occurreret regi, et traduceret eum iordanem.	2020-04-18	Liber_Secundus_Regum
+1100000632	festinavit autem semei filius gera filii iemini de bahurim, et descendit cum viris iuda in occursum regis david,cum mille viris de beniamin, et siba puer de domo saul: et quindecim filii eius, ac viginti servi erant cum eo: et irrumpentes iordanem, ante regemtransierunt vada, ut traducerent domum regis, et facerent iuxta iussionem eius: semei autem filius gera prostratus coram rege, cum iam transisset iordanem,dixit ad eum: ne reputes mihi, domine mi, iniquitatem, neque memineris iniuriarum servi tui in die qua egressus es, domine mi rex, de ierusalem, neque ponas, rex, in corde tuo.	2020-04-18	Liber_Secundus_Regum
+1100000633	agnosco enim servus tuus peccatum meum: et idcirco hodie primus veni de omni domo ioseph, descendique in occursum domini mei regis.	2020-04-18	Liber_Secundus_Regum
+1100000634	respondens vero abisai filius sarviae, dixit: numquid pro his verbis non occidetur semei, quia maledixit christo domini?	2020-04-18	Liber_Secundus_Regum
+1100000635	et ait david: quid mihi et vobis, filii sarviae? 	2020-04-18	Liber_Secundus_Regum
+1100000636	cur efficimini mihi hodie in satan? 	2020-04-18	Liber_Secundus_Regum
+1100000637	ergone hodie interficietur vir in israel? 	2020-04-18	Liber_Secundus_Regum
+1100000638	an ignoro hodie me factum regem super israel?	2020-04-18	Liber_Secundus_Regum
+1100000639	et ait rex semei: non morieris. 	2020-04-18	Liber_Secundus_Regum
+1100000640	iuravitque ei.	2020-04-18	Liber_Secundus_Regum
+1100000641	miphiboseth quoque filius saul descendit in occursum regis, illotis pedibus et intonsa barba: vestesque suas non laverat a die qua egressus fuerat rex, usque ad diem reversionis eius in pace.	2020-04-18	Liber_Secundus_Regum
+1100000642	cumque ierusalem occurrisset regi, dixit ei rex: quare non venisti mecum, miphiboseth?	2020-04-18	Liber_Secundus_Regum
+1100000643	et respondens ait: domine mi rex, servus meus contempsit me: dixique ei ego famulus tuus ut sterneret mihi asinum, et ascendens abirem cum rege: claudus enim sum servus tuus.	2020-04-18	Liber_Secundus_Regum
+1100000644	insuper et accusavit me servum tuum ad te dominum meum regem: tu autem, domine mi rex, sicut angelus dei es: fac quod placitum est tibi.	2020-04-18	Liber_Secundus_Regum
+1100000645	neque enim fuit domus patris mei, nisi morti obnoxia domino meo regi: tu autem posuisti me servum tuum inter convivas mensae tuae: quid ergo habeo iustae querelae? 	2020-04-18	Liber_Secundus_Regum
+1100000646	aut quid possum ultra vociferari ad regem?	2020-04-18	Liber_Secundus_Regum
+1100000647	ait ergo ei rex: quid ultra loqueris? 	2020-04-18	Liber_Secundus_Regum
+1100000648	fixum est quod locutus sum: tu et siba dividite possessiones.	2020-04-18	Liber_Secundus_Regum
+1100000649	responditque miphiboseth regi: etiam cuncta accipiat, postquam reversus est dominus meus rex pacifice in domum suam.	2020-04-18	Liber_Secundus_Regum
+1100000650	berzellai quoque galaadites, descendens de rogelim, traduxit regem iordanem, paratus etiam ultra fluvium prosequi eum.	2020-04-18	Liber_Secundus_Regum
+1100000651	erat autem berzellai galaadites senex valde, id est, octogenarius, et ipse praebuit alimenta regi cum moraretur in castris: fuit quippe vir dives nimis.	2020-04-18	Liber_Secundus_Regum
+1100000652	dixit itaque rex ad berzellai: veni mecum, ut requiescas securus mecum in ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000653	et ait berzellai ad regem: quot sunt dies annorum vitae meae, ut ascendam cum rege in ierusalem?	2020-04-18	Liber_Secundus_Regum
+1100000654	octogenarius sum hodie: numquid vigent sensus mei ad discernendum suave aut amarum? 	2020-04-18	Liber_Secundus_Regum
+1100000655	aut delectare potest servum tuum cibus et potus? 	2020-04-18	Liber_Secundus_Regum
+1100000656	vel audire possum ultra vocem cantorum atque cantatricum? 	2020-04-18	Liber_Secundus_Regum
+1100000657	quare servus tuus sit oneri domino meo regi?	2020-04-18	Liber_Secundus_Regum
+1100000658	paululum procedam famulus tuus ab iordane tecum: non indigeo hac vicissitudine,sed obsecro ut revertar servus tuus, et moriar in civitate mea, et sepeliar iuxta sepulchrum patris mei et matris meae. 	2020-04-18	Liber_Secundus_Regum
+1100000659	est autem servus tuus chamaam: ipse vadat tecum, domine mi rex, et fac ei quidquid tibi bonum videtur.	2020-04-18	Liber_Secundus_Regum
+1100000660	dixit itaque ei rex: mecum transeat chamaam, et ego faciam ei quidquid tibi placuerit: et omne quod petieris a me, impetrabis.	2020-04-18	Liber_Secundus_Regum
+1100000661	cumque transisset universus populus et rex iordanem, osculatus est rex berzellai, et benedixit ei: et ille reversus est in locum suum.	2020-04-18	Liber_Secundus_Regum
+1100000662	transivit ergo rex in galgalam, et chamaam cum eo.	2020-04-18	Liber_Secundus_Regum
+1100000663	omnis autem populus iuda traduxerat regem, et media tantum pars adfuerat de populo israel.	2020-04-18	Liber_Secundus_Regum
+1100000664	itaque omnes viri israel concurrentes ad regem dixerunt ei: quare te furati sunt fratres nostri viri iuda, et traduxerunt regem et domum eius iordanem, omnesque viros david cum eo?	2020-04-18	Liber_Secundus_Regum
+1100000665	et respondit omnis vir iuda ad viros israel: quia mihi propior est rex: cur irasceris super hac re? 	2020-04-18	Liber_Secundus_Regum
+1100000666	numquid comedimus aliquid ex rege, aut munera nobis data sunt?	2020-04-18	Liber_Secundus_Regum
+1100000667	et respondit vir israel ad viros iuda, et ait: decem partibus maior ego sum apud regem, magisque ad me pertinet david quam ad te: cur fecisti mihi iniuriam, et non mihi nuntiatum est priori, ut reducerem regem meum? 	2020-04-18	Liber_Secundus_Regum
+1100000668	durius autem responderunt viri iuda viris israel.	2020-04-18	Liber_Secundus_Regum
+1100000669	caput 20	2020-04-18	Liber_Secundus_Regum
+1100000670	accidit quoque ut ibi esset vir belial, nomine seba, filius bochri, vir iemineus: et cecinit buccina, et ait: non est nobis pars in david, neque haereditas in filio isai: revertere in tabernacula tua, israel.	2020-04-18	Liber_Secundus_Regum
+1100000671	et separatus est omnis israel a david, secutusque est seba filium bochri: viri autem iuda adhaeserunt regi suo a iordane usque ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000672	cumque venisset rex in domum suam in ierusalem, tulit decem mulieres concubinas quas dereliquerat ad custodiendam domum, et tradidit eas in custodiam, alimenta eis praebens: et non est ingressus ad eas, sed erant clausae usque in diem mortis suae in viduitate viventes.	2020-04-18	Liber_Secundus_Regum
+1100000673	dixit autem rex amasae: convoca mihi omnes viros iuda in diem tertium, et tu adesto praesens.	2020-04-18	Liber_Secundus_Regum
+1100000674	abiit ergo amasa ut convocaret iudam, et moratus est extra placitum quod ei constituerat rex.	2020-04-18	Liber_Secundus_Regum
+1100000675	ait autem david ad abisai: nunc magis afflicturus est nos seba filius bochri quam absalom: tolle igitur servos domini tui, et persequere eum, ne forte inveniat civitates munitas, et effugiat nos.	2020-04-18	Liber_Secundus_Regum
+1100000676	egressi sunt ergo cum eo viri ioab, cerethi quoque et phelethi: et omnes robusti exierunt de ierusalem ad persequendum seba filium bochri.	2020-04-18	Liber_Secundus_Regum
+1100000677	cumque illi essent iuxta lapidem grandem qui est in gabaon, amasa veniens occurrit eis. 	2020-04-18	Liber_Secundus_Regum
+1100000678	porro ioab vestitus erat tunica stricta ad mensuram habitus sui, et desuper accinctus gladio dependente usque ad ilia, in vagina, qui fabricatus levi motu egredi poterat, et percutere.	2020-04-18	Liber_Secundus_Regum
+1100000679	dixit itaque ioab ad amasam: salve mi frater. 	2020-04-18	Liber_Secundus_Regum
+1100000680	et tenuit manu dextera mentum amasae, quasi osculans eum.	2020-04-18	Liber_Secundus_Regum
+1100000681	porro amasa non observavit gladium quem habebat ioab: qui percussit eum in latere, et effudit intestina eius in terram, nec secundum vulnus apposuit: et mortuus est. 	2020-04-18	Liber_Secundus_Regum
+1100000682	ioab autem, et abisai frater eius, persecuti sunt seba filium bochri.	2020-04-18	Liber_Secundus_Regum
+1100000683	interea quidam viri, cum stetissent iuxta cadaver amasae, de sociis ioab, dixerunt: ecce qui esse voluit pro ioab comes david.	2020-04-18	Liber_Secundus_Regum
+1100000684	amasa autem conspersus sanguine iacebat in media via. 	2020-04-18	Liber_Secundus_Regum
+1100000685	vidit hoc quidam vir, quod subsisteret omnis populus ad videndum eum, et amovit amasam de via in agrum, operuitque eum vestimento, ne subsisterent transeuntes propter eum.	2020-04-18	Liber_Secundus_Regum
+1100000686	amoto ergo illo de via, transibat omnis vir sequens ioab ad persequendum seba filium bochri.	2020-04-18	Liber_Secundus_Regum
+1100000687	porro ille transierat per omnes tribus israel in abelam et bethmaacha: omnesque viri electi congregati fuerant ad eum.	2020-04-18	Liber_Secundus_Regum
+1100000688	venerunt itaque, et oppugnabant eum in abela et in bethmaacha, et circumdederunt munitionibus civitatem, et obsessa est urbs: omnis autem turba quae erat cum ioab, moliebatur destruere muros.	2020-04-18	Liber_Secundus_Regum
+1100000689	et exclamavit mulier sapiens de civitate: audite, audite: dicite ioab: appropinqua huc, et loquar tecum.	2020-04-18	Liber_Secundus_Regum
+1100000690	qui cum accessisset ad eam, ait illi: tu es ioab? 	2020-04-18	Liber_Secundus_Regum
+1100000691	et ille respondit: ego. 	2020-04-18	Liber_Secundus_Regum
+1100000692	ad quem sic locuta est: audi sermones ancillae tuae. 	2020-04-18	Liber_Secundus_Regum
+1100000693	qui respondit: audio.	2020-04-18	Liber_Secundus_Regum
+1100000694	rursumque illa: sermo, inquit, dicebatur in veteri proverbio: qui interrogant, interrogent in abela: et sic perficiebant.	2020-04-18	Liber_Secundus_Regum
+1100000695	nonne ego sum quae respondeo veritatem in israel, et tu quaeris subvertere civitatem et evertere matrem in israel? 	2020-04-18	Liber_Secundus_Regum
+1100000696	quare praecipitas haereditatem domini?	2020-04-18	Liber_Secundus_Regum
+1100000697	respondensque ioab, ait: absit, absit hoc a me: non praecipito, neque demolior.	2020-04-18	Liber_Secundus_Regum
+1100000698	non sic se habet res, sed homo de monte ephraim, seba filius bochri cognomine, levavit manum suam contra regem david: tradite illum solum, et recedemus a civitate. 	2020-04-18	Liber_Secundus_Regum
+1100000699	et ait mulier ad ioab: ecce caput eius mittetur ad te per murum.	2020-04-18	Liber_Secundus_Regum
+1100000700	ingressa est ergo ad omnem populum, et locuta est eis sapienter: qui abscissum caput seba filii bochri proiecerunt ad ioab. 	2020-04-18	Liber_Secundus_Regum
+1100000701	et ille cecinit tuba, et recesserunt ab urbe, unusquisque in tabernacula sua: ioab autem reversus est ierusalem ad regem.	2020-04-18	Liber_Secundus_Regum
+1100000702	fuit ergo ioab super omnem exercitum israel: banaias autem filius ioiadae super cerethaeos et phelethaeos:aduram vero super tributa: porro iosaphat filius ahilud, a commentariis:siva autem, scriba: sadoc vero et abiathar, sacerdotes.	2020-04-18	Liber_Secundus_Regum
+1100000703	ira autem iairites erat sacerdos david.	2020-04-18	Liber_Secundus_Regum
+1100000704	caput 21	2020-04-18	Liber_Secundus_Regum
+1100000705	facta est quoque fames in diebus david tribus annis iugiter: et consuluit david oraculum domini. 	2020-04-18	Liber_Secundus_Regum
+1100000706	dixitque dominus: propter saul, et domum eius sanguinum, quia occidit gabaonitas.	2020-04-18	Liber_Secundus_Regum
+1100000707	vocatis ergo gabaonitis rex, dixit ad eos (porro gabaonitae non erant de filiis israel, sed reliquiae amorrhaeorum: filii quippe israel iuraverant eis, et voluit saul percutere eos zelo, quasi pro filiis israel et iuda),dixit ergo david ad gabaonitas: quid faciam vobis? 	2020-04-18	Liber_Secundus_Regum
+1100000708	et quod erit vestri piaculum, ut benedicatis haereditati domini?	2020-04-18	Liber_Secundus_Regum
+1100000709	dixeruntque ei gabaonitae: non est nobis super argento et auro quaestio, sed contra saul, et contra domum eius: neque volumus ut interficiatur homo de israel. 	2020-04-18	Liber_Secundus_Regum
+1100000710	ad quos rex ait: quid ergo vultis ut faciam vobis?	2020-04-18	Liber_Secundus_Regum
+1100000711	qui dixerunt regi: virum qui attrivit nos et oppressit inique, ita delere debemus, ut ne unus quidem residuus sit de stirpe eius in cunctis finibus israel.	2020-04-18	Liber_Secundus_Regum
+1100000712	dentur nobis septem viri de filiis eius, ut crucifigamus eos domino in gabaa saul, quondam electi domini. 	2020-04-18	Liber_Secundus_Regum
+1100000713	et ait rex: ego dabo.	2020-04-18	Liber_Secundus_Regum
+1100000714	pepercitque rex miphiboseth filio ionathae filii saul, propter iusiurandum domini quod fuerat inter david et inter ionathan filium saul.	2020-04-18	Liber_Secundus_Regum
+1100000715	tulit itaque rex duos filios respha filiae aia quos peperit sauli, armoni, et miphiboseth: et quinque filios michol filiae saul quos genuerat hadrieli filio berzellai, qui fuit de molathi,et dedit eos in manus gabaonitarum: qui crucifixerunt eos in monte coram domino: et ceciderunt hi septem simul occisi in diebus messis primis, incipiente messione hordei.	2020-04-18	Liber_Secundus_Regum
+1100000716	tollens autem respha filia aia cilicium, substravit sibi supra petram ab initio messis, donec stillaret aqua super eos de caelo: et non dimisit aves lacerare eos per diem, neque bestias per noctem.	2020-04-18	Liber_Secundus_Regum
+1100000717	et nuntiata sunt david quae fecerat respha filia aia, concubina saul.	2020-04-18	Liber_Secundus_Regum
+1100000718	et abiit david, et tulit ossa saul, et ossa ionathae filii eius, a viris iabes galaad, qui furati fuerant ea de platea bethsan in qua suspenderant eos philisthiim cum interfecissent saul in gelboe:et asportavit inde ossa saul, et ossa ionathae filii eius: et colligentes ossa eorum qui affixi fuerant,sepelierunt ea cum ossibus saul et ionathae filii eius in terra beniamin, in latere, in sepulchro cis patris eius: feceruntque omnia quae praeceperat rex, et repropitiatus est deus terrae post haec.	2020-04-18	Liber_Secundus_Regum
+1100000719	factum est autem rursum praelium philisthinorum adversum israel, et descendit david, et servi eius cum eo, et pugnabant contra philisthiim. 	2020-04-18	Liber_Secundus_Regum
+1100000720	deficiente autem david,iesbibenob, qui fuit de genere arapha, cuius ferrum hastae trecentas uncias appendebat, et accinctus erat ense novo, nisus est percutere david.	2020-04-18	Liber_Secundus_Regum
+1100000721	praesidioque ei fuit abisai filius sarviae, et percussum philisthaeum interfecit. 	2020-04-18	Liber_Secundus_Regum
+1100000722	tunc iuraverunt viri david, dicentes: iam non egredieris nobiscum in bellum, ne extinguas lucernam israel.	2020-04-18	Liber_Secundus_Regum
+1100000723	secundum quoque bellum fuit in gob contra philisthaeos: tunc percussit sobochai de husati, saph de stirpe arapha de genere gigantum.	2020-04-18	Liber_Secundus_Regum
+1100000724	tertium quoque fuit bellum in gob contra philisthaeos, in quo percussit adeodatus filius saltus polymitarius bethlehemites goliath gethaeum, cuius hastile hastae erat quasi liciatorium texentium.	2020-04-18	Liber_Secundus_Regum
+1100000725	quartum bellum fuit in geth: in quo vir fuit excelsus, qui senos in manibus pedibusque habebat digitos, id est, viginti quatuor: et erat de origine arapha.	2020-04-18	Liber_Secundus_Regum
+1100000726	et blasphemavit israel: percussit autem eum ionathan filius samaa fratris david.	2020-04-18	Liber_Secundus_Regum
+1100000727	hi quatuor nati sunt de arapha in geth, et ceciderunt in manu david et servorum eius.	2020-04-18	Liber_Secundus_Regum
+1100000728	caput 22	2020-04-18	Liber_Secundus_Regum
+1100000729	locutus est autem david domino verba carminis huius in die qua liberavit eum dominus de manu omnium inimicorum suorum, et de manu saul.	2020-04-18	Liber_Secundus_Regum
+1100000730	et ait:	2020-04-18	Liber_Secundus_Regum
+1100000731	dominus petra mea, et robur meum, et salvator meus.	2020-04-18	Liber_Secundus_Regum
+1100000732	deus fortis meus: sperabo in eum;	2020-04-18	Liber_Secundus_Regum
+1100000733	scutum meum, et cornu salutis meae:	2020-04-18	Liber_Secundus_Regum
+1100000734	elevator meus, et refugium meum;	2020-04-18	Liber_Secundus_Regum
+1100000735	salvator meus: de iniquitate liberabis me.	2020-04-18	Liber_Secundus_Regum
+1100000736	laudabilem invocabo dominum,	2020-04-18	Liber_Secundus_Regum
+1100000737	et ab inimicis meis salvus ero.	2020-04-18	Liber_Secundus_Regum
+1100000738	quia circumdederunt me contritiones mortis:	2020-04-18	Liber_Secundus_Regum
+1100000739	torrentes belial terruerunt me.	2020-04-18	Liber_Secundus_Regum
+1100000740	funes inferni circumdederunt me:	2020-04-18	Liber_Secundus_Regum
+1100000741	praevenerunt me laquei mortis.	2020-04-18	Liber_Secundus_Regum
+1100000742	in tribulatione mea invocabo dominum,	2020-04-18	Liber_Secundus_Regum
+1100000743	et ad deum meum clamabo:	2020-04-18	Liber_Secundus_Regum
+1100000744	et exaudiet de templo suo vocem meam,	2020-04-18	Liber_Secundus_Regum
+1100000745	et clamor meus veniet ad aures eius.	2020-04-18	Liber_Secundus_Regum
+1100000746	commota est et contremuit terra;	2020-04-18	Liber_Secundus_Regum
+1100000747	fundamenta montium concussa sunt, et conquassata:	2020-04-18	Liber_Secundus_Regum
+1100000748	quoniam iratus est eis.	2020-04-18	Liber_Secundus_Regum
+1100000749	ascendit fumus de naribus eius,	2020-04-18	Liber_Secundus_Regum
+1100000750	et ignis de ore eius vorabit:	2020-04-18	Liber_Secundus_Regum
+1100000751	carbones succensi sunt ab eo.	2020-04-18	Liber_Secundus_Regum
+1100000752	inclinavit caelos, et descendit:	2020-04-18	Liber_Secundus_Regum
+1100000753	et caligo sub pedibus eius.	2020-04-18	Liber_Secundus_Regum
+1100000754	et ascendit super cherubim, et volavit:	2020-04-18	Liber_Secundus_Regum
+1100000755	et lapsus est super pennas venti.	2020-04-18	Liber_Secundus_Regum
+1100000756	posuit tenebras in circuitu suo latibulum,	2020-04-18	Liber_Secundus_Regum
+1100000757	cribrans aquas de nubibus caelorum.	2020-04-18	Liber_Secundus_Regum
+1100000758	prae fulgore in conspectu eius,	2020-04-18	Liber_Secundus_Regum
+1100000759	succensi sunt carbones ignis.	2020-04-18	Liber_Secundus_Regum
+1100000760	tonabit de caelo dominus,	2020-04-18	Liber_Secundus_Regum
+1100000761	et excelsus dabit vocem suam.	2020-04-18	Liber_Secundus_Regum
+1100000762	misit sagittas et dissipavit eos;	2020-04-18	Liber_Secundus_Regum
+1100000763	fulgur, et consumpsit eos.	2020-04-18	Liber_Secundus_Regum
+1100000764	et apparuerunt effusiones maris,	2020-04-18	Liber_Secundus_Regum
+1100000765	et revelata sunt fundamenta orbis	2020-04-18	Liber_Secundus_Regum
+1100000766	ab increpatione domini,	2020-04-18	Liber_Secundus_Regum
+1100000767	ab inspiratione spiritus furoris eius.	2020-04-18	Liber_Secundus_Regum
+1100000768	misit de excelso, et assumpsit me,	2020-04-18	Liber_Secundus_Regum
+1100000769	et extraxit me de aquis multis.	2020-04-18	Liber_Secundus_Regum
+1100000770	liberavit me ab inimico meo potentissimo,	2020-04-18	Liber_Secundus_Regum
+1100000771	et ab his qui oderant me:	2020-04-18	Liber_Secundus_Regum
+1100000772	quoniam robustiores me erant.	2020-04-18	Liber_Secundus_Regum
+1100000773	praevenit me in die afflictionis meae,	2020-04-18	Liber_Secundus_Regum
+1100000774	et factus est dominus firmamentum meum.	2020-04-18	Liber_Secundus_Regum
+1100000775	et eduxit me in latitudinem:	2020-04-18	Liber_Secundus_Regum
+1100000776	liberavit me, quia complacui ei.	2020-04-18	Liber_Secundus_Regum
+1100000777	retribuet mihi dominus secundum iustitiam meam:	2020-04-18	Liber_Secundus_Regum
+1100000778	et secundum munditiam manuum mearum reddet mihi.	2020-04-18	Liber_Secundus_Regum
+1100000779	quia custodivi vias domini,	2020-04-18	Liber_Secundus_Regum
+1100000780	et non egi impie a deo meo.	2020-04-18	Liber_Secundus_Regum
+1100000781	omnia enim iudicia eius in conspectu meo,	2020-04-18	Liber_Secundus_Regum
+1100000782	et praecepta eius non amovi a me.	2020-04-18	Liber_Secundus_Regum
+1100000783	et ero perfectus cum eo,	2020-04-18	Liber_Secundus_Regum
+1100000784	et custodiam me ab iniquitate mea.	2020-04-18	Liber_Secundus_Regum
+1100000785	et restituet mihi dominus secundum iustitiam meam,	2020-04-18	Liber_Secundus_Regum
+1100000786	et secundum munditiam manuum mearum in conspectu oculorum suorum.	2020-04-18	Liber_Secundus_Regum
+1100000787	cum sancto sanctus eris,	2020-04-18	Liber_Secundus_Regum
+1100000788	et cum robusto perfectus.	2020-04-18	Liber_Secundus_Regum
+1100000789	cum electo electus eris,	2020-04-18	Liber_Secundus_Regum
+1100000790	et cum perverso perverteris.	2020-04-18	Liber_Secundus_Regum
+1100000791	et populum pauperem salvum facies:	2020-04-18	Liber_Secundus_Regum
+1100000792	oculisque tuis excelsos humiliabis.	2020-04-18	Liber_Secundus_Regum
+1100000793	quia tu lucerna mea, domine,	2020-04-18	Liber_Secundus_Regum
+1100000794	et tu, domine, illuminabis tenebras meas.	2020-04-18	Liber_Secundus_Regum
+1100000795	in te enim curram accinctus:	2020-04-18	Liber_Secundus_Regum
+1100000796	in deo meo transiliam murum.	2020-04-18	Liber_Secundus_Regum
+1100000797	deus, immaculata via eius;	2020-04-18	Liber_Secundus_Regum
+1100000798	eloquium domini igne examinatum:	2020-04-18	Liber_Secundus_Regum
+1100000799	scutum est omnium sperantium in se.	2020-04-18	Liber_Secundus_Regum
+1100000800	quis est deus praeter dominum,	2020-04-18	Liber_Secundus_Regum
+1100000801	et quis fortis praeter deum nostrum?	2020-04-18	Liber_Secundus_Regum
+1100000802	deus qui accinxit me fortitudine,	2020-04-18	Liber_Secundus_Regum
+1100000803	et complanavit perfectam viam meam.	2020-04-18	Liber_Secundus_Regum
+1100000804	coaequans pedes meos cervis,	2020-04-18	Liber_Secundus_Regum
+1100000805	et super excelsa mea statuens me;	2020-04-18	Liber_Secundus_Regum
+1100000806	docens manus meas ad praelium,	2020-04-18	Liber_Secundus_Regum
+1100000807	et componens quasi arcum aereum brachia mea.	2020-04-18	Liber_Secundus_Regum
+1100000808	dedisti mihi clypeum salutis tuae,	2020-04-18	Liber_Secundus_Regum
+1100000809	et mansuetudo tua multiplicavit me.	2020-04-18	Liber_Secundus_Regum
+1100000810	dilatabis gressus meos subtus me,	2020-04-18	Liber_Secundus_Regum
+1100000811	et non deficient tali mei.	2020-04-18	Liber_Secundus_Regum
+1100000812	persequar inimicos meos, et conteram,	2020-04-18	Liber_Secundus_Regum
+1100000813	et non convertar donec consumam eos.	2020-04-18	Liber_Secundus_Regum
+1100000814	consumam eos et confringam, ut non consurgant:	2020-04-18	Liber_Secundus_Regum
+1100000815	cadent sub pedibus meis.	2020-04-18	Liber_Secundus_Regum
+1100000816	accinxisti me fortitudine ad praelium:	2020-04-18	Liber_Secundus_Regum
+1100000817	incurvasti resistentes mihi subtus me.	2020-04-18	Liber_Secundus_Regum
+1100000818	inimicos meos dedisti mihi dorsum;	2020-04-18	Liber_Secundus_Regum
+1100000819	odientes me, et disperdam eos.	2020-04-18	Liber_Secundus_Regum
+1100000820	clamabunt, et non erit qui salvet;	2020-04-18	Liber_Secundus_Regum
+1100000821	ad dominum, et non exaudiet eos.	2020-04-18	Liber_Secundus_Regum
+1100000822	delebo eos ut pulverem terrae;	2020-04-18	Liber_Secundus_Regum
+1100000823	quasi lutum platearum comminuam eos atque confringam.	2020-04-18	Liber_Secundus_Regum
+1100000824	salvabis me a contradictionibus populi mei;	2020-04-18	Liber_Secundus_Regum
+1100000825	custodies me in caput gentium:	2020-04-18	Liber_Secundus_Regum
+1100000826	populus quem ignoro serviet mihi.	2020-04-18	Liber_Secundus_Regum
+1100000827	filii alieni resistent mihi;	2020-04-18	Liber_Secundus_Regum
+1100000828	auditu auris obedient mihi.	2020-04-18	Liber_Secundus_Regum
+1100000829	filii alieni defluxerunt,	2020-04-18	Liber_Secundus_Regum
+1100000830	et contrahentur in angustiis suis.	2020-04-18	Liber_Secundus_Regum
+1100000831	vivit dominus, et benedictus deus meus,	2020-04-18	Liber_Secundus_Regum
+1100000832	et exaltabitur deus fortis salutis meae.	2020-04-18	Liber_Secundus_Regum
+1100000833	deus qui das vindictas mihi,	2020-04-18	Liber_Secundus_Regum
+1100000834	et deiicis populos sub me.	2020-04-18	Liber_Secundus_Regum
+1100000835	qui educis me ab inimicis meis,	2020-04-18	Liber_Secundus_Regum
+1100000836	et a resistentibus mihi elevas me:	2020-04-18	Liber_Secundus_Regum
+1100000837	a viro iniquo liberabis me.	2020-04-18	Liber_Secundus_Regum
+1100000838	propterea confitebor tibi, domine, in gentibus,	2020-04-18	Liber_Secundus_Regum
+1100000839	et nomini tuo cantabo:	2020-04-18	Liber_Secundus_Regum
+1100000840	magnificans salutes regis sui,	2020-04-18	Liber_Secundus_Regum
+1100000841	et faciens misericordiam christo suo david,	2020-04-18	Liber_Secundus_Regum
+1100000842	et semini eius in sempiternum.	2020-04-18	Liber_Secundus_Regum
+1100000843	caput 23	2020-04-18	Liber_Secundus_Regum
+1100000844	haec autem sunt verba david novissima. 	2020-04-18	Liber_Secundus_Regum
+1100000845	dixit david filius isai:	2020-04-18	Liber_Secundus_Regum
+1100000846	dixit vir, cui constitutum est de christo dei iacob,	2020-04-18	Liber_Secundus_Regum
+1100000847	egregius psaltes israel:	2020-04-18	Liber_Secundus_Regum
+1100000848	spiritus domini locutus est per me,	2020-04-18	Liber_Secundus_Regum
+1100000849	et sermo eius per linguam meam.	2020-04-18	Liber_Secundus_Regum
+1100000850	dixit deus israel mihi,	2020-04-18	Liber_Secundus_Regum
+1100000851	locutus est fortis israel:	2020-04-18	Liber_Secundus_Regum
+1100000852	dominator hominum,	2020-04-18	Liber_Secundus_Regum
+1100000853	iustus dominator in timore dei,	2020-04-18	Liber_Secundus_Regum
+1100000854	sicut lux aurorae, oriente sole,	2020-04-18	Liber_Secundus_Regum
+1100000855	mane absque nubibus rutilat:	2020-04-18	Liber_Secundus_Regum
+1100000856	et sicut pluviis germinat herba de terra.	2020-04-18	Liber_Secundus_Regum
+1100000857	nec tanta est domus mea apud deum,	2020-04-18	Liber_Secundus_Regum
+1100000858	ut pactum aeternum iniret mecum,	2020-04-18	Liber_Secundus_Regum
+1100000859	firmum in omnibus atque munitum.	2020-04-18	Liber_Secundus_Regum
+1100000860	cuncta enim salus mea, et omnis voluntas,	2020-04-18	Liber_Secundus_Regum
+1100000861	nec est quidquam ex ea quod non germinet.	2020-04-18	Liber_Secundus_Regum
+1100000862	praevaricatores autem quasi spinae evellentur universi,	2020-04-18	Liber_Secundus_Regum
+1100000863	quae non tolluntur manibus.	2020-04-18	Liber_Secundus_Regum
+1100000864	et si quis tangere voluerit eas,	2020-04-18	Liber_Secundus_Regum
+1100000865	armabitur ferro et ligno lanceato,	2020-04-18	Liber_Secundus_Regum
+1100000866	igneque succensae comburentur usque ad nihilum.	2020-04-18	Liber_Secundus_Regum
+1100000867	haec nomina fortium david. 	2020-04-18	Liber_Secundus_Regum
+1100000868	sedens in cathedra sapientissimus princeps inter tres, ipse est quasi tenerrimus ligni vermiculus, qui octingentos interfecit impetu uno.	2020-04-18	Liber_Secundus_Regum
+1100000869	post hunc, eleazar filius patrui eius ahohites inter tres fortes, qui erant cum david quando exprobraverunt philisthiim, et congregati sunt illuc in praelium.	2020-04-18	Liber_Secundus_Regum
+1100000870	cumque ascendissent viri israel, ipse stetit et percussit philisthaeos donec deficeret manus eius, et obrigesceret cum gladio: fecitque dominus salutem magnam in die illa: et populus qui fugerat, reversus est ad caesorum spolia detrahenda.	2020-04-18	Liber_Secundus_Regum
+1100000871	et post hunc, semma filius age de arari. 	2020-04-18	Liber_Secundus_Regum
+1100000872	et congregati sunt philisthiim in statione: erat quippe ibi ager lente plenus. 	2020-04-18	Liber_Secundus_Regum
+1100000873	cumque fugisset populus a facie philisthiim,stetit ille in medio agri, et tuitus est eum, percussitque philisthaeos: et fecit dominus salutem magnam.	2020-04-18	Liber_Secundus_Regum
+1100000874	necnon et ante descenderant tres qui erant principes inter triginta, et venerant tempore messis ad david in speluncam odollam: castra autem philisthinorum erant posita in valle gigantum.	2020-04-18	Liber_Secundus_Regum
+1100000875	et david erat in praesidio: porro statio philisthinorum tunc erat in bethlehem.	2020-04-18	Liber_Secundus_Regum
+1100000876	desideravit ergo david, et ait: o si quis mihi daret potum aquae de cisterna quae est in bethlehem iuxta portam!	2020-04-18	Liber_Secundus_Regum
+1100000877	irruperunt ergo tres fortes castra philisthinorum, et hauserunt aquam de cisterna bethlehem, quae erat iuxta portam, et attulerunt ad david: at ille noluit bibere, sed libavit eam domino,dicens: propitius sit mihi dominus, ne faciam hoc: num sanguinem hominum istorum qui profecti sunt, et animarum periculum bibam? 	2020-04-18	Liber_Secundus_Regum
+1100000878	noluit ergo bibere. 	2020-04-18	Liber_Secundus_Regum
+1100000879	haec fecerunt tres robustissimi.	2020-04-18	Liber_Secundus_Regum
+1100000880	abisai quoque frater ioab filius sarviae, princeps erat de tribus: ipse est qui levavit hastam suam contra trecentos, quos interfecit: nominatus in tribus,et inter tres nobilior, eratque eorum princeps, sed usque ad tres primos non pervenerat.	2020-04-18	Liber_Secundus_Regum
+1100000881	et banaias filius ioiadae viri fortissimi, magnorum operum, de cabseel. 	2020-04-18	Liber_Secundus_Regum
+1100000882	ipse percussit duos leones moab, et ipse descendit, et percussit leonem in media cisterna in diebus nivis.	2020-04-18	Liber_Secundus_Regum
+1100000883	ipse quoque interfecit virum aegyptium, virum dignum spectaculo, habentem in manu hastam: itaque cum descendisset ad eum in virga, vi extorsit hastam de manu aegyptii, et interfecit eum hasta sua.	2020-04-18	Liber_Secundus_Regum
+1100000884	haec fecit banaias filius ioiadae.	2020-04-18	Liber_Secundus_Regum
+1100000885	et ipse nominatus inter tres robustos, qui erant inter triginta nobiliores: verumtamen usque ad tres non pervenerat: fecitque eum sibi david auricularium, a secreto.	2020-04-18	Liber_Secundus_Regum
+1100000886	asael frater ioab inter triginta, elehanan filius patrui eius de bethlehem,semma de harodi, elica de harodi,heles de phalti, hira filius acces de thecua,abiezer de anathoth, mobonnai de husati,selmon ahohites, maharai netophathites,heled filius baana, et ipse netophathites, ithai filius ribai de gabaath filiorum beniamin,banaia pharathonites, heddai de torrente gaas,abialbon arbathites, azmaveth de beromi,eliaba de salaboni. 	2020-04-18	Liber_Secundus_Regum
+1100000887	filii iassen, ionathan,semma de orori, aiam filius sarar arorites,eliphelet filius aasbai filii machati, eliam filius achitophel gelonites,hesrai de carmelo, pharai de arbi,igaal filius nathan de soba, bonni de gadi,selec de ammoni, naharai berothites armiger ioab filii sarviae,ira iethrites, gareb et ipse iethrites,urias hethaeus: omnes triginta septem.	2020-04-18	Liber_Secundus_Regum
+1100000888	caput 24	2020-04-18	Liber_Secundus_Regum
+1100000889	et addidit furor domini irasci contra israel, commovitque david in eis dicentem: vade, numera israel et iudam.	2020-04-18	Liber_Secundus_Regum
+1100000890	dixitque rex ad ioab principem exercitus sui: perambula omnes tribus israel a dan usque bersabee, et numerate populum, ut sciam numerum eius.	2020-04-18	Liber_Secundus_Regum
+1100000891	dixitque ioab regi: adaugeat dominus deus tuus ad populum tuum, quantus nunc est, iterumque centuplicet in conspectu domini mei regis: sed quid sibi dominus meus rex vult in re huiuscemodi?	2020-04-18	Liber_Secundus_Regum
+1100000892	obtinuit autem sermo regis verba ioab et principum exercitus: egressusque est ioab et princeps militum a facie regis, ut numerarent populum israel.	2020-04-18	Liber_Secundus_Regum
+1100000893	cumque pertransissent iordanem, venerunt in aroer ad dexteram urbis, quae est in valle gad:et per iazer transierunt in galaad, et in terram inferiorem hodsi, et venerunt in dan silvestria. 	2020-04-18	Liber_Secundus_Regum
+1100000894	circumeuntesque iuxta sidonem,transierunt prope moenia tyri, et omnem terram hevaei et chananaei, veneruntque ad meridiem iuda in bersabee:et lustrata universa terra, affuerunt post novem menses et viginti dies in ierusalem.	2020-04-18	Liber_Secundus_Regum
+1100000895	dedit ergo ioab numerum descriptionis populi regi, et inventa sunt de israel octingenta millia virorum fortium qui educerent gladium, et de iuda quingenta millia pugnatorum.	2020-04-18	Liber_Secundus_Regum
+1100000896	percussit autem cor david eum, postquam numeratus est populus: et dixit david ad dominum: peccavi valde in hoc facto: sed precor, domine, ut transferas iniquitatem servi tui, quia stulte egi nimis.	2020-04-18	Liber_Secundus_Regum
+1100000897	surrexit itaque david mane, et sermo domini factus est ad gad prophetam et videntem david, dicens:vade, et loquere ad david: haec dicit dominus: trium tibi datur optio: elige unum quod volueris ex his, ut faciam tibi.	2020-04-18	Liber_Secundus_Regum
+1100000898	cumque venisset gad ad david, nuntiavit ei, dicens: aut septem annis veniet tibi fames in terra tua: aut tribus mensibus fugies adversarios tuos, et ille te persequentur: aut certe tribus diebus erit pestilentia in terra tua. 	2020-04-18	Liber_Secundus_Regum
+1100000899	nunc ergo delibera, et vide quem respondeam ei qui me misit sermonem.	2020-04-18	Liber_Secundus_Regum
+1100000900	dixit autem david ad gad: coarctor nimis: sed melius est ut incidam in manus domini (multae enim misericordiae eius sunt) quam in manus hominum.	2020-04-18	Liber_Secundus_Regum
+1100000901	immisitque dominus pestilentiam in israel, de mane usque ad tempus constitutum, et mortui sunt ex populo a dan usque ad bersabee septuaginta millia virorum.	2020-04-18	Liber_Secundus_Regum
+1100000902	cumque extendisset manum suam angelus domini super ierusalem ut disperderet eam, misertus est dominus super afflictione, et ait angelo percutienti populum: sufficit: nunc contine manum tuam. 	2020-04-18	Liber_Secundus_Regum
+1100000903	erat autem angelus domini iuxta aream areuna iebusaei.	2020-04-18	Liber_Secundus_Regum
+1100000904	dixitque david ad dominum cum vidisset angelum caedentem populum: ego sum qui peccavi, ego inique egi: isti qui oves sunt, quid fecerunt? 	2020-04-18	Liber_Secundus_Regum
+1100000905	vertatur, obsecro, manus tua contra me, et contra domum patris mei.	2020-04-18	Liber_Secundus_Regum
+1100000906	venit autem gad ad david in die illa, et dixit ei: ascende, et constitue altare domino in area areuna iebusaei.	2020-04-18	Liber_Secundus_Regum
+1100000907	et ascendit david iuxta sermonem gad, quem praeceperat ei dominus.	2020-04-18	Liber_Secundus_Regum
+1100000908	conspiciensque areuna, animadvertit regem et servos eius transire ad se:et egressus adoravit regem prono vultu in terram, et ait: quid causae est ut veniat dominus meus rex ad servum suum? 	2020-04-18	Liber_Secundus_Regum
+1100000909	cui david ait: ut emam a te aream, et aedificem altare domino, et cesset interfectio quae grassatur in populo.	2020-04-18	Liber_Secundus_Regum
+1100000910	et ait areuna ad david: accipiat, et offerat dominus meus rex sicut placet ei: habes boves in holocaustum, et plaustrum, et iuga boum in usum lignorum.	2020-04-18	Liber_Secundus_Regum
+1100000911	omnia dedit areuna rex regi: dixitque areuna ad regem: dominus deus tuus suscipiat votum tuum.	2020-04-18	Liber_Secundus_Regum
+1100000912	cui respondens rex, ait: nequaquam ut vis, sed emam pretio a te, et non offeram domino deo meo holocausta gratuita. 	2020-04-18	Liber_Secundus_Regum
+1100000913	emit ergo david aream, et boves, argenti siclis quinquaginta:et aedificavit ibi david altare domino, et obtulit holocausta et pacifica: et propitiatus est dominus terrae, et cohibita est plaga ab israel.	2020-04-18	Liber_Secundus_Regum

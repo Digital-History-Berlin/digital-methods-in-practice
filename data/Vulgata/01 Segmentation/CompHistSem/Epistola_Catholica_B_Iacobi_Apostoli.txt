@@ -1,0 +1,129 @@
+1100000001	epistola catholica b. iacobi apostoli	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000002	caput 1	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000003	iacobus, dei et domini nostri iesu christi servus, duodecim tribubus, quae sunt in dispersione, salutem.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000004	omne gaudium existimate fratres mei, cum in tentationes varias incideritis:scientes quod probatio fidei vestrae patientiam operatur.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000005	patientia autem opus perfectum habet: ut sitis perfecti et integri in nullo deficientes.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000006	si quis autem vestrum indiget sapientia, postulet a deo, qui dat omnibus affluenter, et non improperat: et dabitur ei.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000007	postulet autem in fide nihil haesitans: qui enim haesitat, similis est fluctui maris, qui a vento movetur et circumfertur:non ergo aestimet homo ille quod accipiat aliquid a domino.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000008	vir duplex animo inconstans est in omnibus viis suis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000009	glorietur autem frater humilis in exaltatione sua:dives autem in humilitate sua, quoniam sicut flos foeni transibit;exortus est enim sol cum ardore, et arefecit foenum, et flos eius decidit, et decor vultus eius deperiit: ita et dives in itineribus suis marcescet.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000010	beatus vir qui suffert tentationem: quoniam cum probatus fuerit, accipiet coronam vitae, quam repromisit deus diligentibus se.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000011	nemo cum tentatur, dicat quoniam a deo tentatur: deus enim intentator malorum est: ipse autem neminem tentat.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000012	unusquisque vero tentatur a concupiscentia sua abstractus, et illectus.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000013	deinde concupiscentia cum conceperit, parit peccatum: peccatum vero cum consummatum fuerit, generat mortem.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000014	nolite itaque errare, fratres mei dilectissimi.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000015	omne datum optimum, et omne donum perfectum desursum est, descendens a patre luminum, apud quem non est transmutatio, nec vicissitudinis obumbratio.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000016	voluntarie enim genuit nos verbo veritatis, ut simus initium aliquod creaturae eius.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000017	scitis, fratres mei dilectissimi. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000018	sit autem omnis homo velox ad audiendum: tardus autem ad loquendum, et tardus ad iram.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000019	ira enim viri iustitiam dei non operatur.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000020	propter quod abiicientes omnem immunditiam, et abundantiam malitiae, in mansuetudine suscipite insitum verbum, quod potest salvare animas vestras.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000021	estote autem factores verbi, et non auditores tantum: fallentes vosmetipsos.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000022	quia si quis auditor est verbi, et non factor, hic comparabitur viro consideranti vultum nativitatis suae in speculo:consideravit enim se, et abiit, et statim oblitus est qualis fuerit.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000023	qui autem perspexerit in legem perfectam libertatis, et permanserit in ea, non auditor obliviosus factus, sed factor operis: hic beatus in facto suo erit.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000024	si quis autem putat se religiosum esse, non refrenans linguam suam, sed seducens cor suum, huius vana est religio.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000025	religio munda et immaculata apud deum et patrem, haec est: visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000026	caput 2	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000027	fratres mei, nolite in personarum acceptione habere fidem domini nostri iesu christi gloriae.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000028	etenim si introierit in conventum vestrum vir aureum annulum habens in veste candida, introierit autem et pauper in sordido habitu,et intendatis in eum qui indutus est veste praeclara, et dixeritis ei: tu sede hic bene: pauperi autem dicatis: tu sta illic; aut sede sub scabello pedum meorum:nonne iudicatis apud vosmetipsos, et facti estis iudices cogitationum iniquarum?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000029	audite, fratres mei dilectissimi: nonne deus elegit pauperes in hoc mundo, divites in fide, et haeredes regni, quod repromisit deus diligentibus se?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000030	vos autem exhonorastis pauperem. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000031	nonne divites per potentiam opprimunt vos, et ipsi trahunt vos ad iudicia?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000032	nonne ipsi blasphemant bonum nomen, quod invocatum est super vos?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000033	si tamen legem perficitis regalem secundum scripturas: diliges proximum tuum sicut teipsum: bene facitis:si autem personas accipitis, peccatum operamini, redarguti a lege quasi transgressores.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000034	quicumque autem totam legem servaverit, offendat autem in uno, factus est omnium reus.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000035	qui enim dixit: non moechaberis, dixit et: non occides. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000036	quod si non moechaberis, occides autem, factus es transgressor legis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000037	sic loquimini, et sic facite sicut per legem libertatis incipientes iudicari.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000038	iudicium enim sine misericordia illi qui non fecit misericordiam: superexaltat autem misericordia iudicium.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000039	quid proderit, fratres mei, si fidem quis dicat se habere, opera autem non habeat? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000040	numquid poterit fides salvare eum?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000041	si autem frater et soror nudi sint, et indigeant victu quotidiano,dicat autem aliquis ex vobis illis: ite in pace, calefacimini et saturamini: non dederitis autem eis quae necessaria sunt corpori, quid proderit?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000042	sic et fides, si non habeat opera, mortua est in semetipsa.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000043	sed dicet quis: tu fidem habes, et ego opera habeo: ostende mihi fidem tuam sine operibus: et ego ostendam tibi ex operibus fidem meam.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000044	tu credis quoniam unus est deus: bene facis: et daemones credunt, et contremiscunt.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000045	vis autem scire, o homo inanis, quoniam fides sine operibus mortua est?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000046	abraham pater noster nonne ex operibus iustificatus est, offerens isaac filium suum super altare?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000047	vides quoniam fides cooperabatur operibus illius: et ex operibus fides consummata est?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000048	et suppleta est scriptura, dicens: credidit abraham deo, et reputatum est illi ad iustitiam, et amicus dei appellatus est.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000049	videtis quoniam ex operibus iustificatur homo, et non ex fide tantum?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000050	similiter et rahab meretrix, nonne ex operibus iustificata est, suscipiens nuntios, et alia via eiiciens?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000051	sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000052	caput 3	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000053	nolite plures magistri fieri fratres mei, scientes quoniam maius iudicium sumitis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000054	in multis enim offendimus omnes. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000055	si quis in verbo non offendit, hic perfectus est vir: potest etiam freno circumducere totum corpus.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000056	si autem equis frena in ora mittimus ad consentiendum nobis, et omne corpus illorum circumferimus.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000057	ecce et naves, cum magnae sint, et a ventis validis minentur, circumferuntur a modico gubernaculo ubi impetus dirigentis voluerit.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000058	ita et lingua modicum quidem membrum est, et magna exaltat. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000059	ecce quantus ignis quam magnam silvam incendit!	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000060	et lingua ignis est, universitas iniquitatis. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000061	lingua constituitur in membris nostris, quae maculat totum corpus, et inflammat rotam nativitatis nostrae inflammata a gehenna.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000062	omnis enim natura bestiarum, et volucrum, et serpentium, et ceterorum domantur, et domita sunt a natura humana:linguam autem nullus hominum domare potest: inquietum malum, plena veneno mortifero.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000063	in ipsa benedicimus deum et patrem: et in ipsa maledicimus homines, qui ad similitudinem dei facti sunt.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000064	ex ipso ore procedit benedictio et maledictio. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000065	non oportet, fratres mei, haec ita fieri.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000066	numquid fons de eodem foramine emanat dulcem et amaram aquam?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000067	numquid potest, fratres mei, ficus uvas facere, aut vitis ficus? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000068	sic neque salsa dulcem potest facere aquam.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000069	quis sapiens et disciplinatus inter vos? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000070	ostendat ex bona conversatione operationem suam in mansuetudine sapientiae.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000071	quod si zelum amarum habetis, et contentiones sint in cordibus vestris: nolite gloriari, et mendaces esse adversus veritatem:non est enim ista sapientia desursum descendens: sed terrena, animalis, diabolica.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000072	ubi enim zelus et contentio, ibi inconstantia et omne opus pravum.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000073	quae autem desursum est sapientia, primum quidem pudica est, deinde pacifica, modesta, suadibilis, bonus consentiens, plena misericordia et fructibus bonis, non iudicans, sine simulatione.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000074	fructus autem iustitiae, in pace seminatur, facientibus pacem.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000075	caput 4	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000076	unde bella et lites in vobis? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000077	nonne hinc: ex concupiscentiis vestris, quae militant in membris vestris?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000078	concupiscitis, et non habetis: occiditis, et zelatis: et non potestis adipisci: litigatis, et belligeratis, et non habetis, propter quod non postulatis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000079	petitis, et non accipitis: eo quod male petatis: ut in concupiscentiis vestris insumatis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000080	adulteri, nescitis quia amicitia huius mundi inimica est dei? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000081	quicumque ergo voluerit amicus esse saeculi huius, inimicus dei constituitur.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000082	an putatis quia inaniter scriptura dicat: ad invidiam concupiscit spiritus qui habitat in vobis?	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000083	maiorem autem dat gratiam. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000084	propter quod dicit: deus superbis resistit, humilibus autem dat gratiam.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000085	subditi ergo estote deo, resistite autem diabolo, et fugiet a vobis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000086	appropinquate deo, et appropinquabit vobis. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000087	emundate manus, peccatores: et purificate corda, duplices animo.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000088	miseri estote, et lugete, et plorate: risus vester in luctum convertatur, et gaudium in moerorem.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000089	humiliamini in conspectu domini, et exaltabit vos.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000090	nolite detrahere alterutrum fratres. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000091	qui detrahit fratri, aut qui iudicat fratrem suum, detrahit legi, et iudicat legem. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000092	si autem iudicas legem, non es factor legis, sed iudex.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000093	unus est legislator et iudex, qui potest perdere et liberare.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000094	tu autem quis es, qui iudicas proximum? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000095	ecce nunc qui dicitis: hodie, aut crastino ibimus in illam civitatem, et faciemus ibi quidem annum, et mercabimur, et lucrum faciemus:qui ignoratis quid erit in crastino.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000096	quae est enim vita vestra? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000097	vapor est ad modicum parens, et deinceps exterminabitur; pro eo ut dicatis: si dominus voluerit. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000098	et: si vixerimus, faciemus hoc, aut illud.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000099	nunc autem exsultatis in superbiis vestris. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000100	omnis exsultatio talis, maligna est.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000101	scienti igitur bonum facere, et non facienti, peccatum est illi.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000102	caput 5	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000103	agite nunc divites, plorate ululantes in miseriis vestris, quae advenient vobis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000104	divitiae vestrae putrefactae sunt, et vestimenta vestra a tineis comesta sunt.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000105	aurum et argentum vestrum aeruginavit: et aerugo eorum in testimonium vobis erit, et manducabit carnes vestras sicut ignis. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000106	thesaurizastis vobis iram in novissimis diebus.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000107	ecce merces operariorum, qui messuerunt regiones vestras, quae fraudata est a vobis, clamat: et clamor eorum in aures domini sabbaoth introivit.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000108	epulati estis super terram, et in luxuriis enutristis corda vestra in die occisionis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000109	addixistis, et occidistis iustum, et non resistit vobis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000110	patientes igitur estote, fratres, usque ad adventum domini. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000111	ecce agricola exspectat pretiosum fructum terrae, patienter ferens donec accipiat temporaneum et serotinum.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000112	patientes igitur estote et vos, et confirmate corda vestra: quoniam adventus domini appropinquavit.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000113	nolite ingemiscere, fratres, in alterutrum, ut non iudicemini. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000114	ecce iudex ante ianuam assistit.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000115	exemplum accipite, fratres, exitus mali, laboris, et patientiae, prophetas qui locuti sunt in nomine domini.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000116	ecce beatificamus eos qui sustinuerunt. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000117	sufferentiam iob audistis, et finem domini vidistis, quoniam misericors dominus est, et miserator.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000118	ante omnia autem, fratres mei, nolite iurare, neque per caelum, neque per terram, neque aliud quodcumque iuramentum. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000119	sit autem sermo vester: est, est: non, non: ut non sub iudicio decidatis.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000120	tristatur aliquis vestrum? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000121	oret. 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000122	aequo animo est? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000123	psallat.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000124	infirmatur quis in vobis? 	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000125	inducat presbyteros ecclesiae, et orent super eum, ungentes eum oleo in nomine domini:et oratio fidei salvabit infirmum, et alleviabit eum dominus: et si in peccatis sit, remittentur ei.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000126	confitemini ergo alterutrum peccata vestra, et orate pro invicem ut salvemini: multum enim valet deprecatio iusti assidua.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000127	elias homo erat similis nobis passibilis: et oratione oravit ut non plueret super terram, et non pluit annos tres, et menses sex.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000128	et rursum oravit: et caelum dedit pluviam, et terra dedit fructum suum.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli
+1100000129	fratres mei, si quis ex vobis erraverit a veritate, et converterit quis eum:scire debet quoniam qui converti fecerit peccatorem ab errore viae suae, salvabit animam eius a morte, et operiet multitudinem peccatorum.	2020-04-18	Epistola_Catholica_B_Iacobi_Apostoli

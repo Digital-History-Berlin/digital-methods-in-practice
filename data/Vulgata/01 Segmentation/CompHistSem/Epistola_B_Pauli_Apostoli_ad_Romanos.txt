@@ -1,0 +1,478 @@
+1100000001	epistola b. pauli apostoli ad romanos	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000003	paulus, servus iesu christi, vocatus apostolus, segregatus in evangelium dei,quod ante promiserat per prophetas suos in scripturis sanctisde filio suo, qui factus est ei ex semine david secundum carnem,qui praedestinatus est filius dei in virtute secundum spiritum sanctificationis ex resurrectione mortuorum iesu christi domini nostri:per quem accepimus gratiam, et apostolatum ad obediendum fidei in omnibus gentibus pro nomine eius,in quibus estis et vos vocati iesu christi:omnibus qui sunt romae, dilectis dei, vocatis sanctis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000004	gratia vobis, et pax a deo patre nostro, et domino iesu christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000005	primum quidem gratias ago deo meo per iesum christum pro omnibus vobis: quia fides vestra annuntiatur in universo mundo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000006	testis enim mihi est deus, cui servio in spiritu meo in evangelio filii eius, quod sine intermissione memoriam vestri faciosemper in orationibus meis: obsecrans, si quomodo tandem aliquando prosperum iter habeam in voluntate dei veniendi ad vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000007	desidero enim videre vos, ut aliquid impertiar vobis gratiae spiritualis ad confirmandos vos:id est, simul consolari in vobis per eam quae invicem est, fidem vestram atque meam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000008	nolo autem vos ignorare fratres: quia saepe proposui venire ad vos (et prohibitus sum usque adhuc) ut aliquem fructum habeam et in vobis, sicut et in ceteris gentibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000009	graecis ac barbaris, sapientibus, et insipientibus debitor sum:ita (quod in me) promptum est et vobis, qui romae estis, evangelizare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000010	non enim erubesco evangelium. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000011	virtus enim dei est in salutem omni credenti, iudaeo primum, et graeco.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000012	iustitia enim dei in eo revelatur ex fide in fidem: sicut scriptum est: iustus autem ex fide vivit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000013	revelatur enim ira dei de caelo super omnem impietatem, et iniustitiam hominum eorum, qui veritatem dei in iniustitia detinent:quia quod notum est dei, manifestum est in illis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000014	deus enim illis manifestavit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000015	invisibilia enim ipsius, a creatura mundi, per ea quae facta sunt, intellecta, conspiciuntur: sempiterna quoque eius virtus, et divinitas: ita ut sint inexcusabiles.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000016	quia cum cognovissent deum, non sicut deum glorificaverunt, aut gratias egerunt: sed evanuerunt in cogitationibus suis, et obscuratum est insipiens cor eorum:dicentes enim se esse sapientes, stulti facti sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000017	et mutaverunt gloriam incorruptibilis dei in similitudinem imaginis corruptibilis hominis, et volucrum, et quadrupedum, et serpentium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000018	propter quod tradidit illos deus in desideria cordis eorum, in immunditiam, ut contumeliis afficiant corpora sua in semetipsis:qui commutaverunt veritatem dei in mendacium: et coluerunt, et servierunt creaturae potius quam creatori, qui est benedictus in saecula. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000019	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000020	propterea tradidit illos deus in passiones ignominiae: nam feminae eorum immutaverunt naturalem usum in eum usum qui est contra naturam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000021	similiter autem et masculi, relicto naturali usu feminae, exarserunt in desideriis suis in invicem, masculi in masculos turpitudinem operantes, et mercedem, quam oportuit, erroris sui in semetipsis recipientes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000022	et sicut non probaverunt deum habere in notitia, tradidit illos deus in reprobum sensum, ut faciant ea quae non conveniunt,repletos omni iniquitate, malitia, fornicatione, avaritia, nequitia, plenos invidia, homicidio, contentione, dolo, malignitate: susurrones,detractores, deo odibiles, contumeliosos, superbos, elatos, inventores malorum, parentibus non obedientes,insipientes, incompositos, sine affectione, absque foedere, sine misericordia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000023	qui cum iustitiam dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte: et non solum qui ea faciunt, sed etiam qui consentiunt facientibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000024	caput 2	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000025	propter quod inexcusabilis es, o homo omnis qui iudicas. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000026	in quo enim iudicas alterum, teipsum condemnas: eadem enim agis quae iudicas.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000027	scimus enim quoniam iudicium dei est secundum veritatem in eos qui talia agunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000028	existimas autem hoc, o homo, qui iudicas eos qui talia agunt, et facis ea, quia tu effugies iudicium dei?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000029	an divitias bonitatis eius, et patientiae, et longanimitatis contemnis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000030	ignoras quoniam benignitas dei ad poenitentiam te adducit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000031	secundum autem duritiam tuam, et impoenitens cor, thesaurizas tibi iram in die irae, et revelationis iusti iudicii dei,qui reddet unicuique secundum opera eius:iis quidem qui secundum patientiam boni operis, gloriam, et honorem, et incorruptionem quaerunt, vitam aeternam:iis autem qui sunt ex contentione, et qui non acquiescunt veritati, credunt autem iniquitati, ira et indignatio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000032	tribulatio et angustia in omnem animam hominis operantis malum, iudaei primum, et graeci:gloria autem, et honor, et pax omni operanti bonum, iudaeo primum, et graeco:non enim est acceptio personarum apud deum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000033	quicumque enim sine lege peccaverunt, sine lege peribunt: et quicumque in lege peccaverunt, per legem iudicabuntur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000034	non enim auditores legis iusti sunt apud deum, sed factores legis iustificabuntur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000035	cum autem gentes, quae legem non habent, naturaliter ea, quae legis sunt, faciunt, eiusmodi legem non habentes, ipsi sibi sunt lex:qui ostendunt opus legis scriptum in cordibus suis, testimonium reddente illis conscientia ipsorum, et inter se invicem cogitationibus accusantibus, aut etiam defendentibus,in die, cum iudicabit deus occulta hominum, secundum evangelium meum per iesum christum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000036	si autem tu iudaeus cognominaris, et requiescis in lege, et gloriaris in deo,et nosti voluntatem eius, et probas utiliora, instructus per legem,confidis teipsum esse ducem caecorum, lumen eorum qui in tenebris sunt,eruditorem insipientium, magistrum infantium, habentem formam scientiae, et veritatis in lege.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000037	qui ergo alium doces, teipsum non doces: qui praedicas non furandum, furaris:qui dicis non moechandum, moecharis: qui abominaris idola, sacrilegium facis:qui in lege gloriaris, per praevaricationem legis deum inhonoras.(	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000038	nomen enim dei per vos blasphematur inter gentes, sicut scriptum est.)	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000039	circumcisio quidem prodest, si legem observes: si autem praevaricator legis sis, circumcisio tua praeputium facta est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000040	si igitur praeputium iustitias legis custodiat, nonne praeputium illius in circumcisionem reputabitur?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000041	et iudicabit id quod ex natura est praeputium, legem consummans, te, qui per litteram et circumcisionem praevaricator legis es?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000042	non enim qui in manifesto, iudaeus est: neque quae in manifesto, in carne, est circumcisio:sed qui in abscondito, iudaeus est: et circumcisio cordis in spiritu, non littera: cuius laus non ex hominibus, sed ex deo est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000043	caput 3	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000044	quid ergo amplius iudaeo est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000045	aut quae utilitas circumcisionis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000046	multum per omnem modum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000047	primum quidem quia credita sunt illis eloquia dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000048	quid enim si quidam illorum non crediderunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000049	numquid incredulitas illorum fidem dei evacuabit? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000050	absit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000051	est autem deus verax: omnis autem homo mendax, sicut scriptum est:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000052	ut iustificeris in sermonibus tuis:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000053	et vincas cum iudicaris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000054	si autem iniquitas nostra iustitiam dei commendat, quid dicemus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000055	numquid iniquus est deus, qui infert iram?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000056	secundum hominem dico. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000057	absit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000058	alioquin quomodo iudicabit deus hunc mundum?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000059	si enim veritas dei in meo mendacio abundavit in gloriam ipsius: quid adhuc et ego tamquam peccator iudicor?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000060	et non (sicut blasphemamur, et sicut aiunt quidam nos dicere) faciamus mala ut veniant bona: quorum damnatio iusta est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000061	quid ergo? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000062	praecellimus eos? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000063	nequaquam. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000064	causati enim sumus iudaeos et graecos omnes sub peccato esse,sicut scriptum est:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000065	quia non est iustus quisquam:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000066	non est intelligens, non est requirens deum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000067	omnes declinaverunt, simul inutiles facti sunt:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000068	non est qui faciat bonum, non est usque ad unum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000069	sepulchrum patens est guttur eorum,	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000070	linguis suis dolose agebant:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000071	venenum aspidum sub labiis eorum:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000072	quorum os maledictione, et amaritudine plenum est:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000073	veloces pedes eorum ad effundendum sanguinem:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000074	contritio et infelicitas in viis eorum:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000075	et viam pacis non cognoverunt:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000076	non est timor dei ante oculos eorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000077	scimus autem quoniam quaecumque lex loquitur, iis, qui in lege sunt, loquitur: ut omne os obstruatur, et subditus fiat omnis mundus deo:quia ex operibus legis non iustificabitur omnis caro coram illo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000078	per legem enim cognitio peccati.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000079	nunc autem sine lege iustitia dei manifestata est: testificata a lege et prophetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000080	iustitia autem dei per fidem iesu christi in omnes et super omnes qui credunt in eum: non enim est distinctio:omnes enim peccaverunt, et egent gloria dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000081	iustificati gratis per gratiam ipsius, per redemptionem quae est in christo iesu,quem proposuit deus propitiationem per fidem in sanguine ipsius, ad ostensionem iustitiae suae propter remissionem praecedentium delictorumin sustentatione dei, ad ostensionem iustitiae eius in hoc tempore: ut sit ipse iustus, et iustificans eum, qui est ex fide iesu christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000082	ubi est ergo gloriatio tua? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000083	exclusa est. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000084	per quam legem? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000085	factorum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000086	non: sed per legem fidei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000087	arbitramur enim iustificari hominem per fidem sine operibus legis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000088	an iudaeorum deus tantum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000089	nonne et gentium? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000090	immo et gentium:quoniam quidem unus est deus, qui iustificat circumcisionem ex fide, et praeputium per fidem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000091	legem ergo destruimus per fidem? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000092	absit: sed legem statuimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000093	caput 4	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000094	quid ergo dicemus invenisse abraham patrem nostrum secundum carnem?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000095	si enim abraham ex operibus iustificatus est, habet gloriam, sed non apud deum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000096	quid enim dicit scriptura? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000097	credidit abraham deo, et reputatam est illi ad iustitiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000098	ei autem qui operatur, merces non imputatur secundum gratiam, sed secundum debitum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000099	ei vero qui non operatur, credenti autem in eum, qui iustificat impium, reputatur fides eius ad iustitiam secundum propositum gratiae dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000100	sicut et david dicit beatitudinem hominis, cui deus accepto fert iustitiam sine operibus:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000101	beati, quorum remissae sunt iniquitates,	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000102	et quorum tecta sunt peccata.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000103	beatus vir, cui non imputavit dominus peccatum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000104	beatitudo ergo haec in circumcisione tantum manet, an etiam in praeputio? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000105	dicimus enim quia reputata est abrahae fides ad iustitiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000106	quomodo ergo reputata est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000107	in circumcisione, an in praeputio? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000108	non in circumcisione, sed in praeputio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000109	et signum accepit circumcisionis, signaculum iustitiae fidei, quae est in praeputio: ut sit pater omnium credentium per praeputium, ut reputetur et illis ad iustitiam:et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quae est in praeputio patris nostri abrahae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000110	non enim per legem promissio abrahae, aut semini eius ut haeres esset mundi: sed per iustitiam fidei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000111	si enim qui ex lege, haeredes sunt: exinanita est fides, abolita est promissio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000112	lex enim iram operatur. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000113	ubi enim non est lex, nec praevaricatio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000114	ideo ex fide, ut secundum gratiam firma sit promissio omni semini, non ei qui ex lege est solum, sed et ei qui ex fide est abrahae, qui pater est omnium nostrum(sicut scriptum est: quia patrem multarum gentium posui te) ante deum, cui credidit, qui vivificat mortuos, et vocat ea quae non sunt, tamquam ea quae sunt:qui contra spem in spem credidit, ut fieret pater multarum gentium secundum quod dictum est ei: sic erit semen tuum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000115	et non infirmatus est fide, nec consideravit corpus suum emortuum, cum iam fere centum esset annorum, et emortuam vulvam sarae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000116	in repromissione etiam dei non haesitavit diffidentia, sed confortatus est fide, dans gloriam deo:plenissime sciens, quia quaecumque promisit, potens est et facere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000117	ideo et reputatum est illi ad iustitiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000118	non est autem scriptum tantum propter ipsum quia reputatum est illi ad iustitiam:sed et propter nos, quibus reputabitur credentibus in eum, qui suscitavit iesum christum dominum nostrum a mortuis,qui traditus est propter delicta nostra, et resurrexit propter iustificationem nostram.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000119	caput 5	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000120	iustificati ergo ex fide, pacem habeamus ad deum per dominum nostrum iesum christum:per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriae filiorum dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000121	non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:patientia autem probationem, probatio vero spem,spes autem non confundit: quia caritas dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000122	ut quid enim christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000123	vix enim pro iusto quis moritur: nam pro bono forsitan quis audeat mori.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000124	commendat autem caritatem suam deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus,christus pro nobis mortuus est: multo igitur magis nunc iustificati in sanguine ipsius, salvi erimus ab ira per ipsum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000125	si enim cum inimici essemus, reconciliati sumus deo per mortem filii eius: multo magis reconciliati, salvi erimus in vita ipsius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000126	non solum autem: sed et gloriamur in deo per dominum nostrum iesum christum, per quem nunc reconciliationem accepimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000127	propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000128	usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000129	sed regnavit mors ab adam usque ad moysen etiam in eos qui non peccaverunt in similitudinem praevaricationis adae, qui est forma futuri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000130	sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia dei et donum in gratia unius hominis iesu christi in plures abundavit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000131	et non sicut per unum peccatum, ita et donum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000132	nam iudicium quidem ex uno in condemnationem: gratia autem ex multis delictis in iustificationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000133	si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiae, et donationis, et iustitiae accipientes, in vita regnabunt per unum iesum christum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000134	igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius iustitiam in omnes homines in iustificationem vitae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000135	sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, iusti constituentur multi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000136	lex autem subintravit ut abundaret delictum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000137	ubi autem abundavit delictum, superabundavit gratia:ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam aeternam, per iesum christum dominum nostrum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000138	caput 6	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000139	quid ergo dicemus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000140	permanebimus in peccato ut gratia abundet?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000141	absit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000142	qui enim mortui sumus peccato, quomodo adhuc vivemus in illo?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000143	an ignoratis quia quicumque baptizati sumus in christo iesu, in morte ipsius baptizati sumus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000144	consepulti enim sumus cum illo per baptismum in mortem: ut quomodo christus surrexit a mortuis per gloriam patris, ita et nos in novitate vitae ambulemus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000145	si enim complantati facti sumus similitudini mortis eius: simul et resurrectionis erimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000146	hoc scientes, quia vetus homo noster simul crucifixus est, ut destruatur corpus peccati, et ultra non serviamus peccato.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000147	qui enim mortuus est, iustificatus est a peccato.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000148	si autem mortui sumus cum christo, credimus quia simul etiam vivemus cum christo,scientes quod christus resurgens ex mortuis iam non moritur: mors illi ultra non dominabitur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000149	quod enim mortuus est peccato, mortuus est semel: quod autem vivit, vivit deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000150	ita et vos existimate vos mortuos quidem esse peccato, viventes autem deo, in christo iesu domino nostro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000151	non ergo regnet peccatum in vestro mortali corpore ut obediatis concupiscentiis eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000152	sed neque exhibeatis membra vestra arma iniquitatis peccato: sed exhibete vos deo, tamquam ex mortuis viventes: et membra vestra arma iustitiae deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000153	peccatum enim vobis non dominabitur: non enim sub lege estis, sed sub gratia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000154	quid ergo? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000155	peccabimus, quoniam non sumus sub lege, sed sub gratia? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000156	absit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000157	nescitis quoniam cui exhibetis vos servos ad obediendum, servi estis eius, cui obeditis, sive peccati ad mortem, sive obeditionis ad iustitiam?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000158	gratias autem deo quod fuistis servi peccati, obedistis autem ex corde in eam formam doctrinae, in quam traditi estis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000159	liberati autem a peccato, servi facti estis iustitiae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000160	humanum dico, propter infirmitatem carnis vestrae: sicut enim exhibuistis membra vestra servire immunditiae, et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servire iustitiae in sanctificationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000161	cum enim servi essetis peccati, liberi fuistis iustitiae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000162	quem ergo fructum habuistis tunc in illis, in quibus nunc erubescitis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000163	nam finis illorum mors est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000164	nunc vero liberati a peccato, servi autem facti deo, habetis fructum vestrum in sanctificationem, finem vero vitam aeternam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000165	stipendia enim peccati, mors. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000166	gratia autem dei, vita aeterna, in christo iesu domino nostro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000167	caput 7	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000168	an ignoratis, fratres (scientibus enim legem loquor), quia lex in homine dominatur quanto tempore vivit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000169	nam quae sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir eius, soluta est a lege viri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000170	igitur, vivente viro, vocabitur adultera si fuerit cum alio viro: si autem mortuus fuerit vir eius, liberata est a lege viri, ut non sit adultera si fuerit cum alio viro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000171	itaque fratres mei, et vos mortificati estis legi per corpus christi: ut sitis alterius, qui ex mortuis resurrexit, ut fructificemus deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000172	cum enim essemus in carne, passiones peccatorum, quae per legem erant, operabantur in membris nostris, ut fructificarent morti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000173	nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litterae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000174	quid ergo dicemus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000175	lex peccatum est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000176	absit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000177	sed peccatum non cognovi, nisi per legem: nam concupiscentiam nesciebam, nisi lex diceret: non concupisces.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000178	occasione autem accepta, peccatum per mandatum operatum est in me omnem concupiscentiam. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000179	sine lege enim peccatum mortuum erat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000180	ego autem vivebam sine lege aliquando: sed cum venisset mandatum, peccatum revixit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000181	ego autem mortuus sum: et inventum est mihi mandatum, quod erat ad vitam, hoc esse ad mortem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000182	nam peccatum occasione accepta per mandatum, seduxit me, et per illud occidit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000183	itaque lex quidem sancta, et mandatum sanctum, et iustum, et bonum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000184	quod ergo bonum est, mihi factum est mors? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000185	absit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000186	sed peccatum, ut appareat peccatum, per bonum operatum est mihi mortem: ut fiat supra modum peccans peccatum per mandatum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000187	scimus enim quia lex spiritualis est: ego autem carnalis sum, venundatus sub peccato.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000188	quod enim operor, non intelligo: non enim quod volo bonum, hoc ago: sed quod odi malum, illud facio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000189	si autem quod nolo, illud facio: consentio legi, quoniam bona est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000190	nunc autem iam non ego operor illud, sed quod habitat in me peccatum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000191	scio enim quia non habitat in me, hoc est in carne mea, bonum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000192	nam velle, adiacet mihi: perficere autem bonum, non invenio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000193	non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000194	si autem quod nolo, illud facio: iam non ego operor illud, sed quod habitat in me, peccatum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000195	invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adiacet:condelector enim legi dei secundum interiorem hominem:video autem aliam legem in membris meis, repugnantem legi mentis meae, et captivantem me in lege peccati, quae est in membris meis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000196	infelix ego homo, quis me liberabit de corpore mortis huius?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000197	gratia dei per iesum christum dominum nostrum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000198	igitur ego ipse mente servio legi dei: carne autem, legi peccati.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000199	caput 8	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000200	nihil ergo nunc damnationis est iis qui sunt in christo iesu: qui non secundum carnem ambulant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000201	lex enim spiritus vitae in christo iesu liberavit me a lege peccati et mortis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000202	nam quod impossibile erat legi, in quo infirmabatur per carnem: deus filium suum mittens in similitudinem carnis peccati et de peccato, damnavit peccatum in carne,ut iustificatio legis impleretur in nobis, qui non secundum carnem ambulamus, sed secundum spiritum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000203	qui enim secundum carnem sunt, quae carnis sunt, sapiunt: qui vero secundum spiritum sunt, quae sunt spiritus, sentiunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000204	nam prudentia carnis, mors est: prudentia autem spiritus, vita et pax:quoniam sapientia carnis inimica est deo: legi enim dei non est subiecta, nec enim potest.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000205	qui autem in carne sunt, deo placere non possunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000206	vos autem in carne non estis, sed in spiritu: si tamen spiritus dei habitat in vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000207	si quis autem spiritum christi non habet, hic non est eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000208	si autem christus in vobis est, corpus quidem mortuum est propter peccatum, spiritus vero vivit propter iustificationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000209	quod si spiritus eius, qui suscitavit iesum a mortuis, habitat in vobis: qui suscitavit iesum christum a mortuis, vivificabit et mortalia corpora vestra, propter inhabitantem spiritum eius in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000210	ergo fratres, debitores sumus non carni, ut secundum carnem vivamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000211	si enim secundum carnem vixeritis, moriemini: si autem spiritu facta carnis mortificaveritis, vivetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000212	quicumque enim spiritu dei aguntur, ii sunt filii dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000213	non enim accepistis spiritum servitutis iterum in timore, sed accepistis spiritum adoptionis filiorum, in quo clamamus: abba (pater).	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000214	ipse enim spiritus testimonium reddit spiritui nostro quod sumus filii dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000215	si autem filii, et haeredes: haeredes, quidem dei, cohaeredes autem christi: si tamen compatimur ut et conglorificemur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000216	existimo enim quod non sunt condignae passiones huius temporis ad futuram gloriam, quae revelabitur in nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000217	nam exspectatio creaturae revelationem filiorum dei exspectat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000218	vanitati enim creatura subiecta est non volens, sed propter eum, qui subiecit eam in spe:quia et ipsa creatura liberabitur a servitute corruptionis in libertatem gloriae filiorum dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000219	scimus enim quod omnis creatura ingemiscit, et parturit usque adhuc.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000220	non solum autem illa, sed et nos ipsi primitias spiritus habentes: et ipsi intra nos gemimus adoptionem filiorum dei exspectantes, redemptionem corporis nostri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000221	spe enim salvi facti sumus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000222	spes autem, quae videtur, non est spes: nam quod videt quis, quid sperat?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000223	si autem quod non videmus, speramus: per patientiam exspectamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000224	similiter autem et spiritus adiuvat infirmitatem nostram: nam quid oremus, sicut oportet, nescimus: sed ipse spiritus postulat pro nobis gemitibus inenarrabilibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000225	qui autem scrutatur corda, scit quid desideret spiritus: quia secundum deum postulat pro sanctis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000226	scimus autem quoniam diligentibus deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000227	nam quos praescivit, et praedestinavit conformes fieri imaginis filii sui, ut sit ipse primogenitus in multis fratribus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000228	quos autem praedestinavit, hos et vocavit: et quos vocavit, hos et iustificavit: quos autem iustificavit, illos et glorificavit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000229	quid ergo dicemus ad haec? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000230	si deus pro nobis, qui contra nos?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000231	qui etiam proprio filio suo non pepercit, sed pro nobis omnibus tradidit illum: quomodo non etiam cum illo omnia nobis donavit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000232	quis accusabit adversus electos dei? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000233	deus qui iustificat,quis est qui condemnet? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000234	christus iesus, qui mortuus est, immo qui et resurrexit, qui est ad dexteram dei, qui etiam interpellat pro nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000235	quis ergo nos separabit a caritate christi? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000236	tribulatio? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000237	an angustia? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000238	an fames? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000239	an nuditas? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000240	an periculum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000241	an persecutio? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000242	an gladius?(	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000243	sicut scriptum est:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000244	quia propter te mortificamur tota die:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000245	aestimati sumus sicut oves occisionis.)	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000246	sed in his omnibus superamus propter eum qui dilexit nos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000247	certus sum enim quia neque mors, neque vita, neque angeli, neque principatus, neque virtutes, neque instantia, neque futura, neque fortitudo,neque altitudo, neque profundum, neque creatura alia poterit nos separare a caritate dei, quae est in christo iesu domino nostro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000248	caput 9	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000249	veritatem dico in christo, non mentior: testimonium mihi perhibente conscientia mea in spiritu sancto:quoniam tristitia mihi magna est, et continuus dolor cordi meo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000250	optabam enim ego ipse anathema esse a christo pro fratribus meis, qui sunt cognati mei secundum carnem,qui sunt israelitae, quorum adoptio est filiorum, et gloria, et testamentum, et legislatio, et obsequium, et promissa:quorum patres, et ex quibus est christus secundum carnem, qui est super omnia deus benedictus in saecula. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000251	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000252	non autem quod exciderit verbum dei. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000253	non enim omnes qui ex israel sunt, ii sunt israelitae:neque qui semen sunt abrahae, omnes filii: sed in isaac vocabitur tibi semen:id est, non qui filii carnis, hi filii dei: sed qui filii sunt promissionis, aestimantur in semine.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000254	promissionis enim verbum hoc est: secundum hoc tempus veniam: et erit sarae filius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000255	non solum autem illa: sed et rebecca ex uno concubitu habens, isaac patris nostri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000256	cum enim nondum nati fuissent, aut aliquid boni egissent, aut mali (ut secundum electionem propositum dei maneret),non ex operibus, sed ex vocante dictum est ei quia maior serviet minori,sicut scriptum est: iacob dilexi, esau autem odio habui.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000257	quid ergo dicemus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000258	numquid iniquitas apud deum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000259	absit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000260	moysi enim dicit: miserebor cuius misereor: et misericordiam praestabo cuius miserebor.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000261	igitur non volentis, neque currentis, sed miserentis est dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000262	dicit enim scriptura pharaoni: quia in hoc ipsum excitavi te, ut ostendam in te virtutem meam: et ut annuntietur nomen meum in universa terra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000263	ergo cuius vult miseretur, et quem vult indurat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000264	dicis itaque mihi: quid adhuc queritur? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000265	voluntati enim eius quis resistit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000266	o homo, tu quis es, qui respondeas deo? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000267	numquid dicit figmentum ei qui se finxit: quid me fecisti sic?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000268	an non habet potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in contumeliam?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000269	quod si deus volens ostendere iram, et notum facere potentiam suam, sustinuit in multa patientia vasa irae, apta in interitum,ut ostenderet divitias gloriae suae in vasa misericordiae, quae praeparavit in gloriam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000270	quos et vocavit nos non solum ex iudaeis, sed etiam in gentibus,sicut in osee dicit: vocabo non plebem meam, plebem meam: et non dilectam, dilectam: et non misericordiam consecutam, misericordiam consecutam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000271	et erit: in loco, ubi dictum est eis: non plebs mea vos: ibi vocabuntur filii dei vivi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000272	isaias autem clamat pro israel: si fuerit numerus filiorum israel tamquam arena maris, reliquiae salvae fient.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000273	verbum enim consummans, et abbrevians in aequitate: quia verbum breviatum faciet dominus super terram:et sicut praedixit isaias: nisi dominus sabaoth reliquisset nobis semen, sicut sodoma facti essemus, et sicut gomorrha similes fuissemus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000274	quid ergo dicemus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000275	quod gentes, quae non sectabantur iustitiam, apprehenderunt iustitiam: iustitiam autem, quae ex fide est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000276	israel vero sectando legem iustitiae, in legem iustitiae non pervenit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000277	quare? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000278	quia non ex fide, sed quasi ex operibus: offenderunt enim in lapidem offensionis,sicut scriptum est: ecce pono in sion lapidem offensionis, et petram scandali: et omnis qui credit in eum, non confundetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000279	caput 10	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000280	fratres, voluntas quidem cordis mei, et obsecratio ad deum, fit pro illis in salutem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000281	testimonium enim perhibeo illis quod aemulationem dei habent, sed non secundum scientiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000282	ignorantes enim iustitiam dei, et suam quaerentes statuere, iustitiae dei non sunt subiecti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000283	finis enim legis, christus, ad iustitiam omni credenti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000284	moyses enim scripsit, quoniam iustitiam, quae ex lege est, qui fecerit homo, vivet in ea.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000285	quae autem ex fide est iustitia, sic dicit: ne dixeris in corde tuo: quis ascendet in caelum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000286	id est, christum deducere:aut, quis descendet in abyssum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000287	hoc est, christum a mortuis revocare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000288	sed quid dicit scriptura? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000289	prope est verbum in ore tuo, et in corde tuo: hoc est verbum fidei, quod praedicamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000290	quia si confitearis in ore tuo dominum iesum, et in corde tuo credideris quod deus illum suscitavit a mortuis, salvus eris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000291	corde enim creditur ad iustitiam: ore autem confessio fit ad salutem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000292	dicit enim scriptura: omnis qui credit in illum, non confundetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000293	non enim est distinctio iudaei et graeci: nam idem dominus omnium, dives in omnes qui invocant illum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000294	omnis enim quicumque invocaverit nomen domini, salvus erit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000295	quomodo ergo invocabunt, in quem non crediderunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000296	aut quomodo credent ei, quem non audierunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000297	quomodo autem audient sine praedicante?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000298	quomodo vero praedicabunt nisi mittantur? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000299	sicut scriptum est: quam speciosi pedes evangelizantium pacem, evangelizantium bona!	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000300	sed non omnes obediunt evangelio. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000301	isaias enim dicit: domine, quis credidit auditui nostro?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000302	ergo fides ex auditu, auditus autem per verbum christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000303	sed dico: numquid non audierunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000304	et quidem in omnem terram exivit sonus eorum, et in fines orbis terrae verba eorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000305	sed dico: numquid israel non cognovit? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000306	primus moyses dicit: ego ad aemulationem vos adducam in non gentem: in gentem insipientem, in iram vos mittam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000307	isaias autem audet, et dicit: inventus sum a non quaerentibus me: palam apparui iis qui me non interrogabant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000308	ad israel autem dicit: tota die expandi manus meas ad populum non credentem, et contradicentem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000309	caput 11	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000310	dico ergo: numquid deus repulit populum suum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000311	absit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000312	nam et ego israelita sum ex semine abraham, de tribu beniamin:non repulit deus plebem suam, quam praescivit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000313	an nescitis in elia quid dicit scriptura? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000314	quemadmodum interpellat deum adversum israel:domine, prophetas tuos occiderunt, altaria tua suffoderunt: et ego relictus sum solus, et quaerunt animam meam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000315	sed quid dicit illi divinum responsum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000316	reliqui mihi septem millia virorum, qui non curvaverunt genua ante baal.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000317	sic ergo et in hoc tempore reliquiae secundum electionem gratiae salvae factae sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000318	si autem gratia, iam non ex operibus: alioquin gratia iam non est gratia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000319	quid ergo? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000320	quod quaerebat israel, hoc non est consecutus: electio autem consecuta est: ceteri vero excaecati sunt:sicut scriptum est: dedit illis deus spiritum compunctionis: oculos ut non videant, et aures ut non audiant, usque in hodiernum diem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000321	et david dicit: fiat mensa eorum in laqueum, et in captionem, et in scandalum, et in retributionem illis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000322	obscurentur oculi eorum ne videant: et dorsum eorum semper incurva.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000323	dico ergo: numquid sic offenderunt ut caderent? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000324	absit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000325	sed illorum delicto, salus est gentibus ut illos aemulentur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000326	quod si delictum illorum divitiae sunt mundi, et diminutio eorum divitiae gentium: quanto magis plenitudo eorum?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000327	vobis enim dico gentibus: quamdiu quidem ego sum gentium apostolus, ministerium meum honorificabo,si quomodo ad aemulandum provocem carnem meam, et salvos faciam aliquos ex illis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000328	si enim amissio eorum, reconciliatio est mundi: quae assumptio, nisi vita ex mortuis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000329	quod si delibatio sancta est, et massa: et si radix sancta, et rami.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000330	quod si aliqui ex ramis fracti sunt, tu autem cum oleaster esses, insertus es in illis, et socius radicis, et pinguedinis olivae factus es,noli gloriari adversus ramos. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000331	quod si gloriaris: non tu radicem portas, sed radix te.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000332	dices ergo: fracti sunt rami ut ego inserar.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000333	bene: propter incredulitatem fracti sunt. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000334	tu autem fide stas: noli altum sapere, sed time.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000335	si enim deus naturalibus ramis non pepercit: ne forte nec tibi parcat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000336	vide ergo bonitatem, et severitatem dei: in eos quidem qui ceciderunt, severitatem: in te autem bonitatem dei, si permanseris in bonitate, alioquin et tu excideris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000337	sed et illi, si non permanserint in incredulitate, inserentur: potens est enim deus iterum inserere illos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000338	nam si tu ex naturali excisus es oleastro, et contra naturam insertus es in bonam olivam: quanto magis ii qui secundum naturam inserentur suae olivae?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000339	nolo enim vos ignorare, fratres, mysterium hoc (ut non sitis vobis ipsis sapientes), quia caecitas ex parte contigit in israel, donec plenitudo gentium intraret,et sic omnis israel salvus fieret, sicut scriptum est: veniet ex sion, qui eripiat, et avertat impietatem a iacob.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000340	et hoc illis a me testamentum: cum abstulero peccata eorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000341	secundum evangelium quidem, inimici propter vos: secundum electionem autem, carissimi propter patres.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000342	sine poenitentia enim sunt dona et vocatio dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000343	sicut enim aliquando et vos non credidistis deo, nunc autem misericordiam consecuti estis propter incredulitatem illorum:ita et isti nunc non crediderunt in vestram misericordiam: ut et ipsi misericordiam consequantur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000344	conclusit enim deus omnia in incredulitate, ut omnium misereatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000345	o altitudo divitiarum sapientiae, et scientiae dei: quam incomprehensibilia sunt iudicia eius, et investigabiles viae eius!	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000346	quis enim cognovit sensum domini? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000347	aut quis consiliarius eius fuit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000348	aut quis prior dedit illi, et retribuetur ei?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000349	quoniam ex ipso, et per ipsum, et in ipso sunt omnia: ipsi gloria in saecula. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000350	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000351	caput 12	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000352	obsecro itaque vos fratres per misericordiam dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, deo placentem, rationabile obsequium vestrum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000353	et nolite conformari huic saeculo, sed reformamini in novitate sensus vestri: ut probetis quae sit voluntas dei bona, et beneplacens, et perfecta.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000354	dico enim per gratiam quae data est mihi, omnibus qui sunt inter vos, non plus sapere quam oportet sapere, sed sapere ad sobrietatem: et unicuique sicut deus divisit mensuram fidei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000355	sicut enim in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent:ita multi unum corpus sumus in christo, singuli autem alter alterius membra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000356	habentes autem donationes secundum gratiam, quae data est nobis, differentes: sive prophetiam secundum rationem fidei,sive ministerium in ministrando, sive qui docet in doctrina,qui exhortatur in exhortando, qui tribuit in simplicitate, qui praeest in sollicitudine, qui miseretur in hilaritate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000357	dilectio sine simulatione: odientes malum, adhaerentes bono:caritate fraternitatis invicem diligentes: honore invicem praevenientes:sollicitudine non pigri: spiritu ferventes: domino servientes:spe gaudentes: in tribulatione patientes: orationi instantes:necessitatibus sanctorum communicantes: hospitalitatem sectantes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000358	benedicite persequentibus vos: benedicite, et nolite maledicere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000359	gaudere cum gaudentibus, flere cum flentibus:idipsum invicem sentientes: non alta sapientes, sed humilibus consentientes. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000360	nolite esse prudentes apud vosmetipsos:nulli malum pro malo reddentes: providentes bona non tantum coram deo, sed etiam coram omnibus hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000361	si fieri potest, quod ex vobis est, cum omnibus hominibus pacem habentes:non vosmetipsos defendentes carissimi, sed date locum irae. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000362	scriptum est enim: mihi vindicta: ego retribuam, dicit dominus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000363	sed si esurierit inimicus tuus, ciba illum: si sitit, potum da illi: hoc enim faciens, carbones ignis congeres super caput eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000364	noli vinci a malo, sed vince in bono malum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000365	caput 13	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000366	omnis anima potestatibus sublimioribus subdita sit: non est enim potestas nisi a deo: quae autem sunt, a deo ordinatae sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000367	itaque qui resistit potestati, dei ordinationi resistit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000368	qui autem resistunt, ipsi sibi damnationem acquirunt:nam principes non sunt timori boni operis, sed mali. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000369	vis autem non timere potestatem? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000370	bonum fac: et habebis laudem ex illa:dei enim minister est tibi in bonum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000371	si autem malum feceris, time: non enim sine causa gladium portat. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000372	dei enim minister est: vindex in iram ei qui malum agit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000373	ideo necessitate subditi estote non solum propter iram, sed etiam propter conscientiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000374	ideo enim et tributa praestatis: ministri enim dei sunt, in hoc ipsum servientes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000375	reddite ergo omnibus debita: cui tribulatum, tributum: cui vectigal, vectigal: cui timorem, timorem: cui honorem, honorem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000376	nemini quidquam debeatis, nisi ut invicem diligatis: qui enim diligit proximum, legem implevit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000377	nam: non adultabis: non occides: non furaberis: non falsum testimonium dices: non concupisces: et si quod est aliud mandatum, in hoc verbo instauratur: diliges proximum tuum sicut teipsum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000378	dilectio proximi malum non operatur. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000379	plenitudo ergo legis est dilectio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000380	et hoc scientes tempus: quia hora est iam nos de somno surgere. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000381	nunc enim propior est nostra salus, quam cum credidimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000382	nox praecessit, dies autem appropinquavit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000383	abiiciamus ergo opera tenebrarum, et induamur arma lucis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000384	sicut in die honeste ambulemus: non in comessationibus, et ebrietatibus, non in cubilibus, et impudicitiis, non in contentione, et aemulatione:sed induimini dominum iesum christum, et carnis curam ne feceritis in desideriis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000385	caput 14	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000386	infirmum autem in fide assumite, non in disceptationibus cogitationum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000387	alius enim credit se manducare omnia: qui autem infirmus est, olus manducet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000388	is qui manducat, non manducantem non spernat: et qui non manducat, manducantem non iudicet: deus enim illum assumpsit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000389	tu quis es, qui iudicas alienum servum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000390	domino suo stat, aut cadit: stabit autem: potens est enim deus statuere illum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000391	nam alius iudicat diem inter diem: alius autem iudicat omnem diem: unusquisque in suo sensu abundet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000392	qui sapit diem, domino sapit, et qui manducat, domino manducat: gratias enim agit deo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000393	et qui non manducat, domino non manducat, et gratias agit deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000394	nemo enim nostrum sibi vivit, et nemo sibi moritur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000395	sive enim vivemus, domino vivimus: sive morimur, domino morimur. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000396	sive ergo vivimus, sive morimur, domini sumus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000397	in hoc enim christus mortuus est, et resurrexit: ut et mortuorum et vivorum dominetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000398	tu autem quid iudicas fratrem tuum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000399	aut tu quare spernis fratrem tuum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000400	omnes enim stabimus ante tribunal christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000401	scriptum est enim: vivo ego, dicit dominus, quoniam mihi flectetur omne genu: et omnis lingua confitebitur deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000402	itaque unusquisque nostrum pro se rationem reddet deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000403	non ergo amplius invicem iudicemus: sed hoc iudicate magis, ne ponatis offendiculum fratri, vel scandalum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000404	scio, et confido in domino iesu, quia nihil commune per ipsum, nisi ei qui existimat quid commune esset, illi commune est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000405	si enim propter cibum frater tuus contristatur, iam non secundum caritatem ambulas. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000406	noli cibo tuo illum perdere, pro quo christus mortuus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000407	non ergo blasphemetur bonum nostrum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000408	non est enim regnum dei esca et potus: sed iustitia, et pax, et gaudium in spiritu sancto:qui enim in hoc servit christo, placet deo, et probatus est hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000409	itaque quae pacis sunt, sectemur: et quae aedificationis sunt, in invicem custodiamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000410	noli propter escam destruere opus dei, omnia quidem sunt munda: sed malum est homini, qui per offendiculum manducat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000411	bonum est non manducare carnem, et non bibere vinum, neque in quo frater tuus offenditur, aut scandalizatur, aut infirmatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000412	tu fidem habes? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000413	penes temetipsum habe coram deo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000414	beatus qui non iudicat semetipsum in eo quod probat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000415	qui autem discernit, si manducaverit, damnatus est: quia non ex fide. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000416	omne autem, quod non est ex fide, peccatum est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000417	caput 15	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000418	debemus autem nos firmiores imbecillitates infirmorum sustinere, et non nobis placere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000419	unusquisque vestrum proximo suo placeat in bonum, ad aedificationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000420	etenim christus non sibi placuit, sed sicut scriptum est: improperia improperantium tibi ceciderunt super me.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000421	quaecumque enim scripta sunt, ad nostram doctrinam scripta sunt: ut per patientiam, et consolationem scripturarum, spem habeamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000422	deus autem patientiae et solatii det vobis idipsum sapere in alterutrum secundum iesum christum:ut unanimes, uno ore honorificetis deum et patrem domini nostri iesu christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000423	propter quod suscipite invicem, sicut et christus suscepit vos in honorem dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000424	dico enim christum iesum ministrum fuisse circumcisionis propter veritatem dei, ad confirmandas promissiones patrum:gentes autem super misericordia honorare deum, sicut scriptum est: propterea confitebor tibi in gentibus, domine, et nomini tuo cantabo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000425	et iterum dicit: laetamini gentes cum plebe eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000426	et iterum: laudate omnes gentes dominum: et magnificate eum omnes populi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000427	et rursus isaias ait: erit radix iesse, et qui exsurget regere gentes, in eum gentes sperabunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000428	deus autem spei repleat vos omni gaudio, et pace in credendo: ut abundetis in spe, et virtute spiritus sancti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000429	certus sum autem fratres mei et ego ipse de vobis, quoniam et ipsi pleni estis dilectione, repleti omni scientia, ita ut possitis alterutrum monere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000430	audacius autem scripsi vobis fratres ex parte, tamquam in memoriam vos reducens: propter gratiam, quae data est mihi a deo,ut sim minister christi iesu in gentibus: sanctificans evangelium dei, ut fiat oblatio gentium accepta, et sanctificata in spiritu sancto.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000431	habeo igitur gloriam in christo iesu ad deum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000432	non enim audeo aliquid loqui eorum, quae per me non efficit christus in obedientiam gentium, verbo et factis:in virtute signorum, et prodigiorum, in virtute spiritus sancti: ita ut ab ierusalem per circuitum usque ad illyricum repleverim evangelium christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000433	sic autem praedicavi evangelium hoc, non ubi nominatus est christus, ne super alienum fundamentum aedificarem:sed sicut scriptum est: quibus non est annuntiatum de eo, videbunt: et qui non audierunt, intelligent.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000434	propter quod et impediebar plurimum venire ad vos, et prohibitus sum usque adhuc.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000435	nunc vero ulterius locum non habens in his regionibus, cupiditatem autem habens veniendi ad vos ex multis iam praecedentibus annis:cum in hispaniam proficisci coepero, spero quod praeteriens videam vos, et a vobis deducar illuc, si vobis primum ex parte fruitus fuero.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000436	nunc igitur proficiscar in ierusalem ministrare sanctis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000437	probaverunt enim macedonia et achaia collationem aliquam facere in pauperes sanctorum, qui sunt in ierusalem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000438	placuit enim eis: et debitores sunt eorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000439	nam si spiritualium eorum participes facti sunt gentiles, debent et in carnalibus ministrare illis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000440	hoc igitur cum consummavero, et assignavero eis fructum hunc, per vos proficiscar in hispaniam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000441	scio autem quoniam veniens ad vos, in abundantia benedictionis evangelii christi veniam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000442	obsecro ergo vos fratres per dominum nostrum iesum christum, et per caritatem sancti spiritus, ut adiuvetis me in orationibus vestris pro me ad deum,ut liberer ab infidelibus, qui sunt in iudaea, et obsequii mei oblatio accepta fiat in ierusalem sanctis,ut veniam ad vos in gaudio per voluntatem dei, et refrigerer vobiscum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000443	deus autem pacis sit cum omnibus vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000444	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000445	caput 16	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000446	commendo autem vobis phoeben sororem nostram, quae est in ministerio ecclesiae, quae est in cenchris:ut eam suscipiatis in domino digne sanctis: et assistatis ei in quocumque negotio vestri indiguerit: etenim ipsa quoque astitit multis, et mihi ipsi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000447	salutate priscam et aquilam, adiutores meos in christo iesu(qui pro anima mea suas cervices supposuerunt: quibus non solus ego gratias ago, sed et cunctae ecclesiae gentium),et domesticam ecclesiam eorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000448	salutate epaenetum dilectum mihi, qui est primitivus asiae in christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000449	salutate mariam, quae multum laboravit in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000450	salutate andronicum et iuniam, cognatos, et concaptivos meos: qui sunt nobiles in apostolis, qui et ante me fuerunt in christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000451	salutate ampliatum dilectissimum mihi in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000452	salutate urbanum adiutorem nostrum in christo iesu, et stachyn dilectum meum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000453	salutate apellen probum in christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000454	salutate eos qui sunt ex aristoboli domo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000455	salutate herodionem cognatum meum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000456	salutate eos qui sunt ex narcisi domo, qui sunt in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000457	salutate tryphaenam et tryphosam, quae laborant in domino. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000458	salutate persidem carissimam, quae multum laboravit in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000459	salutate rufum electum in domino, et matrem eius, et meam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000460	salutate asyncritum, phlegontem, hermam, patrobam, hermen, et qui cum eis sunt, fratres.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000461	salutate philologum et iuliam, nereum, et sororem eius, et olympiadem, et omnes qui cum eis sunt, sanctos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000462	salutate invicem in osculo sancto. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000463	salutant vos omnes ecclesiae christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000464	rogo autem vos fratres, ut observetis eos qui dissensiones et offendicula, praeter doctrinam, quam vos didicistis, faciunt, et declinate ab illis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000465	huiuscemodi enim christo domino nostro non serviunt, sed suo ventri: et per dulces sermones et benedictiones seducunt corda innocentium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000466	vestra enim obedientia in omnem locum divulgata est. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000467	gaudeo igitur in vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000468	sed volo vos sapientes esse in bono, et simplices in malo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000469	deus autem pacis conterat satanam sub pedibus vestris velociter. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000470	gratia domini nostri iesu christi vobiscum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000471	salutat vos timotheus adiutor meus, et lucius, et iason, et sosipater cognati mei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000472	saluto vos ego tertius, qui scripsi epistolam, in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000473	salutat vos caius hospes meus, et universa ecclesia. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000474	salutat vos erastus arcarius civitatis, et quartus, frater.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000475	gratia domini nostri iesu christi cum omnibus vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000476	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000477	ei autem, qui potens est vos confirmare iuxta evangelium meum, et praedicationem iesu christi, secundum revelationem mysterii temporibus aeternis taciti(quod nunc patefactum est per scripturas prophetarum secundum praeceptum aeterni dei, ad obeditionem fidei), in cunctis gentibus cogniti,soli sapienti deo, per iesum christum, cui honor et gloria in saecula saeculorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos
+1100000478	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Romanos

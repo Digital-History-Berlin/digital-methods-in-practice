@@ -1,0 +1,422 @@
+1100000001	prophetia zachariae	2020-04-18	Prophetia_Zachariae
+1100000002	caput 1	2020-04-18	Prophetia_Zachariae
+1100000003	in mense octavo, in anno secundo darii regis, factum est verbum domini ad zachariam filium barachiae filii addo prophetam, dicens:iratus est dominus super patres vestros iracundia.	2020-04-18	Prophetia_Zachariae
+1100000004	et dices ad eos:	2020-04-18	Prophetia_Zachariae
+1100000005	haec dicit dominus exercituum:	2020-04-18	Prophetia_Zachariae
+1100000006	convertimini ad me, ait dominus exercituum,	2020-04-18	Prophetia_Zachariae
+1100000007	et convertar ad vos, dicit dominus exercituum.	2020-04-18	Prophetia_Zachariae
+1100000008	ne sitis sicut patres vestri,	2020-04-18	Prophetia_Zachariae
+1100000009	ad quos clamabant prophetae priores, dicentes:	2020-04-18	Prophetia_Zachariae
+1100000010	haec dicit dominus exercituum:	2020-04-18	Prophetia_Zachariae
+1100000011	convertimini de viis vestris malis,	2020-04-18	Prophetia_Zachariae
+1100000012	et de cogitationibus vestris pessimis:	2020-04-18	Prophetia_Zachariae
+1100000013	et non audierunt, neque attenderunt ad me,	2020-04-18	Prophetia_Zachariae
+1100000014	dicit dominus.	2020-04-18	Prophetia_Zachariae
+1100000015	patres vestri, ubi sunt?	2020-04-18	Prophetia_Zachariae
+1100000016	et prophetae numquid in sempiternum vivent?	2020-04-18	Prophetia_Zachariae
+1100000017	verumtamen verba mea, et legitima mea,	2020-04-18	Prophetia_Zachariae
+1100000018	quae mandavi servis meis prophetis,	2020-04-18	Prophetia_Zachariae
+1100000019	numquid non comprehenderunt patres vestros,	2020-04-18	Prophetia_Zachariae
+1100000020	et conversi sunt, et dixerunt:	2020-04-18	Prophetia_Zachariae
+1100000021	sicut cogitavit dominus exercituum facere nobis	2020-04-18	Prophetia_Zachariae
+1100000022	secundum vias nostras, et secundum adinventiones nostras,	2020-04-18	Prophetia_Zachariae
+1100000023	fecit nobis?	2020-04-18	Prophetia_Zachariae
+1100000024	in die vigesima et quarta undecimi mensis sabath, in anno secundo darii, factum est verbum domini ad zachariam filium barachiae filii addo prophetam, dicens:vidi per noctem, et ecce vir ascendens super equum rufum, et ipse stabat inter myrteta, quae erant in profundo, et post eum equi rufi, varii, et albi.	2020-04-18	Prophetia_Zachariae
+1100000025	et dixi: quid sunt isti, domine mi? 	2020-04-18	Prophetia_Zachariae
+1100000026	et dixit ad me angelus qui loquebatur in me: ego ostendam tibi quid sint haec.	2020-04-18	Prophetia_Zachariae
+1100000027	et respondit vir qui stabat inter myrteta, et dixit: isti sunt quos misit dominus ut perambulent terram.	2020-04-18	Prophetia_Zachariae
+1100000028	et responderunt angelo domini, qui stabat inter myrteta, et dixerunt: perambulavimus terram, et ecce omnis terra habitatur, et quiescit.	2020-04-18	Prophetia_Zachariae
+1100000029	et respondit angelus domini, et dixit: domine exercituum, usquequo tu non misereberis ierusalem, et urbium iuda, quibus iratus es? 	2020-04-18	Prophetia_Zachariae
+1100000030	iste iam septuagesimus annus est.	2020-04-18	Prophetia_Zachariae
+1100000031	et respondit dominus angelo qui loquebatur in me verba bona, verba consolatoria.	2020-04-18	Prophetia_Zachariae
+1100000032	et dixit ad me angelus qui loquebatur in me: clama, dicens:	2020-04-18	Prophetia_Zachariae
+1100000033	haec dicit dominus exercituum:	2020-04-18	Prophetia_Zachariae
+1100000034	zelatus sum ierusalem et sion zelo magno,	2020-04-18	Prophetia_Zachariae
+1100000035	et ira magna ego irascor super gentes opulentas,	2020-04-18	Prophetia_Zachariae
+1100000036	quia ego iratus sum parum,	2020-04-18	Prophetia_Zachariae
+1100000037	ipsi vero adiuverunt in malum.	2020-04-18	Prophetia_Zachariae
+1100000038	propterea haec dicit dominus:	2020-04-18	Prophetia_Zachariae
+1100000039	revertar ad ierusalem in misericordiis,	2020-04-18	Prophetia_Zachariae
+1100000040	et domus mea aedificabitur in ea, ait dominus exercituum,	2020-04-18	Prophetia_Zachariae
+1100000041	et perpendiculum extendetur super ierusalem.	2020-04-18	Prophetia_Zachariae
+1100000042	adhuc clama, dicens:	2020-04-18	Prophetia_Zachariae
+1100000043	haec dicit dominus exercituum:	2020-04-18	Prophetia_Zachariae
+1100000044	adhuc affluent civitates meae bonis,	2020-04-18	Prophetia_Zachariae
+1100000045	et consolabitur adhuc dominus sion, et eliget adhuc ierusalem.	2020-04-18	Prophetia_Zachariae
+1100000046	et levavi oculos meos, et vidi, et ecce quatuor cornua.	2020-04-18	Prophetia_Zachariae
+1100000047	et dixi ad angelum qui loquebatur in me: quid sunt haec? 	2020-04-18	Prophetia_Zachariae
+1100000048	et dixit ad me: haec sunt cornua quae ventilaverunt iudam, et israel, et ierusalem.	2020-04-18	Prophetia_Zachariae
+1100000049	et ostendit mihi dominus quatuor fabros.	2020-04-18	Prophetia_Zachariae
+1100000050	et dixi: quid isti veniunt facere? 	2020-04-18	Prophetia_Zachariae
+1100000051	qui ait, dicens: haec sunt cornua quae ventilaverunt iudam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua gentium, quae levaverunt cornu super terram iuda ut dispergerent eam.	2020-04-18	Prophetia_Zachariae
+1100000052	caput 2	2020-04-18	Prophetia_Zachariae
+1100000053	et levavi oculos meos, et vidi, et ecce vir, et in manu eius funiculus mensorum.	2020-04-18	Prophetia_Zachariae
+1100000054	et dixi: quo tu vadis? 	2020-04-18	Prophetia_Zachariae
+1100000055	et dixit ad me: ut metiar ierusalem, et videam quanta sit latitudo eius, et quanta longitudo eius.	2020-04-18	Prophetia_Zachariae
+1100000056	et ecce angelus qui loquebatur in me egrediebatur, et angelus alius egrediebatur in occursum eius:et dixit ad eum: curre, loquere ad puerum istum, dicens: absque muro habitabitur ierusalem, prae multitudine hominum et iumentorum in medio eius.	2020-04-18	Prophetia_Zachariae
+1100000057	et ego ero ei, ait dominus, murus ignis in circuitu, et in gloria ero in medio eius.	2020-04-18	Prophetia_Zachariae
+1100000058	o, o, fugite de terra aquilonis, dicit dominus,	2020-04-18	Prophetia_Zachariae
+1100000059	quoniam in quatuor ventos caeli dispersi vos, dicit dominus.	2020-04-18	Prophetia_Zachariae
+1100000060	o sion! 	2020-04-18	Prophetia_Zachariae
+1100000061	fuge, quae habitas apud filiam babylonis:	2020-04-18	Prophetia_Zachariae
+1100000062	quia haec dicit dominus exercituum:	2020-04-18	Prophetia_Zachariae
+1100000063	post gloriam misit me ad gentes quae spoliaverunt vos:	2020-04-18	Prophetia_Zachariae
+1100000064	qui enim tetigerit vos, tangit pupillam oculi mei:	2020-04-18	Prophetia_Zachariae
+1100000065	quia ecce ego levo manum meam super eos,	2020-04-18	Prophetia_Zachariae
+1100000066	et erunt praedae his qui serviebant sibi:	2020-04-18	Prophetia_Zachariae
+1100000067	et cognoscetis quia dominus exercituum misit me.	2020-04-18	Prophetia_Zachariae
+1100000068	lauda et laetare, filia sion, quia ecce ego venio,	2020-04-18	Prophetia_Zachariae
+1100000069	et habitabo in medio tui, ait dominus.	2020-04-18	Prophetia_Zachariae
+1100000070	et applicabuntur gentes multae ad dominum in die illa,	2020-04-18	Prophetia_Zachariae
+1100000071	et erunt mihi in populum,	2020-04-18	Prophetia_Zachariae
+1100000072	et habitabo in medio tui:	2020-04-18	Prophetia_Zachariae
+1100000073	et scies quia dominus exercituum misit me ad te.	2020-04-18	Prophetia_Zachariae
+1100000074	et possidebit dominus iudam partem suam in terra sanctificata,	2020-04-18	Prophetia_Zachariae
+1100000075	et eliget adhuc ierusalem.	2020-04-18	Prophetia_Zachariae
+1100000076	sileat omnis caro a facie domini,	2020-04-18	Prophetia_Zachariae
+1100000077	quia consurrexit de habitaculo sancto suo.	2020-04-18	Prophetia_Zachariae
+1100000078	caput 3	2020-04-18	Prophetia_Zachariae
+1100000079	et ostendit mihi dominus iesum sacerdotem magnum, stantem coram angelo domini: et satan stabat a dextris eius ut adversaretur ei.	2020-04-18	Prophetia_Zachariae
+1100000080	et dixit dominus ad satan: increpet dominus in te, satan! 	2020-04-18	Prophetia_Zachariae
+1100000081	et increpet dominus in te, qui elegit ierusalem! 	2020-04-18	Prophetia_Zachariae
+1100000082	numquid non iste torris est erutus de igne?	2020-04-18	Prophetia_Zachariae
+1100000083	et iesus erat indutus vestibus sordidis, et stabat ante faciem angeli.	2020-04-18	Prophetia_Zachariae
+1100000084	qui respondit, et ait ad eos qui stabant coram se, dicens: auferte vestimenta sordida ab eo. 	2020-04-18	Prophetia_Zachariae
+1100000085	et dixit ad eum: ecce abstuli a te iniquitatem tuam, et indui te mutatoriis.	2020-04-18	Prophetia_Zachariae
+1100000086	et dixit: ponite cidarim mundam super caput eius. 	2020-04-18	Prophetia_Zachariae
+1100000087	et posuerunt cidarim mundam super caput eius, et induerunt eum vestibus: et angelus domini stabat.	2020-04-18	Prophetia_Zachariae
+1100000088	et contestabatur angelus domini iesum, dicens:	2020-04-18	Prophetia_Zachariae
+1100000089	haec dicit dominus exercituum:	2020-04-18	Prophetia_Zachariae
+1100000090	si in viis meis ambulaveris,	2020-04-18	Prophetia_Zachariae
+1100000091	et custodiam meam custodieris,	2020-04-18	Prophetia_Zachariae
+1100000092	tu quoque iudicabis domum meam,	2020-04-18	Prophetia_Zachariae
+1100000093	et custodies atria mea,	2020-04-18	Prophetia_Zachariae
+1100000094	et dabo tibi ambulantes de his qui nunc hic assistunt.	2020-04-18	Prophetia_Zachariae
+1100000095	audi, iesu sacerdos magne,	2020-04-18	Prophetia_Zachariae
+1100000096	tu et amici tui, qui habitant coram te,	2020-04-18	Prophetia_Zachariae
+1100000097	quia viri portendentes sunt:	2020-04-18	Prophetia_Zachariae
+1100000098	ecce enim ego adducam servum meum orientem.	2020-04-18	Prophetia_Zachariae
+1100000099	quia ecce lapis quem dedi coram iesu:	2020-04-18	Prophetia_Zachariae
+1100000100	super lapidem unum septem oculi sunt:	2020-04-18	Prophetia_Zachariae
+1100000101	ecce ego caelabo sculpturam eius, ait dominus exercituum,	2020-04-18	Prophetia_Zachariae
+1100000102	et auferam iniquitatem terrae illius in die una.	2020-04-18	Prophetia_Zachariae
+1100000103	in die illa, dicit dominus exercituum,	2020-04-18	Prophetia_Zachariae
+1100000104	vocabit vir amicum suum subter vitem et subter ficum.	2020-04-18	Prophetia_Zachariae
+1100000105	caput 4	2020-04-18	Prophetia_Zachariae
+1100000106	et reversus est angelus qui loquebatur in me, et suscitavit me quasi virum qui suscitatur de somno suo.	2020-04-18	Prophetia_Zachariae
+1100000107	et dixit ad me: quid tu vides? 	2020-04-18	Prophetia_Zachariae
+1100000108	et dixi: vidi, et ecce candelabrum aureum totum, et lampas eius super caput ipsius, et septem lucernae eius super illud, et septem infusoria lucernis quae erant super caput eius.	2020-04-18	Prophetia_Zachariae
+1100000109	et duae olivae super illud: una a dextris lampadis, et una a sinistris eius.	2020-04-18	Prophetia_Zachariae
+1100000110	et respondi, et aio ad angelum qui loquebatur in me, dicens: quid sunt haec, domine mi?	2020-04-18	Prophetia_Zachariae
+1100000111	et respondit angelus qui loquebatur in me, et dixit ad me: numquid nescis quid sunt haec? 	2020-04-18	Prophetia_Zachariae
+1100000112	et dixi: non, domine mi.et respondit, et ait ad me, dicens: hoc est verbum domini ad zorobabel, dicens: non in exercitu, nec in robore, sed in spiritu meo, dicit dominus exercituum.	2020-04-18	Prophetia_Zachariae
+1100000113	quis tu, mons magne, coram zorobabel? 	2020-04-18	Prophetia_Zachariae
+1100000114	in planum: et educet lapidem primarium, et exaequabit gratiam gratiae eius.	2020-04-18	Prophetia_Zachariae
+1100000115	et factum est verbum domini ad me, dicens:manus zorobabel fundaverunt domum istam, et manus eius perficient eam: et scietis quia dominus exercituum misit me ad vos.	2020-04-18	Prophetia_Zachariae
+1100000116	quis enim despexit dies parvos? 	2020-04-18	Prophetia_Zachariae
+1100000117	et laetabuntur, et videbunt lapidem stanneum in manu zorobabel. 	2020-04-18	Prophetia_Zachariae
+1100000118	septem isti oculi sunt domini, qui discurrunt in universam terram.	2020-04-18	Prophetia_Zachariae
+1100000119	et respondi, et dixi ad eum: quid sunt duae olivae istae, ad dexteram candelabri, et ad sinistram eius?	2020-04-18	Prophetia_Zachariae
+1100000120	et respondi secundo, et dixi ad eum: quid sunt duae spicae olivarum quae sunt iuxta duo rostra aurea in quibus sunt suffusoria ex auro?	2020-04-18	Prophetia_Zachariae
+1100000121	et ait ad me, dicens: numquid nescis quid sunt haec? 	2020-04-18	Prophetia_Zachariae
+1100000122	et dixi: non, domine mi.et dixit: isti sunt duo filii olei, qui assistunt dominatori universae terrae.	2020-04-18	Prophetia_Zachariae
+1100000123	caput 5	2020-04-18	Prophetia_Zachariae
+1100000124	et conversus sum, et levavi oculos meos, et vidi, et ecce volumen volans.	2020-04-18	Prophetia_Zachariae
+1100000125	et dixit ad me: quid tu vides? 	2020-04-18	Prophetia_Zachariae
+1100000126	et dixi: ego video volumen volans: longitudo eius viginti cubitorum, et latitudo eius decem cubitorum.	2020-04-18	Prophetia_Zachariae
+1100000127	et dixit ad me: haec est maledictio quae egreditur super faciem omnis terrae: quia omnis fur, sicut ibi scriptum est, iudicabitur, et omnis iurans ex hoc similiter iudicabitur.	2020-04-18	Prophetia_Zachariae
+1100000128	educam illud, dicit dominus exercituum: et veniet ad domum furis, et ad domum iurantis in nomine meo mendaciter: et commorabitur in medio domus eius, et consumet eam, et ligna eius, et lapides eius.	2020-04-18	Prophetia_Zachariae
+1100000129	et egressus est angelus qui loquebatur in me, et dixit ad me: leva oculos tuos, et vide quid est hoc quod egreditur.	2020-04-18	Prophetia_Zachariae
+1100000130	et dixi: quidnam est? 	2020-04-18	Prophetia_Zachariae
+1100000131	et ait: haec est amphora egrediens. 	2020-04-18	Prophetia_Zachariae
+1100000132	et dixit: haec est oculus eorum in universa terra.	2020-04-18	Prophetia_Zachariae
+1100000133	et ecce talentum plumbi portabatur, et ecce mulier una sedens in medio amphorae.	2020-04-18	Prophetia_Zachariae
+1100000134	et dixit: haec est impietas. 	2020-04-18	Prophetia_Zachariae
+1100000135	et proiecit eam in medio amphorae, et misit massam plumbeam in os eius.	2020-04-18	Prophetia_Zachariae
+1100000136	et levavi oculos meos, et vidi: et ecce duae mulieres egredientes: et spiritus in alis earum, et habebant alas quasi alas milvi, et levaverunt amphoram inter terram et caelum.	2020-04-18	Prophetia_Zachariae
+1100000137	et dixi ad angelum qui loquebatur in me: quo istae deferunt amphoram?	2020-04-18	Prophetia_Zachariae
+1100000138	et dixit ad me: ut aedificetur ei domus in terra sennaar, et stabiliatur, et ponatur ibi super basem suam.	2020-04-18	Prophetia_Zachariae
+1100000139	caput 6	2020-04-18	Prophetia_Zachariae
+1100000140	et conversus sum, et levavi oculos meos, et vidi: et ecce quatuor quadrigae egredientes de medio duorum montium: et montes, montes aerei.	2020-04-18	Prophetia_Zachariae
+1100000141	in quadriga prima equi rufi, et in quadriga secunda equi nigri,et in quadriga tertia equi albi, et in quadriga quarta equi varii et fortes.	2020-04-18	Prophetia_Zachariae
+1100000142	et respondi, et dixi ad angelum qui loquebatur in me: quid sunt haec, domine mi?	2020-04-18	Prophetia_Zachariae
+1100000143	et respondit angelus, et ait ad me: isti sunt quatuor venti caeli, qui egrediuntur ut stent coram dominatore omnis terrae.	2020-04-18	Prophetia_Zachariae
+1100000144	in qua erant equi nigri, egrediebantur in terram aquilonis: et albi egressi sunt post eos, et varii egressi sunt ad terram austri.	2020-04-18	Prophetia_Zachariae
+1100000145	qui autem erant robustissimi, exierunt, et quaerebant ire et discurrere per omnem terram. 	2020-04-18	Prophetia_Zachariae
+1100000146	et dixit: ite, perambulate terram: et perambulaverunt terram.	2020-04-18	Prophetia_Zachariae
+1100000147	et vocavit me, et locutus est ad me, dicens: ecce qui egrediuntur in terram aquilonis, requiescere fecerunt spiritum meum in terra aquilonis.	2020-04-18	Prophetia_Zachariae
+1100000148	et factum est verbum domini ad me, dicens:sume a transmigratione, ab holdai, et a tobia, et ab idaia: et venies tu in die illa, et intrabis domum iosiae filii sophoniae, qui venerunt de babylone.	2020-04-18	Prophetia_Zachariae
+1100000149	et sumes aurum et argentum, et facies coronas, et pones in capite iesu filii iosedec, sacerdotis magni:et loqueris ad eum, dicens: haec ait dominus exercituum, dicens: ecce vir, oriens nomen eius, et subter eum orietur, et aedificabit templum domino.	2020-04-18	Prophetia_Zachariae
+1100000150	et ipse exstruet templum domino: et ipse portabit gloriam, et sedebit, et dominabitur super solio suo: et erit sacerdos super solio suo, et consilium pacis erit inter illos duos.	2020-04-18	Prophetia_Zachariae
+1100000151	et coronae erunt helem, et tobiae, et idaiae, et hem filio sophoniae, memoriale in templo domini.	2020-04-18	Prophetia_Zachariae
+1100000152	et qui procul sunt, venient, et aedificabunt in templo domini: et scietis quia dominus exercituum misit me ad vos. 	2020-04-18	Prophetia_Zachariae
+1100000153	erit autem hoc, si auditu audieritis vocem domini dei vestri.	2020-04-18	Prophetia_Zachariae
+1100000154	caput 7	2020-04-18	Prophetia_Zachariae
+1100000155	et factum est in anno quarto darii regis, factum est verbum domini ad zachariam, in quarta mensis noni, qui est casleu.	2020-04-18	Prophetia_Zachariae
+1100000156	et miserunt ad domum dei sarasar et rogommelech, et viri qui erant cum eo, ad deprecandam faciem domini:ut dicerent sacerdotibus domus domini exercituum, et prophetis, loquentes: numquid flendum est mihi in quinto mense, vel sanctificare me debeo, sicut iam feci multis annis?	2020-04-18	Prophetia_Zachariae
+1100000157	et factum est verbum domini exercituum ad me, dicens:loquere ad omnem populum terrae, et ad sacerdotes, dicens: cum ieiunaretis, et plangeretis in quinto et septimo per hos septuaginta annos, numquid ieiunium ieiunastis mihi?	2020-04-18	Prophetia_Zachariae
+1100000158	et cum comedistis et bibistis, numquid non vobis comedistis et vobismetipsis bibistis?	2020-04-18	Prophetia_Zachariae
+1100000159	numquid non sunt verba quae locutus est dominus in manu prophetarum priorum, cum adhuc ierusalem habitaretur ut esset opulenta, ipsa et urbes in circuitu eius, et ad austrum, et in campestribus habitaretur?	2020-04-18	Prophetia_Zachariae
+1100000160	et factum est verbum domini ad zachariam, dicens:haec ait dominus exercituum, dicens: iudicium verum iudicate, et misericordiam et miserationes facite, unusquisque cum fratre suo.	2020-04-18	Prophetia_Zachariae
+1100000161	et viduam, et pupillum, et advenam, et pauperem nolite calumniari: et malum vir fratri suo non cogitet in corde suo.	2020-04-18	Prophetia_Zachariae
+1100000162	et noluerunt attendere, et averterunt scapulam recedentem, et aures suas aggravaverunt ne audirent.	2020-04-18	Prophetia_Zachariae
+1100000163	et cor suum posuerunt ut adamantem, ne audirent legem, et verba quae misit dominus exercituum in spiritu suo per manum prophetarum priorum: et facta est indignatio magna a domino exercituum.	2020-04-18	Prophetia_Zachariae
+1100000164	et factum est sicut locutus est, et non audierunt: sic clamabunt et non exaudiam, dicit dominus exercituum.	2020-04-18	Prophetia_Zachariae
+1100000165	et dispersi eos per omnia regna quae nesciunt: et terra desolata est ab eis, eo quod non esset transiens et revertens: et posuerunt terram desiderabilem in desertum.	2020-04-18	Prophetia_Zachariae
+1100000166	caput 8	2020-04-18	Prophetia_Zachariae
+1100000167	et factum est verbum domini exercituum, dicens:haec dicit dominus exercituum: zelatus sum sion zelo magno, et indignatione magna zelatus sum eam.	2020-04-18	Prophetia_Zachariae
+1100000168	haec dicit dominus exercituum: reversus sum ad sion, et habitabo in medio ierusalem: et vocabitur ierusalem civitas veritatis, et mons domini exercituum mons sanctificatus.	2020-04-18	Prophetia_Zachariae
+1100000169	haec dicit dominus exercituum: adhuc habitabunt senes et anus in plateis ierusalem, et viri baculus in manu eius prae multitudine dierum.	2020-04-18	Prophetia_Zachariae
+1100000170	et plateae civitatis complebuntur infantibus et puellis, ludentibus in plateis eius.	2020-04-18	Prophetia_Zachariae
+1100000171	haec dicit dominus exercituum: si videbitur difficile in oculis reliquiarum populi huius in diebus illis, numquid in oculis meis difficile erit? 	2020-04-18	Prophetia_Zachariae
+1100000172	dicit dominus exercituum.	2020-04-18	Prophetia_Zachariae
+1100000173	haec dicit dominus exercituum: ecce ego salvabo populum meum de terra orientis et de terra occasus solis.	2020-04-18	Prophetia_Zachariae
+1100000174	et adducam eos, et habitabunt in medio ierusalem: et erunt mihi in populum, et ego ero eis in deum, in veritate et in iustitia.	2020-04-18	Prophetia_Zachariae
+1100000175	haec dicit dominus exercituum: confortentur manus vestrae, qui auditis in his diebus sermones istos per os prophetarum, in die qua fundata est domus domini exercituum, ut templum aedificaretur.	2020-04-18	Prophetia_Zachariae
+1100000176	siquidem ante dies illos merces hominum non erat, nec merces iumentorum erat: neque introeunti, neque exeunti erat pax prae tribulatione: et dimisi omnes homines, unumquemque contra proximum suum.	2020-04-18	Prophetia_Zachariae
+1100000177	nunc autem non iuxta dies priores ego faciam reliquiis populi huius, dicit dominus exercituum,sed semen pacis erit: vinea dabit fructum suum, et terra dabit germen suum, et caeli dabunt rorem suum: et possidere faciam reliquias populi huius universa haec.	2020-04-18	Prophetia_Zachariae
+1100000178	et erit: sicut eratis maledictio in gentibus, domus iuda et domus israel, sic salvabo vos, et eritis benedictio. 	2020-04-18	Prophetia_Zachariae
+1100000179	nolite timere; confortentur manus vestrae.	2020-04-18	Prophetia_Zachariae
+1100000180	quia haec dicit dominus exercituum: sicut cogitavi ut affligerem vos, cum ad iracundiam provocassent patres vestri me, dicit dominus,et non sum misertus: sic conversus cogitavi, in diebus istis, ut benefaciam domui iuda et ierusalem. 	2020-04-18	Prophetia_Zachariae
+1100000181	nolite timere.	2020-04-18	Prophetia_Zachariae
+1100000182	haec sunt ergo verba quae facietis: loquimini veritatem unusquisque cum proximo suo: veritatem et iudicium pacis iudicate in portis vestris.	2020-04-18	Prophetia_Zachariae
+1100000183	et unusquisque malum contra amicum suum ne cogitetis in cordibus vestris, et iuramentum mendax ne diligatis: omnia enim haec sunt quae odi, dicit dominus.	2020-04-18	Prophetia_Zachariae
+1100000184	et factum est verbum domini exercituum ad me, dicens:haec dicit dominus exercituum: ieiunium quarti, et ieiunium quinti, et ieiunium septimi, et ieiunium decimi erit domui iuda in gaudium et laetitiam et in solemnitates praeclaras. 	2020-04-18	Prophetia_Zachariae
+1100000185	veritatem tantum et pacem diligite.	2020-04-18	Prophetia_Zachariae
+1100000186	haec dicit dominus exercituum, usquequo veniant populi et habitent in civitatibus multis:et vadant habitatores, unus ad alterum, dicentes: eamus, et deprecemur faciem domini, et quaeramus dominum exercituum: vadam etiam ego.	2020-04-18	Prophetia_Zachariae
+1100000187	et venient populi multi, et gentes robustae, ad quaerendum dominum exercituum in ierusalem, et deprecandam faciem domini.	2020-04-18	Prophetia_Zachariae
+1100000188	haec dicit dominus exercituum: in diebus illis, in quibus apprehendent decem homines ex omnibus linguis gentium, et apprehendent fimbriam viri iudaei, dicentes: ibimus vobiscum: audivimus enim quoniam deus vobiscum est.	2020-04-18	Prophetia_Zachariae
+1100000189	caput 9	2020-04-18	Prophetia_Zachariae
+1100000190	onus verbi domini in terra hadrach	2020-04-18	Prophetia_Zachariae
+1100000191	et damasci requiei eius,	2020-04-18	Prophetia_Zachariae
+1100000192	quia domini est oculus hominis et omnium tribuum israel.	2020-04-18	Prophetia_Zachariae
+1100000193	emath quoque in terminis eius, et tyrus, et sidon:	2020-04-18	Prophetia_Zachariae
+1100000194	assumpserunt quippe sibi sapientiam valde.	2020-04-18	Prophetia_Zachariae
+1100000195	et aedificavit tyrus munitionem suam,	2020-04-18	Prophetia_Zachariae
+1100000196	et coacervavit argentum quasi humum,	2020-04-18	Prophetia_Zachariae
+1100000197	et aurum ut lutum platearum.	2020-04-18	Prophetia_Zachariae
+1100000198	ecce dominus possidebit eam:	2020-04-18	Prophetia_Zachariae
+1100000199	et percutiet in mari fortitudinem eius,	2020-04-18	Prophetia_Zachariae
+1100000200	et haec igni devorabitur.	2020-04-18	Prophetia_Zachariae
+1100000201	videbit ascalon, et timebit,	2020-04-18	Prophetia_Zachariae
+1100000202	et gaza, et dolebit nimis,	2020-04-18	Prophetia_Zachariae
+1100000203	et accaron, quoniam confusa est spes eius:	2020-04-18	Prophetia_Zachariae
+1100000204	et peribit rex de gaza,	2020-04-18	Prophetia_Zachariae
+1100000205	et ascalon non habitabitur.	2020-04-18	Prophetia_Zachariae
+1100000206	et sedebit separator in azoto,	2020-04-18	Prophetia_Zachariae
+1100000207	et disperdam superbiam philisthinorum.	2020-04-18	Prophetia_Zachariae
+1100000208	et auferam sanguinem eius de ore eius,	2020-04-18	Prophetia_Zachariae
+1100000209	et abominationes eius de medio dentium eius:	2020-04-18	Prophetia_Zachariae
+1100000210	et relinquetur etiam ipse deo nostro,	2020-04-18	Prophetia_Zachariae
+1100000211	et erit quasi dux in iuda,	2020-04-18	Prophetia_Zachariae
+1100000212	et accaron quasi iebusaeus.	2020-04-18	Prophetia_Zachariae
+1100000213	et circumdabo domum meam	2020-04-18	Prophetia_Zachariae
+1100000214	ex his qui militant mihi euntes et revertentes:	2020-04-18	Prophetia_Zachariae
+1100000215	et non transibit super eos ultra exactor,	2020-04-18	Prophetia_Zachariae
+1100000216	quia nunc vidi in oculis meis.	2020-04-18	Prophetia_Zachariae
+1100000217	exsulta satis, filia sion;	2020-04-18	Prophetia_Zachariae
+1100000218	iubila, filia ierusalem:	2020-04-18	Prophetia_Zachariae
+1100000219	ecce rex tuus veniet tibi iustus, et salvator:	2020-04-18	Prophetia_Zachariae
+1100000220	ipse pauper, et ascendens super asinam	2020-04-18	Prophetia_Zachariae
+1100000221	et super pullum filium asinae.	2020-04-18	Prophetia_Zachariae
+1100000222	et disperdam quadrigam ex ephraim,	2020-04-18	Prophetia_Zachariae
+1100000223	et equum de ierusalem,	2020-04-18	Prophetia_Zachariae
+1100000224	et dissipabitur arcus belli:	2020-04-18	Prophetia_Zachariae
+1100000225	et loquetur pacem gentibus,	2020-04-18	Prophetia_Zachariae
+1100000226	et potestas eius a mari usque ad mare,	2020-04-18	Prophetia_Zachariae
+1100000227	et a fluminibus usque ad fines terrae.	2020-04-18	Prophetia_Zachariae
+1100000228	tu quoque in sanguine testamenti tui	2020-04-18	Prophetia_Zachariae
+1100000229	emisisti vinctos tuos de lacu in quo non est aqua.	2020-04-18	Prophetia_Zachariae
+1100000230	convertimini ad munitionem, vincti spei:	2020-04-18	Prophetia_Zachariae
+1100000231	hodie quoque annuntians duplicia reddam tibi.	2020-04-18	Prophetia_Zachariae
+1100000232	quoniam extendi mihi iudam quasi arcum:	2020-04-18	Prophetia_Zachariae
+1100000233	implevi ephraim:	2020-04-18	Prophetia_Zachariae
+1100000234	et suscitabo filios tuos, sion,	2020-04-18	Prophetia_Zachariae
+1100000235	super filios tuos, graecia:	2020-04-18	Prophetia_Zachariae
+1100000236	et ponam te quasi gladium fortium.	2020-04-18	Prophetia_Zachariae
+1100000237	et dominus deus super eos videbitur,	2020-04-18	Prophetia_Zachariae
+1100000238	et exibit ut fulgur iaculum eius:	2020-04-18	Prophetia_Zachariae
+1100000239	et dominus deus in tuba canet,	2020-04-18	Prophetia_Zachariae
+1100000240	et vadet in turbine austri.	2020-04-18	Prophetia_Zachariae
+1100000241	dominus exercituum proteget eos:	2020-04-18	Prophetia_Zachariae
+1100000242	et devorabunt, et subiicient lapidibus fundae:	2020-04-18	Prophetia_Zachariae
+1100000243	et bibentes inebriabuntur quasi a vino,	2020-04-18	Prophetia_Zachariae
+1100000244	et replebuntur ut phialae,	2020-04-18	Prophetia_Zachariae
+1100000245	et quasi cornua altaris.	2020-04-18	Prophetia_Zachariae
+1100000246	et salvabit eos dominus deus eorum in die illa,	2020-04-18	Prophetia_Zachariae
+1100000247	ut gregem populi sui,	2020-04-18	Prophetia_Zachariae
+1100000248	quia lapides sancti elevabuntur super terram eius.	2020-04-18	Prophetia_Zachariae
+1100000249	quid enim bonum eius est,	2020-04-18	Prophetia_Zachariae
+1100000250	et quid pulchrum eius,	2020-04-18	Prophetia_Zachariae
+1100000251	nisi frumentum electorum,	2020-04-18	Prophetia_Zachariae
+1100000252	et vinum germinans virgines?	2020-04-18	Prophetia_Zachariae
+1100000253	caput 10	2020-04-18	Prophetia_Zachariae
+1100000254	petite a domino pluviam in tempore serotino,	2020-04-18	Prophetia_Zachariae
+1100000255	et dominus faciet nives:	2020-04-18	Prophetia_Zachariae
+1100000256	et pluviam imbris dabit eis,	2020-04-18	Prophetia_Zachariae
+1100000257	singulis herbam in agro.	2020-04-18	Prophetia_Zachariae
+1100000258	quia simulacra locuta sunt inutile,	2020-04-18	Prophetia_Zachariae
+1100000259	et divini viderunt mendacium:	2020-04-18	Prophetia_Zachariae
+1100000260	et somniatores locuti sunt frustra,	2020-04-18	Prophetia_Zachariae
+1100000261	vane consolabantur:	2020-04-18	Prophetia_Zachariae
+1100000262	idcirco abducti sunt quasi grex:	2020-04-18	Prophetia_Zachariae
+1100000263	affligentur, quia non est eis pastor.	2020-04-18	Prophetia_Zachariae
+1100000264	super pastores iratus est furor meus,	2020-04-18	Prophetia_Zachariae
+1100000265	et super hircos visitabo:	2020-04-18	Prophetia_Zachariae
+1100000266	quia visitavit dominus exercituum gregem suum, domum iuda,	2020-04-18	Prophetia_Zachariae
+1100000267	et posuit eos quasi equum gloriae suae in bello.	2020-04-18	Prophetia_Zachariae
+1100000268	ex ipso angulus, ex ipso paxillus,	2020-04-18	Prophetia_Zachariae
+1100000269	ex ipso arcus praelii,	2020-04-18	Prophetia_Zachariae
+1100000270	ex ipso egredietur omnis exactor simul.	2020-04-18	Prophetia_Zachariae
+1100000271	et erunt quasi fortes conculcantes lutum viarum in praelio,	2020-04-18	Prophetia_Zachariae
+1100000272	et bellabunt, quia dominus cum eis:	2020-04-18	Prophetia_Zachariae
+1100000273	et confundentur ascensores equorum.	2020-04-18	Prophetia_Zachariae
+1100000274	et confortabo domum iuda,	2020-04-18	Prophetia_Zachariae
+1100000275	et domum ioseph salvabo:	2020-04-18	Prophetia_Zachariae
+1100000276	et convertam eos, quia miserebor eorum:	2020-04-18	Prophetia_Zachariae
+1100000277	et erunt sicut fuerunt quando non proieceram eos:	2020-04-18	Prophetia_Zachariae
+1100000278	ego enim dominus deus eorum, et exaudiam eos.	2020-04-18	Prophetia_Zachariae
+1100000279	et erunt quasi fortes ephraim,	2020-04-18	Prophetia_Zachariae
+1100000280	et laetabitur cor eorum quasi a vino:	2020-04-18	Prophetia_Zachariae
+1100000281	et filii eorum videbunt, et laetabuntur,	2020-04-18	Prophetia_Zachariae
+1100000282	et exsultabit cor eorum in domino.	2020-04-18	Prophetia_Zachariae
+1100000283	sibilabo eis, et congregabo illos,	2020-04-18	Prophetia_Zachariae
+1100000284	quia redemi eos:	2020-04-18	Prophetia_Zachariae
+1100000285	et multiplicabo eos sicut ante fuerant multiplicati.	2020-04-18	Prophetia_Zachariae
+1100000286	et seminabo eos in populis,	2020-04-18	Prophetia_Zachariae
+1100000287	et de longe recordabuntur mei:	2020-04-18	Prophetia_Zachariae
+1100000288	et vivent cum filiis suis, et revertentur.	2020-04-18	Prophetia_Zachariae
+1100000289	et reducam eos de terra aegypti,	2020-04-18	Prophetia_Zachariae
+1100000290	et de assyriis congregabo eos,	2020-04-18	Prophetia_Zachariae
+1100000291	et ad terram galaad et libani adducam eos,	2020-04-18	Prophetia_Zachariae
+1100000292	et non invenietur eis locus:	2020-04-18	Prophetia_Zachariae
+1100000293	et transibit in maris freto,	2020-04-18	Prophetia_Zachariae
+1100000294	et percutiet in mari fluctus,	2020-04-18	Prophetia_Zachariae
+1100000295	et confundentur omnia profunda fluminis:	2020-04-18	Prophetia_Zachariae
+1100000296	et humiliabitur superbia assur,	2020-04-18	Prophetia_Zachariae
+1100000297	et sceptrum aegypti recedet.	2020-04-18	Prophetia_Zachariae
+1100000298	confortabo eos in domino,	2020-04-18	Prophetia_Zachariae
+1100000299	et in nomine eius ambulabunt, dicit dominus.	2020-04-18	Prophetia_Zachariae
+1100000300	caput 11	2020-04-18	Prophetia_Zachariae
+1100000301	aperi, libane, portas tuas,	2020-04-18	Prophetia_Zachariae
+1100000302	et comedat ignis cedros tuas.	2020-04-18	Prophetia_Zachariae
+1100000303	ulula, abies, quia cecidit cedrus,	2020-04-18	Prophetia_Zachariae
+1100000304	quoniam magnifici vastati sunt:	2020-04-18	Prophetia_Zachariae
+1100000305	ululate, quercus basan,	2020-04-18	Prophetia_Zachariae
+1100000306	quoniam succisus est saltus munitus.	2020-04-18	Prophetia_Zachariae
+1100000307	vox ululatus pastorum,	2020-04-18	Prophetia_Zachariae
+1100000308	quia vastata est magnificentia eorum:	2020-04-18	Prophetia_Zachariae
+1100000309	vox rugitus leonum,	2020-04-18	Prophetia_Zachariae
+1100000310	quoniam vastata est superbia iordanis.	2020-04-18	Prophetia_Zachariae
+1100000311	haec dicit dominus deus meus: pasce pecora occisionis,quae qui possederant occidebant, et non dolebant, et vendebant ea, dicentes: benedictus dominus! 	2020-04-18	Prophetia_Zachariae
+1100000312	divites facti sumus: et pastores eorum non parcebant eis.	2020-04-18	Prophetia_Zachariae
+1100000313	et ego non parcam ultra super habitantes terram, dicit dominus: ecce ego tradam homines, unumquemque in manu proximi sui, et in manu regis sui: et concident terram, et non eruam de manu eorum.	2020-04-18	Prophetia_Zachariae
+1100000314	et pascam pecus occisionis propter hoc, o pauperes gregis! 	2020-04-18	Prophetia_Zachariae
+1100000315	et assumpsi mihi duas virgas: unam vocavi decorem, et alteram vocavi funiculum: et pavi gregem.	2020-04-18	Prophetia_Zachariae
+1100000316	et succidi tres pastores in mense uno, et contracta est anima mea in eis, siquidem et anima eorum variavit in me.	2020-04-18	Prophetia_Zachariae
+1100000317	et dixi: non pascam vos: quod moritur, moriatur, et quod succiditur, succidatur: et reliqui devorent unusquisque carnem proximi sui.	2020-04-18	Prophetia_Zachariae
+1100000318	et tuli virgam meam quae vocabatur decus, et abscidi eam, ut irritum facerem foedus meum quod percussi cum omnibus populis.	2020-04-18	Prophetia_Zachariae
+1100000319	et in irritum deductum est in die illa: et cognoverunt sic pauperes gregis, qui custodiunt mihi, quia verbum domini est.	2020-04-18	Prophetia_Zachariae
+1100000320	et dixi ad eos: si bonum est in oculis vestris, afferte mercedem meam: et si non, quiescite. 	2020-04-18	Prophetia_Zachariae
+1100000321	et appenderunt mercedem meam triginta argenteos.	2020-04-18	Prophetia_Zachariae
+1100000322	et dixit dominus ad me: proiice illud ad statuarium, decorum pretium quo appretiatus sum ab eis. 	2020-04-18	Prophetia_Zachariae
+1100000323	et tuli triginta argenteos, et proieci illos in domum domini, ad statuarium.	2020-04-18	Prophetia_Zachariae
+1100000324	et praecidi virgam meam secundam, quae appellabatur funiculus, ut dissolverem germanitatem inter iudam et israel.	2020-04-18	Prophetia_Zachariae
+1100000325	et dixit dominus ad me: adhuc sume tibi vasa pastoris stulti.	2020-04-18	Prophetia_Zachariae
+1100000326	quia ecce ego suscitabo pastorem in terra, qui derelicta non visitabit, dispersum non quaeret, et contritum non sanabit, et id quod stat non enutriet, et carnes pinguium comedet, et ungulas eorum dissolvet.	2020-04-18	Prophetia_Zachariae
+1100000327	o pastor, et idolum derelinquens gregem: gladius super brachium eius, et super oculum dextrum eius: brachium eius ariditate siccabitur, et oculus dexter eius tenebrescens obscurabitur.	2020-04-18	Prophetia_Zachariae
+1100000328	caput 12	2020-04-18	Prophetia_Zachariae
+1100000329	onus verbi domini super israel.	2020-04-18	Prophetia_Zachariae
+1100000330	dicit dominus extendens caelum, et fundans terram,	2020-04-18	Prophetia_Zachariae
+1100000331	et fingens spiritum hominis in eo:	2020-04-18	Prophetia_Zachariae
+1100000332	ecce ego ponam ierusalem superliminare crapulae	2020-04-18	Prophetia_Zachariae
+1100000333	omnibus populis in circuitu:	2020-04-18	Prophetia_Zachariae
+1100000334	sed et iuda erit in obsidione contra ierusalem.	2020-04-18	Prophetia_Zachariae
+1100000335	et erit: in die illa ponam ierusalem lapidem oneris cunctis populis:	2020-04-18	Prophetia_Zachariae
+1100000336	omnes qui levabunt eam concisione lacerabuntur,	2020-04-18	Prophetia_Zachariae
+1100000337	et colligentur adversus eam omnia regna terrae.	2020-04-18	Prophetia_Zachariae
+1100000338	in die illa, dicit dominus,	2020-04-18	Prophetia_Zachariae
+1100000339	percutiam omnem equum in stuporem,	2020-04-18	Prophetia_Zachariae
+1100000340	et ascensorem eius in amentiam:	2020-04-18	Prophetia_Zachariae
+1100000341	et super domum iuda aperiam oculos meos,	2020-04-18	Prophetia_Zachariae
+1100000342	et omnem equum populorum percutiam caecitate.	2020-04-18	Prophetia_Zachariae
+1100000343	et dicent duces iuda in corde suo:	2020-04-18	Prophetia_Zachariae
+1100000344	confortentur mihi habitatores ierusalem	2020-04-18	Prophetia_Zachariae
+1100000345	in domino exercituum, deo eorum!	2020-04-18	Prophetia_Zachariae
+1100000346	in die illa ponam duces iuda	2020-04-18	Prophetia_Zachariae
+1100000347	sicut caminum ignis in lignis,	2020-04-18	Prophetia_Zachariae
+1100000348	et sicut facem ignis in foeno:	2020-04-18	Prophetia_Zachariae
+1100000349	et devorabunt ad dexteram et ad sinistram omnes populos in circuitu,	2020-04-18	Prophetia_Zachariae
+1100000350	et habitabitur ierusalem rursus in loco suo in ierusalem.	2020-04-18	Prophetia_Zachariae
+1100000351	et salvabit dominus tabernacula iuda, sicut in principio,	2020-04-18	Prophetia_Zachariae
+1100000352	ut non magnifice glorietur domus david,	2020-04-18	Prophetia_Zachariae
+1100000353	et gloria habitantium ierusalem contra iudam.	2020-04-18	Prophetia_Zachariae
+1100000354	in die illa proteget dominus habitatores ierusalem:	2020-04-18	Prophetia_Zachariae
+1100000355	et erit qui offenderit ex eis in die illa quasi david,	2020-04-18	Prophetia_Zachariae
+1100000356	et domus david quasi dei,	2020-04-18	Prophetia_Zachariae
+1100000357	sicut angelus domini in conspectu eorum.	2020-04-18	Prophetia_Zachariae
+1100000358	et erit in die illa:	2020-04-18	Prophetia_Zachariae
+1100000359	quaeram conterere omnes gentes quae veniunt contra ierusalem.	2020-04-18	Prophetia_Zachariae
+1100000360	et effundam super domum david	2020-04-18	Prophetia_Zachariae
+1100000361	et super habitatores ierusalem	2020-04-18	Prophetia_Zachariae
+1100000362	spiritum gratiae et precum:	2020-04-18	Prophetia_Zachariae
+1100000363	et aspicient ad me quem confixerunt,	2020-04-18	Prophetia_Zachariae
+1100000364	et plangent eum planctu quasi super unigenitum,	2020-04-18	Prophetia_Zachariae
+1100000365	et dolebunt super eum,	2020-04-18	Prophetia_Zachariae
+1100000366	ut doleri solet in morte primogeniti.	2020-04-18	Prophetia_Zachariae
+1100000367	in die illa, magnus erit planctus in ierusalem,	2020-04-18	Prophetia_Zachariae
+1100000368	sicut planctus adadremmon in campo mageddon.	2020-04-18	Prophetia_Zachariae
+1100000369	et planget terra: familiae et familiae seorsum:	2020-04-18	Prophetia_Zachariae
+1100000370	familiae domus david seorsum, et mulieres eorum seorsum:	2020-04-18	Prophetia_Zachariae
+1100000371	familiae domus nathan seorsum, et mulieres eorum seorsum:	2020-04-18	Prophetia_Zachariae
+1100000372	familiae domus levi seorsum, et mulieres eorum seorsum:	2020-04-18	Prophetia_Zachariae
+1100000373	familiae semei seorsum, et mulieres eorum seorsum:	2020-04-18	Prophetia_Zachariae
+1100000374	omnes familiae reliquae,	2020-04-18	Prophetia_Zachariae
+1100000375	familiae et familiae seorsum, et mulieres eorum seorsum.	2020-04-18	Prophetia_Zachariae
+1100000376	caput 13	2020-04-18	Prophetia_Zachariae
+1100000377	in die illa erit fons patens domui david et habitantibus ierusalem,	2020-04-18	Prophetia_Zachariae
+1100000378	in ablutionem peccatoris et menstruatae.	2020-04-18	Prophetia_Zachariae
+1100000379	et erit in die illa, dicit dominus exercituum:	2020-04-18	Prophetia_Zachariae
+1100000380	disperdam nomina idolorum de terra,	2020-04-18	Prophetia_Zachariae
+1100000381	et non memorabuntur ultra:	2020-04-18	Prophetia_Zachariae
+1100000382	et pseudoprophetas, et spiritum immundum auferam de terra.	2020-04-18	Prophetia_Zachariae
+1100000383	et erit: cum prophetaverit quispiam ultra,	2020-04-18	Prophetia_Zachariae
+1100000384	dicent ei pater eius et mater eius, qui genuerunt eum:	2020-04-18	Prophetia_Zachariae
+1100000385	non vives, quia mendacium locutus es in nomine domini:	2020-04-18	Prophetia_Zachariae
+1100000386	et configent eum pater eius et mater eius, genitores eius,	2020-04-18	Prophetia_Zachariae
+1100000387	cum prophetaverit.	2020-04-18	Prophetia_Zachariae
+1100000388	et erit: in die illa confundentur prophetae,	2020-04-18	Prophetia_Zachariae
+1100000389	unusquisque ex visione sua cum prophetaverit:	2020-04-18	Prophetia_Zachariae
+1100000390	nec operientur pallio saccino, ut mentiantur:	2020-04-18	Prophetia_Zachariae
+1100000391	sed dicet: non sum propheta:	2020-04-18	Prophetia_Zachariae
+1100000392	homo agricola ego sum,	2020-04-18	Prophetia_Zachariae
+1100000393	quoniam adam exemplum meum ab adolescentia mea.	2020-04-18	Prophetia_Zachariae
+1100000394	et dicetur ei: quid sunt plagae istae in medio manuum tuarum?	2020-04-18	Prophetia_Zachariae
+1100000395	et dicet: his plagatus sum in domo eorum qui diligebant me.	2020-04-18	Prophetia_Zachariae
+1100000396	framea, suscitare super pastorem meum, et super virum cohaerentem mihi, dicit dominus exercituum: percute pastorem, et dispergentur oves: et convertam manum meam ad parvulos.	2020-04-18	Prophetia_Zachariae
+1100000397	et erunt in omni terra, dicit dominus: partes duae in ea dispergentur, et deficient: et tertia pars relinquetur in ea.	2020-04-18	Prophetia_Zachariae
+1100000398	et ducam tertiam partem per ignem, et uram eos sicut uritur argentum, et probabo eos sicut probatur aurum. 	2020-04-18	Prophetia_Zachariae
+1100000399	ipse vocabit nomen meum, et ego exaudiam eum. 	2020-04-18	Prophetia_Zachariae
+1100000400	dicam: populus meus es: et ipse dicet: dominus deus meus.	2020-04-18	Prophetia_Zachariae
+1100000401	caput 14	2020-04-18	Prophetia_Zachariae
+1100000402	ecce venient dies domini, et dividentur spolia tua in medio tui.	2020-04-18	Prophetia_Zachariae
+1100000403	et congregabo omnes gentes ad ierusalem in praelium: et capietur civitas, et vastabuntur domus, et mulieres violabuntur: et egredietur media pars civitatis in captivitatem, et reliquum populi non auferetur ex urbe.	2020-04-18	Prophetia_Zachariae
+1100000404	et egredietur dominus, et praeliabitur contra gentes illas, sicut praeliatus est in die certaminis.	2020-04-18	Prophetia_Zachariae
+1100000405	et stabunt pedes eius in die illa super montem olivarum, qui est contra ierusalem ad orientem: et scindetur mons olivarum ex media parte sui ad orientem et ad occidentem, praerupto grandi valde: et separabitur medium montis ad aquilonem, et medium eius ad meridiem.	2020-04-18	Prophetia_Zachariae
+1100000406	et fugietis ad vallem montium eorum, quoniam coniungetur vallis montium usque ad proximum: et fugietis sicut fugistis a facie terraemotus in diebus oziae regis iuda: et veniet dominus deus meus, omnesque sancti cum eo.	2020-04-18	Prophetia_Zachariae
+1100000407	et erit in die illa: non erit lux, sed frigus et gelu.	2020-04-18	Prophetia_Zachariae
+1100000408	et erit dies una quae nota est domino, non dies neque nox: et in tempore vesperi erit lux.	2020-04-18	Prophetia_Zachariae
+1100000409	et erit in die illa: exibunt aquae vivae de ierusalem: medium earum ad mare orientale, et medium earum ad mare novissimum: in aestate et in hieme erunt.	2020-04-18	Prophetia_Zachariae
+1100000410	et erit dominus rex super omnem terram: in die illa erit dominus unus, et erit nomen eius unum.	2020-04-18	Prophetia_Zachariae
+1100000411	et revertetur omnis terra usque ad desertum, de colle remmon ad austrum ierusalem: et exaltabitur, et habitabit in loco suo, a porta beniamin usque ad locum portae prioris, et usque ad portam angulorum, et a turre hananeel usque ad torcularia regis.	2020-04-18	Prophetia_Zachariae
+1100000412	et habitabunt in ea, et anathema non erit amplius, sed sedebit ierusalem secura.	2020-04-18	Prophetia_Zachariae
+1100000413	et haec erit plaga qua percutiet dominus omnes gentes quae pugnaverunt adversus ierusalem: tabescet caro uniuscuiusque stantis super pedes suos: et oculi eius contabescent in foraminibus suis, et lingua eorum contabescet in ore suo.	2020-04-18	Prophetia_Zachariae
+1100000414	in die illa erit tumultus domini magnus in eis: et apprehendet vir manum proximi sui, et conseretur manus eius super manum proximi sui.	2020-04-18	Prophetia_Zachariae
+1100000415	sed et iudas pugnabit adversus ierusalem: et congregabuntur divitiae omnium gentium in circuitu, aurum, et argentum, et vestes multae satis.	2020-04-18	Prophetia_Zachariae
+1100000416	et sic erit ruina equi, et muli, et cameli, et asini, et omnium iumentorum quae fuerint in castris illis, sicut ruina haec.	2020-04-18	Prophetia_Zachariae
+1100000417	et omnes qui reliqui fuerint de universis gentibus quae venerunt contra ierusalem, ascendent ab anno in annum ut adorent regem, dominum exercituum, et celebrent festivitatem tabernaculorum.	2020-04-18	Prophetia_Zachariae
+1100000418	et erit: qui non ascenderit de familiis terrae ad ierusalem ut adoret regem, dominum exercituum, non erit super eos imber.	2020-04-18	Prophetia_Zachariae
+1100000419	quod etsi familia aegypti non ascenderit et non venerit, nec super eos erit: sed erit ruina, qua percutiet dominus omnes gentes quae non ascenderint ad celebrandam festivitatem tabernaculorum.	2020-04-18	Prophetia_Zachariae
+1100000420	hoc erit peccatum aegypti, et hoc peccatum omnium gentium quae non ascenderint ad celebrandam festivitatem tabernaculorum.	2020-04-18	Prophetia_Zachariae
+1100000421	in die illa, erit quod super frenum equi est, sanctum domino: et erunt lebetes in domo domini quasi phialae coram altari.	2020-04-18	Prophetia_Zachariae
+1100000422	et erit omnis lebes in ierusalem et in iuda sanctificatus domino exercituum: et venient omnes immolantes, et sument ex eis, et coquent in eis: et non erit mercator ultra in domo domini exercituum in die illo.	2020-04-18	Prophetia_Zachariae

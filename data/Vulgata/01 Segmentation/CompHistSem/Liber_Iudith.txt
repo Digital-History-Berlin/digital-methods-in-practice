@@ -1,0 +1,333 @@
+1100000001	liber iudith	2020-04-18	Liber_Iudith
+1100000002	caput 1	2020-04-18	Liber_Iudith
+1100000003	arphaxad itaque, rex medorum, subiugaverat multas gentes imperio suo, et ipse aedificavit civitatem potentissimam, quam appellavit ecbatanis,ex lapidibus quadratis et sectis: fecit muros eius in altitudinem cubitorum septuaginta, et in latitudinem cubitorum triginta: turres vero eius posuit in altitudinem cubitorum centum.	2020-04-18	Liber_Iudith
+1100000004	per quadrum vero earum latus utrumque vicenorum pedum spatio tendebatur, posuitque portas eius in altitudinem turrium:et gloriabatur quasi potens in potentia exercitus sui, et in gloria quadrigarum suarum.	2020-04-18	Liber_Iudith
+1100000005	anno igitur duodecimo regni sui, nabuchodonosor rex assyriorum, qui regnabat in ninive civitate magna, pugnavit contra arphaxad, et obtinuit eumin campo magno qui appellatur ragau, circa euphraten, et tigrin, et iadason, in campo erioch regis elicorum.	2020-04-18	Liber_Iudith
+1100000006	tunc exaltatum est regnum nabuchodonosor, et cor eius elevatum est: et misit ad omnes qui habitabant in cilicia, et damasco, et libano,et ad gentes quae sunt in carmelo et cedar, et inhabitantes galilaeam in campo magno esdrelon,et ad omnes qui erant in samaria, et trans flumen iordanem usque ad ierusalem, et omnem terram iesse quousque perveniatur ad terminos aethiopiae.	2020-04-18	Liber_Iudith
+1100000007	ad hos omnes misit nuntios nabuchodonosor rex assyriorum:qui omnes uno animo contradixerunt, et remiserunt eos vacuos, et sine honore abiecerunt.	2020-04-18	Liber_Iudith
+1100000008	tunc indignatus nabuchodonosor rex adversus omnem terram illam, iuravit per thronum et regnum suum quod defenderet se de omnibus regionibus his.	2020-04-18	Liber_Iudith
+1100000009	caput 2	2020-04-18	Liber_Iudith
+1100000010	anno tertiodecimo nabuchodonosor regis, vigesima et secunda die mensis primi, factum est verbum in domo nabuchodonosor regis assyriorum ut defenderet se.	2020-04-18	Liber_Iudith
+1100000011	vocavitque omnes maiores natu, omnesque duces et bellatores suos, et habuit cum eis mysterium consilii sui:dixitque cogitationem suam in eo esse, ut omnem terram suo subiugaret imperio.	2020-04-18	Liber_Iudith
+1100000012	quod dictum cum placuisset omnibus, vocavit nabuchodonosor rex holofernem principem militiae suae,et dixit ei: egredere adversus omne regnum occidentis, et contra eos praecipue, qui contempserunt imperium meum.	2020-04-18	Liber_Iudith
+1100000013	non parcet oculus tuus ulli regno, omnemque urbem munitam subiugabis mihi.	2020-04-18	Liber_Iudith
+1100000014	tunc holofernes vocavit duces et magistratus virtutis assyriorum, et dinumeravit viros in expeditionem sicut praecepit ei rex, centum viginti millia peditum pugnatorum, et equitum sagittariorum duodecim millia.	2020-04-18	Liber_Iudith
+1100000015	omnemque expeditionem suam fecit praeire in multitudine innumerabilium camelorum, cum his quae exercitibus sufficerent copiose, boum quoque armenta, gregesque ovium, quorum non erat numerus.	2020-04-18	Liber_Iudith
+1100000016	frumentum ex omni syria in transitu suo parari constituit.	2020-04-18	Liber_Iudith
+1100000017	aurum vero et argentum de domo regis assumpsit multum nimis.	2020-04-18	Liber_Iudith
+1100000018	et profectus est ipse, et omnis exercitus cum quadrigis, et equitibus, et sagittariis: qui cooperuerunt faciem terrae sicut locustae.	2020-04-18	Liber_Iudith
+1100000019	cumque pertransisset fines assyriorum, venit ad magnos montes ange, qui sunt a sinistro ciliciae: ascenditque omnia castella eorum, et obtinuit omnem munitionem.	2020-04-18	Liber_Iudith
+1100000020	effregit autem civitatem opinatissimam melothi, praedavitque omnes filios tharsis et filios ismael qui erant contra faciem deserti, et ad austrum terrae cellon.	2020-04-18	Liber_Iudith
+1100000021	et transivit euphraten, et venit in mesopotamiam: et fregit omnes civitates excelsas quae erant ibi, a torrente mambre usquequo perveniatur ad mare:et occupavit terminos eius, a cilicia usque ad fines iapheth qui sunt ad austrum.	2020-04-18	Liber_Iudith
+1100000022	abduxitque omnes filios madian, et praedavit omnem locupletationem eorum, omnesque resistentes sibi occidit in ore gladii.	2020-04-18	Liber_Iudith
+1100000023	et post haec descendit in campos damasci in diebus messis, et succendit omnia sata, omnesque arbores, et vineas fecit incidi:et cecidit timor illius super omnes inhabitantes terram.	2020-04-18	Liber_Iudith
+1100000024	caput 3	2020-04-18	Liber_Iudith
+1100000025	tunc miserunt legatos suos universarum urbium ac provinciarum reges ac principes, syriae scilicet mesopotamiae, et syriae sobal, et libyae, atque ciliciae: qui venientes ad holofernem, dixerunt:desinat indignatio tua circa nos: melius est enim ut viventes serviamus nabuchodonosor regi magno, et subditi simus tibi, quam morientes cum interitu nostro ipsi servitutis nostrae damna patiamur.	2020-04-18	Liber_Iudith
+1100000026	omnis civitas nostra, omnisque possessio, omnes montes, et colles, et campi, et armenta boum, gregesque ovium, et caprarum, equorumque et camelorum, et universae facultates nostrae atque familiae, in conspectu tuo sunt:sint omnia nostra sub lege tua.	2020-04-18	Liber_Iudith
+1100000027	nos, et filii nostri, servi tui sumus.	2020-04-18	Liber_Iudith
+1100000028	veni nobis pacificus dominus, et utere servitio nostro, sicut placuerit tibi.	2020-04-18	Liber_Iudith
+1100000029	tunc descendit de montibus cum equitibus in virtute magna, et obtinuit omnem civitatem, et omnem inhabitantem terram.	2020-04-18	Liber_Iudith
+1100000030	de universis autem urbibus assumpsit sibi auxiliarios viros fortes, et electos ad bellum.	2020-04-18	Liber_Iudith
+1100000031	tantusque metus provinciis illis incubuit, ut universarum urbium habitatores principes et honorati simul cum populis exirent obviam venienti,excipientes eum cum coronis et lampadibus, ducentes choros in tympanis et tibiis.	2020-04-18	Liber_Iudith
+1100000032	nec ista tamen facientes, ferocitatem eius pectoris mitigare potuerunt:nam et civitates eorum destruxit, et lucos eorum excidit.	2020-04-18	Liber_Iudith
+1100000033	praeceperat enim illi nabuchodonosor rex, ut omnes deos terrae exterminaret, videlicet ut ipse solus diceretur deus ab his nationibus quae potuissent holofernis potentia subiugari.	2020-04-18	Liber_Iudith
+1100000034	pertransiens autem syriam sobal, et omnem apameam, omnemque mesopotamiam, venit ad idumaeos in terram gabaa,accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari praecepit universum exercitum virtutis suae.	2020-04-18	Liber_Iudith
+1100000035	caput 4	2020-04-18	Liber_Iudith
+1100000036	tunc audientes haec filii israel qui habitabant in terra iuda, timuerunt valde a facie eius.	2020-04-18	Liber_Iudith
+1100000037	tremor et horror invasit sensus eorum, ne hoc faceret ierusalem et templo domini, quod fecerat ceteris civitatibus et templis earum.	2020-04-18	Liber_Iudith
+1100000038	et miserunt in omnem samariam per circuitum usque iericho, et praeoccupaverunt omnes vertices montium:et muris circumdederunt vicos suos, et congregaverunt frumenta in praeparationem pugnae.	2020-04-18	Liber_Iudith
+1100000039	sacerdos etiam eliachim scripsit ad universos qui erant contra esdrelon, quae est contra faciem campi magni iuxta dothain, et universos per quos viae transitus esse poterat,ut obtinerent ascensus montium, per quos via esse poterat ad ierusalem, et illic custodirent ubi angustum iter esse poterat inter montes.	2020-04-18	Liber_Iudith
+1100000040	et fecerunt filii israel secundum quod constituerat eis sacerdos domini eliachim.	2020-04-18	Liber_Iudith
+1100000041	et clamavit omnis populus ad dominum instantia magna, et humiliaverunt animas suas in ieiuniis et orationibus, ipsi et mulieres eorum.	2020-04-18	Liber_Iudith
+1100000042	et induerunt se sacerdotes ciliciis, et infantes prostraverunt contra faciem templi domini, et altare domini operuerunt cilicio:et clamaverunt ad dominum deum israel unanimiter ne darentur in praedam infantes eorum, et uxores eorum in divisionem, et civitates eorum in exterminium, et sancta eorum in pollutionem, et fierent opprobrium gentibus.	2020-04-18	Liber_Iudith
+1100000043	tunc eliachim sacerdos domini magnus circuivit omnem israel, allocutusque est eos,dicens: scitote quoniam exaudiet dominus preces vestras, si manentes permanseritis in ieiuniis et orationibus in conspectu domini.	2020-04-18	Liber_Iudith
+1100000044	memores estote moysi servi domini, qui amalec confidentem in virtute sua, et in potentia sua, et in exercitu suo, et in clypeis suis, et in curribus suis, et in equitibus suis, non ferro pugnando, sed precibus sanctis orando deiecit:sic erunt universi hostes israel, si perseveraveritis in hoc opere quod coepistis.	2020-04-18	Liber_Iudith
+1100000045	ad hanc igitur exhortationem eius deprecantes dominum, permanebant in conspectu domini,ita ut etiam hi qui offerebant domino holocausta, praecincti ciliciis offerrent sacrificia domino, et erat cinis super capita eorum.	2020-04-18	Liber_Iudith
+1100000046	et ex toto corde suo omnes orabant deum, ut visitaret populum suum israel.	2020-04-18	Liber_Iudith
+1100000047	caput 5	2020-04-18	Liber_Iudith
+1100000048	nuntiatumque est holoferni principi militiae assyriorum, quod filii israel praepararent se ad resistendum, ac montium itinera conclusissent:et furore nimio exarsit in iracundia magna, vocavitque omnes principes moab et duces ammon,et dixit eis: dicite mihi quis sit populus iste, qui montana obsidet: aut quae, et quales, et quantae sint civitates eorum: quae etiam sit virtus eorum, aut quae sit multitudo eorum, vel quis rex militiae illorum:et quare prae omnibus qui habitant in oriente, isti contempserunt nos, et non exierunt obviam nobis ut susciperent nos cum pace?	2020-04-18	Liber_Iudith
+1100000049	tunc achior dux omnium filiorum ammon respondens, ait: si digneris audire, domine mi, dicam veritatem in conspectu tuo de populo isto qui in montanis habitat, et non egredietur verbum falsum ex ore meo.	2020-04-18	Liber_Iudith
+1100000050	populus iste ex progenie chaldaeorum est.	2020-04-18	Liber_Iudith
+1100000051	hic primum in mesopotamia habitavit, quoniam noluerunt sequi deos patrum suorum, qui erant in terra chaldaeorum.	2020-04-18	Liber_Iudith
+1100000052	deserentes itaque caeremonias patrum suorum, quae in multitudine deorum erant,unum deum caeli coluerunt, qui et praecepit eis ut exirent inde et habitarent in charan. 	2020-04-18	Liber_Iudith
+1100000053	cumque operuisset omnem terram fames, descenderunt in aegyptum, illicque per quadringentos annos sic multiplicati sunt, ut dinumerari eorum non posset exercitus.	2020-04-18	Liber_Iudith
+1100000054	cumque gravaret eos rex aegypti, atque in aedificationibus urbium suarum in luto et latere subiugasset eos, clamaverunt ad dominum suum, et percussit totam terram aegypti plagis variis.	2020-04-18	Liber_Iudith
+1100000055	cumque eiecissent eos aegyptii a se, et cessasset plaga ab eis, et iterum eos vellent capere, et ad suum servitium revocare,fugientibus his, deus caeli mare aperuit, ita ut hinc inde aquae quasi murus solidarentur, et isti pede sicco fundum maris perambulando transirent.	2020-04-18	Liber_Iudith
+1100000056	in quo loco dum innumerabilis exercitus aegyptiorum eos persequeretur, ita aquis coopertus est, ut non remaneret vel unus, qui factum posteris nuntiaret.	2020-04-18	Liber_Iudith
+1100000057	egressi vero mare rubrum, deserta sina montis occupaverunt, in quibus numquam homo habitare potuit, vel filius hominis requievit.	2020-04-18	Liber_Iudith
+1100000058	illic fontes amari obdulcati sunt eis ad bibendum, et per annos quadraginta annonam de caelo consecuti sunt.	2020-04-18	Liber_Iudith
+1100000059	ubicumque ingressi sunt sine arcu et sagitta, et absque scuto et gladio, deus eorum pugnavit pro eis, et vicit.	2020-04-18	Liber_Iudith
+1100000060	et non fuit qui insultaret populo isti, nisi quando recessit a cultu domini dei sui.	2020-04-18	Liber_Iudith
+1100000061	quotiescumque autem praeter ipsum deum suum, alterum coluerunt, dati sunt in praedam, et in gladium, et in opprobrium.	2020-04-18	Liber_Iudith
+1100000062	quotiescumque autem poenituerunt se recessisse a cultura dei sui, dedit eis deus caeli virtutem resistendi.	2020-04-18	Liber_Iudith
+1100000063	denique chananaeum regem, et iebusaeum, et pherezaeum, et hethaeum, et hevaeum, et amorrhaeum, et omnes potentes in hesebon prostraverunt, et terras eorum et civitates eorum ipsi possederunt:et usque dum non peccarent in conspectu dei sui, erant cum illis bona: deus enim illorum odit iniquitatem.	2020-04-18	Liber_Iudith
+1100000064	nam et ante hos annos cum recessissent a via quam dederat illis deus ut ambularent in ea, exterminati sunt praeliis a multis nationibus, et plurimi eorum captivi abducti sunt in terram non suam.	2020-04-18	Liber_Iudith
+1100000065	nuper autem reversi ad dominum deum suum, ex dispersione qua dispersi fuerant, adunati sunt, et ascenderunt montana haec omnia, et iterum possident ierusalem, ubi sunt sancta eorum.	2020-04-18	Liber_Iudith
+1100000066	nunc ergo mi domine, perquire si est aliqua iniquitas eorum in conspectu dei eorum: ascendamus ad illos, quoniam tradens tradet illos deus eorum tibi, et subiugati erunt sub iugo potentiae tuae.	2020-04-18	Liber_Iudith
+1100000067	si vero non est offensio populi huius coram deo suo, non poterimus resistere illis, quoniam deus eorum defendet illos: et erimus in opprobrium universae terrae.	2020-04-18	Liber_Iudith
+1100000068	et factum est, cum cessasset loqui achior verba haec, irati sunt omnes magnates holofernis, et cogitabant interficere eum, dicentes ad alterutrum:quis est iste, qui filios israel posse dicat resistere regi nabuchodonosor et exercitibus eius, homines inermes, et sine virtute, et sine peritia artis pugnae?	2020-04-18	Liber_Iudith
+1100000069	ut ergo agnoscat achior quoniam fallit nos, ascendamus in montana: et cum capti fuerint potentes eorum, tunc cum eisdem gladio transverberabitur:ut sciat omnis gens quoniam nabuchodonosor deus terrae est, et praeter ipsum alius non est.	2020-04-18	Liber_Iudith
+1100000070	caput 6	2020-04-18	Liber_Iudith
+1100000071	factum est autem cum cessassent loqui, indignatus holofernes vehementer, dixit ad achior:quoniam prophetasti nobis, dicens quod gens israel defendatur a deo suo, ut ostendam tibi quoniam non est deus nisi nabuchodonosor,cum percusserimus eos omnes, sicut hominem unum, tunc et ipse cum illis assyriorum gladio interibis, et omnis israel tecum perditione disperiet:et probabis quoniam nabuchodonosor dominus sit universae terrae: tuncque gladius militiae meae transiet per latera tua, et confixus cades inter vulneratos israel, et non respirabis ultra, donec extermineris cum illis.	2020-04-18	Liber_Iudith
+1100000072	porro autem si prophetiam tuam veram existimas, non concidat vultus tuus: et pallor qui faciem tuam obtinet abscedat a te, si verba mea haec putas impleri non posse.	2020-04-18	Liber_Iudith
+1100000073	ut autem noveris quia simul cum illis haec experieris, ecce ex hac hora illorum populo sociaberis, ut, dum dignas mei gladii poenas exceperint, ipse simul ultioni subiaceas.	2020-04-18	Liber_Iudith
+1100000074	tunc holofernes praecepit servis suis ut comprehenderent achior, et perducerent eum in bethuliam, et traderent eum in manus filiorum israel.	2020-04-18	Liber_Iudith
+1100000075	et accipientes eum servi holofernis, profecti sunt per campestria: sed cum appropinquassent ad montana, exierunt contra eos fundibularii.	2020-04-18	Liber_Iudith
+1100000076	illi autem divertentes a latere montis, ligaverunt achior ad arborem manibus et pedibus, et sic vinctum restibus dimiserunt eum, et reversi sunt ad dominum suum.	2020-04-18	Liber_Iudith
+1100000077	porro filii israel descendentes de bethulia, venerunt ad eum: quem solventes, duxerunt ad bethuliam, atque in medium populi illum statuentes, percunctati sunt quid rerum esset quod illum vinctum assyrii reliquissent.	2020-04-18	Liber_Iudith
+1100000078	in diebus illis erant illic principes ozias filius micha de tribu simeon, et charmi, qui et gothoniel.	2020-04-18	Liber_Iudith
+1100000079	in medio itaque seniorum, et in conspectu omnium, achior dixit omnia quae locutus ipse fuerat ab holoferne interrogatus: et qualiter populus holofernis voluisset propter hoc verbum interficere eum,et quemadmodum ipse holofernes iratus iusserit eum israelitis hac de causa tradi, ut dum vicerit filios israel, tunc et ipsum achior diversis iubeat interire suppliciis, propter hoc quod dixisset: deus caeli defensor eorum est.	2020-04-18	Liber_Iudith
+1100000080	cumque achior universa haec exposuisset, omnis populus cecidit in faciem, adorantes dominum, et communi lamentatione et fletu unanimes preces suas domino effuderunt,dicentes: domine deus caeli et terrae, intuere superbiam eorum, et respice ad nostram humilitatem, et faciem sanctorum tuorum attende, et ostende quoniam non derelinquis praesumentes de te: et praesumentes de se, et de sua virtute gloriantes, humilias.	2020-04-18	Liber_Iudith
+1100000081	finito itaque fletu, et per totam diem oratione populorum completa, consolati sunt achior,dicentes: deus patrum nostrorum, cuius tu virtutem praedicasti, ipse tibi hanc dabit vicissitudinem, ut eorum magis tu interitum videas.	2020-04-18	Liber_Iudith
+1100000082	cum vero dominus deus noster dederit hanc libertatem servis suis, sit et tecum deus in medio nostri: ut sicut placuerit tibi, ita cum tuis omnibus converseris nobiscum.	2020-04-18	Liber_Iudith
+1100000083	tunc ozias, finito consilio, suscepit eum in domum suam, et fecit ei coenam magnam.	2020-04-18	Liber_Iudith
+1100000084	et vocatis omnibus presbyteris, simul expleto ieiunio refecerunt.	2020-04-18	Liber_Iudith
+1100000085	postea vero convocatus est omnis populus, et per totam noctem intra ecclesiam oraverunt, petentes auxilium a deo israel.	2020-04-18	Liber_Iudith
+1100000086	caput 7	2020-04-18	Liber_Iudith
+1100000087	holofernes autem altera die praecepit exercitibus suis ut ascenderent contra bethuliam.	2020-04-18	Liber_Iudith
+1100000088	erant autem pedites bellatorum centum viginti millia, et equites viginti duo millia, praeter praeparationes virorum illorum quos occupaverat captivitas, et abducti fuerant de provinciis et urbibus universae iuventutis.	2020-04-18	Liber_Iudith
+1100000089	omnes paraverunt se pariter ad pugnam contra filios israel, et venerunt per crepidinem montis usque ad apicem, qui respicit super dothain, a loco qui dicitur belma usque ad chelmon, qui est contra esdrelon.	2020-04-18	Liber_Iudith
+1100000090	filii autem israel, ut viderunt multitudinem illorum, prostraverunt se super terram, mittentes cinerem super capita sua, unanimes orantes ut deus israel misericordiam suam ostenderet super populum suum.	2020-04-18	Liber_Iudith
+1100000091	et assumentes arma sua bellica, sederunt per loca quae ad angusti itineris tramitem dirigunt inter montosa, et erant custodientes ea tota die et nocte.	2020-04-18	Liber_Iudith
+1100000092	porro holofernes, dum circuit per gyrum, reperit quod fons qui influebat, aquaeductum illorum a parte australi extra civitatem dirigeret: et incidi praecepit aquaeductum illorum.	2020-04-18	Liber_Iudith
+1100000093	erant tamen non longe a muris fontes, ex quibus furtim videbantur haurire aquam ad refocillandum potius quam ad potandum.	2020-04-18	Liber_Iudith
+1100000094	sed filii ammon et moab accesserunt ad holofernem, dicentes: filii israel non in lancea nec in sagitta confidunt, sed montes defendunt illos, et muniunt illos colles in praecipitio constituti.	2020-04-18	Liber_Iudith
+1100000095	ut ergo sine congressione pugnae possis superare eos, pone custodes fontium, ut non hauriant aquam ex eis, et sine gladio interficies eos, vel certe fatigati tradent civitatem suam, quam putant in montibus positam superari non posse.	2020-04-18	Liber_Iudith
+1100000096	et placuerunt verba haec coram holoferne et coram satellitibus eius, et constituit per gyrum centenarios per singulos fontes.	2020-04-18	Liber_Iudith
+1100000097	cumque ista custodia per dies viginti fuisset expleta, defecerunt cisternae et collectiones aquarum omnibus habitantibus bethuliam, ita ut non esset intra civitatem unde satiarentur vel una die, quoniam ad mensuram dabatur populis aqua quotidie.	2020-04-18	Liber_Iudith
+1100000098	tunc ad oziam congregati omnes viri feminaeque, iuvenes et parvuli, omnes simul una vocedixerunt: iudicet deus inter nos et te, quoniam fecisti in nos mala, nolens loqui pacifice cum assyriis, et propter hoc vendidit nos deus in manibus eorum.	2020-04-18	Liber_Iudith
+1100000099	et ideo non est qui adiuvet, cum prosternamur ante oculos eorum in siti, et perditione magna.	2020-04-18	Liber_Iudith
+1100000100	et nunc congregate universos qui in civitate sunt, ut sponte tradamus nos omnes populo holofernis.	2020-04-18	Liber_Iudith
+1100000101	melius est enim ut captivi benedicamus dominum viventes, quam moriamur, et simus opprobrium omni carni, cum viderimus uxores nostras et infantes nostros mori ante oculos nostros.	2020-04-18	Liber_Iudith
+1100000102	contestamur hodie caelum et terram, et deum patrum nostrorum, qui ulciscitur nos secundum peccata nostra, ut iam tradatis civitatem in manu militiae holofernis, et sit finis noster brevis in ore gladii, qui longior efficitur in ariditate sitis.	2020-04-18	Liber_Iudith
+1100000103	et cum haec dixissent, factus est fletus et ululatus magnus in ecclesia ab omnibus, et per multas horas una voce clamaverunt ad deum, dicentes:peccavimus cum patribus nostris: iniuste egimus, iniquitatem fecimus.	2020-04-18	Liber_Iudith
+1100000104	tu, quia pius es, miserere nostri, aut in tuo flagello vindica iniquitates nostras, et noli tradere confitentes te populo qui ignorat te,ut non dicant inter gentes: ubi est deus eorum?	2020-04-18	Liber_Iudith
+1100000105	et cum fatigati ex his clamoribus et his fletibus lassati siluissent,exsurgens ozias infusus lacrimis, dixit: aequo animo estote, fratres, et hos quinque dies expectemus a domino misericordiam.	2020-04-18	Liber_Iudith
+1100000106	forsitan enim indignationem suam abscindet, et dabit gloriam nomini suo.	2020-04-18	Liber_Iudith
+1100000107	si autem transactis quinque diebus non venerit adiutorium, faciemus haec verba quae locuti estis.	2020-04-18	Liber_Iudith
+1100000108	caput 8	2020-04-18	Liber_Iudith
+1100000109	et factum est cum audisset haec verba iudith vidua, quae erat filia merari filii idox filii ioseph filii oziae filii elai filii iamnor filii gedeon filii raphaim filii achitob filii melchiae filii enan filii nathaniae filii salathiel filii simeon filii ruben,et vir eius fuit manasses, qui mortuus est in diebus messis hordeaceae:instabat enim super alligantes manipulos in campo, et venit aestus super caput eius, et mortuus est in bethulia civitate sua, et sepultus est illic cum patribus suis.	2020-04-18	Liber_Iudith
+1100000110	erat autem iudith relicta eius vidua iam annis tribus et mensibus sex.	2020-04-18	Liber_Iudith
+1100000111	et in superioribus domus suae fecit sibi secretum cubiculum, in quo cum puellis suis clausa morabatur,et habens super lumbos suos cilicium, ieiunabat omnibus diebus vitae suae, praeter sabbata et neomenias et festa domus israel.	2020-04-18	Liber_Iudith
+1100000112	erat autem eleganti aspectu nimis, cui vir suus reliquerat divitias multas, et familiam copiosam, ac possessiones armentis boum, et gregibus ovium plenas.	2020-04-18	Liber_Iudith
+1100000113	et erat haec in omnibus famosissima, quoniam timebat dominum valde, nec erat qui loqueretur de illa verbum malum.	2020-04-18	Liber_Iudith
+1100000114	haec itaque cum audisset quoniam ozias promisisset quod transacto quinto die traderet civitatem, misit ad presbyteros chabri et charmi.	2020-04-18	Liber_Iudith
+1100000115	et venerunt ad illam, et dixit illis: quod est hoc verbum, in quo consensit ozias, ut tradat civitatem assyriis si intra quinque dies non venerit vobis adiutorium?	2020-04-18	Liber_Iudith
+1100000116	et qui estis vos, qui tentatis dominum?	2020-04-18	Liber_Iudith
+1100000117	non est iste sermo qui misericordiam provocet, sed potius qui iram excitet, et furorem accendat.	2020-04-18	Liber_Iudith
+1100000118	posuistis vos tempus miserationis domini, et in arbitrium vestrum, diem constituistis ei.	2020-04-18	Liber_Iudith
+1100000119	sed quia patiens dominus est, in hoc ipso poeniteamus, et indulgentiam eius fusis lacrimis postulemus:non enim quasi homo sic deus comminabitur, neque sicut filius hominis ad iracundiam inflammabitur.	2020-04-18	Liber_Iudith
+1100000120	et ideo humiliemus illi animas nostras, et in spiritu constituti humiliato, servientes illidicamus flentes domino, ut secundum voluntatem suam sic faciat nobiscum misericordiam suam: ut sicut conturbatum est cor nostrum in superbia eorum, ita etiam de nostra humilitate gloriemur:quoniam non sumus secuti peccata patrum nostrorum, qui dereliquerunt deum suum, et adoraverunt deos alienos,pro quo scelere dati sunt in gladium, et in rapinam, et in confusionem inimicis suis: nos autem alterum deum nescimus praeter ipsum.	2020-04-18	Liber_Iudith
+1100000121	expectemus humiles consolationem eius, et exquiret sanguinem nostrum de afflictionibus inimicorum nostrorum, et humiliabit omnes gentes, quaecumque insurgunt contra nos, et faciet illas sine honore dominus deus noster.	2020-04-18	Liber_Iudith
+1100000122	et nunc fratres, quoniam vos estis presbyteri in populo dei, et ex vobis pendet anima illorum, ad eloquium vestrum corda eorum erigite, ut memores sint quia tentati sunt patres nostri, ut probarentur si vere colerent deum suum.	2020-04-18	Liber_Iudith
+1100000123	memores esse debent quomodo pater noster abraham tentatus est, et per multas tribulationes probatus, dei amicus effectus est.	2020-04-18	Liber_Iudith
+1100000124	sic isaac, sic iacob, sic moyses, et omnes qui placuerunt deo, per multas tribulationes transierunt fideles.	2020-04-18	Liber_Iudith
+1100000125	illi autem qui tentationes non susceperunt cum timore domini, et impatientiam suam et improperium murmurationis suae contra dominum protulerunt,exterminati sunt ab exterminatore, et a serpentibus perierunt.	2020-04-18	Liber_Iudith
+1100000126	et nos ergo non ulciscamur nos pro his quae patimur,sed reputantes peccatis nostris haec ipsa supplicia minora esse flagella domini, quibus quasi servi corripimur ad emendationem, et non ad perditionem nostram evenisse credamus.	2020-04-18	Liber_Iudith
+1100000127	et dixerunt illi ozias et presbyteri: omnia quae locuta es, vera sunt, et non est in sermonibus tuis ulla reprehensio.	2020-04-18	Liber_Iudith
+1100000128	nunc ergo ora pro nobis, quoniam mulier sancta es, et timens deum.	2020-04-18	Liber_Iudith
+1100000129	et dixit illis iudith: sicut quod potui loqui, dei esse cognoscitis,ita quod facere disposui, probate si ex deo est, et orate ut firmum faciat deus consilium meum.	2020-04-18	Liber_Iudith
+1100000130	stabitis vos ad portam nocte ista, et ego exeam cum abra mea: et orate, ut sicut dixistis, in diebus quinque respiciat dominus populum suum israel.	2020-04-18	Liber_Iudith
+1100000131	vos autem nolo ut scrutemini actum meum, et usque dum renuntiem vobis, nihil aliud fiat, nisi oratio pro me ad dominum deum nostrum.	2020-04-18	Liber_Iudith
+1100000132	et dixit ad eam ozias princeps iuda: vade in pace, et dominus sit tecum in ultionem inimicorum nostrorum. 	2020-04-18	Liber_Iudith
+1100000133	et revertentes abierunt.	2020-04-18	Liber_Iudith
+1100000134	caput 9	2020-04-18	Liber_Iudith
+1100000135	quibus ascendentibus, iudith ingressa est oratorium suum: et induens se cilicio, posuit cinerem super caput suum: et prosternens se domino, clamabat ad dominum, dicens:domine deus patris mei simeon, qui dedisti illi gladium in defensionem alienigenarum, qui violatores extiterunt in coinquinatione sua, et denudaverunt femur virginis in confusionem:et dedisti mulieres illorum in praedam, et filias illorum in captivitatem: et omnem praedam in divisionem servis tuis, qui zelaverunt zelum tuum: subveni, quaeso te, domine deus meus, mihi viduae.	2020-04-18	Liber_Iudith
+1100000136	tu enim fecisti priora, et illa post illa cogitasti: et hoc factum est quod ipse voluisti.	2020-04-18	Liber_Iudith
+1100000137	omnes enim viae tuae paratae sunt, et tua iudicia in tua providentia posuisti.	2020-04-18	Liber_Iudith
+1100000138	respice castra assyriorum nunc, sicut tunc castra aegyptiorum videre dignatus es, quando post servos tuos armati currebant, confidentes in quadrigis, et in equitatu suo, et in multitudine bellatorum.	2020-04-18	Liber_Iudith
+1100000139	sed aspexisti super castra eorum, et tenebrae fatigaverunt eos.	2020-04-18	Liber_Iudith
+1100000140	tenuit pedes eorum abyssus, et aquae operuerunt eos.	2020-04-18	Liber_Iudith
+1100000141	sic fiant et isti, domine, qui confidunt in multitudine sua, et in curribus suis, et in contis, et in scutis, et in sagittis suis, et in lanceis gloriantur,et nesciunt quia tu ipse es deus noster, qui conteris bella ab initio, et dominus nomen est tibi.	2020-04-18	Liber_Iudith
+1100000142	erige brachium tuum sicut ab initio, et allide virtutem illorum in virtute tua: cadat virtus eorum in iracundia tua, qui promittunt se violare sancta tua, et polluere tabernaculum nominis tui, et deiicere gladio suo cornu altaris tui.	2020-04-18	Liber_Iudith
+1100000143	fac, domine, ut gladio proprio eius superbia amputetur:capiatur laqueo oculorum suorum in me, et percuties eum ex labiis caritatis meae.	2020-04-18	Liber_Iudith
+1100000144	da mihi in animo constantiam ut contemnam illum, et virtutem, ut evertam illum.	2020-04-18	Liber_Iudith
+1100000145	erit enim hoc memoriale nominis tui, cum manus feminae deiecerit eum.	2020-04-18	Liber_Iudith
+1100000146	non enim in multitudine est virtus tua, domine, neque in equorum viribus voluntas tua est, nec superbi ab initio placuerunt tibi: sed humilium et mansuetorum semper tibi placuit deprecatio.	2020-04-18	Liber_Iudith
+1100000147	deus caelorum, creator aquarum, et dominus totius creaturae, exaudi me miseram deprecantem, et de tua misericordia praesumentem.	2020-04-18	Liber_Iudith
+1100000148	memento, domine, testamenti tui, et da verbum in ore meo, et in corde meo consilium corrobora, ut domus tua in sanctificatione tua permaneat:et omnes gentes agnoscant quia tu es deus, et non est alius praeter te.	2020-04-18	Liber_Iudith
+1100000149	caput 10	2020-04-18	Liber_Iudith
+1100000150	factum est autem, cum cessasset clamare ad dominum, surrexit de loco in quo iacuerat prostrata ad dominum.	2020-04-18	Liber_Iudith
+1100000151	vocavitque abram suam, et descendens in domum suam, abstulit a se cilicium, et exuit se vestimentis viduitatis suae,et lavit corpus suum, et unxit se myro optimo, et discriminavit crinem capitis sui, et imposuit mitram super caput suum, et induit se vestimentis iucunditatis suae, induitque sandalia pedibus suis, assumpsitque dextraliola, et lilia, et inaures, et annulos, et omnibus ornamentis suis ornavit se.	2020-04-18	Liber_Iudith
+1100000152	cui etiam dominus contulit splendorem: quoniam omnis ista compositio non ex libidine, sed ex virtute pendebat: et ideo dominus hanc in illam pulchritudinem ampliavit, ut incomparabili decore omnium oculis appareret.	2020-04-18	Liber_Iudith
+1100000153	imposuit itaque abrae suae ascoperam vini, et vas olei, et polentam, et palathas, et panes, et caseum, et profecta est.	2020-04-18	Liber_Iudith
+1100000154	cumque venissent ad portam civitatis, invenerunt expectantem oziam et presbyteros civitatis.	2020-04-18	Liber_Iudith
+1100000155	qui cum vidissent eam, stupentes mirati sunt nimis pulchritudinem eius.	2020-04-18	Liber_Iudith
+1100000156	nihil tamen interrogantes eam, dimiserunt transire, dicentes: deus patrum nostrorum det tibi gratiam, et omne consilium tui cordis sua virtute corroboret, ut glorietur super te ierusalem, et sit nomen tuum in numero sanctorum et iustorum.	2020-04-18	Liber_Iudith
+1100000157	et dixerunt hi qui illic erant omnes una voce: fiat, fiat.	2020-04-18	Liber_Iudith
+1100000158	iudith vero orans dominum, transivit per portas, ipsa et abra eius.	2020-04-18	Liber_Iudith
+1100000159	factum est autem cum descenderet montem, circa ortum diei, occurrerunt ei exploratores assyriorum, et tenuerunt eam, dicentes: unde venis? 	2020-04-18	Liber_Iudith
+1100000160	aut quo vadis?	2020-04-18	Liber_Iudith
+1100000161	quae respondit: filia sum hebraeorum, ideo ego fugi a facie eorum, quoniam futurum agnovi quod dentur vobis in depraedationem, pro eo quod contemnentes vos, noluerunt ultro tradere seipsos ut invenirent misericordiam in conspectu vestro.	2020-04-18	Liber_Iudith
+1100000162	hac de causa cogitavi mecum, dicens: vadam ad faciem principis holofernis, ut indicem illi secreta illorum, et ostendam illi quo aditu possit obtinere eos, ita ut non cadat vir unus de exercitu eius.	2020-04-18	Liber_Iudith
+1100000163	et cum audissent viri illi verba eius, considerabant faciem eius, et erat in oculis eorum stupor, quoniam pulchritudinem eius mirabantur nimis.	2020-04-18	Liber_Iudith
+1100000164	et dixerunt ad eam: conservasti animam tuam, eo quod tale reperisti consilium, ut descenderes ad dominum nostrum.	2020-04-18	Liber_Iudith
+1100000165	hoc autem scias, quoniam cum steteris in conspectu eius, bene tibi faciet, et eris gratissima in corde eius. 	2020-04-18	Liber_Iudith
+1100000166	duxeruntque illam ad tabernaculum holofernis, annuntiantes eam.	2020-04-18	Liber_Iudith
+1100000167	cumque intrasset ante faciem eius, statim captus est in suis oculis holofernes.	2020-04-18	Liber_Iudith
+1100000168	dixeruntque ad eum satellites eius: quis contemnat populum hebraeorum, qui tam decoras mulieres habent, ut non pro his merito pugnare contra eos debeamus?	2020-04-18	Liber_Iudith
+1100000169	videns itaque iudith holofernem sedentem in conopeo, quod erat ex purpura, et auro, et smaragdo, et lapidibus pretiosis intextum,et cum in faciem eius intendisset, adoravit eum, prosternens se super terram. 	2020-04-18	Liber_Iudith
+1100000170	et elevaverunt eam servi holofernis, iubente domino suo.	2020-04-18	Liber_Iudith
+1100000171	caput 11	2020-04-18	Liber_Iudith
+1100000172	tunc holofernes dixit ei: aequo animo esto, et noli pavere in corde tuo: quoniam ego numquam nocui viro qui voluit servire nabuchodonosor regi:populus autem tuus, si non contempsisset me, non levassem lanceam meam super eum.	2020-04-18	Liber_Iudith
+1100000173	nunc autem dic mihi, qua ex causa recessisti ab illis, et placuit tibi ut venires ad nos?	2020-04-18	Liber_Iudith
+1100000174	et dixit illi iudith: sume verba ancillae tuae, quoniam si secutus fueris verba ancillae tuae, perfectam rem faciet dominus tecum.	2020-04-18	Liber_Iudith
+1100000175	vivit enim nabuchodonosor rex terrae, et vivit virtus eius, quae est in te ad correptionem omnium animarum errantium: quoniam non solum homines serviunt illi per te, sed et bestiae agri obtemperant illi.	2020-04-18	Liber_Iudith
+1100000176	nuntiatur enim animi tui industria universis gentibus, et indicatum est omni saeculo quoniam tu solus bonus et potens es in omni regno eius: et disciplina tua omnibus provinciis praedicatur.	2020-04-18	Liber_Iudith
+1100000177	nec hoc latet, quod locutus est achior, nec illud ignoratur, quod ei iusseris evenire.	2020-04-18	Liber_Iudith
+1100000178	constat enim deum nostrum sic peccatis offensum, ut mandaverit per prophetas suos ad populum quod tradat eum pro peccatis suis.	2020-04-18	Liber_Iudith
+1100000179	et quoniam sciunt se offendisse deum suum filii israel, tremor tuus super ipsos est.	2020-04-18	Liber_Iudith
+1100000180	insuper etiam fames invasit eos, et ab ariditate aquae iam inter mortuos computantur.	2020-04-18	Liber_Iudith
+1100000181	denique hoc ordinant, ut interficient pecora sua, et bibant sanguinem eorum:et sancta domini dei sui, quae praecepit deus non contingi, in frumento, vino, et oleo, haec cogitaverunt impendere, et volunt consumere quae nec manibus deberent contingere: ergo quoniam haec faciunt, certum est quod in perditionem dabuntur.	2020-04-18	Liber_Iudith
+1100000182	quod ego ancilla tua cognoscens, fugi ab illis, et misit me dominus haec ipsa nuntiare tibi.	2020-04-18	Liber_Iudith
+1100000183	ego enim ancilla tua deum colo, etiam nunc apud te: et exiet ancilla tua, et orabo deum,et dicet mihi quando eis reddat peccatum suum, et veniens nuntiabo tibi, ita ut ego adducam te per mediam ierusalem, et habebis omnem populum israel, sicut oves quibus non est pastor, et non latrabit vel unus canis contra te:quoniam haec mihi dicta sunt per providentiam dei,et quoniam iratus est illis deus, haec ipsa missa sum nuntiare tibi.	2020-04-18	Liber_Iudith
+1100000184	placuerunt autem omnia verba haec coram holoferne, et coram pueris eius, et mirabantur sapientiam eius, et dicebant alter ad alterum:non est talis mulier super terram in aspectu, in pulchritudine, et in sensu verborum.	2020-04-18	Liber_Iudith
+1100000185	et dixit ad illam holofernes: benefecit deus, qui misit te ante populum, ut des illum tu in manibus nostris:et quoniam bona est promissio tua, si fecerit mihi hoc deus tuus, erit et deus meus, et tu in domo nabuchodonosor magna eris, et nomen tuum nominabitur in universa terra.	2020-04-18	Liber_Iudith
+1100000186	caput 12	2020-04-18	Liber_Iudith
+1100000187	tunc iussit eam introire ubi repositi erant thesauri eius, et iussit illic manere eam, et constituit quid daretur illi de convivio suo.	2020-04-18	Liber_Iudith
+1100000188	cui respondit iudith, et dixit: nunc non potero manducare ex his quae mihi praecipis tribui, ne veniat super me offensio: ex his autem quae mihi detuli, manducabo.	2020-04-18	Liber_Iudith
+1100000189	cui holofernes ait: si defecerint tibi ista, quae tecum detulisti, quid faciemus tibi?	2020-04-18	Liber_Iudith
+1100000190	et dixit iudith: vivit anima tua, domine meus, quoniam non expendet omnia haec ancilla tua, donec faciat deus in manu mea haec quae cogitavi. 	2020-04-18	Liber_Iudith
+1100000191	et induxerunt illam servi eius in tabernaculum quod praeceperat.	2020-04-18	Liber_Iudith
+1100000192	et petiit dum introiret, ut daretur ei copia nocte et ante lucem egrediendi foras ad orationem, et deprecandi dominum.	2020-04-18	Liber_Iudith
+1100000193	et praecepit cubiculariis suis ut sicut placeret illi, exiret et introiret ad adorandum deum suum per triduum:et exibat noctibus in vallem bethuliae, et baptizabat se in fonte aquae.	2020-04-18	Liber_Iudith
+1100000194	et ut ascendebat, orabat dominum deum israel ut dirigeret viam eius ad liberationem populi sui.	2020-04-18	Liber_Iudith
+1100000195	et introiens, munda manebat in tabernaculo usque dum acciperet escam suam in vespere.	2020-04-18	Liber_Iudith
+1100000196	et factum est, in quarto die holofernes fecit coenam servis suis, et dixit ad vagao eunuchum suum: vade, et suade hebraeam illam ut sponte consentiat habitare mecum.	2020-04-18	Liber_Iudith
+1100000197	foedum est enim apud assyrios, si femina irrideat virum agendo ut immunis ab eo transeat.	2020-04-18	Liber_Iudith
+1100000198	tunc introivit vagao ad iudith, et dixit: non vereatur bona puella introire ad dominum meum, ut honorificetur ante faciem eius, ut manducet cum eo, et bibat vinum in iucunditate.	2020-04-18	Liber_Iudith
+1100000199	cui iudith respondit: quae ego sum, ut contradicam domino meo?	2020-04-18	Liber_Iudith
+1100000200	omne quod erit ante oculos eius bonum et optimum, faciam. 	2020-04-18	Liber_Iudith
+1100000201	quidquid autem illi placuerit, hoc mihi erit optimum omnibus diebus vitae meae.	2020-04-18	Liber_Iudith
+1100000202	et surrexit, et ornavit se vestimento suo, et ingressa stetit ante faciem eius.	2020-04-18	Liber_Iudith
+1100000203	cor autem holofernes concussum est: erat enim ardens in concupiscentia eius.	2020-04-18	Liber_Iudith
+1100000204	et dixit ad eam holofernes: bibe nunc, et accumbe in iucunditate, quoniam invenisti gratiam coram me.	2020-04-18	Liber_Iudith
+1100000205	et dixit iudith: bibam, domine, quoniam magnificata est anima mea hodie prae omnibus diebus meis.	2020-04-18	Liber_Iudith
+1100000206	et accepit, et manducavit et bibit coram ipso ea quae paraverat illi ancilla eius.	2020-04-18	Liber_Iudith
+1100000207	et iucundus factus est holofernes ad eam, bibitque vinum multum nimis, quantum numquam biberat in vita sua.	2020-04-18	Liber_Iudith
+1100000208	caput 13	2020-04-18	Liber_Iudith
+1100000209	ut autem sero factum est, festinaverunt servi illius ad hospitia sua, et conclusit vagao ostia cubiculi, et abiit.	2020-04-18	Liber_Iudith
+1100000210	erant autem omnes fatigati a vino,eratque iudith sola in cubiculo.	2020-04-18	Liber_Iudith
+1100000211	porro holofernes iacebat in lecto, nimia ebrietate sopitus.	2020-04-18	Liber_Iudith
+1100000212	dixitque iudith puellae suae ut staret foris ante cubiculum, et observaret.	2020-04-18	Liber_Iudith
+1100000213	stetitque iudith ante lectum, orans cum lacrimis, et labiorum motu in silentio,dicens: confirma me, domine deus israel, et respice in hac hora ad opera manuum mearum, ut, sicut promisisti, ierusalem civitatem tuam erigas: et hoc quod credens per te posse fieri cogitavi, perficiam.	2020-04-18	Liber_Iudith
+1100000214	et cum haec dixisset, accessit ad columnam quae erat ad caput lectuli eius, et pugionem eius, qui in ea ligatus pendebat, exsolvit.	2020-04-18	Liber_Iudith
+1100000215	cumque evaginasset illum, apprehendit comam capitis eius, et ait: confirma me, domine deus, in hac hora.	2020-04-18	Liber_Iudith
+1100000216	et percussit bis in cervicem eius, et abscidit caput eius, et abstulit conopeum eius a columnis, et evolvit corpus eius truncum.	2020-04-18	Liber_Iudith
+1100000217	et post pusillum exivit, et tradidit caput holofernis ancillae suae, et iussit ut mitteret illud in peram suam.	2020-04-18	Liber_Iudith
+1100000218	et exierunt duae, secundum consuetudinem suam, quasi ad orationem, et transierunt castra, et gyrantes vallem, venerunt ad portam civitatis.	2020-04-18	Liber_Iudith
+1100000219	et dixit iudith a longe custodibus murorum: aperite portas, quoniam nobiscum est deus, qui fecit virtutem in israel.	2020-04-18	Liber_Iudith
+1100000220	et factum est cum audissent viri vocem eius, vocaverunt presbyteros civitatis.	2020-04-18	Liber_Iudith
+1100000221	et concurrerunt ad eam omnes, a minimo usque ad maximum: quoniam sperabant eam iam non esse venturam.	2020-04-18	Liber_Iudith
+1100000222	et accendentes luminaria, congyraverunt circa eam universi: illa autem ascendens in eminentiorem locum, iussit fieri silentium. 	2020-04-18	Liber_Iudith
+1100000223	cumque omnes tacuissent,dixit iudith: laudate dominum deum nostrum, qui non deseruit sperantes in se,et in me ancilla sua adimplevit misericordiam suam, quam promisit domui israel: et interfecit in manu mea hostem populi sui hac nocte.	2020-04-18	Liber_Iudith
+1100000224	et proferens de pera caput holofernis, ostendit illis, dicens: ecce caput holofernis principis militiae assyriorum, et ecce conopeum illius, in quo recumbebat in ebrietate sua, ubi per manum feminae percussit illum dominus deus noster.	2020-04-18	Liber_Iudith
+1100000225	vivit autem ipse dominus, quoniam custodivit me angelus eius et hinc euntem, et ibi commorantem, et inde huc revertentem, et non permisit me dominus ancillam suam coinquinari, sed sine pollutione peccati revocavit me vobis gaudentem in victoria sua, in evasione mea, et in liberatione vestra.	2020-04-18	Liber_Iudith
+1100000226	confitemini illi omnes, quoniam bonus, quoniam in saeculum misericordia eius.	2020-04-18	Liber_Iudith
+1100000227	universi autem adorantes dominum, dixerunt ad eam: benedixit te dominus in virtute sua, quia per te ad nihilum redegit inimicos nostros.	2020-04-18	Liber_Iudith
+1100000228	porro ozias princeps populi israel dixit ad eam: benedicta es tu, filia, a domino deo excelso prae omnibus mulieribus super terram.	2020-04-18	Liber_Iudith
+1100000229	benedictus dominus, qui creavit caelum et terram, qui te direxit in vulnera capitis principis inimicorum nostrorum:quia hodie nomen tuum ita magnificavit, ut non recedat laus tua de ore hominum qui memores fuerint virtutis domini in aeternum, pro quibus non pepercisti animae tuae propter angustias et tribulationem generis tui, sed subvenisti ruinae ante conspectum dei nostri.	2020-04-18	Liber_Iudith
+1100000230	et dixit omnis populus: fiat, fiat.	2020-04-18	Liber_Iudith
+1100000231	porro achior vocatus venit, et dixit ei iudith: deus israel, cui tu testimonium dedisti quod ulciscatur se de inimicis suis, ipse caput omnium incredulorum incidit hac nocte in manu mea.	2020-04-18	Liber_Iudith
+1100000232	et ut probes quia ita est, ecce caput holofernis, qui in contemptu superbiae suae deum israel contempsit, et tibi interitum minabatur, dicens: cum captus fuerit populus israel, gladio perforari praecipiam latera tua.	2020-04-18	Liber_Iudith
+1100000233	videns autem achior caput holofernis, angustiatus prae pavore cecidit in faciem suam super terram, et aestuavit anima eius.	2020-04-18	Liber_Iudith
+1100000234	postea vero quam resumpto spiritu recreatus est, procidit ad pedes eius, et adoravit eam, et dixit:benedicta tu a deo tuo in omni tabernaculo iacob, quoniam in omni gente quae audierit nomen tuum, magnificabitur super te deus israel.	2020-04-18	Liber_Iudith
+1100000235	caput 14	2020-04-18	Liber_Iudith
+1100000236	dixit autem iudith ad omnem populum: audite me, fratres: suspendite caput hoc super muros nostros:et erit, cum exierit sol, accipiat unusquisque arma sua, et exite cum impetu, non ut descendatis deorsum, sed quasi impetum facientes.	2020-04-18	Liber_Iudith
+1100000237	tunc exploratores necesse erit ut fugiant ad principem suum excitandum ad pugnam.	2020-04-18	Liber_Iudith
+1100000238	cumque duces eorum cucurrerint ad tabernaculum holofernis, et invenerint eum truncum in suo sanguine volutatum, decidet super eos timor.	2020-04-18	Liber_Iudith
+1100000239	cumque cognoveritis fugere eos, ite post illos securi, quoniam dominus conteret eos sub pedibus vestris.	2020-04-18	Liber_Iudith
+1100000240	tunc achior, videns virtutem quam fecit deus israel, relicto gentilitatis ritu, credidit deo, et circumcidit carnem praeputii sui, et appositus est ad populum israel, et omnis successio generis eius usque in hodiernum diem.	2020-04-18	Liber_Iudith
+1100000241	mox autem ut ortus est dies, suspenderunt super muros caput holofernis, accepitque unusquisque vir arma sua, et egressi sunt cum grandi strepitu et ululatu.	2020-04-18	Liber_Iudith
+1100000242	quod videntes exploratores, ad tabernaculum holofernis cucurrerunt.	2020-04-18	Liber_Iudith
+1100000243	porro hi qui in tabernaculo erant, venientes, et ante ingressum cubiculi perstrepentes, excitandi gratia, inquietudinem arte moliebantur, ut non ab excitantibus, sed a sonantibus holofernes evigilaret.	2020-04-18	Liber_Iudith
+1100000244	nullus enim audebat cubiculum virtutis assyriorum pulsando aut intrando aperire.	2020-04-18	Liber_Iudith
+1100000245	sed cum venissent eius duces ac tribuni, et universi maiores exercitus regis assyriorum, dixerunt cubiculariis:intrate, et excitate illum, quoniam egressi mures de cavernis suis, ausi sunt provocare nos ad praelium.	2020-04-18	Liber_Iudith
+1100000246	tunc ingressus vagao cubiculum eius, stetit ante cortinam, et plausum fecit manibus suis: suspicabatur enim illum cum iudith dormire.	2020-04-18	Liber_Iudith
+1100000247	sed cum nullum motum iacentis sensu aurium caperet, accessit proximans ad cortinam, et elevans eam, vidensque cadaver absque capite holofernis in suo sanguine tabefactum iacere super terram, exclamavit voce magna cum fletu, et scidit vestimenta sua.	2020-04-18	Liber_Iudith
+1100000248	et ingressus tabernaculum iudith, non invenit eam, et exiliit foras ad populum,et dixit: una mulier hebraea fecit confusionem in domo regis nabuchodonosor: ecce enim holofernes iacet in terra, et caput eius non est in illo.	2020-04-18	Liber_Iudith
+1100000249	quod cum audissent principes virtutis assyriorum, sciderunt omnes vestimenta sua, et intolerabilis timor et tremor cecidit super eos, et turbati sunt animi eorum valde.	2020-04-18	Liber_Iudith
+1100000250	et factus est clamor incomparabilis in medio castrorum eorum.	2020-04-18	Liber_Iudith
+1100000251	caput 15	2020-04-18	Liber_Iudith
+1100000252	cumque omnis exercitus decollatum holofernem audisset, fugit mens et consilium ab eis, et solo tremore et metu agitati, fugae praesidium sumunt,ita ut nullus loqueretur cum proximo suo, sed inclinato capite, relictis omnibus, evadere festinabant hebraeos, quos armatos super se venire audiebant, fugientes per vias camporum et semitas collium.	2020-04-18	Liber_Iudith
+1100000253	videntes itaque filii israel fugientes, secuti sunt illos. 	2020-04-18	Liber_Iudith
+1100000254	descenderuntque clangentes tubis, et ululantes post ipsos.	2020-04-18	Liber_Iudith
+1100000255	et quoniam assyrii non adunati, in fugam ibant praecipites: filii autem israel uno agmine persequentes debilitabant omnes quos invenire potuissent.	2020-04-18	Liber_Iudith
+1100000256	misit itaque ozias nuntios per omnes civitates et regiones israel.	2020-04-18	Liber_Iudith
+1100000257	omnis itaque regio, omnisque urbs electam iuventutem armatam misit post eos, et persecuti sunt eos in ore gladii, quousque pervenirent ad extremitatem finium suorum.	2020-04-18	Liber_Iudith
+1100000258	reliqui autem qui erant in bethulia, ingressi sunt castra assyriorum, et praedam quam fugientes assyrii reliquerant, abstulerunt, et onustati sunt valde.	2020-04-18	Liber_Iudith
+1100000259	hi vero qui victores reversi sunt ad bethuliam, omnia quae erant illorum attulerunt secum, ita ut non esset numerus in pecoribus et iumentis et universis mobilibus eorum, ut a minimo usque ad maximum omnes divites fierent de praedationibus eorum.	2020-04-18	Liber_Iudith
+1100000260	ioacim autem summus pontifex de ierusalem venit in bethuliam cum universis presbyteris suis ut videret iudith.	2020-04-18	Liber_Iudith
+1100000261	quae cum exisset ad illum, benedixerunt eam omnes una voce, dicentes: tu gloria ierusalem; tu laetitia israel; tu honorificentia populi nostri:quia fecisti viriliter, et confortatum est cor tuum, eo quod castitatem amaveris, et post virum tuum, alterum nescieris: ideo et manus domini confortavit te, et ideo eris benedicta in aeternum.	2020-04-18	Liber_Iudith
+1100000262	et dixit omnis populus: fiat, fiat.	2020-04-18	Liber_Iudith
+1100000263	per dies autem triginta, vix collecta sunt spolia assyriorum a populo israel.	2020-04-18	Liber_Iudith
+1100000264	porro autem universa quae holofernis peculiaria fuisse probata sunt, dederunt iudith in auro, et argento, et vestibus, et gemmis, et omni supellectili: et tradita sunt omnia illi a populo.	2020-04-18	Liber_Iudith
+1100000265	et omnes populi gaudebant cum mulieribus, et virginibus, et iuvenibus, in organis et citharis.	2020-04-18	Liber_Iudith
+1100000266	caput 16	2020-04-18	Liber_Iudith
+1100000267	tunc cantavit canticum hoc domino iudith, dicens:	2020-04-18	Liber_Iudith
+1100000268	incipite domino in tympanis;	2020-04-18	Liber_Iudith
+1100000269	cantate domino in cymbalis;	2020-04-18	Liber_Iudith
+1100000270	modulamini illi psalmum novum:	2020-04-18	Liber_Iudith
+1100000271	exaltate, et invocate nomen eius.	2020-04-18	Liber_Iudith
+1100000272	dominus conterens bella,	2020-04-18	Liber_Iudith
+1100000273	dominus nomen est illi.	2020-04-18	Liber_Iudith
+1100000274	qui posuit castra sua in medio populi sui,	2020-04-18	Liber_Iudith
+1100000275	ut eriperet nos de manu omnium inimicorum nostrorum.	2020-04-18	Liber_Iudith
+1100000276	venit assur ex montibus ab aquilone	2020-04-18	Liber_Iudith
+1100000277	in multitudine fortitudinis suae:	2020-04-18	Liber_Iudith
+1100000278	cuius multitudo obturavit torrentes,	2020-04-18	Liber_Iudith
+1100000279	et equi eorum cooperuerunt valles.	2020-04-18	Liber_Iudith
+1100000280	dixit se incensurum fines meos,	2020-04-18	Liber_Iudith
+1100000281	et iuvenes meos occisurum gladio;	2020-04-18	Liber_Iudith
+1100000282	infantes meos dare in praedam,	2020-04-18	Liber_Iudith
+1100000283	et virgines in captivitatem.	2020-04-18	Liber_Iudith
+1100000284	dominus autem omnipotens nocuit eum,	2020-04-18	Liber_Iudith
+1100000285	et tradidit eum in manus feminae, et confodit eum.	2020-04-18	Liber_Iudith
+1100000286	non enim cecidit potens eorum a iuvenibus,	2020-04-18	Liber_Iudith
+1100000287	nec filii titan percusserunt eum,	2020-04-18	Liber_Iudith
+1100000288	nec excelsi gigantes opposuerunt se illi:	2020-04-18	Liber_Iudith
+1100000289	sed iudith filia merari in specie faciei suae dissolvit eum.	2020-04-18	Liber_Iudith
+1100000290	exuit enim se vestimento viduitatis,	2020-04-18	Liber_Iudith
+1100000291	et induit se vestimento laetitiae	2020-04-18	Liber_Iudith
+1100000292	in exultatione filiorum israel.	2020-04-18	Liber_Iudith
+1100000293	unxit faciem suam unguento,	2020-04-18	Liber_Iudith
+1100000294	et colligavit cincinnos suos mitra;	2020-04-18	Liber_Iudith
+1100000295	accepit stolam novem ad decipiendum illum.	2020-04-18	Liber_Iudith
+1100000296	sandalia eius rapuerunt oculos eius;	2020-04-18	Liber_Iudith
+1100000297	pulchritudo eius captivam fecit animam eius:	2020-04-18	Liber_Iudith
+1100000298	amputavit pugione cervicem eius.	2020-04-18	Liber_Iudith
+1100000299	horruerunt persae constantiam eius,	2020-04-18	Liber_Iudith
+1100000300	et medi audaciam eius.	2020-04-18	Liber_Iudith
+1100000301	tunc ululaverunt castra assyriorum,	2020-04-18	Liber_Iudith
+1100000302	quando apparuerunt humiles mei, arescentes in siti.	2020-04-18	Liber_Iudith
+1100000303	filii puellarum compunxerunt eos,	2020-04-18	Liber_Iudith
+1100000304	et sicut pueros fugientes occiderunt eos:	2020-04-18	Liber_Iudith
+1100000305	perierunt in praelio a facie domini dei mei.	2020-04-18	Liber_Iudith
+1100000306	hymnum cantemus domino;	2020-04-18	Liber_Iudith
+1100000307	hymnum novum cantemus deo nostro.	2020-04-18	Liber_Iudith
+1100000308	adonai domine, magnus es tu,	2020-04-18	Liber_Iudith
+1100000309	et praeclarus in virtute tua:	2020-04-18	Liber_Iudith
+1100000310	et quem superare nemo potest.	2020-04-18	Liber_Iudith
+1100000311	tibi serviat omnis creatura tua,	2020-04-18	Liber_Iudith
+1100000312	quia dixisti, et facta sunt;	2020-04-18	Liber_Iudith
+1100000313	misisti spiritum tuum, et creata sunt:	2020-04-18	Liber_Iudith
+1100000314	et non est qui resistat voci tuae.	2020-04-18	Liber_Iudith
+1100000315	montes a fundamentis movebuntur cum aquis;	2020-04-18	Liber_Iudith
+1100000316	petrae, sicut cera, liquescent ante faciem tuam.	2020-04-18	Liber_Iudith
+1100000317	qui autem timent te,	2020-04-18	Liber_Iudith
+1100000318	magni erunt apud te per omnia.	2020-04-18	Liber_Iudith
+1100000319	vae genti insurgenti super genus meum:	2020-04-18	Liber_Iudith
+1100000320	dominus enim omnipotens vindicabit in eis;	2020-04-18	Liber_Iudith
+1100000321	in die iudicii visitabit illos.	2020-04-18	Liber_Iudith
+1100000322	dabit enim ignem et vermes in carnes eorum,	2020-04-18	Liber_Iudith
+1100000323	ut urantur et sentiant usque in sempiternum.	2020-04-18	Liber_Iudith
+1100000324	et factum est post haec, omnis populus post victoriam venit in ierusalem adorare dominum: et mox ut purificati sunt, obtulerunt omnes holocausta, et vota, et repromissiones suas.	2020-04-18	Liber_Iudith
+1100000325	porro iudith universa vasa bellica holofernis, quae dedit illi populus, et conopeum quod ipsa sustulerat de cubili ipsius, obtulit in anathema oblivionis.	2020-04-18	Liber_Iudith
+1100000326	erat autem populus iucundus secundum faciem sanctorum: et per tres menses gaudium huius victoriae celebratum est cum iudith.	2020-04-18	Liber_Iudith
+1100000327	post dies autem illos, unusquisque rediit in domum suam: et iudith magna facta est in bethulia, et praeclarior erat universae terrae israel.	2020-04-18	Liber_Iudith
+1100000328	erat enim virtuti castitas adiuncta, ita ut non cognosceret virum omnibus diebus vitae suae, ex quo defunctus est manasses vir eius.	2020-04-18	Liber_Iudith
+1100000329	erat autem, diebus festis, procedens cum magna gloria.	2020-04-18	Liber_Iudith
+1100000330	mansit autem in domo viri sui annos centum quinque, et dimisit abram suam liberam: et defuncta est ac sepulta cum viro suo in bethulia.	2020-04-18	Liber_Iudith
+1100000331	luxitque illam omnis populus diebus septem.	2020-04-18	Liber_Iudith
+1100000332	in omni autem spatio vitae eius non fuit qui perturbaret israel, et post mortem eius annis multis.	2020-04-18	Liber_Iudith
+1100000333	dies autem victoriae huius festivitatis ab hebraeis in numero sanctorum dierum accipitur, et colitur a iudaeis ex illo tempore usque in praesentem diem.	2020-04-18	Liber_Iudith

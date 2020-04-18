@@ -1,0 +1,625 @@
+1100000001	liber daniel	2020-04-18	Liber_Daniel
+1100000002	caput 1	2020-04-18	Liber_Daniel
+1100000003	anno tertio regni ioakim regis iuda, venit nabuchodonosor, rex babylonis, in ierusalem, et obsedit eam:et tradidit dominus in manu eius ioakim, regem iuda, et partem vasorum domus dei: et asportavit ea in terram sennaar in domum dei sui, et vasa intulit in domum thesauri dei sui.	2020-04-18	Liber_Daniel
+1100000004	et ait rex asphenez praeposito eunuchorum ut introduceret de filiis israel, et de semine regio et tyrannorum,pueros in quibus nulla esset macula, decoros forma, et eruditos omni sapientia, cautos scientia, et doctos disciplina, et qui possent stare in palatio regis, ut doceret eos litteras et linguam chaldaeorum.	2020-04-18	Liber_Daniel
+1100000005	et constituit eis rex annonam per singulos dies de cibis suis, et de vino unde bibebat ipse, ut enutriti tribus annis, postea starent in conspectu regis.	2020-04-18	Liber_Daniel
+1100000006	fuerunt ergo inter eos de filiis iuda, daniel, ananias, misael, et azarias.	2020-04-18	Liber_Daniel
+1100000007	et imposuit eis praepositus eunuchorum nomina: danieli, baltassar; ananiae, sidrach; misaeli, misach; et azariae, abdenago.	2020-04-18	Liber_Daniel
+1100000008	proposuit autem daniel in corde suo ne pollueretur de mensa regis, neque de vino potus eius: et rogavit eunuchorum praepositum ne contaminaretur.	2020-04-18	Liber_Daniel
+1100000009	dedit autem deus danieli gratiam et misericordiam in conspectu principis eunuchorum.	2020-04-18	Liber_Daniel
+1100000010	et ait princeps eunuchorum ad danielem: timeo ego dominum meum regem, qui constituit vobis cibum et potum: qui si viderit vultus vestros macilentiores prae ceteris adolescentibus coaevis vestris, condemnabitis caput meum regi.	2020-04-18	Liber_Daniel
+1100000011	et dixit daniel ad malasar, quem constituerat princeps eunuchorum super danielem, ananiam, misaelem, et azariam:tenta nos, obsecro, servos tuos, diebus decem, et dentur nobis legumina ad vescendum, et aqua ad bibendum:et contemplare vultus nostros, et vultus puerorum, qui vescuntur cibo regio: et sicut videris, facies cum servis tuis.	2020-04-18	Liber_Daniel
+1100000012	qui, audito sermone huiuscemodi, tentavit eos diebus decem.	2020-04-18	Liber_Daniel
+1100000013	post dies autem decem, apparuerunt vultus eorum meliores, et corpulentiores prae omnibus pueris, qui vescebantur cibo regio.	2020-04-18	Liber_Daniel
+1100000014	porro malasar tollebat cibaria, et vinum potus eorum: dabatque eis legumina.	2020-04-18	Liber_Daniel
+1100000015	pueris autem his dedit deus scientiam et disciplinam, in omni libro et sapientia: danieli autem intelligentiam omnium visionum et somniorum.	2020-04-18	Liber_Daniel
+1100000016	completis itaque diebus, post quos dixerat rex ut introducerentur, introduxit eos praepositus eunuchorum in conspectu nabuchodonosor.	2020-04-18	Liber_Daniel
+1100000017	cumque eis locutus fuisset rex, non sunt inventi tales de universis, ut daniel, ananias, misael, et azarias: et steterunt in conspectu regis.	2020-04-18	Liber_Daniel
+1100000018	et omne verbum sapientiae et intellectus, quod sciscitatus est ab eis rex, invenit in eis decuplum super cunctos ariolos et magos qui erant in universo regno eius.	2020-04-18	Liber_Daniel
+1100000019	fuit autem daniel usque ad annum primum cyri regis.	2020-04-18	Liber_Daniel
+1100000020	caput 2	2020-04-18	Liber_Daniel
+1100000021	in anno secundo regni nabuchodonosor, vidit nabuchodonosor somnium, et conterritus est spiritus eius, et somnium eius fugit ab eo.	2020-04-18	Liber_Daniel
+1100000022	praecepit autem rex ut convocarentur arioli, et magi, et malefici, et chaldaei, ut indicarent regi somnia sua. 	2020-04-18	Liber_Daniel
+1100000023	qui cum venissent, steterunt coram rege.	2020-04-18	Liber_Daniel
+1100000024	et dixit ad eos rex: vidi somnium, et mente confusus ignoro quid viderim.	2020-04-18	Liber_Daniel
+1100000025	responderuntque chaldaei regi syriace: rex, in sempiternum vive! 	2020-04-18	Liber_Daniel
+1100000026	dic somnium servis tuis, et interpretationem eius indicabimus.	2020-04-18	Liber_Daniel
+1100000027	et respondens rex ait chaldaeis: sermo recessit a me: nisi indicaveritis mihi somnium, et coniecturam eius, peribitis vos, et domus vestrae publicabuntur.	2020-04-18	Liber_Daniel
+1100000028	si autem somnium, et coniecturam eius narraveritis, praemia, et dona, et honorem multum accipietis a me. 	2020-04-18	Liber_Daniel
+1100000029	somnium igitur, et interpretationem eius indicate mihi.	2020-04-18	Liber_Daniel
+1100000030	responderunt secundo, atque dixerunt: rex somnium dicat servis suis, et interpretationem illius indicabimus.	2020-04-18	Liber_Daniel
+1100000031	respondit rex, et ait: certe novi quod tempus redimitis, scientes quod recesserit a me sermo.	2020-04-18	Liber_Daniel
+1100000032	si ergo somnium non indicaveritis mihi, una est de vobis sententia, quod interpretationem quoque fallacem, et deceptione plenam composueritis, ut loquamini mihi donec tempus pertranseat. 	2020-04-18	Liber_Daniel
+1100000033	somnium itaque dicite mihi, ut sciam quod interpretationem quoque eius veram loquamini.	2020-04-18	Liber_Daniel
+1100000034	respondentes ergo chaldaei coram rege, dixerunt: non est homo super terram, qui sermonem tuum, rex, possit implere: sed neque regum quisquam magnus et potens verbum huiuscemodi sciscitatur ab omni ariolo, et mago, et chaldaeo.	2020-04-18	Liber_Daniel
+1100000035	sermo enim, quem tu quaeris, rex, gravis est: nec reperietur quisquam qui indicet illum in conspectu regis, exceptis diis, quorum non est cum hominibus conversatio.	2020-04-18	Liber_Daniel
+1100000036	quo audito, rex, in furore et in ira magna, praecepit ut perirent omnes sapientes babylonis.	2020-04-18	Liber_Daniel
+1100000037	et egressa sententia, sapientes interficiebantur: quaerebanturque daniel et socii eius, ut perirent.	2020-04-18	Liber_Daniel
+1100000038	tunc daniel requisivit de lege atque sententia ab arioch principe militiae regis, qui egressus fuerat ad interficiendos sapientes babylonis.	2020-04-18	Liber_Daniel
+1100000039	et interrogavit eum, qui a rege potestatem acceperat, quam ob causam tam crudelis sententia a facie regis esset egressa. 	2020-04-18	Liber_Daniel
+1100000040	cum ergo rem indicasset arioch danieli,daniel ingressus rogavit regem ut tempus daret sibi ad solutionem indicandam regi.	2020-04-18	Liber_Daniel
+1100000041	et ingressus est domum suam, ananiaeque et misaeli et azariae, sociis suis, indicavit negotium,ut quaererent misericordiam a facie dei caeli super sacramento isto, et non perirent daniel et socii eius cum ceteris sapientibus babylonis.	2020-04-18	Liber_Daniel
+1100000042	tunc danieli mysterium per visionem nocte revelatum est: et benedixit daniel deum caeli,et locutus ait: sit nomen domini benedictum a saeculo et usque in saeculum: quia sapientia et fortitudo eius sunt.	2020-04-18	Liber_Daniel
+1100000043	et ipse mutat tempora, et aetates: transfert regna, atque constituit: dat sapientiam sapientibus, et scientiam intelligentibus disciplinam.	2020-04-18	Liber_Daniel
+1100000044	ipse revelat profunda et abscondita, et novit in tenebris constituta: et lux cum eo est.	2020-04-18	Liber_Daniel
+1100000045	tibi, deus patrum nostrorum, confiteor, teque laudo, quia sapientiam et fortitudinem dedisti mihi, et nunc ostendisti mihi quae rogavimus te, quia sermonem regis aperuisti nobis.	2020-04-18	Liber_Daniel
+1100000046	post haec daniel ingressus ad arioch, quem constituerat rex ut perderet sapientes babylonis, sic ei locutus est: sapientes babylonis ne perdas: introduc me in conspectu regis, et solutionem regi narrabo.	2020-04-18	Liber_Daniel
+1100000047	tunc arioch festinus introduxit danielem ad regem, et dixit ei: inveni hominem de filiis transmigrationis iuda, qui solutionem regi annuntiet.	2020-04-18	Liber_Daniel
+1100000048	respondit rex, et dixit danieli, cuius nomen erat baltassar: putasne vere potes mihi indicare somnium, quod vidi, et interpretationem eius?	2020-04-18	Liber_Daniel
+1100000049	et respondens daniel coram rege, ait: mysterium, quod rex interrogat, sapientes, magi, arioli, et aruspices nequeunt indicare regi:sed est deus in caelo revelans mysteria, qui indicavit tibi, rex nabuchodonosor, quae ventura sunt in novissimis temporibus. 	2020-04-18	Liber_Daniel
+1100000050	somnium tuum, et visiones capitis tui in cubili tuo huiuscemodi sunt.	2020-04-18	Liber_Daniel
+1100000051	tu, rex, cogitare coepisti in strato tuo, quid esset futurum post haec: et qui revelat mysteria, ostendit tibi quae ventura sunt.	2020-04-18	Liber_Daniel
+1100000052	mihi quoque non in sapientia, quae est in me plus quam in cunctis viventibus, sacramentum hoc revelatum est: sed ut interpretatio regi manifesta fieret, et cogitationes mentis tuae scires.	2020-04-18	Liber_Daniel
+1100000053	tu, rex, videbas, et ecce quasi statua una grandis: statua illa magna, et statura sublimis stabat contra te, et intuitus eius erat terribilis.	2020-04-18	Liber_Daniel
+1100000054	huius statuae caput ex auro optimo erat, pectus autem et brachia de argento, porro venter et femora ex aere,tibiae autem ferreae: pedum quaedam pars erat ferrea, quaedam autem fictilis.	2020-04-18	Liber_Daniel
+1100000055	videbas ita, donec abscissus est lapis de monte sine manibus: et percussit statuam in pedibus eius ferreis et fictilibus, et comminuit eos.	2020-04-18	Liber_Daniel
+1100000056	tunc contrita sunt pariter ferrum, testa, aes, argentum, et aurum, et redacta quasi in favillam aestivae areae, quae rapta sunt vento, nullusque locus inventus est eis: lapis autem, qui percusserat statuam, factus est mons magnus, et implevit universam terram.	2020-04-18	Liber_Daniel
+1100000057	hoc est somnium: interpretationem quoque eius dicemus coram te, rex.	2020-04-18	Liber_Daniel
+1100000058	tu rex regum es: et deus caeli regnum, et fortitudinem, et imperium, et gloriam dedit tibi:et omnia, in quibus habitant filii hominum, et bestiae agri: volucres quoque caeli dedit in manu tua, et sub ditione tua universa constituit: tu es ergo caput aureum.	2020-04-18	Liber_Daniel
+1100000059	et post te consurget regnum aliud minus te argenteum: et regnum tertium aliud aereum, quod imperabit universae terrae.	2020-04-18	Liber_Daniel
+1100000060	et regnum quartum erit velut ferrum: quomodo ferrum comminuit, et domat omnia, sic comminuet, et conteret omnia haec.	2020-04-18	Liber_Daniel
+1100000061	porro quia vidisti pedum, et digitorum partem testae figuli, et partem ferream, regnum divisum erit: quod tamen de plantario ferri orietur, secundum quod vidisti ferrum mistum testae ex luto.	2020-04-18	Liber_Daniel
+1100000062	et digitos pedum ex parte ferreos, et ex parte fictiles: ex parte regnum erit solidum, et ex parte contritum.	2020-04-18	Liber_Daniel
+1100000063	quod autem vidisti ferrum mistum testae ex luto, commiscebuntur quidem humano semine, sed non adhaerebunt sibi, sicut ferrum misceri non potest testae.	2020-04-18	Liber_Daniel
+1100000064	in diebus autem regnorum illorum suscitabit deus caeli regnum, quod in aeternum non dissipabitur, et regnum eius alteri populo non tradetur: comminuet autem, et consumet universa regna haec, et ipsum stabit in aeternum.	2020-04-18	Liber_Daniel
+1100000065	secundum quod vidisti, quod de monte abscissus est lapis sine manibus, et comminuit testam, et ferrum, et aes, et argentum, et aurum, deus magnus ostendit regi quae ventura sunt postea: et verum est somnium, et fidelis interpretatio eius.	2020-04-18	Liber_Daniel
+1100000066	tunc rex nabuchodonosor cecidit in faciem suam, et danielem adoravit, et hostias, et incensum praecepit ut sacrificarent ei.	2020-04-18	Liber_Daniel
+1100000067	loquens ergo rex, ait danieli: vere deus vester deus deorum est, et dominus regum, et revelans mysteria: quoniam tu potuisti aperire hoc sacramentum.	2020-04-18	Liber_Daniel
+1100000068	tunc rex danielem in sublime extulit, et munera multa et magna dedit ei: et constituit eum principem super omnes provincias babylonis, et praefectum magistratuum super cunctos sapientes babylonis.	2020-04-18	Liber_Daniel
+1100000069	daniel autem postulavit a rege, et constituit super opera provinciae babylonis sidrach, misach, et abdenago: ipse autem daniel erat in foribus regis.	2020-04-18	Liber_Daniel
+1100000070	caput 3	2020-04-18	Liber_Daniel
+1100000071	nabuchodonosor rex fecit statuam auream, altitudine cubitorum sexaginta, latitudine cubitorum sex, et statuit eam in campo dura, provinciae babylonis.	2020-04-18	Liber_Daniel
+1100000072	itaque nabuchodonosor rex misit ad congregandos satrapas, magistratus, et iudices, duces, et tyrannos, et praefectos, omnesque principes regionum, ut convenirent ad dedicationem statuae quam erexerat nabuchodonosor rex.	2020-04-18	Liber_Daniel
+1100000073	tunc congregati sunt satrapae, magistratus, et iudices, duces, et tyranni, et optimates, qui erant in potestatibus constituti, et universi principes regionum, ut convenirent ad dedicationem statuae, quam erexerat nabuchodonosor rex. 	2020-04-18	Liber_Daniel
+1100000074	stabant autem in conspectu statuae, quam posuerat nabuchodonosor rex:et praeco clamabat valenter: vobis dicitur populis, tribubus, et linguis:in hora qua audieritis sonitum tubae, et fistulae, et citharae, sambucae, et psalterii, et symphoniae, et universi generis musicorum, cadentes adorate statuam auream, quam constituit nabuchodonosor rex.	2020-04-18	Liber_Daniel
+1100000075	si quis autem non prostratus adoraverit, eadem hora mittetur in fornacem ignis ardentis.	2020-04-18	Liber_Daniel
+1100000076	post haec igitur, statim ut audierunt omnes populi sonitum tubae, fistulae, et citharae, sambucae, et psalterii, et symphoniae, et omnis generis musicorum, cadentes omnes populi, tribus, et linguae adoraverunt statuam auream, quam constituerat nabuchodonosor rex.	2020-04-18	Liber_Daniel
+1100000077	statimque in ipso tempore accedentes viri chaldaei accusaverunt iudaeos:dixeruntque nabuchodonosor regi: rex, in aeternum vive!	2020-04-18	Liber_Daniel
+1100000078	tu, rex, posuisti decretum, ut omnis homo, qui audierit sonitum tubae, fistulae, et citharae, sambucae, et psalterii, et symphoniae, et universi generis musicorum, prosternat se, et adoret statuam auream:si quis autem non procidens adoraverit, mittatur in fornacem ignis ardentis.	2020-04-18	Liber_Daniel
+1100000079	sunt ergo viri iudaei, quos constituisti super opera regionis babylonis, sidrach, misach, et abdenago: viri isti contempserunt, rex, decretum tuum: deos tuos non colunt, et statuam auream, quam erexisti, non adorant.	2020-04-18	Liber_Daniel
+1100000080	tunc nabuchodonosor, in furore et in ira, praecepit ut adducerentur sidrach, misach, et abdenago: qui confestim adducti sunt in conspectu regis.	2020-04-18	Liber_Daniel
+1100000081	pronuntiansque nabuchodonosor rex, ait eis: verene sidrach, misach, et abdenago, deos meos non colitis, et statuam auream, quam constitui, non adoratis?	2020-04-18	Liber_Daniel
+1100000082	nunc ergo si estis parati, quacumque hora audieritis sonitum tubae, fistulae, citharae, sambucae, et psalterii, et symphoniae, omnisque generis musicorum, prosternite vos, et adorate statuam, quam feci: quod si non adoraveritis, eadem hora mittemini in fornacem ignis ardentis: et quis est deus, qui eripiet vos de manu mea?	2020-04-18	Liber_Daniel
+1100000083	respondentes sidrach, misach, et abdenago, dixerunt regi nabuchodonosor: non oportet nos de hac re respondere tibi.	2020-04-18	Liber_Daniel
+1100000084	ecce enim deus noster, quem colimus, potest eripere nos de camino ignis ardentis, et de manibus tuis, o rex, liberare.	2020-04-18	Liber_Daniel
+1100000085	quod si noluerit, notum sit tibi, rex, quia deos tuos non colimus, et statuam auream, quam erexisti, non adoramus.	2020-04-18	Liber_Daniel
+1100000086	tunc nabuchodonosor repletus est furore, et aspectus faciei illius immutatus est super sidrach, misach, et abdenago: et praecepit ut succenderetur fornax septuplum quam succendi consueverat.	2020-04-18	Liber_Daniel
+1100000087	et viris fortissimis de exercitu suo iussit ut ligatis pedibus sidrach, misach, et abdenago, mitterent eos in fornacem ignis ardentis.	2020-04-18	Liber_Daniel
+1100000088	et confestim viri illi vincti, cum braccis suis, et tiaris, et calceamentis, et vestibus, missi sunt in medium fornacis ignis ardentis:nam iussio regis urgebat. 	2020-04-18	Liber_Daniel
+1100000089	fornax autem succensa erat nimis: porro viros illos, qui miserant sidrach, misach, et abdenago, interfecit flamma ignis.	2020-04-18	Liber_Daniel
+1100000090	viri autem hi tres, id est, sidrach, misach, et abdenago, ceciderunt in medio camino ignis ardentis, colligati.	2020-04-18	Liber_Daniel
+1100000091	et ambulabant in medio flammae, laudantes deum, et benedicentes domino.	2020-04-18	Liber_Daniel
+1100000092	stans autem azarias oravit sic, aperiensque os suum in medio ignis, ait:	2020-04-18	Liber_Daniel
+1100000093	benedictus es, domine deus patrum nostrorum,	2020-04-18	Liber_Daniel
+1100000094	et laudabile, et gloriosum nomen tuum in saecula:	2020-04-18	Liber_Daniel
+1100000095	quia iustus es in omnibus, quae fecisti nobis,	2020-04-18	Liber_Daniel
+1100000096	et universa opera tua vera, et viae tuae rectae,	2020-04-18	Liber_Daniel
+1100000097	et omnia iudicia tua vera.	2020-04-18	Liber_Daniel
+1100000098	iudicia enim vera fecisti	2020-04-18	Liber_Daniel
+1100000099	iuxta omnia, quae induxisti super nos,	2020-04-18	Liber_Daniel
+1100000100	et super civitatem sanctam patrum nostrorum ierusalem:	2020-04-18	Liber_Daniel
+1100000101	quia in veritate et in iudicio induxisti omnia haec	2020-04-18	Liber_Daniel
+1100000102	propter peccata nostra.	2020-04-18	Liber_Daniel
+1100000103	peccavimus enim, et inique egimus recedentes a te,	2020-04-18	Liber_Daniel
+1100000104	et deliquimus in omnibus:	2020-04-18	Liber_Daniel
+1100000105	et praecepta tua non audivimus,	2020-04-18	Liber_Daniel
+1100000106	nec observavimus,	2020-04-18	Liber_Daniel
+1100000107	nec fecimus sicut praeceperas nobis	2020-04-18	Liber_Daniel
+1100000108	ut bene nobis esset.	2020-04-18	Liber_Daniel
+1100000109	omnia ergo, quae induxisti super nos,	2020-04-18	Liber_Daniel
+1100000110	et universa quae fecisti nobis,	2020-04-18	Liber_Daniel
+1100000111	in vero iudicio fecisti;	2020-04-18	Liber_Daniel
+1100000112	et tradidisti nos in manibus inimicorum nostrorum iniquorum,	2020-04-18	Liber_Daniel
+1100000113	et pessimorum, praevaricatorumque,	2020-04-18	Liber_Daniel
+1100000114	et regi iniusto, et pessimo ultra omnem terram.	2020-04-18	Liber_Daniel
+1100000115	et nunc non possumus aperire os:	2020-04-18	Liber_Daniel
+1100000116	confusio, et opprobrium facti sumus servis tuis,	2020-04-18	Liber_Daniel
+1100000117	et his qui colunt te.	2020-04-18	Liber_Daniel
+1100000118	ne, quaesumus, tradas nos in perpetuum propter nomen tuum,	2020-04-18	Liber_Daniel
+1100000119	et ne dissipes testamentum tuum:	2020-04-18	Liber_Daniel
+1100000120	neque auferas misericordiam tuam a nobis,	2020-04-18	Liber_Daniel
+1100000121	propter abraham, dilectum tuum,	2020-04-18	Liber_Daniel
+1100000122	et isaac, servum tuum,	2020-04-18	Liber_Daniel
+1100000123	et israel, sanctum tuum,	2020-04-18	Liber_Daniel
+1100000124	quibus locutus es pollicens quod multiplicares semen eorum	2020-04-18	Liber_Daniel
+1100000125	sicut stellas caeli,	2020-04-18	Liber_Daniel
+1100000126	et sicut arenam quae est in littore maris;	2020-04-18	Liber_Daniel
+1100000127	quia, domine, imminuti sumus plus quam omnes gentes,	2020-04-18	Liber_Daniel
+1100000128	sumusque humiles in universa terra hodie	2020-04-18	Liber_Daniel
+1100000129	propter peccata nostra.	2020-04-18	Liber_Daniel
+1100000130	et non est in tempore hoc princeps, et dux, et propheta,	2020-04-18	Liber_Daniel
+1100000131	neque holocaustum, neque sacrificium,	2020-04-18	Liber_Daniel
+1100000132	neque oblatio, neque incensum,	2020-04-18	Liber_Daniel
+1100000133	neque locus primitiarum coram te,	2020-04-18	Liber_Daniel
+1100000134	ut possimus invenire misericordiam tuam,	2020-04-18	Liber_Daniel
+1100000135	sed in animo contrito, et spiritu humilitatis suscipiamur.	2020-04-18	Liber_Daniel
+1100000136	sicut in holocausto arietum, et taurorum,	2020-04-18	Liber_Daniel
+1100000137	et sicut in millibus agnorum pinguium,	2020-04-18	Liber_Daniel
+1100000138	sic fiat sacrificium nostrum in conspectu tuo hodie, ut placeat tibi,	2020-04-18	Liber_Daniel
+1100000139	quoniam non est confusio confidentibus in te.	2020-04-18	Liber_Daniel
+1100000140	et nunc sequimur te in toto corde;	2020-04-18	Liber_Daniel
+1100000141	et timemus te, et quaerimus faciem tuam.	2020-04-18	Liber_Daniel
+1100000142	nec confundas nos,	2020-04-18	Liber_Daniel
+1100000143	sed fac nobiscum iuxta mansuetudinem tuam,	2020-04-18	Liber_Daniel
+1100000144	et secundum multitudinem misericordiae tuae.	2020-04-18	Liber_Daniel
+1100000145	et erue nos in mirabilibus tuis,	2020-04-18	Liber_Daniel
+1100000146	et da gloriam nomini tuo, domine;	2020-04-18	Liber_Daniel
+1100000147	et confundantur omnes qui ostendunt servis tuis mala:	2020-04-18	Liber_Daniel
+1100000148	confundantur in omni potentia tua,	2020-04-18	Liber_Daniel
+1100000149	et robur eorum conteratur:	2020-04-18	Liber_Daniel
+1100000150	et sciant quia tu es dominus deus solus,	2020-04-18	Liber_Daniel
+1100000151	et gloriosus super orbem terrarum.	2020-04-18	Liber_Daniel
+1100000152	et non cessabant qui miserant eos ministri regis succendere fornacem, naphtha, et stuppa, et pice, et malleolis,et effundebatur flamma super fornacem cubitis quadraginta novem:et erupit, et incendit quos reperit iuxta fornacem de chaldaeis.	2020-04-18	Liber_Daniel
+1100000153	angelus autem domini descendit cum azaria, et sociis eius in fornacem: et excussit flammam ignis de fornace,et fecit medium fornacis quasi ventum roris flantem, et non tetigit eos omnino ignis, neque contristavit, nec quidquam molestiae intulit.	2020-04-18	Liber_Daniel
+1100000154	tunc hi tres quasi ex uno ore laudabant, et glorificabant, et benedicebant deum in fornace, dicentes:	2020-04-18	Liber_Daniel
+1100000155	benedictus es, domine deus patrum nostrorum:	2020-04-18	Liber_Daniel
+1100000156	et laudabilis, et gloriosus, et superexaltatus in saecula.	2020-04-18	Liber_Daniel
+1100000157	et benedictum nomen gloriae tuae sanctum:	2020-04-18	Liber_Daniel
+1100000158	et laudabile, et superexaltatum in omnibus saeculis.	2020-04-18	Liber_Daniel
+1100000159	benedictus es in templo sancto gloriae tuae:	2020-04-18	Liber_Daniel
+1100000160	et superlaudabilis, et supergloriosus in saecula.	2020-04-18	Liber_Daniel
+1100000161	benedictus es in throno regni tui:	2020-04-18	Liber_Daniel
+1100000162	et superlaudabilis, et superexaltatus in saecula.	2020-04-18	Liber_Daniel
+1100000163	benedictus es, qui intueris abyssos, et sedes super cherubim:	2020-04-18	Liber_Daniel
+1100000164	et laudabilis, et superexaltatus in saecula.	2020-04-18	Liber_Daniel
+1100000165	benedictus es in firmamento caeli:	2020-04-18	Liber_Daniel
+1100000166	et laudabilis et gloriosus in saecula.	2020-04-18	Liber_Daniel
+1100000167	benedicite, omnia opera domini, domino:	2020-04-18	Liber_Daniel
+1100000168	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000169	benedicite, angeli domini, domino:	2020-04-18	Liber_Daniel
+1100000170	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000171	benedicite, caeli, domino:	2020-04-18	Liber_Daniel
+1100000172	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000173	benedicite, aquae omnes, quae super caelos sunt, domino:	2020-04-18	Liber_Daniel
+1100000174	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000175	benedicite, omnes virtutes domini, domino:	2020-04-18	Liber_Daniel
+1100000176	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000177	benedicite, sol et luna, domino:	2020-04-18	Liber_Daniel
+1100000178	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000179	benedicite, stellae caeli, domino:	2020-04-18	Liber_Daniel
+1100000180	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000181	benedicite, omnis imber et ros, domino:	2020-04-18	Liber_Daniel
+1100000182	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000183	benedicite, omnes spiritus dei, domino:	2020-04-18	Liber_Daniel
+1100000184	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000185	benedicite, ignis et aestus, domino:	2020-04-18	Liber_Daniel
+1100000186	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000187	benedicite, frigus et aestus, domino:	2020-04-18	Liber_Daniel
+1100000188	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000189	benedicite, rores et pruina, domino:	2020-04-18	Liber_Daniel
+1100000190	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000191	benedicite, gelu et frigus, domino:	2020-04-18	Liber_Daniel
+1100000192	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000193	benedicite, glacies et nives, domino:	2020-04-18	Liber_Daniel
+1100000194	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000195	benedicite, noctes et dies, domino	2020-04-18	Liber_Daniel
+1100000196	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000197	benedicite, lux et tenebrae, domino:	2020-04-18	Liber_Daniel
+1100000198	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000199	benedicite, fulgura et nubes, domino:	2020-04-18	Liber_Daniel
+1100000200	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000201	benedicat terra dominum:	2020-04-18	Liber_Daniel
+1100000202	laudet et superexaltet eum in saecula.	2020-04-18	Liber_Daniel
+1100000203	benedicite, montes et colles, domino:	2020-04-18	Liber_Daniel
+1100000204	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000205	benedicite, universa germinantia in terra, domino:	2020-04-18	Liber_Daniel
+1100000206	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000207	benedicite, fontes, domino:	2020-04-18	Liber_Daniel
+1100000208	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000209	benedicite, maria et flumina, domino:	2020-04-18	Liber_Daniel
+1100000210	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000211	benedicite, cete, et omnia quae moventur in aquis, domino:	2020-04-18	Liber_Daniel
+1100000212	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000213	benedicite, omnes volucres caeli, domino:	2020-04-18	Liber_Daniel
+1100000214	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000215	benedicite, omnes bestiae et pecora, domino:	2020-04-18	Liber_Daniel
+1100000216	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000217	benedicite, filii hominum, domino:	2020-04-18	Liber_Daniel
+1100000218	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000219	benedicat israel dominum:	2020-04-18	Liber_Daniel
+1100000220	laudet et superexaltet eum in saecula.	2020-04-18	Liber_Daniel
+1100000221	benedicite, sacerdotes domini, domino:	2020-04-18	Liber_Daniel
+1100000222	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000223	benedicite, servi domini, domino:	2020-04-18	Liber_Daniel
+1100000224	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000225	benedicite, spiritus et animae iustorum, domino:	2020-04-18	Liber_Daniel
+1100000226	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000227	benedicite, sancti et humiles corde, domino:	2020-04-18	Liber_Daniel
+1100000228	laudate et superexaltate eum in saecula.	2020-04-18	Liber_Daniel
+1100000229	benedicite, anania, azaria, misael, domino:	2020-04-18	Liber_Daniel
+1100000230	laudate et superexaltate eum in saecula:	2020-04-18	Liber_Daniel
+1100000231	quia eruit nos de inferno,	2020-04-18	Liber_Daniel
+1100000232	et salvos fecit de manu mortis:	2020-04-18	Liber_Daniel
+1100000233	et liberavit nos de medio ardentis flammae,	2020-04-18	Liber_Daniel
+1100000234	et de medio ignis eruit nos.	2020-04-18	Liber_Daniel
+1100000235	confitemini domino, quoniam bonus:	2020-04-18	Liber_Daniel
+1100000236	quoniam in saeculum misericordia eius.	2020-04-18	Liber_Daniel
+1100000237	benedicite, omnes religiosi, domino deo deorum:	2020-04-18	Liber_Daniel
+1100000238	laudate et confitemini ei, quia in omnia saecula misericordia eius.	2020-04-18	Liber_Daniel
+1100000239	tunc nabuchodonosor rex obstupuit, et surrexit propere, et ait optimatibus suis: nonne tres viros misimus in medium ignis compeditos? 	2020-04-18	Liber_Daniel
+1100000240	qui respondentes regi, dixerunt: vere, rex.	2020-04-18	Liber_Daniel
+1100000241	respondit, et ait: ecce ego video quatuor viros solutos, et ambulantes in medio ignis, et nihil corruptionis in eis est, et species quarti similis filio dei.	2020-04-18	Liber_Daniel
+1100000242	tunc accessit nabuchodonosor ad ostium fornacis ignis ardentis, et ait: sidrach, misach, et abdenago, servi dei excelsi, egredimini, et venite. 	2020-04-18	Liber_Daniel
+1100000243	statimque egressi sunt sidrach, misach, et abdenago de medio ignis.	2020-04-18	Liber_Daniel
+1100000244	et congregati satrapae, et magistratus, et iudices, et potentes regis contemplabantur viros illos, quoniam nihil potestatis habuisset ignis in corporibus eorum, et capillus capitis eorum non esset adustus, et sarabala eorum non fuissent immutata, et odor ignis non transisset per eos.	2020-04-18	Liber_Daniel
+1100000245	et erumpens nabuchodonosor, ait: benedictus deus eorum, sidrach videlicet, misach, et abdenago: qui misit angelum suum, et eruit servos suos, qui crediderunt in eum: et verbum regis immutaverunt, et tradiderunt corpora sua ne servirent, et ne adorarent omnem deum, excepto deo suo.	2020-04-18	Liber_Daniel
+1100000246	a me ergo positum est hoc decretum: ut omnis populus, tribus, et lingua, quaecumque locuta fuerit blasphemiam contra deum sidrach, misach, et abdenago, dispereat, et domus eius vastetur: neque enim est alius deus, qui possit ita salvare.	2020-04-18	Liber_Daniel
+1100000247	tunc rex promovit sidrach, misach, et abdenago in provincia babylonis.	2020-04-18	Liber_Daniel
+1100000248	nabuchodonosor rex, omnibus populis, gentibus, et linguis, qui habitant in universa terra, pax vobis multiplicetur.	2020-04-18	Liber_Daniel
+1100000249	signa, et mirabilia fecit apud me deus excelsus. 	2020-04-18	Liber_Daniel
+1100000250	placuit ergo mihi praedicaresigna eius, quia magna sunt: et mirabilia eius, quia fortia: et regnum eius regnum sempiternum, et potestas eius in generationem et generationem.	2020-04-18	Liber_Daniel
+1100000251	caput 4	2020-04-18	Liber_Daniel
+1100000252	ego nabuchodonosor quietus eram in domo mea, et florens in palatio meo:somnium vidi, quod perterruit me: et cogitationes meae in strato meo, et visiones capitis mei conturbaverunt me.	2020-04-18	Liber_Daniel
+1100000253	et per me propositum est decretum ut introducerentur in conspectu meo cuncti sapientes babylonis, et ut solutionem somnii indicarent mihi.	2020-04-18	Liber_Daniel
+1100000254	tunc ingrediebantur arioli, magi, chaldaei, et aruspices, et somnium narravi in conspectu eorum: et solutionem eius non indicaverunt mihi,donec collega ingressus est in conspectu meo daniel, cui nomen baltassar secundum nomen dei mei, qui habet spiritum deorum sanctorum in semetipso: et somnium coram ipso locutus sum.	2020-04-18	Liber_Daniel
+1100000255	baltassar, princeps ariolorum, quoniam ego scio quod spiritum sanctorum deorum habeas in te, et omne sacramentum non est impossibile tibi: visiones somniorum meorum, quas vidi, et solutionem earum narra.	2020-04-18	Liber_Daniel
+1100000256	visio capitis mei in cubili meo: videbam, et ecce arbor in medio terrae, et altitudo eius nimia.	2020-04-18	Liber_Daniel
+1100000257	magna arbor, et fortis, et proceritas eius contingens caelum: aspectus illius erat usque ad terminos universae terrae.	2020-04-18	Liber_Daniel
+1100000258	folia eius pulcherrima, et fructus eius nimius: et esca universorum in ea. 	2020-04-18	Liber_Daniel
+1100000259	subter eam habitabant animalia et bestiae, et in ramis eius conversabantur volucres caeli: et ex ea vescebatur omnis caro.	2020-04-18	Liber_Daniel
+1100000260	videbam in visione capitis mei super stratum meum, et ecce vigil, et sanctus, de caelo descendit.	2020-04-18	Liber_Daniel
+1100000261	clamavit fortiter, et sic ait: succidite arborem, et praecidite ramos eius: excutite folia eius, et dispergite fructus eius: fugiant bestiae, quae subter eam sunt, et volucres de ramis eius.	2020-04-18	Liber_Daniel
+1100000262	verumtamen germen radicum eius in terra sinite, et alligetur vinculo ferreo et aereo in herbis quae foris sunt, et rore caeli tingatur, et cum feris pars eius in herba terrae.	2020-04-18	Liber_Daniel
+1100000263	cor eius ab humano commutetur, et cor ferae detur ei: et septem tempora mutentur super eum.	2020-04-18	Liber_Daniel
+1100000264	in sententia vigilum decretum est, et sermo sanctorum, et petitio: donec cognoscant viventes quoniam dominatur excelsus in regno hominum, et cuicumque voluerit, dabit illud, et humillimum hominem constituet super eum.	2020-04-18	Liber_Daniel
+1100000265	hoc somnium vidi ego nabuchodonosor rex: tu ergo baltassar interpretationem narra festinus, quia omnes sapientes regni mei non queunt solutionem edicere mihi: tu autem potes, quia spiritus deorum sanctorum in te est.	2020-04-18	Liber_Daniel
+1100000266	tunc daniel, cuius nomen baltassar, coepit intra semetipsum tacitus cogitare quasi una hora: et cogitationes eius conturbabant eum. 	2020-04-18	Liber_Daniel
+1100000267	respondens autem rex, ait: baltassar, somnium et interpretatio eius non conturbent te. 	2020-04-18	Liber_Daniel
+1100000268	respondit baltassar, et dixit: domine mi, somnium his, qui te oderunt, et interpretatio eius hostibus tuis sit.	2020-04-18	Liber_Daniel
+1100000269	arborem, quam vidisti sublimem atque robustam, cuius altitudo pertingit ad caelum, et aspectus illius in omnem terram;et rami eius pulcherrimi, et fructus eius nimius, et esca omnium in ea, subter eam habitantes bestiae agri, et in ramis eius commorantes aves caeli:tu es rex, qui magnificatus es, et invaluisti: et magnitudo tua crevit, et pervenit usque ad caelum, et potestas tua in terminos universae terrae.	2020-04-18	Liber_Daniel
+1100000270	quod autem vidit rex vigilem, et sanctum descendere de caelo, et dicere: succidite arborem, et dissipate illam, attamen germen radicum eius in terra dimittite, et vinciatur ferro et aere in herbis foris, et rore caeli conspergatur, et cum feris sit pabulum eius, donec septem tempora mutentur super eum:haec est interpretatio sententiae altissimi, quae pervenit super dominum meum regem,eiicient te ab hominibus, et cum bestiis ferisque erit habitatio tua, et foenum ut bos comedes, et rore caeli infunderis: septem quoque tempora mutabuntur super te, donec scias quod dominetur excelsus super regnum hominum, et cuicumque voluerit, det illud.	2020-04-18	Liber_Daniel
+1100000271	quod autem praecepit ut relinqueretur germen radicum eius, id est arboris: regnum tuum tibi manebit postquam cognoveris potestatem esse caelestem.	2020-04-18	Liber_Daniel
+1100000272	quam ob rem, rex, consilium meum placeat tibi, et peccata tua eleemosynis redime, et iniquitates tuas misericordiis pauperum: forsitan ignoscet delictis tuis.	2020-04-18	Liber_Daniel
+1100000273	omnia haec venerunt super nabuchodonosor regem.	2020-04-18	Liber_Daniel
+1100000274	post finem mensium duodecim, in aula babylonis deambulabat.	2020-04-18	Liber_Daniel
+1100000275	responditque rex, et ait: nonne haec est babylon magna, quam ego aedificavi in domum regni, in robore fortitudinis meae, et in gloria decoris mei?	2020-04-18	Liber_Daniel
+1100000276	cumque sermo adhuc esset in ore regis, vox de caelo ruit: tibi dicitur, nabuchodonosor rex: regnum tuum transibit a te,et ab hominibus eiicient te, et cum bestiis et feris erit habitatio tua: foenum quasi bos comedes, et septem tempora mutabuntur super te, donec scias quod dominetur excelsus in regno hominum, et cuicumque voluerit, det illud.	2020-04-18	Liber_Daniel
+1100000277	eadem hora sermo completus est super nabuchodonosor, et ex hominibus abiectus est, et foenum ut bos comedit, et rore caeli corpus eius infectum est, donec capilli eius in similitudinem aquilarum crescerent, et ungues eius quasi avium.	2020-04-18	Liber_Daniel
+1100000278	igitur post finem dierum, ego nabuchodonosor oculos meos ad caelum levavi, et sensus meus redditus est mihi: et altissimo benedixi, et viventem in sempiternum laudavi et glorificavi: quia potestas eius potestas sempiterna, et regnum eius in generationem et generationem.	2020-04-18	Liber_Daniel
+1100000279	et omnes habitatores terrae apud eum in nihilum reputati sunt: iuxta voluntatem enim suam facit tam in virtutibus caeli quam in habitatoribus terrae: et non est qui resistat manui eius, et dicat ei: quare fecisti?	2020-04-18	Liber_Daniel
+1100000280	in ipso tempore sensus meus reversus est ad me, et ad honorem regni mei, decoremque perveni: et figura mea reversa est ad me, et optimates mei et magistratus mei requisierunt me, et in regno meo restitutus sum: et magnificentia amplior addita est mihi.	2020-04-18	Liber_Daniel
+1100000281	nunc igitur, ego nabuchodonosor laudo, et magnifico, et glorifico regem caeli: quia omnia opera eius vera, et viae eius iudicia, et gradientes in superbia potest humiliare.	2020-04-18	Liber_Daniel
+1100000282	caput 5	2020-04-18	Liber_Daniel
+1100000283	baltassar rex fecit grande convivium optimatibus suis mille: et unusquisque secundum suam bibebat aetatem.	2020-04-18	Liber_Daniel
+1100000284	praecepit ergo iam temulentus ut afferrentur vasa aurea et argentea, quae asportaverat nabuchodonosor pater eius de templo, quod fuit in ierusalem, ut biberent in eis rex, et optimates eius, uxoresque eius, et concubinae.	2020-04-18	Liber_Daniel
+1100000285	tunc allata sunt vasa aurea, et argentea, quae asportaverat de templo, quod fuerat in ierusalem: et biberunt in eis rex, et optimates eius, uxores et concubinae illius.	2020-04-18	Liber_Daniel
+1100000286	bibebant vinum, et laudabant deos suos aureos et argenteos, aereos, ferreos, ligneosque et lapideos.	2020-04-18	Liber_Daniel
+1100000287	in eadem hora apparuerunt digiti, quasi manus hominis scribentis contra candelabrum in superficie parietis aulae regiae: et rex aspiciebat articulos manus scribentis.	2020-04-18	Liber_Daniel
+1100000288	tunc facies regis commutata est, et cogitationes eius conturbabant eum: et compages renum eius solvebantur, et genua eius ad se invicem collidebantur.	2020-04-18	Liber_Daniel
+1100000289	exclamavit itaque rex fortiter ut introducerent magos, chaldaeos, et aruspices. 	2020-04-18	Liber_Daniel
+1100000290	et proloquens rex ait sapientibus babylonis: quicumque legerit scripturam hanc, et interpretationem eius manifestam mihi fecerit, purpura vestietur, et torquem auream habebit in collo, et tertius in regno meo erit.	2020-04-18	Liber_Daniel
+1100000291	tunc ingressi omnes sapientes regis non potuerunt nec scripturam legere, nec interpretationem indicare regi.	2020-04-18	Liber_Daniel
+1100000292	unde rex baltassar satis conturbatus est, et vultus illius immutatus est; sed et optimates eius turbabantur.	2020-04-18	Liber_Daniel
+1100000293	regina autem pro re, quae acciderat regi et optimatibus eius, domum convivii ingressa est: et proloquens ait: rex, in aeternum vive! 	2020-04-18	Liber_Daniel
+1100000294	non te conturbent cogitationes tuae, neque facies tua immutetur.	2020-04-18	Liber_Daniel
+1100000295	est vir in regno tuo, qui spiritum deorum sanctorum habet in se, et in diebus patris tui scientia et sapientia inventae sunt in eo: nam et rex nabuchodonosor pater tuus principem magorum, incantatorum, chaldaeorum, et aruspicum constituit eum, pater, inquam, tuus, o rex:quia spiritus amplior, et prudentia, intelligentiaque et interpretatio somniorum, et ostensio secretorum, ac solutio ligatorum inventae sunt in eo, hoc est in daniele: cui rex posuit nomen baltassar. 	2020-04-18	Liber_Daniel
+1100000296	nunc itaque daniel vocetur, et interpretationem narrabit.	2020-04-18	Liber_Daniel
+1100000297	igitur introductus est daniel coram rege: ad quem praefatus rex ait: tu es daniel de filiis captivitatis iudae, quem adduxit pater meus rex de iudaea?	2020-04-18	Liber_Daniel
+1100000298	audivi de te, quoniam spiritum deorum habeas, et scientia, intelligentiaque ac sapientia ampliores inventae sunt in te.	2020-04-18	Liber_Daniel
+1100000299	et nunc introgressi sunt in conspectu meo sapientes magi, ut scripturam hanc legerent, et interpretationem eius indicarent mihi: et nequiverunt sensum huius sermonis edicere.	2020-04-18	Liber_Daniel
+1100000300	porro ego audivi de te, quod possis obscura interpretari, et ligata dissolvere: si ergo vales scripturam legere, et interpretationem eius indicare mihi, purpura vestieris, et torquem auream circa collum tuum habebis, et tertius in regno meo princeps eris.	2020-04-18	Liber_Daniel
+1100000301	ad quae respondens daniel, ait coram rege: munera tua sint tibi, et dona domus tuae alteri da: scripturam autem legam tibi, rex, et interpretationem eius ostendam tibi.	2020-04-18	Liber_Daniel
+1100000302	o rex, deus altissimus regnum et magnificentiam, gloriam et honorem dedit nabuchodonosor patri tuo.	2020-04-18	Liber_Daniel
+1100000303	et propter magnificentiam, quam dederat ei, universi populi, tribus, et linguae tremebant, et metuebant eum: quos volebat, interficiebat: et quos volebat, percutiebat: et quos volebat, exaltabat: et quos volebat, humiliabat.	2020-04-18	Liber_Daniel
+1100000304	quando autem elevatum est cor eius, et spiritus illius obfirmatus est ad superbiam, depositus est de solio regni sui, et gloria eius ablata est:et a filiis hominum eiectus est, sed et cor eius cum bestiis positum est, et cum onagris erat habitatio eius: foenum quoque ut bos comedebat, et rore caeli corpus eius infectum est, donec cognosceret quod potestatem haberet altissimus in regno hominum, et quemcumque voluerit, suscitabit super illud.	2020-04-18	Liber_Daniel
+1100000305	tu quoque, filius eius baltassar, non humiliasti cor tuum, cum scires haec omnia:sed adversum dominatorem caeli elevatus es: et vasa domus eius allata sunt coram te, et tu, et optimates tui, et uxores tuae, et concubinae tuae vinum bibistis in eis: deos quoque argenteos, et aureos, et aereos, ferreos, ligneosque et lapideos, qui non vident, neque audiunt, neque sentiunt, laudasti: porro deum, qui habet flatum tuum in manu sua, et omnes vias tuas, non glorificasti.	2020-04-18	Liber_Daniel
+1100000306	idcirco ab eo missus est articulus manus, quae scripsit hoc quod exaratum est.	2020-04-18	Liber_Daniel
+1100000307	haec est autem scriptura, quae digesta est: mane, thecel, phares.	2020-04-18	Liber_Daniel
+1100000308	et haec est interpretatio sermonis. 	2020-04-18	Liber_Daniel
+1100000309	mane: numeravit deus regnum tuum, et complevit illud.	2020-04-18	Liber_Daniel
+1100000310	thecel: appensus es in statera, et inventus es minus habens.	2020-04-18	Liber_Daniel
+1100000311	phares: divisum est regnum tuum, et datum est medis, et persis.	2020-04-18	Liber_Daniel
+1100000312	tunc, iubente rege, indutus est daniel purpura, et circumdata est torques aurea collo eius: et praedicatum est de eo quod haberet potestatem tertius in regno suo.	2020-04-18	Liber_Daniel
+1100000313	eadem nocte interfectus est baltassar rex chaldaeus.	2020-04-18	Liber_Daniel
+1100000314	et darius medus successit in regnum, annos natus sexaginta duos.	2020-04-18	Liber_Daniel
+1100000315	caput 6	2020-04-18	Liber_Daniel
+1100000316	placuit dario, et constituit super regnum satrapas centum viginti ut essent in toto regno suo.	2020-04-18	Liber_Daniel
+1100000317	et super eos principes tres, ex quibus daniel unus erat: ut satrapae illis redderent rationem, et rex non sustineret molestiam.	2020-04-18	Liber_Daniel
+1100000318	igitur daniel superabat omnes principes et satrapas, quia spiritus dei amplior erat in illo.	2020-04-18	Liber_Daniel
+1100000319	porro rex cogitabat constituere eum super omne regnum: unde principes, et satrapae quaerebant occasionem ut invenirent danieli ex latere regis: nullamque causam, et suspicionem reperire potuerunt, eo quod fidelis esset, et omnis culpa, et suspicio non inveniretur in eo.	2020-04-18	Liber_Daniel
+1100000320	dixerunt ergo viri illi: non inveniemus danieli huic aliquam occasionem, nisi forte in lege dei sui.	2020-04-18	Liber_Daniel
+1100000321	tunc principes et satrapae surripuerunt regi, et sic locuti sunt ei: dari rex, in aeternum vive!	2020-04-18	Liber_Daniel
+1100000322	consilium inierunt omnes principes regni tui, magistratus, et satrapae, senatores, et iudices, ut decretum imperatorium exeat, et edictum: ut omnis, qui petierit aliquam petitionem a quocumque deo et homine usque ad triginta dies, nisi a te, rex, mittatur in lacum leonum.	2020-04-18	Liber_Daniel
+1100000323	nunc itaque rex, confirma sententiam, et scribe decretum: ut non immutetur quod statutum est a medis et persis, nec praevaricari cuiquam liceat.	2020-04-18	Liber_Daniel
+1100000324	porro rex darius proposuit edictum, et statuit.	2020-04-18	Liber_Daniel
+1100000325	quod cum daniel comperisset, id est, constitutam legem, ingressus est domum suam: et fenestris apertis in coenaculo suo contra ierusalem tribus temporibus in die flectebat genua sua, et adorabat, confitebaturque coram deo suo sicut et ante facere consueverat.	2020-04-18	Liber_Daniel
+1100000326	viri ergo illi curiosius inquirentes invenerunt danielem orantem, et obsecrantem deum suum.	2020-04-18	Liber_Daniel
+1100000327	et accedentes locuti sunt regi super edicto: rex, numquid non constituisti ut omnis homo qui rogaret quemquam de diis et hominibus usque ad dies triginta, nisi te, rex, mitteretur in lacum leonum? 	2020-04-18	Liber_Daniel
+1100000328	ad quos respondens rex, ait: verus est sermo iuxta decretum medorum atque persarum, quod praevaricari non licet.	2020-04-18	Liber_Daniel
+1100000329	tunc respondentes dixerunt coram rege: daniel de filiis captivitatis iuda, non curavit de lege tua, et de edicto quod constituisti: sed tribus temporibus per diem orat obsecratione sua.	2020-04-18	Liber_Daniel
+1100000330	quod verbum cum audisset rex, satis contristatus est: et pro daniele posuit cor ut liberaret eum, et usque ad occasum solis laborabat ut erueret illum.	2020-04-18	Liber_Daniel
+1100000331	viri autem illi, intelligentes regem, dixerunt ei: scito, rex, quia lex medorum atque persarum est ut omne decretum, quod constituerit rex, non liceat immutari.	2020-04-18	Liber_Daniel
+1100000332	tunc rex praecepit, et adduxerunt danielem, et miserunt eum in lacum leonum. 	2020-04-18	Liber_Daniel
+1100000333	dixitque rex danieli: deus tuus, quem colis semper, ipse liberabit te.	2020-04-18	Liber_Daniel
+1100000334	allatusque est lapis unus, et positus est super os laci: quem obsignavit rex annulo suo, et annulo optimatum suorum, ne quid fieret contra danielem.	2020-04-18	Liber_Daniel
+1100000335	et abiit rex in domum suam, et dormivit incoenatus, cibique non sunt allati coram eo, insuper et somnus recessit ab eo.	2020-04-18	Liber_Daniel
+1100000336	tunc rex primo diluculo consurgens, festinus ad lacum leonum perrexit:appropinquansque lacui, danielem voce lacrimabili inclamavit, et affatus est eum: daniel serve dei viventis, deus tuus, cui tu servis semper, putasne valuit te liberare a leonibus?	2020-04-18	Liber_Daniel
+1100000337	et daniel regi respondens ait: rex, in aeternum vive!	2020-04-18	Liber_Daniel
+1100000338	deus meus misit angelum suum, et conclusit ora leonum, et non nocuerunt mihi: quia coram eo iustitia inventa est in me: sed et coram te, rex, delictum non feci.	2020-04-18	Liber_Daniel
+1100000339	tunc vehementer rex gavisus est super eo, et danielem praecepit educi de lacu: eductusque est daniel de lacu, et nulla laesio inventa est in eo, quia credidit deo suo.	2020-04-18	Liber_Daniel
+1100000340	iubente autem rege, adducti sunt viri illi, qui accusaverant danielem: et in lacum leonum missi sunt, ipsi, et filii, et uxores eorum: et non pervenerunt usque ad pavimentum laci, donec arriperent eos leones, et omnia ossa eorum comminuerunt.	2020-04-18	Liber_Daniel
+1100000341	tunc darius rex scripsit universis populis, tribubus, et linguis habitantibus in universa terra: pax vobis multiplicetur.	2020-04-18	Liber_Daniel
+1100000342	a me constitutum est decretum, ut in universo imperio et regno meo, tremiscant et paveant deum danielis: ipse est enim deus vivens, et aeternus in saecula, et regnum eius non dissipabitur, et potestas eius usque in aeternum.	2020-04-18	Liber_Daniel
+1100000343	ipse liberator atque salvator, faciens signa et mirabilia in caelo et in terra: qui liberavit danielem de lacu leonum.	2020-04-18	Liber_Daniel
+1100000344	porro daniel perseveravit usque ad regnum darii, regnumque cyri persae.	2020-04-18	Liber_Daniel
+1100000345	caput 7	2020-04-18	Liber_Daniel
+1100000346	anno primo baltassar regis babylonis, daniel somnium vidit: visio autem capitis eius in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:videbam in visione mea nocte: et ecce quatuor venti caeli pugnabant in mari magno.	2020-04-18	Liber_Daniel
+1100000347	et quatuor bestiae grandes ascendebant de mari diversae inter se.	2020-04-18	Liber_Daniel
+1100000348	prima quasi leaena, et alas habebat aquilae: aspiciebam donec evulsae sunt alae eius, et sublata est de terra, et super pedes quasi homo stetit; et cor hominis datum est ei.	2020-04-18	Liber_Daniel
+1100000349	et ecce bestia alia similis urso in parte stetit: et tres ordines erant in ore eius, et in dentibus eius, et sic dicebant ei: surge, comede carnes plurimas.	2020-04-18	Liber_Daniel
+1100000350	post haec aspiciebam, et ecce alia quasi pardus, et alas habebat quasi avis, quatuor super se: et quatuor capita erant in bestia, et potestas data est ei.	2020-04-18	Liber_Daniel
+1100000351	post haec aspiciebam in visione noctis, et ecce bestia quarta terribilis atque mirabilis, et fortis nimis: dentes ferreos habebat magnos, comedens atque comminuens, et reliqua pedibus suis conculcans: dissimilis autem erat ceteris bestiis quas videram ante eam, et habebat cornua decem.	2020-04-18	Liber_Daniel
+1100000352	considerabam cornua, et ecce cornu aliud parvulum ortum est de medio eorum: et tria de cornibus primis evulsa sunt a facie eius: et ecce oculi, quasi oculi hominis erant in cornu isto, et os loquens ingentia.	2020-04-18	Liber_Daniel
+1100000353	aspiciebam donec throni positi sunt, et antiquus dierum sedit. 	2020-04-18	Liber_Daniel
+1100000354	vestimentum eius candidum quasi nix, et capilli capitis eius quasi lana munda: thronus eius flammae ignis: rotae eius ignis accensus.	2020-04-18	Liber_Daniel
+1100000355	fluvius igneus rapidusque egrediebatur a facie eius. 	2020-04-18	Liber_Daniel
+1100000356	millia millium ministrabant ei, et decies millies centena millia assistebant ei: iudicium sedit, et libri aperti sunt.	2020-04-18	Liber_Daniel
+1100000357	aspiciebam propter vocem sermonum grandium, quos cornu illud loquebatur: et vidi quoniam interfecta esset bestia, et perisset corpus eius, et traditum esset ad comburendum igni:aliarum quoque bestiarum ablata esset potestas, et tempora vitae constituta essent eis usque ad tempus et tempus.	2020-04-18	Liber_Daniel
+1100000358	aspiciebam ergo in visione noctis, et ecce cum nubibus caeli quasi filius hominis veniebat, et usque ad antiquum dierum pervenit: et in conspectu eius obtulerunt eum.	2020-04-18	Liber_Daniel
+1100000359	et dedit ei potestatem, et honorem, et regnum: et omnes populi, tribus, et linguae ipsi servient: potestas eius, potestas aeterna, quae non auferetur: et regnum eius, quod non corrumpetur.	2020-04-18	Liber_Daniel
+1100000360	horruit spiritus meus: ego daniel territus sum in his, et visiones capitis mei conturbaverunt me.	2020-04-18	Liber_Daniel
+1100000361	accessi ad unum de assistentibus, et veritatem quaerebam ab eo de omnibus his. 	2020-04-18	Liber_Daniel
+1100000362	qui dixit mihi interpretationem sermonum, et docuit me:hae quatuor bestiae magnae, quatuor sunt regna, quae consurgent de terra.	2020-04-18	Liber_Daniel
+1100000363	suscipient autem regnum sancti dei altissimi, et obtinebunt regnum usque in saeculum, et saeculum saeculorum.	2020-04-18	Liber_Daniel
+1100000364	post hoc volui diligenter discere de bestia quarta, quae erat dissimilis valde ab omnibus, et terribilis nimis: dentes et ungues eius ferrei: comedebat, et comminuebat, et reliqua pedibus suis conculcabat:et de cornibus decem, quae habebat in capite, et de alio, quod ortum fuerat, ante quod ceciderant tria cornua: et de cornu illo, quod habebat oculos, et os loquens grandia, et maius erat ceteris.	2020-04-18	Liber_Daniel
+1100000365	aspiciebam, et ecce cornu illud faciebat bellum adversus sanctos, et praevalebat eis,donec venit antiquus dierum, et iudicium dedit sanctis excelsi, et tempus advenit, et regnum obtinuerunt sancti.	2020-04-18	Liber_Daniel
+1100000366	et sic ait: bestia quarta, regnum quartum erit in terra, quod maius erit omnibus regnis, et devorabit universam terram, et conculcabit, et comminuet eam.	2020-04-18	Liber_Daniel
+1100000367	porro cornua decem ipsius regni, decem reges erunt: et alius consurget post eos, et ipse potentior erit prioribus, et tres reges humiliabit.	2020-04-18	Liber_Daniel
+1100000368	et sermones contra excelsum loquetur, et sanctos altissimi conteret: et putabit quod possit mutare tempora, et leges: et tradentur in manu eius usque ad tempus, et tempora, et dimidium temporis.	2020-04-18	Liber_Daniel
+1100000369	et iudicium sedebit, ut auferatur potentia, et conteratur, et dispereat usque in finem.	2020-04-18	Liber_Daniel
+1100000370	regnum autem, et potestas, et magnitudo regni, quae est subter omne caelum, detur populo sanctorum altissimi: cuius regnum, regnum sempiternum est, et omnes reges servient ei, et obedient.	2020-04-18	Liber_Daniel
+1100000371	hucusque finis verbi. 	2020-04-18	Liber_Daniel
+1100000372	ego daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi.	2020-04-18	Liber_Daniel
+1100000373	caput 8	2020-04-18	Liber_Daniel
+1100000374	anno tertio regni baltassar regis, visio apparuit mihi. 	2020-04-18	Liber_Daniel
+1100000375	ego daniel, post id quod videram in principio,vidi in visione mea, cum essem in susis castro, quod est in aelam regione: vidi autem in visione esse me super portam ulai.	2020-04-18	Liber_Daniel
+1100000376	et levavi oculus meos, et vidi: et ecce aries unus stabat ante paludem, habens cornua excelsa, et unum excelsius altero atque succrescens. 	2020-04-18	Liber_Daniel
+1100000377	posteavidi arietem cornibus ventilantem contra occidentem, et contra aquilonem, et contra meridiem, et omnes bestiae non poterant resistere ei, neque liberari de manu eius: fecitque secundum voluntatem suam, et magnificatus est.	2020-04-18	Liber_Daniel
+1100000378	et ego intelligebam: ecce autem hircus caprarum veniebat ab occidente super faciem totius terrae, et non tangebat terram: porro hircus habebat cornu insigne inter oculos suos.	2020-04-18	Liber_Daniel
+1100000379	et venit usque ad arietem illum cornutum, quem videram stantem ante portam, et cucurrit ad eum in impetu fortitudinis suae.	2020-04-18	Liber_Daniel
+1100000380	cumque appropinquasset prope arietem, efferatus est in eum, et percussit arietem: et comminuit duo cornua eius, et non poterat aries resistere ei: cumque eum misisset in terram, conculcavit, et nemo quibat liberare arietem de manu eius.	2020-04-18	Liber_Daniel
+1100000381	hircus autem caprarum magnus factus est nimis: cumque crevisset, fractum est cornu magnum, et orta sunt quatuor cornua subter illud per quatuor ventos caeli.	2020-04-18	Liber_Daniel
+1100000382	de uno autem ex eis egressum est cornu unum modicum: et factum est grande contra meridiem, et contra orientem, et contra fortitudinem.	2020-04-18	Liber_Daniel
+1100000383	et magnificatum est usque ad fortitudinem caeli: et deiecit de fortitudine, et de stellis, et conculcavit eas.	2020-04-18	Liber_Daniel
+1100000384	et usque ad principem fortitudinis magnificatum est: et ab eo tulit iuge sacrificium, et deiecit locum sanctificationis eius.	2020-04-18	Liber_Daniel
+1100000385	robur autem datum est ei contra iuge sacrificium propter peccata: et prosternetur veritas in terra, et faciet, et prosperabitur.	2020-04-18	Liber_Daniel
+1100000386	et audivi unum de sanctis loquentem: et dixit unus sanctus alteri nescio cui loquenti: usquequo visio, et iuge sacrificium, et peccatum desolationis quae facta est: et sanctuarium, et fortitudo conculcabitur?	2020-04-18	Liber_Daniel
+1100000387	et dixit ei: usque ad vesperam et mane, dies duo millia trecenti: et mundabitur sanctuarium.	2020-04-18	Liber_Daniel
+1100000388	factum est autem cum viderem ego daniel visionem, et quaererem intelligentiam: ecce stetit in conspectu meo quasi species viri.	2020-04-18	Liber_Daniel
+1100000389	et audivi vocem viri inter ulai: et clamavit, et ait: gabriel, fac intelligere istam visionem.	2020-04-18	Liber_Daniel
+1100000390	et venit, et stetit iuxta ubi ego stabam: cumque venisset, pavens corrui in faciem meam: et ait ad me: intellige, fili hominis, quoniam in tempore finis complebitur visio.	2020-04-18	Liber_Daniel
+1100000391	cumque loqueretur ad me, collapsus sum pronus in terram: et tetigit me, et statuit me in gradu meo,dixitque mihi: ego ostendam tibi quae futura sunt in novissimo maledictionis: quoniam habet tempus finem suum.	2020-04-18	Liber_Daniel
+1100000392	aries, quem vidisti habere cornua, rex medorum est atque persarum.	2020-04-18	Liber_Daniel
+1100000393	porro hircus caprarum, rex graecorum est; et cornu grande, quod erat inter oculos eius, ipse est rex primus.	2020-04-18	Liber_Daniel
+1100000394	quod autem fracto illo surrexerunt quatuor pro eo: quatuor reges de gente eius consurgent, sed non in fortitudine eius.	2020-04-18	Liber_Daniel
+1100000395	et post regnum eorum, cum creverint iniquitates, consurget rex impudens facie, et intelligens propositiones;et roborabitur fortitudo eius, sed non in viribus suis: et supra quam credi potest, universa vastabit, et prosperabitur, et faciet. 	2020-04-18	Liber_Daniel
+1100000396	et interficiet robustos, et populum sanctorumsecundum voluntatem suam, et dirigetur dolus in manu eius: et cor suum magnificabit, et in copia rerum omnium occidet plurimos: et contra principem principum consurget, et sine manu conteretur.	2020-04-18	Liber_Daniel
+1100000397	et visio vespere et mane, quae dicta est, vera est: tu ergo visionem signa, quia post multos dies erit.	2020-04-18	Liber_Daniel
+1100000398	et ego daniel langui, et aegrotavi per dies: cumque surrexissem, faciebam opera regis, et stupebam ad visionem, et non erat qui interpretaretur.	2020-04-18	Liber_Daniel
+1100000399	caput 9	2020-04-18	Liber_Daniel
+1100000400	in anno primo darii filii assueri de semine medorum, qui imperavit super regnum chaldaeorum,anno uno regni eius, ego daniel intellexi in libris numerum annorum, de quo factus est sermo domini ad ieremiam prophetam, ut complerentur desolationis ierusalem septuaginta anni.	2020-04-18	Liber_Daniel
+1100000401	et posui faciem meam ad dominum deum meum rogare et deprecari in ieiuniis, sacco, et cinere.	2020-04-18	Liber_Daniel
+1100000402	et oravi dominum deum meum, et confessus sum, et dixi: obsecro, domine deus magne et terribilis, custodiens pactum, et misericordiam diligentibus te, et custodientibus mandata tua:peccavimus, iniquitatem fecimus, impie egimus, et recessimus: et declinavimus a mandatis tuis ac iudiciis.	2020-04-18	Liber_Daniel
+1100000403	non obedivimus servis tuis prophetis, qui locuti sunt in nomine tuo regibus nostris, principibus nostris, patribus nostris, omnique populo terrae.	2020-04-18	Liber_Daniel
+1100000404	tibi, domine, iustitia: nobis autem confusio faciei, sicut est hodie viro iuda, et habitatoribus ierusalem, et omni israel, his qui prope sunt, et his qui procul in universis terris, ad quas eiecisti eos propter iniquitates eorum, in quibus peccaverunt in te.	2020-04-18	Liber_Daniel
+1100000405	domine, nobis confusio faciei, regibus nostris, principibus nostris, et patribus nostris, qui peccaverunt.	2020-04-18	Liber_Daniel
+1100000406	tibi autem domino deo nostro misericordia et propitiatio, quia recessimus a te,et non audivimus vocem domini dei nostri ut ambularemus in lege eius, quam posuit nobis per servos suos prophetas.	2020-04-18	Liber_Daniel
+1100000407	et omnis israel praevaricati sunt legem tuam, et declinaverunt ne audirent vocem tuam: et stillavit super nos maledictio et detestatio quae scripta est in libro moysi servi dei, quia peccavimus ei.	2020-04-18	Liber_Daniel
+1100000408	et statuit sermones suos, quos locutus est super nos et super principes nostros, qui iudicaverunt nos, ut superinduceret in nos magnum malum, quale numquam fuit sub omni caelo, secundum quod factum est in ierusalem.	2020-04-18	Liber_Daniel
+1100000409	sicut scriptum est in lege moysi, omne malum hoc venit super nos: et non rogavimus faciem tuam, domine deus noster, ut reverteremur ab iniquitatibus nostris, et cogitaremus veritatem tuam.	2020-04-18	Liber_Daniel
+1100000410	et vigilavit dominus super malitiam, et adduxit eam super nos. 	2020-04-18	Liber_Daniel
+1100000411	iustus dominus deus noster in omnibus operibus suis, quae fecit: non enim audivimus vocem eius.	2020-04-18	Liber_Daniel
+1100000412	et nunc domine deus noster, qui eduxisti populum tuum de terra aegypti in manu forti, et fecisti tibi nomen secundum diem hanc: peccavimus, iniquitatem fecimus.	2020-04-18	Liber_Daniel
+1100000413	domine, in omnem iustitiam tuam avertatur, obsecro, ira tua et furor tuus a civitate tua ierusalem, et monte sancto tuo. 	2020-04-18	Liber_Daniel
+1100000414	propter peccata enim nostra, et iniquitates patrum nostrorum, ierusalem et populus tuus in opprobrium sunt omnibus per circuitum nostrum.	2020-04-18	Liber_Daniel
+1100000415	nunc ergo exaudi, deus noster, orationem servi tui, et preces eius: et ostende faciem tuam super sanctuarium tuum, quod desertum est propter temetipsum.	2020-04-18	Liber_Daniel
+1100000416	inclina, deus meus, aurem tuam, et audi: aperi oculos tuos, et vide desolationem nostram, et civitatem super quam invocatum est nomen tuum: neque enim in iustificationibus nostris prosternimus preces ante faciem tuam, sed in miserationibus tuis multis.	2020-04-18	Liber_Daniel
+1100000417	exaudi, domine; placare domine: attende et fac: ne moreris propter temetipsum, deus meus, quia nomen tuum invocatum est super civitatem et super populum tuum.	2020-04-18	Liber_Daniel
+1100000418	cumque adhuc loquerer, et orarem, et confiterer peccata mea, et peccata populi mei israel, et prosternerem preces meas in conspectu dei mei, pro monte sancto dei mei:adhuc me loquente in oratione, ecce vir gabriel, quem videram in visione a principio, cito volans tetigit me in tempore sacrificii vespertini.	2020-04-18	Liber_Daniel
+1100000419	et docuit me, et locutus est mihi, dixitque: daniel, nunc egressus sum ut docerem te, et intelligeres.	2020-04-18	Liber_Daniel
+1100000420	ab exordio precum tuarum egressus est sermo: ego autem veni ut indicarem tibi, quia vir desideriorum es: tu ergo animadverte sermonem, et intellige visionem.	2020-04-18	Liber_Daniel
+1100000421	septuaginta hebdomades abbreviatae sunt super populum tuum et super urbem sanctam tuam, ut consummetur praevaricatio, et finem accipiat peccatum, et deleatur iniquitas, et adducatur iustitia sempiterna, et impleatur visio et prophetia, et ungatur sanctus sanctorum.	2020-04-18	Liber_Daniel
+1100000422	scito ergo, et animadverte: ab exitu sermonis, ut iterum aedificetur ierusalem, usque ad christum ducem, hebdomades septem, et hebdomades sexaginta duae erunt: et rursum aedificabitur platea, et muri in angustia temporum.	2020-04-18	Liber_Daniel
+1100000423	et post hebdomades sexaginta duas occidetur christus: et non erit eius populus qui eum negaturus est. 	2020-04-18	Liber_Daniel
+1100000424	et civitatem et sanctuarium dissipabit populus cum duce venturo: et finis eius vastitas, et post finem belli statuta desolatio.	2020-04-18	Liber_Daniel
+1100000425	confirmabit autem pactum multis hebdomada una: et in dimidio hebdomadis deficiet hostia et sacrificium: et erit in templo abominatio desolationis: et usque ad consummationem et finem perseverabit desolatio.	2020-04-18	Liber_Daniel
+1100000426	caput 10	2020-04-18	Liber_Daniel
+1100000427	anno tertio cyri regis persarum, verbum revelatum est danieli cognomento baltassar, et verbum verum, et fortitudo magna: intellexitque sermonem: intelligentia enim est opus in visione.	2020-04-18	Liber_Daniel
+1100000428	in diebus illis ego daniel lugebam trium hebdomadarum diebus:panem desiderabilem non comedi, et caro et vinum non introierunt in os meum, sed neque unguento unctus sum, donec complerentur trium hebdomadarum dies.	2020-04-18	Liber_Daniel
+1100000429	die autem vigesima et quarta mensis primi, eram iuxta fluvium magnum, qui est tigris.	2020-04-18	Liber_Daniel
+1100000430	et levavi oculos meos, et vidi: et ecce vir unus vestitus lineis, et renes eius accincti auro obrizo:et corpus eius quasi chrysolithus, et facies eius velut species fulguris, et oculi eius ut lampas ardens: et brachia eius, et quae deorsum sunt usque ad pedes, quasi species aeris candentis: et vox sermonum eius ut vox multitudinis.	2020-04-18	Liber_Daniel
+1100000431	vidi autem ego daniel solus visionem: porro viri qui erant mecum non viderunt, sed terror nimius irruit super eos, et fugerunt in absconditum.	2020-04-18	Liber_Daniel
+1100000432	ego autem relictus solus vidi visionem grandem hanc: et non remansit in me fortitudo, sed et species mea immutata est in me, et emarcui, nec habui quidquam virium.	2020-04-18	Liber_Daniel
+1100000433	et audivi vocem sermonum eius: et audiens iacebam consternatus super faciem meam, et vultus meus haerebat terrae.	2020-04-18	Liber_Daniel
+1100000434	et ecce manus tetigit me, et erexit me super genua mea, et super articulos manuum mearum.	2020-04-18	Liber_Daniel
+1100000435	et dixit ad me: daniel vir desideriorum, intellige verba quae ego loquor ad te, et sta in gradu tuo: nunc enim sum missus ad te. 	2020-04-18	Liber_Daniel
+1100000436	cumque dixisset mihi sermonem istum, steti tremens.	2020-04-18	Liber_Daniel
+1100000437	et ait ad me: noli metuere, daniel: quia ex die primo, quo posuisti cor tuum ad intelligendum ut te affligeres in conspectu dei tui, exaudita sunt verba tua: et ego veni propter sermones tuos.	2020-04-18	Liber_Daniel
+1100000438	princeps autem regni persarum restitit mihi viginti et uno diebus: et ecce michael, unus de principibus primis, venit in adiutorium meum, et ego remansi ibi iuxta regem persarum.	2020-04-18	Liber_Daniel
+1100000439	veni autem ut docerem te quae ventura sunt populo tuo in novissimis diebus, quoniam adhuc visio in dies.	2020-04-18	Liber_Daniel
+1100000440	cumque loqueretur mihi huiuscemodi verbis, deieci vultum meum ad terram, et tacui.	2020-04-18	Liber_Daniel
+1100000441	et ecce quasi similitudo filii hominis tetigit labia mea: et aperiens os meum locutus sum, et dixi ad eum, qui stabat contra me: domine mi, in visione tua dissolutae sunt compages meae, et nihil in me remansit virium.	2020-04-18	Liber_Daniel
+1100000442	et quomodo poterit servus domini mei loqui cum domino meo? 	2020-04-18	Liber_Daniel
+1100000443	nihil enim in me remansit virium, sed et halitus meus intercluditur.	2020-04-18	Liber_Daniel
+1100000444	rursum ergo tetigit me quasi visio hominis, et confortavit me,et dixit: noli timere, vir desideriorum: pax tibi: confortare, et esto robustus. 	2020-04-18	Liber_Daniel
+1100000445	cumque loqueretur mecum, convalui, et dixi: loquere, domine mi, quia confortasti me.	2020-04-18	Liber_Daniel
+1100000446	et ait: numquid scis quare venerim ad te? 	2020-04-18	Liber_Daniel
+1100000447	et nunc revertar ut praelier adversum principem persarum. 	2020-04-18	Liber_Daniel
+1100000448	cum ego egrederer, apparuit princeps graecorum veniens.	2020-04-18	Liber_Daniel
+1100000449	verumtamen annuntiabo tibi quod expressum est in scriptura veritatis: et nemo est adiutor meus in omnibus his, nisi michael princeps vester.	2020-04-18	Liber_Daniel
+1100000450	caput 11	2020-04-18	Liber_Daniel
+1100000451	ego autem ab anno primo darii medi stabam ut confortaretur et roboraretur.	2020-04-18	Liber_Daniel
+1100000452	et nunc veritatem annuntiabo tibi. 	2020-04-18	Liber_Daniel
+1100000453	ecce adhuc tres reges stabunt in perside, et quartus ditabitur opibus nimiis super omnes: et cum invaluerit divitiis suis, concitabit omnes adversum regnum graeciae.	2020-04-18	Liber_Daniel
+1100000454	surget vero rex fortis, et dominabitur potestate multa, et faciet quod placuerit ei.	2020-04-18	Liber_Daniel
+1100000455	et cum steterit, conteretur regnum eius, et dividetur in quatuor ventos caeli: sed non in posteros eius, neque secundum potentiam illius, qua dominatus est: lacerabitur enim regnum eius etiam in externos, exceptis his.	2020-04-18	Liber_Daniel
+1100000456	et confortabitur rex austri: et de principibus eius praevalebit super eum, et dominabitur ditione: multa enim dominatio eius.	2020-04-18	Liber_Daniel
+1100000457	et post finem annorum foederabuntur: filiaque regis austri veniet ad regem aquilonis facere amicitiam, et non obtinebit fortitudinem brachii, nec stabit semen eius: et tradetur ipsa, et qui adduxerunt eam adolescentes eius, et qui confortabant eam in temporibus.	2020-04-18	Liber_Daniel
+1100000458	et stabit de germine radicum eius plantatio: et veniet cum exercitu, et ingredietur provinciam regis aquilonis: et abutetur eis, et obtinebit.	2020-04-18	Liber_Daniel
+1100000459	insuper et deos eorum, et sculptilia, vasa quoque pretiosa argenti et auri, captiva ducet in aegyptum: ipse praevalebit adversus regem aquilonis.	2020-04-18	Liber_Daniel
+1100000460	et intrabit in regnum rex austri, et revertetur ad terram suam.	2020-04-18	Liber_Daniel
+1100000461	filii autem eius provocabuntur, et congregabunt multitudinem exercituum plurimorum: et veniet properans, et inundans: et revertetur, et concitabitur, et congredietur cum robore eius.	2020-04-18	Liber_Daniel
+1100000462	et provocatus rex austri egredietur, et pugnabit adversus regem aquilonis, et praeparabit multitudinem nimiam, et dabitur multitudo in manu eius.	2020-04-18	Liber_Daniel
+1100000463	et capiet multitudinem, et exaltabitur cor eius, et deiiciet multa millia, sed non praevalebit.	2020-04-18	Liber_Daniel
+1100000464	convertetur enim rex aquilonis, et praeparabit multitudinem multo maiorem quam prius: et in fine temporum annorumque veniet properans cum exercitu magno, et opibus nimiis.	2020-04-18	Liber_Daniel
+1100000465	et in temporibus illis multi consurgent adversus regem austri: filii quoque praevaricatorum populi tui extollentur ut impleant visionem, et corruent.	2020-04-18	Liber_Daniel
+1100000466	et venit rex aquilonis, et comportabit aggerem, et capiet urbes munitissimas: et brachia austri non sustinebunt, et consurgent electi eius ad resistendum, et non erit fortitudo.	2020-04-18	Liber_Daniel
+1100000467	et faciet veniens super eum iuxta placitum suum, et non erit qui stet contra faciem eius: et stabit in terra inclyta, et consumetur in manu eius.	2020-04-18	Liber_Daniel
+1100000468	et ponet faciem suam ut veniat ad tenendum universum regnum eius, et recta faciet cum eo: et filiam feminarum dabit ei, ut evertat illud: et non stabit, nec illius erit.	2020-04-18	Liber_Daniel
+1100000469	et convertet faciem suam ad insulas, et capiet multas: et cessare faciet principem opprobrii sui, et opprobrium eius convertetur in eum.	2020-04-18	Liber_Daniel
+1100000470	et convertet faciem suam ad imperium terrae suae, et impinget, et corruet, et non invenietur.	2020-04-18	Liber_Daniel
+1100000471	et stabit in loco eius vilissimus, et indignus decore regio: et in paucis diebus conteretur, non in furore, nec in praelio.	2020-04-18	Liber_Daniel
+1100000472	et stabit in loco eius despectus, et non tribuetur ei honor regius: et veniet clam, et obtinebit regnum in fraudulentia.	2020-04-18	Liber_Daniel
+1100000473	et brachia pugnantis expugnabuntur a facie eius, et conterentur: insuper et dux foederis.	2020-04-18	Liber_Daniel
+1100000474	et post amicitias, cum eo faciet dolum: et ascendet, et superabit in modico populo.	2020-04-18	Liber_Daniel
+1100000475	et abundantes, et uberes urbes ingredietur: et faciet quae non fecerunt patres eius, et patres patrum eius: rapinas, et praedam, et divitias eorum dissipabit, et contra firmissimas cogitationes inibit: et hoc usque ad tempus.	2020-04-18	Liber_Daniel
+1100000476	et concitabitur fortitudo eius, et cor eius adversum regem austri in exercitu magno: et rex austri provocabitur ad bellum multis auxiliis, et fortibus nimis: et non stabunt, quia inibunt adversus eum consilia.	2020-04-18	Liber_Daniel
+1100000477	et comedentes panem cum eo, conterent illum, exercitusque eius opprimetur: et cadent interfecti plurimi.	2020-04-18	Liber_Daniel
+1100000478	duorum quoque regum cor erit ut malefaciant, et ad mensam unam mendacium loquentur: et non proficient, quia adhuc finis in aliud tempus.	2020-04-18	Liber_Daniel
+1100000479	et revertetur in terram suam cum opibus multis: et cor eius adversum testamentum sanctum, et faciet, et revertetur in terram suam.	2020-04-18	Liber_Daniel
+1100000480	statuto tempore revertetur, et veniet ad austrum: et non erit priori simile novissimum.	2020-04-18	Liber_Daniel
+1100000481	et venient super eum trieres, et romani: et percutietur, et revertetur, et indignabitur contra testamentum sanctuarii, et faciet: reverteturque, et cogitabit adversum eos qui dereliquerunt testamentum sanctuarii.	2020-04-18	Liber_Daniel
+1100000482	et brachia ex eo stabunt, et polluent sanctuarium fortitudinis, et auferent iuge sacrificium: et dabunt abominationem in desolationem.	2020-04-18	Liber_Daniel
+1100000483	et impii in testamentum simulabunt fraudulenter: populus autem sciens deum suum, obtinebit, et faciet.	2020-04-18	Liber_Daniel
+1100000484	et docti in populo docebunt plurimos: et ruent in gladio, et in flamma, et in captivitate, et in rapina dierum.	2020-04-18	Liber_Daniel
+1100000485	cumque corruerint, sublevabuntur auxilio parvulo: et applicabuntur eis plurimi fraudulenter.	2020-04-18	Liber_Daniel
+1100000486	et de eruditis ruent, ut conflentur, et eligantur, et dealbentur usque ad tempus praefinitum: quia adhuc aliud tempus erit.	2020-04-18	Liber_Daniel
+1100000487	et faciet iuxta voluntatem suam rex, et elevabitur, et magnificabitur adversus omnem deum: et adversus deum deorum loquetur magnifica, et dirigetur, donec compleatur iracundia: perpetrata quippe est definitio.	2020-04-18	Liber_Daniel
+1100000488	et deum patrum suorum non reputabit: et erit in concupiscentiis feminarum, nec quemquam deorum curabit, quia adversum universa consurget.	2020-04-18	Liber_Daniel
+1100000489	deum autem maozim in loco suo venerabitur: et deum, quem ignoraverunt patres eius, colet auro, et argento, et lapide pretioso, rebusque pretiosis.	2020-04-18	Liber_Daniel
+1100000490	et faciet ut muniat maozim cum deo alieno, quem cognovit, et multiplicabit gloriam, et dabit eis potestatem in multis, et terram dividet gratuito.	2020-04-18	Liber_Daniel
+1100000491	et in tempore praefinito praeliabitur adversus eum rex austri, et quasi tempestas veniet contra illum rex aquilonis in curribus, et in equitibus, et in classe magna, et ingredietur terras, et conteret, et pertransiet.	2020-04-18	Liber_Daniel
+1100000492	et introibit in terram gloriosam, et multae corruent: hae autem solae salvabuntur de manu eius, edom, et moab, et principium filiorum ammon.	2020-04-18	Liber_Daniel
+1100000493	et mittet manum suam in terras: et terra aegypti non effugiet.	2020-04-18	Liber_Daniel
+1100000494	et dominabitur thesaurorum auri, et argenti, et in omnibus pretiosis aegypti: per libyam quoque, et aethiopiam transibit.	2020-04-18	Liber_Daniel
+1100000495	et fama turbabit eum ab oriente et ab aquilone: et veniet in multitudine magna ut conterat et interficiat plurimos.	2020-04-18	Liber_Daniel
+1100000496	et figet tabernaculum suum apadno inter maria, super montem inclytum et sanctum: et veniet usque ad summitatem eius, et nemo auxiliabitur ei.	2020-04-18	Liber_Daniel
+1100000497	caput 12	2020-04-18	Liber_Daniel
+1100000498	in tempore autem illo consurget michael princeps magnus, qui stat pro filiis populi tui: et veniet tempus quale non fuit ab eo ex quo gentes esse coeperunt usque ad tempus illud. 	2020-04-18	Liber_Daniel
+1100000499	et in tempore illo salvabitur populus tuus, omnis qui inventus fuerit scriptus in libro.	2020-04-18	Liber_Daniel
+1100000500	et multi de his qui dormiunt in terrae pulvere evigilabunt, alii in vitam aeternam, et alii in opprobrium ut videant semper.	2020-04-18	Liber_Daniel
+1100000501	qui autem docti fuerint, fulgebunt quasi splendor firmamenti: et qui ad iustitiam erudiunt multos, quasi stellae in perpetuas aeternitates.	2020-04-18	Liber_Daniel
+1100000502	tu autem daniel, claude sermones, et signa librum usque ad tempus statutum: plurimi pertransibunt, et multiplex erit scientia.	2020-04-18	Liber_Daniel
+1100000503	et vidi ego daniel, et ecce quasi duo alii stabant: unus hinc super ripam fluminis, et alius inde ex altera ripa fluminis.	2020-04-18	Liber_Daniel
+1100000504	et dixi viro qui erat indutus lineis, qui stabat super aquas fluminis: usquequo finis horum mirabilium?	2020-04-18	Liber_Daniel
+1100000505	et audivi virum qui indutus erat lineis, qui stabat super aquas fluminis, cum elevasset dexteram et sinistram suam in caelum, et iurasset per viventem in aeternum, quia in tempus, et tempora, et dimidium temporis. 	2020-04-18	Liber_Daniel
+1100000506	et cum completa fuerit dispersio manus populi sancti, complebuntur universa haec.	2020-04-18	Liber_Daniel
+1100000507	et ego audivi, et non intellexi. 	2020-04-18	Liber_Daniel
+1100000508	et dixi: domine mi, quid erit post haec?	2020-04-18	Liber_Daniel
+1100000509	et ait: vade, daniel, quia clausi sunt signatique sermones usque ad praefinitum tempus.	2020-04-18	Liber_Daniel
+1100000510	eligentur, et dealbabuntur, et quasi ignis probabuntur multi: et impie agent impii, neque intelligent omnes impii: porro docti intelligent.	2020-04-18	Liber_Daniel
+1100000511	et a tempore cum ablatum fuerit iuge sacrificium, et posita fuerit abominatio in desolationem, dies mille ducenti nonaginta.	2020-04-18	Liber_Daniel
+1100000512	beatus qui exspectat, et pervenit usque ad dies mille trecentos triginta quinque.	2020-04-18	Liber_Daniel
+1100000513	tu autem vade ad praefinitum: et requiesces, et stabis in sorte tua in finem dierum.	2020-04-18	Liber_Daniel
+1100000514	caput 13	2020-04-18	Liber_Daniel
+1100000515	et erat vir habitans in babylone, et nomen eius ioakim:et accepit uxorem nomine susannam, filiam helciae, pulchram nimis, et timentem deum:parentes enim illius, cum essent iusti, erudierunt filiam suam secundum legem moysi.	2020-04-18	Liber_Daniel
+1100000516	erat autem ioakim dives valde, et erat ei pomarium vicinum domui suae: et ad ipsum confluebant iudaei, eo quod esset honorabilior omnium.	2020-04-18	Liber_Daniel
+1100000517	et constituti sunt de populo duo senes iudices in illo anno, de quibus locutus est dominus: quia egressa est iniquitas de babylone a senioribus iudicibus, qui videbantur regere populum.	2020-04-18	Liber_Daniel
+1100000518	isti frequentabant domum ioakim, et veniebant ad eos omnes qui habebant iudicia.	2020-04-18	Liber_Daniel
+1100000519	cum autem populus revertisset per meridiem, ingrediebatur susanna, et deambulabat in pomario viri sui.	2020-04-18	Liber_Daniel
+1100000520	et videbant eam senes quotidie ingredientem et deambulantem, et exarserunt in concupiscentiam eius:et everterunt sensum suum, et declinaverunt oculos suos ut non viderent caelum, neque recordarentur iudiciorum iustorum.	2020-04-18	Liber_Daniel
+1100000521	erant ergo ambo vulnerati amore eius, nec indicaverunt sibi vicissim dolorem suum:erubescebant enim indicare sibi concupiscentiam suam, volentes concumbere cum ea.	2020-04-18	Liber_Daniel
+1100000522	et observabant quotidie sollicitius videre eam. 	2020-04-18	Liber_Daniel
+1100000523	dixitque alter ad alterum:eamus domum, quia hora prandii est. 	2020-04-18	Liber_Daniel
+1100000524	et egressi, recesserunt a se.	2020-04-18	Liber_Daniel
+1100000525	cumque revertissent, venerunt in unum: et sciscitantes ab invicem causam, confessi sunt concupiscentiam suam: et tunc in communi statuerunt tempus quando eam possent invenire solam.	2020-04-18	Liber_Daniel
+1100000526	factum est autem, cum observarent diem aptum, ingressa est aliquando sicut heri et nudiustertius, cum duabus solis puellis, voluitque lavari in pomario: aestus quippe erat:et non erat ibi quisquam, praeter duos senes absconditos, et contemplantes eam.	2020-04-18	Liber_Daniel
+1100000527	dixit ergo puellis: afferte mihi oleum, et smigmata, et ostia pomarii claudite, ut laver.	2020-04-18	Liber_Daniel
+1100000528	et fecerunt sicut praeceperat: clauseruntque ostia pomarii, et egressae sunt per posticum ut afferrent quae iusserat; nesciebantque senes intus esse absconditos.	2020-04-18	Liber_Daniel
+1100000529	cum autem egressae essent puellae, surrexerunt duo senes, et accurrerunt ad eam, et dixerunt:ecce ostia pomarii clausa sunt, et nemo nos videt, et nos in concupiscentia tui sumus: quam ob rem assentire nobis, et commiscere nobiscum.	2020-04-18	Liber_Daniel
+1100000530	quod si nolueris, dicemus contra te testimonium, quod fuerit tecum iuvenis, et ob hanc causam emiseris puellas a te.	2020-04-18	Liber_Daniel
+1100000531	ingemuit susanna, et ait: angustiae sunt mihi undique: si enim hoc egero, mors mihi est: si autem non egero, non effugiam manus vestras.	2020-04-18	Liber_Daniel
+1100000532	sed melius est mihi absque opere incidere in manus vestras, quam peccare in conspectu domini.	2020-04-18	Liber_Daniel
+1100000533	et exclamavit voce magna susanna: exclamaverunt autem et senes adversus eam.	2020-04-18	Liber_Daniel
+1100000534	et cucurrit unus ad ostia pomarii, et aperuit.	2020-04-18	Liber_Daniel
+1100000535	cum ergo audissent clamorem famuli domus in pomario, irruerunt per posticum ut viderent quidnam esset.	2020-04-18	Liber_Daniel
+1100000536	postquam autem senes locuti sunt, erubuerunt servi vehementer, quia numquam dictus fuerat sermo huiuscemodi de susanna. 	2020-04-18	Liber_Daniel
+1100000537	et facta est dies crastina.	2020-04-18	Liber_Daniel
+1100000538	cumque venisset populus ad ioakim virum eius, venerunt et duo presbyteri, pleni iniqua cogitatione adversus susannam ut interficerent eam.	2020-04-18	Liber_Daniel
+1100000539	et dixerunt coram populo: mittite ad susannam filiam helciae uxorem ioakim. 	2020-04-18	Liber_Daniel
+1100000540	et statim miserunt.	2020-04-18	Liber_Daniel
+1100000541	et venit cum parentibus, et filiis, et universis cognatis suis.	2020-04-18	Liber_Daniel
+1100000542	porro susanna erat delicata nimis, et pulchra specie.	2020-04-18	Liber_Daniel
+1100000543	at iniqui illi iusserunt ut discooperiretur (erat enim cooperta), ut vel sic satiarentur decore eius.	2020-04-18	Liber_Daniel
+1100000544	flebant igitur sui, et omnes qui noverant eam.	2020-04-18	Liber_Daniel
+1100000545	consurgentes autem duo presbyteri in medio populi, posuerunt manus suas super caput eius.	2020-04-18	Liber_Daniel
+1100000546	quae flens suspexit ad caelum: erat enim cor eius fiduciam habens in domino.	2020-04-18	Liber_Daniel
+1100000547	et dixerunt presbyteri: cum deambularemus in pomario soli, ingressa est haec cum duabus puellis: et clausit ostia pomarii, et dimisit a se puellas.	2020-04-18	Liber_Daniel
+1100000548	venitque ad eam adolescens, qui erat absconditus, et concubuit cum ea.	2020-04-18	Liber_Daniel
+1100000549	porro nos cum essemus in angulo pomarii, videntes iniquitatem, cucurrimus ad eos, et vidimus eos pariter commisceri.	2020-04-18	Liber_Daniel
+1100000550	et illum quidem non quivimus comprehendere, quia fortior nobis erat, et apertis ostiis exilivit:hanc autem cum apprehendissemus, interrogavimus, quisnam esset adolescens, et noluit indicare nobis: huius rei testes sumus.	2020-04-18	Liber_Daniel
+1100000551	credidit eis multitudo quasi senibus et iudicibus populi, et condemnaverunt eam ad mortem.	2020-04-18	Liber_Daniel
+1100000552	exclamavit autem voce magna susanna, et dixit: deus aeterne, qui absconditorum es cognitor, qui nosti omnia antequam fiant,tu scis quoniam falsum testimonium tulerunt contra me: et ecce morior, cum nihil horum fecerim, quae isti malitiose composuerunt adversum me.	2020-04-18	Liber_Daniel
+1100000553	exaudivit autem dominus vocem eius.	2020-04-18	Liber_Daniel
+1100000554	cumque duceretur ad mortem, suscitavit dominus spiritum sanctum pueri iunioris, cuius nomen daniel:et exclamavit voce magna: mundus ego sum a sanguine huius.	2020-04-18	Liber_Daniel
+1100000555	et conversus omnis populus ad eum, dixit: quis est iste sermo, quem tu locutus es?	2020-04-18	Liber_Daniel
+1100000556	qui cum staret in medio eorum, ait: sic fatui filii israel, non iudicantes, neque quod verum est cognoscentes, condemnastis filiam israel?	2020-04-18	Liber_Daniel
+1100000557	revertimini ad iudicium, quia falsum testimonium locuti sunt adversus eam.	2020-04-18	Liber_Daniel
+1100000558	reversus est ergo populus cum festinatione, et dixerunt ei senes: veni, et sede in medio nostrum, et indica nobis: quia tibi deus dedit honorem senectutis.	2020-04-18	Liber_Daniel
+1100000559	et dixit ad eos daniel: separate illos ab invicem procul, et diiudicabo eos.	2020-04-18	Liber_Daniel
+1100000560	cum ergo divisi essent alter ab altero, vocavit unum de eis, et dixit ad eum: inveterate dierum malorum, nunc venerunt peccata tua, quae operabaris prius:iudicans iudicia iniusta, innocentes opprimens, et dimittens noxios, dicente domino: innocentem et iustum non interficies.	2020-04-18	Liber_Daniel
+1100000561	nunc ergo, si vidisti eam, dic sub qua arbore videris eos colloquentes sibi. 	2020-04-18	Liber_Daniel
+1100000562	qui ait: sub schino.	2020-04-18	Liber_Daniel
+1100000563	dixit autem daniel: recte mentitus es in caput tuum: ecce enim angelus dei, accepta sententia ab eo, scindet te medium.	2020-04-18	Liber_Daniel
+1100000564	et, amoto eo, iussit venire alium, et dixit ei: semen chanaan, et non iuda, species decepit te, et concupiscentia subvertit cor tuum:sic faciebatis filiabus israel, et illae timentes loquebantur vobis: sed filia iuda non sustinuit iniquitatem vestram.	2020-04-18	Liber_Daniel
+1100000565	nunc ergo, dic mihi sub qua arbore comprehenderis eos loquentes sibi. 	2020-04-18	Liber_Daniel
+1100000566	qui ait: sub prino.	2020-04-18	Liber_Daniel
+1100000567	dixit autem ei daniel: recte mentitus es et tu in caput tuum: manet enim angelus domini, gladium habens, ut secet te medium, et interficiat vos.	2020-04-18	Liber_Daniel
+1100000568	exclamavit itaque omnis coetus voce magna, et benedixerunt deum, qui salvat sperantes in se.	2020-04-18	Liber_Daniel
+1100000569	et consurrexerunt adversus duos presbyteros (convicerat enim eos daniel ex ore suo falsum dixisse testimonium), feceruntque eis sicut male egerant adversus proximum,ut facerent secundum legem moysi. 	2020-04-18	Liber_Daniel
+1100000570	et interfecerunt eos, et salvatus est sanguis innoxius in die illa.	2020-04-18	Liber_Daniel
+1100000571	helcias autem et uxor eius laudaverunt deum pro filia sua susanna cum ioakim marito eius, et cognatis omnibus, quia non esset inventa in ea res turpis.	2020-04-18	Liber_Daniel
+1100000572	daniel autem factus est magnus in conspectu populi a die illa, et deinceps.	2020-04-18	Liber_Daniel
+1100000573	et rex astyages appositus est ad patres suos, et suscepit cyrus perses regnum eius.	2020-04-18	Liber_Daniel
+1100000574	caput 14	2020-04-18	Liber_Daniel
+1100000575	erat autem daniel conviva regis, et honoratus super omnes amicos eius.	2020-04-18	Liber_Daniel
+1100000576	erat quoque idolum apud babylonios nomine bel: et impendebantur in eo per dies singulos similae artabae duodecim, et oves quadraginta, vinique amphorae sex.	2020-04-18	Liber_Daniel
+1100000577	rex quoque colebat eum, et ibat per singulos dies adorare eum: porro daniel adorabat deum suum. 	2020-04-18	Liber_Daniel
+1100000578	dixitque ei rex: quare non adoras bel?	2020-04-18	Liber_Daniel
+1100000579	qui respondens ait ei: quia non colo idola manufacta, sed viventem deum, qui creavit caelum, et terram, et habet potestatem omnis carnis.	2020-04-18	Liber_Daniel
+1100000580	et dixit rex ad eum: non videtur tibi esse bel vivens deus? 	2020-04-18	Liber_Daniel
+1100000581	an non vides quanta comedat et bibat quotidie?	2020-04-18	Liber_Daniel
+1100000582	et ait daniel arridens: ne erres, rex: iste enim intrinsecus luteus est, et forinsecus aereus, neque comedit aliquando.	2020-04-18	Liber_Daniel
+1100000583	et iratus rex vocavit sacerdotes eius, et ait eis: nisi dixeritis mihi quis est qui comedat impensas has, moriemini.	2020-04-18	Liber_Daniel
+1100000584	si autem ostenderitis quoniam bel comedat haec, morietur daniel, quia blasphemavit in bel. 	2020-04-18	Liber_Daniel
+1100000585	et dixit daniel regi: fiat iuxta verbum tuum.	2020-04-18	Liber_Daniel
+1100000586	erant autem sacerdotes bel septuaginta, exceptis uxoribus, et parvulis, et filiis.	2020-04-18	Liber_Daniel
+1100000587	et venit rex cum daniele in templum bel.	2020-04-18	Liber_Daniel
+1100000588	et dixerunt sacerdotes bel: ecce nos egredimur foras: et tu, rex, pone escas, et vinum misce, et claude ostium, et signa annulo tuo:et cum ingressus fueris mane, nisi inveneris omnia comesta a bel, morte moriemur, vel daniel qui mentitus est adversum nos.	2020-04-18	Liber_Daniel
+1100000589	contemnebant autem, quia fecerant sub mensa absconditum introitum, et per illum ingrediebantur semper, et devorabant ea.	2020-04-18	Liber_Daniel
+1100000590	factum est igitur postquam egressi sunt illi, rex posuit cibos ante bel: praecepit daniel pueris suis, et attulerunt cinerem, et cribravit per totum templum coram rege: et egressi clauserunt ostium, et signantes annulo regis abierunt.	2020-04-18	Liber_Daniel
+1100000591	sacerdotes autem ingressi sunt nocte iuxta consuetudinem suam, et uxores et filii eorum, et comederunt omnia, et biberunt.	2020-04-18	Liber_Daniel
+1100000592	surrexit autem rex primo diluculo, et daniel cum eo.	2020-04-18	Liber_Daniel
+1100000593	et ait rex: salvane sunt signacula, daniel? 	2020-04-18	Liber_Daniel
+1100000594	qui respondit: salva, rex.	2020-04-18	Liber_Daniel
+1100000595	statimque cum aperuisset ostium, intuitus rex mensam, exclamavit voce magna: magnus es, bel, et non est apud te dolus quisquam.	2020-04-18	Liber_Daniel
+1100000596	et risit daniel, et tenuit regem ne ingrederetur intro: et dixit: ecce pavimentum: animadverte cuius vestigia sint haec.	2020-04-18	Liber_Daniel
+1100000597	et dixit rex: video vestigia virorum, et mulierum, et infantium. 	2020-04-18	Liber_Daniel
+1100000598	et iratus est rex.	2020-04-18	Liber_Daniel
+1100000599	tunc apprehendit sacerdotes, et uxores, et filios eorum: et ostenderunt ei abscondita ostiola, per quae ingrediebantur, et consumebant quae erant super mensam.	2020-04-18	Liber_Daniel
+1100000600	occidit ergo illos rex, et tradidit bel in potestatem danielis: qui subvertit eum, et templum eius.	2020-04-18	Liber_Daniel
+1100000601	et erat draco magnus in loco illo, et colebant eum babylonii.	2020-04-18	Liber_Daniel
+1100000602	et dixit rex danieli: ecce nunc non potes dicere quia iste non sit deus vivens: adora ergo eum.	2020-04-18	Liber_Daniel
+1100000603	dixitque daniel: dominum deum meum adoro, quia ipse est deus vivens: iste autem non est deus vivens.	2020-04-18	Liber_Daniel
+1100000604	tu autem, rex, da mihi potestatem, et interficiam draconem absque gladio et fuste. 	2020-04-18	Liber_Daniel
+1100000605	et ait rex: do tibi.	2020-04-18	Liber_Daniel
+1100000606	tulit ergo daniel picem, et adipem, et pilos, et coxit pariter: fecitque massas, et dedit in os draconis, et diruptus est draco. 	2020-04-18	Liber_Daniel
+1100000607	et dixit: ecce quem colebatis.	2020-04-18	Liber_Daniel
+1100000608	quod cum audissent babylonii, indignati sunt vehementer: et congregati adversum regem, dixerunt: iudaeus factus est rex: bel destruxit, draconem interfecit, et sacerdotes occidit.	2020-04-18	Liber_Daniel
+1100000609	et dixerunt cum venissent ad regem: trade nobis danielem, alioquin interficiemus te, et domum tuam.	2020-04-18	Liber_Daniel
+1100000610	vidit ergo rex quod irruerent in eum vehementer: et necessitate compulsus, tradidit eis danielem.	2020-04-18	Liber_Daniel
+1100000611	qui miserunt eum in lacum leonum, et erat ibi diebus sex.	2020-04-18	Liber_Daniel
+1100000612	porro in lacu erant leones septem, et dabantur eis duo corpora quotidie, et duae oves: et tunc non data sunt eis, ut devorarent danielem.	2020-04-18	Liber_Daniel
+1100000613	erat autem habacuc propheta in iudaea, et ipse coxerat pulmentum, et intriverat panes in alveolo: et ibat in campum ut ferret messoribus.	2020-04-18	Liber_Daniel
+1100000614	dixitque angelus domini ad habacuc: fer prandium quod habes in babylonem danieli, qui est in lacu leonum.	2020-04-18	Liber_Daniel
+1100000615	et dixit habacuc: domine, babylonem non vidi, et lacum nescio.	2020-04-18	Liber_Daniel
+1100000616	et apprehendit eum angelus domini in vertice eius, et portavit eum capillo capitis sui, posuitque eum in babylone supra lacum in impetu spiritus sui.	2020-04-18	Liber_Daniel
+1100000617	et clamavit habacuc, dicens: daniel serve dei, tolle prandium quod misit tibi deus.	2020-04-18	Liber_Daniel
+1100000618	et ait daniel: recordatus es mei, deus, et non dereliquisti diligentes te.	2020-04-18	Liber_Daniel
+1100000619	surgensque daniel comedit. 	2020-04-18	Liber_Daniel
+1100000620	porro angelus domini restituit habacuc confestim in loco suo.	2020-04-18	Liber_Daniel
+1100000621	venit ergo rex die septimo ut lugeret danielem: et venit ad lacum, et introspexit, et ecce daniel sedens in medio leonum.	2020-04-18	Liber_Daniel
+1100000622	et exclamavit voce magna rex, dicens: magnus es, domine deus danielis. 	2020-04-18	Liber_Daniel
+1100000623	et extraxit eum de lacu leonum.	2020-04-18	Liber_Daniel
+1100000624	porro illos, qui perditionis eius causa fuerant, intromisit in lacum, et devorati sunt in momento coram eo.	2020-04-18	Liber_Daniel
+1100000625	tunc rex ait: paveant omnes habitantes in universa terra deum danielis: quia ipse est salvator, faciens signa et mirabilia in terra: qui liberavit danielem de lacu leonum.	2020-04-18	Liber_Daniel

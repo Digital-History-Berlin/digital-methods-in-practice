@@ -1,0 +1,498 @@
+1100000001	prophetia amos	2020-04-18	Prophetia_Amos
+1100000002	caput 1	2020-04-18	Prophetia_Amos
+1100000003	verba amos, qui fuit in pastoribus de thecue, quae vidit super israel in diebus oziae, regis iuda, et in diebus ieroboam, filii ioas, regis israel, ante duos annos terraemotus.	2020-04-18	Prophetia_Amos
+1100000004	et dixit:	2020-04-18	Prophetia_Amos
+1100000005	dominus de sion rugiet,	2020-04-18	Prophetia_Amos
+1100000006	et de ierusalem dabit vocem suam;	2020-04-18	Prophetia_Amos
+1100000007	et luxerunt speciosa pastorum,	2020-04-18	Prophetia_Amos
+1100000008	et exsiccatus est vertex carmeli.	2020-04-18	Prophetia_Amos
+1100000009	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000010	super tribus sceleribus damasci,	2020-04-18	Prophetia_Amos
+1100000011	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000012	eo quod trituraverint in plaustris ferreis galaad.	2020-04-18	Prophetia_Amos
+1100000013	et mittam ignem in domum azael,	2020-04-18	Prophetia_Amos
+1100000014	et devorabit domos benadad.	2020-04-18	Prophetia_Amos
+1100000015	et conteram vectem damasci:	2020-04-18	Prophetia_Amos
+1100000016	et disperdam habitatorem de campo idoli,	2020-04-18	Prophetia_Amos
+1100000017	et tenentem sceptrum de domo voluptatis:	2020-04-18	Prophetia_Amos
+1100000018	et transferetur populus syriae cyrenen,	2020-04-18	Prophetia_Amos
+1100000019	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000020	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000021	super tribus sceleribus gazae,	2020-04-18	Prophetia_Amos
+1100000022	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000023	eo quod transtulerint captivitatem perfectam,	2020-04-18	Prophetia_Amos
+1100000024	ut concluderent eam in idumaea.	2020-04-18	Prophetia_Amos
+1100000025	et mittam ignem in murum gazae,	2020-04-18	Prophetia_Amos
+1100000026	et devorabit aedes eius.	2020-04-18	Prophetia_Amos
+1100000027	et disperdam habitatorem de azoto,	2020-04-18	Prophetia_Amos
+1100000028	et tenentem sceptrum de ascalone:	2020-04-18	Prophetia_Amos
+1100000029	et convertam manum meam super accaron,	2020-04-18	Prophetia_Amos
+1100000030	et peribunt reliqui philisthinorum,	2020-04-18	Prophetia_Amos
+1100000031	dicit dominus deus.	2020-04-18	Prophetia_Amos
+1100000032	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000033	super tribus sceleribus tyri,	2020-04-18	Prophetia_Amos
+1100000034	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000035	eo quod concluserint captivitatem perfectam in idumaea,	2020-04-18	Prophetia_Amos
+1100000036	et non sint recordati foederis fratrum.	2020-04-18	Prophetia_Amos
+1100000037	et mittam ignem in murum tyri,	2020-04-18	Prophetia_Amos
+1100000038	et devorabit aedes eius.	2020-04-18	Prophetia_Amos
+1100000039	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000040	super tribus sceleribus edom,	2020-04-18	Prophetia_Amos
+1100000041	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000042	eo quod persecutus sit in gladio fratrem suum,	2020-04-18	Prophetia_Amos
+1100000043	et violaverit misericordiam eius,	2020-04-18	Prophetia_Amos
+1100000044	et tenuerit ultra furorem suum,	2020-04-18	Prophetia_Amos
+1100000045	et indignationem suam servaverit usque in finem.	2020-04-18	Prophetia_Amos
+1100000046	mittam ignem in theman,	2020-04-18	Prophetia_Amos
+1100000047	et devorabit aedes bosrae.	2020-04-18	Prophetia_Amos
+1100000048	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000049	super tribus sceleribus filiorum ammon,	2020-04-18	Prophetia_Amos
+1100000050	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000051	eo quod dissecuerit praegnantes galaad	2020-04-18	Prophetia_Amos
+1100000052	ad dilatandum terminum suum.	2020-04-18	Prophetia_Amos
+1100000053	et succendam ignem in muro rabba,	2020-04-18	Prophetia_Amos
+1100000054	et devorabit aedes eius in ululatu in die belli,	2020-04-18	Prophetia_Amos
+1100000055	et in turbine in die commotionis.	2020-04-18	Prophetia_Amos
+1100000056	et ibit melchom in captivitatem,	2020-04-18	Prophetia_Amos
+1100000057	ipse et principes eius simul,	2020-04-18	Prophetia_Amos
+1100000058	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000059	caput 2	2020-04-18	Prophetia_Amos
+1100000060	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000061	super tribus sceleribus moab,	2020-04-18	Prophetia_Amos
+1100000062	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000063	eo quod incenderit ossa regis idumaeae usque ad cinerem.	2020-04-18	Prophetia_Amos
+1100000064	et mittam ignem in moab,	2020-04-18	Prophetia_Amos
+1100000065	et devorabit aedes carioth:	2020-04-18	Prophetia_Amos
+1100000066	et morietur in sonitu moab, in clangore tubae.	2020-04-18	Prophetia_Amos
+1100000067	et disperdam iudicem de medio eius,	2020-04-18	Prophetia_Amos
+1100000068	et omnes principes eius interficiam cum eo,	2020-04-18	Prophetia_Amos
+1100000069	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000070	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000071	super tribus sceleribus iuda,	2020-04-18	Prophetia_Amos
+1100000072	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000073	eo quod abiecerit legem domini	2020-04-18	Prophetia_Amos
+1100000074	et mandata eius non custodierit:	2020-04-18	Prophetia_Amos
+1100000075	deceperant enim eos idola sua,	2020-04-18	Prophetia_Amos
+1100000076	post quae abierant patres eorum.	2020-04-18	Prophetia_Amos
+1100000077	et mittam ignem in iuda,	2020-04-18	Prophetia_Amos
+1100000078	et devorabit aedes ierusalem.	2020-04-18	Prophetia_Amos
+1100000079	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000080	super tribus sceleribus israel,	2020-04-18	Prophetia_Amos
+1100000081	et super quatuor non convertam eum,	2020-04-18	Prophetia_Amos
+1100000082	pro eo quod vendiderit pro argento iustum,	2020-04-18	Prophetia_Amos
+1100000083	et pauperem pro calceamentis.	2020-04-18	Prophetia_Amos
+1100000084	qui conterunt super pulverem terrae capita pauperum,	2020-04-18	Prophetia_Amos
+1100000085	et viam humilium declinant:	2020-04-18	Prophetia_Amos
+1100000086	et filius ac pater eius ierunt ad puellam,	2020-04-18	Prophetia_Amos
+1100000087	ut violarent nomen sanctum meum.	2020-04-18	Prophetia_Amos
+1100000088	et super vestimentis pignoratis accubuerunt iuxta omne altare,	2020-04-18	Prophetia_Amos
+1100000089	et vinum damnatorum bibebant in domo dei sui.	2020-04-18	Prophetia_Amos
+1100000090	ego autem exterminavi amorrhaeum a facie eorum,	2020-04-18	Prophetia_Amos
+1100000091	cuius altitudo, cedrorum altitudo eius,	2020-04-18	Prophetia_Amos
+1100000092	et fortis ipse quasi quercus;	2020-04-18	Prophetia_Amos
+1100000093	et contrivi fructum eius desuper,	2020-04-18	Prophetia_Amos
+1100000094	et radices eius subter.	2020-04-18	Prophetia_Amos
+1100000095	ego sum qui ascendere vos feci de terra aegypti,	2020-04-18	Prophetia_Amos
+1100000096	et duxi vos in deserto quadraginta annis,	2020-04-18	Prophetia_Amos
+1100000097	ut possideretis terram amorrhaei.	2020-04-18	Prophetia_Amos
+1100000098	et suscitavi de filiis vestris in prophetas,	2020-04-18	Prophetia_Amos
+1100000099	et de iuvenibus vestris nazaraeos.	2020-04-18	Prophetia_Amos
+1100000100	numquid non ita est, filii israel? 	2020-04-18	Prophetia_Amos
+1100000101	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000102	et propinabitis nazaraeis vinum,	2020-04-18	Prophetia_Amos
+1100000103	et prophetis mandabitis, dicentes:	2020-04-18	Prophetia_Amos
+1100000104	ne prophetetis.	2020-04-18	Prophetia_Amos
+1100000105	ecce ego stridebo subter vos,	2020-04-18	Prophetia_Amos
+1100000106	sicut stridet plaustrum onustum foeno.	2020-04-18	Prophetia_Amos
+1100000107	et peribit fuga a veloce,	2020-04-18	Prophetia_Amos
+1100000108	et fortis non obtinebit virtutem suam,	2020-04-18	Prophetia_Amos
+1100000109	et robustus non salvabit animam suam:	2020-04-18	Prophetia_Amos
+1100000110	et tenens arcum non stabit,	2020-04-18	Prophetia_Amos
+1100000111	et velox pedibus suis non salvabitur,	2020-04-18	Prophetia_Amos
+1100000112	et ascensor equi non salvabit animam suam:	2020-04-18	Prophetia_Amos
+1100000113	et robustus corde inter fortes nudus fugiet in illa die,	2020-04-18	Prophetia_Amos
+1100000114	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000115	caput 3	2020-04-18	Prophetia_Amos
+1100000116	audite verbum quod locutus est dominus super vos, filii israel,	2020-04-18	Prophetia_Amos
+1100000117	super omnem cognationem quam eduxi de terra aegypti, dicens:	2020-04-18	Prophetia_Amos
+1100000118	tantummodo vos cognovi ex omnibus cognationibus terrae;	2020-04-18	Prophetia_Amos
+1100000119	idcirco visitabo super vos omnes iniquitates vestras.	2020-04-18	Prophetia_Amos
+1100000120	numquid ambulabunt duo pariter,	2020-04-18	Prophetia_Amos
+1100000121	nisi convenerit eis?	2020-04-18	Prophetia_Amos
+1100000122	numquid rugiet leo in saltu,	2020-04-18	Prophetia_Amos
+1100000123	nisi habuerit praedam?	2020-04-18	Prophetia_Amos
+1100000124	numquid dabit catulus leonis vocem de cubili suo,	2020-04-18	Prophetia_Amos
+1100000125	nisi aliquid apprehenderit?	2020-04-18	Prophetia_Amos
+1100000126	numquid cadet avis in laqueum terrae	2020-04-18	Prophetia_Amos
+1100000127	absque aucupe?	2020-04-18	Prophetia_Amos
+1100000128	numquid auferetur laqueus de terra	2020-04-18	Prophetia_Amos
+1100000129	antequam quid ceperit?	2020-04-18	Prophetia_Amos
+1100000130	si clanget tuba in civitate,	2020-04-18	Prophetia_Amos
+1100000131	et populus non expavescet?	2020-04-18	Prophetia_Amos
+1100000132	si erit malum in civitate,	2020-04-18	Prophetia_Amos
+1100000133	quod dominus non fecerit?	2020-04-18	Prophetia_Amos
+1100000134	quia non facit dominus deus verbum,	2020-04-18	Prophetia_Amos
+1100000135	nisi revelaverit secretum suum ad servos suos prophetas.	2020-04-18	Prophetia_Amos
+1100000136	leo rugiet, quis non timebit?	2020-04-18	Prophetia_Amos
+1100000137	dominus deus locutus est, quis non prophetabit?	2020-04-18	Prophetia_Amos
+1100000138	auditum facite in aedibus azoti,	2020-04-18	Prophetia_Amos
+1100000139	et in aedibus terrae aegypti,	2020-04-18	Prophetia_Amos
+1100000140	et dicite: congregamini super montes samariae,	2020-04-18	Prophetia_Amos
+1100000141	et videte insanias multas in medio eius,	2020-04-18	Prophetia_Amos
+1100000142	et calumniam patientes in penetralibus eius.	2020-04-18	Prophetia_Amos
+1100000143	et nescierunt facere rectum, dicit dominus,	2020-04-18	Prophetia_Amos
+1100000144	thesaurizantes iniquitatem et rapinas in aedibus suis.	2020-04-18	Prophetia_Amos
+1100000145	propterea haec dicit dominus deus:	2020-04-18	Prophetia_Amos
+1100000146	tribulabitur et circuietur terra:	2020-04-18	Prophetia_Amos
+1100000147	et detrahetur ex te fortitudo tua,	2020-04-18	Prophetia_Amos
+1100000148	et diripientur aedes tuae.	2020-04-18	Prophetia_Amos
+1100000149	haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000150	quomodo si eruat pastor de ore leonis	2020-04-18	Prophetia_Amos
+1100000151	duo crura, aut extremum auriculae,	2020-04-18	Prophetia_Amos
+1100000152	sic eruentur filii israel, qui habitant in samaria	2020-04-18	Prophetia_Amos
+1100000153	in plaga lectuli, et in damasci grabato.	2020-04-18	Prophetia_Amos
+1100000154	audite, et contestamini in domo iacob,	2020-04-18	Prophetia_Amos
+1100000155	dicit dominus deus exercituum;	2020-04-18	Prophetia_Amos
+1100000156	quia in die cum visitare coepero praevaricationes israel,	2020-04-18	Prophetia_Amos
+1100000157	super eum visitabo, et super altaria bethel;	2020-04-18	Prophetia_Amos
+1100000158	et amputabuntur cornua altaris, et cadent in terram.	2020-04-18	Prophetia_Amos
+1100000159	et percutiam domum hiemalem cum domo aestiva,	2020-04-18	Prophetia_Amos
+1100000160	et peribunt domus eburneae,	2020-04-18	Prophetia_Amos
+1100000161	et dissipabuntur aedes multae,	2020-04-18	Prophetia_Amos
+1100000162	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000163	caput 4	2020-04-18	Prophetia_Amos
+1100000164	audite verbum hoc, vaccae pingues,	2020-04-18	Prophetia_Amos
+1100000165	quae estis in monte samariae,	2020-04-18	Prophetia_Amos
+1100000166	quae calumniam facitis egenis	2020-04-18	Prophetia_Amos
+1100000167	et confringitis pauperes;	2020-04-18	Prophetia_Amos
+1100000168	quae dicitis dominis vestris: afferte, et bibemus.	2020-04-18	Prophetia_Amos
+1100000169	iuravit dominus deus in sancto suo,	2020-04-18	Prophetia_Amos
+1100000170	quia ecce dies venient super vos,	2020-04-18	Prophetia_Amos
+1100000171	et levabunt vos in contis,	2020-04-18	Prophetia_Amos
+1100000172	et reliquias vestras in ollis ferventibus.	2020-04-18	Prophetia_Amos
+1100000173	et per aperturas exibitis altera contra alteram,	2020-04-18	Prophetia_Amos
+1100000174	et proiiciemini in armon,	2020-04-18	Prophetia_Amos
+1100000175	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000176	venite ad bethel, et impie agite;	2020-04-18	Prophetia_Amos
+1100000177	ad galgalam, et multiplicate praevaricationem:	2020-04-18	Prophetia_Amos
+1100000178	et afferte mane victimas vestras,	2020-04-18	Prophetia_Amos
+1100000179	tribus diebus decimas vestras.	2020-04-18	Prophetia_Amos
+1100000180	et sacrificate de fermentato laudem,	2020-04-18	Prophetia_Amos
+1100000181	et vocate voluntarias oblationes, et annuntiate;	2020-04-18	Prophetia_Amos
+1100000182	sic enim voluistis, filii israel,	2020-04-18	Prophetia_Amos
+1100000183	dicit dominus deus.	2020-04-18	Prophetia_Amos
+1100000184	unde et ego dedi vobis stuporem dentium in cunctis urbibus vestris,	2020-04-18	Prophetia_Amos
+1100000185	et indigentiam panum in omnibus locis vestris;	2020-04-18	Prophetia_Amos
+1100000186	et non estis reversi ad me,	2020-04-18	Prophetia_Amos
+1100000187	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000188	ego quoque prohibui a vobis imbrem,	2020-04-18	Prophetia_Amos
+1100000189	cum adhuc tres menses superessent usque ad messem:	2020-04-18	Prophetia_Amos
+1100000190	et plui super unam civitatem,	2020-04-18	Prophetia_Amos
+1100000191	et super alteram civitatem non plui;	2020-04-18	Prophetia_Amos
+1100000192	pars una compluta est,	2020-04-18	Prophetia_Amos
+1100000193	et pars super quam non plui, aruit.	2020-04-18	Prophetia_Amos
+1100000194	et venerunt duae et tres civitates ad unam civitatem	2020-04-18	Prophetia_Amos
+1100000195	ut biberent aquam, et non sunt satiatae;	2020-04-18	Prophetia_Amos
+1100000196	et non redistis ad me,	2020-04-18	Prophetia_Amos
+1100000197	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000198	percussi vos in vento urente, et in aurugine:	2020-04-18	Prophetia_Amos
+1100000199	multitudinem hortorum vestrorum et vinearum vestrarum,	2020-04-18	Prophetia_Amos
+1100000200	oliveta vestra et ficeta vestra comedit eruca:	2020-04-18	Prophetia_Amos
+1100000201	et non redistis ad me,	2020-04-18	Prophetia_Amos
+1100000202	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000203	misi in vos mortem in via aegypti;	2020-04-18	Prophetia_Amos
+1100000204	percussi in gladio iuvenes vestros,	2020-04-18	Prophetia_Amos
+1100000205	usque ad captivitatem equorum vestrorum,	2020-04-18	Prophetia_Amos
+1100000206	et ascendere feci putredinem castrorum vestrorum in nares vestras:	2020-04-18	Prophetia_Amos
+1100000207	et non redistis ad me,	2020-04-18	Prophetia_Amos
+1100000208	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000209	subverti vos sicut subvertit deus sodomam et gomorrham,	2020-04-18	Prophetia_Amos
+1100000210	et facti estis quasi torris raptus ab incendio:	2020-04-18	Prophetia_Amos
+1100000211	et non redistis ad me,	2020-04-18	Prophetia_Amos
+1100000212	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000213	quapropter haec faciam tibi, israel:	2020-04-18	Prophetia_Amos
+1100000214	postquam autem haec fecero tibi,	2020-04-18	Prophetia_Amos
+1100000215	praeparare in occursum dei tui, israel.	2020-04-18	Prophetia_Amos
+1100000216	quia ecce formans montes,	2020-04-18	Prophetia_Amos
+1100000217	et creans ventum,	2020-04-18	Prophetia_Amos
+1100000218	et annuntians homini eloquium suum,	2020-04-18	Prophetia_Amos
+1100000219	faciens matutinam nebulam,	2020-04-18	Prophetia_Amos
+1100000220	et gradiens super excelsa terrae:	2020-04-18	Prophetia_Amos
+1100000221	dominus deus exercituum nomen eius.	2020-04-18	Prophetia_Amos
+1100000222	caput 5	2020-04-18	Prophetia_Amos
+1100000223	audite verbum istud,	2020-04-18	Prophetia_Amos
+1100000224	quod ego levo super vos planctum:	2020-04-18	Prophetia_Amos
+1100000225	domus israel cecidit,	2020-04-18	Prophetia_Amos
+1100000226	et non adiiciet ut resurgat.	2020-04-18	Prophetia_Amos
+1100000227	virgo israel proiecta est in terram suam,	2020-04-18	Prophetia_Amos
+1100000228	non est qui suscitet eam.	2020-04-18	Prophetia_Amos
+1100000229	quia haec dicit dominus deus:	2020-04-18	Prophetia_Amos
+1100000230	urbs de qua egrediebantur mille,	2020-04-18	Prophetia_Amos
+1100000231	relinquentur in ea centum;	2020-04-18	Prophetia_Amos
+1100000232	et de qua egrediebantur centum,	2020-04-18	Prophetia_Amos
+1100000233	relinquentur in ea decem in domo israel.	2020-04-18	Prophetia_Amos
+1100000234	quia haec dicit dominus domui israel:	2020-04-18	Prophetia_Amos
+1100000235	quaerite me, et vivetis.	2020-04-18	Prophetia_Amos
+1100000236	et nolite quaerere bethel,	2020-04-18	Prophetia_Amos
+1100000237	et in galgalam nolite intrare,	2020-04-18	Prophetia_Amos
+1100000238	et in bersabee non transibitis,	2020-04-18	Prophetia_Amos
+1100000239	quia galgala captiva ducetur,	2020-04-18	Prophetia_Amos
+1100000240	et bethel erit inutilis.	2020-04-18	Prophetia_Amos
+1100000241	quaerite dominum, et vivite	2020-04-18	Prophetia_Amos
+1100000242	(ne forte comburatur ut ignis domus ioseph, et devorabit,	2020-04-18	Prophetia_Amos
+1100000243	et non erit qui extinguat bethel:	2020-04-18	Prophetia_Amos
+1100000244	qui convertitis in absinthium iudicium,	2020-04-18	Prophetia_Amos
+1100000245	et iustitiam in terra relinquitis):	2020-04-18	Prophetia_Amos
+1100000246	facientem arcturum et orionem,	2020-04-18	Prophetia_Amos
+1100000247	et convertentem in mane tenebras,	2020-04-18	Prophetia_Amos
+1100000248	et diem in noctem mutantem;	2020-04-18	Prophetia_Amos
+1100000249	qui vocat aquas maris,	2020-04-18	Prophetia_Amos
+1100000250	et effundit eas super faciem terrae;	2020-04-18	Prophetia_Amos
+1100000251	dominus nomen est eius:	2020-04-18	Prophetia_Amos
+1100000252	qui subridet vastitatem super robustum,	2020-04-18	Prophetia_Amos
+1100000253	et depopulationem super potentem affert.	2020-04-18	Prophetia_Amos
+1100000254	odio habuerunt corripientem in porta,	2020-04-18	Prophetia_Amos
+1100000255	et loquentem perfecte abominati sunt.	2020-04-18	Prophetia_Amos
+1100000256	idcirco, pro eo quod diripiebatis pauperem,	2020-04-18	Prophetia_Amos
+1100000257	et praedam electam tollebatis ab eo,	2020-04-18	Prophetia_Amos
+1100000258	domos quadro lapide aedificabitis,	2020-04-18	Prophetia_Amos
+1100000259	et non habitabitis in eis;	2020-04-18	Prophetia_Amos
+1100000260	vineas plantabis amantissimas,	2020-04-18	Prophetia_Amos
+1100000261	et non bibetis vinum earum.	2020-04-18	Prophetia_Amos
+1100000262	quia cognovi multa scelera vestra,	2020-04-18	Prophetia_Amos
+1100000263	et fortia peccata vestra:	2020-04-18	Prophetia_Amos
+1100000264	hostes iusti, accipientes munus,	2020-04-18	Prophetia_Amos
+1100000265	et pauperes deprimentes in porta.	2020-04-18	Prophetia_Amos
+1100000266	ideo prudens in tempore illo tacebit,	2020-04-18	Prophetia_Amos
+1100000267	quia tempus malum est.	2020-04-18	Prophetia_Amos
+1100000268	quaerite bonum, et non malum, ut vivatis;	2020-04-18	Prophetia_Amos
+1100000269	et erit dominus deus exercituum vobiscum, sicut dixistis.	2020-04-18	Prophetia_Amos
+1100000270	odite malum et diligite bonum,	2020-04-18	Prophetia_Amos
+1100000271	et constituite in porta iudicium:	2020-04-18	Prophetia_Amos
+1100000272	si forte misereatur dominus deus exercituum reliquiis ioseph.	2020-04-18	Prophetia_Amos
+1100000273	propterea haec dicit dominus deus exercituum, dominator:	2020-04-18	Prophetia_Amos
+1100000274	in omnibus plateis planctus;	2020-04-18	Prophetia_Amos
+1100000275	et in cunctis quae foris sunt, dicetur: vae, vae!	2020-04-18	Prophetia_Amos
+1100000276	et vocabunt agricolam ad luctum,	2020-04-18	Prophetia_Amos
+1100000277	et ad planctum eos qui sciunt plangere.	2020-04-18	Prophetia_Amos
+1100000278	et in omnibus vineis erit planctus,	2020-04-18	Prophetia_Amos
+1100000279	quia pertransibo in medio tui,	2020-04-18	Prophetia_Amos
+1100000280	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000281	vae desiderantibus diem domini!	2020-04-18	Prophetia_Amos
+1100000282	ad quid eam vobis?	2020-04-18	Prophetia_Amos
+1100000283	dies domini ista, tenebrae, et non lux.	2020-04-18	Prophetia_Amos
+1100000284	quomodo si fugiat vir a facie leonis,	2020-04-18	Prophetia_Amos
+1100000285	et occurrat ei ursus;	2020-04-18	Prophetia_Amos
+1100000286	et ingrediatur domum, et innitatur manu sua super parietem,	2020-04-18	Prophetia_Amos
+1100000287	et mordeat eum coluber.	2020-04-18	Prophetia_Amos
+1100000288	numquid non tenebrae dies domini, et non lux;	2020-04-18	Prophetia_Amos
+1100000289	et caligo, et non splendor in ea?	2020-04-18	Prophetia_Amos
+1100000290	odi, et proieci festivitates vestras,	2020-04-18	Prophetia_Amos
+1100000291	et non capiam odorem coetuum vestrorum.	2020-04-18	Prophetia_Amos
+1100000292	quod si obtuleritis mihi holocautomata, et munera vestra,	2020-04-18	Prophetia_Amos
+1100000293	non suscipiam;	2020-04-18	Prophetia_Amos
+1100000294	et vota pinguium vestrorum non respiciam.	2020-04-18	Prophetia_Amos
+1100000295	aufer a me tumultum carminum tuorum;	2020-04-18	Prophetia_Amos
+1100000296	et cantica lyrae tuae non audiam.	2020-04-18	Prophetia_Amos
+1100000297	et revelabitur quasi aqua iudicium,	2020-04-18	Prophetia_Amos
+1100000298	et iustitia quasi torrens fortis.	2020-04-18	Prophetia_Amos
+1100000299	numquid hostias et sacrificium obtulistis mihi	2020-04-18	Prophetia_Amos
+1100000300	in deserto quadraginta annis, domus israel?	2020-04-18	Prophetia_Amos
+1100000301	et portastis tabernaculum moloch vestro,	2020-04-18	Prophetia_Amos
+1100000302	et imaginem idolorum vestrorum, sidus dei vestri,	2020-04-18	Prophetia_Amos
+1100000303	quae fecistis vobis.	2020-04-18	Prophetia_Amos
+1100000304	et migrare vos faciam trans damascum, dicit dominus:	2020-04-18	Prophetia_Amos
+1100000305	deus exercituum nomen eius.	2020-04-18	Prophetia_Amos
+1100000306	caput 6	2020-04-18	Prophetia_Amos
+1100000307	vae qui opulenti estis in sion,	2020-04-18	Prophetia_Amos
+1100000308	et confiditis in monte samariae:	2020-04-18	Prophetia_Amos
+1100000309	optimates capita populorum,	2020-04-18	Prophetia_Amos
+1100000310	ingredientes pompatice domum israel!	2020-04-18	Prophetia_Amos
+1100000311	transite in chalane, et videte,	2020-04-18	Prophetia_Amos
+1100000312	et ite inde in emath magnam,	2020-04-18	Prophetia_Amos
+1100000313	et descendite in geth palaestinorum,	2020-04-18	Prophetia_Amos
+1100000314	et ad optima quaeque regna horum:	2020-04-18	Prophetia_Amos
+1100000315	si latior terminus eorum termino vestro est.	2020-04-18	Prophetia_Amos
+1100000316	qui separati estis in diem malum,	2020-04-18	Prophetia_Amos
+1100000317	et appropinquatis solio iniquitatis;	2020-04-18	Prophetia_Amos
+1100000318	qui dormitis in lectis eburneis,	2020-04-18	Prophetia_Amos
+1100000319	et lascivitis in stratis vestris;	2020-04-18	Prophetia_Amos
+1100000320	qui comeditis agnum de grege,	2020-04-18	Prophetia_Amos
+1100000321	et vitulos de medio armenti;	2020-04-18	Prophetia_Amos
+1100000322	qui canitis ad vocem psalterii,	2020-04-18	Prophetia_Amos
+1100000323	sicut david putaverunt se habere vasa cantici,	2020-04-18	Prophetia_Amos
+1100000324	bibentes vinum in phialis,	2020-04-18	Prophetia_Amos
+1100000325	et optimo unguento delibuti,	2020-04-18	Prophetia_Amos
+1100000326	et nihil patiebantur super contritione ioseph.	2020-04-18	Prophetia_Amos
+1100000327	quapropter nunc migrabunt in capite transmigrantium,	2020-04-18	Prophetia_Amos
+1100000328	et auferetur factio lascivientium.	2020-04-18	Prophetia_Amos
+1100000329	iuravit dominus deus in anima sua,	2020-04-18	Prophetia_Amos
+1100000330	dicit dominus deus exercituum:	2020-04-18	Prophetia_Amos
+1100000331	detestor ego superbiam iacob,	2020-04-18	Prophetia_Amos
+1100000332	et domos eius odi,	2020-04-18	Prophetia_Amos
+1100000333	et tradam civitatem cum habitatoribus suis.	2020-04-18	Prophetia_Amos
+1100000334	quod si reliqui fuerint decem viri in domo una,	2020-04-18	Prophetia_Amos
+1100000335	et ipsi morientur.	2020-04-18	Prophetia_Amos
+1100000336	et tollet eum propinquus suus, et comburet eum,	2020-04-18	Prophetia_Amos
+1100000337	ut efferat ossa de domo;	2020-04-18	Prophetia_Amos
+1100000338	et dicet ei, qui in penetralibus domus est:	2020-04-18	Prophetia_Amos
+1100000339	numquid adhuc est penes te?	2020-04-18	Prophetia_Amos
+1100000340	et respondebit: finis est.	2020-04-18	Prophetia_Amos
+1100000341	et dicet ei: tace,	2020-04-18	Prophetia_Amos
+1100000342	et non recorderis nominis domini.	2020-04-18	Prophetia_Amos
+1100000343	quia ecce dominus mandabit,	2020-04-18	Prophetia_Amos
+1100000344	et percutiet domum maiorem ruinis,	2020-04-18	Prophetia_Amos
+1100000345	et domum minorem scissionibus.	2020-04-18	Prophetia_Amos
+1100000346	numquid currere queunt in petris equi,	2020-04-18	Prophetia_Amos
+1100000347	aut arari potest in bubalis?	2020-04-18	Prophetia_Amos
+1100000348	quoniam convertistis in amaritudinem iudicium,	2020-04-18	Prophetia_Amos
+1100000349	et fructum iustitiae in absinthium.	2020-04-18	Prophetia_Amos
+1100000350	qui laetamini in nihilo; qui dicitis:	2020-04-18	Prophetia_Amos
+1100000351	numquid non in fortitudine nostra assumpsimus nobis cornua?	2020-04-18	Prophetia_Amos
+1100000352	ecce enim suscitabo super vos, domus israel,	2020-04-18	Prophetia_Amos
+1100000353	dicit dominus deus exercituum, gentem,	2020-04-18	Prophetia_Amos
+1100000354	et conteret vos ab introitu emath usque ad torrentem deserti.	2020-04-18	Prophetia_Amos
+1100000355	caput 7	2020-04-18	Prophetia_Amos
+1100000356	haec ostendit mihi dominus deus: et ecce fictor locustae in principio germinantium serotini imbris, et ecce serotinus post tonsionem regis.	2020-04-18	Prophetia_Amos
+1100000357	et factum est, cum consummasset comedere herbam terrae, dixi: domine deus, propitius esto, obsecro; quis suscitabit iacob, quia parvulus est?	2020-04-18	Prophetia_Amos
+1100000358	misertus est dominus super hoc: non erit, dixit dominus.	2020-04-18	Prophetia_Amos
+1100000359	haec ostendit mihi dominus deus: et ecce vocabat iudicium ad ignem dominus deus; et devoravit abyssum multam, et comedit simul partem.	2020-04-18	Prophetia_Amos
+1100000360	et dixi: domine deus, quiesce, obsecro; quis suscitabit iacob, quia parvulus est?	2020-04-18	Prophetia_Amos
+1100000361	misertus est dominus super hoc: sed et istud non erit, dixit dominus deus.	2020-04-18	Prophetia_Amos
+1100000362	haec ostendit mihi dominus: et ecce dominus stans super murum litum, et in manu eius trulla caementarii.	2020-04-18	Prophetia_Amos
+1100000363	et dixit dominus ad me: quid tu vides, amos? 	2020-04-18	Prophetia_Amos
+1100000364	et dixi: trullam caementarii. 	2020-04-18	Prophetia_Amos
+1100000365	et dixit dominus:	2020-04-18	Prophetia_Amos
+1100000366	ecce ego ponam trullam in medio populi mei israel;	2020-04-18	Prophetia_Amos
+1100000367	non adiiciam ultra superinducere eum.	2020-04-18	Prophetia_Amos
+1100000368	et demolientur excelsa idoli,	2020-04-18	Prophetia_Amos
+1100000369	et sanctificationes israel desolabuntur,	2020-04-18	Prophetia_Amos
+1100000370	et consurgam super domum ieroboam in gladio.	2020-04-18	Prophetia_Amos
+1100000371	et misit amasias, sacerdos bethel, ad ieroboam, regem israel, dicens: rebellavit contra te amos in medio domus israel; non poterit terra sustinere universos sermones eius.	2020-04-18	Prophetia_Amos
+1100000372	haec enim dicit amos: in gladio morietur ieroboam, et israel captivus migrabit de terra sua.	2020-04-18	Prophetia_Amos
+1100000373	et dixit amasias ad amos: qui vides, gradere: fuge in terram iuda, et comede ibi panem, et prophetabis ibi.	2020-04-18	Prophetia_Amos
+1100000374	et in bethel non adiicies ultra ut prophetes, quia sanctificatio regis est, et domus regni est.	2020-04-18	Prophetia_Amos
+1100000375	responditque amos, et dixit ad amasiam: non sum propheta, et non sum filius prophetae: sed armentarius ego sum vellicans sycomoros.	2020-04-18	Prophetia_Amos
+1100000376	et tulit me dominus cum sequerer gregem, et dixit dominus ad me: vade, propheta ad populum meum israel.	2020-04-18	Prophetia_Amos
+1100000377	et nunc audi verbum domini:	2020-04-18	Prophetia_Amos
+1100000378	tu dicis: non prophetabis super israel,	2020-04-18	Prophetia_Amos
+1100000379	et non stillabis super domum idoli.	2020-04-18	Prophetia_Amos
+1100000380	propter hoc haec dicit dominus:	2020-04-18	Prophetia_Amos
+1100000381	uxor tua in civitate fornicabitur,	2020-04-18	Prophetia_Amos
+1100000382	et filii tui et filiae tuae in gladio cadent,	2020-04-18	Prophetia_Amos
+1100000383	et humus tua funiculo metietur:	2020-04-18	Prophetia_Amos
+1100000384	et tu in terra polluta morieris,	2020-04-18	Prophetia_Amos
+1100000385	et israel captivus migrabit de terra sua.	2020-04-18	Prophetia_Amos
+1100000386	caput 8	2020-04-18	Prophetia_Amos
+1100000387	haec ostendit mihi dominus deus: et ecce uncinus pomorum.	2020-04-18	Prophetia_Amos
+1100000388	et dixit: quid tu vides, amos? 	2020-04-18	Prophetia_Amos
+1100000389	et dixi: uncinum pomorum. 	2020-04-18	Prophetia_Amos
+1100000390	et dixit dominus ad me:	2020-04-18	Prophetia_Amos
+1100000391	venit finis super populum meum israel;	2020-04-18	Prophetia_Amos
+1100000392	non adiiciam ultra ut pertranseam eum.	2020-04-18	Prophetia_Amos
+1100000393	et stridebunt cardines templi in die illa,	2020-04-18	Prophetia_Amos
+1100000394	dicit dominus deus:	2020-04-18	Prophetia_Amos
+1100000395	multi morientur;	2020-04-18	Prophetia_Amos
+1100000396	in omni loco proiicietur silentium.	2020-04-18	Prophetia_Amos
+1100000397	audite hoc, qui conteritis pauperem,	2020-04-18	Prophetia_Amos
+1100000398	et deficere facitis egenos terrae,	2020-04-18	Prophetia_Amos
+1100000399	dicentes: quando transibit mensis,	2020-04-18	Prophetia_Amos
+1100000400	et venundabimus merces?	2020-04-18	Prophetia_Amos
+1100000401	et sabbatum, et aperiemus frumentum,	2020-04-18	Prophetia_Amos
+1100000402	ut imminuamus mensuram, et augeamus siclum,	2020-04-18	Prophetia_Amos
+1100000403	et supponamus stateras dolosas,	2020-04-18	Prophetia_Amos
+1100000404	ut possideamus in argento egenos et pauperes pro calceamentis,	2020-04-18	Prophetia_Amos
+1100000405	et quisquilias frumenti vendamus?	2020-04-18	Prophetia_Amos
+1100000406	iuravit dominus in superbiam iacob:	2020-04-18	Prophetia_Amos
+1100000407	si oblitus fuero usque ad finem omnia opera eorum.	2020-04-18	Prophetia_Amos
+1100000408	numquid super isto non commovebitur terra,	2020-04-18	Prophetia_Amos
+1100000409	et lugebit omnis habitator eius,	2020-04-18	Prophetia_Amos
+1100000410	et ascendet quasi fluvius universus,	2020-04-18	Prophetia_Amos
+1100000411	et eiicicetur, et defluet, quasi rivus aegypti?	2020-04-18	Prophetia_Amos
+1100000412	et erit in die illa, dicit dominus deus:	2020-04-18	Prophetia_Amos
+1100000413	occidet sol in meridie,	2020-04-18	Prophetia_Amos
+1100000414	et tenebrescere faciam terram in die luminis:	2020-04-18	Prophetia_Amos
+1100000415	et convertam festivitates vestras in luctum,	2020-04-18	Prophetia_Amos
+1100000416	et omnia cantica vestra in planctum,	2020-04-18	Prophetia_Amos
+1100000417	et inducam super omne dorsum vestrum saccum,	2020-04-18	Prophetia_Amos
+1100000418	et super omne caput calvitium:	2020-04-18	Prophetia_Amos
+1100000419	et ponam eam quasi luctum unigeniti,	2020-04-18	Prophetia_Amos
+1100000420	et novissima eius quasi diem amarum.	2020-04-18	Prophetia_Amos
+1100000421	ecce dies veniunt, dicet dominus,	2020-04-18	Prophetia_Amos
+1100000422	et mittam famem in terram:	2020-04-18	Prophetia_Amos
+1100000423	non famem panis, neque sitim aquae,	2020-04-18	Prophetia_Amos
+1100000424	sed audiendi verbum domini.	2020-04-18	Prophetia_Amos
+1100000425	et commovebuntur a mari usque ad mare,	2020-04-18	Prophetia_Amos
+1100000426	et ab aquilone usque ad orientem:	2020-04-18	Prophetia_Amos
+1100000427	circuibunt quaerentes verbum domini,	2020-04-18	Prophetia_Amos
+1100000428	et non invenient.	2020-04-18	Prophetia_Amos
+1100000429	in die illa deficient virgines pulchrae et adolescentes in siti,	2020-04-18	Prophetia_Amos
+1100000430	qui iurant in delicto samariae,	2020-04-18	Prophetia_Amos
+1100000431	et dicunt: vivit deus tuus, dan,	2020-04-18	Prophetia_Amos
+1100000432	et vivit via bersabee;	2020-04-18	Prophetia_Amos
+1100000433	et cadent, et non resurgent ultra.	2020-04-18	Prophetia_Amos
+1100000434	caput 9	2020-04-18	Prophetia_Amos
+1100000435	vidi dominum stantem super altare, et dixit:	2020-04-18	Prophetia_Amos
+1100000436	percute cardinem,	2020-04-18	Prophetia_Amos
+1100000437	et commoveantur superliminaria:	2020-04-18	Prophetia_Amos
+1100000438	avaritia enim in capite omnium,	2020-04-18	Prophetia_Amos
+1100000439	et novissimum eorum in gladio interficiam;	2020-04-18	Prophetia_Amos
+1100000440	non erit fuga eis.	2020-04-18	Prophetia_Amos
+1100000441	fugient, et non salvabitur ex eis qui fugerit.	2020-04-18	Prophetia_Amos
+1100000442	si descenderint usque ad infernum,	2020-04-18	Prophetia_Amos
+1100000443	inde manus mea educet eos;	2020-04-18	Prophetia_Amos
+1100000444	et si ascenderint usque in caelum,	2020-04-18	Prophetia_Amos
+1100000445	inde detraham eos.	2020-04-18	Prophetia_Amos
+1100000446	et si absconditi fuerint in vertice carmeli,	2020-04-18	Prophetia_Amos
+1100000447	inde scrutans auferam eos;	2020-04-18	Prophetia_Amos
+1100000448	et si celaverint se ab oculis meis in profundo maris,	2020-04-18	Prophetia_Amos
+1100000449	ibi mandabo serpenti, et mordebit eos.	2020-04-18	Prophetia_Amos
+1100000450	et si abierint in captivitatem coram inimicis suis,	2020-04-18	Prophetia_Amos
+1100000451	ibi mandabo gladio, et occidet eos:	2020-04-18	Prophetia_Amos
+1100000452	et ponam oculos meos super eos in malum,	2020-04-18	Prophetia_Amos
+1100000453	et non in bonum.	2020-04-18	Prophetia_Amos
+1100000454	et dominus deus exercituum, qui tangit terram, et tabescet,	2020-04-18	Prophetia_Amos
+1100000455	et lugebunt omnes habitantes in ea:	2020-04-18	Prophetia_Amos
+1100000456	et ascendet sicut rivus omnis,	2020-04-18	Prophetia_Amos
+1100000457	et defluet sicut fluvius aegypti.	2020-04-18	Prophetia_Amos
+1100000458	qui aedificat in caelo ascensionem suam,	2020-04-18	Prophetia_Amos
+1100000459	et fasciculum suum super terram fundavit;	2020-04-18	Prophetia_Amos
+1100000460	qui vocat aquas maris,	2020-04-18	Prophetia_Amos
+1100000461	et effundit eas super faciem terrae:	2020-04-18	Prophetia_Amos
+1100000462	dominus nomen eius.	2020-04-18	Prophetia_Amos
+1100000463	numquid non ut filii aethiopum	2020-04-18	Prophetia_Amos
+1100000464	vos estis mihi, filii israel? 	2020-04-18	Prophetia_Amos
+1100000465	ait dominus.	2020-04-18	Prophetia_Amos
+1100000466	numquid non israel ascendere feci de terra aegypti,	2020-04-18	Prophetia_Amos
+1100000467	et palaestinos de cappadocia,	2020-04-18	Prophetia_Amos
+1100000468	et syros de cyrene?	2020-04-18	Prophetia_Amos
+1100000469	ecce oculi domini dei super regnum peccans:	2020-04-18	Prophetia_Amos
+1100000470	et conteram illud a facie terrae;	2020-04-18	Prophetia_Amos
+1100000471	verumtamen conterens non conteram domum iacob,	2020-04-18	Prophetia_Amos
+1100000472	dicit dominus.	2020-04-18	Prophetia_Amos
+1100000473	ecce enim mandabo ego,	2020-04-18	Prophetia_Amos
+1100000474	et concutiam in omnibus gentibus domum israel,	2020-04-18	Prophetia_Amos
+1100000475	sicut concutitur triticum in cribro,	2020-04-18	Prophetia_Amos
+1100000476	et non cadet lapillus super terram.	2020-04-18	Prophetia_Amos
+1100000477	in gladio morientur omnes peccatores populi mei,	2020-04-18	Prophetia_Amos
+1100000478	qui dicunt: non appropinquabit,	2020-04-18	Prophetia_Amos
+1100000479	et non veniet super nos malum.	2020-04-18	Prophetia_Amos
+1100000480	in die illa suscitabo tabernaculum david, quod cecidit:	2020-04-18	Prophetia_Amos
+1100000481	et reaedificabo aperturas murorum eius,	2020-04-18	Prophetia_Amos
+1100000482	et ea quae corruerant instaurabo:	2020-04-18	Prophetia_Amos
+1100000483	et reaedificabo illud sicut in diebus antiquis,	2020-04-18	Prophetia_Amos
+1100000484	ut possideant reliquias idumaeae, et omnes nationes:	2020-04-18	Prophetia_Amos
+1100000485	eo quod invocatum sit nomen meum super eos,	2020-04-18	Prophetia_Amos
+1100000486	dicit dominus faciens haec.	2020-04-18	Prophetia_Amos
+1100000487	ecce dies veniunt, dicit dominus,	2020-04-18	Prophetia_Amos
+1100000488	et comprehendet arator messorem,	2020-04-18	Prophetia_Amos
+1100000489	et calcator uvae mittentem semen:	2020-04-18	Prophetia_Amos
+1100000490	et stillabunt montes dulcedinem,	2020-04-18	Prophetia_Amos
+1100000491	et omnes colli culti erunt.	2020-04-18	Prophetia_Amos
+1100000492	et convertam captivitatem populi mei israel;	2020-04-18	Prophetia_Amos
+1100000493	et aedificabunt civitates desertas, et inhabitabunt;	2020-04-18	Prophetia_Amos
+1100000494	et plantabunt vineas, et bibent vinum earum,	2020-04-18	Prophetia_Amos
+1100000495	et facient hortos, et comedent fructus eorum.	2020-04-18	Prophetia_Amos
+1100000496	et plantabo eos super humum suam,	2020-04-18	Prophetia_Amos
+1100000497	et non evellam eos ultra de terra sua, quam dedi eis,	2020-04-18	Prophetia_Amos
+1100000498	dicit dominus deus tuus.	2020-04-18	Prophetia_Amos

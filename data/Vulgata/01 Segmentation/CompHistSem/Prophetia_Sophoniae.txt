@@ -1,0 +1,192 @@
+1100000001	prophetia sophoniae	2020-04-18	Prophetia_Sophoniae
+1100000002	caput 1	2020-04-18	Prophetia_Sophoniae
+1100000003	verbum domini quod factum est ad sophoniam, filium chusi, filii godoliae, filii amariae, filii ezeciae, in diebus iosiae, filii amon, regis iudae.	2020-04-18	Prophetia_Sophoniae
+1100000004	congregans congregabo omnia a facie terrae, dicit dominus:	2020-04-18	Prophetia_Sophoniae
+1100000005	congregans hominem et pecus,	2020-04-18	Prophetia_Sophoniae
+1100000006	congregans volatilia caeli et pisces maris:	2020-04-18	Prophetia_Sophoniae
+1100000007	et ruinae impiorum erunt,	2020-04-18	Prophetia_Sophoniae
+1100000008	et disperdam homines a facie terrae, dicit dominus.	2020-04-18	Prophetia_Sophoniae
+1100000009	et extendam manum meam super iudam	2020-04-18	Prophetia_Sophoniae
+1100000010	et super omnes habitantes ierusalem:	2020-04-18	Prophetia_Sophoniae
+1100000011	et disperdam de loco hoc reliquias baal,	2020-04-18	Prophetia_Sophoniae
+1100000012	et nomina aedituorum cum sacerdotibus;	2020-04-18	Prophetia_Sophoniae
+1100000013	et eos qui adorant super tecta militiam caeli,	2020-04-18	Prophetia_Sophoniae
+1100000014	et adorant et iurant in domino,	2020-04-18	Prophetia_Sophoniae
+1100000015	et iurant in melchom;	2020-04-18	Prophetia_Sophoniae
+1100000016	et qui avertuntur de post tergum domini,	2020-04-18	Prophetia_Sophoniae
+1100000017	et qui non quaesierunt dominum,	2020-04-18	Prophetia_Sophoniae
+1100000018	nec investigaverunt eum.	2020-04-18	Prophetia_Sophoniae
+1100000019	silete a facie domini dei,	2020-04-18	Prophetia_Sophoniae
+1100000020	quia iuxta est dies domini:	2020-04-18	Prophetia_Sophoniae
+1100000021	quia praeparavit dominus hostiam;	2020-04-18	Prophetia_Sophoniae
+1100000022	sanctificavit vocatos suos.	2020-04-18	Prophetia_Sophoniae
+1100000023	et erit: in die hostiae domini,	2020-04-18	Prophetia_Sophoniae
+1100000024	visitabo super principes,	2020-04-18	Prophetia_Sophoniae
+1100000025	et super filios regis,	2020-04-18	Prophetia_Sophoniae
+1100000026	et super omnes qui induti sunt veste peregrina;	2020-04-18	Prophetia_Sophoniae
+1100000027	et visitabo super omnem qui arroganter ingreditur super limen in die illa,	2020-04-18	Prophetia_Sophoniae
+1100000028	qui complent domum domini dei sui iniquitate et dolo.	2020-04-18	Prophetia_Sophoniae
+1100000029	et erit in die illa, dicit dominus,	2020-04-18	Prophetia_Sophoniae
+1100000030	vox clamoris a porta piscium,	2020-04-18	Prophetia_Sophoniae
+1100000031	et ululatus a secunda,	2020-04-18	Prophetia_Sophoniae
+1100000032	et contritio magna a collibus.	2020-04-18	Prophetia_Sophoniae
+1100000033	ululate, habitatores pilae:	2020-04-18	Prophetia_Sophoniae
+1100000034	conticuit omnis populus chanaan,	2020-04-18	Prophetia_Sophoniae
+1100000035	disperierunt omnes involuti argento.	2020-04-18	Prophetia_Sophoniae
+1100000036	et erit in tempore illo:	2020-04-18	Prophetia_Sophoniae
+1100000037	scrutabor ierusalem in lucernis,	2020-04-18	Prophetia_Sophoniae
+1100000038	et visitabo super viros defixos in faecibus suis,	2020-04-18	Prophetia_Sophoniae
+1100000039	qui dicunt in cordibus suis:	2020-04-18	Prophetia_Sophoniae
+1100000040	non faciet bene dominus, et non faciet male.	2020-04-18	Prophetia_Sophoniae
+1100000041	et erit fortitudo eorum in direptionem,	2020-04-18	Prophetia_Sophoniae
+1100000042	et domus eorum in desertum:	2020-04-18	Prophetia_Sophoniae
+1100000043	et aedificabunt domos, et non habitabunt;	2020-04-18	Prophetia_Sophoniae
+1100000044	et plantabunt vineas, et non bibent vinum earum.	2020-04-18	Prophetia_Sophoniae
+1100000045	iuxta est dies domini magnus:	2020-04-18	Prophetia_Sophoniae
+1100000046	iuxta est, et velox nimis.	2020-04-18	Prophetia_Sophoniae
+1100000047	vox diei domini amara:	2020-04-18	Prophetia_Sophoniae
+1100000048	tribulabitur ibi fortis.	2020-04-18	Prophetia_Sophoniae
+1100000049	dies irae dies illa,	2020-04-18	Prophetia_Sophoniae
+1100000050	dies tribulationis et angustiae,	2020-04-18	Prophetia_Sophoniae
+1100000051	dies calamitatis et miseriae,	2020-04-18	Prophetia_Sophoniae
+1100000052	dies tenebrarum et caliginis,	2020-04-18	Prophetia_Sophoniae
+1100000053	dies nebulae et turbinis,	2020-04-18	Prophetia_Sophoniae
+1100000054	dies tubae et clangoris super civitates munitas,	2020-04-18	Prophetia_Sophoniae
+1100000055	et super angulos excelsos.	2020-04-18	Prophetia_Sophoniae
+1100000056	et tribulabo homines, et ambulabunt ut caeci,	2020-04-18	Prophetia_Sophoniae
+1100000057	quia domino peccaverunt;	2020-04-18	Prophetia_Sophoniae
+1100000058	et effundetur sanguis eorum sicut humus,	2020-04-18	Prophetia_Sophoniae
+1100000059	et corpora eorum sicut stercora.	2020-04-18	Prophetia_Sophoniae
+1100000060	sed et argentum eorum et aurum eorum non poterit liberare eos	2020-04-18	Prophetia_Sophoniae
+1100000061	in die irae domini:	2020-04-18	Prophetia_Sophoniae
+1100000062	in igne zeli eius devorabitur omnis terra,	2020-04-18	Prophetia_Sophoniae
+1100000063	quia consummationem cum festinatione faciet	2020-04-18	Prophetia_Sophoniae
+1100000064	cunctis habitantibus terram.	2020-04-18	Prophetia_Sophoniae
+1100000065	caput 2	2020-04-18	Prophetia_Sophoniae
+1100000066	convenite, congregamini, gens non amabilis,	2020-04-18	Prophetia_Sophoniae
+1100000067	priusquam pariat iussio quasi pulverem transeuntem diem,	2020-04-18	Prophetia_Sophoniae
+1100000068	antequam veniat super vos ira furoris domini,	2020-04-18	Prophetia_Sophoniae
+1100000069	antequam veniat super vos dies indignationis domini.	2020-04-18	Prophetia_Sophoniae
+1100000070	quaerite dominum, omnes mansueti terrae,	2020-04-18	Prophetia_Sophoniae
+1100000071	qui iudicium eius estis operati;	2020-04-18	Prophetia_Sophoniae
+1100000072	quaerite iustum, quaerite mansuetum,	2020-04-18	Prophetia_Sophoniae
+1100000073	si quomodo abscondamini in die furoris domini.	2020-04-18	Prophetia_Sophoniae
+1100000074	quia gaza destructa erit,	2020-04-18	Prophetia_Sophoniae
+1100000075	et ascalon in desertum:	2020-04-18	Prophetia_Sophoniae
+1100000076	azotum in meridie eiicient,	2020-04-18	Prophetia_Sophoniae
+1100000077	et accaron eradicabitur.	2020-04-18	Prophetia_Sophoniae
+1100000078	vae qui habitatis funiculum maris, gens perditorum!	2020-04-18	Prophetia_Sophoniae
+1100000079	verbum domini super vos, chanaan, terra philisthinorum;	2020-04-18	Prophetia_Sophoniae
+1100000080	et disperdam te, ita ut non sit inhabitator.	2020-04-18	Prophetia_Sophoniae
+1100000081	et erit funiculus maris requies pastorum, et caulae pecorum;	2020-04-18	Prophetia_Sophoniae
+1100000082	et erit funiculus eius qui remanserit de domo iuda: ibi pascentur,	2020-04-18	Prophetia_Sophoniae
+1100000083	in domibus ascalonis ad vesperam requiescent,	2020-04-18	Prophetia_Sophoniae
+1100000084	quia visitabit eos dominus deus eorum,	2020-04-18	Prophetia_Sophoniae
+1100000085	et avertet captivitatem eorum.	2020-04-18	Prophetia_Sophoniae
+1100000086	audivi opprobrium moab,	2020-04-18	Prophetia_Sophoniae
+1100000087	et blasphemias filiorum ammon,	2020-04-18	Prophetia_Sophoniae
+1100000088	quae exprobraverunt populo meo,	2020-04-18	Prophetia_Sophoniae
+1100000089	et magnificati sunt super terminos eorum.	2020-04-18	Prophetia_Sophoniae
+1100000090	propterea vivo ego, dicit dominus exercituum, deus israel,	2020-04-18	Prophetia_Sophoniae
+1100000091	quia moab ut sodoma erit,	2020-04-18	Prophetia_Sophoniae
+1100000092	et filii ammon quasi gomorrha:	2020-04-18	Prophetia_Sophoniae
+1100000093	siccitas spinarum, et acervi salis,	2020-04-18	Prophetia_Sophoniae
+1100000094	et desertum usque in aeternum:	2020-04-18	Prophetia_Sophoniae
+1100000095	reliquiae populi mei diripient eos,	2020-04-18	Prophetia_Sophoniae
+1100000096	et residui gentis meae possidebunt illos.	2020-04-18	Prophetia_Sophoniae
+1100000097	hoc eis eveniet pro superbia sua,	2020-04-18	Prophetia_Sophoniae
+1100000098	quia blasphemaverunt et magnificati sunt	2020-04-18	Prophetia_Sophoniae
+1100000099	super populum domini exercituum.	2020-04-18	Prophetia_Sophoniae
+1100000100	horribilis dominus super eos,	2020-04-18	Prophetia_Sophoniae
+1100000101	et attenuabit omnes deos terrae:	2020-04-18	Prophetia_Sophoniae
+1100000102	et adorabunt eum viri de loco suo,	2020-04-18	Prophetia_Sophoniae
+1100000103	omnes insulae gentium.	2020-04-18	Prophetia_Sophoniae
+1100000104	sed et vos, aethiopes, interfecti gladio meo eritis.	2020-04-18	Prophetia_Sophoniae
+1100000105	et extendet manum suam super aquilonem, et perdet assur,	2020-04-18	Prophetia_Sophoniae
+1100000106	et ponet speciosam in solitudinem,	2020-04-18	Prophetia_Sophoniae
+1100000107	et in invium, et quasi desertum.	2020-04-18	Prophetia_Sophoniae
+1100000108	et accubabunt in medio eius greges, omnes bestiae gentium;	2020-04-18	Prophetia_Sophoniae
+1100000109	et onocrotalus et ericius in liminibus eius morabuntur:	2020-04-18	Prophetia_Sophoniae
+1100000110	vox cantantis in fenestra,	2020-04-18	Prophetia_Sophoniae
+1100000111	corvus in superliminari,	2020-04-18	Prophetia_Sophoniae
+1100000112	quoniam attenuabo robur eius.	2020-04-18	Prophetia_Sophoniae
+1100000113	haec est civitas gloriosa habitans in confidentia,	2020-04-18	Prophetia_Sophoniae
+1100000114	quae dicebat in corde suo:	2020-04-18	Prophetia_Sophoniae
+1100000115	ego sum, et extra me non est alia amplius:	2020-04-18	Prophetia_Sophoniae
+1100000116	quomodo facta est in desertum cubile bestiae?	2020-04-18	Prophetia_Sophoniae
+1100000117	omnis qui transit per eam sibilabit,	2020-04-18	Prophetia_Sophoniae
+1100000118	et movebit manum suam.	2020-04-18	Prophetia_Sophoniae
+1100000119	caput 3	2020-04-18	Prophetia_Sophoniae
+1100000120	vae provocatrix, et redempta civitas, columba!	2020-04-18	Prophetia_Sophoniae
+1100000121	non audivit vocem,	2020-04-18	Prophetia_Sophoniae
+1100000122	et non suscepit disciplinam;	2020-04-18	Prophetia_Sophoniae
+1100000123	in domino non est confisa,	2020-04-18	Prophetia_Sophoniae
+1100000124	ad deum suum non appropinquavit.	2020-04-18	Prophetia_Sophoniae
+1100000125	principes eius in medio eius quasi leones rugientes;	2020-04-18	Prophetia_Sophoniae
+1100000126	iudices eius lupi vespere, non relinquebant in mane.	2020-04-18	Prophetia_Sophoniae
+1100000127	prophetae eius vesani, viri infideles;	2020-04-18	Prophetia_Sophoniae
+1100000128	sacerdotes eius polluerunt sanctum,	2020-04-18	Prophetia_Sophoniae
+1100000129	iniuste egerunt contra legem.	2020-04-18	Prophetia_Sophoniae
+1100000130	dominus iustus in medio eius non faciet iniquitatem;	2020-04-18	Prophetia_Sophoniae
+1100000131	mane, mane iudicium suum dabit in lucem, et non abscondetur;	2020-04-18	Prophetia_Sophoniae
+1100000132	nescivit autem iniquus confusionem.	2020-04-18	Prophetia_Sophoniae
+1100000133	disperdidi gentes,	2020-04-18	Prophetia_Sophoniae
+1100000134	et dissipati sunt anguli earum;	2020-04-18	Prophetia_Sophoniae
+1100000135	desertas feci vias eorum,	2020-04-18	Prophetia_Sophoniae
+1100000136	dum non est qui transeat;	2020-04-18	Prophetia_Sophoniae
+1100000137	desolatae sunt civitates eorum,	2020-04-18	Prophetia_Sophoniae
+1100000138	non remanente viro, neque ullo habitatore.	2020-04-18	Prophetia_Sophoniae
+1100000139	dixi: attamen timebis me,	2020-04-18	Prophetia_Sophoniae
+1100000140	suscipies disciplinam;	2020-04-18	Prophetia_Sophoniae
+1100000141	et non peribit habitaculum eius,	2020-04-18	Prophetia_Sophoniae
+1100000142	propter omnia in quibus visitavi eam:	2020-04-18	Prophetia_Sophoniae
+1100000143	verumtamen diluculo surgentes corruperunt omnes cogitationes suas.	2020-04-18	Prophetia_Sophoniae
+1100000144	quapropter exspecta me, dicit dominus,	2020-04-18	Prophetia_Sophoniae
+1100000145	in die resurrectionis meae in futurum:	2020-04-18	Prophetia_Sophoniae
+1100000146	quia iudicium meum ut congregem gentes,	2020-04-18	Prophetia_Sophoniae
+1100000147	et colligam regna,	2020-04-18	Prophetia_Sophoniae
+1100000148	et effundam super eos indignationem meam,	2020-04-18	Prophetia_Sophoniae
+1100000149	omnem iram furoris mei:	2020-04-18	Prophetia_Sophoniae
+1100000150	in igne enim zeli mei devorabitur omnis terra.	2020-04-18	Prophetia_Sophoniae
+1100000151	quia tunc reddam populis labium electum,	2020-04-18	Prophetia_Sophoniae
+1100000152	ut invocent omnes in nomine domini,	2020-04-18	Prophetia_Sophoniae
+1100000153	et serviant ei humero uno.	2020-04-18	Prophetia_Sophoniae
+1100000154	ultra flumina aethiopiae, inde supplices mei;	2020-04-18	Prophetia_Sophoniae
+1100000155	filii dispersorum meorum deferent munus mihi.	2020-04-18	Prophetia_Sophoniae
+1100000156	in die illa non confunderis super cunctis adinventionibus tuis,	2020-04-18	Prophetia_Sophoniae
+1100000157	quibus praevaricata es in me,	2020-04-18	Prophetia_Sophoniae
+1100000158	quia tunc auferam de medio tui magniloquos superbiae tuae,	2020-04-18	Prophetia_Sophoniae
+1100000159	et non adiicies exaltari amplius in monte sancto meo.	2020-04-18	Prophetia_Sophoniae
+1100000160	et derelinquam in medio tui populum pauperem et egenum:	2020-04-18	Prophetia_Sophoniae
+1100000161	et sperabunt in nomine domini.	2020-04-18	Prophetia_Sophoniae
+1100000162	reliquiae israel non facient iniquitatem,	2020-04-18	Prophetia_Sophoniae
+1100000163	nec loquentur mendacium,	2020-04-18	Prophetia_Sophoniae
+1100000164	et non invenietur in ore eorum lingua dolosa,	2020-04-18	Prophetia_Sophoniae
+1100000165	quoniam ipsi pascentur, et accubabunt,	2020-04-18	Prophetia_Sophoniae
+1100000166	et non erit qui exterreat.	2020-04-18	Prophetia_Sophoniae
+1100000167	lauda, filia sion; iubila, israel:	2020-04-18	Prophetia_Sophoniae
+1100000168	laetare, et exsulta in omni corde, filia ierusalem.	2020-04-18	Prophetia_Sophoniae
+1100000169	abstulit dominus iudicium tuum;	2020-04-18	Prophetia_Sophoniae
+1100000170	avertit inimicos tuos.	2020-04-18	Prophetia_Sophoniae
+1100000171	rex israel dominus in medio tui:	2020-04-18	Prophetia_Sophoniae
+1100000172	non timebis malum ultra.	2020-04-18	Prophetia_Sophoniae
+1100000173	in die illa dicetur ierusalem:	2020-04-18	Prophetia_Sophoniae
+1100000174	noli timere; sion: non dissolvantur manus tuae.	2020-04-18	Prophetia_Sophoniae
+1100000175	dominus deus tuus in medio tui fortis, ipse salvabit:	2020-04-18	Prophetia_Sophoniae
+1100000176	gaudebit super te in laetitia,	2020-04-18	Prophetia_Sophoniae
+1100000177	silebit in dilectione sua,	2020-04-18	Prophetia_Sophoniae
+1100000178	exsultabit super te in laude.	2020-04-18	Prophetia_Sophoniae
+1100000179	nugas, qui a lege recesserant,	2020-04-18	Prophetia_Sophoniae
+1100000180	congregabo, quia ex te erant:	2020-04-18	Prophetia_Sophoniae
+1100000181	ut non ultra habeas super eis opprobrium.	2020-04-18	Prophetia_Sophoniae
+1100000182	ecce ego interficiam omnes qui afflixerunt te in tempore illo:	2020-04-18	Prophetia_Sophoniae
+1100000183	et salvabo claudicantem,	2020-04-18	Prophetia_Sophoniae
+1100000184	et eam quae eiecta fuerat congregabo:	2020-04-18	Prophetia_Sophoniae
+1100000185	et ponam eos in laudem, et in nomen,	2020-04-18	Prophetia_Sophoniae
+1100000186	in omni terra confusionis eorum,	2020-04-18	Prophetia_Sophoniae
+1100000187	in tempore illo quo adducam vos,	2020-04-18	Prophetia_Sophoniae
+1100000188	et in tempore quo congregabo vos.	2020-04-18	Prophetia_Sophoniae
+1100000189	dabo enim vos in nomen,	2020-04-18	Prophetia_Sophoniae
+1100000190	et in laudem omnibus populis terrae,	2020-04-18	Prophetia_Sophoniae
+1100000191	cum convertero captivitatem vestram coram oculis vestris,	2020-04-18	Prophetia_Sophoniae
+1100000192	dicit dominus.	2020-04-18	Prophetia_Sophoniae

@@ -1,0 +1,338 @@
+1100000001	liber nehemiae	2020-04-18	Liber_Nehemiae
+1100000002	caput 1	2020-04-18	Liber_Nehemiae
+1100000003	verba nehemiae filii helchiae. 	2020-04-18	Liber_Nehemiae
+1100000004	et factum est in mense casleu, anno vigesimo, et ego eram in susis castro.	2020-04-18	Liber_Nehemiae
+1100000005	et venit hanani, unus de fratribus meis, ipse et viri ex iuda: et interrogavi eos de iudaeis qui remanserant, et supererant de captivitate, et ierusalem.	2020-04-18	Liber_Nehemiae
+1100000006	et dixerunt mihi: qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio: et murus ierusalem dissipatus est, et portae eius combustae sunt igni.	2020-04-18	Liber_Nehemiae
+1100000007	cumque audissem verba huiuscemodi, sedi, et flevi, et luxi diebus multis: ieiunabam, et orabam ante faciem dei caeli:et dixi: quaeso, domine deus caeli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua:fiant aures tuae auscultantes, et oculi tui aperti, ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis israel servis tuis: et confiteor pro peccatis filiorum israel, quibus peccaverunt tibi: ego et domus patris mei peccavimus,vanitate seducti sumus, et non custodivimus mandatum tuum, et caeremonias, et iudicia quae praecepisti moysi famulo tuo.	2020-04-18	Liber_Nehemiae
+1100000008	memento verbi quod mandasti moysi servo tuo, dicens: cum transgressi fueritis, ego dispergam vos in populos:et si revertamini ad me, et custodiatis praecepta mea, et faciatis ea: etiamsi abducti fueritis ad extrema caeli, inde congregabo vos, et reducam in locum quem elegi ut habitaret nomen meum ibi.	2020-04-18	Liber_Nehemiae
+1100000009	et ipsi servi tui, et populus tuus, quos redemisti in fortitudine tua magna, et in manu tua valida.	2020-04-18	Liber_Nehemiae
+1100000010	obsecro, domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. 	2020-04-18	Liber_Nehemiae
+1100000011	ego enim eram pincerna regis.	2020-04-18	Liber_Nehemiae
+1100000012	caput 2	2020-04-18	Liber_Nehemiae
+1100000013	factum est autem in mense nisan, anno vigesimo artaxerxis regis: et vinum erat ante eum, et levavi vinum, et dedi regi: et eram quasi languidus ante faciem eius.	2020-04-18	Liber_Nehemiae
+1100000014	dixitque mihi rex: quare vultus tuus tristis est, cum te aegrotum non videam? 	2020-04-18	Liber_Nehemiae
+1100000015	non est hoc frustra, sed malum nescio quod in corde tuo est. 	2020-04-18	Liber_Nehemiae
+1100000016	et timui valde, ac nimis:et dixi regi: rex, in aeternum vive: quare non moereat vultus meus, quia civitas domus sepulchrorum patris mei deserta est, et portae eius combustae sunt igni?	2020-04-18	Liber_Nehemiae
+1100000017	et ait mihi rex: pro qua re postulas? 	2020-04-18	Liber_Nehemiae
+1100000018	et oravi deum caeli,et dixi ad regem: si videtur regi bonum, et si placet servus tuus ante faciem tuam, ut mittas me in iudaeam ad civitatem sepulchri patris mei, et aedificabo eam.	2020-04-18	Liber_Nehemiae
+1100000019	dixitque mihi rex, et regina quae sedebat iuxta eum: usque ad quod tempus erit iter tuum, et quando reverteris? 	2020-04-18	Liber_Nehemiae
+1100000020	et placuit ante vultum regis, et misit me: et constitui ei tempus.	2020-04-18	Liber_Nehemiae
+1100000021	et dixi regi: si regi videtur bonum, epistolas det mihi ad duces regionis trans flumen, ut traducant me, donec veniam in iudaeam:et epistolam ad asaph custodem saltus regis, ut det mihi ligna, ut tegere possim portas turris domus, et muros civitatis, et domum quam ingressus fuero. 	2020-04-18	Liber_Nehemiae
+1100000022	et dedit mihi rex iuxta manum dei mei bonam mecum.	2020-04-18	Liber_Nehemiae
+1100000023	et veni ad duces regionis trans flumen, dedique eis epistolas regis. 	2020-04-18	Liber_Nehemiae
+1100000024	miserat autem rex mecum principes militum, et equites.	2020-04-18	Liber_Nehemiae
+1100000025	et audierunt sanaballat horonites, et tobias servus ammanites: et contristati sunt afflictione magna, quod venisset homo qui quaereret prosperitatem filiorum israel.	2020-04-18	Liber_Nehemiae
+1100000026	et veni ierusalem, et eram ibi tribus diebus.	2020-04-18	Liber_Nehemiae
+1100000027	et surrexi nocte ego, et viri pauci mecum, et non indicavi cuiquam quid deus dedisset in corde meo ut facerem in ierusalem: et iumentum non erat mecum, nisi animal cui sedebam.	2020-04-18	Liber_Nehemiae
+1100000028	et egressus sum per portam vallis nocte, et ante fontem draconis, et ad portam stercoris, et considerabam murum ierusalem dissipatum, et portas eius consumptas igni.	2020-04-18	Liber_Nehemiae
+1100000029	et transivi ad portam fontis, et ad aquaeductum regis, et non erat locus iumento cui sedebam ut transiret.	2020-04-18	Liber_Nehemiae
+1100000030	et ascendi per torrentem nocte, et considerabam murum, et reversus veni ad portam vallis, et redii.	2020-04-18	Liber_Nehemiae
+1100000031	magistratus autem nesciebant quo abiissem, aut quid ego facerem: sed et iudaeis, et sacerdotibus, et optimatibus, et magistratibus, et reliquis qui faciebant opus, usque ad id loci nihil indicaveram.	2020-04-18	Liber_Nehemiae
+1100000032	et dixi eis: vos nostis afflictionem in qua sumus: quia ierusalem deserta est, et portae eius consumptae sunt igni: venite, et aedificemus muros ierusalem, et non simus ultra opprobrium.	2020-04-18	Liber_Nehemiae
+1100000033	et indicavi eis manum dei mei, quod esset bona mecum, et verba regis quae locutus esset mihi, et aio: surgamus, et aedificemus. 	2020-04-18	Liber_Nehemiae
+1100000034	et confortatae sunt manus eorum in bono.	2020-04-18	Liber_Nehemiae
+1100000035	audierunt autem sanaballat horonites, et tobias servus ammanites, et gosem arabs, et subsannaverunt nos, et despexerunt, dixeruntque: quae est haec res quam facitis? 	2020-04-18	Liber_Nehemiae
+1100000036	numquid contra regem vos rebellatis?	2020-04-18	Liber_Nehemiae
+1100000037	et reddidi eis sermonem, dixique ad eos: deus caeli ipse nos iuvat, et nos servi eius sumus: surgamus et aedificemus: vobis autem non est pars, et iustitia, et memoria in ierusalem.	2020-04-18	Liber_Nehemiae
+1100000038	caput 3	2020-04-18	Liber_Nehemiae
+1100000039	et surrexit eliasib sacerdos magnus, et fratres eius sacerdotes, et aedificaverunt portam gregis: ipsi sanctificaverunt eam, et statuerunt valvas eius, et usque ad turrim centum cubitorum sanctificaverunt eam, usque ad turrim hananeel.	2020-04-18	Liber_Nehemiae
+1100000040	et iuxta eum aedificaverunt viri iericho: et iuxta eum aedificavit zachur filius amri.	2020-04-18	Liber_Nehemiae
+1100000041	portam autem piscium aedificaverunt filii asnaa: ipsi texerunt eam, et statuerunt valvas eius, et seras, et vectes. 	2020-04-18	Liber_Nehemiae
+1100000042	et iuxta eos aedificavit marimuth filius uriae, filii accus.	2020-04-18	Liber_Nehemiae
+1100000043	et iuxta eum aedificavit mosollam filius barachiae, filii mesezebel: et iuxta eos aedificavit sadoc filius baana.	2020-04-18	Liber_Nehemiae
+1100000044	et iuxta eos aedificaverunt thecueni: optimates autem eorum non supposuerunt colla sua in opere domini sui.	2020-04-18	Liber_Nehemiae
+1100000045	et portam veterem aedificaverunt ioiada filius phasea, et mosollam filius besodia: ipsi texerunt eam, et statuerunt valvas eius, et seras, et vectes.	2020-04-18	Liber_Nehemiae
+1100000046	et iuxta eos aedificaverunt meltias gabaonites, et iadon meronathites, viri de gabaon et maspha, pro duce qui erat in regione trans flumen.	2020-04-18	Liber_Nehemiae
+1100000047	et iuxta eum aedificavit eziel filius araia aurifex: et iuxta eum aedificavit ananias filius pigmentarii: et dimiserunt ierusalem usque ad murum plateae latioris.	2020-04-18	Liber_Nehemiae
+1100000048	et iuxta eum aedificavit raphaia filius hur, princeps vici ierusalem.	2020-04-18	Liber_Nehemiae
+1100000049	et iuxta eum aedificavit iedaia filius haromaph contra domum suam: et iuxta eum aedificavit hattus filius haseboniae.	2020-04-18	Liber_Nehemiae
+1100000050	mediam partem vici aedificavit melchias filius herem, et hasub filius phahath moab, et turrim furnorum.	2020-04-18	Liber_Nehemiae
+1100000051	et iuxta eum aedificavit sellum filius alohes, princeps mediae partis vici ierusalem, ipse et filiae eius.	2020-04-18	Liber_Nehemiae
+1100000052	et portam vallis aedificavit hanun, et habitatores zanoe: ipsi aedificaverunt eam, et statuerunt valvas eius, et seras, et vectes, et mille cubitos in muro usque ad portam sterquilinii.	2020-04-18	Liber_Nehemiae
+1100000053	et portam sterquilinii aedificavit melchias filius rechab, princeps vici bethacharam: ipse aedificavit eam, et statuit valvas eius, et seras, et vectes.	2020-04-18	Liber_Nehemiae
+1100000054	et portam fontis aedificavit sellum filius cholhoza, princeps pagi maspha: ipse aedificavit eam, et texit, et statuit valvas eius, et seras, et vectes, et muros piscinae siloe in hortum regis, et usque ad gradus qui descendunt de civitate david.	2020-04-18	Liber_Nehemiae
+1100000055	post eum aedificavit nehemias filius azboc, princeps dimidiae partis vici bethsur, usque contra sepulchrum david, et usque ad piscinam quae grandi opere constructa est, et usque ad domum fortium.	2020-04-18	Liber_Nehemiae
+1100000056	post eum aedificaverunt levitae, rehum filius benni: post eum aedificavit hasebias princeps dimidiae partis vici ceilae in vico suo.	2020-04-18	Liber_Nehemiae
+1100000057	post eum aedificaverunt fratres eorum: bavai filius enadad, princeps dimidiae partis ceilae:et aedificavit iuxta eum azer filius iosue, princeps maspha, mensuram secundam, contra ascensum firmissimi anguli.	2020-04-18	Liber_Nehemiae
+1100000058	post eum in monte aedificavit baruch filius zachai mensuram secundam, ab angulo usque ad portam domus eliasib sacerdotis magni.	2020-04-18	Liber_Nehemiae
+1100000059	post eum aedificavit merimuth filius uriae filii haccus, mensuram secundam, a porta domus eliasib, donec extenderetur domus eliasib.	2020-04-18	Liber_Nehemiae
+1100000060	et post eum aedificaverunt sacerdotes, viri de campestribus iordanis.	2020-04-18	Liber_Nehemiae
+1100000061	post eum aedificavit beniamin et hasub contra domum suam: et post eum aedificavit azarias filius maasiae filii ananiae contra domum suam.	2020-04-18	Liber_Nehemiae
+1100000062	post eum aedificavit bennui filius henadad mensuram secundam, a domo azariae usque ad flexuram, et usque ad angulum.	2020-04-18	Liber_Nehemiae
+1100000063	phalel filius ozi contra flexuram, et turrim quae eminet de domo regis excelsa, id est, in atrio carceris: post eum phadaia filius pharos.	2020-04-18	Liber_Nehemiae
+1100000064	nathinaei autem habitabant in ophel usque contra portam aquarum ad orientem, et turrim quae prominebat.	2020-04-18	Liber_Nehemiae
+1100000065	post eum aedificaverunt thecueni mensuram secundam e regione, a turre magna et eminente usque ad murum templi.	2020-04-18	Liber_Nehemiae
+1100000066	sursum autem a porta equorum aedificaverunt sacerdotes, unusquisque contra domum suam.	2020-04-18	Liber_Nehemiae
+1100000067	post eos aedificavit sadoc filius emmer contra domum suam. 	2020-04-18	Liber_Nehemiae
+1100000068	et post eum aedificavit semaia filius secheniae, custos portae orientalis.	2020-04-18	Liber_Nehemiae
+1100000069	post eum aedificavit hanania filius selemiae, et hanun filius seleph sextus, mensuram secundam: post eum aedificavit mosollam filius barachiae, contra gazophylacium suum. 	2020-04-18	Liber_Nehemiae
+1100000070	post eum aedificavit melchias filius aurificis usque ad domum nathinaeorum, et scruta vendentium contra portam iudicialem, et usque ad coenaculum anguli.	2020-04-18	Liber_Nehemiae
+1100000071	et inter coenaculum anguli in porta gregis, aedificaverunt aurifices et negotiatores.	2020-04-18	Liber_Nehemiae
+1100000072	caput 4	2020-04-18	Liber_Nehemiae
+1100000073	factum est autem, cum audisset sanaballat quod aedificaremus murum, iratus est valde: et motus nimis subsannavit iudaeos,et dixit coram fratribus suis, et frequentia samaritanorum: quid iudaei faciunt imbecilles? 	2020-04-18	Liber_Nehemiae
+1100000074	num dimittent eos gentes? 	2020-04-18	Liber_Nehemiae
+1100000075	num sacrificabunt, et complebunt in una die? 	2020-04-18	Liber_Nehemiae
+1100000076	numquid aedificare poterunt lapides de acervis pulveris, qui combusti sunt?	2020-04-18	Liber_Nehemiae
+1100000077	sed et tobias ammanites, proximus eius, ait: aedificent: si ascenderit vulpes, transiliet murum eorum lapideum.	2020-04-18	Liber_Nehemiae
+1100000078	audi, deus noster, quia facti sumus despectui: converte opprobrium super caput eorum, et da eos in despectionem in terra captivitatis.	2020-04-18	Liber_Nehemiae
+1100000079	ne operias iniquitatem eorum, et peccatum eorum coram facie tua non deleatur, quia irriserunt aedificantes.	2020-04-18	Liber_Nehemiae
+1100000080	itaque aedificavimus murum, et coniunximus totum usque ad partem dimidiam: et provocatum est cor populi ad operandum.	2020-04-18	Liber_Nehemiae
+1100000081	factum est autem, cum audisset sanaballat, et tobias, et arabes, et ammanitae, et azotii, quod obducta esset cicatrix muri ierusalem, et quod coepissent interrupta concludi, irati sunt nimis.	2020-04-18	Liber_Nehemiae
+1100000082	et congregati sunt omnes pariter ut venirent, et pugnarent contra ierusalem, et molirentur insidias.	2020-04-18	Liber_Nehemiae
+1100000083	et oravimus deum nostrum, et posuimus custodes super murum die ac nocte contra eos.	2020-04-18	Liber_Nehemiae
+1100000084	dixit autem iudas: debilitata est fortitudo portantis, et humus nimia est, et nos non poterimus aedificare murum.	2020-04-18	Liber_Nehemiae
+1100000085	et dixerunt hostes nostri: nesciant, et ignorent donec veniamus in medium eorum, et interficiamus eos, et cessare faciamus opus.	2020-04-18	Liber_Nehemiae
+1100000086	factum est autem venientibus iudaeis qui habitabant iuxta eos, et dicentibus nobis per decem vices, ex omnibus locis quibus venerant ad nos,statui in loco post murum per circuitum populum in ordinem cum gladiis suis, et lanceis, et arcubus.	2020-04-18	Liber_Nehemiae
+1100000087	et perspexi atque surrexi: et aio ad optimates et magistratus, et ad reliquam partem vulgi: nolite timere a facie eorum: domini magni et terribilis mementote, et pugnate pro fratribus vestris, filiis vestris, et filiabus vestris, et uxoribus vestris, et domibus vestris.	2020-04-18	Liber_Nehemiae
+1100000088	factum est autem, cum audissent inimici nostri nuntiatum esse nobis, dissipavit deus consilium eorum. 	2020-04-18	Liber_Nehemiae
+1100000089	et reversi sumus omnes ad muros, unusquisque ad opus suum.	2020-04-18	Liber_Nehemiae
+1100000090	et factum est a die illa, media pars iuvenum eorum faciebat opus, et media parata erat ad bellum: et lanceae, et scuta, et arcus, et loricae, et principes post eos in omni domo iuda.	2020-04-18	Liber_Nehemiae
+1100000091	aedificantium in muro, et portantium onera, et imponentium: una manu sua faciebat opus, et altera tenebat gladium:aedificentium enim unusquisque gladio erat accinctus renes. 	2020-04-18	Liber_Nehemiae
+1100000092	et aedificabant, et clangebant buccina iuxta me.	2020-04-18	Liber_Nehemiae
+1100000093	et dixi ad optimates, et ad magistratus, et ad reliquam partem vulgi: opus grande est et latum, et nos separati sumus in muro procul alter ab altero:in loco quocumque audieritis clangorem tubae, illuc concurrite ad nos: deus noster pugnabit pro nobis.	2020-04-18	Liber_Nehemiae
+1100000094	et nos ipsi faciamus opus, et media pars nostrum teneat lanceas ab ascensu aurorae donec egrediantur astra.	2020-04-18	Liber_Nehemiae
+1100000095	in tempore quoque illo dixi populo: unusquisque cum puero suo maneat in medio ierusalem, et sint nobis vices per noctem et diem ad operandum.	2020-04-18	Liber_Nehemiae
+1100000096	ego autem et fratres mei, et pueri mei, et custodes, qui erant post me, non deponebamus vestimenta nostra: unusquisque tantum nudabatur ad baptismum.	2020-04-18	Liber_Nehemiae
+1100000097	caput 5	2020-04-18	Liber_Nehemiae
+1100000098	et factus est clamor populi et uxorum eius magnus adversus fratres suos iudaeos.	2020-04-18	Liber_Nehemiae
+1100000099	et erant qui dicerent: filii nostri et filiae nostrae multae sunt nimis: accipiamus pro pretio eorum frumentum, et comedamus, et vivamus.	2020-04-18	Liber_Nehemiae
+1100000100	et erant qui dicerent: agros nostros, et vineas, et domus nostras opponamus, et accipiamus frumentum in fame.	2020-04-18	Liber_Nehemiae
+1100000101	et alii dicebant: mutuo sumamus pecunias in tributa regis, demusque agros nostros et vineas:et nunc sicut carnes fratrum nostrorum, sic carnes nostrae sunt: et sicut filii eorum, ita et filii nostri: ecce nos subiugamus filios nostros et filias nostras in servitutem, et de filiabus nostris sunt famulae, nec habemus unde possint redimi: et agros nostros et vineas nostras alii possident.	2020-04-18	Liber_Nehemiae
+1100000102	et iratus sum nimis cum audissem clamorem eorum secundum verba haec:cogitavitque cor meum mecum, et increpavi optimates et magistratus, et dixi eis: usurasne singuli a fratribus vestris exigitis? 	2020-04-18	Liber_Nehemiae
+1100000103	et congregavi adversum eos concionem magnam,et dixi eis: nos, ut scitis, redemimus fratres nostros iudaeos, qui venditi fuerant gentibus secundum possibilitatem nostram: et vos igitur vendetis fratres vestros, et redimemus eos? 	2020-04-18	Liber_Nehemiae
+1100000104	et siluerunt, nec invenerunt quid responderent.	2020-04-18	Liber_Nehemiae
+1100000105	dixique ad eos: non est bona res quam facitis: quare non in timore dei nostri ambulastis, ne exprobretur nobis a gentibus inimicis nostris?	2020-04-18	Liber_Nehemiae
+1100000106	et ego, et fratres mei, et pueri mei commodavimus plurimis pecuniam et frumentum. 	2020-04-18	Liber_Nehemiae
+1100000107	non repetamus in commune istud: aes alienum concedamus quod debetur nobis.	2020-04-18	Liber_Nehemiae
+1100000108	reddite eis hodie agros suos, et vineas suas, et oliveta sua, et domos suas: quin potius et centesimum pecuniae, frumenti, vini et olei, quam exigere soletis ab eis, date pro illis.	2020-04-18	Liber_Nehemiae
+1100000109	et dixerunt: reddemus, et ab eis nihil quaeremus: sicque faciemus ut loqueris. 	2020-04-18	Liber_Nehemiae
+1100000110	et vocavi sacerdotes, et adiuravi eos ut facerent iuxta quod dixeram.	2020-04-18	Liber_Nehemiae
+1100000111	insuper excussi sinum meum, et dixi: sic excutiat deus omnem virum qui non compleverit verbum istud, de domo sua, et de laboribus suis: sic excutiatur, et vacuus fiat. 	2020-04-18	Liber_Nehemiae
+1100000112	et dixit universa multitudo: amen: et laudaverunt deum. 	2020-04-18	Liber_Nehemiae
+1100000113	fecit ergo populus sicut erat dictum.	2020-04-18	Liber_Nehemiae
+1100000114	a die autem illa, qua praeceperat rex mihi ut essem dux in terra iuda, ab anno vigesimo usque ad annum trigesimum secundum artaxerxis regis per annos duodecim, ego et fratres mei annonas quae ducibus debebantur non comedimus.	2020-04-18	Liber_Nehemiae
+1100000115	duces autem primi, qui fuerant ante me, gravaverunt populum, et acceperunt ab eis in pane, et vino, et pecunia, quotidie siclos quadraginta: sed et ministri eorum depresserunt populum. 	2020-04-18	Liber_Nehemiae
+1100000116	ego autem non feci ita propter timorem dei:quin potius in opere muri aedificavi, et agrum non emi, et omnes pueri mei congregati ad opus erant.	2020-04-18	Liber_Nehemiae
+1100000117	iudaei quoque et magistratus centum quinquaginta viri, et qui veniebant ad nos de gentibus quae in circuitu nostro sunt, in mensa mea erant.	2020-04-18	Liber_Nehemiae
+1100000118	parabatur autem mihi per dies singulos bos unus, arietes sex electi, exceptis volatilibus, et inter dies decem vina diversa, et alia multa tribuebam: insuper et annonas ducatus mei non quaesivi: valde enim attenuatus erat populus.	2020-04-18	Liber_Nehemiae
+1100000119	memento mei, deus meus, in bonum, secundum omnia quae feci populo huic.	2020-04-18	Liber_Nehemiae
+1100000120	caput 6	2020-04-18	Liber_Nehemiae
+1100000121	factum est autem, cum audisset sanaballat, et tobias, et gossem arabs, et ceteri inimici nostri, quod aedificassem ego murum, et non esset in ipso residua interruptio (usque ad tempus autem illud valvas non posueram in portis),miserunt sanaballat et gossem ad me, dicentes: veni, et percutiamus foedus pariter in viculis in campo ono. 	2020-04-18	Liber_Nehemiae
+1100000122	ipsi autem cogitabant ut facerent mihi malum.	2020-04-18	Liber_Nehemiae
+1100000123	misi ergo ad eos nuntios, dicens: opus grande ego facio, et non possum descendere, ne forte negligatur cum venero, et descendero ad vos.	2020-04-18	Liber_Nehemiae
+1100000124	miserunt autem ad me secundum verbum hoc per quatuor vices: et respondi eis iuxta sermonem priorem.	2020-04-18	Liber_Nehemiae
+1100000125	et misit ad me sanaballat iuxta verbum prius quinta vice puerum suum, et epistolam habebat in manu sua scriptam hoc modo:in gentibus auditum est, et gossem dixit, quod tu et iudaei cogitetis rebellare, et propterea aedifices murum, et levare te velis super eos regem: propter quam causamet prophetas posueris, qui praedicent de te in ierusalem, dicentes: rex in iudaea est. 	2020-04-18	Liber_Nehemiae
+1100000126	auditurus est rex verba haec: idcirco nunc veni, ut ineamus consilium pariter.	2020-04-18	Liber_Nehemiae
+1100000127	et misi ad eos, dicens: non est factum secundum verba haec, quae tu loqueris: de corde enim tuo tu componis haec.	2020-04-18	Liber_Nehemiae
+1100000128	omnes enim hi terrebant nos, cogitantes quod cessarent manus nostrae ab opere, et quiesceremus: quam ob causam magis confortavi manus meas.	2020-04-18	Liber_Nehemiae
+1100000129	et ingressus sum domum semaiae filii dalaiae filii metabeel secreto. 	2020-04-18	Liber_Nehemiae
+1100000130	qui ait: tractemus nobiscum in domo dei in medio templi, et claudamus portas aedis: quia venturi sunt ut interficiant te, et nocte venturi sunt ad occidendum te.	2020-04-18	Liber_Nehemiae
+1100000131	et dixi: num quisquam similis mei fugit? 	2020-04-18	Liber_Nehemiae
+1100000132	et quis ut ego ingredietur templum, et vivet? 	2020-04-18	Liber_Nehemiae
+1100000133	non ingrediar.	2020-04-18	Liber_Nehemiae
+1100000134	et intellexi quod deus non misisset eum, sed quasi vaticinans locutus esset ad me, et tobias et sanaballat conduxissent eum.	2020-04-18	Liber_Nehemiae
+1100000135	acceperat enim pretium, ut territus facerem, et peccarem, et haberent malum quod exprobrarent mihi.	2020-04-18	Liber_Nehemiae
+1100000136	memento mei, domine, pro tobia et sanaballat, iuxta opera eorum talia: sed et noadiae prophetae, et ceterorum prophetarum, qui terrebant me.	2020-04-18	Liber_Nehemiae
+1100000137	completus est autem murus vigesimo quinto die mensis elul, quinquaginta duobus diebus.	2020-04-18	Liber_Nehemiae
+1100000138	factum est ergo cum audissent omnes inimici nostri, ut timerent universae gentes quae erant in circuitu nostro, et conciderent intra semetipsos, et scirent quod a deo factum esset opus hoc.	2020-04-18	Liber_Nehemiae
+1100000139	sed et in diebus illis multae optimatum iudaeorum epistolae mittebantur ad tobiam, et a tobia veniebant ad eos.	2020-04-18	Liber_Nehemiae
+1100000140	multi enim erant in iudaea habentes iuramentum eius, quia gener erat secheniae filii area, et iohanan filius eius acceperat filiam mosollam filii barachiae:sed et laudabant eum coram me, et verba mea nuntiabant ei: et tobias mittebat epistolas ut terreret me.	2020-04-18	Liber_Nehemiae
+1100000141	caput 7	2020-04-18	Liber_Nehemiae
+1100000142	postquam autem aedificatus est murus, et posui valvas, et recensui ianitores, et cantores, et levitas,praecepi hanani fratri meo, et hananiae principi domus de ierusalem (ipse enim quasi vir verax et timens deum plus ceteris videbatur),et dixi eis: non aperiantur portae ierusalem usque ad calorem solis. 	2020-04-18	Liber_Nehemiae
+1100000143	cumque adhuc assisterent, clausae portae sunt, et oppilatae: et posui custodes de habitatoribus ierusalem, singulos per vices suas, et unumquemque contra domum suam.	2020-04-18	Liber_Nehemiae
+1100000144	civitas autem erat lata nimis et grandis, et populus parvus in medio eius, et non erant domus aedificatae.	2020-04-18	Liber_Nehemiae
+1100000145	deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos: et inveni librum census eorum qui ascenderant primum, et inventum est scriptum in eo.	2020-04-18	Liber_Nehemiae
+1100000146	isti filii provinciae, qui ascenderunt de captivitate migrantium, quos transtulerat nabuchodonosor rex babylonis, et reversi sunt in ierusalem et in iudaeam, unusquisque in civitatem suam.	2020-04-18	Liber_Nehemiae
+1100000147	qui venerunt cum zorobabel, iosue, nehemias, azarias, raamias, nahamani, mardochaeus, belsam, mespharath, begoai, nahum, baana.	2020-04-18	Liber_Nehemiae
+1100000148	numerus virorum populi israel:filii pharos, duo millia centum septuaginta duo:filii saphatia, trecenti septuaginta duo:filii area, sexcenti quinquaginta duo:filii phahathmoab filiorum iosue et ioab, duo millia octingenti decem et octo:filii aelam, mille ducenti quinquaginta quatuor:filii zethua, octingenti quadraginta quinque:filii zachai, septingenti sexaginta:filii bannui, sexcenti quadraginta octo:filii bebai, sexcenti viginti octo:filii azgad, duo millia trecenti viginti duo:filii adonicam, sexcenti sexaginta septem:filii beguai, duo millia sexaginta septem:filii adin, sexcenti quinquaginta quinque:filii ater, filii hezeciae, nonaginta octo:filii hasem, trecenti viginti octo:filii besai, trecenti viginti quatuor:filii hareph, centum duodecim:filii gabaon, nonaginta quinque:filii bethlehem et netupha, centum octoginta octo.	2020-04-18	Liber_Nehemiae
+1100000149	viri anathoth, centum viginti octo.	2020-04-18	Liber_Nehemiae
+1100000150	viri bethazmoth, quadraginta duo.	2020-04-18	Liber_Nehemiae
+1100000151	viri cariathiarim, cephira, et beroth, septingenti quadraginta tres.	2020-04-18	Liber_Nehemiae
+1100000152	viri rama et geba, sexcenti viginti unus.	2020-04-18	Liber_Nehemiae
+1100000153	viri machmas, centum viginti duo.	2020-04-18	Liber_Nehemiae
+1100000154	viri bethel et hai, centum viginti tres.	2020-04-18	Liber_Nehemiae
+1100000155	viri nebo alterius, quinquaginta duo.	2020-04-18	Liber_Nehemiae
+1100000156	viri aelam alterius, mille ducenti quinquaginta quatuor.	2020-04-18	Liber_Nehemiae
+1100000157	filii harem, trecenti viginti.	2020-04-18	Liber_Nehemiae
+1100000158	filii iericho, trecenti quadraginta quinque.	2020-04-18	Liber_Nehemiae
+1100000159	filii lod hadid et ono, septingenti viginti unus.	2020-04-18	Liber_Nehemiae
+1100000160	filii senaa, tria millia nongenti triginta.	2020-04-18	Liber_Nehemiae
+1100000161	sacerdotes: filii idaia in domo iosue, nongenti septuaginta tres.	2020-04-18	Liber_Nehemiae
+1100000162	filii emmer, mille quinquaginta duo.	2020-04-18	Liber_Nehemiae
+1100000163	filii phashur, mille ducenti quadraginta septem.	2020-04-18	Liber_Nehemiae
+1100000164	filii arem, mille decem et septem. 	2020-04-18	Liber_Nehemiae
+1100000165	levitae:filii iosue et cedmihel filiorumoduiae, septuaginta quatuor. 	2020-04-18	Liber_Nehemiae
+1100000166	cantores:filii asaph, centum quadraginta octo.	2020-04-18	Liber_Nehemiae
+1100000167	ianitores: filii sellum, filii ater, filii telmon, filii accub, filii hatita, filii sobai: centum triginta octo.	2020-04-18	Liber_Nehemiae
+1100000168	nathinaei: filii soha, filii hasupha, filii tebbaoth,filii ceros, filii siaa, filii phadon, filii lebana, filii hagaba, filii selmai,filii hanan, filii geddel, filii gaher,filii raaia, filii rasin, filii necoda,filii gezem, filii aza, filii phasea,filii besai, filii munim, filii nephussim,filii bacbuc, filii hacupha, filii harhur,filii besloth, filii mahida, filii harsa,filii bercos, filii sisara, filii thema,filii nasia, filii hatipha,filii servorum salomonis, filii sothai, filii sophereth, filii pharida,filii iahala, filii darcon, filii ieddel,filii saphatia, filii hatil, filii phochereth, qui erat ortus ex sabaim filio amon.	2020-04-18	Liber_Nehemiae
+1100000169	omnes nathinaei, et filii servorum salomonis, trecenti nonaginta duo.	2020-04-18	Liber_Nehemiae
+1100000170	hi sunt autem qui ascenderunt de thelmela, thelharsa, cherub, addon, et emmer: et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex israel essent,filii dalaia, filii tobia, filii necoda, sexcenti quadraginta duo.	2020-04-18	Liber_Nehemiae
+1100000171	et de sacerdotibus, filii habia, filii accos, filii berzellai, qui accepit de filiabus berzellai galaaditis uxorem, et vocatus est nomine eorum.	2020-04-18	Liber_Nehemiae
+1100000172	hi quaesierunt scripturam suam in censu, et non invenerunt: et eiecti sunt de sacerdotio.	2020-04-18	Liber_Nehemiae
+1100000173	dixitque athersatha eis ut non manducarent de sanctis sanctorum, donec staret sacerdos doctus et eruditus.	2020-04-18	Liber_Nehemiae
+1100000174	omnis multitudo quasi vir unus quadraginta duo millia trecenti sexaginta,absque servis et ancillis eorum, qui erant septem millia trecenti triginta septem, et inter eos cantores et cantatrices, ducenti quadraginta quinque.	2020-04-18	Liber_Nehemiae
+1100000175	equi eorum, septingenti triginta sex: muli eorum, ducenti quadraginta quinque:cameli eorum, quadringenti triginta quinque: asini, sex millia septingenti viginti.	2020-04-18	Liber_Nehemiae
+1100000176	nonnulli autem de principibus familiarum dederunt in opus. 	2020-04-18	Liber_Nehemiae
+1100000177	athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta.	2020-04-18	Liber_Nehemiae
+1100000178	et de principibus familiarum dederunt in thesaurum operis, auri drachmas viginti millia, et argenti mnas duo millia ducentas.	2020-04-18	Liber_Nehemiae
+1100000179	et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexaginta septem.	2020-04-18	Liber_Nehemiae
+1100000180	habitaverunt autem sacerdotes, et levitae, et ianitores, et cantores, et reliquum vulgus, et nathinaei, et omnis israel, in civitatibus suis.	2020-04-18	Liber_Nehemiae
+1100000181	caput 8	2020-04-18	Liber_Nehemiae
+1100000182	et venerat mensis septimus: filii autem israel erant in civitatibus suis. 	2020-04-18	Liber_Nehemiae
+1100000183	congregatusque est omnis populus quasi vir unus ad plateam quae est ante portam aquarum: et dixerunt esdrae scribae ut afferret librum legis moysi, quam praeceperat dominus israeli.	2020-04-18	Liber_Nehemiae
+1100000184	attulit ergo esdras sacerdos legem coram multitudine virorum et mulierum, cunctisque qui poterant intelligere, in die prima mensis septimi.	2020-04-18	Liber_Nehemiae
+1100000185	et legit in eo aperte in platea quae erat ante portam aquarum, de mane usque ad mediam diem, in conspectu virorum et mulierum, et sapientium: et aures omnis populi erant erectae ad librum.	2020-04-18	Liber_Nehemiae
+1100000186	stetit autem esdras scriba super gradum ligneum, quem fecerat ad loquendum: et steterunt iuxta eum mathathias, et semeia, et ania, et uria, et helcia, et maasia, ad dexteram eius: et ad sinistram, phadaia, misael, et melchia, et hasum, et hasbadana, zacharia, et mosollam.	2020-04-18	Liber_Nehemiae
+1100000187	et aperuit esdras librum coram omni populo: super universum quippe populum eminebat: et cum aperuisset eum, stetit omnis populus.	2020-04-18	Liber_Nehemiae
+1100000188	et benedixit esdras domino deo magno: et respondit omnis populus: amen, amen, elevans manus suas: et incurvati sunt, et adoraverunt deum proni in terram.	2020-04-18	Liber_Nehemiae
+1100000189	porro iosue, et bani, et serebia, iamin, accub, septhai, odia, maasia, celita, azarias, iozabed, hanan, phalaia, levitae, silentium faciebant in populo ad audiendam legem: populus autem stabat in gradu suo.	2020-04-18	Liber_Nehemiae
+1100000190	et legerunt in libro legis dei distincte, et aperte ad intelligendum: et intellexerunt cum legeretur.	2020-04-18	Liber_Nehemiae
+1100000191	dixit autem nehemias (ipse est athersatha) et esdras sacerdos et scriba, et levitae interpretantes universo populo: dies sanctificatus est domino deo nostro: nolite lugere, et nolite flere. 	2020-04-18	Liber_Nehemiae
+1100000192	flebat enim omnis populus cum audiret verba legis.	2020-04-18	Liber_Nehemiae
+1100000193	et dixit eis: ite, comedite pinguia, et bibite mulsum, et mittite partes his qui non praeparaverunt sibi, quia sanctus dies domini est: et nolite contristari: gaudium etenim domini est fortitudo nostra.	2020-04-18	Liber_Nehemiae
+1100000194	levitae autem silentium faciebant in omni populo, dicentes: tacete, quia dies sanctus est, et nolite dolere.	2020-04-18	Liber_Nehemiae
+1100000195	abiit itaque omnis populus ut comederet, et biberet, et mitteret partes, et faceret laetitiam magnam: quia intellexerant verba quae docuerat eos.	2020-04-18	Liber_Nehemiae
+1100000196	et in die secundo congregati sunt principes familiarum universi populi, sacerdotes et levitae, ad esdram scribam, ut interpretaretur eis verba legis.	2020-04-18	Liber_Nehemiae
+1100000197	et invenerunt scriptum in lege praecepisse dominum in manu moysi ut habitent filii israel in tabernaculis in die solemni, mense septimo:et ut praedicent, et divulgent vocem in universis urbibus suis, et in ierusalem, dicentes: egredimini in montem, et afferte frondes olivae, et frondes ligni pulcherrimi, frondes myrti, et ramos palmarum, et frondes ligni nemorosi, ut fiant tabernacula, sicut scriptum est.	2020-04-18	Liber_Nehemiae
+1100000198	et egressus est populus, et attulerunt. 	2020-04-18	Liber_Nehemiae
+1100000199	feceruntque sibi tabernacula unusquisque in domate suo: et in atriis suis, et in atriis domus dei, et in platea portae aquarum, et in platea portae ephraim.	2020-04-18	Liber_Nehemiae
+1100000200	fecit ergo universa ecclesia eorum qui redierant de captivitate, tabernacula, et habitaverunt in tabernaculis: non enim fecerant a diebus iosue filii nun taliter filii israel usque ad diem illum. 	2020-04-18	Liber_Nehemiae
+1100000201	et fuit laetitia magna nimis.	2020-04-18	Liber_Nehemiae
+1100000202	legit autem in libro legis dei per dies singulos, a die primo usque ad diem novissimum. 	2020-04-18	Liber_Nehemiae
+1100000203	et fecerunt solemnitatem septem diebus, et in die octavo collectam iuxta ritum.	2020-04-18	Liber_Nehemiae
+1100000204	caput 9	2020-04-18	Liber_Nehemiae
+1100000205	in die autem vigesimo quarto mensis huius, convenerunt filii israel in ieiunio et in saccis, et humus super eos.	2020-04-18	Liber_Nehemiae
+1100000206	et separatum est semen filiorum israel ab omni filio alienigena: et steterunt, et confitebantur peccata sua, et iniquitates patrum suorum.	2020-04-18	Liber_Nehemiae
+1100000207	et consurrexerunt ad standum: et legerunt in volumine legis domini dei sui, quater in die, et quater confitebantur, et adorabant dominum deum suum.	2020-04-18	Liber_Nehemiae
+1100000208	surrexerunt autem super gradum levitarum iosue, et bani, et cedmihel, sabania, bonni, sarebias, bani, et chanani: et clamaverunt voce magna ad dominum deum suum.	2020-04-18	Liber_Nehemiae
+1100000209	et dixerunt levitae iosue, et cedmihel, bonni, hasebnia, serebia, odaia, sebnia, phathathia: surgite, benedicite domino deo vestro ab aeterno usque in aeternum: et benedicant nomini gloriae tuae excelso in omni benedictione et laude.	2020-04-18	Liber_Nehemiae
+1100000210	tu ipse, domine, solus, tu fecisti caelum, et caelum caelorum, et omnem exercitum eorum: terram, et universa quae in ea sunt: maria, et omnia quae in eis sunt: et tu vivificas omnia haec, et exercitus caeli te adorat.	2020-04-18	Liber_Nehemiae
+1100000211	tu ipse, domine deus, qui elegisti abram, et eduxisti eum de igne chaldaeorum, et posuisti nomen eius abraham:et invenisti cor eius fidele coram te, et percussisti cum eo foedus ut dares ei terram chananaei, hethaei, et amorrhaei, et pherezaei, et iebusaei, et gergesaei, ut dares semini eius: et implesti verba tua, quoniam iustus es.	2020-04-18	Liber_Nehemiae
+1100000212	et vidisti afflictionem patrum nostrorum in aegypto, clamoremque eorum audisti super mare rubrum.	2020-04-18	Liber_Nehemiae
+1100000213	et dedisti signa atque portenta in pharaone, et in universis servis eius, et in omni populo terrae illius: cognovisti enim quia superbe egerant contra eos: et fecisti tibi nomen, sicut et in hac die.	2020-04-18	Liber_Nehemiae
+1100000214	et mare divisisti ante eos, et transierunt per medium maris in sicco: persecutores autem eorum proiecisti in profundum, quasi lapidem in aquas validas.	2020-04-18	Liber_Nehemiae
+1100000215	et in columna nubis ductor eorum fuisti per diem, et in columna ignis per noctem, ut appareret eis via per quam ingrediebantur.	2020-04-18	Liber_Nehemiae
+1100000216	ad montem quoque sinai descendisti, et locutus es cum eis de caelo, et dedisti eis iudicia recta, et legem veritatis, caeremonias, et praecepta bona:et sabbatum sanctificatum tuum ostendisti eis: et mandata, et caeremonias, et legem praecepisti eis in manu moysi servi tui.	2020-04-18	Liber_Nehemiae
+1100000217	panem quoque de caelo dedisti eis in fame eorum, et aquam de petra eduxisti eis sitientibus, et dixisti eis ut ingrederentur et possiderent terram, super quam levasti manum tuam ut traderes eis.	2020-04-18	Liber_Nehemiae
+1100000218	ipsi vero et patres nostri superbe egerunt, et induraverunt cervices suas, et non audierunt mandata tua.	2020-04-18	Liber_Nehemiae
+1100000219	et noluerunt audire, et non sunt recordati mirabilium tuorum quae feceras eis. 	2020-04-18	Liber_Nehemiae
+1100000220	et induraverunt cervices suas, et dederunt caput ut converterentur ad servitutem suam, quasi per contentionem. 	2020-04-18	Liber_Nehemiae
+1100000221	tu autem, deus propitius, clemens, et misericors, longanimis, et multae miserationis, non dereliquisti eos,et quidem cum fecissent sibi vitulum conflatilem, et dixissent: iste est deus tuus, qui eduxit te de aegypto: feceruntque blasphemias magnas:tu autem in misericordiis tuis multis non dimisisti eos in deserto: columna nubis non recessit ab eis per diem ut duceret eos in viam, et columna ignis per noctem ut ostenderet eis iter per quod ingrederentur.	2020-04-18	Liber_Nehemiae
+1100000222	et spiritum tuum bonum dedisti, qui doceret eos: et manna tuum non prohibuisti ab ore eorum, et aquam dedisti eis in siti.	2020-04-18	Liber_Nehemiae
+1100000223	quadraginta annis pavisti eos in deserto, nihilque eis defuit: vestimenta eorum non inveteraverunt, et pedes eorum non sunt attriti.	2020-04-18	Liber_Nehemiae
+1100000224	et dedisti eis regna, et populos, et partitus es eis sortes: et possederunt terram sehon, et terram regis hesebon, et terram og regis basan.	2020-04-18	Liber_Nehemiae
+1100000225	et multiplicasti filios eorum sicut stellas caeli, et adduxisti eos ad terram de qua dixeras patribus eorum ut ingrederentur et possiderent.	2020-04-18	Liber_Nehemiae
+1100000226	et venerunt filii, et possederunt terram, et humiliasti coram eis habitatores terrae chananaeos, et dedisti eos in manu eorum, et reges eorum, et populos terrae, ut facerent eis sicut placebant illis.	2020-04-18	Liber_Nehemiae
+1100000227	ceperunt itaque urbes munitas et humum pinguem, et possederunt domos plenas cunctis bonis: cisternas ab aliis fabricatas, vineas, et oliveta, et ligna pomifera multa: et comederunt, et saturati sunt, et impinguati sunt, et abundaverunt deliciis in bonitate tua magna.	2020-04-18	Liber_Nehemiae
+1100000228	provocaverunt autem te ad iracundiam, et recesserunt a te, et proiecerunt legem tuam post terga sua: et prophetas tuos occiderunt, qui contestabantur eos ut reverterentur ad te: feceruntque blasphemias grandes.	2020-04-18	Liber_Nehemiae
+1100000229	et dedisti eos in manu hostium suorum, et afflixerunt eos. 	2020-04-18	Liber_Nehemiae
+1100000230	et in tempore tribulationis suae clamaverunt ad te, et tu de caelo audisti, et secundum miserationes tuas multas dedisti eis salvatores, qui salvarent eos de manu hostium suorum.	2020-04-18	Liber_Nehemiae
+1100000231	cumque requievissent, reversi sunt ut facerent malum in conspectu tuo, et dereliquisti eos in manu inimicorum suorum, et possederunt eos. 	2020-04-18	Liber_Nehemiae
+1100000232	conversique sunt, et clamaverunt ad te: tu autem de caelo exaudisti, et liberasti eos in misericordiis tuis, multis temporibus.	2020-04-18	Liber_Nehemiae
+1100000233	et contestatus es eos ut reverterentur ad legem tuam. 	2020-04-18	Liber_Nehemiae
+1100000234	ipsi vero superbe egerunt, et non audierunt mandata tua, et in iudiciis tuis peccaverunt, quae faciet homo, et vivet in eis: et dederunt humerum recedentem, et cervicem suam induraverunt, nec audierunt.	2020-04-18	Liber_Nehemiae
+1100000235	et protraxisti super eos annos multos, et contestatus es eos in spiritu tuo per manum prophetarum tuorum: et non audierunt, et tradidisti eos in manu populorum terrarum.	2020-04-18	Liber_Nehemiae
+1100000236	in misericordiis autem tuis plurimis non fecisti eos in consumptionem, nec dereliquisti eos: quoniam deus miserationum et clemens es tu.	2020-04-18	Liber_Nehemiae
+1100000237	nunc itaque deus noster magne, fortis et terribilis, custodiens pactum et misericordiam, ne avertas a facie tua omnem laborem, qui invenit nos, reges nostros, et principes nostros, et sacerdotes nostros, et prophetas nostros, et patres nostros, et omnem populum tuum a diebus regis assur usque in diem hanc.	2020-04-18	Liber_Nehemiae
+1100000238	et tu iustus es in omnibus quae venerunt super nos: quia veritatem fecisti, nos autem impie egimus.	2020-04-18	Liber_Nehemiae
+1100000239	reges nostri, principes nostri, sacerdotes nostri et patres nostri non fecerunt legem tuam, et non attenderunt mandata tua, et testimonia tua quae testificatus es in eis.	2020-04-18	Liber_Nehemiae
+1100000240	et ipsi in regnis suis, et in bonitate tua multa quam dederas eis, et in terra latissima et pingui quam tradideras in conspectu eorum, non servierunt tibi, nec reversi sunt a studiis suis pessimis.	2020-04-18	Liber_Nehemiae
+1100000241	ecce nos ipsi hodie servi sumus: et terra quam dedisti patribus nostris ut comederent panem eius, et quae bona sunt eius, et nos ipsi servi sumus in ea.	2020-04-18	Liber_Nehemiae
+1100000242	et fruges eius multiplicantur regibus quos posuisti super nos propter peccata nostra: et corporibus nostris dominantur, et iumentis nostris secundum voluntatem suam: et in tribulatione magna sumus.	2020-04-18	Liber_Nehemiae
+1100000243	super omnibus ergo his nos ipsi percutimus foedus, et scribimus: et signant principes nostri, levitae nostri, et sacerdotes nostri.	2020-04-18	Liber_Nehemiae
+1100000244	caput 10	2020-04-18	Liber_Nehemiae
+1100000245	signatores autem fuerunt nehemias, athersatha filius hachelai, et sedecias,saraias, azarias, ieremias,pheshur, amarias, melchias,hattus, sebenia, melluch,harem, merimuth, obdias,daniel, genthon, baruch,mosollam, abia, miamin,maazia, belgai, semeia: hi sacerdotes.	2020-04-18	Liber_Nehemiae
+1100000246	porro levitae, iosue filius azaniae, bennui de filiis henadad, cedmihel,et fratres eorum, sebenia, odaia, celita, phalaia, hanan,micha, rohob, hasebia,zachur, serebia, sabania,odaia, bani, baninu.	2020-04-18	Liber_Nehemiae
+1100000247	capita populi, pharos, phahathmoab, aelam, zethu, bani,bonni, azgad, bebai,adonia, begoai, adin,ater, hezecia, azur,odaia, hasum, besai,hareph, anathoth, nebai,megphias, mosollam, hazir,mesizabel, sadoc, ieddua,pheltia, hanan, anaia,osee, hanania, hasub,alohes, phalea, sobec,rehum, hasebna, maasia,echaia, hanan, anan,melluch, haran, baana.	2020-04-18	Liber_Nehemiae
+1100000248	et reliqui de populo, sacerdotes, levitae, ianitores, et cantores, nathinaei, et omnes qui se separaverunt de populis terrarum ad legem dei, uxores eorum, filii eorum, et filiae eorum,omnes qui poterant sapere spondentes pro fratribus suis, optimates eorum, et qui veniebant ad pollicendum et iurandum ut ambularent in lege dei, quam dederat in manu moysi servi dei: ut facerent et custodirent universa mandata domini dei nostri, et iudicia eius et caeremonias eius:et ut non daremus filias nostras populo terrae, et filias eorum non acciperemus filiis nostris.	2020-04-18	Liber_Nehemiae
+1100000249	populi quoque terrae, qui important venalia, et omnia ad usum, per diem sabbati ut vendant, non accipiemus ab eis in sabbato et in die sanctificato. 	2020-04-18	Liber_Nehemiae
+1100000250	et dimittemus annum septimum, et exactionem universae manus.	2020-04-18	Liber_Nehemiae
+1100000251	et statuemus super nos praecepta, ut demus tertiam partem sicli per annum ad opus domus dei nostri,ad panes propositionis, et ad sacrificium sempiternum, et in holocaustum sempiternum in sabbatis, in calendis, in solemnitatibus, et in sanctificatis, et pro peccato: ut exoretur pro israel, et in omnem usum domus dei nostri.	2020-04-18	Liber_Nehemiae
+1100000252	sortes ergo misimus super oblationem lignorum inter sacerdotes, et levitas, et populum, ut inferrentur in domum dei nostri per domos patrum nostrorum, per tempora, a temporibus anni usque ad annum: ut arderent super altare domini dei nostri, sicut scriptum est in lege moysi:et ut afferremus primogenita terrae nostrae, et primitiva universi fructus omnis ligni, ab anno in annum, in domo domini:et primitiva filiorum nostrorum et pecorum nostrorum, sicut scriptum est in lege, et primitiva boum nostrorum et ovium nostrarum, ut offerrentur in domo dei nostri, sacerdotibus qui ministrant in domo dei nostri:et primitias ciborum nostrorum, et libaminum nostrorum, et poma omnis ligni, vindemiae quoque et olei, afferemus sacerdotibus ad gazophylacium dei nostri, et decimam partem terrae nostrae levitis. 	2020-04-18	Liber_Nehemiae
+1100000253	ipsi levitae decimas accipient ex omnibus civitatibus operum nostrorum.	2020-04-18	Liber_Nehemiae
+1100000254	erit autem sacerdos filius aaron cum levitis in decimis levitarum, et levitae offerent decimam partem decimae suae in domo dei nostri ad gazophylacium in domum thesauri.	2020-04-18	Liber_Nehemiae
+1100000255	ad gazophylacium enim deportabunt filii israel, et filii levi, primitias frumenti, vini, et olei: et ibi erunt vasa sanctificata, et sacerdotes, et cantores, et ianitores, et ministri: et non dimittemus domum dei nostri.	2020-04-18	Liber_Nehemiae
+1100000256	caput 11	2020-04-18	Liber_Nehemiae
+1100000257	habitaverunt autem principes populi in ierusalem: reliqua vero plebs misit sortem, ut tollerent unam partem de decem qui habitaturi essent in ierusalem civitate sancta, novem vero partes in civitatibus.	2020-04-18	Liber_Nehemiae
+1100000258	benedixit autem populus omnibus viris qui se sponte obtulerant ut habitarent in ierusalem.	2020-04-18	Liber_Nehemiae
+1100000259	hi sunt itaque principes provinciae qui habitaverunt in ierusalem, et in civitatibus iuda. 	2020-04-18	Liber_Nehemiae
+1100000260	habitavit autem unusquisque in possessione sua, in urbibus suis, israel, sacerdotes, levitae, nathinaei, et filii servorum salomonis.	2020-04-18	Liber_Nehemiae
+1100000261	et in ierusalem habitaverunt de filiis iuda, et de filiis beniamin: de filiis iuda, athaias filius aziam, filii zachariae, filii amariae, filii saphatiae, filii melaleel: de filiis phares,maasia filius baruch, filius cholhoza, filius hazia, filius adaia, filius ioiarib, filius zachariae, filius silonitis:omnes hi filii phares, qui habitaverunt in ierusalem, quadringenti sexaginta octo viri fortes.	2020-04-18	Liber_Nehemiae
+1100000262	hi sunt autem filii beniamin: sellum filius mosollam, filius ioed, filius phadaia, filius colaia, filius masia, filius etheel, filius isaia,et post eum gebbai, sellai, nongenti viginti octo,et ioel filius zechri praepositus eorum, et iudas filius senua super civitatem secundus.	2020-04-18	Liber_Nehemiae
+1100000263	et de sacerdotibus, idaia filius ioarib, iachin,saraia filius helciae, filius mosollam, filius sadoc, filius meraioth, filius achitob princeps domus dei,et fratres eorum facientes opera templi: octingenti viginti duo. 	2020-04-18	Liber_Nehemiae
+1100000264	et adaia filius ieroham, filius phelelia, filius amsi, filius zachariae, filius pheshur, filius melchiae,et fratres eius principes patrum: ducenti quadraginta duo. 	2020-04-18	Liber_Nehemiae
+1100000265	et amassai filius azreel, filius ahazi, filius mosollamoth, filius emmer,et fratres eorum potentes nimis: centum viginti octo, et praepositus eorum zabdiel filius potentium.	2020-04-18	Liber_Nehemiae
+1100000266	et de levitis, semeia filius hasub, filius azaricam, filius hasabia, filius boni,et sabathai et iozabed, super omnia opera quae erant forinsecus in domo dei, a principibus levitarum.	2020-04-18	Liber_Nehemiae
+1100000267	et mathania filius micha, filius zebedei, filius asaph, princeps ad laudandum et ad confitendum in oratione, et becbecia secundus de fratribus eius, et abda filius samua, filius galal, filius idithun:omnes levitae in civitate sancta ducenti octoginta quatuor.	2020-04-18	Liber_Nehemiae
+1100000268	et ianitores, accub, telmon, et fratres eorum, qui custodiebant ostia: centum septuaginta duo.	2020-04-18	Liber_Nehemiae
+1100000269	et reliqui ex israel sacerdotes et levitae in universis civitatibus iuda, unusquisque in possessione sua.	2020-04-18	Liber_Nehemiae
+1100000270	et nathinaei, qui habitabant in ophel, et siaha, et gaspha de nathinaeis.	2020-04-18	Liber_Nehemiae
+1100000271	et episcopus levitarum in ierusalem, azzi filius bani, filius hasabiae, filius mathaniae, filius michae. 	2020-04-18	Liber_Nehemiae
+1100000272	de filiis asaph, cantores in ministerio domus dei.	2020-04-18	Liber_Nehemiae
+1100000273	praeceptum quippe regis super eos erat, et ordo in cantoribus per dies singulos,et phathahia filius mesezebel, de filiis zara filii iuda in manu regis, iuxta omne verbum populi,et in domibus per omnes regiones eorum. 	2020-04-18	Liber_Nehemiae
+1100000274	de filiis iuda habitaverunt in cariatharbe et in filiabus eius: et in dibon, et in filiabus eius: et in cabseel, et in viculis eius:et in iesue, et in molada, et in bethphaleth,et in hasersual, et in bersabee, et in filiabus eius,et in siceleg, et in mochona, et in filiabus eius,et in remmon, et in saraa, et in ierimuth,zanoa, odollam, et in villis earum, lachis et regionibus eius, et azeca, et filiabus eius. 	2020-04-18	Liber_Nehemiae
+1100000275	et manserunt in bersabee usque ad vallem ennom.	2020-04-18	Liber_Nehemiae
+1100000276	filii autem beniamin, a geba, mechmas, et hai, et bethel, et filiabus eiusanathoth, nob, anania,asor, rama, gethaim,hadid, seboim, et neballat, lod,et ono valle artificum.	2020-04-18	Liber_Nehemiae
+1100000277	et de levitis portiones iudae et beniamin.	2020-04-18	Liber_Nehemiae
+1100000278	caput 12	2020-04-18	Liber_Nehemiae
+1100000279	hi sunt autem sacerdotes et levitae, qui ascenderunt cum zorobabel filio salathiel, et iosue: saraia, ieremias, esdras,amaria, melluch, hattus,sebenias, rheum, merimuth,addo, genthon, abia,miamin, madia, belga,semeia, et ioiarib, idaia, sellum, amoc, helcias,idaia. 	2020-04-18	Liber_Nehemiae
+1100000280	isti principes sacerdotum, et fratres eorum in diebus iosue.	2020-04-18	Liber_Nehemiae
+1100000281	porro levitae, iesua, bennui, cedmihel, sarebia, iuda, mathanias, super hymnos ipsi et fratres eorum:et becbecia atque hanni, et fratres eorum, unusquisque in officio suo.	2020-04-18	Liber_Nehemiae
+1100000282	iosue autem genuit ioacim, et ioacim genuit eliasib, et eliasib genuit ioiada,et ioiada genuit ionathan, et ionathan genuit ieddoa.	2020-04-18	Liber_Nehemiae
+1100000283	in diebus autem ioacim erant sacerdotes et principes familiarum: saraiae, maraia: ieremiae, hanania:esdrae, mosollam: amariae, iohanan:milicho, ionathan: sebeniae, ioseph:haram, edna: maraioth, helci:adaiae, zacharia: genthon, mosollam:abiae, zechri: miamin et moadiae, phelti:belgae, sammua: semaiae, ionathan:ioiarib, mathanai: iodaiae, azzi:sellai, celai: amoc, heber:helciae, hasebia: idaiae, nathanael.	2020-04-18	Liber_Nehemiae
+1100000284	levitae in diebus eliasib, et ioiada, et iohanan, et ieddoa, scripti principes familiarum, et sacerdotes in regno darii persae.	2020-04-18	Liber_Nehemiae
+1100000285	filii levi principes familiarum, scripti in libro verborum dierum, et usque ad dies ionathan, filii eliasib.	2020-04-18	Liber_Nehemiae
+1100000286	et principes levitarum, hasebia, serebia, et iosue filius cedmihel: et fratres eorum per vices suas, ut laudarent et confiterentur iuxta praeceptum david viri dei, et observarent aeque per ordinem.	2020-04-18	Liber_Nehemiae
+1100000287	mathania, et becbecia, obedia, mosollam, telmon, accub, custodes portarum et vestibulorum ante portas.	2020-04-18	Liber_Nehemiae
+1100000288	hi in diebus ioacim filii iosue, filii iosedec, et in diebus nehemiae ducis, et esdrae sacerdotis scribaeque.	2020-04-18	Liber_Nehemiae
+1100000289	in dedicatione autem muri ierusalem, requisierunt levitas de omnibus locis suis ut adducerent eos in ierusalem, et facerent dedicationem et laetitiam in actione gratiarum, et cantico, et in cymbalis, psalteriis, et citharis.	2020-04-18	Liber_Nehemiae
+1100000290	congregati sunt autem filii cantorum de campestribus circa ierusalem, et de villis nethuphathi,et de domo galgal, et de regionibus geba et azmaveth: quoniam villas aedificaverunt sibi cantores in circuitu ierusalem.	2020-04-18	Liber_Nehemiae
+1100000291	et mundati sunt sacerdotes et levitae, et mundaverunt populum, et portas, et murum.	2020-04-18	Liber_Nehemiae
+1100000292	ascendere autem feci principes iuda super murum, et statui duos magnos choros laudantium. 	2020-04-18	Liber_Nehemiae
+1100000293	et ierunt ad dexteram super murum ad portam sterquilinii.	2020-04-18	Liber_Nehemiae
+1100000294	et ivit post eos osaias, et media pars principum iuda,et azarias, esdras, et mosollam, iudas, et beniamin, et semeia, et ieremias.	2020-04-18	Liber_Nehemiae
+1100000295	et de filiis sacerdotum in tubis, zacharias filius ionathan, filius semeiae, filius mathaniae, filius michaiae, filius zechur, filius asaph,et fratres eius semeia, et azareel, malalai, galalai, maai, nathanael, et iudas, et hanani, in vasis cantici david viri dei: et esdras scriba ante eos in porta fontis.	2020-04-18	Liber_Nehemiae
+1100000296	et contra eos ascenderunt in gradibus civitatis david in ascensu muri super domum david, et usque ad portam aquarum ad orientem.	2020-04-18	Liber_Nehemiae
+1100000297	et chorus secundus gratias referentium ibat ex adverso, et ego post eum, et media pars populi super murum, et super turrim furnorum, et usque ad murum latissimum,et super portam ephraim, et super portam antiquam, et super portam piscium et turrim hananeel, et turrim emath, et usque ad portam gregis: et steterunt in porta custodiae,steteruntque duo chori laudantium in domo dei, et ego, et dimidia pars magistratuum mecum.	2020-04-18	Liber_Nehemiae
+1100000298	et sacerdotes, eliachim, maasia, miamin, michea, elioenai, zacharia, hanania in tubis,et maasia, et semeia, et eleazar, et azzi, et iohanan, et melchia, et aelam, et ezer. 	2020-04-18	Liber_Nehemiae
+1100000299	et clare cecinerunt cantores, et iezraia praepositus:et immolaverunt in die illa victimas magnas, et laetati sunt: deus enim laetificaverat eos laetitia magna: sed et uxores eorum et liberi gavisi sunt, et audita est laetitia ierusalem procul.	2020-04-18	Liber_Nehemiae
+1100000300	recensuerunt quoque in die illa viros super gazophylacia thesauri ad libamina, et ad primitias, et ad decimas, ut introferrent per eos principes civitatis in decore gratiarum actionis, sacerdotes et levitas: quia laetificatus est iuda in sacerdotibus et levitis adstantibus.	2020-04-18	Liber_Nehemiae
+1100000301	et custodierunt observationem dei sui, et observationem expiationis, et cantores, et ianitores iuxta praeceptum david, et salomonis filii eius,quia in diebus david et asaph ab exordio erant principes constituti cantorum in carmine laudantium et confitentium deo.	2020-04-18	Liber_Nehemiae
+1100000302	et omnis israel in diebus zorobabel et in diebus nehemiae, dabant partes cantoribus et ianitoribus per dies singulos, et sanctificabant levitas, et levitae sanctificabant filios aaron.	2020-04-18	Liber_Nehemiae
+1100000303	caput 13	2020-04-18	Liber_Nehemiae
+1100000304	in die autem illo, lectum est in volumine moysi, audiente populo: et inventum est scriptum in eo, quod non debeant introire ammonites et moabites in ecclesiam dei usque in aeternum:eo quod non occurrerint filiis israel cum pane et aqua, et conduxerint adversum eos balaam ad maledicendum eis: et convertit deus noster maledictionem in benedictionem.	2020-04-18	Liber_Nehemiae
+1100000305	factum est autem, cum audissent legem, separaverunt omnem alienigenam ab israel.	2020-04-18	Liber_Nehemiae
+1100000306	et super hoc erat eliasib sacerdos, qui fuerat praepositus in gazophylacio domus dei nostri, et proximus tobiae.	2020-04-18	Liber_Nehemiae
+1100000307	fecit ergo sibi gazophylacium grande, et ibi erant ante eum reponentes munera, et thus, et vasa, et decimam frumenti, vini, et olei, partes levitarum, et cantorum, et ianitorum, et primitias sacerdotales.	2020-04-18	Liber_Nehemiae
+1100000308	in omnibus autem his non fui in ierusalem, quia anno trigesimo secundo artaxerxis regis babylonis veni ad regem, et in fine dierum rogavi regem.	2020-04-18	Liber_Nehemiae
+1100000309	et veni in ierusalem, et intellexi malum quod fecerat eliasib tobiae, ut faceret ei thesaurum in vestibulis domus dei.	2020-04-18	Liber_Nehemiae
+1100000310	et malum mihi visum est valde. 	2020-04-18	Liber_Nehemiae
+1100000311	et proieci vasa domus tobiae foras de gazophylacio:praecepique et emundaverunt gazophylacia: et retuli ibi vasa domus dei, sacrificium, et thus.	2020-04-18	Liber_Nehemiae
+1100000312	et cognovi quod partes levitarum non fuissent datae, et fugisset unusquisque in regionem suam de levitis, et cantoribus, et de his qui ministrabant:et egi causam adversus magistratus, et dixi: quare dereliquimus domum dei? 	2020-04-18	Liber_Nehemiae
+1100000313	et congregavi eos, et feci stare in stationibus suis.	2020-04-18	Liber_Nehemiae
+1100000314	et omnis iuda apportabat decimam frumenti, vini, et olei, in horrea.	2020-04-18	Liber_Nehemiae
+1100000315	et constituimus super horrea selemiam sacerdotem, et sadoc scribam, et phadaiam de levitis, et iuxta eos hanan filium zachur, filium mathaniae: quoniam fideles comprobati sunt, et ipsis creditae sunt partes fratrum suorum.	2020-04-18	Liber_Nehemiae
+1100000316	memento mei, deus meus, pro hoc, et ne deleas miserationes meas quas feci in domo dei mei, et in caeremoniis eius.	2020-04-18	Liber_Nehemiae
+1100000317	in diebus illis vidi in iuda calcantes torcularia in sabbato, portantes acervos, et onerantes super asinos vinum, et uvas, et ficus, et omne onus, et inferentes in ierusalem, die sabbati. 	2020-04-18	Liber_Nehemiae
+1100000318	et contestatus sum ut in die qua vendere liceret, venderent.	2020-04-18	Liber_Nehemiae
+1100000319	et tyrii habitaverunt in ea, inferentes pisces, et omnia venalia: et vendebant in sabbatis filiis iuda in ierusalem.	2020-04-18	Liber_Nehemiae
+1100000320	et obiurgavi optimates iuda, et dixi eis: quae est haec res mala quam vos facitis, et profanatis diem sabbati?	2020-04-18	Liber_Nehemiae
+1100000321	numquid non haec fecerunt patres nostri, et adduxit deus noster super nos omne malum hoc, et super civitatem hanc? 	2020-04-18	Liber_Nehemiae
+1100000322	et vos additis iracundiam super israel violando sabbatum.	2020-04-18	Liber_Nehemiae
+1100000323	factum est autem, cum quievissent portae ierusalem in die sabbati, dixi: et clauserunt ianuas, et praecepi ut non aperirent eas usque post sabbatum: et de pueris meis constitui super portas, ut nullus inferret onus in die sabbati.	2020-04-18	Liber_Nehemiae
+1100000324	et manserunt negotiatores, et vendentes universa venalia, foris ierusalem semel et bis.	2020-04-18	Liber_Nehemiae
+1100000325	et contestatus sum eos, et dixi eis: quare manetis ex adverso muri? 	2020-04-18	Liber_Nehemiae
+1100000326	si secundo hoc feceritis, manum mittam in vos. 	2020-04-18	Liber_Nehemiae
+1100000327	itaque ex tempore illo non venerunt in sabbato.	2020-04-18	Liber_Nehemiae
+1100000328	dixi quoque levitis ut mundarentur, et venirent ad custodiendas portas, et sanctificandam diem sabbati: et pro hoc ergo memento mei, deus meus, et parce mihi secundum multitudinem miserationum tuarum.	2020-04-18	Liber_Nehemiae
+1100000329	sed et in diebus illis vidi iudaeos ducentes uxores azotidas, ammonitidas, et moabitidas.	2020-04-18	Liber_Nehemiae
+1100000330	et filii eorum ex media parte loquebantur azotice, et nesciebant loqui iudaice, et loquebantur iuxta linguam populi et populi.	2020-04-18	Liber_Nehemiae
+1100000331	et obiurgavi eos, et maledixi. 	2020-04-18	Liber_Nehemiae
+1100000332	et cecidi ex eis viros, et decalvavi eos, et adiuravi in deo ut non darent filias suas filiis eorum, et non acciperent de filiabus eorum filiis suis et sibimetipsis, dicens:numquid non in huiuscemodi re peccavit salomon rex israel? 	2020-04-18	Liber_Nehemiae
+1100000333	et certe in gentibus multis non erat rex similis ei, et dilectus deo suo erat, et posuit eum deus regem super omnem israel: et ipsum ergo duxerunt ad peccatum mulieres alienigenae.	2020-04-18	Liber_Nehemiae
+1100000334	numquid et nos inobedientes faciemus omne malum grande hoc ut praevaricemur in deo nostro, et ducamus uxores peregrinas?	2020-04-18	Liber_Nehemiae
+1100000335	de filiis autem ioiada filii eliasib sacerdotis magni, gener erat sanaballat horonites, quem fugavi a me.	2020-04-18	Liber_Nehemiae
+1100000336	recordare, domine deus meus, adversum eos qui polluunt sacerdotium, iusque sacerdotale et leviticum.	2020-04-18	Liber_Nehemiae
+1100000337	igitur mundavi eos ab omnibus alienigenis, et constitui ordines sacerdotum et levitarum, unumquemque in ministerio suo:et in oblatione lignorum in temporibus constitutis, et in primitivis: memento mei, deus meus, in bonum. 	2020-04-18	Liber_Nehemiae
+1100000338	amen.	2020-04-18	Liber_Nehemiae

@@ -1,0 +1,937 @@
+1100000001	liber deuteronomii	2020-04-18	Liber_Deuteronomii
+1100000002	caput 1	2020-04-18	Liber_Deuteronomii
+1100000003	haec sunt verba quae locutus est moyses ad omnem israel trans iordanem in solitudine campestri, contra mare rubrum, inter pharan et tophel et laban et haseroth, ubi auri est plurimum:undecim diebus de horeb per viam montis seir usque ad cadesbarne.	2020-04-18	Liber_Deuteronomii
+1100000004	quadragesimo anno, undecimo mense, prima die mensis, locutus est moyses ad filios israel omnia quae praeceperat illi dominus, ut diceret eis,postquam percussit sehon regem amorrhaeorum, qui habitabat in hesebon, et og regem basan, qui mansit in astaroth, et in edrai,trans iordanem in terra moab. 	2020-04-18	Liber_Deuteronomii
+1100000005	coepitque moyses explanare legem, et dicere:	2020-04-18	Liber_Deuteronomii
+1100000006	dominus deus noster locutus est ad nos in horeb, dicens: sufficit vobis quod in hoc monte mansistis:revertimini, et venite ad montem amorrhaeorum, et ad cetera quae ei proxima sunt campestria atque montana et humiliora loca contra meridiem, et iuxta littus maris, terram chananaeorum, et libani usque ad flumen magnum euphraten.	2020-04-18	Liber_Deuteronomii
+1100000007	en, inquit, tradidi vobis: ingredimini et possidete eam, super qua iuravit dominus patribus vestris abraham, isaac, et iacob, ut daret illam eis, et semini eorum post eos.	2020-04-18	Liber_Deuteronomii
+1100000008	dixique vobis illo in tempore:non possum solus sustinere vos: quia dominus deus vester multiplicavit vos, et estis hodie sicut stellae caeli, plurimi.(	2020-04-18	Liber_Deuteronomii
+1100000009	dominus deus patrum vestrorum addat ad hunc numerum multa millia, et benedicat vobis sicut locutus est.)	2020-04-18	Liber_Deuteronomii
+1100000010	non valeo solus negotia vestra sustinere, et pondus ac iurgia.	2020-04-18	Liber_Deuteronomii
+1100000011	date ex vobis viros sapientes et gnaros, et quorum conversatio sit probata in tribubus vestris, ut ponam eos vobis principes.	2020-04-18	Liber_Deuteronomii
+1100000012	tunc respondistis mihi: bona res est, quam vis facere.	2020-04-18	Liber_Deuteronomii
+1100000013	tulique de tribubus vestris viros sapientes et nobiles, et constitui eos principes, tribunos, et centuriones, et quinquagenarios ac decanos, qui docerent vos singula.	2020-04-18	Liber_Deuteronomii
+1100000014	praecepique eis, dicens: audite illos, et quod iustum est iudicate: sive civis sit ille, sive peregrinus.	2020-04-18	Liber_Deuteronomii
+1100000015	nulla erit distantia personarum: ita parvum audietis ut magnum, nec accipietis cuiusquam personam, quia dei iudicium est. 	2020-04-18	Liber_Deuteronomii
+1100000016	quod si difficile vobis visum aliquid fuerit, referte ad me, et ego audiam.	2020-04-18	Liber_Deuteronomii
+1100000017	praecepique omnia quae facere deberetis.	2020-04-18	Liber_Deuteronomii
+1100000018	profecti autem de horeb, transivimus per eremum terribilem et maximam, quam vidistis, per viam montis amorrhaei, sicut praeceperat dominus deus noster nobis. 	2020-04-18	Liber_Deuteronomii
+1100000019	cumque venissemus in cadesbarne,dixi vobis: venistis ad montem amorrhaei, quem dominus deus noster daturus est nobis:vide terram, quam dominus deus tuus dat tibi: ascende et posside eam, sicut locutus est dominus deus noster patribus tuis: noli timere, nec quidquam paveas.	2020-04-18	Liber_Deuteronomii
+1100000020	et accessistis ad me omnes, atque dixistis: mittamus viros qui considerent terram: et renuntient per quod iter debeamus ascendere, et ad quas pergere civitates.	2020-04-18	Liber_Deuteronomii
+1100000021	cumque mihi sermo placuisset, misi ex vobis duodecim viros, singulos de tribubus suis.	2020-04-18	Liber_Deuteronomii
+1100000022	qui cum perrexissent, et ascendissent in montana, venerunt usque ad vallem botri: et considerata terra,sumentes de fructibus eius, ut ostenderent ubertatem, attulerunt ad nos, atque dixerunt: bona est terra, quam dominus deus noster daturus est nobis.	2020-04-18	Liber_Deuteronomii
+1100000023	et noluistis ascendere, sed increduli ad sermonem domini dei nostri,murmurastis in tabernaculis vestris, atque dixistis: odit nos dominus, et idcirco eduxit nos de terra aegypti, ut traderet nos in manu amorrhaei, atque deleret.	2020-04-18	Liber_Deuteronomii
+1100000024	quo ascendemus? 	2020-04-18	Liber_Deuteronomii
+1100000025	nuntii terruerunt cor nostrum, dicentes: maxima multitudo est, et nobis statura procerior; urbes magnae, et ad caelum usque munitae: filios enacim vidimus ibi.	2020-04-18	Liber_Deuteronomii
+1100000026	et dixi vobis: nolite metuere, nec timeatis eos:dominus deus, qui ductor est vester, pro vobis ipse pugnabit, sicut fecit in aegypto cunctis videntibus.	2020-04-18	Liber_Deuteronomii
+1100000027	et in solitudine (ipse vidisti) portavit te dominus deus tuus, ut solet homo gestare parvulum filium suum, in omni via per quam ambulastis, donec veniretis ad locum istum.	2020-04-18	Liber_Deuteronomii
+1100000028	et nec sic quidem credidistis domino deo vestro,qui praecessit vos in via, et metatus est locum in quo tentoria figere deberetis, nocte ostendens vobis iter per ignem, et die per columnam nubis.	2020-04-18	Liber_Deuteronomii
+1100000029	cumque audisset dominus vocem sermonum vestrorum, iratus iuravit, et ait:non videbit quispiam de hominibus generationis huius pessimae terram bonam, quam sub iuramento pollicitus sum patribus vestris,praeter caleb filium iephone: ipse enim videbit eam, et ipsi dabo terram, quam calcavit, et filiis eius, quia secutus est dominum.	2020-04-18	Liber_Deuteronomii
+1100000030	nec miranda indignatio in populum, cum mihi quoque iratus dominus propter vos dixerit: nec tu ingredieris illuc:sed iosue filius nun minister tuus, ipse intrabit pro te. 	2020-04-18	Liber_Deuteronomii
+1100000031	hunc exhortare et robora, et ipse sorte terram dividet israeli.	2020-04-18	Liber_Deuteronomii
+1100000032	parvuli vestri, de quibus dixistis quod captivi ducerentur, et filii qui hodie boni ac mali ignorant distantiam, ipsi ingredientur: et ipsis dabo terram, et possidebunt eam.	2020-04-18	Liber_Deuteronomii
+1100000033	vos autem revertimini, et abite in solitudinem per viam maris rubri.	2020-04-18	Liber_Deuteronomii
+1100000034	et respondistis mihi: peccavimus domino: ascendemus et pugnabimus, sicut praecepit dominus deus noster. 	2020-04-18	Liber_Deuteronomii
+1100000035	cumque instructi armis pergeretis in montem,ait mihi dominus: dic ad eos: nolite ascendere, neque pugnetis: non enim sum vobiscum: ne cadatis coram inimicis vestris.	2020-04-18	Liber_Deuteronomii
+1100000036	locutus sum, et non audistis: sed adversantes imperio domini, et tumentes superbia, ascendistis in montem.	2020-04-18	Liber_Deuteronomii
+1100000037	itaque egressus amorrhaeus, qui habitabat in montibus, et obviam veniens, persecutus est vos, sicut solent apes persequi: et cecidit de seir usque horma.	2020-04-18	Liber_Deuteronomii
+1100000038	cumque reversi ploraretis coram domino, non audivit vos, nec voci vestrae voluit acquiescere.	2020-04-18	Liber_Deuteronomii
+1100000039	sedistis ergo in cadesbarne multo tempore.	2020-04-18	Liber_Deuteronomii
+1100000040	caput 2	2020-04-18	Liber_Deuteronomii
+1100000041	profectique inde, venimus in solitudinem, quae ducit ad mare rubrum, sicut mihi dixerat dominus: et circuivimus montem seir longo tempore.	2020-04-18	Liber_Deuteronomii
+1100000042	dixitque dominus ad me:sufficit vobis circuire montem istum: ite contra aquilonem:et populo praecipe, dicens: transibitis per terminos fratrum vestrorum filiorum esau, qui habitant in seir, et timebunt vos.	2020-04-18	Liber_Deuteronomii
+1100000043	videte ergo diligenter ne moveamini contra eos. 	2020-04-18	Liber_Deuteronomii
+1100000044	neque enim dabo vobis de terra eorum quantum potest unius pedis calcare vestigium, quia in possessionem esau dedi montem seir.	2020-04-18	Liber_Deuteronomii
+1100000045	cibos emetis ab eis pecunia, et comedetis: aquam emptam haurietis, et bibetis.	2020-04-18	Liber_Deuteronomii
+1100000046	dominus deus tuus benedixit tibi in omni opere manuum tuarum: novit iter tuum, quomodo transieris solitudinem hanc magnam, per quadraginta annos habitans tecum dominus deus tuus, et nihil tibi defuit.	2020-04-18	Liber_Deuteronomii
+1100000047	cumque transissemus fratres nostros filios esau, qui habitabant in seir, per viam campestrem de elath, et de asiongaber, venimus ad iter quod ducit in desertum moab.	2020-04-18	Liber_Deuteronomii
+1100000048	dixitque dominus ad me: non pugnes contra moabitas, nec ineas adversus eos praelium: non enim dabo tibi quidquam de terra eorum, quia filiis loth tradidi ar in possessionem.	2020-04-18	Liber_Deuteronomii
+1100000049	emim primi fuerunt habitatores eius, populus magnus, et validus, et tam excelsus ut de enacim stirpe,quasi gigantes crederentur, et essent similes filiorum enacim. 	2020-04-18	Liber_Deuteronomii
+1100000050	denique moabitae appellant eos emim.	2020-04-18	Liber_Deuteronomii
+1100000051	in seir autem prius habitaverunt horrhaei: quibus expulsis atque deletis, habitaverunt filii esau, sicut fecit israel in terra possessionis suae, quam dedit illi dominus.	2020-04-18	Liber_Deuteronomii
+1100000052	surgentes ergo ut transiremus torrentem zared, venimus ad eum.	2020-04-18	Liber_Deuteronomii
+1100000053	tempus autem, quo ambulavimus de cadesbarne usque ad transitum torrentis zared, triginta et octo annorum fuit: donec consumeretur omnis generatio hominum bellatorum de castris, sicut iuraverat dominus:cuius manus fuit adversum eos, ut interirent de castrorum medio.	2020-04-18	Liber_Deuteronomii
+1100000054	postquam autem universi ceciderunt pugnatores,locutus est dominus ad me, dicens:tu transibis hodie terminos moab, urbem nomine ar:et accedens in vicina filiorum ammon, cave ne pugnes contra eos, nec movearis ad praelium: non enim dabo tibi de terra filiorum ammon, quia filiis loth dedi eam in possessionem.	2020-04-18	Liber_Deuteronomii
+1100000055	terra gigantum reputata est: et in ipsa olim habitaverunt gigantes, quos ammonitae vocant zomzommim,populus magnus, et multus, et procerae longitudinis, sicut enacim, quos delevit dominus a facie eorum: et fecit illos habitare pro eis,sicut fecerat filiis esau, qui habitant in seir, delens horrhaeos, et terram eorum illis tradens, quam possident usque in praesens.	2020-04-18	Liber_Deuteronomii
+1100000056	hevaeos quoque, qui habitabant in haserim usque gazan, cappadoces expulerunt: qui egressi de cappadocia deleverunt eos, et habitaverunt pro illis.	2020-04-18	Liber_Deuteronomii
+1100000057	surgite, et transite torrentem arnon: ecce tradidi in manu tua sehon regem hesebon amorrhaeum, et terram eius incipe possidere, et committe adversus eum praelium.	2020-04-18	Liber_Deuteronomii
+1100000058	hodie incipiam mittere terrorem atque formidinem tuam in populos, qui habitant sub omni caelo: ut audito nomine tuo paveant, et in morem parturientium contremiscant, et dolore teneantur.	2020-04-18	Liber_Deuteronomii
+1100000059	misi ergo nuntios de solitudine cademoth ad sehon regem hesebon verbis pacificis, dicens:transibimus per terram tuam: publica gradiemur via; non declinabimus neque ad dexteram, neque ad sinistram.	2020-04-18	Liber_Deuteronomii
+1100000060	alimenta pretio vende nobis, ut vescamur: aquam pecunia tribue, et sic bibemus. 	2020-04-18	Liber_Deuteronomii
+1100000061	tantum est ut nobis concedas transitum,sicut fecerunt filii esau, qui habitant in seir, et moabitae, qui morantur in ar: donec veniamus ad iordanem, et transeamus ad terram, quam dominus deus noster daturus est nobis.	2020-04-18	Liber_Deuteronomii
+1100000062	noluitque sehon rex hesebon dare nobis transitum: quia induraverat dominus deus tuus spiritum eius, et obfirmaverat cor illius, ut traderetur in manus tuas, sicut nunc vides.	2020-04-18	Liber_Deuteronomii
+1100000063	dixitque dominus ad me: ecce coepi tibi tradere sehon, et terram eius: incipe possidere eam.	2020-04-18	Liber_Deuteronomii
+1100000064	egressusque est sehon obviam nobis cum omni populo suo ad praelium in iasa.	2020-04-18	Liber_Deuteronomii
+1100000065	et tradidit eum dominus deus noster nobis: percussimusque eum cum filiis suis et omni populo suo.	2020-04-18	Liber_Deuteronomii
+1100000066	cunctasque urbes in tempore illo cepimus, interfectis habitatoribus earum, viris ac mulieribus et parvulis: non reliquimus in eis quidquam,absque iumentis, quae in partem venere praedantium: et spoliis urbium, quas cepimusab aroer, quae est super ripam torrentis arnon, oppido quod in valle situm est, usque galaad. 	2020-04-18	Liber_Deuteronomii
+1100000067	non fuit vicus et civitas, quae nostras effugeret manus: omnes tradidit dominus deus noster nobis,absque terra filiorum ammon, ad quam non accessimus: et cunctis quae adiacent torrenti ieboc, et urbibus montanis, universisque locis, a quibus nos prohibuit dominus deus noster.	2020-04-18	Liber_Deuteronomii
+1100000068	caput 3	2020-04-18	Liber_Deuteronomii
+1100000069	itaque conversi ascendimus per iter basan: egressusque est og rex basan in occursum nobis cum populo suo ad bellandum in edrai.	2020-04-18	Liber_Deuteronomii
+1100000070	dixitque dominus ad me: ne timeas eum: quia in manu tua traditus est cum omni populo ac terra sua: faciesque ei sicut fecisti sehon regi amorrhaeorum, qui habitavit in hesebon.	2020-04-18	Liber_Deuteronomii
+1100000071	tradidit ergo dominus deus noster in manibus nostris etiam og regem basan, et universum populum eius: percussimusque eos usque ad internecionem,vastantes cunctas civitates illius uno tempore. 	2020-04-18	Liber_Deuteronomii
+1100000072	non fuit oppidum, quod nos effugeret: sexaginta urbes, omnem regionem argob regni og in basan.	2020-04-18	Liber_Deuteronomii
+1100000073	cunctae urbes erant munitae muris altissimis, portisque et vectibus, absque oppidis innumeris, quae non habebant muros.	2020-04-18	Liber_Deuteronomii
+1100000074	et delevimus eos, sicut feceramus sehon regi hesebon, disperdentes omnem civitatem, virosque ac mulieres et parvulos:iumenta autem et spolia urbium diripuimus.	2020-04-18	Liber_Deuteronomii
+1100000075	tulimusque illo in tempore terram de manu duorum regum amorrhaeorum, qui erant trans iordanem: a torrente arnon usque ad montem hernon,quem sidonii sarion vocant, et amorrhaei sanir:omnes civitates, quae sitae sunt in planitie, et universam terram galaad et basan usque ad selcha, et edrai civitates regni og in basan.	2020-04-18	Liber_Deuteronomii
+1100000076	solus quippe og rex basan restiterat de stirpe gigantum. 	2020-04-18	Liber_Deuteronomii
+1100000077	monstratur lectus eius ferreus, qui est in rabbath filiorum ammon, novem cubitos habens longitudinis, et quatuor latitudinis ad mensuram cubiti virilis manus.	2020-04-18	Liber_Deuteronomii
+1100000078	terramque possedimus tempore illo ab aroer, quae est super ripam torrentis arnon, usque ad mediam partem montis galaad: et civitates illius dedi ruben et gad.	2020-04-18	Liber_Deuteronomii
+1100000079	reliquam autem partem galaad, et omnem basan regni og, tradidi mediae tribui manasse, omnem regionem argob: cunctaque basan vocatur terra gigantum.	2020-04-18	Liber_Deuteronomii
+1100000080	iair filius manasse possedit omnem regionem argob usque ad terminos gessuri et machati. 	2020-04-18	Liber_Deuteronomii
+1100000081	vocavitque ex nomine suo basan, havoth iair, id est, villas iair, usque in praesentem diem.	2020-04-18	Liber_Deuteronomii
+1100000082	machir quoque dedi galaad.	2020-04-18	Liber_Deuteronomii
+1100000083	et tribubus ruben et gad dedi de terra galaad usque ad torrentem arnon medium torrentis, et confinium usque ad torrentem ieboc, qui est terminus filiorum ammon:et planitiem solitudinis, atque iordanem, et terminos cenereth usque ad mare deserti, quod est salsissimum, ad radices montis phasga contra orientem.	2020-04-18	Liber_Deuteronomii
+1100000084	praecepique vobis in tempore illo, dicens: dominus deus vester dat vobis terram hanc in haereditatem: expediti praecedite fratres vestros filios israel omnes viri robusti,absque uxoribus, et parvulis, atque iumentis. 	2020-04-18	Liber_Deuteronomii
+1100000085	novi enim quod plura habeatis pecora, et in urbibus remanere debebunt, quas tradidi vobis,donec requiem tribuat dominus fratribus vestris, sicut vobis tribuit: et possideant ipsi etiam terram, quam daturus est eis trans iordanem: tunc revertetur unusquisque in possessionem suam, quam dedi vobis.	2020-04-18	Liber_Deuteronomii
+1100000086	iosue quoque in tempore illo praecepi, dicens: oculi tui viderunt quae fecit dominus deus vester duobus his regibus: sic faciet omnibus regnis, ad quae transiturus es.	2020-04-18	Liber_Deuteronomii
+1100000087	ne timeas eos: dominus enim deus vester pugnabit pro vobis.	2020-04-18	Liber_Deuteronomii
+1100000088	precatusque sum dominum in tempore illo, dicens:domine deus, tu coepisti ostendere servo tuo magnitudinem tuam, manumque fortissimam: neque enim est alius deus vel in caelo, vel in terra, qui possit facere opera tua, et comparari fortitudini tuae.	2020-04-18	Liber_Deuteronomii
+1100000089	transibo igitur, et videbo terram hanc optimam trans iordanem, et montem istum egregium, et libanum.	2020-04-18	Liber_Deuteronomii
+1100000090	iratusque est dominus mihi propter vos, nec exaudivit me, sed dixit mihi: sufficit tibi: nequaquam ultra loquaris de hac re ad me.	2020-04-18	Liber_Deuteronomii
+1100000091	ascende cacumen phasgae, et oculos tuos circumfer ad occidentem, et ad aquilonem, austrumque et orientem, et aspice; nec enim transibis iordanem istum.	2020-04-18	Liber_Deuteronomii
+1100000092	praecipe iosue, et corrobora eum atque conforta: quia ipse praecedet populum istum, et dividet eis terram quam visurus es.	2020-04-18	Liber_Deuteronomii
+1100000093	mansimusque in valle contra fanum phogor.	2020-04-18	Liber_Deuteronomii
+1100000094	caput 4	2020-04-18	Liber_Deuteronomii
+1100000095	et nunc, israel, audi praecepta et iudicia, quae ego doceo te: ut faciens ea, vivas, et ingrediens possideas terram, quam dominus deus patrum vestrorum daturus est vobis.	2020-04-18	Liber_Deuteronomii
+1100000096	non addetis ad verbum, quod vobis loquor, nec auferetis ex eo: custodite mandata domini dei vestri, quae ego praecipio vobis.	2020-04-18	Liber_Deuteronomii
+1100000097	oculi vestri viderunt omnia quae fecit dominus contra beelphegor, quomodo contriverit omnes cultores eius de medio vestri.	2020-04-18	Liber_Deuteronomii
+1100000098	vos autem qui adhaeretis domino deo vestro, vivitis universi usque in praesentem diem.	2020-04-18	Liber_Deuteronomii
+1100000099	scitis quod docuerim vos praecepta atque iustitias, sicut mandavit mihi dominus deus meus: sic facietis ea in terra, quam possessuri estis:et observabitis et implebitis opere. 	2020-04-18	Liber_Deuteronomii
+1100000100	haec est enim vestra sapientia, et intellectus coram populis, ut audientes universa praecepta haec, dicant: en populus sapiens et intelligens, gens magna.	2020-04-18	Liber_Deuteronomii
+1100000101	nec est alia natio tam grandis, quae habeat deos appropinquantes sibi, sicut deus noster adest cunctis obsecrationibus nostris.	2020-04-18	Liber_Deuteronomii
+1100000102	quae est enim alia gens sic inclyta, ut habeat caeremonias, iustaque iudicia, et universam legem, quam ego proponam hodie ante oculos vestros?	2020-04-18	Liber_Deuteronomii
+1100000103	custodi igitur temetipsum, et animam tuam sollicite. 	2020-04-18	Liber_Deuteronomii
+1100000104	ne obliviscaris verborum, quae viderunt oculi tui, et ne excidant de corde tuo cunctis diebus vitae tuae. 	2020-04-18	Liber_Deuteronomii
+1100000105	docebis ea filios ac nepotes tuos,a die in quo stetisti coram domino deo tuo in horeb, quando dominus locutus est mihi, dicens: congrega ad me populum, ut audiant sermones meos, et discant timere me omni tempore quo vivunt in terra, doceantque filios suos.	2020-04-18	Liber_Deuteronomii
+1100000106	et accessistis ad radices montis, qui ardebat usque ad caelum: erantque in eo tenebrae, et nubes, et caligo.	2020-04-18	Liber_Deuteronomii
+1100000107	locutusque est dominus ad vos de medio ignis. 	2020-04-18	Liber_Deuteronomii
+1100000108	vocem verborum eius audistis, et formam penitus non vidistis.	2020-04-18	Liber_Deuteronomii
+1100000109	et ostendit vobis pactum suum, quod praecepit ut faceretis, et decem verba, quae scripsit in duabus tabulis lapideis.	2020-04-18	Liber_Deuteronomii
+1100000110	mihique mandavit in illo tempore ut docerem vos caeremonias et iudicia, quae facere deberetis in terra, quam possessuri estis.	2020-04-18	Liber_Deuteronomii
+1100000111	custodite igitur sollicite animas vestras. 	2020-04-18	Liber_Deuteronomii
+1100000112	non vidistis aliquam similitudinem in die, qua locutus est vobis dominus in horeb de medio ignis:ne forte decepti faciatis vobis sculptam similitudinem, aut imaginem masculi vel feminae:similitudinem omnium iumentorum, quae sunt super terram, vel avium sub caelo volantium,atque reptilium, quae moventur in terra, sive piscium qui sub terra morantur in aquis:ne forte elevatis oculis ad caelum, videas solem et lunam, et omnia astra caeli, et errore deceptus adores ea, et colas quae creavit dominus deus tuus in ministerium cunctis gentibus, quae sub caelo sunt.	2020-04-18	Liber_Deuteronomii
+1100000113	vos autem tulit dominus, et eduxit de fornace ferrea aegypti, ut haberet populum haereditarium, sicut est in praesenti die.	2020-04-18	Liber_Deuteronomii
+1100000114	iratusque est dominus contra me propter sermones vestros, et iuravit ut non transirem iordanem, nec ingrederer terram optimam, quam daturus est vobis.	2020-04-18	Liber_Deuteronomii
+1100000115	ecce morior in hac humo; non transibo iordanem: vos transibitis, et possidebitis terram egregiam.	2020-04-18	Liber_Deuteronomii
+1100000116	cave nequando obliviscaris pacti domini dei tui, quod pepigit tecum, et facias tibi sculptam similitudinem eorum, quae fieri dominus prohibuit:quia dominus deus tuus ignis consumens est, deus aemulator.	2020-04-18	Liber_Deuteronomii
+1100000117	si genueritis filios ac nepotes, et morati fueritis in terra, deceptique feceritis vobis aliquam similitudinem, patrantes malum coram domino deo vestro, ut eum ad iracundiam provocetis:testes invoco hodie caelum et terram, cito perituros vos esse de terra, quam transito iordane possessuri estis: non habitabitis in ea longo tempore, sed delebit vos dominus,atque disperget in omnes gentes, et remanebitis pauci in nationibus, ad quas vos ducturus est dominus.	2020-04-18	Liber_Deuteronomii
+1100000118	ibique servietis diis, qui hominum manu fabricati sunt, ligno et lapidi qui non vident, nec audiunt, nec comedunt, nec odorantur.	2020-04-18	Liber_Deuteronomii
+1100000119	cumque quaesieris ibi dominum deum tuum, invenies eum: si tamen toto corde quaesieris, et tota tribulatione animae tuae.	2020-04-18	Liber_Deuteronomii
+1100000120	postquam te invenerint omnia quae praedicta sunt, novissimo tempore reverteris ad dominum deum tuum, et audies vocem eius.	2020-04-18	Liber_Deuteronomii
+1100000121	quia deus misericors dominus deus tuus est: non dimittet te, nec omnino delebit, neque obliviscetur pacti, in quo iuravit patribus tuis.	2020-04-18	Liber_Deuteronomii
+1100000122	interroga de diebus antiquis, qui fuerunt ante te ex die quo creavit deus hominem super terram, a summo caelo usque ad summum eius, si facta est aliquando huiuscemodi res, aut umquam cognitum est,ut audiret populus vocem dei loquentis de medio ignis, sicut tu audisti, et vixisti:si fecit deus ut ingrederetur, et tolleret sibi gentem de medio nationum, per tentationes, signa atque portenta, per pugnam et robustam manum, extentumque brachium, et horribiles visiones iuxta omnia quae fecit pro vobis dominus deus vester in aegypto, videntibus oculis tuis:ut scires quoniam dominus ipse est deus, et non est alius praeter eum.	2020-04-18	Liber_Deuteronomii
+1100000123	de caelo te fecit audire vocem suam, ut doceret te, et in terra ostendit tibi ignem suum maximum, et audisti verba illius de medio ignis:quia dilexit patres tuos, et elegit semen eorum post eos. 	2020-04-18	Liber_Deuteronomii
+1100000124	eduxitque te praecedens in virtute sua magna ex aegypto,ut deleret nationes maximas et fortiores te in introitu tuo: et introduceret te, daretque tibi terram earum in possessionem, sicut cernis in praesenti die.	2020-04-18	Liber_Deuteronomii
+1100000125	scito ergo hodie, et cogitato in corde tuo quod dominus ipse sit deus in caelo sursum, et in terra deorsum, et non sit alius.	2020-04-18	Liber_Deuteronomii
+1100000126	custodi praecepta eius atque mandata, quae ego praecipio tibi: ut bene sit tibi, et filiis tuis post te, et permaneas multo tempore super terram, quam dominus deus tuus daturus est tibi.	2020-04-18	Liber_Deuteronomii
+1100000127	tunc separavit moyses tres civitates trans iordanem ad orientalem plagam,ut confugiat ad eas qui occiderit nolens proximum suum, nec sibi fuerit inimicus ante unum et alterum diem, et ad harum aliquam urbium possit evadere:bosor in solitudine, quae sita est in terra campestri de tribu ruben: et ramoth in galaad, quae est in tribu gad: et golan in basan, quae est in tribu manasse.	2020-04-18	Liber_Deuteronomii
+1100000128	ista est lex, quam proposuit moyses coram filiis israel:et haec testimonia et caeremoniae atque iudicia, quae locutus est ad filios israel, quando egressi sunt de aegypto,trans iordanem in valle contra fanum phogor in terra sehon regis amorrhaei, qui habitavit in hesebon, quem percussit moyses. 	2020-04-18	Liber_Deuteronomii
+1100000129	filii quoque israel egressi ex aegyptopossederunt terram eius, et terram og regis basan, duorum regum amorrhaeorum, qui erant trans iordanem ad solis ortum:ab aroer, quae sita est super ripam torrentis arnon, usque ad montem sion, qui est et hermon,omnem planitiem trans iordanem ad orientalem plagam, usque ad mare solitudinis, et usque ad radices montis phasga.	2020-04-18	Liber_Deuteronomii
+1100000130	caput 5	2020-04-18	Liber_Deuteronomii
+1100000131	vocavitque moyses omnem israelem, et dixit ad eum: audi, israel, caeremonias atque iudicia, quae ego loquor in auribus vestris hodie: discite ea, et opere complete.	2020-04-18	Liber_Deuteronomii
+1100000132	dominus deus noster pepigit nobiscum foedus in horeb.	2020-04-18	Liber_Deuteronomii
+1100000133	non cum patribus nostris iniit pactum, sed nobiscum qui in praesentiarum sumus, et vivimus.	2020-04-18	Liber_Deuteronomii
+1100000134	facie ad faciem locutus est nobis in monte de medio ignis.	2020-04-18	Liber_Deuteronomii
+1100000135	ego sequester et medius fui inter dominum et vos in tempore illo, ut annuntiarem vobis verba eius: timuistis enim ignem, et non ascendistis in montem. 	2020-04-18	Liber_Deuteronomii
+1100000136	et ait:ego dominus deus tuus, qui eduxi te de terra aegypti, de domo servitutis.	2020-04-18	Liber_Deuteronomii
+1100000137	non habebis deos alienos in conspectu meo.	2020-04-18	Liber_Deuteronomii
+1100000138	non facies tibi sculptile, nec similitudinem omnium, quae in caelo sunt desuper, et quae in terra deorsum, et quae versantur in aquis sub terra.	2020-04-18	Liber_Deuteronomii
+1100000139	non adorabis ea, et non coles. 	2020-04-18	Liber_Deuteronomii
+1100000140	ego enim sum dominus deus tuus: deus aemulator, reddens iniquitatem patrum super filios in tertiam et quartam generationem his qui oderunt me:et faciens misericordiam in multa millia diligentibus me, et custodientibus praecepta mea.	2020-04-18	Liber_Deuteronomii
+1100000141	non usurpabis nomen domini dei tui frustra: quia non erit impunitus qui super re vana nomen eius assumpserit.	2020-04-18	Liber_Deuteronomii
+1100000142	observa diem sabbati, ut sanctifices eum, sicut praecepit tibi dominus deus tuus.	2020-04-18	Liber_Deuteronomii
+1100000143	sex diebus operaberis, et facies omnia opera tua.	2020-04-18	Liber_Deuteronomii
+1100000144	septimus dies sabbati est, id est, requies domini dei tui. 	2020-04-18	Liber_Deuteronomii
+1100000145	non facies in eo quidquam operis tu, et filius tuus, et filia, servus et ancilla, et bos, et asinus, et omne iumentum tuum, et peregrinus qui est intra portas tuas: ut requiescat servus tuus, et ancilla tua, sicut et tu.	2020-04-18	Liber_Deuteronomii
+1100000146	memento quod et ipse servieris in aegypto, et eduxerit te inde dominus deus tuus in manu forti, et brachio extento. 	2020-04-18	Liber_Deuteronomii
+1100000147	idcirco praecepit tibi ut observares diem sabbati.	2020-04-18	Liber_Deuteronomii
+1100000148	honora patrem tuum et matrem, sicut praecepit tibi dominus deus tuus, ut longo vivas tempore, et bene sit tibi in terra, quam dominus deus tuus daturus est tibi.	2020-04-18	Liber_Deuteronomii
+1100000149	non occides,neque moechaberis,furtumque non facies:nec loqueris contra proximum tuum falsum testimonium.	2020-04-18	Liber_Deuteronomii
+1100000150	non concupisces uxorem proximi tui: non domum, non agrum, non servum, non ancillam, non bovem, non asinum, et universa quae illius sunt.	2020-04-18	Liber_Deuteronomii
+1100000151	haec verba locutus est dominus ad omnem multitudinem vestram in monte de medio ignis et nubis, et caliginis, voce magna, nihil addens amplius: et scripsit ea in duabus tabulis lapideis, quas tradidit mihi.	2020-04-18	Liber_Deuteronomii
+1100000152	vos autem postquam audistis vocem de medio tenebrarum, et montem ardere vidistis, accessistis ad me omnes principes tribuum et maiores natu, atque dixistis:ecce ostendit nobis dominus deus noster maiestatem et magnitudinem suam: vocem eius audivimus de medio ignis, et probavimus hodie, quod loquente deo cum homine, vixerit homo.	2020-04-18	Liber_Deuteronomii
+1100000153	cur ergo moriemur, et devorabit nos ignis hic maximus? 	2020-04-18	Liber_Deuteronomii
+1100000154	si enim audierimus ultra vocem domini dei nostri, moriemur.	2020-04-18	Liber_Deuteronomii
+1100000155	quid est omnis caro, ut audiat vocem dei viventis, qui de medio ignis loquitur sicut nos audivimus, et possit vivere?	2020-04-18	Liber_Deuteronomii
+1100000156	tu magis accede: et audi cuncta quae dixerit dominus deus noster tibi: loquerisque ad nos, et nos audientes faciemus ea.	2020-04-18	Liber_Deuteronomii
+1100000157	quod cum audisset dominus, ait ad me: audivi vocem verborum populi huius quae locuti sunt tibi: bene omnia sunt locuti.	2020-04-18	Liber_Deuteronomii
+1100000158	quis det talem eos habere mentem, ut timeant me, et custodiant universa mandata mea in omni tempore, ut bene sit eis et filiis eorum in sempiternum?	2020-04-18	Liber_Deuteronomii
+1100000159	vade et dic eis: revertimini in tentoria vestra.	2020-04-18	Liber_Deuteronomii
+1100000160	tu vero hic sta mecum, et loquar tibi omnia mandata mea, et caeremonias atque iudicia: quae docebis eos, ut faciant ea in terra, quam dabo illis in possessionem.	2020-04-18	Liber_Deuteronomii
+1100000161	custodite igitur et facite quae praecepit dominus deus vobis: non declinabitis neque ad dexteram, neque ad sinistram:sed per viam, quam praecepit dominus deus vester, ambulabitis, ut vivatis, et bene sit vobis, et protelentur dies in terra possessionis vestrae.	2020-04-18	Liber_Deuteronomii
+1100000162	caput 6	2020-04-18	Liber_Deuteronomii
+1100000163	haec sunt praecepta, et caeremoniae, atque iudicia, quae mandavit dominus deus vester ut docerem vos, et faciatis ea in terra, ad quam transgredimini possidendam:ut timeas dominum deum tuum, et custodias omnia mandata et praecepta eius, quae ego praecipio tibi, et filiis, ac nepotibus tuis, cunctis diebus vitae tuae, ut prolongentur dies tui.	2020-04-18	Liber_Deuteronomii
+1100000164	audi, israel, et observa ut facias quae praecepit tibi dominus, et bene sit tibi, et multipliceris amplius, sicut pollicitus est dominus deus patrum tuorum tibi terram lacte et melle manantem.	2020-04-18	Liber_Deuteronomii
+1100000165	audi, israel: dominus deus noster, dominus unus est.	2020-04-18	Liber_Deuteronomii
+1100000166	diliges dominum deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota fortitudine tua.	2020-04-18	Liber_Deuteronomii
+1100000167	eruntque verba haec, quae ego praecipio tibi hodie, in corde tuo:et narrabis ea filiis tuis, et meditaberis in eis sedens in domo tua, et ambulans in itinere, dormiens atque consurgens.	2020-04-18	Liber_Deuteronomii
+1100000168	et ligabis ea quasi signum in manu tua, eruntque et movebuntur inter oculos tuos,scribesque ea in limine, et ostiis domus tuae.	2020-04-18	Liber_Deuteronomii
+1100000169	cumque introduxerit te dominus deus tuus in terram, pro qua iuravit patribus tuis abraham, isaac, et iacob, et dederit tibi civitates magnas et optimas, quas non aedificasti,domos plenas cunctarum opum, quas non exstruxisti, cisternas, quas non fodisti, vineta et oliveta, quae non plantasti,et comederis, et saturatus fueris:cave diligenter ne obliviscaris domini, qui eduxit te de terra aegypti, de domo servitutis. 	2020-04-18	Liber_Deuteronomii
+1100000170	dominum deum tuum timebis, et illi soli servies, ac per nomen illius iurabis.	2020-04-18	Liber_Deuteronomii
+1100000171	non ibitis post deos alienos cunctarum gentium, quae in circuitu vestro sunt:quoniam deus aemulator dominus deus tuus in medio tui: nequando irascatur furor domini dei tui contra te, et auferat te de superficie terrae.	2020-04-18	Liber_Deuteronomii
+1100000172	non tentabis dominum deum tuum, sicut tentasti in loco tentationis.	2020-04-18	Liber_Deuteronomii
+1100000173	custodi praecepta domini dei tui, ac testimonia et caeremonias, quas praecepit tibi:et fac quod placitum est et bonum in conspectu domini, ut bene sit tibi: et ingressus possideas terram optimam, de qua iuravit dominus patribus tuis,ut deleret omnes inimicos tuos coram te, sicut locutus est.	2020-04-18	Liber_Deuteronomii
+1100000174	cumque interrogaverit te filius tuus cras, dicens: quid sibi volunt testimonia haec, et caeremoniae, atque iudicia, quae praecepit dominus deus noster nobis?	2020-04-18	Liber_Deuteronomii
+1100000175	dices ei: servi eramus pharaonis in aegypto, et eduxit nos dominus de aegypto in manu forti:fecitque signa atque prodigia magna et pessima in aegypto contra pharaonem, et omnem domum illius in conspectu nostro,et eduxit nos inde, ut introductis daret terram, super qua iuravit patribus nostris.	2020-04-18	Liber_Deuteronomii
+1100000176	praecepitque nobis dominus ut faciamus omnia legitima haec, et timeamus dominum deum nostrum, ut bene sit nobis cunctis diebus vitae nostrae, sicut est hodie.	2020-04-18	Liber_Deuteronomii
+1100000177	eritque nostri misericors, si custodierimus et fecerimus omnia praecepta eius coram domino deo nostro, sicut mandavit nobis.	2020-04-18	Liber_Deuteronomii
+1100000178	caput 7	2020-04-18	Liber_Deuteronomii
+1100000179	cum introduxerit te dominus deus tuus in terram, quam possessurus ingredieris, et deleverit gentes multas coram te, hethaeum, et gergezaeum, et amorrhaeum, chananaeum, et pherezaeum, et hevaeum, et iebusaeum, septem gentes multo maioris numeri quam tu es, et robustiores te:tradideritque eas dominus deus tuus tibi, percuties eas usque ad internecionem. 	2020-04-18	Liber_Deuteronomii
+1100000180	non inibis cum eis foedus, nec misereberis earum,neque sociabis cum eis coniugia. 	2020-04-18	Liber_Deuteronomii
+1100000181	filiam tuam non dabis filio eius, nec filiam illius accipies filio tuo:quia seducet filium tuum, ne sequatur me, et ut magis serviat diis alienis: irasceturque furor domini, et delebit te cito.	2020-04-18	Liber_Deuteronomii
+1100000182	quin potius haec facietis eis: aras eorum subvertite, et confringite statuas, lucosque succidite, et sculptilia comburite:quia populus sanctus es domino deo tuo.	2020-04-18	Liber_Deuteronomii
+1100000183	te elegit dominus deus tuus, ut sis ei populus peculiaris de cunctis populis, qui sunt super terram.	2020-04-18	Liber_Deuteronomii
+1100000184	non quia cunctas gentes numero vincebatis, vobis iunctus est dominus, et elegit vos, cum omnibus sitis populis pauciores:sed quia dilexit vos dominus, et custodivit iuramentum, quod iuravit patribus vestris: eduxitque vos in manu forti, et redemit de domo servitutis, de manu pharaonis regis aegypti.	2020-04-18	Liber_Deuteronomii
+1100000185	et scies, quia dominus deus tuus, ipse est deus fortis et fidelis, custodiens pactum et misericordiam diligentibus se, et his qui custodiunt praecepta eius in mille generationes:et reddens odientibus se statim, ita ut disperdat eos, et ultra non differat, protinus eis restituens quod merentur.	2020-04-18	Liber_Deuteronomii
+1100000186	custodi ergo praecepta et caeremonias atque iudicia, quae ego mando tibi hodie ut facias.	2020-04-18	Liber_Deuteronomii
+1100000187	si postquam audieris haec iudicia, custodieris ea, et feceris, custodiet et dominus deus tuus pactum tibi, et misericordiam quam iuravit patribus tuis:et diliget te, ac multiplicabit, benedicetque fructui ventris tui, et fructui terrae tuae, frumento tuo, atque vindemiae, oleo, et armentis, gregibus ovium tuarum super terram, pro qua iuravit patribus tuis ut daret eam tibi.	2020-04-18	Liber_Deuteronomii
+1100000188	benedictus eris inter omnes populos. 	2020-04-18	Liber_Deuteronomii
+1100000189	non erit apud te sterilis utriusque sexus, tam in hominibus quam in gregibus tuis.	2020-04-18	Liber_Deuteronomii
+1100000190	auferet dominus a te omnem languorem: et infirmitates aegypti pessimas, quas novisti, non inferet tibi, sed cunctis hostibus tuis.	2020-04-18	Liber_Deuteronomii
+1100000191	devorabis omnes populos, quos dominus deus tuus daturus est tibi. 	2020-04-18	Liber_Deuteronomii
+1100000192	non parcet eis oculus tuus, nec servies diis eorum, ne sint in ruinam tui.	2020-04-18	Liber_Deuteronomii
+1100000193	si dixeris in corde tuo: plures sunt gentes istae quam ego: quomodo potero delere eas?	2020-04-18	Liber_Deuteronomii
+1100000194	noli metuere, sed recordare quae fecerit dominus deus tuus pharaoni, et cunctis aegyptiis,plagas maximas, quas viderunt oculi tui, et signa atque portenta, manumque robustam, et extentum brachium, ut educeret te dominus deus tuus: sic faciet cunctis populis, quos metuis.	2020-04-18	Liber_Deuteronomii
+1100000195	insuper et crabrones mittet dominus deus tuus in eos, donec deleat omnes atque disperdat qui te fugerint, et latere potuerint.	2020-04-18	Liber_Deuteronomii
+1100000196	non timebis eos, quia dominus deus tuus in medio tui est, deus magnus et terribilis:ipse consumet nationes has in conspectu tuo paulatim atque per partes. 	2020-04-18	Liber_Deuteronomii
+1100000197	non poteris eas delere pariter: ne forte multiplicentur contra te bestiae terrae.	2020-04-18	Liber_Deuteronomii
+1100000198	dabitque eos dominus deus tuus in conspectu tuo: et interficiet illos, donec penitus deleantur.	2020-04-18	Liber_Deuteronomii
+1100000199	tradetque reges eorum in manus tuas, et disperdes nomina eorum sub caelo: nullus poterit resistere tibi, donec conteras eos.	2020-04-18	Liber_Deuteronomii
+1100000200	sculptilia eorum igne combures: non concupisces argentum et aurum, de quibus facta sunt, neque assumes ex eis tibi quidquam, ne offendas, propterea quia abominatio est domini tui:nec inferes quippiam ex idolo in domum tuam, ne fias anathema, sicut et illud est. 	2020-04-18	Liber_Deuteronomii
+1100000201	quasi spurcitiam detestaberis, et velut inquinamentum ac sordes abominationi habebis, quia anathema est.	2020-04-18	Liber_Deuteronomii
+1100000202	caput 8	2020-04-18	Liber_Deuteronomii
+1100000203	omne mandatum, quod ego praecipio tibi hodie, cave diligenter ut facias, ut possitis vivere, et multiplicemini, ingressique possideatis terram, pro qua iuravit dominus patribus vestris.	2020-04-18	Liber_Deuteronomii
+1100000204	et recordaberis cuncti itineris, per quod adduxit te dominus deus tuus quadraginta annis per desertum, ut affligeret te, atque tentaret, et nota fierent quae in tuo animo versabantur, utrum custodires mandata illius, an non.	2020-04-18	Liber_Deuteronomii
+1100000205	afflixit te penuria, et dedit tibi cibum manna, quod ignorabas tu et patres tui: ut ostenderet tibi quod non in solo pane vivat homo, sed in omni verbo quod egreditur de ore dei.	2020-04-18	Liber_Deuteronomii
+1100000206	vestimentum tuum, quo operiebaris, nequaquam vetustate defecit, et pes tuus non est subtritus, en quadragesimus annus est:ut recogites in corde tuo, quia sicut erudit filium suum homo, sic dominus deus tuus erudivit te,ut custodias mandata domini dei tui, et ambules in viis eius, et timeas eum.	2020-04-18	Liber_Deuteronomii
+1100000207	dominus enim deus tuus introducet te in terram bonam, terram rivorum, aquarumque et fontium, in cuius campis et montibus erumpunt fluviorum abyssi:terram frumenti, hordei ac vinearum, in qua ficus, et malogranata, et oliveta nascuntur: terram olei ac mellis,ubi absque ulla penuria comedes panem tuum, et rerum omnium abundantia perfrueris: cuius lapides ferrum sunt, et de montibus eius aeris metalla fodiuntur:ut cum comederis, et satiatus fueris, benedicas domino deo tuo pro terra optima, quam dedit tibi.	2020-04-18	Liber_Deuteronomii
+1100000208	observa, et cave nequando obliviscaris domini dei tui, et negligas mandata eius atque iudicia et caeremonias, quas ego praecipio tibi hodie:ne postquam comederis et satiatus fueris, domos pulchras aedificaveris, et habitaveris in eis,habuerisque armenta boum, et ovium greges, argenti et auri, cunctarumque rerum copiam,elevetur cor tuum, et non reminiscaris domini dei tui, qui eduxit te de terra aegypti, de domo servitutis,et ductor tuus fuit in solitudine magna atque terribili, in qua erat serpens flatu adurens, et scorpio, ac dipsas, et nullae omnino aquae: qui eduxit rivos de petra durissima,et cibavit te manna in solitudine, quod nescierunt patres tui. 	2020-04-18	Liber_Deuteronomii
+1100000209	et postquam afflixit ac probavit, ad extremum misertus est tui,ne diceres in corde tuo: fortitudo mea, et robur manus meae, haec mihi omnia praestiterunt:sed recorderis domini dei tui, quod ipse vires tibi praebuerit, ut impleret pactum suum, super quo iuravit patribus tuis, sicut praesens indicat dies.	2020-04-18	Liber_Deuteronomii
+1100000210	sin autem oblitus domini dei tui, secutus fueris deos alienos, coluerisque illos et adoraveris: ecce nunc praedico tibi quod omnino dispereas.	2020-04-18	Liber_Deuteronomii
+1100000211	sicut gentes, quas delevit dominus in introitu tuo, ita et vos peribitis, si inobedientes fueritis voci domini dei vestri.	2020-04-18	Liber_Deuteronomii
+1100000212	caput 9	2020-04-18	Liber_Deuteronomii
+1100000213	audi, israel: tu transgredieris hodie iordanem, ut possideas nationes maximas et fortiores te, civitates ingentes, et ad caelum usque muratas,populum magnum atque sublimem, filios enacim, quos ipse vidisti et audisti, quibus nullus potest ex adverso resistere.	2020-04-18	Liber_Deuteronomii
+1100000214	scies ergo hodie quod dominus deus tuus ipse transibit ante te, ignis devorans atque consumens, qui conterat eos, et deleat atque disperdat ante faciem tuam velociter, sicut locutus est tibi:ne dicas in corde tuo, cum deleverit eos dominus deus tuus in conspectu tuo: propter iustitiam meam introduxit me dominus ut terram hanc possiderem, cum propter impietates suas istae deletae sint nationes.	2020-04-18	Liber_Deuteronomii
+1100000215	neque enim propter iustitias tuas, et aequitatem cordis tui ingredieris, ut possideas terras earum: sed quia illae egerunt impie, introeunte te deletae sunt: et ut compleret verbum suum dominus, quod sub iuramento pollicitus est patribus tuis, abraham, isaac, et iacob.	2020-04-18	Liber_Deuteronomii
+1100000216	scito ergo quod non propter iustitias tuas dominus deus tuus dederit tibi terram hanc optimam in possessionem, cum durissimae cervicis sis populus.	2020-04-18	Liber_Deuteronomii
+1100000217	memento, et ne obliviscaris, quomodo ad iracundiam provocaveris dominum deum tuum in solitudine. 	2020-04-18	Liber_Deuteronomii
+1100000218	ex eo die, quo egressus es ex aegypto usque ad locum istum, semper adversum dominum contendisti.	2020-04-18	Liber_Deuteronomii
+1100000219	nam et in horeb provocasti eum, et iratus delere te voluit,quando ascendi in montem, ut acciperem tabulas lapideas, tabulas pacti quod pepigit vobiscum dominus: et perseveravi in monte quadraginta diebus ac noctibus, panem non comedens, et aquam non bibens.	2020-04-18	Liber_Deuteronomii
+1100000220	deditque mihi dominus duas tabulas lapideas scriptas digito dei, et continentes omnia verba quae vobis locutus est in monte de medio ignis, quando concio populi congregata est.	2020-04-18	Liber_Deuteronomii
+1100000221	cumque transissent quadraginta dies, et totidem noctes, dedit mihi dominus duas tabulas lapideas, tabulas foederis,dixitque mihi: surge, et descende hinc cito: quia populus tuus, quem eduxisti de aegypto, deseruerunt velociter viam, quam demonstrasti eis, feceruntque sibi conflatile.	2020-04-18	Liber_Deuteronomii
+1100000222	rursumque ait dominus ad me: cerno quod populus iste durae cervicis sit:dimitte me ut conteram eum, et deleam nomen eius de sub caelo, et constituam te super gentem, quae hac maior et fortior sit.	2020-04-18	Liber_Deuteronomii
+1100000223	cumque de monte ardente descenderem, et duas tabulas foederis utraque tenerem manu,vidissemque vos peccasse domino deo vestro, et fecisse vobis vitulum conflatilem, ac deseruisse velociter viam eius, quam vobis ostenderat:proieci tabulas de manibus meis, confregique eas in conspectu vestro.	2020-04-18	Liber_Deuteronomii
+1100000224	et procidi ante dominum sicut prius, quadraginta diebus et noctibus panem non comedens, et aquam non bibens, propter omnia peccata vestra quae gessistis contra dominum, et eum ad iracundiam provocastis:timui enim indignationem et iram illius, qua adversum vos concitatus, delere vos voluit. 	2020-04-18	Liber_Deuteronomii
+1100000225	et exaudivit me dominus etiam hac vice.	2020-04-18	Liber_Deuteronomii
+1100000226	adversum aaron quoque vehementer iratus, voluit eum conterere, et pro illo similiter deprecatus sum.	2020-04-18	Liber_Deuteronomii
+1100000227	peccatum autem vestrum quod feceratis, id est, vitulum, arripiens, igne combussi, et in frusta comminuens, omninoque in pulverem redigens, proieci in torrentem, qui de monte descendit.	2020-04-18	Liber_Deuteronomii
+1100000228	in incendio quoque, et in tentatione, et in sepulchris concupiscentiae provocastis dominum:et quando misit vos de cadesbarne, dicens: ascendite, et possidete terram, quam dedi vobis, et contempsistis imperium domini dei vestri, et non credidistis ei, neque vocem eius audire voluistis:sed semper fuistis rebelles a die qua nosse vos coepi.	2020-04-18	Liber_Deuteronomii
+1100000229	et iacui coram domino quadraginta diebus ac noctibus, quibus eum suppliciter deprecabar, ne deleret vos ut fuerat comminatus:et orans dixi: domine deus, ne disperdas populum tuum, et haereditatem tuam, quam redemisti in magnitudine tua, quos eduxisti de aegypto in manu forti.	2020-04-18	Liber_Deuteronomii
+1100000230	recordare servorum tuorum abraham, isaac, et iacob: ne aspicias duritiam populi huius, et impietatem atque peccatum:ne forte dicant habitatores terrae, de qua eduxisti nos: non poterat dominus introducere eos in terram, quam pollicitus est eis, et oderat illos: idcirco eduxit, ut interficeret eos in solitudine:qui sunt populus tuus et haereditas tua, quos eduxisti in fortitudine tua magna, et in brachio tuo extento.	2020-04-18	Liber_Deuteronomii
+1100000231	caput 10	2020-04-18	Liber_Deuteronomii
+1100000232	in tempore illo dixit dominus ad me: dola tibi duas tabulas lapideas, sicut priores fuerunt, et ascende ad me in montem: faciesque arcam ligneam,et scribam in tabulis verba quae fuerunt in his qui ante confregisti: ponesque eas in arca.	2020-04-18	Liber_Deuteronomii
+1100000233	feci igitur arcam de lignis setim. 	2020-04-18	Liber_Deuteronomii
+1100000234	cumque dolassem duas tabulas lapideas instar priorum, ascendi in montem, habens eas in manibus.	2020-04-18	Liber_Deuteronomii
+1100000235	scripsitque in tabulis, iuxta id quod prius scripserat, verba decem, quae locutus est dominus ad vos in monte de medio ignis, quando populus congregatus est: et dedit eas mihi.	2020-04-18	Liber_Deuteronomii
+1100000236	reversusque de monte, descendi, et posui tabulas in arcam, quam feceram, quae hucusque ibi sunt, sicut mihi praecepit dominus.	2020-04-18	Liber_Deuteronomii
+1100000237	filii autem israel moverunt castra ex beroth filiorum iacan in mosera, ubi aaron mortuus ac sepultus est, pro quo sacerdotio functus est eleazar filius eius.	2020-04-18	Liber_Deuteronomii
+1100000238	inde venerunt in gadgad: de quo loco profecti, castrametati sunt in ietebatha, in terra aquarum atque torrentium.	2020-04-18	Liber_Deuteronomii
+1100000239	eo tempore separavit tribum levi, ut portaret arcam foederis domini, et staret coram eo in ministerio, ac benediceret in nomine illius usque in praesentem diem.	2020-04-18	Liber_Deuteronomii
+1100000240	quam ob rem non habuit levi partem, neque possessionem cum fratribus suis: quia ipse dominus possessio eius est, sicut promisit ei dominus deus tuus.	2020-04-18	Liber_Deuteronomii
+1100000241	ego autem steti in monte, sicut prius, quadraginta diebus ac noctibus: exaudivitque me dominus etiam hac vice, et te perdere noluit.	2020-04-18	Liber_Deuteronomii
+1100000242	dixitque mihi: vade, et praecede populum, ut ingrediatur, et possideat terram, quam iuravi patribus eorum ut traderem eis.	2020-04-18	Liber_Deuteronomii
+1100000243	et nunc israel, quid dominus deus tuus petit a te, nisi ut timeas dominum deum tuum, et ambules in viis eius, et diligas eum, ac servias domino deo tuo in toto corde tuo, et in tota anima tua:custodiasque mandata domini, et caeremonias eius, quas ego hodie praecipio tibi, ut bene sit tibi?	2020-04-18	Liber_Deuteronomii
+1100000244	en domini dei tui caelum est, et caelum caeli, terra, et omnia quae in ea sunt:et tamen patribus tuis conglutinatus est dominus, et amavit eos, elegitque semen eorum post eos, id est, vos, de cunctis gentibus, sicut hodie comprobatur.	2020-04-18	Liber_Deuteronomii
+1100000245	circumcidite igitur praeputium cordis vestri, et cervicem vestram ne induretis amplius:quia dominus deus vester ipse est deus deorum, et dominus dominantium, deus magnus, et potens, et terribilis, qui personam non accipit, nec munera.	2020-04-18	Liber_Deuteronomii
+1100000246	facit iudicium pupillo et viduae; amat peregrinum, et dat ei victum atque vestitum.	2020-04-18	Liber_Deuteronomii
+1100000247	et vos ergo amate peregrinos, quia et ipsi fuistis advenae in terra aegypti.	2020-04-18	Liber_Deuteronomii
+1100000248	dominum deum tuum timebis, et ei soli servies: ipsi adhaerebis, iurabisque in nomine illius.	2020-04-18	Liber_Deuteronomii
+1100000249	ipse est laus tua, et deus tuus, qui fecit tibi haec magnalia et terribilia, quae viderunt oculi tui.	2020-04-18	Liber_Deuteronomii
+1100000250	in septuaginta animabus descenderunt patres tui in aegyptum, et ecce nunc multiplicavit te dominus deus tuus sicut astra caeli.	2020-04-18	Liber_Deuteronomii
+1100000251	caput 11	2020-04-18	Liber_Deuteronomii
+1100000252	ama itaque dominum deum tuum, et observa praecepta eius et caeremonias, iudicia atque mandata, omni tempore.	2020-04-18	Liber_Deuteronomii
+1100000253	cognoscite hodie quae ignorant filii vestri, qui non viderunt disciplinam domini dei vestri, magnalia eius et robustam manum, extentumque brachium,signa et opera quae fecit in medio aegypti pharaoni regi, et universae terrae eius,omnique exercitui aegyptiorum, et equis ac curribus: quomodo operuerint eos aquae maris rubri, cum vos persequerentur, et deleverit eos dominus usque in praesentem diem:vobisque quae fecerit in solitudine donec veniretis ad hunc locum:et dathan atque abiron filiis eliab, qui fuit filius ruben: quos aperto ore suo terra absorbuit, cum domibus et tabernaculis, et universa substantia eorum, quam habebant in medio israel.	2020-04-18	Liber_Deuteronomii
+1100000254	oculi vestri viderunt opera domini magna quae fecit,ut custodiatis universa mandata illius, quae ego hodie praecipio vobis, et possitis introire, et possidere terram, ad quam ingredimini,multoque in ea vivatis tempore: quam sub iuramento pollicitus est dominus patribus vestris, et semini eorum, lacte et melle manantem.	2020-04-18	Liber_Deuteronomii
+1100000255	terra enim, ad quam ingrederis possidendam, non est sicut terra aegypti, de qua existi, ubi iacto semine in hortorum morem aquae ducuntur irriguae:sed montuosa est et campestris, de caelo expectans pluvias,quam dominus deus tuus semper invisit, et oculi illius in ea sunt a principio anni usque ad finem eius.	2020-04-18	Liber_Deuteronomii
+1100000256	si ergo obedieritis mandatis meis, quae ego hodie praecipio vobis, ut diligatis dominum deum vestrum, et serviatis ei in toto corde vestro, et in tota anima vestra:dabit pluviam terrae vestrae temporaneam et serotinam, ut colligatis frumentum, et vinum, et oleum,foenumque ex agris ad pascenda iumenta, et ut ipsi comedatis ac saturemini.	2020-04-18	Liber_Deuteronomii
+1100000257	cavete ne forte decipiatur cor vestrum, et recedatis a domino, serviatisque diis alienis, et adoretis eos:iratusque dominus claudat caelum, et pluviae non descendant, nec terra det germen suum, pereatisque velociter de terra optima, quam dominus daturus est vobis.	2020-04-18	Liber_Deuteronomii
+1100000258	ponite haec verba mea in cordibus et in animis vestris, et suspendite ea pro signo in manibus, et inter oculos vestros collocate.	2020-04-18	Liber_Deuteronomii
+1100000259	docete filios vestros ut illa meditentur: quando sederis in domo tua, et ambulaveris in via, et accubueris atque surrexeris.	2020-04-18	Liber_Deuteronomii
+1100000260	scribes ea super postes et ianuas domus tuae,ut multiplicentur dies tui, et filiorum tuorum in terra, quam iuravit dominus patribus tuis, ut daret eis quamdiu caelum imminet terrae.	2020-04-18	Liber_Deuteronomii
+1100000261	si enim custodieritis mandata quae ego praecipio vobis, et feceritis ea, ut diligatis dominum deum vestrum, et ambuletis in omnibus viis eius, adhaerentes ei,disperdet dominus omnes gentes istas ante faciem vestram, et possidebitis eas, quae maiores et fortiores vobis sunt.	2020-04-18	Liber_Deuteronomii
+1100000262	omnis locus, quem calcaverit pes vester, vester erit. 	2020-04-18	Liber_Deuteronomii
+1100000263	a deserto, et a libano, a flumine magno euphrate usque ad mare occidentale erunt termini vestri.	2020-04-18	Liber_Deuteronomii
+1100000264	nullus stabit contra vos: terrorem vestrum et formidinem dabit dominus deus vester super omnem terram quam calcaturi estis, sicut locutus est vobis.	2020-04-18	Liber_Deuteronomii
+1100000265	en propono in conspectu vestro hodie benedictionem et maledictionem:benedictionem, si obedieritis mandatis domini dei vestri, quae ego hodie praecipio vobis:maledictionem, si non obedieritis mandatis domini dei vestri, sed recesseritis de via, quam ego nunc ostendo vobis, et ambulaveritis post deos alienos, quos ignoratis.	2020-04-18	Liber_Deuteronomii
+1100000266	cum vero introduxerit te dominus deus tuus in terram, ad quam pergis habitandam, pones benedictionem super montem garizim, maledictionem super montem hebal:qui sunt trans iordanem, post viam quae vergit ad solis occubitum in terra chananaei, qui habitat in campestribus contra galgalam, quae est iuxta vallem tendentem et intrantem procul.	2020-04-18	Liber_Deuteronomii
+1100000267	vos enim transibitis iordanem, ut possideatis terram quam dominus deus vester daturus est vobis, ut habeatis et possideatis illam.	2020-04-18	Liber_Deuteronomii
+1100000268	videte ergo ut impleatis caeremonias atque iudicia, quae ego hodie ponam in conspectu vestro.	2020-04-18	Liber_Deuteronomii
+1100000269	caput 12	2020-04-18	Liber_Deuteronomii
+1100000270	haec sunt praecepta atque iudicia, quae facere debetis in terra, quam dominus deus patrum tuorum daturus est tibi, ut possideas eam cunctis diebus, quibus super humum gradieris.	2020-04-18	Liber_Deuteronomii
+1100000271	subvertite omnia loca, in quibus coluerunt gentes, quas possessuri estis, deos suos super montes excelsos, et colles, et subter omne lignum frondosum.	2020-04-18	Liber_Deuteronomii
+1100000272	dissipate aras eorum, et confringite statuas: lucos igne comburite, et idola comminuite: disperdite nomina eorum de locis illis.	2020-04-18	Liber_Deuteronomii
+1100000273	non facietis ita domino deo vestro:sed ad locum, quem elegerit dominus deus vester de cunctis tribubus vestris, ut ponat nomen suum ibi, et habitet in eo, venietis:et offeretis in loco illo holocausta et victimas vestras, decimas et primitias manuum vestrarum, et vota atque donaria, primogenita boum et ovium.	2020-04-18	Liber_Deuteronomii
+1100000274	et comedetis ibi in conspectu domini dei vestri: ac laetabimini in cunctis, ad quae miseritis manum vos et domus vestrae, in quibus benedixerit vobis dominus deus vester.	2020-04-18	Liber_Deuteronomii
+1100000275	non facietis ibi quae nos hic facimus hodie, singuli quod sibi rectum videtur:neque enim usque in praesens tempus venistis ad requiem, et possessionem, quam dominus deus vester daturus est vobis.	2020-04-18	Liber_Deuteronomii
+1100000276	transibitis iordanem, et habitabitis in terra, quam dominus deus vester daturus est vobis, ut requiescatis a cunctis hostibus per circuitum: et absque ullo timore habitetisin loco, quem elegerit dominus deus vester, ut sit nomen eius in eo: illuc omnia, quae praecipio, conferetis, holocausta, et hostias, ac decimas, et primitias manuum vestrarum: et quidquid praecipuum est in muneribus, quae vovebitis domino.	2020-04-18	Liber_Deuteronomii
+1100000277	ibi epulabimini coram domino deo vestro, vos et filii ac filiae vestrae, famuli et famulae, atque levites qui in urbibus vestris commoratur: neque enim habet aliam partem et possessionem inter vos.	2020-04-18	Liber_Deuteronomii
+1100000278	cave ne offeras holocausta tua in omni loco, quem videris:sed in eo, quem elegerit dominus, in una tribuum tuarum offeres hostias, et facies quaecumque praecipio tibi.	2020-04-18	Liber_Deuteronomii
+1100000279	sin autem comedere volueris, et te esus carnium delectaverit, occide, comede iuxta benedictionem domini dei tui, quam dedit tibi in urbibus tuis: sive immundum fuerit, hoc est, maculatum et debile: sive mundum, hoc est, integrum et sine macula, quod offerri licet, sicut capream et cervum, comedes:absque esu dumtaxat sanguinis, quem super terram quasi aquam effundes.	2020-04-18	Liber_Deuteronomii
+1100000280	non poteris comedere in oppidis tuis decimam frumenti, et vini, et olei tui, primogenita armentorum et pecorum, et omnia quae voveris, et sponte offerre volueris, et primitias manuum tuarum:sed coram domino deo tuo comedes ea in loco, quem elegerit dominus deus tuus, tu et filius tuus, et filia tua, et servus et famula, atque levites qui manet in urbibus tuis: et laetaberis et reficieris coram domino deo tuo in cunctis ad quae extenderis manum tuam.	2020-04-18	Liber_Deuteronomii
+1100000281	cave ne derelinquas levitem in omni tempore quo versaris in terra.	2020-04-18	Liber_Deuteronomii
+1100000282	quando dilataverit dominus deus tuus terminos tuos, sicut locutus est tibi, et volueris vesci carnibus, quas desiderat anima tua:locus autem, quem elegerit dominus deus tuus ut sit nomen eius ibi, si procul fuerit, occides de armentis et pecoribus, quae habueris, sicut praecepi tibi, et comedes in oppidis tuis, ut tibi placet.	2020-04-18	Liber_Deuteronomii
+1100000283	sicut comeditur caprea et cervus, ita vesceris eis: et mundus et immundus in commune vescentur.	2020-04-18	Liber_Deuteronomii
+1100000284	hoc solum cave, ne sanguinem comedas: sanguis enim eorum pro anima est, et idcirco non debes animam comedere cum carnibus:sed super terram fundes quasi aquam,ut bene sit tibi et filiis tuis post te, cum feceris quod placet in conspectu domini.	2020-04-18	Liber_Deuteronomii
+1100000285	quae autem sanctificaveris, et voveris domino, tolles, et venies ad locum, quem elegerit dominus:et offeres oblationes tuas carnem et sanguinem super altare domini dei tui: sanguinem hostiarum fundes in altari; carnibus autem ipse vesceris.	2020-04-18	Liber_Deuteronomii
+1100000286	observa et audi omnia quae ego praecipio tibi, ut bene sit tibi et filiis tuis post te in sempiternum, cum feceris quod bonum est et placitum in conspectu domini dei tui.	2020-04-18	Liber_Deuteronomii
+1100000287	quando disperdiderit dominus deus tuus ante faciem tuam gentes, ad quas ingredieris possidendas, et possederis eas, atque habitaveris in terra earum:cave ne imiteris eas, postquam te fuerint introeunte subversae, et requiras caeremonias earum, dicens: sicut coluerunt gentes istae deos suos, ita et ego colam.	2020-04-18	Liber_Deuteronomii
+1100000288	non facies similiter domino deo tuo. 	2020-04-18	Liber_Deuteronomii
+1100000289	omnes enim abominationes, quas aversatur dominus, fecerunt diis suis, offerentes filios et filias, et comburentes igni.	2020-04-18	Liber_Deuteronomii
+1100000290	quod praecipio tibi, hoc tantum facito domino: nec addas quidquam, nec minuas.	2020-04-18	Liber_Deuteronomii
+1100000291	caput 13	2020-04-18	Liber_Deuteronomii
+1100000292	si surrexerit in medio tui prophetes, aut qui somnium vidisse se dicat, et praedixerit signum atque portentum,et evenerit quod locutus est, et dixerit tibi: eamus, et sequamur deos alienos quos ignoras, et serviamus eis:non audies verba prophetae illius aut somniatoris: quia tentat vos dominus deus vester, ut palam fiat utrum diligatis eum an non, in toto corde, et in tota anima vestra.	2020-04-18	Liber_Deuteronomii
+1100000293	dominum deum vestrum sequimini, et ipsum timete, et mandata illius custodite, et audite vocem eius: ipsi servietis, et ipsi adhaerebitis.	2020-04-18	Liber_Deuteronomii
+1100000294	propheta autem ille aut fictor somniorum interficietur: quia locutus est ut vos averteret a domino deo vestro, qui eduxit vos de terra aegypti, et redemit vos de domo servitutis: ut errare te faceret de via, quam tibi praecepit dominus deus tuus: et auferes malum de medio tui.	2020-04-18	Liber_Deuteronomii
+1100000295	si tibi voluerit persuadere frater tuus filius matris tuae, aut filius tuus vel filia, sive uxor quae est in sinu tuo, aut amicus, quem diligis ut animam tuam, clam dicens: eamus, et serviamus diis alienis, quos ignoras tu, et patres tui,cunctarum in circuitu gentium, quae iuxta vel procul sunt, ab initio usque ad finem terrae,non acquiescas ei, nec audias, neque parcat ei oculus tuus ut miserearis et occultes eum,sed statim interficies: sit primum manus tua super eum, et postea omnis populus mittat manum.	2020-04-18	Liber_Deuteronomii
+1100000296	lapidibus obrutus necabitur: quia voluit te abstrahere a domino deo tuo, qui eduxit te de terra aegypti, de domo servitutis:ut omnis israel audiens timeat, et nequaquam ultra faciat quippiam huius rei simile.	2020-04-18	Liber_Deuteronomii
+1100000297	si audieris in una urbium tuarum, quas dominus deus tuus dabit tibi ad habitandum, dicentes aliquos:egressi sunt filii belial de medio tui, et averterunt habitatores urbis suae, atque dixerunt: eamus, et serviamus diis alienis quos ignoratis:quare sollicite et diligenter, rei veritate perspecta, si inveneris certum esse quod dicitur, et abominationem hanc opere perpetratam,statim percuties habitatores urbis illius in ore gladii, et delebis eam ac omnia quae in illa sunt, usque ad pecora.	2020-04-18	Liber_Deuteronomii
+1100000298	quidquid etiam supellectilis fuerit, congregabis in medio platearum eius, et cum ipsa civitate succendes, ita ut universa consumas domino deo tuo, et sit tumulus sempiternus. 	2020-04-18	Liber_Deuteronomii
+1100000299	non aedificabitur amplius,et non adhaerebit de illo anathemate quidquam in manu tua: ut avertatur dominus ab ira furoris sui, et misereatur tui, multiplicetque te sicut iuravit patribus tuis,quando audieris vocem domini dei tui custodiens omnia praecepta eius, quae ego praecipio tibi hodie, ut facias quod placitum est in conspectu domini dei tui.	2020-04-18	Liber_Deuteronomii
+1100000300	caput 14	2020-04-18	Liber_Deuteronomii
+1100000301	filii estote domini dei vestri: non vos incidetis, nec facietis calvitium super mortuo:quoniam populus sanctus es domino deo tuo, et te elegit ut sis ei in populum peculiarem de cunctis gentibus, quae sunt super terram.	2020-04-18	Liber_Deuteronomii
+1100000302	ne comedatis quae immunda sunt.	2020-04-18	Liber_Deuteronomii
+1100000303	hoc est animal quod comedere debetis: bovem, et ovem, et capram,cervum et capream, bubalum, tragelaphum, pygargum, orygem, camelopardalum.	2020-04-18	Liber_Deuteronomii
+1100000304	omne animal, quod in duas partes findit ungulam, et ruminat, comedetis.	2020-04-18	Liber_Deuteronomii
+1100000305	de his autem, quae ruminant, et ungulam non findunt, comedere non debetis, ut camelum, leporem, choerogryllum: haec, quia ruminant et non dividunt ungulam, immunda erunt vobis.	2020-04-18	Liber_Deuteronomii
+1100000306	sus quoque, quoniam dividat ungulam et non ruminat, immunda erit. 	2020-04-18	Liber_Deuteronomii
+1100000307	carnibus eorum non vescemini, et cadavera non tangetis.	2020-04-18	Liber_Deuteronomii
+1100000308	haec comedetis ex omnibus quae morantur in aquis: quae habent pinnulas et squamas, comedite:quae absque pinnulis et squamis sunt, ne comedatis, quia immunda sunt.	2020-04-18	Liber_Deuteronomii
+1100000309	omnes aves mundas comedite.	2020-04-18	Liber_Deuteronomii
+1100000310	immundas ne comedatis: aquilam scilicet, et gryphem, et haliaeetum,ixion et vulturem ac milvum iuxta genus suum:et omne corvini generis,et struthionem, ac noctuam, et larum, atque accipitrem iuxta genus suum:herodium ac cygnum, et ibin,ac mergulum, porphyrionem, et nycticoracem,onocrotalum, et charadrium, singula in genere suo: upupam quoque et vespertilionem.	2020-04-18	Liber_Deuteronomii
+1100000311	et omne quod reptat et pennulas habet, immundum erit, et non comedetur.	2020-04-18	Liber_Deuteronomii
+1100000312	omne quod mundum est, comedite.	2020-04-18	Liber_Deuteronomii
+1100000313	quidquid autem morticinum est, ne vescamini ex eo. 	2020-04-18	Liber_Deuteronomii
+1100000314	peregrino, qui intra portas tuas est, da ut comedat, aut vende ei: quia tu populus sanctus domini dei tui es. 	2020-04-18	Liber_Deuteronomii
+1100000315	non coques haedum in lacte matris suae.	2020-04-18	Liber_Deuteronomii
+1100000316	decimam partem separabis de cunctis fructibus tuis qui nascuntur in terra per annos singulos,et comedes in conspectu domini dei tui in loco quem elegerit, ut in eo nomen illius invocetur, decimam frumenti tui, et vini, et olei, et primogenita de armentis et ovibus tuis: ut discas timere dominum deum tuum omni tempore.	2020-04-18	Liber_Deuteronomii
+1100000317	cum autem longior fuerit via, et locus quem elegerit dominus deus tuus, tibique benedixerit, nec potueris ad eum haec cuncta portare,vendes omnia, et in pretium rediges, portabisque manu tua, et proficisceris ad locum quem elegerit dominus deus tuus:et emes ex eadem pecunia quidquid tibi placuerit, sive ex armentis, sive ex ovibus, vinum quoque et siceram, et omne quod desiderat anima tua: et comedes coram domino deo tuo, et epulaberis tu et domus tua:et levites qui intra portas tuas est, cave ne derelinquas eum, quia non habet aliam partem in possessione tua.	2020-04-18	Liber_Deuteronomii
+1100000318	anno tertio separabis aliam decimam ex omnibus quae nascuntur tibi eo tempore, et repones intra ianuas tuas.	2020-04-18	Liber_Deuteronomii
+1100000319	venietque levites qui aliam non habet partem nec possessionem tecum, et peregrinus ac pupillus et vidua, qui intra portas tuas sunt, et comedent et saturabuntur: ut benedicat tibi dominus deus tuus in cunctis operibus manuum tuarum quae feceris.	2020-04-18	Liber_Deuteronomii
+1100000320	caput 15	2020-04-18	Liber_Deuteronomii
+1100000321	septimo anno facies remissionem,quae hoc ordine celebrabitur. 	2020-04-18	Liber_Deuteronomii
+1100000322	cui debetur aliquid ab amico vel proximo ac fratre suo, repetere non poterit, quia annus remissionis est domini.	2020-04-18	Liber_Deuteronomii
+1100000323	a peregrino et advena exiges: civem et propinquum repetendi non habebis potestatem.	2020-04-18	Liber_Deuteronomii
+1100000324	et omnino indigens et mendicus non erit inter vos: ut benedicat tibi dominus deus tuus in terra, quam traditurus est tibi in possessionem.	2020-04-18	Liber_Deuteronomii
+1100000325	si tamen audieris vocem domini dei tui, et custodieris universa quae iussit, et quae ego hodie praecipio tibi, benedicet tibi, ut pollicitus est.	2020-04-18	Liber_Deuteronomii
+1100000326	foenerabis gentibus multis, et ipse a nullo accipies mutuum. 	2020-04-18	Liber_Deuteronomii
+1100000327	dominaberis nationibus plurimis, et tui nemo dominabitur.	2020-04-18	Liber_Deuteronomii
+1100000328	si unus de fratribus tuis, qui morantur intra portas civitatis tuae in terra quam dominus deus tuus daturus est tibi, ad paupertatem venerit, non obdurabis cor tuum, nec contrahes manum,sed aperies eam pauperi, et dabis mutuum, quo eum indigere perspexeris.	2020-04-18	Liber_Deuteronomii
+1100000329	cave ne forte subrepat tibi impia cogitatio, et dicas in corde tuo: appropinquat septimus annus remissionis: et avertas oculos tuos a paupere fratre tuo, nolens ei quod postulat mutuum commodare: ne clamet contra te ad dominum, et fiat tibi in peccatum.	2020-04-18	Liber_Deuteronomii
+1100000330	sed dabis ei: nec ages quippiam callide in eius necessitatibus sublevandis, ut benedicat tibi dominus deus tuus in omni tempore, et in cunctis ad quae manum miseris.	2020-04-18	Liber_Deuteronomii
+1100000331	non deerunt pauperes in terra habitationis tuae: idcirco ego praecipio tibi, ut aperias manum fratri tuo egeno et pauperi, qui tecum versatur in terra.	2020-04-18	Liber_Deuteronomii
+1100000332	cum tibi venditus fuerit frater tuus hebraeus aut hebraea, et sex annis servierit tibi, in septimo anno dimittes eum liberum:et quem libertate donaveris, nequaquam vacuum abire patieris:sed dabis viaticum de gregibus, et de area, et torculari tuo, quibus dominus deus tuus benedixerit tibi.	2020-04-18	Liber_Deuteronomii
+1100000333	memento quod et ipse servieris in terra aegypti, et liberaverit te dominus deus tuus, et idcirco ego nunc praecipio tibi.	2020-04-18	Liber_Deuteronomii
+1100000334	sin autem dixerit: nolo egredi: eo quod diligat te, et domum tuam, et bene sibi apud te esse sentiat:assumes subulam, et perforabis aurem eius in ianua domus tuae, et serviet tibi usque in aeternum. 	2020-04-18	Liber_Deuteronomii
+1100000335	ancillae quoque similiter facies.	2020-04-18	Liber_Deuteronomii
+1100000336	non avertas ab eis oculos tuos, quando dimiseris eos liberos, quoniam iuxta mercedem mercenarii per sex annos servivit tibi: ut benedicat tibi dominus deus tuus in cunctis operibus quae agis.	2020-04-18	Liber_Deuteronomii
+1100000337	de primogenitis, quae nascuntur in armentis, et in ovibus tuis, quidquid est sexus masculini, sanctificabis domino deo tuo. 	2020-04-18	Liber_Deuteronomii
+1100000338	non operaberis in primogenito bovis, et non tondebis primogenita ovium.	2020-04-18	Liber_Deuteronomii
+1100000339	in conspectu domini dei tui comedes ea per annos singulos in loco quem elegerit dominus, tu et domus tua.	2020-04-18	Liber_Deuteronomii
+1100000340	sin autem habuerit maculam, vel claudum fuerit, vel caecum, aut in aliqua parte deforme vel debile, non immolabitur domino deo tuo:sed intra portas urbis tuae comedes illud: tam mundus quam immundus similiter vescentur eis, quasi caprea et cervo.	2020-04-18	Liber_Deuteronomii
+1100000341	hoc solum observabis, ut sanguinem eorum non comedas, sed effundes in terram quasi aquam.	2020-04-18	Liber_Deuteronomii
+1100000342	caput 16	2020-04-18	Liber_Deuteronomii
+1100000343	observa mensem novarum frugum, et verni primum temporis, ut facias phase domino deo tuo: quoniam in isto mense eduxit te dominus deus tuus de aegypto nocte.	2020-04-18	Liber_Deuteronomii
+1100000344	immolabisque phase domino deo tuo de ovibus, et de bobus, in loco quem elegerit dominus deus tuus, ut habitet nomen eius ibi.	2020-04-18	Liber_Deuteronomii
+1100000345	non comedes in eo panem fermentatum: septem diebus comedes absque fermento afflictionis panem, quoniam in pavore egressus es de aegypto: ut memineris diei egressionis tuae de aegypto, omnibus diebus vitae tuae.	2020-04-18	Liber_Deuteronomii
+1100000346	non apparebit fermentum in omnibus terminis tuis septem diebus, et non remanebit de carnibus eius, quod immolatum est vespere in die primo, usque mane.	2020-04-18	Liber_Deuteronomii
+1100000347	non poteris immolare phase in qualibet urbium tuarum, quas dominus deus tuus daturus est tibi,sed in loco quem elegerit dominus deus tuus, ut habitet nomen eius ibi: immolabis phase vespere ad solis occasum, quando egressus es de aegypto.	2020-04-18	Liber_Deuteronomii
+1100000348	et coques, et comedes in loco quem elegerit dominus deus tuus, maneque consurgens vades in tabernacula tua.	2020-04-18	Liber_Deuteronomii
+1100000349	sex diebus comedes azyma: et in die septima, quia collecta est domini dei tui, non facies opus.	2020-04-18	Liber_Deuteronomii
+1100000350	septem hebdomadas numerabis tibi ab ea die qua falcem in segetem miseris.	2020-04-18	Liber_Deuteronomii
+1100000351	et celebraris diem festum hebdomadarum domino deo tuo, oblationem spontaneam manus tuae, quam offeres iuxta benedictionem domini dei tui:et epulaberis coram domino deo tuo, tu, filius tuus et filia tua, servus tuus et ancilla tua, et levites qui est intra portas tuas, advena ac pupillus et vidua, qui morantur vobiscum: in loco quem elegerit dominus deus tuus, ut habitet nomen eius ibi.	2020-04-18	Liber_Deuteronomii
+1100000352	et recordaberis quoniam servus fueris in aegypto: custodiesque ac facies quae praecepta sunt.	2020-04-18	Liber_Deuteronomii
+1100000353	solemnitatem quoque tabernaculorum celebrabis per septem dies, quando collegeris de area et torculari fruges tuas:et epulaberis in festivitate tua, tu, filius tuus et filia, servus tuus et ancilla, levites quoque et advena, pupillus et vidua qui intra portas tuas sunt.	2020-04-18	Liber_Deuteronomii
+1100000354	septem diebus domino deo tuo festa celebrabis in loco quem elegerit dominus: benedicetque tibi dominus deus tuus in cunctis frugibus tuis, et in omni opere manuum tuarum, erisque in laetitia.	2020-04-18	Liber_Deuteronomii
+1100000355	tribus vicibus per annum apparebit omne masculinum tuum in conspectu domini dei tui in loco quem elegerit: in solemnitate azymorum, in solemnitate hebdomadarum, et in solemnitate tabernaculorum. 	2020-04-18	Liber_Deuteronomii
+1100000356	non apparebit ante dominum vacuus:sed offeret unusquisque secundum quod habuerit iuxta benedictionem domini dei sui, quam dederit ei.	2020-04-18	Liber_Deuteronomii
+1100000357	iudices et magistros constitues in omnibus portis tuis, quas dominus deus tuus dederit tibi, per singulas tribus tuas: ut iudicent populum iusto iudicio,nec in alteram partem declinent. 	2020-04-18	Liber_Deuteronomii
+1100000358	non accipies personam, nec munera: quia munera excaecant oculos sapientum, et mutant verba iustorum.	2020-04-18	Liber_Deuteronomii
+1100000359	iuste quod iustum est persequeris: ut vivas, et possideas terram, quam dominus deus tuus dederit tibi.	2020-04-18	Liber_Deuteronomii
+1100000360	non plantabis lucum, et omnem arborem iuxta altare domini dei tui.	2020-04-18	Liber_Deuteronomii
+1100000361	nec facies tibi, neque constitues statuam: quae odit dominus deus tuus.	2020-04-18	Liber_Deuteronomii
+1100000362	caput 17	2020-04-18	Liber_Deuteronomii
+1100000363	non immolabis domino deo tuo ovem, et bovem, in quo est macula, aut quippiam vitii: quia abominatio est domino deo tuo.	2020-04-18	Liber_Deuteronomii
+1100000364	cum reperti fuerint apud te intra unam portarum tuarum, quas dominus deus tuus dabit tibi, vir aut mulier qui faciant malum in conspectu domini dei tui, et transgrediantur pactum illius,ut vadant et servant diis alienis, et adorent eos, solem et lunam, et omnem militiam caeli, quae non praecepi:et hoc tibi fuerit nuntiatum, audiensque inquisieris diligenter et verum esse repereris, et abominatio facta est in israel:educes virum ac mulierem, qui rem sceleratissimam perpetrarunt, ad portas civitatis tuae, et lapidibus obruentur.	2020-04-18	Liber_Deuteronomii
+1100000365	in ore duorum aut trium testium peribit qui interficietur. 	2020-04-18	Liber_Deuteronomii
+1100000366	nemo occidatur, uno contra se dicente testimonium.	2020-04-18	Liber_Deuteronomii
+1100000367	manus testium prima interficiet eum, et manus reliqui populi extrema mittetur: ut auferas malum de medio tui.	2020-04-18	Liber_Deuteronomii
+1100000368	si difficile et ambiguum apud te iudicium esse perspexeris inter sanguinem et sanguinem, causam et causam, lepram et lepram: et iudicum intra portas tuas videris verba variari: surge, et ascende ad locum, quem elegerit dominus deus tuus.	2020-04-18	Liber_Deuteronomii
+1100000369	veniesque ad sacerdotes levitici generis, et ad iudicem qui fuerit illo tempore: quaeresque ab eis, qui indicabunt tibi iudicii veritatem.	2020-04-18	Liber_Deuteronomii
+1100000370	et facies quodcumque dixerint qui praesunt loco quem elegerit dominus, et docuerint teiuxta legem eius, sequerisque sententiam eorum, nec declinabis ad dexteram neque ad sinistram.	2020-04-18	Liber_Deuteronomii
+1100000371	qui autem superbierit, nolens obedire sacerdotis imperio, qui eo tempore ministrat domino deo tuo, et decreto iudicis, morietur homo ille, et auferes malum de israel:cunctusque populus audiens timebit, ut nullus deinceps intumescat superbia.	2020-04-18	Liber_Deuteronomii
+1100000372	cum ingressus fueris terram, quam dominus deus tuus dabit tibi, et possederis eam, habitaverisque in illa, et dixeris: constituam super me regem, sicut habent omnes per circuitum nationes:eum constitues, quem dominus deus tuus elegerit de numero fratrum tuorum. 	2020-04-18	Liber_Deuteronomii
+1100000373	non poteris alterius gentis hominem regem facere, qui non sit frater tuus.	2020-04-18	Liber_Deuteronomii
+1100000374	cumque fuerit constitutus, non multiplicabit sibi equos, nec reducet populum in aegyptum, equitatus numero sublevatus, praesertim cum dominus praeceperit vobis ut nequaquam amplius per eamdem viam revertamini.	2020-04-18	Liber_Deuteronomii
+1100000375	non habebit uxores plurimas, quae alliciant animum eius, neque argenti et auri immensa pondera.	2020-04-18	Liber_Deuteronomii
+1100000376	postquam autem sederit in solio regni sui, describet sibi deuteronomium legis huius in volumine, accipiens exemplar a sacerdotibus leviticae tribus,et habebit secum, legetque illud omnibus diebus vitae suae, ut discat timere dominum deum suum, et custodire verba et caeremonias eius, quae in lege praecepta sunt.	2020-04-18	Liber_Deuteronomii
+1100000377	nec elevetur cor eius in superbiam super fratres suos, neque declinet in partem dexteram vel sinistram, ut longo tempore regnet ipse et filii eius super israel.	2020-04-18	Liber_Deuteronomii
+1100000378	caput 18	2020-04-18	Liber_Deuteronomii
+1100000379	non habebunt sacerdotes et levitae, et omnes qui de eadem tribu sunt, partem et haereditatem cum reliquo israel, quia sacrificia domini, et oblationes eius comedent,et nihil aliud accipient de possessione fratrum suorum: dominus enim ipse est haereditas eorum, sicut locutus est illis.	2020-04-18	Liber_Deuteronomii
+1100000380	hoc erit iudicium sacerdotum a populo, et ab his qui offerunt victimas: sive bovem, sive ovem immolaverint, dabunt sacerdoti armum ac ventriculum:primitias frumenti, vini, et olei, et lanarum partem ex ovium tonsione.	2020-04-18	Liber_Deuteronomii
+1100000381	ipsum enim elegit dominus deus tuus de cunctis tribubus tuis, ut stet, et ministret nomini domini, ipse, et filii eius in sempiternum.	2020-04-18	Liber_Deuteronomii
+1100000382	si exierit levites ex una urbium tuarum ex omni israel in qua habitat, et voluerit venire, desiderans locum quem elegerit dominus,ministrabit in nomine domini dei sui, sicut omnes fratres eius levitae, qui stabunt eo tempore coram domino.	2020-04-18	Liber_Deuteronomii
+1100000383	partem ciborum eamdem accipiet, quam et ceteri: excepto eo, quod in urbe sua ex paterna ei successione debetur.	2020-04-18	Liber_Deuteronomii
+1100000384	quando ingressus fueris terram, quam dominus deus tuus dabit tibi, cave ne imitari velis abominationes illarum gentium.	2020-04-18	Liber_Deuteronomii
+1100000385	nec inveniatur in te qui lustret filium suum, aut filiam, ducens per ignem: aut qui ariolos sciscitetur, et observet somnia atque auguria, nec sit maleficus,nec incantator, nec qui pythones consulat, nec divinos, aut quaerat a mortuis veritatem.	2020-04-18	Liber_Deuteronomii
+1100000386	omnia enim haec abominatur dominus, et propter istiusmodi scelera delebit eos in introitu tuo.	2020-04-18	Liber_Deuteronomii
+1100000387	perfectus eris, et absque macula cum domino deo tuo.	2020-04-18	Liber_Deuteronomii
+1100000388	gentes istae, quarum possidebis terram, augures et divinos audiunt: tu autem a domino deo tuo aliter institutus es.	2020-04-18	Liber_Deuteronomii
+1100000389	prophetam de gente tua et de fratribus tuis, sicut me, suscitabit tibi dominus deus tuus: ipsum audies,ut petisti a domino deo tuo in horeb, quando concio congregata est, atque dixisti: ultra non audiam vocem domini dei mei, et ignem hunc maximum amplius non videbo, ne moriar.	2020-04-18	Liber_Deuteronomii
+1100000390	et ait dominus mihi: bene omnia sunt locuti.	2020-04-18	Liber_Deuteronomii
+1100000391	prophetam suscitabo eis de medio fratrum suorum similem tui: et ponam verba mea in ore eius, loqueturque ad eos omnia quae praecepero illi.	2020-04-18	Liber_Deuteronomii
+1100000392	qui autem verba eius, quae loquetur in nomine meo, audire noluerit, ego ultor existam.	2020-04-18	Liber_Deuteronomii
+1100000393	propheta autem qui arrogantia depravatus voluerit loqui in nomine meo, quae ego non praecepi illi ut diceret, aut ex nomine alienorum deorum, interficietur.	2020-04-18	Liber_Deuteronomii
+1100000394	quod si tacita cogitatione responderis: quomodo possum intelligere verbum, quod dominus non est locutus?	2020-04-18	Liber_Deuteronomii
+1100000395	hoc habebis signum: quod in nomine domini propheta ille praedixerit, et non evenerit: hoc dominus non est locutus, sed per tumorem animi sui propheta confinxit: et idcirco non timebis eum.	2020-04-18	Liber_Deuteronomii
+1100000396	caput 19	2020-04-18	Liber_Deuteronomii
+1100000397	cum disperdiderit dominus deus tuus gentes, quarum tibi traditurus est terram, et possederis eam, habitaverisque in urbibus eius et in aedibus:tres civitates separabis tibi in medio terrae, quam dominus deus tuus dabit tibi in possessionem,sternens diligenter viam: et in tres aequaliter partes totam terrae tuae provinciam divides: ut habeat e vicino qui propter homicidium profugus est, quo possit evadere.	2020-04-18	Liber_Deuteronomii
+1100000398	haec erit lex homicidae fugientis, cuius vita servanda est: qui percusserit proximum suum nesciens, et qui heri et nudiustertius nullum contra eum odium habuisse comprobatur:sed abiisse cum eo simpliciter in silvam ad ligna caedenda, et in succisione lignorum securis fugerit manu, ferrumque lapsum de manubrio amicum eius percusserit, et occiderit: hic ad unam supradictarum urbium confugiet, et vivet:ne forsitan proximus eius, cuius effusus est sanguis, dolore stimulatus, persequatur, et apprehendat eum si longior via fuerit, et percutiat animam eius, qui non est reus mortis: quia nullum contra eum, qui occisus est, odium prius habuisse monstratur.	2020-04-18	Liber_Deuteronomii
+1100000399	idcirco praecipio tibi, ut tres civitates aequalis inter se spatii dividas.	2020-04-18	Liber_Deuteronomii
+1100000400	cum autem dilataverit dominus deus tuus terminos tuos, sicut iuravit patribus tuis, et dederit tibi cunctam terram, quam eis pollicitus est(si tamen custodieris mandata eius, et feceris, quae hodie praecipio tibi, ut diligas dominum deum tuum, et ambules in viis eius omni tempore), addes tibi tres alias civitates, et supradictarum trium urbium numerum duplicabis:ut non effundatur sanguis innoxius in medio terrae, quam dominus deus tuus dabit tibi possidendam, ne sis sanguinis reus.	2020-04-18	Liber_Deuteronomii
+1100000401	si quis autem, odio habens proximum suum, insidiatus fuerit vitae eius, surgensque percusserit illum, et mortuus fuerit, fugeritque ad unam de supradictis urbibus,mittent seniores civitatis illius, et arripient eum de loco effugii, tradentque in manu proximi, cuius sanguis effusus est, et morietur.	2020-04-18	Liber_Deuteronomii
+1100000402	non miseraberis eius, et auferes innoxium sanguinem de israel, ut bene sit tibi.	2020-04-18	Liber_Deuteronomii
+1100000403	non assumes, et transferes terminos proximi tui, quos fixerunt priores in possessione tua, quam dominus deus tuus dabit tibi in terra quam acceperis possidendam.	2020-04-18	Liber_Deuteronomii
+1100000404	non stabit testis unus contra aliquem, quidquid illud peccati, et facinoris fuerit: sed in ore duorum aut trium testium stabit omne verbum.	2020-04-18	Liber_Deuteronomii
+1100000405	si steterit testis mendax contra hominem, accusans eum praevaricationis,stabunt ambo, quorum causa est, ante dominum in conspectu sacerdotum et iudicum qui fuerint in diebus illis.	2020-04-18	Liber_Deuteronomii
+1100000406	cumque diligentissime perscrutantes, invenerint falsum testem dixisse contra fratrem suum mendacium,reddent ei sicut fratri suo facere cogitavit, et auferes malum de medio tui:ut audientes ceteri timorem habeant, et nequaquam talia audeant facere.	2020-04-18	Liber_Deuteronomii
+1100000407	non misereberis eius, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges.	2020-04-18	Liber_Deuteronomii
+1100000408	caput 20	2020-04-18	Liber_Deuteronomii
+1100000409	si exieris ad bellum contra hostes tuos, et videris equitatus et currus, et maiorem quam tu habeas adversarii exercitus multitudinem, non timebis eos: quia dominus deus tuus tecum est, qui eduxit te de terra aegypti.	2020-04-18	Liber_Deuteronomii
+1100000410	appropinquante autem iam praelio, stabit sacerdos ante aciem, et sic loquetur ad populum:audi, israel: vos hodie contra inimicos vestros pugnam committitis: non pertimescat cor vestrum, nolite metuere, nolite cedere, nec formidetis eos:quia dominus deus vester in medio vestri est, et pro vobis contra adversarios dimicabit, ut eruat vos de periculo.	2020-04-18	Liber_Deuteronomii
+1100000411	duces quoque per singulas turmas audiente exercitu proclamabunt: quis est homo qui aedificavit domum novam, et non dedicavit eam? 	2020-04-18	Liber_Deuteronomii
+1100000412	vadat, et revertatur in domum suam, ne forte moriatur in bello, et alius dedicet eam.	2020-04-18	Liber_Deuteronomii
+1100000413	quis est homo qui plantavit vineam, et necdum fecit eam esse communem, de qua vesci omnibus liceat? 	2020-04-18	Liber_Deuteronomii
+1100000414	vadat, et revertatur in domum suam, ne forte moriatur in bello, et alius homo eius fungatur officio.	2020-04-18	Liber_Deuteronomii
+1100000415	quis est homo, qui despondit uxorem, et non accepit eam? 	2020-04-18	Liber_Deuteronomii
+1100000416	vadat, et revertatur in domum suam, ne forte moriatur in bello, et alius homo accipiat eam.	2020-04-18	Liber_Deuteronomii
+1100000417	his dictis addent reliqua, et loquentur ad populum: quis est homo formidolosus, et corde pavido? 	2020-04-18	Liber_Deuteronomii
+1100000418	vadat, et revertatur in domum suam, ne pavere faciat corda fratrum suorum, sicut ipse timore perterritus est.	2020-04-18	Liber_Deuteronomii
+1100000419	cumque siluerint duces exercitus, et finem loquendi fecerint, unusquisque suos ad bellandum cuneos praeparabit.	2020-04-18	Liber_Deuteronomii
+1100000420	siquando accesseris ad expugnandam civitatem, offeres ei primum pacem.	2020-04-18	Liber_Deuteronomii
+1100000421	si receperit, et aperuerit tibi portas, cunctus populus, qui in ea est, salvabitur, et serviet tibi sub tributo.	2020-04-18	Liber_Deuteronomii
+1100000422	sin autem foedus inire noluerit, et coeperit contra te bellum, oppugnabis eam.	2020-04-18	Liber_Deuteronomii
+1100000423	cumque tradiderit dominus deus tuus illam in manu tua, percuties omne quod in ea generis masculini est, in ore gladii,absque mulieribus et infantibus, iumentis et ceteris quae in civitate sunt. 	2020-04-18	Liber_Deuteronomii
+1100000424	omnem praedam exercitui divides, et comedes de spoliis hostium tuorum, quae dominus deus tuus dederit tibi.	2020-04-18	Liber_Deuteronomii
+1100000425	sic facies cunctis civitatibus, quae a te procul valde sunt, et non sunt de his urbibus, quas in possessionem accepturus es.	2020-04-18	Liber_Deuteronomii
+1100000426	de his autem civitatibus, quae dabuntur tibi, nullum omnino permittes vivere:sed interficies in ore gladii, hethaeum videlicet, et amorrhaeum, et chananaeum, pherezaeum, et hevaeum, et iebusaeum, sicut praecepit tibi dominus deus tuus:ne forte doceant vos facere cunctas abominationes, quas ipsi operati sunt diis suis, et peccetis in dominum deum vestrum.	2020-04-18	Liber_Deuteronomii
+1100000427	quando obsederis civitatem multo tempore, et munitionibus circumdederis ut expugnes eam, non succides arbores, de quibus vesci potest, nec securibus per circuitum debes vastare regionem: quoniam lignum est, et non homo, nec potest bellantium contra te augere numerum.	2020-04-18	Liber_Deuteronomii
+1100000428	si qua autem ligna non sunt pomifera, sed agrestia, et in ceteros apta usus, succide, et instrue machinas, donec capias civitatem, quae contra te dimicat.	2020-04-18	Liber_Deuteronomii
+1100000429	caput 21	2020-04-18	Liber_Deuteronomii
+1100000430	quando inventum fuerit in terra, quam dominus deus tuus daturus est tibi, hominis cadaver occisi, et ignorabitur caedis reus,egredientur maiores natu, et iudices tui, et metientur a loco cadaveris singularum per circuitum spatia civitatum:et quam viciniorem ceteris esse perspexerint, seniores civitatis illius tollent vitulam de armento, quae non traxit iugum, nec terram scidit vomere,et ducent eam ad vallem asperam atque saxosam, quae numquam arata est, nec sementem recepit: et caedent in ea cervices vitulae:accedentque sacerdotes filii levi, quos elegerit dominus deus tuus ut ministrent ei, et benedicant in nomine eius, et ad verbum eorum omne negotium, et quidquid mundum, vel immundum est, iudicetur.	2020-04-18	Liber_Deuteronomii
+1100000431	et venient maiores natu civitatis illius ad interfectum, lavabuntque manus suas super vitulam, quae in valle percussa est,et dicent: manus nostrae non effuderunt sanguinem hunc, nec oculi viderunt:propitius esto populo tuo israel, quem redemisti, domine, et ne reputes sanguinem innocentem in medio populi tui israel. 	2020-04-18	Liber_Deuteronomii
+1100000432	et auferetur ab eis reatus sanguinis:tu autem alienus eris ab innocentis cruore, qui fusus est, cum feceris quod praecepit dominus.	2020-04-18	Liber_Deuteronomii
+1100000433	si egressus fueris ad pugnam contra inimicos tuos, et tradiderit eos dominus deus tuus in manu tua, captivosque duxeris,et videris in numero captivorum mulierem pulchram, et adamaveris eam, voluerisque habere uxorem,introduces eam in domum tuam: quae radet caesariem, et circumcidet ungues,et deponet vestem, in qua capta est: sedensque in domo tua, flebit patrem et matrem suam uno mense: et postea intrabis ad eam, dormiesque cum illa, et erit uxor tua.	2020-04-18	Liber_Deuteronomii
+1100000434	si autem postea non sederit animo tuo, dimittes eam liberam, nec vendere poteris pecunia, nec opprimere per potentiam: quia humiliasti eam.	2020-04-18	Liber_Deuteronomii
+1100000435	si habuerit homo uxores duas, unam dilectam, et alteram odiosam, genuerintque ex eo liberos, et fuerit filius odiosae primogenitus,volueritque substantiam inter filios suos dividere, non poterit filium dilectae facere primogenitum, et praeferre filio odiosae:sed filium odiosae agnoscet primogenitum, dabitque ei de his quae habuerit cuncta duplicia: iste est enim principium liberorum eius, et huic debentur primogenita.	2020-04-18	Liber_Deuteronomii
+1100000436	si genuerit homo filium contumacem et protervum, qui non audiat patris aut matris imperium, et coercitus obedire contempserit:apprehendent eum, et ducent ad seniores civitatis illius, et ad portam iudicii,dicentque ad eos: filius noster iste protervus et contumax est: monita nostra audire contemnit, comessationibus vacat, et luxuriae atque conviviis:lapidibus eum obruet populus civitatis, et morietur, ut auferatis malum de medio vestri, et universus israel audiens pertimescat.	2020-04-18	Liber_Deuteronomii
+1100000437	quando peccaverit homo quod morte plectendum est, et adiudicatus morti appensus fuerit in patibulo:non permanebit cadaver eius in ligno, sed in eadem die sepelietur: quia maledictus a deo est qui pendet in ligno: et nequaquam contaminabis terram tuam, quam dominus deus tuus dederit tibi in possessionem.	2020-04-18	Liber_Deuteronomii
+1100000438	caput 22	2020-04-18	Liber_Deuteronomii
+1100000439	non videbis bovem fratris tui, aut ovem errantem, et praeteribis: sed reduces fratri tuo,etiamsi non est propinquus frater tuus, nec nosti eum: duces in domum tuam, et erunt apud te quamdiu quaerat ea frater tuus, et recipiat.	2020-04-18	Liber_Deuteronomii
+1100000440	similiter facies de asino, et de vestimento, et de omni re fratris tui, quae perierit: si inveneris eam, ne negligas quasi alienam.	2020-04-18	Liber_Deuteronomii
+1100000441	si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.	2020-04-18	Liber_Deuteronomii
+1100000442	non induetur mulier veste virili, nec vir utetur veste feminea: abominabilis enim apud deum est qui facit haec.	2020-04-18	Liber_Deuteronomii
+1100000443	si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem: non tenebis eam cum filiis,sed abire patieris, captos tenens filios: ut bene sit tibi, et longo vivas tempore.	2020-04-18	Liber_Deuteronomii
+1100000444	cum aedificaveris domum novam, facies murum tecti per circuitum: ne effundatur sanguis in domo tua, et sis reus labente alio, et in praeceps ruente.	2020-04-18	Liber_Deuteronomii
+1100000445	non seres vineam tuam altero semine: ne et sementis quam sevisti, et quae nascuntur ex vinea, pariter sanctificentur.	2020-04-18	Liber_Deuteronomii
+1100000446	non arabis in bove simul et asino.	2020-04-18	Liber_Deuteronomii
+1100000447	non indueris vestimento, quod ex lana linoque contextum est.	2020-04-18	Liber_Deuteronomii
+1100000448	funiculos in fimbriis facies per quatuor angulos pallii tui, quo operieris.	2020-04-18	Liber_Deuteronomii
+1100000449	si duxerit vir uxorem, et postea odio habuerit eam,quaesieritque occasiones quibus dimittat eam, obiiciens ei nomen pessimum, et dixerit: uxorem hanc accepi, et ingressus ad eam non inveni virginem:tollent eam pater et mater eius, et ferent secum signa virginitatis eius ad seniores urbis qui in porta sunt:et dicet pater: filiam meam dedi huic uxorem: quam quia odit,imponit ei nomen pessimum, ut dicat: non inveni filiam tuam virginem: et ecce haec sunt signa virginitatis filiae meae. 	2020-04-18	Liber_Deuteronomii
+1100000450	expandent vestimentum coram senioribus civitatis:apprehendentque senes urbis illius virum, et verberabunt illum,condemnantes insuper centum siclis argenti, quos dabit patri puellae, quoniam diffamavit nomen pessimum super virginem israel: habebitque eam uxorem, et non poterit dimittere eam omnibus diebus vitae suae.	2020-04-18	Liber_Deuteronomii
+1100000451	quod si verum est quod obiicit, et non est in puella inventa virginitas,eiicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur: quoniam fecit nefas in israel, ut fornicaretur in domo patris sui: et auferes malum de medio tui.	2020-04-18	Liber_Deuteronomii
+1100000452	si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera: et auferes malum de israel.	2020-04-18	Liber_Deuteronomii
+1100000453	si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,educes utrumque ad portam civitatis illius, et lapidibus obruentur: puella, quia non clamavit, cum esset in civitate: vir, quia humiliavit uxorem proximi sui: et auferes malum de medio tui.	2020-04-18	Liber_Deuteronomii
+1100000454	sin autem in agro repererit vir puellam, quae desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:puella nihil patietur, nec est rea mortis: quoniam sicut latro consurgit contra fratrem suum, et occidit animam eius, ita et puella perpessa est.	2020-04-18	Liber_Deuteronomii
+1100000455	sola erat in agro: clamavit, et nullus affuit qui liberaret eam.	2020-04-18	Liber_Deuteronomii
+1100000456	si invenerit vir puellam virginem, quae non habet sponsum, et apprehendens concubuerit cum illa, et res ad iudicium venerit:dabit qui dormivit cum ea, patri puellae quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitae suae.	2020-04-18	Liber_Deuteronomii
+1100000457	non accipiet homo uxorem patris sui, nec revelabit operimentum eius.	2020-04-18	Liber_Deuteronomii
+1100000458	caput 23	2020-04-18	Liber_Deuteronomii
+1100000459	non intravit eunuchus, attritis vel amputatis testiculis et abscisso veretro, ecclesiam domini.	2020-04-18	Liber_Deuteronomii
+1100000460	non ingredietur mamzer, hoc est, de scorto natus, in ecclesiam domini, usque ad decimam generationem.	2020-04-18	Liber_Deuteronomii
+1100000461	ammonites et moabites etiam post decimam generationem non intrabunt ecclesiam domini in aeternum:quia noluerunt vobis occurrere cum pane et aqua in via quando egressi estis de aegypto: et quia conduxerunt contra te balaam filium beor de mesopotamia syriae, ut malediceret tibi:et noluit dominus deus tuus audire balaam, vertitque maledictionem eius in benedictionem tuam, eo quod diligeret te.	2020-04-18	Liber_Deuteronomii
+1100000462	non facies cum eis pacem, nec quaeras eis bona cunctis diebus vitae tuae in sempiternum.	2020-04-18	Liber_Deuteronomii
+1100000463	non abominaberis idumaeum, quia frater tuus est: nec aegyptium, quia advena fuisti in terra eius.	2020-04-18	Liber_Deuteronomii
+1100000464	qui nati fuerint ex eis, tertia generatione intrabunt in ecclesiam domini.	2020-04-18	Liber_Deuteronomii
+1100000465	quando egressus fueris adversus hostes tuos in pugnam, custodies te ab omni re mala.	2020-04-18	Liber_Deuteronomii
+1100000466	si fuerit inter vos homo, qui nocturno pollutus sit somnio, egredietur extra castra,et non revertetur, priusquam ad vesperam lavetur aqua: et post solis occasum regredietur in castra.	2020-04-18	Liber_Deuteronomii
+1100000467	habebis locum extra castra, ad quem egrediaris ad requisita naturae,gerens paxillum in balteo: cumque sederis, fodies per circuitum, et egesta humo operiesquo revelatus es: dominus enim deus tuus ambulat in medio castrorum, ut eruat te, et tradat tibi inimicos tuos: et sint castra tua sancta, et nihil in eis appareat foeditatis, ne derelinquat te.	2020-04-18	Liber_Deuteronomii
+1100000468	non trades servum domino suo, qui ad te confugerit.	2020-04-18	Liber_Deuteronomii
+1100000469	habitabit tecum in loco, qui ei placuerit, et in una urbium tuarum requiescet: ne contristes eum.	2020-04-18	Liber_Deuteronomii
+1100000470	non erit meretrix de filiabus israel, nec scortator de filiis israel.	2020-04-18	Liber_Deuteronomii
+1100000471	non offeres mercedem prostibuli, nec pretium canis in domo domini dei tui, quidquid illud est quod voveris: quia abominatio est utrumque apud dominum deum tuum.	2020-04-18	Liber_Deuteronomii
+1100000472	non foenerabis fratri tuo ad usuram pecuniam, nec fruges, nec quamlibet aliam rem:sed alieno. 	2020-04-18	Liber_Deuteronomii
+1100000473	fratri autem tuo absque usura id quo indiget, commodabis: ut benedicat tibi dominus deus tuus in omni opere tuo in terra, ad quam ingredieris possidendam.	2020-04-18	Liber_Deuteronomii
+1100000474	cum votum voveris domino deo tuo, non tardabis reddere: quia requiret illud dominus deus tuus, et si moratus fueris, reputabitur tibi in peccatum.	2020-04-18	Liber_Deuteronomii
+1100000475	si nolueris polliceri, absque peccato eris.	2020-04-18	Liber_Deuteronomii
+1100000476	quod autem semel egressum est de labiis tuis, observabis, et facies sicut promisisti domino deo tuo, et propria voluntate et ore tuo locutus es.	2020-04-18	Liber_Deuteronomii
+1100000477	ingressus vineam proximi tui, comede uvas, quantum tibi placuerit: foras autem ne efferas tecum.	2020-04-18	Liber_Deuteronomii
+1100000478	si intraveris in segetem amici tui, franges spicas, et manu conteres: falce autem non metes.	2020-04-18	Liber_Deuteronomii
+1100000479	caput 24	2020-04-18	Liber_Deuteronomii
+1100000480	si acceperit homo uxorem, et habuerit eam, et non invenerit gratiam ante oculos eius propter aliquam foeditatem: scribet libellum repudii, et dabit in manu illius, et dimittet eam de domo sua.	2020-04-18	Liber_Deuteronomii
+1100000481	cumque egressa alterum maritum duxerit,et ille quoque oderit eam, dederitque ei libellum repudii, et dimiserit de domo sua, vel certe mortuus fuerit:non poterit prior maritus recipere eam in uxorem: quia polluta est, et abominabilis facta est coram domino: ne peccare facias terram tuam, quam dominus deus tuus tradiderit tibi possidendam.	2020-04-18	Liber_Deuteronomii
+1100000482	cum acceperit homo nuper uxorem, non procedet ad bellum, nec ei quippiam necessitatis iniungetur publicae, sed vacabit absque culpa domi suae, ut uno anno laetetur cum uxore sua.	2020-04-18	Liber_Deuteronomii
+1100000483	non accipies loco pignoris inferiorem, et superiorem molam: quia animam suam opposuit tibi.	2020-04-18	Liber_Deuteronomii
+1100000484	si deprehensus fuerit homo sollicitans fratrem suum de filiis israel, et vendito eo acceperit pretium, interficietur, et auferes malum de medio tui.	2020-04-18	Liber_Deuteronomii
+1100000485	observa diligenter ne incurras plagam leprae, sed facies quaecumque docuerint te sacerdotes levitici generis, iuxta id quod praecepi eis, et imple sollicite.	2020-04-18	Liber_Deuteronomii
+1100000486	mementote quae fecerit dominus deus vester mariae in via cum egrederemini de aegypto.	2020-04-18	Liber_Deuteronomii
+1100000487	cum repetes a proximo tuo rem aliquam, quam debet tibi, non ingredieris domum eius ut pignus auferas:sed stabis foris, et ille tibi proferet quod habuerit.	2020-04-18	Liber_Deuteronomii
+1100000488	sin autem pauper est, non pernoctabit apud te pignus,sed statim reddes ei ante solis occasum: ut dormiens in vestimento suo, benedicat tibi, et habeas iustitiam coram domino deo tuo.	2020-04-18	Liber_Deuteronomii
+1100000489	non negabis mercedem indigentis, et pauperis fratris tui, sive advenae, qui tecum moratur in terra, et intra portas tuas est:sed eadem die reddes ei pretium laboris sui ante solis occasum, quia pauper est, et ex eo sustentat animam suam: ne clamet contra te ad dominum, et reputetur tibi in peccatum.	2020-04-18	Liber_Deuteronomii
+1100000490	non occidentur patres pro filiis, nec filii pro patribus, sed unusquisque pro peccato suo morietur.	2020-04-18	Liber_Deuteronomii
+1100000491	non pervertes iudicium advenae et pupilli, nec auferes pignoris loco viduae vestimentum.	2020-04-18	Liber_Deuteronomii
+1100000492	memento quod servieris in aegypto, et eruerit te dominus deus tuus inde. 	2020-04-18	Liber_Deuteronomii
+1100000493	idcirco praecipio tibi ut facias hanc rem.	2020-04-18	Liber_Deuteronomii
+1100000494	quando messueris segetem in agro tuo, et oblitus manipulum reliqueris, non reverteris, ut tollas illum: sed advenam, et pupillum, et viduam auferre patieris, ut benedicat tibi dominus deus tuus in omni opere manuum tuarum.	2020-04-18	Liber_Deuteronomii
+1100000495	si fruges collegeris olivarum, quidquid remanserit in arboribus, non reverteris ut colligas: sed relinques advenae, pupillo, ac viduae.	2020-04-18	Liber_Deuteronomii
+1100000496	si vindemiaveris vineam tuam, non colliges remanentes racemos: sed cedent in usus advenae, pupilli, ac viduae.	2020-04-18	Liber_Deuteronomii
+1100000497	memento quod et tu servieris in aegypto, et idcirco praecipio tibi ut facias hanc rem.	2020-04-18	Liber_Deuteronomii
+1100000498	caput 25	2020-04-18	Liber_Deuteronomii
+1100000499	si fuerit causa inter aliquos, et interpellaverint iudices: quem iustum esse perspexerint, illi iustitiae palmam dabunt: quem impium, condemnabunt impietatis.	2020-04-18	Liber_Deuteronomii
+1100000500	sin autem eum, qui peccavit, dignum viderint plagis: prosternent, et coram se facient verberari. 	2020-04-18	Liber_Deuteronomii
+1100000501	pro mensura peccati erit et plagarum modus:ita dumtaxat, ut quadragenarium numerum non excedant: ne foede laceratus ante oculos tuos abeat frater tuus.	2020-04-18	Liber_Deuteronomii
+1100000502	non ligabis os bovis terentis in area fruges tuas.	2020-04-18	Liber_Deuteronomii
+1100000503	quando habitaverint fratres simul, et unus ex eis absque liberis mortuus fuerit, uxor defuncti non nubet alteri: sed accipiet eam frater eius, et suscitabit semen fratris sui:et primogenitum ex ea filium nomine illius appellabit, ut non deleatur nomen eius ex israel.	2020-04-18	Liber_Deuteronomii
+1100000504	sin autem noluerit accipere uxorem fratris sui, quae ei lege debetur, perget mulier ad portam civitatis, et interpellabit maiores natu, dicetque: non vult frater viri mei suscitare nomen fratris sui in israel, nec me in coniugem sumere.	2020-04-18	Liber_Deuteronomii
+1100000505	statimque accersiri eum facient, et interrogabunt. 	2020-04-18	Liber_Deuteronomii
+1100000506	si responderit: nolo eam uxorem accipere:accedet mulier ad eum coram senioribus, et tollet calceamentum de pede eius, spuetque in faciem illius, et dicet: sic fiet homini, qui non aedificat domum fratris sui.	2020-04-18	Liber_Deuteronomii
+1100000507	et vocabitur nomen illius in israel, domus discalceati.	2020-04-18	Liber_Deuteronomii
+1100000508	si habuerint inter se iurgium viri duo, et unus contra alterum rixari coeperit, volensque uxor alterius eruere virum suum de manu fortioris, miseritque manum, et apprehenderit verenda eius:abscides manum illius, nec flecteris super eam ulla misericordia.	2020-04-18	Liber_Deuteronomii
+1100000509	non habebis in sacculo diversa pondera, maius et minus:nec erit in domo tua modius maior, et minor.	2020-04-18	Liber_Deuteronomii
+1100000510	pondus habebis iustum et verum, et modius aequalis et verus erit tibi: ut multo vivas tempore super terram, quam dominus deus tuus dederit tibi.	2020-04-18	Liber_Deuteronomii
+1100000511	abominatur enim dominus tuus eum qui facit haec, et aversatur omnem iniustitiam.	2020-04-18	Liber_Deuteronomii
+1100000512	memento quae fecerit tibi amalec in via quando egrediebaris ex aegypto:quomodo occurrerit tibi, et extremos agminis tui, qui lassi residebant, ceciderit, quando tu eras fame et labore confectus: et non timuerit deum.	2020-04-18	Liber_Deuteronomii
+1100000513	cum ergo dominus deus tuus dederit tibi requiem, et subiecerit cunctas per circuitum nationes in terra, quam tibi pollicitus est: delebis nomen eius sub caelo. 	2020-04-18	Liber_Deuteronomii
+1100000514	cave ne obliviscaris.	2020-04-18	Liber_Deuteronomii
+1100000515	caput 26	2020-04-18	Liber_Deuteronomii
+1100000516	cumque intraveris terram, quam dominus deus tuus tibi daturus est possidendam, et obtinueris eam, atque habitaveris in ea:tolles de cunctis frugibus tuis primitias, et pones in cartallo, pergesque ad locum quem dominus deus tuus elegerit, ut ibi invocetur nomen eius:accedesque ad sacerdotem, qui fuerit in diebus illis, et dices ad eum: profiteor hodie coram domino deo tuo, quod ingressus sum in terram, pro qua iuravit patribus nostris, ut daret eam nobis.	2020-04-18	Liber_Deuteronomii
+1100000517	suscipiensque sacerdos cartallum de manu tua, ponet ante altare domini dei tui:et loqueris in conspectu domini dei tui: syrus persequebatur patrem meum, qui descendit in aegyptum, et ibi peregrinatus est in paucissimo numero: crevitque in gentem magnam ac robustam et infinitae multitudinis.	2020-04-18	Liber_Deuteronomii
+1100000518	afflixeruntque nos aegyptii, et persecuti sunt, imponentes onera gravissima:et clamavimus ad dominum deum patrum nostrorum: qui exaudivit nos, et respexit humilitatem nostram, et laborem, atque angustiam:et eduxit nos de aegypto in manu forti, et brachio extento, in ingenti pavore, in signis atque portentis:et introduxit ad locum istum, et tradidit nobis terram lacte et melle manantem.	2020-04-18	Liber_Deuteronomii
+1100000519	et idcirco nunc offero primitias frugum terrae, quam dominus dedit mihi. 	2020-04-18	Liber_Deuteronomii
+1100000520	et dimittes eas in conspectu domini dei tui, et adorato domino deo tuo.	2020-04-18	Liber_Deuteronomii
+1100000521	et epulaberis in omnibus bonis, quae dominus deus tuus dederit tibi et domui tuae, tu et levites, et advena qui tecum est.	2020-04-18	Liber_Deuteronomii
+1100000522	quando compleveris decimam cunctarum frugum tuarum, anno decimarum tertio, dabis levitae, et advenae, et pupillo et viduae, ut comedant intra portas tuas, et saturentur:loquerisque in conspectu domini deo tui: abstuli quod sanctificatum est de domo mea, et dedi illud levitae et advenae, et pupillo ac viduae, sicut iussisti mihi: non praeterivi mandata tua, nec sum oblitus imperii tui.	2020-04-18	Liber_Deuteronomii
+1100000523	non comedi ex eis in luctu meo, nec separavi ea in qualibet immunditia, nec expendi ex his quidquam in re funebri. 	2020-04-18	Liber_Deuteronomii
+1100000524	obedivi voci domini dei mei, et feci omnia sicut praecepisti mihi.	2020-04-18	Liber_Deuteronomii
+1100000525	respice de sanctuario tuo, et de excelso caelorum habitaculo, et benedic populo tuo israel, et terrae, quam dedisti nobis, sicut iurasti patribus nostris, terrae lacte et melle mananti.	2020-04-18	Liber_Deuteronomii
+1100000526	hodie dominus deus tuus praecepit tibi ut facias mandata haec atque iudicia: et custodias et impleas ex toto corde tuo, et ex tota anima tua.	2020-04-18	Liber_Deuteronomii
+1100000527	dominum elegisti hodie, ut sit tibi deus, et ambules in viis eius, et custodias caeremonias illius, et mandata atque iudicia, et obedias eius imperio.	2020-04-18	Liber_Deuteronomii
+1100000528	et dominus elegit te hodie ut sis ei populus peculiaris, sicut locutus est tibi, et custodias omnia praecepta illius:et faciat te excelsiorem cunctis gentibus quas creavit, in laudem, et nomen, et gloriam suam: ut sis populus sanctus domini dei tui, sicut locutus est.	2020-04-18	Liber_Deuteronomii
+1100000529	caput 27	2020-04-18	Liber_Deuteronomii
+1100000530	praecepit autem moyses et seniores israel populo, dicentes: custodite omne mandatum quod praecipio vobis hodie.	2020-04-18	Liber_Deuteronomii
+1100000531	cumque transieritis iordanem in terram, quam dominus deus tuus dabit tibi, eriges ingentes lapides, et calce laevigabis eos,ut possis in eis scribere omnia verba legis huius, iordane transmisso: ut introeas terram, quam dominus deus tuus dabit tibi, terram lacte et melle manantem, sicut iuravit patribus tuis.	2020-04-18	Liber_Deuteronomii
+1100000532	quando ergo transieritis iordanem, erigite lapides, quos ego hodie praecipio vobis in monte hebal, et laevigabis eos calce:et aedificabis ibi altare domino deo tuo de lapidibus, quos ferrum non tetigit,et de saxis informibus et impolitis: et offeres super eo holocausta domino deo tuo,et immolabis hostias pacificas, comedesque ibi, et epulaberis coram domino deo tuo.	2020-04-18	Liber_Deuteronomii
+1100000533	et scribes super lapides omnia verba legis huius plane et lucide.	2020-04-18	Liber_Deuteronomii
+1100000534	dixeruntque moyses et sacerdotes levitici generis ad omnem israelem: attende, et audi, israel: hodie factus es populus domini dei tui:audies vocem eius, et facies mandata atque iustitias, quas ego praecipio tibi.	2020-04-18	Liber_Deuteronomii
+1100000535	praecepitque moyses populo in die illo, dicens:hi stabunt ad benedicendum populo super montem garizim, iordane transmisso: simeon, levi, iudas, issachar, ioseph, et beniamin.	2020-04-18	Liber_Deuteronomii
+1100000536	et e regione isti stabunt ad maledicendum in monte hebal: ruben, gad, et aser, et zabulon, dan, et nephthali.	2020-04-18	Liber_Deuteronomii
+1100000537	et pronuntiabunt levitae, dicentque ad omnes viros israel excelsa voce:maledictus homo qui facit sculptile et conflatile, abominationem domini, opus manuum artificum, ponetque illud in abscondito: et respondebit omnis populus, et dicet: amen.	2020-04-18	Liber_Deuteronomii
+1100000538	maledictus qui non honorat patrem suum, et matrem: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000539	maledictus qui transfert terminos proximi sui: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000540	maledictus qui errare facit caecum in itinere: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000541	maledictus qui pervertit iudicium advenae, pupilli et viduae: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000542	maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli eius: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000543	maledictus qui dormit cum omni iumento: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000544	maledictus qui dormit cum sorore sua, filia patris sui, vel matris suae: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000545	maledictus qui dormit cum socru sua: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000546	maledictus qui clam percusserit proximum suum: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000547	maledictus qui accipit munera, ut percutiat animam sanguinis innocentis: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000548	maledictus qui non permanet in sermonibus legis huius, nec eos opere perficit: et dicet omnis populus: amen.	2020-04-18	Liber_Deuteronomii
+1100000549	caput 28	2020-04-18	Liber_Deuteronomii
+1100000550	si autem audieris vocem domini dei tui, ut facias atque custodias omnia mandata eius, quae ego praecipio tibi hodie, faciet te dominus deus tuus excelsiorem cunctis gentibus, quae versantur in terra.	2020-04-18	Liber_Deuteronomii
+1100000551	venientque super te universae benedictiones istae, et apprehendent te: si tamen praecepta eius audieris.	2020-04-18	Liber_Deuteronomii
+1100000552	benedictus tu in civitate, et benedictus in agro.	2020-04-18	Liber_Deuteronomii
+1100000553	benedictus fructus ventris tui, et fructus terrae tuae, fructusque iumentorum tuorum, greges armentorum tuorum, et caulae ovium tuarum.	2020-04-18	Liber_Deuteronomii
+1100000554	benedicta horrea tua, et benedictae reliquiae tuae.	2020-04-18	Liber_Deuteronomii
+1100000555	benedictus eris tu ingrediens et egrediens.	2020-04-18	Liber_Deuteronomii
+1100000556	dabit dominus inimicos tuos, qui consurgunt adversum te, corruentes in conspectu tuo: per unam viam venient contra te, et per septem fugient a facie tua.	2020-04-18	Liber_Deuteronomii
+1100000557	emittet dominus benedictionem super cellaria tua, et super omnia opera manuum tuarum: benedicetque tibi in terra, quam acceperis.	2020-04-18	Liber_Deuteronomii
+1100000558	suscitabit te dominus sibi in populum sanctum, sicut iuravit tibi: si custodieris mandata domini dei tui, et ambulaveris in viis eius.	2020-04-18	Liber_Deuteronomii
+1100000559	videbuntque omnes terrarum populi quod nomen domini invocatum sit super te, et timebunt te.	2020-04-18	Liber_Deuteronomii
+1100000560	abundare te faciet dominus omnibus bonis, fructu uteri tui, et fructu iumentorum tuorum, fructu terrae tuae, quam iuravit dominus patribus tuis ut daret tibi.	2020-04-18	Liber_Deuteronomii
+1100000561	aperiet dominus thesaurum suum optimum, caelum, ut tribuat pluviam terrae tuae in tempore suo: benedicetque cunctis operibus manuum tuarum. 	2020-04-18	Liber_Deuteronomii
+1100000562	et foenerabis gentibus multis, et ipse a nullo foenus accipies.	2020-04-18	Liber_Deuteronomii
+1100000563	constituet te dominus in caput, et non in caudam: et eris semper supra, et non subter: si tamen audieris mandata domini dei tui quae ego praecipio tibi hodie, et custodieris et feceris,ac non declinaveris ab eis nec ad dexteram, nec ad sinistram, nec secutus fueris deos alienos, neque colueris eos.	2020-04-18	Liber_Deuteronomii
+1100000564	quod si audire nolueris vocem domini dei tui, ut custodias, et facias omnia mandata eius et caeremonias, quas ego praecipio tibi hodie, venient super te omnes maledictiones istae, et apprehendent te.	2020-04-18	Liber_Deuteronomii
+1100000565	maledictus eris in civitate, maledictus in agro.	2020-04-18	Liber_Deuteronomii
+1100000566	maledictum horreum tuum, et maledictae reliquiae tuae.	2020-04-18	Liber_Deuteronomii
+1100000567	maledictus fructus ventris tui, et fructus terrae tuae, armenta boum tuorum, et greges ovium tuarum.	2020-04-18	Liber_Deuteronomii
+1100000568	maledictus eris ingrediens, et maledictus egrediens.	2020-04-18	Liber_Deuteronomii
+1100000569	mittet dominus super te famem et esuriem, et increpationem in omnia opera tua, quae tu facies: donec conterat te, et perdat velociter, propter adinventiones tuas pessimas in quibus reliquisti me.	2020-04-18	Liber_Deuteronomii
+1100000570	adiungat tibi dominus pestilentiam, donec consumat te de terra ad quam ingredieris possidendam.	2020-04-18	Liber_Deuteronomii
+1100000571	percutiat te dominus egestate, febri et frigore, ardore et aestu, et aere corrupto ac rubigine, et persequatur donec pereas.	2020-04-18	Liber_Deuteronomii
+1100000572	sit caelum, quod supra te est, aeneum: et terra, quam calcas, ferrea.	2020-04-18	Liber_Deuteronomii
+1100000573	det dominus imbrem terrae tuae pulverem, et de caelo descendat super te cinis, donec conteraris.	2020-04-18	Liber_Deuteronomii
+1100000574	tradat te dominus corruentem ante hostes tuos: per unam viam egrediaris contra eos, et per septem fugias, et dispergaris per omnia regna terrae,sitque cadaver tuum in escam cunctis volatilibus caeli, et bestiis terrae, et non sit qui abigat.	2020-04-18	Liber_Deuteronomii
+1100000575	percutiat te dominus ulcere aegypti, et partem corporis, per quam stercora egeruntur, scabie quoque et prurigine: ita ut curari nequeas.	2020-04-18	Liber_Deuteronomii
+1100000576	percutiat te dominus amentia et caecitate ac furore mentis,et palpes in meridie sicut palpare solet caecus in tenebris, et non dirigas vias tuas. 	2020-04-18	Liber_Deuteronomii
+1100000577	omnique tempore calumniam sustineas, et opprimaris violentia, nec habeas qui liberet te.	2020-04-18	Liber_Deuteronomii
+1100000578	uxorem accipias, et alius dormiat cum ea. 	2020-04-18	Liber_Deuteronomii
+1100000579	domum aedifices, et non habites in ea. 	2020-04-18	Liber_Deuteronomii
+1100000580	plantes vineam, et non vindemies eam.	2020-04-18	Liber_Deuteronomii
+1100000581	bos tuus immoletur coram te, et non comedas ex eo. 	2020-04-18	Liber_Deuteronomii
+1100000582	asinus tuus rapiatur in conspectu tuo, et non reddatur tibi. 	2020-04-18	Liber_Deuteronomii
+1100000583	oves tuae dentur inimicis tuis, et non sit qui te adiuvet.	2020-04-18	Liber_Deuteronomii
+1100000584	filii tui et filiae tuae tradantur alteri populo, videntibus oculis tuis, et deficientibus ad conspectum eorum tota die, et non sit fortitudo in manu tua.	2020-04-18	Liber_Deuteronomii
+1100000585	fructus terrae tuae, et omnes labores tuos, comedat populus quem ignoras: et sis semper calumniam sustinens, et oppressus cunctis diebus,et stupens ad terrorem eorum quae videbunt oculi tui.	2020-04-18	Liber_Deuteronomii
+1100000586	percutiat te dominus ulcere pessimo in genibus et in suris, sanarique non possis a planta pedis usque ad verticem tuum.	2020-04-18	Liber_Deuteronomii
+1100000587	ducet te dominus, et regem tuum, quem constitueris super te, in gentem, quam ignoras tu et patres tui: et servies ibi diis alienis, ligno et lapidi.	2020-04-18	Liber_Deuteronomii
+1100000588	et eris perditus in proverbium ac fabulam omnibus populis, ad quos te introduxerit dominus.	2020-04-18	Liber_Deuteronomii
+1100000589	sementem multam iacies in terram, et modicum congregabis: quia locustae devorabunt omnia.	2020-04-18	Liber_Deuteronomii
+1100000590	vineam plantabis, et fodies: et vinum non bibes, nec colliges ex ea quippiam: quoniam vastabitur vermibus.	2020-04-18	Liber_Deuteronomii
+1100000591	olivas habebis in omnibus terminis tuis, et non ungeris oleo: quia defluent, et peribunt.	2020-04-18	Liber_Deuteronomii
+1100000592	filios generabis et filias, et non frueris eis: quoniam ducentur in captivitatem.	2020-04-18	Liber_Deuteronomii
+1100000593	omnes arbores tuas et fruges terrae tuae rubigo consumet.	2020-04-18	Liber_Deuteronomii
+1100000594	advena, qui tecum versatur in terra, ascendet super te, eritque sublimior: tu autem descendes, et eris inferior.	2020-04-18	Liber_Deuteronomii
+1100000595	ipse foenerabit tibi, et tu non foenerabis ei. 	2020-04-18	Liber_Deuteronomii
+1100000596	ipse erit in caput, et tu eris in caudam.	2020-04-18	Liber_Deuteronomii
+1100000597	et venient super te omnes maledictiones istae, et persequentes apprehendent te, donec intereas: quia non audisti vocem domini dei tui, nec servasti mandata eius et caeremonias, quas praecepit tibi.	2020-04-18	Liber_Deuteronomii
+1100000598	et erunt in te signa atque prodigia, et in semine tuo usque in sempiternum:eo quod non servieris domino deo tuo in gaudio, cordisque laetitia, propter rerum omnium abundantiam.	2020-04-18	Liber_Deuteronomii
+1100000599	servies inimico tuo, quem immittet tibi dominus, in fame, et siti, et nuditate, et omni penuria: et ponet iugum ferreum super cervicem tuam, donec te conterat.	2020-04-18	Liber_Deuteronomii
+1100000600	adducet dominus super te gentem de longinquo, et de extremis terrae finibus in similitudinem aquilae volantis cum impetu, cuius linguam intelligere non possis:gentem procacissimam, quae non deferat seni, nec misereatur parvuli,et devoret fructum iumentorum tuorum, ac fruges terrae tuae: donec intereas, et non relinquat tibi triticum, vinum, et oleum, armenta boum, et greges ovium: donec te disperdat,et conterat in cunctis urbibus tuis, et destruantur muri tui firmi atque sublimes, in quibus habebas fiduciam in omni terra tua. 	2020-04-18	Liber_Deuteronomii
+1100000601	obsideberis intra portas tuas in omni terra tua, quam dabit tibi dominus deus tuus:et comedes fructum uteri tui, et carnes filiorum tuorum et filiarum tuarum, quas dederit tibi dominus deus tuus, in angustia et vastitate qua opprimet te hostis tuus.	2020-04-18	Liber_Deuteronomii
+1100000602	homo delicatus in te, et luxuriosus valde, invidebit fratri suo, et uxori, quae cubat in sinu suo,ne det eis de carnibus filiorum suorum, quas comedet: eo quod nihil aliud habeat in obsidione et penuria, qua vastaverint te inimici tui intra omnes portas tuas.	2020-04-18	Liber_Deuteronomii
+1100000603	tenera mulier et delicata, quae super terram ingredi non valebat, nec pedis vestigium figere, propter mollitiem et teneritudinem nimiam, invidebit viro suo, qui cubat in sinu eius, super filii et filiae carnibus,et illuvie secundarum, quae egrediuntur de medio feminum eius, et super liberis qui eadem hora nati sunt. 	2020-04-18	Liber_Deuteronomii
+1100000604	comedent enim eos clam propter rerum omnium penuriam in obsidione et vastitate, qua opprimet te inimicus tuus intra portas tuas.	2020-04-18	Liber_Deuteronomii
+1100000605	nisi custodieris et feceris omnia verba legis huius, quae scripta sunt in hoc volumine, et timueris nomen eius gloriosum et terribile, hoc est, dominum deum tuum:augebit dominus plagas tuas, et plagas seminis tui, plagas magnas et perseverantes, infirmitates pessimas et perpetuas:et convertet in te omnes afflictiones aegypti, quas timuisti, et adhaerebunt tibi.	2020-04-18	Liber_Deuteronomii
+1100000606	insuper et universos languores, et plagas, quae non sunt scriptae in volumine legis huius, inducet dominus super te, donec te conterat:et remanebitis pauci numero, qui prius eratis sicut astra caeli prae multitudine, quoniam non audisti vocem domini dei tui.	2020-04-18	Liber_Deuteronomii
+1100000607	et sicut ante laetatus est dominus super vos, bene vobis faciens, vosque multiplicans: sic laetabitur disperdens vos atque subvertens, ut auferamini de terra, ad quam ingredieris possidendam.	2020-04-18	Liber_Deuteronomii
+1100000608	disperget te dominus in omnes populos, a summitate terrae usque ad terminos eius: et servies ibi diis alienis, quos et tu ignoras et patres tui, lignis et lapidibus.	2020-04-18	Liber_Deuteronomii
+1100000609	in gentibus quoque illis non quiesces, neque erit requies vestigio pedis tui. 	2020-04-18	Liber_Deuteronomii
+1100000610	dabit enim tibi dominus ibi cor pavidum, et deficientes oculos, et animam consumptam moerore:et erit vita tua quasi pendens ante te. 	2020-04-18	Liber_Deuteronomii
+1100000611	timebis nocte et die, et non credes vitae tuae.	2020-04-18	Liber_Deuteronomii
+1100000612	mane dices: quis mihi det vesperum? 	2020-04-18	Liber_Deuteronomii
+1100000613	et vespere: quis mihi det mane? 	2020-04-18	Liber_Deuteronomii
+1100000614	propter cordis tui formidinem, qua terreberis, et propter ea, quae tuis videbis oculis.	2020-04-18	Liber_Deuteronomii
+1100000615	reducet te dominus classibus in aegyptum per viam de qua dixit tibi ut eam amplius non videres. 	2020-04-18	Liber_Deuteronomii
+1100000616	ibi venderis inimicis tuis in servos et ancillas, et non erit qui emat.	2020-04-18	Liber_Deuteronomii
+1100000617	caput 29	2020-04-18	Liber_Deuteronomii
+1100000618	haec sunt verba foederis quod praecepit dominus moysi ut feriret cum filiis israel in terra moab: praeter illud foedus, quod cum eis pepigit in horeb.	2020-04-18	Liber_Deuteronomii
+1100000619	vocavitque moyses omnem israel, et dixit ad eos: vos vidistis universa, quae fecit dominus coram vobis in terra aegypti pharaoni, et omnibus servis eius, universaeque terrae illius,tentationes magnas, quas viderunt oculi tui, signa illa, portentaque ingentia,et non dedit vobis dominus cor intelligens, et oculos videntes, et aures quae possunt audire, usque in praesentem diem.	2020-04-18	Liber_Deuteronomii
+1100000620	adduxit vos quadraginta annis per desertum: non sunt attrita vestimenta vestra, nec calceamenta pedum vestrorum vetustate consumpta sunt.	2020-04-18	Liber_Deuteronomii
+1100000621	panem non comedistis, vinum et siceram non bibistis: ut sciretis quia ego sum dominus deus vester.	2020-04-18	Liber_Deuteronomii
+1100000622	et venistis ad hunc locum: egressusque est sehon rex hesebon, et og rex basan, occurrentes nobis ad pugnam. 	2020-04-18	Liber_Deuteronomii
+1100000623	et percussimus eos,et tulimus terram eorum, ac tradidimus possidendam ruben et gad, et dimidiae tribui manasse.	2020-04-18	Liber_Deuteronomii
+1100000624	custodite ergo verba pacti huius, et implete ea: ut intelligatis universa quae facitis.	2020-04-18	Liber_Deuteronomii
+1100000625	vos statis hodie cuncti coram domino deo vestro, principes vestri, et tribus, ac maiores natu, atque doctores, omnis populus israel,liberi et uxores vestrae, et advena qui tecum moratur in castris, exceptis lignorum caesoribus, et his qui comportant aquas:ut transeas in foedere domini dei tui, et in iureiurando quod hodie dominus deus tuus percutit tecum:ut suscitet te sibi in populum, et ipse sit deus tuus sicut locutus est tibi, et sicut iuravit patribus tuis, abraham, isaac, et iacob.	2020-04-18	Liber_Deuteronomii
+1100000626	nec vobis solis ego hoc foedus ferio, et haec iuramenta confirmo,sed cunctis praesentibus et absentibus.	2020-04-18	Liber_Deuteronomii
+1100000627	vos enim nostis quomodo habitaverimus in terra aegypti, et quomodo transierimus per medium nationum, quas transeuntesvidistis abominationes et sordes, id est, idola eorum, lignum et lapidem, argentum et aurum, quae colebant.	2020-04-18	Liber_Deuteronomii
+1100000628	ne forte sit inter vos vir aut mulier, familia aut tribus, cuius cor aversum est hodie a domino deo nostro, ut vadat et serviat diis illarum gentium: et sit inter vos radix germinans fel et amaritudinem.	2020-04-18	Liber_Deuteronomii
+1100000629	cumque audierit verba iuramenti huius, benedicat sibi in corde suo, dicens: pax erit mihi, et ambulabo in pravitate cordis mei: et absumat ebria sitientem,et dominus non ignoscat ei: sed tunc quam maxime furor eius fumet, et zelus contra hominem illum, et sedeant super eum omnia maledicta, quae scripta sunt in hoc volumine: et deleat dominus nomen eius sub caelo,et consumat eum in perditionem ex omnibus tribubus israel, iuxta maledictiones, quae in libro legis huius ac foederis continentur.	2020-04-18	Liber_Deuteronomii
+1100000630	dicetque sequens generatio, et filii qui nascentur deinceps, et peregrini qui de longe venerint, videntes plagas terrae illius, et infirmitates, quibus eam afflixerit dominus,sulphure, et salis ardore comburens, ita ut ultra non seratur, nec virens quippiam germinet, in exemplum subversionis sodomae et gomorrhae, adamae et seboim, quas subvertit dominus in ira et furore suo.	2020-04-18	Liber_Deuteronomii
+1100000631	et dicent omnes gentes: quare sic fecit dominus terrae huic? 	2020-04-18	Liber_Deuteronomii
+1100000632	quae est haec ira furoris eius immensa?	2020-04-18	Liber_Deuteronomii
+1100000633	et respondebunt: quia dereliquerunt pactum domini, quod pepigit cum patribus eorum, quando eduxit eos de terra aegypti:et servierunt diis alienis, et adoraverunt eos, quos nesciebant, et quibus non fuerant attributi:idcirco iratus est furor domini contra terram istam, ut induceret super eam omnia maledicta, quae in hoc volumine scripta sunt:et eiecit eos de terra sua in ira et in furore, et in indignatione maxima, proiecitque in terram alienam, sicut hodie comprobatur.	2020-04-18	Liber_Deuteronomii
+1100000634	abscondita, domino deo nostro; quae manifesta sunt, nobis et filiis nostris usque in sempiternum, ut faciamus universa verba legis huius.	2020-04-18	Liber_Deuteronomii
+1100000635	caput 30	2020-04-18	Liber_Deuteronomii
+1100000636	cum ergo venerint super te omnes sermones isti, benedictio sive maledictio, quam proposui in conspectu tuo: et ductus poenitudine cordis tui in universis gentibus, in quas disperserit te dominus deus tuus,et reversus fueris ad eum, et obedieris eius imperiis, sicut ego hodie praecipio tibi, cum filiis tuis, in toto corde tuo, et in tota anima tua:reducet dominus deus tuus captivitatem tuam, ac miserebitur tui, et rursum congregabit te de cunctis populis, in quos te ante dispersit.	2020-04-18	Liber_Deuteronomii
+1100000637	si ad cardines caeli fueris dissipatus, inde te retrahet dominus deus tuus,et assumet, atque introducet in terram, quam possederunt patres tui, et obtinebis eam: et benedicens tibi, maioris numeri te esse faciat quam fuerunt patres tui.	2020-04-18	Liber_Deuteronomii
+1100000638	circumcidet dominus deus tuus cor tuum, et cor seminis tui, ut diligas dominum deum tuum in toto corde tuo, et in tota anima tua, ut possis vivere.	2020-04-18	Liber_Deuteronomii
+1100000639	omnes autem maledictiones has convertet super inimicos tuos, et eos qui oderunt te et persequuntur.	2020-04-18	Liber_Deuteronomii
+1100000640	tu autem reverteris, et audies vocem domini dei tui, faciesque universa mandata quae ego praecipio tibi hodie:et abundare te faciet dominus deus tuus in cunctis operibus manuum tuarum, in sobole uteri tui, et in fructu iumentorum tuorum, in ubertate terrae tuae, et in rerum omnium largitate. 	2020-04-18	Liber_Deuteronomii
+1100000641	revertetur enim dominus, ut gaudeat super te in omnibus bonis, sicut gavisus est in patribus tuis:si tamen audieris vocem domini dei tui, et custodieris praecepta eius et caeremonias, quae in hac lege conscripta sunt: et revertaris ad dominum deum tuum in toto corde tuo, et in tota anima tua.	2020-04-18	Liber_Deuteronomii
+1100000642	mandatum hoc, quod ego praecipio tibi hodie, non supra te est, neque procul positum,nec in caelo situm, ut possis dicere: quis nostrum valet ad caelum ascendere, ut deferat illud ad nos, et audiamus atque opere compleamus?	2020-04-18	Liber_Deuteronomii
+1100000643	neque trans mare positum: ut causeris, et dicas: quis ex nobis poterit transfretare mare, et illud ad nos usque deferre, ut possimus audire et facere quod praeceptum est?	2020-04-18	Liber_Deuteronomii
+1100000644	sed iuxta te est sermo valde, in ore tuo, et in corde tuo, ut facias illum.	2020-04-18	Liber_Deuteronomii
+1100000645	considera quod hodie proposuerim in conspectu tuo, vitam et bonum, et e contrario mortem et malum:ut diligas dominum deum tuum, et ambules in viis eius, et custodias mandata illius ac caeremonias atque iudicia: et vivas, atque multiplicet te, benedicatque tibi in terra, ad quam ingredieris possidendam.	2020-04-18	Liber_Deuteronomii
+1100000646	si autem aversum fuerit cor tuum, et audire nolueris, atque errore deceptus adoraveris deos alienos, et servieris eis:praedico tibi hodie quod pereas, et parvo tempore moreris in terra, ad quam, iordane transmisso, ingredieris possidendam.	2020-04-18	Liber_Deuteronomii
+1100000647	testes invoco hodie caelum et terram, quod proposuerim vobis vitam et mortem, benedictionem et maledictionem. 	2020-04-18	Liber_Deuteronomii
+1100000648	elige ergo vitam, ut et tu vivas, et semen tuum:et diligas dominum deum tuum, atque obedias voci eius, et illi adhaereas (ipse est enim vita tua, et longitudo dierum tuorum), ut habites in terra, pro qua iuravit dominus patribus tuis, abraham, isaac, et iacob, ut daret eam illis.	2020-04-18	Liber_Deuteronomii
+1100000649	caput 31	2020-04-18	Liber_Deuteronomii
+1100000650	abiit itaque moyses, et locutus est omnia verba haec ad universum israel,et dixit ad eos: centum viginti annorum sum hodie; non possum ultra egredi et ingredi, praesertim cum et dominus dixerit mihi: non transibis iordanem istum.	2020-04-18	Liber_Deuteronomii
+1100000651	dominus ergo deus tuus transibit ante te: ipse delebit omnes gentes has in conspectu tuo, et possidebis eas: et iosue iste transibit ante te, sicut locutus est dominus.	2020-04-18	Liber_Deuteronomii
+1100000652	facietque dominus eis sicut fecit sehon et og regibus amorrhaeorum, et terrae eorum, delebitque eos.	2020-04-18	Liber_Deuteronomii
+1100000653	cum ergo et hos tradiderit vobis, similiter facietis eis, sicut praecepi vobis.	2020-04-18	Liber_Deuteronomii
+1100000654	viriliter agite, et confortamini: nolite timere, nec paveatis ad conspectum eorum: quia dominus deus tuus ipse est ductor tuus, et non dimittet, nec derelinquet te.	2020-04-18	Liber_Deuteronomii
+1100000655	vocavitque moyses iosue, et dixit ei coram omni israel: confortare, et esto robustus: tu enim introduces populum istum in terram, quam daturum se patribus eorum iuravit dominus, et tu eam sorte divides.	2020-04-18	Liber_Deuteronomii
+1100000656	et dominus qui ductor est vester, ipse erit tecum: non dimittet, nec derelinquet te: noli timere, nec paveas.	2020-04-18	Liber_Deuteronomii
+1100000657	scripsit itaque moyses legem hanc, et tradidit eam sacerdotibus filiis levi, qui portabant arcam foederis domini, et cunctis senioribus israel.	2020-04-18	Liber_Deuteronomii
+1100000658	praecepitque eis, dicens: post septem annos, anno remissionis, in solemnitate tabernaculorum,convenientibus cunctis ex israel, ut appareant in conspectu domini dei tui in loco quem elegerit dominus, leges verba legis huius coram omni israel, audientibus eis,et in unum omni populo congregato, tam viris quam mulieribus, parvulis, et advenis, qui sunt intra portas tuas: ut audientes discant, et timeant dominum deum vestrum, et custodiant, impleantque omnes sermones legis huius.	2020-04-18	Liber_Deuteronomii
+1100000659	filii quoque eorum qui nunc ignorant, ut audire possint, et timeant dominum deum suum cunctis diebus quibus versantur in terra, ad quam vos, iordane transmisso, pergitis obtinendam.	2020-04-18	Liber_Deuteronomii
+1100000660	et ait dominus ad moysen: ecce prope sunt dies mortis tuae: voca iosue, et state in tabernaculo testimonii, ut praecipiam ei. 	2020-04-18	Liber_Deuteronomii
+1100000661	abierunt ergo moyses et iosue, et steterunt in tabernaculo testimonii:apparuitque dominus ibi in columna nubis, quae stetit in introitu tabernaculi.	2020-04-18	Liber_Deuteronomii
+1100000662	dixitque dominus ad moysen: ecce tu dormies cum patribus tuis, et populus iste consurgens fornicabitur post deos alienos in terra, ad quam ingreditur ut habitet in ea: ibi derelinquet me, et irritum faciet foedus, quod pepigi cum eo.	2020-04-18	Liber_Deuteronomii
+1100000663	et irascetur furor meus contra eum in die illo: et derelinquam eum, et abscondam faciem meam ab eo, et erit in devorationem: invenient eum omnia mala et afflictiones, ita ut dicat in illo die: vere quia non est deus mecum, invenerunt me haec mala.	2020-04-18	Liber_Deuteronomii
+1100000664	ego autem abscondam, et celabo faciem meam in die illo propter omnia mala, quae fecit, quia secutus est deos alienos.	2020-04-18	Liber_Deuteronomii
+1100000665	nunc itaque scribite vobis canticum istud, et docete filios israel: ut memoriter teneant, et ore decantent, et sit mihi carmen istud pro testimonio inter filios israel.	2020-04-18	Liber_Deuteronomii
+1100000666	introducam enim eum in terram, pro qua iuravi patribus eius, lacte et melle manantem. 	2020-04-18	Liber_Deuteronomii
+1100000667	cumque comederint, et saturati, crassique fuerint, avertentur ad deos alienos, et servient eis: detrahentque mihi, et irritum facient pactum meum.	2020-04-18	Liber_Deuteronomii
+1100000668	postquam invenerint eum mala multa et afflictiones, respondebit ei canticum istud pro testimonio, quod nulla delebit oblivio ex ore seminis sui. 	2020-04-18	Liber_Deuteronomii
+1100000669	scio enim cogitationes eius, quae facturus sit hodie, antequam introducam eum in terram, quam ei pollicitus sum.	2020-04-18	Liber_Deuteronomii
+1100000670	scripsit ergo moyses canticum, et docuit filios israel.	2020-04-18	Liber_Deuteronomii
+1100000671	praecepitque dominus iosue filio nun, et ait: confortare, et esto robustus: tu enim introduces filios israel in terram, quam pollicitus sum, et ego ero tecum.	2020-04-18	Liber_Deuteronomii
+1100000672	postquam ergo scripsit moyses verba legis huius in volumine, atque complevit,praecepit levitis, qui portabant arcam foederis domini, dicens:tollite librum istum, et ponite eum in latere arcae foederis domini dei vestri: ut sit ibi contra te in testimonium.	2020-04-18	Liber_Deuteronomii
+1100000673	ego enim scio contentionem tuam, et cervicem tuam durissimam. 	2020-04-18	Liber_Deuteronomii
+1100000674	adhuc vivente me et ingrediente vobiscum, semper contentiose egistis contra dominum: quanto magis cum mortuus fuero?	2020-04-18	Liber_Deuteronomii
+1100000675	congregate ad me omnes maiores natu per tribus vestras, atque doctores, et loquar audientibus eis sermones istos, et invocabo contra eos caelum et terram.	2020-04-18	Liber_Deuteronomii
+1100000676	novi enim quod post mortem meam inique agetis, et declinabitis cito de via, quam praecepi vobis: et occurrent vobis mala in extremo tempore, quando feceritis malum in conspectu domini, ut irritetis eum per opera manuum vestrarum.	2020-04-18	Liber_Deuteronomii
+1100000677	locutus est ergo moyses, audiente universo coetu israel, verba carminis huius, et ad finem usque complevit.	2020-04-18	Liber_Deuteronomii
+1100000678	caput 32	2020-04-18	Liber_Deuteronomii
+1100000679	audite, caeli, quae loquor:	2020-04-18	Liber_Deuteronomii
+1100000680	audiat terra verba oris mei.	2020-04-18	Liber_Deuteronomii
+1100000681	concrescat ut pluvia doctrina mea,	2020-04-18	Liber_Deuteronomii
+1100000682	fluat ut ros eloquium meum,	2020-04-18	Liber_Deuteronomii
+1100000683	quasi imber super herbam,	2020-04-18	Liber_Deuteronomii
+1100000684	et quasi stillae super gramina.	2020-04-18	Liber_Deuteronomii
+1100000685	quia nomen domini invocabo:	2020-04-18	Liber_Deuteronomii
+1100000686	date magnificentiam deo nostro.	2020-04-18	Liber_Deuteronomii
+1100000687	dei perfecta sunt opera,	2020-04-18	Liber_Deuteronomii
+1100000688	et omnes viae eius iudicia:	2020-04-18	Liber_Deuteronomii
+1100000689	deus fidelis, et absque ulla iniquitate,	2020-04-18	Liber_Deuteronomii
+1100000690	iustus et rectus.	2020-04-18	Liber_Deuteronomii
+1100000691	peccaverunt ei, et non filii eius in sordibus:	2020-04-18	Liber_Deuteronomii
+1100000692	generatio prava atque perversa.	2020-04-18	Liber_Deuteronomii
+1100000693	haeccine reddis domino,	2020-04-18	Liber_Deuteronomii
+1100000694	popule stulte et insipiens?	2020-04-18	Liber_Deuteronomii
+1100000695	numquid non ipse est pater tuus,	2020-04-18	Liber_Deuteronomii
+1100000696	qui possedit te, et fecit, et creavit te?	2020-04-18	Liber_Deuteronomii
+1100000697	memento dierum antiquorum, cogita generationes singulas:	2020-04-18	Liber_Deuteronomii
+1100000698	interroga patrem tuum,	2020-04-18	Liber_Deuteronomii
+1100000699	et annuntiabit tibi:	2020-04-18	Liber_Deuteronomii
+1100000700	maiores tuos, et dicent tibi.	2020-04-18	Liber_Deuteronomii
+1100000701	quando dividebat altissimus gentes,	2020-04-18	Liber_Deuteronomii
+1100000702	quando separabat filios adam,	2020-04-18	Liber_Deuteronomii
+1100000703	constituit terminos populorum	2020-04-18	Liber_Deuteronomii
+1100000704	iuxta numerum filiorum israel.	2020-04-18	Liber_Deuteronomii
+1100000705	pars autem domini, populus eius:	2020-04-18	Liber_Deuteronomii
+1100000706	iacob funiculus haereditatis eius.	2020-04-18	Liber_Deuteronomii
+1100000707	invenit eum in terra deserta,	2020-04-18	Liber_Deuteronomii
+1100000708	in loco horroris, et vastae solitudinis:	2020-04-18	Liber_Deuteronomii
+1100000709	circumduxit eum, et docuit:	2020-04-18	Liber_Deuteronomii
+1100000710	et custodivit quasi pupillam oculi sui.	2020-04-18	Liber_Deuteronomii
+1100000711	sicut aquila provocans ad volandum pullos suos,	2020-04-18	Liber_Deuteronomii
+1100000712	et super eos volitans,	2020-04-18	Liber_Deuteronomii
+1100000713	expandit alas suas, et assumpsit eum,	2020-04-18	Liber_Deuteronomii
+1100000714	atque portavit in humeris suis.	2020-04-18	Liber_Deuteronomii
+1100000715	dominus solus dux eius fuit,	2020-04-18	Liber_Deuteronomii
+1100000716	et non erat cum eo deus alienus:	2020-04-18	Liber_Deuteronomii
+1100000717	constituit eum super excelsam terram,	2020-04-18	Liber_Deuteronomii
+1100000718	ut comederet fructus agrorum:	2020-04-18	Liber_Deuteronomii
+1100000719	ut sugeret mel de petra,	2020-04-18	Liber_Deuteronomii
+1100000720	oleumque de saxo durissimo;	2020-04-18	Liber_Deuteronomii
+1100000721	butyrum de armento, et lac de ovibus	2020-04-18	Liber_Deuteronomii
+1100000722	cum adipe agnorum,	2020-04-18	Liber_Deuteronomii
+1100000723	et arietum filiorum basan: et hircos	2020-04-18	Liber_Deuteronomii
+1100000724	cum medulla tritici,	2020-04-18	Liber_Deuteronomii
+1100000725	et sanguinem uvae biberet meracissimum.	2020-04-18	Liber_Deuteronomii
+1100000726	incrassatus est dilectus, et recalcitravit:	2020-04-18	Liber_Deuteronomii
+1100000727	incrassatus, impinguatus, dilatatus,	2020-04-18	Liber_Deuteronomii
+1100000728	dereliquit deum factorem suum,	2020-04-18	Liber_Deuteronomii
+1100000729	et recessit a deo salutari suo.	2020-04-18	Liber_Deuteronomii
+1100000730	provocaverunt eum in diis alienis,	2020-04-18	Liber_Deuteronomii
+1100000731	et in abominationibus ad iracundiam concitaverunt.	2020-04-18	Liber_Deuteronomii
+1100000732	immolaverunt daemoniis et non deo,	2020-04-18	Liber_Deuteronomii
+1100000733	diis quos ignorabant:	2020-04-18	Liber_Deuteronomii
+1100000734	novi recentesque venerunt,	2020-04-18	Liber_Deuteronomii
+1100000735	quos non coluerunt patres eorum:	2020-04-18	Liber_Deuteronomii
+1100000736	deum qui te genuit dereliquisti,	2020-04-18	Liber_Deuteronomii
+1100000737	et oblitus es domini creatoris tui.	2020-04-18	Liber_Deuteronomii
+1100000738	vidit dominus, et ad iracundiam concitatus est:	2020-04-18	Liber_Deuteronomii
+1100000739	quia provocaverunt eum filii sui et filiae.	2020-04-18	Liber_Deuteronomii
+1100000740	et ait: abscondam faciem meam ab eis,	2020-04-18	Liber_Deuteronomii
+1100000741	et considerabo novissima eorum:	2020-04-18	Liber_Deuteronomii
+1100000742	generatio enim perversa est,	2020-04-18	Liber_Deuteronomii
+1100000743	et infideles filii.	2020-04-18	Liber_Deuteronomii
+1100000744	ipsi me provocaverunt in eo qui non erat deus,	2020-04-18	Liber_Deuteronomii
+1100000745	et irritaverunt in vanitatibus suis:	2020-04-18	Liber_Deuteronomii
+1100000746	et ego provocabo eos in eo qui non est populus,	2020-04-18	Liber_Deuteronomii
+1100000747	et in gente stulta irritabo illos.	2020-04-18	Liber_Deuteronomii
+1100000748	ignis succensus est in furore meo,	2020-04-18	Liber_Deuteronomii
+1100000749	et ardebit usque ad inferni novissima:	2020-04-18	Liber_Deuteronomii
+1100000750	devorabitque terram cum germine suo,	2020-04-18	Liber_Deuteronomii
+1100000751	et montium fundamenta comburet.	2020-04-18	Liber_Deuteronomii
+1100000752	congregabo super eos mala,	2020-04-18	Liber_Deuteronomii
+1100000753	et sagittas meas complebo in eis.	2020-04-18	Liber_Deuteronomii
+1100000754	consumentur fame,	2020-04-18	Liber_Deuteronomii
+1100000755	et devorabunt eos aves morsu amarissimo:	2020-04-18	Liber_Deuteronomii
+1100000756	dentes bestiarum immittam in eos,	2020-04-18	Liber_Deuteronomii
+1100000757	cum furore trahentium super terram, atque serpentium.	2020-04-18	Liber_Deuteronomii
+1100000758	foris vastabit eos gladius,	2020-04-18	Liber_Deuteronomii
+1100000759	et intus pavor,	2020-04-18	Liber_Deuteronomii
+1100000760	iuvenem simul ac virginem,	2020-04-18	Liber_Deuteronomii
+1100000761	lactentem cum homine sene.	2020-04-18	Liber_Deuteronomii
+1100000762	dixi: ubinam sunt?	2020-04-18	Liber_Deuteronomii
+1100000763	cessare faciam ex hominibus memoriam eorum.	2020-04-18	Liber_Deuteronomii
+1100000764	sed propter iram inimicorum distuli:	2020-04-18	Liber_Deuteronomii
+1100000765	ne forte superbirent hostes eorum,	2020-04-18	Liber_Deuteronomii
+1100000766	et dicerent: manus nostra excelsa,	2020-04-18	Liber_Deuteronomii
+1100000767	et non dominus, fecit haec omnia.	2020-04-18	Liber_Deuteronomii
+1100000768	gens absque consilio est,	2020-04-18	Liber_Deuteronomii
+1100000769	et sine prudentia.	2020-04-18	Liber_Deuteronomii
+1100000770	utinam saperent, et intelligerent,	2020-04-18	Liber_Deuteronomii
+1100000771	ac novissima providerent.	2020-04-18	Liber_Deuteronomii
+1100000772	quomodo persequatur unus mille,	2020-04-18	Liber_Deuteronomii
+1100000773	et duo fugent decem millia?	2020-04-18	Liber_Deuteronomii
+1100000774	nonne ideo, quia deus suus vendidit eos,	2020-04-18	Liber_Deuteronomii
+1100000775	et dominus conclusit illos?	2020-04-18	Liber_Deuteronomii
+1100000776	non enim est deus noster ut dii eorum:	2020-04-18	Liber_Deuteronomii
+1100000777	et inimici nostri sunt iudices.	2020-04-18	Liber_Deuteronomii
+1100000778	de vinea sodomorum, vinea eorum,	2020-04-18	Liber_Deuteronomii
+1100000779	et de suburbanis gomorrhae:	2020-04-18	Liber_Deuteronomii
+1100000780	uva eorum, uva fellis,	2020-04-18	Liber_Deuteronomii
+1100000781	et botri amarissimi.	2020-04-18	Liber_Deuteronomii
+1100000782	fel draconum vinum eorum,	2020-04-18	Liber_Deuteronomii
+1100000783	et venenum aspidum insanabile.	2020-04-18	Liber_Deuteronomii
+1100000784	nonne haec condita sunt apud me,	2020-04-18	Liber_Deuteronomii
+1100000785	et signata in thesauris meis?	2020-04-18	Liber_Deuteronomii
+1100000786	mea est ultio, et ego retribuam in tempore,	2020-04-18	Liber_Deuteronomii
+1100000787	ut labatur pes eorum:	2020-04-18	Liber_Deuteronomii
+1100000788	iuxta est dies perditionis,	2020-04-18	Liber_Deuteronomii
+1100000789	et adesse festinant tempora.	2020-04-18	Liber_Deuteronomii
+1100000790	iudicabit dominus populum suum,	2020-04-18	Liber_Deuteronomii
+1100000791	et in servis suis miserebitur:	2020-04-18	Liber_Deuteronomii
+1100000792	videbit quod infirmata sit manus,	2020-04-18	Liber_Deuteronomii
+1100000793	et clausi quoque defecerunt,	2020-04-18	Liber_Deuteronomii
+1100000794	residuique consumpti sunt.	2020-04-18	Liber_Deuteronomii
+1100000795	et dicet: ubi sunt dii eorum,	2020-04-18	Liber_Deuteronomii
+1100000796	in quibus habebant fiduciam?	2020-04-18	Liber_Deuteronomii
+1100000797	de quorum victimis comedebant adipes,	2020-04-18	Liber_Deuteronomii
+1100000798	et bibebant vinum libaminum:	2020-04-18	Liber_Deuteronomii
+1100000799	surgant, et opitulentur vobis,	2020-04-18	Liber_Deuteronomii
+1100000800	et in necessitate vos protegant.	2020-04-18	Liber_Deuteronomii
+1100000801	videte quod ego sim solus,	2020-04-18	Liber_Deuteronomii
+1100000802	et non sit alius deus praeter me:	2020-04-18	Liber_Deuteronomii
+1100000803	ego occidam, et ego vivere faciam:	2020-04-18	Liber_Deuteronomii
+1100000804	percutiam, et ego sanabo,	2020-04-18	Liber_Deuteronomii
+1100000805	et non est qui de manu mea possit eruere.	2020-04-18	Liber_Deuteronomii
+1100000806	levabo ad caelum manum meam,	2020-04-18	Liber_Deuteronomii
+1100000807	et dicam: vivo ego in aeternum.	2020-04-18	Liber_Deuteronomii
+1100000808	si acuero ut fulgur gladium meum,	2020-04-18	Liber_Deuteronomii
+1100000809	et arripuerit iudicium manus mea:	2020-04-18	Liber_Deuteronomii
+1100000810	reddam ultionem hostibus meis,	2020-04-18	Liber_Deuteronomii
+1100000811	et his qui oderunt me retribuam.	2020-04-18	Liber_Deuteronomii
+1100000812	inebriabo sagittas meas sanguine,	2020-04-18	Liber_Deuteronomii
+1100000813	et gladius meus devorabit carnes;	2020-04-18	Liber_Deuteronomii
+1100000814	de cruore occisorum et de captivitate,	2020-04-18	Liber_Deuteronomii
+1100000815	nudati inimicorum capitis.	2020-04-18	Liber_Deuteronomii
+1100000816	laudate, gentes, populum eius,	2020-04-18	Liber_Deuteronomii
+1100000817	quia sanguinem servorum suorum ulciscetur:	2020-04-18	Liber_Deuteronomii
+1100000818	et vindictam retribuet in hostes eorum,	2020-04-18	Liber_Deuteronomii
+1100000819	et propitius erit terrae populi sui.	2020-04-18	Liber_Deuteronomii
+1100000820	venit ergo moyses, et locutus est omnia verba cantici huius in auribus populi, ipse et iosue filius nun.	2020-04-18	Liber_Deuteronomii
+1100000821	complevitque omnes sermones istos, loquens ad universum israel,et dixit ad eos: ponite corda vestra in omnia verba, quae ego testificor vobis hodie: ut mandetis ea filiis vestris custodire et facere, et implere universa quae scripta sunt legis huius:quia non incassum praecepta sunt vobis, sed ut singuli in eis viverent: quae facientes longo perseveretis tempore in terra, ad quam, iordane transmisso, ingredimini possidendam.	2020-04-18	Liber_Deuteronomii
+1100000822	locutusque est dominus ad moysen in eadem die, dicens:ascende in montem istum abarim, id est, transitum, in montem nebo, qui est in terra moab contra iericho: et vide terram chanaan, quam ego tradam filiis israel obtinendam, et morere in monte.	2020-04-18	Liber_Deuteronomii
+1100000823	quem conscendens iungeris populis tuis, sicut mortuus est aaron frater tuus in monte hor, et appositus populis suis:quia praevaricati estis contra me in medio filiorum israel ad aquas contradictionis in cades deserti sin: et non sanctificastis me inter filios israel.	2020-04-18	Liber_Deuteronomii
+1100000824	e contra videbis terram, et non ingredieris in eam, quam ego dabo filiis israel.	2020-04-18	Liber_Deuteronomii
+1100000825	caput 33	2020-04-18	Liber_Deuteronomii
+1100000826	haec est benedictio, qua benedixit moyses, homo dei, filiis israel ante mortem suam.	2020-04-18	Liber_Deuteronomii
+1100000827	et ait:	2020-04-18	Liber_Deuteronomii
+1100000828	dominus de sinai venit,	2020-04-18	Liber_Deuteronomii
+1100000829	et de seir ortus est nobis:	2020-04-18	Liber_Deuteronomii
+1100000830	apparuit de monte pharan,	2020-04-18	Liber_Deuteronomii
+1100000831	et cum eo sanctorum millia.	2020-04-18	Liber_Deuteronomii
+1100000832	in dextera eius ignea lex.	2020-04-18	Liber_Deuteronomii
+1100000833	dilexit populos,	2020-04-18	Liber_Deuteronomii
+1100000834	omnes sancti in manu illius sunt:	2020-04-18	Liber_Deuteronomii
+1100000835	et qui appropinquant pedibus eius,	2020-04-18	Liber_Deuteronomii
+1100000836	accipient de doctrina illius.	2020-04-18	Liber_Deuteronomii
+1100000837	legem praecepit nobis moyses,	2020-04-18	Liber_Deuteronomii
+1100000838	haereditatem multitudinis iacob.	2020-04-18	Liber_Deuteronomii
+1100000839	erit apud rectissimum rex,	2020-04-18	Liber_Deuteronomii
+1100000840	congregatis principibus populi cum tribubus israel.	2020-04-18	Liber_Deuteronomii
+1100000841	vivat ruben, et non moriatur,	2020-04-18	Liber_Deuteronomii
+1100000842	et sit parvus in numero.	2020-04-18	Liber_Deuteronomii
+1100000843	haec est iudae benedictio:	2020-04-18	Liber_Deuteronomii
+1100000844	audi, domine, vocem iudae,	2020-04-18	Liber_Deuteronomii
+1100000845	et ad populum suum introduc eum:	2020-04-18	Liber_Deuteronomii
+1100000846	manus eius pugnabunt pro eo,	2020-04-18	Liber_Deuteronomii
+1100000847	et adiutor illius contra adversarios eius erit.	2020-04-18	Liber_Deuteronomii
+1100000848	levi quoque ait:	2020-04-18	Liber_Deuteronomii
+1100000849	perfectio tua, et doctrina tua viro sancto tuo,	2020-04-18	Liber_Deuteronomii
+1100000850	quem probasti in tentatione,	2020-04-18	Liber_Deuteronomii
+1100000851	et iudicasti ad aquas contradictionis.	2020-04-18	Liber_Deuteronomii
+1100000852	qui dixit patri suo et matri suae: nescio vos:	2020-04-18	Liber_Deuteronomii
+1100000853	et fratribus suis: ignoro vos:	2020-04-18	Liber_Deuteronomii
+1100000854	et nescierunt filios suos.	2020-04-18	Liber_Deuteronomii
+1100000855	hi custodierunt eloquium tuum,	2020-04-18	Liber_Deuteronomii
+1100000856	et pactum tuum servaverunt.	2020-04-18	Liber_Deuteronomii
+1100000857	iudicia tua, o iacob,	2020-04-18	Liber_Deuteronomii
+1100000858	et legem tuam, o israel:	2020-04-18	Liber_Deuteronomii
+1100000859	ponent thymiama in furore tuo,	2020-04-18	Liber_Deuteronomii
+1100000860	et holocaustum super altare tuum.	2020-04-18	Liber_Deuteronomii
+1100000861	benedic, domine, fortitudini eius:	2020-04-18	Liber_Deuteronomii
+1100000862	et opera manuum illius suscipe.	2020-04-18	Liber_Deuteronomii
+1100000863	percute dorsa inimicorum eius:	2020-04-18	Liber_Deuteronomii
+1100000864	et qui oderunt eum, non consurgant.	2020-04-18	Liber_Deuteronomii
+1100000865	et beniamin ait:	2020-04-18	Liber_Deuteronomii
+1100000866	amantissimus domini habitabit confidenter in eo:	2020-04-18	Liber_Deuteronomii
+1100000867	quasi in thalamo tota die morabitur,	2020-04-18	Liber_Deuteronomii
+1100000868	et inter humeros illius requiescet.	2020-04-18	Liber_Deuteronomii
+1100000869	ioseph quoque ait:	2020-04-18	Liber_Deuteronomii
+1100000870	de benedictione domini terra eius,	2020-04-18	Liber_Deuteronomii
+1100000871	de pomis caeli, et rore, atque abysso subiacente.	2020-04-18	Liber_Deuteronomii
+1100000872	de pomis fructuum solis ac lunae,	2020-04-18	Liber_Deuteronomii
+1100000873	de vertice antiquorum montium,	2020-04-18	Liber_Deuteronomii
+1100000874	de pomis collium aeternorum:	2020-04-18	Liber_Deuteronomii
+1100000875	et de frugibus terrae, et de plenitudine eius.	2020-04-18	Liber_Deuteronomii
+1100000876	benedictio illius qui apparuit in rubo,	2020-04-18	Liber_Deuteronomii
+1100000877	veniat super caput ioseph,	2020-04-18	Liber_Deuteronomii
+1100000878	et super verticem nazaraei inter fratres suos.	2020-04-18	Liber_Deuteronomii
+1100000879	quasi primogeniti tauri pulchritudo eius,	2020-04-18	Liber_Deuteronomii
+1100000880	cornua rhinocerotis cornua illius:	2020-04-18	Liber_Deuteronomii
+1100000881	in ipsis ventilabit gentes usque ad terminos terrae.	2020-04-18	Liber_Deuteronomii
+1100000882	hae sunt multitudines ephraim:	2020-04-18	Liber_Deuteronomii
+1100000883	et haec millia manasse.	2020-04-18	Liber_Deuteronomii
+1100000884	et zabulon ait:	2020-04-18	Liber_Deuteronomii
+1100000885	laetare, zabulon, in exitu tuo,	2020-04-18	Liber_Deuteronomii
+1100000886	et issachar in tabernaculis tuis.	2020-04-18	Liber_Deuteronomii
+1100000887	populos vocabunt ad montem:	2020-04-18	Liber_Deuteronomii
+1100000888	ibi immolabunt victimas iustitiae.	2020-04-18	Liber_Deuteronomii
+1100000889	qui inundationem maris quasi lac sugent,	2020-04-18	Liber_Deuteronomii
+1100000890	et thesauros absconditos arenarum.	2020-04-18	Liber_Deuteronomii
+1100000891	et gad ait:	2020-04-18	Liber_Deuteronomii
+1100000892	benedictus in latitudine gad:	2020-04-18	Liber_Deuteronomii
+1100000893	quasi leo requievit,	2020-04-18	Liber_Deuteronomii
+1100000894	cepitque brachium et verticem.	2020-04-18	Liber_Deuteronomii
+1100000895	et vidit principatum suum,	2020-04-18	Liber_Deuteronomii
+1100000896	quod in parte sua doctor esset repositus:	2020-04-18	Liber_Deuteronomii
+1100000897	qui fuit cum principibus populi,	2020-04-18	Liber_Deuteronomii
+1100000898	et fecit iustitias domini,	2020-04-18	Liber_Deuteronomii
+1100000899	et iudicium suum cum israel.	2020-04-18	Liber_Deuteronomii
+1100000900	dan quoque ait:	2020-04-18	Liber_Deuteronomii
+1100000901	dan catulus leonis, fluet largiter de basan.	2020-04-18	Liber_Deuteronomii
+1100000902	et nephthali dixit:	2020-04-18	Liber_Deuteronomii
+1100000903	nephthali abundantia perfruetur,	2020-04-18	Liber_Deuteronomii
+1100000904	et plenus erit benedictionibus domini:	2020-04-18	Liber_Deuteronomii
+1100000905	mare et meridiem possidebit.	2020-04-18	Liber_Deuteronomii
+1100000906	aser quoque ait:	2020-04-18	Liber_Deuteronomii
+1100000907	benedictus in filiis aser,	2020-04-18	Liber_Deuteronomii
+1100000908	sit placens fratribus suis,	2020-04-18	Liber_Deuteronomii
+1100000909	et tingat in oleo pedem suum:	2020-04-18	Liber_Deuteronomii
+1100000910	ferrum et aes calceamentum eius.	2020-04-18	Liber_Deuteronomii
+1100000911	sicut dies iuventutis tuae, ita et senectus tua.	2020-04-18	Liber_Deuteronomii
+1100000912	non est deus alius ut deus rectissimi,	2020-04-18	Liber_Deuteronomii
+1100000913	ascensor caeli, auxiliator tuus.	2020-04-18	Liber_Deuteronomii
+1100000914	magnificentia eius discurrunt nubes,	2020-04-18	Liber_Deuteronomii
+1100000915	habitaculum eius sursum,	2020-04-18	Liber_Deuteronomii
+1100000916	et subter brachia sempiterna	2020-04-18	Liber_Deuteronomii
+1100000917	eiiciet a facie tua inimicum,	2020-04-18	Liber_Deuteronomii
+1100000918	dicetque: conterere.	2020-04-18	Liber_Deuteronomii
+1100000919	habitabit israel confidenter, et solus.	2020-04-18	Liber_Deuteronomii
+1100000920	oculus iacob in terra frumenti et vini,	2020-04-18	Liber_Deuteronomii
+1100000921	caelique caligabunt rore.	2020-04-18	Liber_Deuteronomii
+1100000922	beatus es tu, israel:	2020-04-18	Liber_Deuteronomii
+1100000923	quis similis tui, popule, qui salvaris in domino?	2020-04-18	Liber_Deuteronomii
+1100000924	scutum auxilii tui,	2020-04-18	Liber_Deuteronomii
+1100000925	et gladius gloriae tuae:	2020-04-18	Liber_Deuteronomii
+1100000926	negabunt te inimici tui,	2020-04-18	Liber_Deuteronomii
+1100000927	et tu eorum colla calcabis.	2020-04-18	Liber_Deuteronomii
+1100000928	caput 34	2020-04-18	Liber_Deuteronomii
+1100000929	ascendit ergo moyses de campestribus moab super montem nebo, in verticem phasga contra iericho: ostenditque ei dominus omnem terram galaad usque dan,et universum nephthali, terramque ephraim et manasse, et omnem terram iuda usque ad mare novissimum,et australem partem, et latitudinem campi iericho civitatis palmarum usque segor.	2020-04-18	Liber_Deuteronomii
+1100000930	dixitque dominus ad eum: haec est terra, pro qua iuravi abraham, isaac, et iacob, dicens: semini tuo dabo eam. 	2020-04-18	Liber_Deuteronomii
+1100000931	vidisti eam oculis tuis, et non transibis ad illam.	2020-04-18	Liber_Deuteronomii
+1100000932	mortuusque est ibi moyses servus domini, in terra moab, iubente domino:et sepelivit eum in valle terrae moab contra phogor: et non cognovit homo sepulchrum eius usque in praesentem diem.	2020-04-18	Liber_Deuteronomii
+1100000933	moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus eius, nec dentes illius moti sunt.	2020-04-18	Liber_Deuteronomii
+1100000934	fleveruntque eum filii israel in campestribus moab triginta diebus: et completi sunt dies planctus lugentium moysen.	2020-04-18	Liber_Deuteronomii
+1100000935	iosue vero filius nun repletus est spiritu sapientiae, quia moyses posuit super eum manus suas. 	2020-04-18	Liber_Deuteronomii
+1100000936	et obedierunt ei filii israel, feceruntque sicut praecepit dominus moysi.	2020-04-18	Liber_Deuteronomii
+1100000937	et non surrexit ultra propheta in israel sicut moyses, quem nosset dominus facie ad faciem,in omnibus signis atque portentis, quae misit per eum, ut faceret in terra aegypti pharaoni, et omnibus servis eius, universaeque terrae illius,et cunctam manum robustam, magnaque mirabilia, quae fecit moyses coram universo israel.	2020-04-18	Liber_Deuteronomii

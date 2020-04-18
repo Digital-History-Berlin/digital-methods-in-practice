@@ -1,0 +1,15 @@
+1100000001	epistola b. ioannis apostoli secunda	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000002	caput 1	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000003	senior electae dominae, et natis eius, quos ego diligo in veritate, et non ego solus, sed et omnes qui cognoverunt veritatem,propter veritatem, quae permanet in nobis, et nobiscum erit in aeternum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000004	sit vobiscum gratia, misericordia, pax a deo patre, et a christo iesu filio patris in veritate, et caritate.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000005	gavisus sum valde, quoniam inveni de filiis tuis ambulantes in veritate, sicut mandatum accepimus a patre.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000006	et nunc rogo te domina, non tamquam mandatum novum scribens tibi, sed quod habuimus ab initio, ut diligamus alterutrum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000007	et haec est caritas, ut ambulemus secundum mandata eius. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000008	hoc est enim mandatum, ut quemadmodum audistis ab initio, in eo ambuletis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000009	quoniam multi seductores exierunt in mundum, qui non confitentur iesum christum venisse in carnem: hic est seductor, et antichristus.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000010	videte vosmetipsos, ne perdatis quae operati estis: sed ut mercedem plenam accipiatis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000011	omnis qui recedit, et non permanet in doctrina christi, deum non habet: qui permanet in doctrina, hic et patrem et filium habet.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000012	si quis venit ad vos, et hanc doctrinam non affert, nolite recipere eum in domum, nec ave ei dixeritis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000013	qui enim dicit illi ave, communicat operibus eius malignis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000014	plura habens vobis scribere, nolui per cartam et atramentum: spero enim me futurum apud vos, et os ad os loqui: ut gaudium vestrum plenum sit.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda
+1100000015	salutant te filii sororis tuae electae.	2020-04-18	Epistola_B_Ioannis_Apostoli_Secunda

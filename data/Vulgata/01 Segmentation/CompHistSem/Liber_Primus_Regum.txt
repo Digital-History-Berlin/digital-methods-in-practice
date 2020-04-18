@@ -1,0 +1,1078 @@
+1100000001	liber primus regum	2020-04-18	Liber_Primus_Regum
+1100000002	caput 1	2020-04-18	Liber_Primus_Regum
+1100000003	fuit vir unus de ramathaimsophim, de monte ephraim, et nomen eius elcana, filius ieroham, filii eliu, filii thohu, filii suph, ephrathaeus:et habuit duas uxores, nomen uni anna, et nomen secundae phenenna. 	2020-04-18	Liber_Primus_Regum
+1100000004	fueruntque phenennae filii: annae autem non erant liberi.	2020-04-18	Liber_Primus_Regum
+1100000005	et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret domino exercituum in silo. 	2020-04-18	Liber_Primus_Regum
+1100000006	erant autem ibi duo filii heli, ophni et phinees, sacerdotes domini.	2020-04-18	Liber_Primus_Regum
+1100000007	venit ergo dies, et immolavit elcana, deditque phenennae uxori suae, et cunctis filiis eius et filiabus, partes:annae autem dedit partem unam tristis, quia annam diligebat. 	2020-04-18	Liber_Primus_Regum
+1100000008	dominus autem concluserat vulvam eius.	2020-04-18	Liber_Primus_Regum
+1100000009	affligebat quoque eam aemula eius, et vehementer angebat, in tantum ut exprobraret quod dominus conclusisset vulvam eius:sicque faciebat per singulos annos: cum redeunte tempore ascenderent ad templum domini, et sic provocabat eam: porro illa flebat, et non capiebat cibum.	2020-04-18	Liber_Primus_Regum
+1100000010	dixit ergo ei elcana vir suus: anna, cur fles? 	2020-04-18	Liber_Primus_Regum
+1100000011	et quare non comedis? 	2020-04-18	Liber_Primus_Regum
+1100000012	et quam ob rem affligitur cor tuum? 	2020-04-18	Liber_Primus_Regum
+1100000013	numquid non ego melior tibi sum, quam decem filii?	2020-04-18	Liber_Primus_Regum
+1100000014	surrexit autem anna postquam comederat et biberat in silo. 	2020-04-18	Liber_Primus_Regum
+1100000015	et heli sacerdote sedente super sellam ante postes templi domini,cum esset anna amaro animo, oravit ad dominum, flens largiter,et votum vovit, dicens: domine exercituum, si respiciens videris afflictionem famulae tuae, et recordatus mei fueris, nec oblitus ancillae tuae, dederisque servae tuae sexum virilem: dabo eum domino omnibus diebus vitae eius, et novacula non ascendet super caput eius.	2020-04-18	Liber_Primus_Regum
+1100000016	factum est autem, cum illa multiplicaret preces coram domino, ut heli observaret os eius.	2020-04-18	Liber_Primus_Regum
+1100000017	porro anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. 	2020-04-18	Liber_Primus_Regum
+1100000018	aestimavit ergo eam heli temulentam,dixitque ei: usquequo ebria eris? 	2020-04-18	Liber_Primus_Regum
+1100000019	digere paulisper vinum, quo mades.	2020-04-18	Liber_Primus_Regum
+1100000020	respondens anna: nequaquam, inquit, domine mi: nam mulier infelix nimis ego sum: vinumque et omne quod inebriare potest, non bibi, sed effudi animam meam in conspectu domini.	2020-04-18	Liber_Primus_Regum
+1100000021	ne reputes ancillam tuam quasi unam de filiabus belial: quia ex multitudine doloris et moeroris mei locuta sum usque in praesens.	2020-04-18	Liber_Primus_Regum
+1100000022	tunc heli ait ei: vade in pace: et deus israel det tibi petitionem tuam quam rogasti eum.	2020-04-18	Liber_Primus_Regum
+1100000023	et illa dixit: utinam inveniat ancilla tua gratiam in oculis tuis. 	2020-04-18	Liber_Primus_Regum
+1100000024	et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati.	2020-04-18	Liber_Primus_Regum
+1100000025	et surrexerunt mane, et adoraverunt coram domino: reversique sunt, et venerunt in domum suam ramatha.	2020-04-18	Liber_Primus_Regum
+1100000026	cognovit autem elcana annam uxorem suam: et recordatus est eius dominus.	2020-04-18	Liber_Primus_Regum
+1100000027	et factum est post circulum dierum, concepit anna, et peperit filium: vocavitque nomen eius samuel, eo quod a domino postulasset eum.	2020-04-18	Liber_Primus_Regum
+1100000028	ascendit autem vir eius elcana, et omnis domus eius, ut immolaret domino hostiam solemnem, et votum suum.	2020-04-18	Liber_Primus_Regum
+1100000029	et anna non ascendit: dixit enim viro suo: non vadam donec ablactetur infans, et ducam eum, ut appareat ante conspectum domini, et maneat ibi iugiter.	2020-04-18	Liber_Primus_Regum
+1100000030	et ait ei elcana vir suus: fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat dominus verbum suum. 	2020-04-18	Liber_Primus_Regum
+1100000031	mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.	2020-04-18	Liber_Primus_Regum
+1100000032	et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinae, et amphora vini, et adduxit eum ad domum domini in silo. 	2020-04-18	Liber_Primus_Regum
+1100000033	puer autem erat adhuc infantulus:et immolaverunt vitulum, et obtulerunt puerum heli.	2020-04-18	Liber_Primus_Regum
+1100000034	et ait anna: obsecro mi domine, vivit anima tua, domine: ego sum illa mulier, quae steti coram te hic orans dominum.	2020-04-18	Liber_Primus_Regum
+1100000035	pro puero isto oravi, et dedit mihi dominus petitionem meam quam postulavi eum.	2020-04-18	Liber_Primus_Regum
+1100000036	idcirco et ego commodavi eum domino cunctis diebus quibus fuerit commodatus domino. 	2020-04-18	Liber_Primus_Regum
+1100000037	et adoraverunt ibi dominum.	2020-04-18	Liber_Primus_Regum
+1100000038	et oravit anna, et ait:	2020-04-18	Liber_Primus_Regum
+1100000039	caput 2	2020-04-18	Liber_Primus_Regum
+1100000040	exultavit cor meum in domino,	2020-04-18	Liber_Primus_Regum
+1100000041	et exaltatum est cornu meum in deo meo;	2020-04-18	Liber_Primus_Regum
+1100000042	dilatatum est os meum super inimicos meos:	2020-04-18	Liber_Primus_Regum
+1100000043	quia laetata sum in salutari tuo.	2020-04-18	Liber_Primus_Regum
+1100000044	non est sanctus, ut est dominus,	2020-04-18	Liber_Primus_Regum
+1100000045	neque enim est alius extra te,	2020-04-18	Liber_Primus_Regum
+1100000046	et non est fortis sicut deus noster.	2020-04-18	Liber_Primus_Regum
+1100000047	nolite multiplicare loqui sublimia gloriantes;	2020-04-18	Liber_Primus_Regum
+1100000048	recedant vetera de ore vestro:	2020-04-18	Liber_Primus_Regum
+1100000049	quia deus scientiarum dominus est,	2020-04-18	Liber_Primus_Regum
+1100000050	et ipsi praeparantur cogitationes.	2020-04-18	Liber_Primus_Regum
+1100000051	arcus fortium superatus est,	2020-04-18	Liber_Primus_Regum
+1100000052	et infirmi accincti sunt robore.	2020-04-18	Liber_Primus_Regum
+1100000053	repleti prius, pro panibus se locaverunt:	2020-04-18	Liber_Primus_Regum
+1100000054	et famelici saturati sunt,	2020-04-18	Liber_Primus_Regum
+1100000055	donec sterilis peperit plurimos:	2020-04-18	Liber_Primus_Regum
+1100000056	et quae multos habebat filios, infirmata est.	2020-04-18	Liber_Primus_Regum
+1100000057	dominus mortificat et vivificat;	2020-04-18	Liber_Primus_Regum
+1100000058	deducit ad inferos et reducit.	2020-04-18	Liber_Primus_Regum
+1100000059	dominus pauperem facit et ditat,	2020-04-18	Liber_Primus_Regum
+1100000060	humiliat et sublevat.	2020-04-18	Liber_Primus_Regum
+1100000061	suscitat de pulvere egenum,	2020-04-18	Liber_Primus_Regum
+1100000062	et de stercore elevat pauperem:	2020-04-18	Liber_Primus_Regum
+1100000063	ut sedeat cum principibus,	2020-04-18	Liber_Primus_Regum
+1100000064	et solium gloriae teneat.	2020-04-18	Liber_Primus_Regum
+1100000065	domini enim sunt cardines terrae,	2020-04-18	Liber_Primus_Regum
+1100000066	et posuit super eos orbem.	2020-04-18	Liber_Primus_Regum
+1100000067	pedes sanctorum suorum servabit,	2020-04-18	Liber_Primus_Regum
+1100000068	et impii in tenebris conticescent:	2020-04-18	Liber_Primus_Regum
+1100000069	quia non in fortitudine sua roborabitur vir.	2020-04-18	Liber_Primus_Regum
+1100000070	dominum formidabunt adversarii eius:	2020-04-18	Liber_Primus_Regum
+1100000071	et super ipsos in caelis tonabit.	2020-04-18	Liber_Primus_Regum
+1100000072	dominus iudicabit fines terrae,	2020-04-18	Liber_Primus_Regum
+1100000073	et dabit imperium regi suo,	2020-04-18	Liber_Primus_Regum
+1100000074	et sublimabit cornu christi sui.	2020-04-18	Liber_Primus_Regum
+1100000075	et abiit elcana ramatha, in domum suam: puer autem erat minister in conspectu domini ante faciem heli sacerdotis.	2020-04-18	Liber_Primus_Regum
+1100000076	porro filii heli, filii belial, nescientes dominum,neque officium sacerdotum ad populum: sed quicumque immolasset victimam, veniebat puer sacerdotis, dum coquerentur carnes, et habebat fuscinulam tridentem in manu sua,et mittebat eam in lebetem, vel in caldariam, aut in ollam, sive in cacabum: et omne quod levabat fuscinula, tollebat sacerdos sibi: sic faciebant universo israeli venientium in silo.	2020-04-18	Liber_Primus_Regum
+1100000077	etiam antequam adolerent adipem, veniebat puer sacerdotis, et dicebat immolanti: da mihi carnem, ut coquam sacerdoti: non enim accipiam a te carnem coctam, sed crudam.	2020-04-18	Liber_Primus_Regum
+1100000078	dicebatque illi immolans: incendatur primum iuxta morem hodie adeps, et tolle tibi quantumcumque desiderat anima tua. 	2020-04-18	Liber_Primus_Regum
+1100000079	qui respondens aiebat ei: nequaquam: nunc enim dabis, alioquin tollam vi.erat ergo peccatum puerorum grande nimis coram domino: quia retrahebant homines a sacrificio domini.	2020-04-18	Liber_Primus_Regum
+1100000080	samuel autem ministrabat ante faciem domini, puer accinctus ephod lineo.	2020-04-18	Liber_Primus_Regum
+1100000081	et tunicam parvam faciebat ei mater sua, quam afferebat statutis diebus, ascendens cum viro suo, ut immolaret hostiam solemnem.	2020-04-18	Liber_Primus_Regum
+1100000082	et benedixit heli elcanae et uxori eius: dixitque ei: reddat tibi dominus semen de muliere hac, pro foenore quod commodasti domino. 	2020-04-18	Liber_Primus_Regum
+1100000083	et abierunt in locum suum.	2020-04-18	Liber_Primus_Regum
+1100000084	visitavit ergo dominus annam, et concepit, et peperit tres filios, et duas filias: et magnificatus est puer samuel apud dominum.	2020-04-18	Liber_Primus_Regum
+1100000085	heli autem erat senex valde, et audivit omnia quae faciebant filii sui universo israeli, et quomodo dormiebant cum mulieribus quae observabant ad ostium tabernaculi:et dixit eis: quare facitis res huiuscemodi quas ego audio, res pessimas, ab omni populo?	2020-04-18	Liber_Primus_Regum
+1100000086	nolite, filii mei: non enim est bona fama quam ego audio, ut transgredi faciatis populum domini.	2020-04-18	Liber_Primus_Regum
+1100000087	si peccaverit vir in virum, placari ei potest deus: si autem in dominum peccaverit vir, quis orabit pro eo? 	2020-04-18	Liber_Primus_Regum
+1100000088	et non audierunt vocem patris sui: quia voluit dominus occidere eos.	2020-04-18	Liber_Primus_Regum
+1100000089	puer autem samuel proficiebat atque crescebat, et placebat tam domino quam hominibus.	2020-04-18	Liber_Primus_Regum
+1100000090	venit autem vir dei ad heli, et ait ad eum: haec dicit dominus: numquid non aperte revelatus sum domui patris tui, cum essent in aegypto in domo pharaonis?	2020-04-18	Liber_Primus_Regum
+1100000091	et elegi eum ex omnibus tribubus israel mihi in sacerdotem, ut ascenderet ad altare meum, et adoleret mihi incensum, et portaret ephod coram me: et dedi domui patris tui omnia de sacrificiis filiorum israel.	2020-04-18	Liber_Primus_Regum
+1100000092	quare calce abiecistis victimam meam, et munera mea quae praecepi ut offerrentur in templo: et magis honorasti filios tuos quam me, ut comederetis primitias omnis sacrificii israel populi mei?	2020-04-18	Liber_Primus_Regum
+1100000093	propterea ait dominus deus israel: loquens locutus sum, ut domus tua, et domus patris tui, ministraret in conspectu meo usque in sempiternum. 	2020-04-18	Liber_Primus_Regum
+1100000094	nunc autem dicit dominus: absit hoc a me: sed quicumque glorificaverit me, glorificabo eum: qui autem contemnunt me, erunt ignobiles.	2020-04-18	Liber_Primus_Regum
+1100000095	ecce dies veniunt, et praecidam brachium tuum, et brachium domus patris tui, ut non sit senex in domo tua.	2020-04-18	Liber_Primus_Regum
+1100000096	et videbis aemulum tuum in templo, in universis prosperis israel: et non erit senex in domo tua omnibus diebus.	2020-04-18	Liber_Primus_Regum
+1100000097	verumtamen non auferam penitus virum ex te ab altari meo: sed ut deficiant oculi tui, et tabescat anima tua: et pars magna domus tuae morietur cum ad virilem aetatem venerit.	2020-04-18	Liber_Primus_Regum
+1100000098	hoc autem erit tibi signum, quod venturum est duobus filiis tuis, ophni et phinees: in die uno morientur ambo.	2020-04-18	Liber_Primus_Regum
+1100000099	et suscitabo mihi sacerdotem fidelem, qui iuxta cor meum et animam meam faciet: et aedificabo ei domum fidelem, et ambulabit coram christo meo cunctis diebus.	2020-04-18	Liber_Primus_Regum
+1100000100	futurum est autem, ut quicumque remanserit in domo tua, veniat ut oretur pro eo, et offerat nummum argenteum, et tortam panis, dicatque: dimitte me, obsecro, ad unam partem sacerdotalem, ut comedam buccellam panis.	2020-04-18	Liber_Primus_Regum
+1100000101	caput 3	2020-04-18	Liber_Primus_Regum
+1100000102	puer autem samuel ministrabat domino coram heli, et sermo domini erat pretiosus in diebus illis: non erat visio manifesta.	2020-04-18	Liber_Primus_Regum
+1100000103	factum est ergo in die quadam, heli iacebat in loco suo, et oculi eius caligaverant, nec poterat videre:lucerna dei antequam extingueretur, samuel dormiebat in templo domini, ubi erat arca dei.	2020-04-18	Liber_Primus_Regum
+1100000104	et vocavit dominus samuel. 	2020-04-18	Liber_Primus_Regum
+1100000105	qui respondens, ait: ecce ego.	2020-04-18	Liber_Primus_Regum
+1100000106	et cucurrit ad heli, et dixit: ecce ego: vocasti enim me. 	2020-04-18	Liber_Primus_Regum
+1100000107	qui dixit: non vocavi: revertere, et dormi. 	2020-04-18	Liber_Primus_Regum
+1100000108	et abiit, et dormivit.	2020-04-18	Liber_Primus_Regum
+1100000109	et adiecit dominus rursum vocare samuelem. 	2020-04-18	Liber_Primus_Regum
+1100000110	consurgensque samuel, abiit ad heli, et dixit: ecce ego, quia vocasti me. 	2020-04-18	Liber_Primus_Regum
+1100000111	qui respondit: non vocavi te, fili mi: revertere et dormi.	2020-04-18	Liber_Primus_Regum
+1100000112	porro samuel necdum sciebat dominum, neque revelatus fuerat ei sermo domini.	2020-04-18	Liber_Primus_Regum
+1100000113	et adiecit dominus, et vocavit adhuc samuelem tertio. 	2020-04-18	Liber_Primus_Regum
+1100000114	qui consurgens abiit ad heli,et ait: ecce ego, quia vocasti me. 	2020-04-18	Liber_Primus_Regum
+1100000115	intellexit ergo heli quia dominus vocaret puerum: et ait ad samuelem: vade, et dormi: et si deinceps vocaverit te, dices: loquere, domine, quia audit servus tuus. 	2020-04-18	Liber_Primus_Regum
+1100000116	abiit ergo samuel, et dormivit in loco suo.	2020-04-18	Liber_Primus_Regum
+1100000117	et venit dominus, et stetit: et vocavit, sicut vocaverat secundo: samuel, samuel. 	2020-04-18	Liber_Primus_Regum
+1100000118	et ait samuel: loquere, domine, quia audit servus tuus.	2020-04-18	Liber_Primus_Regum
+1100000119	et dixit dominus ad samuelem: ecce ego facio verbum in israel, quod quicumque audierit, tinnient ambae aures eius.	2020-04-18	Liber_Primus_Regum
+1100000120	in die illa suscitabo adversum heli omnia quae locutus sum super domum eius: incipiam, et complebo.	2020-04-18	Liber_Primus_Regum
+1100000121	praedixi enim ei quod iudicaturus essem domum eius in aeternum propter iniquitatem, eo quod noverat indigne agere filios suos, et non corripuerit eos.	2020-04-18	Liber_Primus_Regum
+1100000122	idcirco iuravi domui heli quod non expietur iniquitas domus eius victimis et muneribus usque in aeternum.	2020-04-18	Liber_Primus_Regum
+1100000123	dormivit autem samuel usque mane, aperuitque ostia domus domini. 	2020-04-18	Liber_Primus_Regum
+1100000124	et samuel timebat indicare visionem heli.	2020-04-18	Liber_Primus_Regum
+1100000125	vocavit ergo heli samuelem, et dixit: samuel fili mi? 	2020-04-18	Liber_Primus_Regum
+1100000126	qui respondens ait: praesto sum.	2020-04-18	Liber_Primus_Regum
+1100000127	et interrogavit eum: quis est sermo, quem locutus est dominus ad te? 	2020-04-18	Liber_Primus_Regum
+1100000128	oro te ne celaveris me: haec faciat tibi deus, et haec addat, si absconderis a me sermonem ex omnibus verbis quae dicta sunt tibi.	2020-04-18	Liber_Primus_Regum
+1100000129	indicavit itaque ei samuel universos sermones, et non abscondit ab eo. 	2020-04-18	Liber_Primus_Regum
+1100000130	et ille respondit: dominus est: quod bonum est in oculis suis faciat.	2020-04-18	Liber_Primus_Regum
+1100000131	crevit autem samuel, et dominus erat cum eo, et non cecidit ex omnibus verbis eius in terram.	2020-04-18	Liber_Primus_Regum
+1100000132	et cognovit universus israel, a dan usque bersabee, quod fidelis samuel propheta esset domini.	2020-04-18	Liber_Primus_Regum
+1100000133	et addidit dominus ut appareret in silo, quoniam revelatus fuerat dominus samueli in silo iuxta verbum domini. 	2020-04-18	Liber_Primus_Regum
+1100000134	et evenit sermo samuelis universo israeli.	2020-04-18	Liber_Primus_Regum
+1100000135	caput 4	2020-04-18	Liber_Primus_Regum
+1100000136	et factum est in diebus illis, convenerunt philisthiim in pugnam: et egressus est israel obviam philisthiim in praelium, et castrametatus est iuxta lapidem adiutorii. 	2020-04-18	Liber_Primus_Regum
+1100000137	porro philisthiim venerunt in aphec,et instruxerunt aciem contra israel. 	2020-04-18	Liber_Primus_Regum
+1100000138	inito autem certamine, terga vertit israel philisthaeis: et caesa sunt in illo certamine passim per agros, quasi quatuor millia virorum.	2020-04-18	Liber_Primus_Regum
+1100000139	et reversus est populus ad castra: dixeruntque maiores natu de israel: quare percussit nos dominus hodie coram philisthiim? 	2020-04-18	Liber_Primus_Regum
+1100000140	afferamus ad nos de silo arcam foederis domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.	2020-04-18	Liber_Primus_Regum
+1100000141	misit ergo populus in silo, et tulerunt inde arcam foederis domini exercituum sedentis super cherubim: erantque duo filii heli cum arca foederis dei, ophni et phinees.	2020-04-18	Liber_Primus_Regum
+1100000142	cumque venisset arca foederis domini in castra, vociferatus est omnis israel clamore grandi, et personuit terra.	2020-04-18	Liber_Primus_Regum
+1100000143	et audierunt philisthiim vocem clamoris, dixeruntque: quaenam est haec vox clamoris magni in castris hebraeorum? 	2020-04-18	Liber_Primus_Regum
+1100000144	et cognoverunt quod arca domini venisset in castra.	2020-04-18	Liber_Primus_Regum
+1100000145	timueruntque philisthiim, dicentes: venit deus in castra. 	2020-04-18	Liber_Primus_Regum
+1100000146	et ingemuerunt, dicentes:vae nobis: non enim fuit tanta exultatio heri et nudiustertius: vae nobis. 	2020-04-18	Liber_Primus_Regum
+1100000147	quis nos salvabit de manu deorum sublimium istorum? 	2020-04-18	Liber_Primus_Regum
+1100000148	hi sunt dii, qui percusserunt aegyptum omni plaga in deserto.	2020-04-18	Liber_Primus_Regum
+1100000149	confortamini, et estote viri, philisthiim, ne serviatis hebraeis, sicut et illi servierunt vobis: confortamini, et bellate.	2020-04-18	Liber_Primus_Regum
+1100000150	pugnaverunt ergo philisthiim, et caesus est israel, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis, et ceciderunt de israel triginta millia peditum.	2020-04-18	Liber_Primus_Regum
+1100000151	et arca dei capta est: duo quoque filii heli mortui sunt, ophni et phinees.	2020-04-18	Liber_Primus_Regum
+1100000152	currens autem vir de beniamin ex acie, venit in silo in die illa, scissa veste, et conspersus pulvere caput.	2020-04-18	Liber_Primus_Regum
+1100000153	cumque ille venisset, heli sedebat super sellam contra viam spectans. 	2020-04-18	Liber_Primus_Regum
+1100000154	erat enim cor eius pavens pro arca dei. 	2020-04-18	Liber_Primus_Regum
+1100000155	vir autem ille postquam ingressus est, nuntiavit urbi: et ululavit omnis civitas.	2020-04-18	Liber_Primus_Regum
+1100000156	et audivit heli sonitum clamoris, dixitque: quis est hic sonitus tumultus huius? 	2020-04-18	Liber_Primus_Regum
+1100000157	at ille festinavit, et venit, et nuntiavit heli.	2020-04-18	Liber_Primus_Regum
+1100000158	heli autem erat nonaginta et octo annorum, et oculi eius caligaverant, et videre non poterat.	2020-04-18	Liber_Primus_Regum
+1100000159	et dixit ad heli: ego sum qui veni de praelio, et ego qui de acie fugi hodie. 	2020-04-18	Liber_Primus_Regum
+1100000160	cui ille ait: quid actum est, fili mi?	2020-04-18	Liber_Primus_Regum
+1100000161	respondens autem ille qui nuntiabat: fugit, inquit, israel coram philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, ophni et phinees, et arca dei capta est.	2020-04-18	Liber_Primus_Regum
+1100000162	cumque ille nominasset arcam dei, cecidit de sella retrorsum iuxta ostium, et fractis cervicibus mortuus est. 	2020-04-18	Liber_Primus_Regum
+1100000163	senex enim erat vir et grandaevus: et ipse iudicavit israel quadraginta annis.	2020-04-18	Liber_Primus_Regum
+1100000164	nurus autem eius, uxor phinees, praegnans erat, vicinaque partui: et audito nuntio quod capta esset arca dei, et mortuus esset socer suus et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti.	2020-04-18	Liber_Primus_Regum
+1100000165	in ipso autem momento mortis eius, dixerunt ei quae stabant circa eam: ne timeas, quia filium peperisti. 	2020-04-18	Liber_Primus_Regum
+1100000166	quae non respondit eis, neque animadvertit.	2020-04-18	Liber_Primus_Regum
+1100000167	et vocabit puerum ichabod, dicens: translata est gloria de israel, quia capta est arca dei, et pro socero suo et pro viro suo;et ait: translata est gloria ab israel, eo quod capta esset arca dei.	2020-04-18	Liber_Primus_Regum
+1100000168	caput 5	2020-04-18	Liber_Primus_Regum
+1100000169	philisthiim autem tulerunt arcam dei, et asportaverunt eam a lapide adiutorii in azotum.	2020-04-18	Liber_Primus_Regum
+1100000170	tuleruntque philisthiim arcam dei, et intulerunt eam in templum dagon, et statuerunt eam iuxta dagon.	2020-04-18	Liber_Primus_Regum
+1100000171	cumque surrexissent diluculo azotii altera die, ecce dagon iacebat pronus in terra ante arcam domini: et tulerunt dagon, et restituerunt eum in locum suum.	2020-04-18	Liber_Primus_Regum
+1100000172	rursumque mane die altera consurgentes, invenerunt dagon iacentem super faciem suam in terra coram arca domini: caput autem dagon, et duae palmae manuum eius abscissae erant super limen:porro dagon solus truncus remanserat in loco suo. 	2020-04-18	Liber_Primus_Regum
+1100000173	propter hanc causam non calcant sacerdotes dagon, et omnes qui ingrediuntur templum eius, super limen dagon in azoto, usque in hodiernum diem.	2020-04-18	Liber_Primus_Regum
+1100000174	aggravata est autem manus domini super azotios, et demolitus est eos: et percussit in secretiori parte natium azotum, et fines eius. 	2020-04-18	Liber_Primus_Regum
+1100000175	et ebullierunt villae et agri in medio regionis illius, et nati sunt mures et facta est confusio mortis magnae in civitate.	2020-04-18	Liber_Primus_Regum
+1100000176	videntes autem viri azotii huiuscemodi plagam, dixerunt: non maneat arca dei israel apud nos: quoniam dura est manus eius super nos, et super dagon deum nostrum.	2020-04-18	Liber_Primus_Regum
+1100000177	et mittentes congregaverunt omnes satrapas philisthinorum ad se, et dixerunt: quid faciemus de arca dei israel? 	2020-04-18	Liber_Primus_Regum
+1100000178	responderuntque gethaei: circumducatur arca dei israel. 	2020-04-18	Liber_Primus_Regum
+1100000179	et circumduxerunt arcam dei israel.	2020-04-18	Liber_Primus_Regum
+1100000180	illis autem circumducentibus eam, fiebat manus domini per singulas civitates interfectionis magnae nimis: et percutiebat viros uniuscuiusque urbis, a parvo usque ad maiorem, et computrescebant prominentes extales eorum. 	2020-04-18	Liber_Primus_Regum
+1100000181	inieruntque gethaei consilium, et fecerunt sibi sedes pelliceas.	2020-04-18	Liber_Primus_Regum
+1100000182	miserunt ergo arcam dei in accaron. 	2020-04-18	Liber_Primus_Regum
+1100000183	cumque venisset arca dei in accaron, exclamaverunt accaronitae, dicentes: adduxerunt ad nos arcam dei israel ut interficiat nos et populum nostrum.	2020-04-18	Liber_Primus_Regum
+1100000184	miserunt itaque et congregaverunt omnes satrapas philisthinorum: qui dixerunt: dimittite arcam dei israel, et revertatur in locum suum, et non interficiat nos cum populo nostro.	2020-04-18	Liber_Primus_Regum
+1100000185	fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus dei. 	2020-04-18	Liber_Primus_Regum
+1100000186	viri quoque qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscuiusque civitatis in caelum.	2020-04-18	Liber_Primus_Regum
+1100000187	caput 6	2020-04-18	Liber_Primus_Regum
+1100000188	fuit ergo arca domini in regione philisthinorum septem mensibus.	2020-04-18	Liber_Primus_Regum
+1100000189	et vocaverunt philisthiim sacerdotes et divinos, dicentes: quid faciemus de arca domini? 	2020-04-18	Liber_Primus_Regum
+1100000190	indicate nobis quomodo remittamus eam in locum suum. 	2020-04-18	Liber_Primus_Regum
+1100000191	qui dixerunt:si remittitis arcam dei israel, nolite dimittere eam vacuam, sed quod debetis, reddite ei pro peccato, et tunc curabimini: et scietis quare non recedat manus eius a vobis.	2020-04-18	Liber_Primus_Regum
+1100000192	qui dixerunt: quid est quod pro delicto reddere debeamus ei? 	2020-04-18	Liber_Primus_Regum
+1100000193	responderuntque illi:iuxta numerum provinciarum philisthinorum quinque anos aureos facietis, et quinque mures aureos: quia plaga una fuit omnibus vobis, et satrapis vestris. 	2020-04-18	Liber_Primus_Regum
+1100000194	facietisque similitudines anorum vestrorum, et similitudines murium, qui demoliti sunt terram: et dabitis deo israel gloriam, si forte relevet manum suam a vobis, et a diis vestris, et a terra vestra.	2020-04-18	Liber_Primus_Regum
+1100000195	quare aggravatis corda vestra, sicut aggravavit aegyptus et pharao cor suum? 	2020-04-18	Liber_Primus_Regum
+1100000196	nonne postquam percussus est, tunc dimisit eos, et abierunt?	2020-04-18	Liber_Primus_Regum
+1100000197	nunc ergo arripite et facite plaustrum novum unum: et duas vaccas foetas, quibus non est impositum iugum, iungite in plaustro, et recludite vitulos earum domi.	2020-04-18	Liber_Primus_Regum
+1100000198	tolletisque arcam domini, et ponetis in plaustro, et vasa aurea quae exsolvistis ei pro delicto, ponetis in capsellam ad latus eius: et dimittite eam ut vadat.	2020-04-18	Liber_Primus_Regum
+1100000199	et aspicietis: et si quidem per viam finium suorum ascenderit contra bethsames, ipse fecit nobis hoc malum grande: sin autem, minime: sciemus quia nequaquam manus eius tetigit nos, sed casu accidit.	2020-04-18	Liber_Primus_Regum
+1100000200	fecerunt ergo illi hoc modo: et tollentes duas vaccas quae lactabant vitulos, iunxerunt ad plaustrum, vitulosque earum concluserunt domi.	2020-04-18	Liber_Primus_Regum
+1100000201	et posuerunt arcam dei super plaustrum, et capsellam quae habebat mures aureos et similitudines anorum.	2020-04-18	Liber_Primus_Regum
+1100000202	ibant autem in directum vaccae per viam quae ducit bethsames, et itinere uno gradiebantur, pergentes et mugientes: et non declinabant neque ad dextram neque ad sinistram: sed et satrapae philisthiim sequebantur usque ad terminos bethsames.	2020-04-18	Liber_Primus_Regum
+1100000203	porro bethsamitae metebant triticum in valle: et elevantes oculos suos, viderunt arcam, et gavisi sunt cum vidissent.	2020-04-18	Liber_Primus_Regum
+1100000204	et plaustrum venit in agrum iosue bethsamitae, et stetit ibi. 	2020-04-18	Liber_Primus_Regum
+1100000205	erat autem ibi lapis magnus, et conciderunt ligna plaustri, vaccasque imposuerunt super ea holocaustum domino.	2020-04-18	Liber_Primus_Regum
+1100000206	levitae autem deposuerunt arcam dei, et capsellam quae erat iuxta eam, in qua erant vasa aurea, et posuerunt super lapidem grandem. 	2020-04-18	Liber_Primus_Regum
+1100000207	viri autem bethsamitae obtulerunt holocausta, et immolaverunt victimas in die illa domino.	2020-04-18	Liber_Primus_Regum
+1100000208	et quinque satrapae philisthinorum viderunt, et reversi sunt in accaron in die illa.	2020-04-18	Liber_Primus_Regum
+1100000209	hi sunt autem ani aurei quos reddiderunt philisthiim pro delicto, domino: azotus unum, gaza unum, ascalon unum, geth unum, accaron unum:et mures aureos secundum numerum urbium philisthiim, quinque provinciarum, ab urbe murata usque ad villam quae erat absque muro, et usque ad abelmagnum, super quem posuerunt arcam domini, quae erat usque in illum diem in agro iosue bethsamitis.	2020-04-18	Liber_Primus_Regum
+1100000210	percussit autem de viris bethsamitibus, eo quod vidissent arcam domini: et percussit de populo septuaginta viros, et quinquaginta millia plebis. 	2020-04-18	Liber_Primus_Regum
+1100000211	luxitque populus, eo quod dominus percussisset plebem plaga magna.	2020-04-18	Liber_Primus_Regum
+1100000212	et dixerunt viri bethsamitae: quis poterit stare in conspectu domini dei sancti huius? 	2020-04-18	Liber_Primus_Regum
+1100000213	et ad quem ascendet a nobis?	2020-04-18	Liber_Primus_Regum
+1100000214	miseruntque nuntios ad habitatores cariathiarim, dicentes: reduxerunt philisthiim arcam domini: descendite, et reducite eam ad vos.	2020-04-18	Liber_Primus_Regum
+1100000215	caput 7	2020-04-18	Liber_Primus_Regum
+1100000216	venerunt ergo viri cariathiarim, et reduxerunt arcam domini, et intulerunt eam in domum abinadab in gabaa: eleazarum autem filium eius sanctificaverunt, ut custodiret arcam domini.	2020-04-18	Liber_Primus_Regum
+1100000217	et factum est, ex qua die mansit arca domini in cariathiarim, multiplicati sunt dies (erat quippe iam annus vigesimus), et requievit omnis domus israel post dominum.	2020-04-18	Liber_Primus_Regum
+1100000218	ait autem samuel ad universam domum israel, dicens: si in toto corde vestro revertimini ad dominum, auferte deos alienos de medio vestri, baalim et astaroth: et praeparate corda vestra domino, et servite ei soli, et eruet vos de manu philisthiim.	2020-04-18	Liber_Primus_Regum
+1100000219	abstulerunt ergo filii israel baalim et astaroth, et servierunt domino soli.	2020-04-18	Liber_Primus_Regum
+1100000220	dixit autem samuel: congregate universum israel in masphath, ut orem pro vobis dominum.	2020-04-18	Liber_Primus_Regum
+1100000221	et convenerunt in masphath: hauseruntque aquam, et effuderunt in conspectu domini: et ieiunaverunt in die illa atque dixerunt ibi: peccavimus domino. 	2020-04-18	Liber_Primus_Regum
+1100000222	iudicavitque samuel filios israel in masphath.	2020-04-18	Liber_Primus_Regum
+1100000223	et audierunt philisthiim quod congregati essent filii israel in masphath, et ascenderunt satrapae philisthinorum ad israel. 	2020-04-18	Liber_Primus_Regum
+1100000224	quod cum audissent filii israel, timuerunt a facie philisthinorum.	2020-04-18	Liber_Primus_Regum
+1100000225	dixeruntque ad samuelem: ne cesses pro nobis clamare ad dominum deum nostrum, ut salvet nos de manu philisthinorum.	2020-04-18	Liber_Primus_Regum
+1100000226	tulit autem samuel agnum lactentem unum, et obtulit illum holocaustum integrum domino: et clamavit samuel ad dominum pro israel, et exaudivit eum dominus.	2020-04-18	Liber_Primus_Regum
+1100000227	factum est autem, cum samuel offerret holocaustum, philisthiim iniere praelium contra israel: intonuit autem dominus fragore magno in die illa super philisthiim, et exterruit eos, et caesi sunt a facie israel.	2020-04-18	Liber_Primus_Regum
+1100000228	egressique viri israel de masphath, persecuti sunt philisthaeos, et percusserunt eos usque ad locum qui erat subter bethchar.	2020-04-18	Liber_Primus_Regum
+1100000229	tulit autem samuel lapidem unum, et posuit eum inter masphath et inter sen: et vocavit nomen loci illius, lapis adiutorii. 	2020-04-18	Liber_Primus_Regum
+1100000230	dixitque: hucusque auxiliatus est nobis dominus.	2020-04-18	Liber_Primus_Regum
+1100000231	et humiliati sunt philisthiim, nec apposuerunt ultra ut venirent in terminos israel. 	2020-04-18	Liber_Primus_Regum
+1100000232	facta est itaque manus domini super philisthaeos cunctis diebus samuelis.	2020-04-18	Liber_Primus_Regum
+1100000233	et redditae sunt urbes quas tulerant philisthiim ab israel, israeli, ab accaron usque geth, et terminos suos: liberavitque israel de manu philisthinorum, eratque pax inter israel et amorrhaeum.	2020-04-18	Liber_Primus_Regum
+1100000234	iudicabat quoque samuel israelem cunctis diebus vitae suae:et ibat per singulos annos circuiens bethel et galgala et masphath, et iudicabat israelem in supradictis locis.	2020-04-18	Liber_Primus_Regum
+1100000235	revertebaturque in ramatha: ibi enim erat domus eius, et ibi iudicabat israelem: aedificavit etiam ibi altare domino.	2020-04-18	Liber_Primus_Regum
+1100000236	caput 8	2020-04-18	Liber_Primus_Regum
+1100000237	factum est autem cum senuisset samuel, posuit filios suos iudices israel.	2020-04-18	Liber_Primus_Regum
+1100000238	fuitque nomen filii eius primogeniti ioel: et nomen secundi abia, iudicum in bersabee.	2020-04-18	Liber_Primus_Regum
+1100000239	et non ambulaverunt filii illius in viis eius: sed declinaverunt post avaritiam, acceperuntque munera, et perverterunt iudicium.	2020-04-18	Liber_Primus_Regum
+1100000240	congregati ergo universi maiores natu israel, venerunt ad samuelem in ramatha.	2020-04-18	Liber_Primus_Regum
+1100000241	dixeruntque ei: ecce tu senuisti, et filii tui non ambulant in viis tuis: constitue nobis regem, ut iudicet nos, sicut et universae habent nationes.	2020-04-18	Liber_Primus_Regum
+1100000242	displicuit sermo in oculis samuelis, eo quod dixissent: da nobis regem, ut iudicet nos. 	2020-04-18	Liber_Primus_Regum
+1100000243	et oravit samuel ad dominum.	2020-04-18	Liber_Primus_Regum
+1100000244	dixit autem dominus ad samuelem: audi vocem populi in omnibus quae loquuntur tibi: non enim te abiecerunt, sed me, ne regnem super eos.	2020-04-18	Liber_Primus_Regum
+1100000245	iuxta omnia opera sua quae fecerunt, a die qua eduxi eos de aegypto usque ad diem hanc: sicut dereliquerunt me, et servierunt diis alienis, sic faciunt etiam tibi.	2020-04-18	Liber_Primus_Regum
+1100000246	nunc ergo vocem eorum audi: verumtamen contestare eos, et praedic eis ius regis, qui regnaturus est super eos.	2020-04-18	Liber_Primus_Regum
+1100000247	dixit itaque samuel omnia verba domini ad populum, qui petierat a se regem.	2020-04-18	Liber_Primus_Regum
+1100000248	et ait: hoc erit ius regis, qui imperaturus est vobis: filios vestros tollet, et ponet in curribus suis: facietque sibi equites et praecursores quadrigarum suarum,et constituet sibi tribunos, et centuriones, et aratores agrorum suorum, et messores segetum, et fabros armorum et curruum suorum.	2020-04-18	Liber_Primus_Regum
+1100000249	filias quoque vestras faciet sibi unguentarias, et focarias, et panificas.	2020-04-18	Liber_Primus_Regum
+1100000250	agros quoque vestros, et vineas, et oliveta optima tollet, et dabit servis suis.	2020-04-18	Liber_Primus_Regum
+1100000251	sed et segetes vestras et vinearum reditus addecimabit, ut det eunuchis et famulis suis.	2020-04-18	Liber_Primus_Regum
+1100000252	servos etiam vestros, et ancillas, et iuvenes optimos, et asinos, auferet, et ponet in opere suo.	2020-04-18	Liber_Primus_Regum
+1100000253	greges quoque vestros addecimabit, vosque eritis ei servi.	2020-04-18	Liber_Primus_Regum
+1100000254	et clamabitis in die illa a facie regis vestri, quem elegistis vobis: et non exaudiet vos dominus in die illa, quia petistis vobis regem.	2020-04-18	Liber_Primus_Regum
+1100000255	noluit autem populus audire vocem samuelis, sed dixerunt: nequaquam: rex enim erit super nos,et erimus nos quoque sicut omnes gentes: et iudicabit nos rex noster, et egredietur ante nos, et pugnabit bella nostra pro nobis.	2020-04-18	Liber_Primus_Regum
+1100000256	et audivit samuel omnia verba populi, et locutus est ea in auribus domini.	2020-04-18	Liber_Primus_Regum
+1100000257	dixit autem dominus ad samuelem: audi vocem eorum, et constitue super eos regem. 	2020-04-18	Liber_Primus_Regum
+1100000258	et ait samuel ad viros israel: vadat unusquisque in civitatem suam.	2020-04-18	Liber_Primus_Regum
+1100000259	caput 9	2020-04-18	Liber_Primus_Regum
+1100000260	et erat vir de beniamin nomine cis, filius abiel, filii seror, filii bechorath, filii aphia, filii viri iemini, fortis robore.	2020-04-18	Liber_Primus_Regum
+1100000261	et erat ei filius vocabulo saul, electus et bonus: et non erat vir de filiis israel melior illo: ab humero et sursum eminebat super omnem populum.	2020-04-18	Liber_Primus_Regum
+1100000262	perierant autem asinae cis patris saul: et dixit cis ad saul filium suum: tolle tecum unum de pueris, et consurgens vade, et quaere asinas. 	2020-04-18	Liber_Primus_Regum
+1100000263	qui cum transissent per montem ephraimet per terram salisa, et non invenissent, transierunt etiam per terram salim, et non erant: sed et per terram iemini, et minime repererunt.	2020-04-18	Liber_Primus_Regum
+1100000264	cum autem venissent in terram suph, dixit saul ad puerum qui erat cum eo: veni et revertamur, ne forte dimiserit pater meus asinas, et sollicitus sit pro nobis.	2020-04-18	Liber_Primus_Regum
+1100000265	qui ait ei: ecce vir dei est in civitate hac, vir nobilis: omne quod loquitur, sine ambiguitate venit. 	2020-04-18	Liber_Primus_Regum
+1100000266	nunc ergo eamus illuc, si forte indicet nobis de via nostra, propter quam venimus.	2020-04-18	Liber_Primus_Regum
+1100000267	dixitque saul ad puerum suum: ecce ibimus: quid feremus ad virum dei? 	2020-04-18	Liber_Primus_Regum
+1100000268	panis defecit in sitarciis nostris, et sportulam non habemus ut demus homini dei, nec quidquam aliud.	2020-04-18	Liber_Primus_Regum
+1100000269	rursum puer respondit sauli, et ait: ecce inventa est in manu mea quarta pars stateris argenti: demus homini dei, ut indicet nobis viam nostram.(	2020-04-18	Liber_Primus_Regum
+1100000270	olim in israel sic loquebatur unusquisque vadens consulere deum: venite, et eamus ad videntem. 	2020-04-18	Liber_Primus_Regum
+1100000271	qui enim propheta dicitur hodie, vocabatur olim videns.)	2020-04-18	Liber_Primus_Regum
+1100000272	et dixit saul ad puerum suum: optimus sermo tuus. 	2020-04-18	Liber_Primus_Regum
+1100000273	veni, eamus. 	2020-04-18	Liber_Primus_Regum
+1100000274	et ierunt in civitatem in qua erat vir dei.	2020-04-18	Liber_Primus_Regum
+1100000275	cumque ascenderent clivum civitatis, invenerunt puellas egredientes ad hauriendam aquam, et dixerunt eis: num hic est videns?	2020-04-18	Liber_Primus_Regum
+1100000276	quae respondentes, dixerunt illis: hic est: ecce ante te, festina nunc: hodie enim venit in civitatem, quia sacrificium est hodie populi in excelso.	2020-04-18	Liber_Primus_Regum
+1100000277	ingredientes urbem, statim invenietis eum antequam ascendat excelsum ad vescendum, neque enim comesurus est populus donec ille veniat: quia ipse benedicit hostiae, et deinceps comedunt qui vocati sunt. 	2020-04-18	Liber_Primus_Regum
+1100000278	nunc ergo conscendite, quia hodie reperietis eum.	2020-04-18	Liber_Primus_Regum
+1100000279	et ascenderunt in civitatem. 	2020-04-18	Liber_Primus_Regum
+1100000280	cumque illi ambularent in medio urbis, apparuit samuel egrediens obviam eis, ut ascenderet in excelsum.	2020-04-18	Liber_Primus_Regum
+1100000281	dominus autem revelaverat auriculam samuelis ante unam diem quam veniret saul, dicens:hac ipsa hora quae nunc est, cras mittam virum ad te de terra beniamin, et unges eum ducem super populum meum israel: et salvabit populum meum de manu philisthinorum, quia respexi populum meum: venit enim clamor eorum ad me.	2020-04-18	Liber_Primus_Regum
+1100000282	cumque aspexisset samuel saulem, dominus dixit ei: ecce vir quem dixeram tibi: iste dominabitur populo meo.	2020-04-18	Liber_Primus_Regum
+1100000283	accessit autem saul ad samuelem in medio portae, et ait: indica, oro, mihi, ubi est domus videntis.	2020-04-18	Liber_Primus_Regum
+1100000284	et respondit samuel sauli, dicens: ego sum videns: ascende ante me in excelsum, ut comedatis mecum hodie, et dimittam te mane: et omnia quae sunt in corde tuo indicabo tibi.	2020-04-18	Liber_Primus_Regum
+1100000285	et de asinis quas nudiustertius perdidisti, ne sollicitus sis, quia inventae sunt. 	2020-04-18	Liber_Primus_Regum
+1100000286	et cuius erunt optima quaeque israel? 	2020-04-18	Liber_Primus_Regum
+1100000287	nonne tibi et omni domui patris tui?	2020-04-18	Liber_Primus_Regum
+1100000288	respondens autem saul, ait: numquid non filius iemini ego sum de minima tribu israel, et cognatio mea novissima inter omnes familias de tribu beniamin? 	2020-04-18	Liber_Primus_Regum
+1100000289	quare ergo locutus es mihi sermonem istum?	2020-04-18	Liber_Primus_Regum
+1100000290	assumens itaque samuel saulem et puerum eius, introduxit eos in triclinium, et dedit eis locum in capite eorum qui fuerant invitati: erant enim quasi triginta viri.	2020-04-18	Liber_Primus_Regum
+1100000291	dixitque samuel coco: da partem quam dedi tibi, et praecepi ut reponeres seorsum apud te.	2020-04-18	Liber_Primus_Regum
+1100000292	levavit autem cocus armum, et posuit ante saul. 	2020-04-18	Liber_Primus_Regum
+1100000293	dixitque samuel: ecce quod remansit: pone ante te, et comede, quia de industria servatum est tibi quando populum vocavi. 	2020-04-18	Liber_Primus_Regum
+1100000294	et comedit saul cum samuele in die illa.	2020-04-18	Liber_Primus_Regum
+1100000295	et descenderunt de excelso in oppidum, et locutus est cum saule in solario: stravitque saul in solario, et dormivit.	2020-04-18	Liber_Primus_Regum
+1100000296	cumque mane surrexissent, et iam elucesceret, vocavit samuel saulem in solario, dicens: surge, et dimittam te. 	2020-04-18	Liber_Primus_Regum
+1100000297	et surrexit saul: egressique sunt ambo, ipse videlicet, et samuel.	2020-04-18	Liber_Primus_Regum
+1100000298	cumque descenderent in extrema parte civitatis, samuel dixit ad saul: dic puero ut antecedat nos et transeat: tu autem subsiste paulisper, ut indicem tibi verbum domini.	2020-04-18	Liber_Primus_Regum
+1100000299	caput 10	2020-04-18	Liber_Primus_Regum
+1100000300	tulit autem samuel lenticulam olei, et effudit super caput eius: et deosculatus est eum, et ait: ecce unxit te dominus super haereditatem suam in principem, et liberabis populum suum de manibus inimicorum eius qui in circuitu eius sunt. 	2020-04-18	Liber_Primus_Regum
+1100000301	et hoc tibi signum, quia unxit te deus in principem.	2020-04-18	Liber_Primus_Regum
+1100000302	cum abieris hodie a me, invenies duos viros iuxta sepulchrum rachel in finibus beniamin, in meridie: dicentque tibi: inventae sunt asinae ad quas ieras perquirendas: et intermissis pater tuus asinis, sollicitus est pro vobis, et dicit: quid faciam de filio meo?	2020-04-18	Liber_Primus_Regum
+1100000303	cumque abieris inde, et ultra transieris, et veneris ad quercum thabor, invenient te ibi tres viri ascendentes ad deum in bethel, unus portans tres haedos, et alius tres tortas panis, et alius portans lagenam vini.	2020-04-18	Liber_Primus_Regum
+1100000304	cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum.	2020-04-18	Liber_Primus_Regum
+1100000305	post haec venies in collem dei, ubi est statio philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium, et tympanum, et tibiam, et citharam, ipsosque prophetantes.	2020-04-18	Liber_Primus_Regum
+1100000306	et insiliet in te spiritus domini, et prophetabis cum eis, et mutaberis in virum alium.	2020-04-18	Liber_Primus_Regum
+1100000307	quando ergo evenerint signa haec omnia tibi, fac quaecumque invenerit manus tua, quia dominus tecum est.	2020-04-18	Liber_Primus_Regum
+1100000308	et descendes ante me in galgala (ego quippe descendam ad te), ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias.	2020-04-18	Liber_Primus_Regum
+1100000309	itaque cum avertisset humerum suum ut abiret a samuele, immutavit ei deus cor aliud, et venerunt omnia signa haec in die illa.	2020-04-18	Liber_Primus_Regum
+1100000310	veneruntque ad praedictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum spiritus domini, et prophetavit in medio eorum.	2020-04-18	Liber_Primus_Regum
+1100000311	videntes autem omnes qui noverant eum heri et nudiustertius quod esset cum prophetis, et prophetaret, dixerunt ad invicem: quaenam res accidit filio cis? 	2020-04-18	Liber_Primus_Regum
+1100000312	num et saul inter prophetas?	2020-04-18	Liber_Primus_Regum
+1100000313	responditque alius ad alterum, dicens: et quis pater eorum? 	2020-04-18	Liber_Primus_Regum
+1100000314	propterea versum est in proverbium: num et saul inter prophetas?	2020-04-18	Liber_Primus_Regum
+1100000315	cessavit autem prophetare, et venit ad excelsum.	2020-04-18	Liber_Primus_Regum
+1100000316	dixitque patruus saul ad eum, et ad puerum eius: quo abistis? 	2020-04-18	Liber_Primus_Regum
+1100000317	qui responderunt: quaerere asinas: quas cum non reperissemus, venimus ad samuelem.	2020-04-18	Liber_Primus_Regum
+1100000318	et dixit ei patruus suus: indica mihi quid dixerit tibi samuel.	2020-04-18	Liber_Primus_Regum
+1100000319	et ait saul ad patruum suum: indicavit nobis quia inventae essent asinae. 	2020-04-18	Liber_Primus_Regum
+1100000320	de sermone autem regni non indicavit ei quem locutus fuerat ei samuel.	2020-04-18	Liber_Primus_Regum
+1100000321	et convocavit samuel populum ad dominum in maspha:et ait ad filios israel: haec dicit dominus deus israel: ego eduxi israel de aegypto, et erui vos de manu aegyptiorum, et de manu omnium regum qui affligebant vos.	2020-04-18	Liber_Primus_Regum
+1100000322	vos autem hodie proiecistis deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: nequaquam: sed regem constitue super nos. 	2020-04-18	Liber_Primus_Regum
+1100000323	nunc ergo state coram domino per tribus vestras, et per familias.	2020-04-18	Liber_Primus_Regum
+1100000324	et applicuit samuel omnes tribus israel, et cecidit sors tribus beniamin.	2020-04-18	Liber_Primus_Regum
+1100000325	et applicuit tribum beniamin et cognationes eius, et cecidit cognatio metri: et pervenit usque ad saul filium cis. 	2020-04-18	Liber_Primus_Regum
+1100000326	quaesierunt ergo eum, et non est inventus.	2020-04-18	Liber_Primus_Regum
+1100000327	et consuluerunt post haec dominum utrumnam venturus esset illuc. 	2020-04-18	Liber_Primus_Regum
+1100000328	responditque dominus: ecce absconditus est domi.	2020-04-18	Liber_Primus_Regum
+1100000329	cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum.	2020-04-18	Liber_Primus_Regum
+1100000330	et ait samuel ad omnem populum: certe videtis quem elegit dominus, quoniam non sit similis illi in omni populo. 	2020-04-18	Liber_Primus_Regum
+1100000331	et clamavit omnis populus, et ait: vivat rex.	2020-04-18	Liber_Primus_Regum
+1100000332	locutus est autem samuel ad populum legem regni, et scripsit in libro, et reposuit coram domino: et dimisit samuel omnem populum, singulos in domum suam.	2020-04-18	Liber_Primus_Regum
+1100000333	sed et saul abiit in domum suam in gabaa: et abiit cum eo pars exercitus, quorum tetigerat deus corda.	2020-04-18	Liber_Primus_Regum
+1100000334	filii vero belial dixerunt: num salvare nos poterit iste? 	2020-04-18	Liber_Primus_Regum
+1100000335	et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire.	2020-04-18	Liber_Primus_Regum
+1100000336	caput 11	2020-04-18	Liber_Primus_Regum
+1100000337	et factum est quasi post mensem, ascendit naas ammonites, et pugnare coepit adversum iabes galaad. 	2020-04-18	Liber_Primus_Regum
+1100000338	dixeruntque omnes viri iabes ad naas: habeto nos foederatos, et serviemus tibi.	2020-04-18	Liber_Primus_Regum
+1100000339	et respondit ad eos naas ammonites: in hoc feriam vobiscum foedus, ut eruam omnium vestrum oculos dextros, ponamque vos opprobrium in universo israel.	2020-04-18	Liber_Primus_Regum
+1100000340	et dixerunt ad eum seniores iabes: concede nobis septem dies, ut mittamus nuntios ad universos terminos israel, et si non fuerit qui defendat nos, egrediemur ad te.	2020-04-18	Liber_Primus_Regum
+1100000341	venerunt ergo nuntii in gabaa saulis: et locuti sunt verba haec, audiente populo: et levavit omnis populus vocem suam, et flevit.	2020-04-18	Liber_Primus_Regum
+1100000342	et ecce saul veniebat, sequens boves de agro, et ait: quid habet populus quod plorat? 	2020-04-18	Liber_Primus_Regum
+1100000343	et narraverunt ei verba virorum iabes.	2020-04-18	Liber_Primus_Regum
+1100000344	et insilivit spiritus domini in saul cum audisset verba haec, et iratus est furor eius nimis.	2020-04-18	Liber_Primus_Regum
+1100000345	et assumens utrumque bovem, concidit in frustra, misitque in omnes terminos israel per manum nuntiorum, dicens: quicumque non exierit, et secutus fuerit saul et samuel, sic fiet bobus eius. 	2020-04-18	Liber_Primus_Regum
+1100000346	invasit ergo timor domini populum, et egressi sunt quasi vir unus.	2020-04-18	Liber_Primus_Regum
+1100000347	et recensuit eos in bezech: fueruntque filiorum israel trecenta millia, virorum autem iuda triginta millia.	2020-04-18	Liber_Primus_Regum
+1100000348	et dixerunt nuntiis qui venerant: sic dicetis viris qui sunt in iabes galaad: cras erit vobis salus, cum incaluerit sol. 	2020-04-18	Liber_Primus_Regum
+1100000349	venerunt ergo nuntii, et annuntiaverunt viris iabes: qui laetati sunt.	2020-04-18	Liber_Primus_Regum
+1100000350	et dixerunt: mane exibimus ad vos: et facietis nobis omne quod placuerit vobis.	2020-04-18	Liber_Primus_Regum
+1100000351	et factum est, cum dies crastinus venisset, constituit saul populum in tres partes: et ingressus est media castra in vigilia matutina, et percussit ammon usque dum incalesceret dies: reliqui autem dispersi sunt, ita ut non relinquerentur in eis duo pariter.	2020-04-18	Liber_Primus_Regum
+1100000352	et ait populus ad samuelem: quis est iste qui dixit: saul num regnabit super nos? 	2020-04-18	Liber_Primus_Regum
+1100000353	date viros, et interficiemus eos.	2020-04-18	Liber_Primus_Regum
+1100000354	et ait saul: non occidetur quisquam in die hac, quia hodie fecit dominus salutem in israel.	2020-04-18	Liber_Primus_Regum
+1100000355	dixit autem samuel ad populum: venite, et eamus in galgala, et innovemus ibi regnum.	2020-04-18	Liber_Primus_Regum
+1100000356	et perrexit omnis populus in galgala, et fecerunt ibi regem saul coram domino in galgala, et immolaverunt ibi victimas pacificas coram domino. 	2020-04-18	Liber_Primus_Regum
+1100000357	et laetatus est ibi saul, et cuncti viri israel nimis.	2020-04-18	Liber_Primus_Regum
+1100000358	caput 12	2020-04-18	Liber_Primus_Regum
+1100000359	dixit autem samuel ad universum israel: ecce audivi vocem vestram iuxta omnia quae locuti estis ad me, et constitui super vos regem.	2020-04-18	Liber_Primus_Regum
+1100000360	et nunc rex graditur ante vos: ego autem senui, et incanui: porro filii mei vobiscum sunt: itaque conversatus coram vobis ab adolescentia mea usque ad hanc diem, ecce praesto sum.	2020-04-18	Liber_Primus_Regum
+1100000361	loquimini de me coram domino, et coram christo eius, utrum bovem cuiusquam tulerim, aut asinum: si quempiam calumniatus sum, si oppressi aliquem, si de manu cuiusquam munus accepi: et contemnam illud hodie, restituamque vobis.	2020-04-18	Liber_Primus_Regum
+1100000362	et dixerunt: non es calumniatus nos, neque oppressisti, neque tulisti de manu alicuius quippiam.	2020-04-18	Liber_Primus_Regum
+1100000363	dixitque ad eos: testis est dominus adversum vos, et testis christus eius in die hac, quia non inveneritis in manu mea quippiam. 	2020-04-18	Liber_Primus_Regum
+1100000364	et dixerunt: testis.	2020-04-18	Liber_Primus_Regum
+1100000365	et ait samuel ad populum: dominus, qui fecit moysen et aaron, et eduxit patres nostros de terra aegypti.	2020-04-18	Liber_Primus_Regum
+1100000366	nunc ergo state, ut iudicio contendam adversum vos coram domino de omnibus misericordiis domini quas fecit vobiscum et cum patribus vestris:quomodo iacob ingressus est in aegyptum, et clamaverunt patres vestri ad dominum: et misit dominus moysen et aaron, et eduxit patres vestros de aegypto, et collocavit eos in loco hoc.	2020-04-18	Liber_Primus_Regum
+1100000367	qui obliti sunt domini dei sui, et tradidit eos in manu sisarae magistri militiae hasor, et in manu philisthinorum, et in manu regis moab: et pugnaverunt adversum eos.	2020-04-18	Liber_Primus_Regum
+1100000368	postea autem clamaverunt ad dominum, et dixerunt: peccavimus, quia dereliquimus dominum, et servivimus baalim et astaroth: nunc ergo erue nos de manu inimicorum nostrorum, et serviemus tibi.	2020-04-18	Liber_Primus_Regum
+1100000369	et misit dominus ierobaal, et badan, et iephte, et samuel, et eruit vos de manu inimicorum vestrorum per circuitum, et habitastis confidenter.	2020-04-18	Liber_Primus_Regum
+1100000370	videntes autem quod naas rex filiorum ammon venisset adversum vos, dixistis mihi: nequaquam, sed rex imperabit nobis: cum dominus deus vester regnaret in vobis.	2020-04-18	Liber_Primus_Regum
+1100000371	nunc ergo praesto est rex vester, quem elegistis et petistis: ecce dedit vobis dominus regem.	2020-04-18	Liber_Primus_Regum
+1100000372	si timueritis dominum, et servieritis ei, et audieritis vocem eius, et non exasperaveritis os domini, eritis et vos, et rex qui imperat vobis, sequentes dominum deum vestrum:si autem non audieritis vocem domini, sed exasperaveritis sermones eius, erit manus domini super vos, et super patres vestros.	2020-04-18	Liber_Primus_Regum
+1100000373	sed et nunc state, et videte rem istam grandem quam facturus est dominus in conspectu vestro.	2020-04-18	Liber_Primus_Regum
+1100000374	numquid non messis tritici est hodie? 	2020-04-18	Liber_Primus_Regum
+1100000375	invocabo dominum, et dabit voces et pluvias: et scietis, et videbitis, quia grande malum feceritis vobis in conspectu domini, petentes super vos regem.	2020-04-18	Liber_Primus_Regum
+1100000376	et clamavit samuel ad dominum, et dedit dominus voces et pluvias in illa die.	2020-04-18	Liber_Primus_Regum
+1100000377	et timuit omnis populus nimis dominum et samuelem, et dixit universus populus ad samuelem: ora pro servis tuis ad dominum deum tuum, ut non moriamur: addidimus enim universis peccatis nostris malum, ut peteremus nobis regem.	2020-04-18	Liber_Primus_Regum
+1100000378	dixit autem samuel ad populum: nolite timere: vos fecistis universum malum hoc, verumtamen nolite recedere a tergo domini, sed servite domino in omni corde vestro.	2020-04-18	Liber_Primus_Regum
+1100000379	et nolite declinare post vana, quae non proderunt vobis, neque eruent vos, quia vana sunt.	2020-04-18	Liber_Primus_Regum
+1100000380	et non derelinquet dominus populum suum propter nomen suum magnum: quia iuravit dominus facere vos sibi populum.	2020-04-18	Liber_Primus_Regum
+1100000381	absit autem a me hoc peccatum in dominum, ut cessem orare pro vobis, et docebo vos viam bonam et rectam.	2020-04-18	Liber_Primus_Regum
+1100000382	igitur timete dominum, et servite ei in veritate, et ex toto corde vestro: vidistis enim magnifica quae in vobis gesserit.	2020-04-18	Liber_Primus_Regum
+1100000383	quod si perseveraveritis in malitia, et vos et rex vester pariter peribitis.	2020-04-18	Liber_Primus_Regum
+1100000384	caput 13	2020-04-18	Liber_Primus_Regum
+1100000385	filius unius anni erat saul cum regnare coepisset: duobus autem annis regnavit super israel.	2020-04-18	Liber_Primus_Regum
+1100000386	et elegit sibi saul tria millia de israel: et erant cum saul duo millia in machmas, et in monte bethel: mille autem cum ionatha in gabaa beniamin: porro ceterum populum remisit unumquemque in tabernacula sua.	2020-04-18	Liber_Primus_Regum
+1100000387	et percussit ionathas stationem philisthinorum quae erat in gabaa. 	2020-04-18	Liber_Primus_Regum
+1100000388	quod cum audissent philisthiim, saul cecinit buccina in omni terra, dicens: audiant hebraei.	2020-04-18	Liber_Primus_Regum
+1100000389	et universus israel audivit huiuscemodi famam: percussit saul stationem philisthinorum, et erexit se israel adversus philisthiim. 	2020-04-18	Liber_Primus_Regum
+1100000390	clamavit ergo populus post saul in galgala.	2020-04-18	Liber_Primus_Regum
+1100000391	et philisthiim congregati sunt ad praeliandum contra israel, triginta millia curruum, et sex millia equitum, et reliquum vulgus, sicut arena quae est in littore maris plurima. 	2020-04-18	Liber_Primus_Regum
+1100000392	et ascendentes castrametati sunt in machmas ad orientem bethaven.	2020-04-18	Liber_Primus_Regum
+1100000393	quod cum vidissent viri israel se in arcto positos (afflictus enim erat populus), absconderunt se in speluncis, et in abditis, in petris quoque, et in antris, et in cisternis.	2020-04-18	Liber_Primus_Regum
+1100000394	hebraei autem transierunt iordanem in terram gad et galaad.	2020-04-18	Liber_Primus_Regum
+1100000395	cumque adhuc esset saul in galgala, universus populus perterritus est qui sequebatur eum.	2020-04-18	Liber_Primus_Regum
+1100000396	et expectavit septem diebus iuxta placitum samuelis, et non venit samuel in galgala, dilapsusque est populus ab eo.	2020-04-18	Liber_Primus_Regum
+1100000397	ait ergo saul: afferte mihi holocaustum et pacifica. 	2020-04-18	Liber_Primus_Regum
+1100000398	et obtulit holocaustum.	2020-04-18	Liber_Primus_Regum
+1100000399	cumque complesset offerens holocaustum, ecce samuel veniebat: et egressus est saul obviam ei ut salutaret eum.	2020-04-18	Liber_Primus_Regum
+1100000400	locutusque est ad eum samuel: quid fecisti? 	2020-04-18	Liber_Primus_Regum
+1100000401	respondit saul: quia vidi quod populus dilaberetur a me, et tu non veneras iuxta placitos dies, porro philisthiim congregati fuerant in machmas,dixi: nunc descendent philisthiim ad me in galgala, et faciem domini non placavi. 	2020-04-18	Liber_Primus_Regum
+1100000402	necessitate compulsus, obtuli holocaustum.	2020-04-18	Liber_Primus_Regum
+1100000403	dixitque samuel ad saul: stulte egisti, nec custodisti mandata domini dei tui quae praecepit tibi. 	2020-04-18	Liber_Primus_Regum
+1100000404	quod si non fecisses, iam nunc praeparasset dominus regnum tuum super israel in sempiternum:sed nequaquam regnum tuum ultra consurget. 	2020-04-18	Liber_Primus_Regum
+1100000405	quaesivit dominus sibi virum iuxta cor suum: et praecepit ei dominus ut esset dux super populum suum, eo quod non servaveris quae praecepit dominus.	2020-04-18	Liber_Primus_Regum
+1100000406	surrexit autem samuel, et ascendit de galgalis in gabaa beniamin. 	2020-04-18	Liber_Primus_Regum
+1100000407	et reliqui populi ascenderunt post saul obviam populo, qui expugnabant eos venientes de galgala in gabaa, in colle beniamin. 	2020-04-18	Liber_Primus_Regum
+1100000408	et recensuit saul populum qui inventi fuerant cum eo, quasi sexcentos viros.	2020-04-18	Liber_Primus_Regum
+1100000409	et saul et ionathas filius eius, populusque qui inventus fuerat cum eis, erat in gabaa beniamin: porro philisthiim consederant in machmas.	2020-04-18	Liber_Primus_Regum
+1100000410	et egressi sunt ad praedandum de castris philisthinorum tres cunei. 	2020-04-18	Liber_Primus_Regum
+1100000411	unus cuneus pergebat contra viam ephra ad terram sual:porro alius ingrediebatur per viam beth-horon: tertius autem verterat se ad iter termini imminentis valli seboim contra desertum.	2020-04-18	Liber_Primus_Regum
+1100000412	porro faber ferrarius non inveniebatur in omni terra israel: caverant enim philisthiim, ne forte facerent hebraei gladium aut lanceam.	2020-04-18	Liber_Primus_Regum
+1100000413	descendebat ergo omnis israel ad philisthiim, ut exacueret unusquisque vomerem suum, et ligonem, et securim, et sarculum.	2020-04-18	Liber_Primus_Regum
+1100000414	retusae itaque erant acies vomerum, et ligonum, et tridentum, et securium, usque ad stimulum corrigendum.	2020-04-18	Liber_Primus_Regum
+1100000415	cumque venisset dies praelii, non est inventus ensis et lancea in manu totius populi qui erat cum saule et ionatha, excepto saul et ionatha filio eius.	2020-04-18	Liber_Primus_Regum
+1100000416	egressa est autem statio philisthiim, ut transcenderet in machmas.	2020-04-18	Liber_Primus_Regum
+1100000417	caput 14	2020-04-18	Liber_Primus_Regum
+1100000418	et accidit quadam die ut diceret ionathas filius saul ad adolescentem armigerum suum: veni, et transeamus ad stationem philisthinorum, quae est trans locum illum. 	2020-04-18	Liber_Primus_Regum
+1100000419	patri autem suo hoc ipsum non indicavit.	2020-04-18	Liber_Primus_Regum
+1100000420	porro saul morabatur in extrema parte gabaa sub malogranato, quae erat in magron: et erat populus cum eo quasi sexcentorum virorum.	2020-04-18	Liber_Primus_Regum
+1100000421	et achias filius achitob fratris ichabod filii phinees, qui ortus fuerat ex heli sacerdote domini in silo, portabat ephod. 	2020-04-18	Liber_Primus_Regum
+1100000422	sed et populus ignorabat quo isset ionathas.	2020-04-18	Liber_Primus_Regum
+1100000423	erant autem inter ascensus per quos nitebatur ionathas transire ad stationem philisthinorum, eminentes petrae ex utraque parte, et quasi in modum dentium scopuli hinc et inde praerupti: nomen uni boses, et nomen alteri sene:unus scopulus prominens ad aquilonem ex adverso machmas, et alter ad meridiem contra gabaa.	2020-04-18	Liber_Primus_Regum
+1100000424	dixit autem ionathas ad adolescentem armigerum suum: veni, transeamus ad stationem incircumcisorum horum, si forte faciat dominus pro nobis: quia non est domino difficile salvare, vel in multis, vel in paucis.	2020-04-18	Liber_Primus_Regum
+1100000425	dixitque ei armiger suus: fac omnia quae placent animo tuo: perge quo cupis, et ero tecum ubicumque volueris.	2020-04-18	Liber_Primus_Regum
+1100000426	et ait ionathas: ecce nos transimus ad viros istos. 	2020-04-18	Liber_Primus_Regum
+1100000427	cumque apparuerimus eis,si taliter locuti fuerint ad nos: manete donec veniamus ad vos: stemus in loco nostro, nec ascendamus ad eos.	2020-04-18	Liber_Primus_Regum
+1100000428	si autem dixerint: ascendite ad nos: ascendamus, quia tradidit eos dominus in manibus nostris: hoc erit nobis signum.	2020-04-18	Liber_Primus_Regum
+1100000429	apparuit igitur uterque stationi philisthinorum: dixeruntque philisthiim: en hebraei egrediuntur de cavernis in quibus absconditi fuerant.	2020-04-18	Liber_Primus_Regum
+1100000430	et locuti sunt viri de statione ad ionathan et ad armigerum eius, dixeruntque: ascendite ad nos, et ostendemus vobis rem. 	2020-04-18	Liber_Primus_Regum
+1100000431	et ait ionathas ad armigerum suum: ascendamus: sequere me: tradidit enim dominus eos in manus israel.	2020-04-18	Liber_Primus_Regum
+1100000432	ascendit autem ionathas manibus et pedibus reptans, et armiger eius post eum. 	2020-04-18	Liber_Primus_Regum
+1100000433	itaque alii cadebant ante ionathan, alios armiger eius interficiebat sequens eum.	2020-04-18	Liber_Primus_Regum
+1100000434	et facta est plaga prima qua percussit ionathas et armiger eius, quasi viginti virorum in media parte iugeri quam par boum in die arare consuevit.	2020-04-18	Liber_Primus_Regum
+1100000435	et factum est miraculum in castris per agros: sed et omnis populus stationis eorum qui ierant ad praedandum, obstupuit, et conturbata est terra: et accidit quasi miraculum a deo.	2020-04-18	Liber_Primus_Regum
+1100000436	et respexerunt speculatores saul qui erant in gabaa beniamin, et ecce multitudo prostrata, et huc illucque diffugiens.	2020-04-18	Liber_Primus_Regum
+1100000437	et ait saul populo qui erat cum eo: requirite, et videte quis abierit ex nobis. 	2020-04-18	Liber_Primus_Regum
+1100000438	cumque requisissent, repertum est non adesse ionathan et armigerum eius.	2020-04-18	Liber_Primus_Regum
+1100000439	et ait saul ad achiam: applica arcam dei. (	2020-04-18	Liber_Primus_Regum
+1100000440	erat enim ibi arca dei in die illa cum filiis israel.)	2020-04-18	Liber_Primus_Regum
+1100000441	cumque loqueretur saul ad sacerdotem, tumultus magnus exortus est in castris philisthinorum: crescebatque paulatim, et clarius resonabat. 	2020-04-18	Liber_Primus_Regum
+1100000442	et ait saul ad sacerdotem: contrahe manum tuam.	2020-04-18	Liber_Primus_Regum
+1100000443	conclamavit ergo saul, et omnis populus qui erat cum eo, et venerunt usque ad locum certaminis: et ecce versus fuerat gladius uniuscuiusque ad proximum suum, et caedes magna nimis.	2020-04-18	Liber_Primus_Regum
+1100000444	sed et hebraei qui fuerant cum philisthiim heri et nudiustertius, ascenderantque cum eis in castris, reversi sunt ut essent cum israel qui erant cum saul et ionatha.	2020-04-18	Liber_Primus_Regum
+1100000445	omnes quoque israelitae qui se absconderant in monte ephraim, audientes quod fugissent philisthaei, sociaverunt se cum suis in praelio. 	2020-04-18	Liber_Primus_Regum
+1100000446	et erant cum saul quasi decem millia virorum.	2020-04-18	Liber_Primus_Regum
+1100000447	et salvavit dominus in die illa israel: pugna autem pervenit usque ad bethaven.	2020-04-18	Liber_Primus_Regum
+1100000448	et viri israel sociati sunt sibi in die illa: adiuravit autem saul populum, dicens: maledictus vir qui comederit panem usque ad vesperam, donec ulciscar de inimicis meis. 	2020-04-18	Liber_Primus_Regum
+1100000449	et non manducavit universus populus panem:omneque terrae vulgus venit in saltum, in quo erat mel super faciem agri.	2020-04-18	Liber_Primus_Regum
+1100000450	ingressus est itaque populus saltum, et apparuit fluens mel, nullusque applicuit manum ad os suum: timebat enim populus iuramentum.	2020-04-18	Liber_Primus_Regum
+1100000451	porro ionathas non audierat cum adiuraret pater eius populum: extenditque summitatem virgae quam habebat in manu, et intinxit in favum mellis: et convertit manum suam ad os suum, et illuminati sunt oculi eius.	2020-04-18	Liber_Primus_Regum
+1100000452	respondensque unus de populo, ait: iureiurando constrinxit pater tuus populum, dicens: maledictus vir qui comederit panem hodie. (	2020-04-18	Liber_Primus_Regum
+1100000453	defecerat autem populus.)	2020-04-18	Liber_Primus_Regum
+1100000454	dixitque ionathas: turbavit pater meus terram: vidistis ipsi quia illuminati sunt oculi mei, eo quod gustaverim paululum de melle isto:quanto magis si comedisset populus de praeda inimicorum suorum, quam reperit? 	2020-04-18	Liber_Primus_Regum
+1100000455	nonne maior plaga facta fuisset in philisthiim?	2020-04-18	Liber_Primus_Regum
+1100000456	percusserunt ergo in die illa philisthaeos a machmis usque in aialon.	2020-04-18	Liber_Primus_Regum
+1100000457	defatigatus est autem populus nimis:et versus ad praedam tulit oves, et boves, et vitulos, et mactaverunt in terra: comeditque populus cum sanguine.	2020-04-18	Liber_Primus_Regum
+1100000458	nuntiaverunt autem sauli dicentes quod populus peccasset domino, comedens cum sanguine. 	2020-04-18	Liber_Primus_Regum
+1100000459	qui ait: praevaricati estis: volvite ad me iam nunc saxum grande.	2020-04-18	Liber_Primus_Regum
+1100000460	et dixit saul: dispergimini in vulgus, et dicite eis ut adducat ad me unusquisque bovem suum et arietem, et occidite super istud, et vescimini, et non peccabitis domino comedentes cum sanguine. 	2020-04-18	Liber_Primus_Regum
+1100000461	adduxit itaque omnis populus unusquisque bovem in manu sua usque ad noctem: et occiderunt ibi.	2020-04-18	Liber_Primus_Regum
+1100000462	aedificavit autem saul altare domino, tuncque primum coepit aedificare altare domino.	2020-04-18	Liber_Primus_Regum
+1100000463	et dixit saul: irruamus super philisthaeos nocte, et vastemus eos usque dum illucescat mane, nec relinquamus ex eis virum. 	2020-04-18	Liber_Primus_Regum
+1100000464	dixitque populus: omne quod bonum videtur in oculis tuis, fac. 	2020-04-18	Liber_Primus_Regum
+1100000465	et ait sacerdos: accedamus huc ad deum.	2020-04-18	Liber_Primus_Regum
+1100000466	et consuluit saul dominum: num persequar philisthiim? 	2020-04-18	Liber_Primus_Regum
+1100000467	si trades eos in manus israel? 	2020-04-18	Liber_Primus_Regum
+1100000468	et non respondit ei in die illa.	2020-04-18	Liber_Primus_Regum
+1100000469	dixitque saul: applicate huc universos angulos populi: et scitote, et videte per quem acciderit peccatum hoc hodie.	2020-04-18	Liber_Primus_Regum
+1100000470	vivit dominus salvator israel, quia si per ionathan filium meum factum est, absque retractione morietur. 	2020-04-18	Liber_Primus_Regum
+1100000471	ad quod nullus contradixit ei de omni populo.	2020-04-18	Liber_Primus_Regum
+1100000472	et ait ad universum israel: separamini vos in partem unam, et ego cum ionatha filio meo ero in parte altera. 	2020-04-18	Liber_Primus_Regum
+1100000473	responditque populus ad saul: quod bonum videtur in oculis tuis, fac.	2020-04-18	Liber_Primus_Regum
+1100000474	et dixit saul ad dominum deum israel: domine deus israel, da indicium: quid est quod non responderis servo tuo hodie? 	2020-04-18	Liber_Primus_Regum
+1100000475	si in me, aut in ionatha filio meo, est iniquitas haec, da ostensionem: aut si haec iniquitas est in populo tuo, da sanctitatem. 	2020-04-18	Liber_Primus_Regum
+1100000476	et deprehensus est ionathas et saul: populus autem exivit.	2020-04-18	Liber_Primus_Regum
+1100000477	et ait saul: mittite sortem inter me et inter ionathan filium meum. 	2020-04-18	Liber_Primus_Regum
+1100000478	et captus est ionathas.	2020-04-18	Liber_Primus_Regum
+1100000479	dixit autem saul ad ionathan: indica mihi quid feceris. 	2020-04-18	Liber_Primus_Regum
+1100000480	et indicavit ei ionathas, et ait: gustans gustavi in summitate virgae quae erat in manu mea, paululum mellis, et ecce ego morior.	2020-04-18	Liber_Primus_Regum
+1100000481	et ait saul: haec faciat mihi deus, et haec addat, quia morte morieris, ionatha.	2020-04-18	Liber_Primus_Regum
+1100000482	dixitque populus ad saul: ergone ionathas morietur, qui fecit salutem hanc magnam in israel? 	2020-04-18	Liber_Primus_Regum
+1100000483	hoc nefas est: vivit dominus, si ceciderit capillus de capite eius in terram, quia cum deo operatus est hodie. 	2020-04-18	Liber_Primus_Regum
+1100000484	liberavit ergo populus ionathan, ut non moreretur.	2020-04-18	Liber_Primus_Regum
+1100000485	recessitque saul, nec persecutus est philisthiim: porro philisthiim abierunt in loca sua.	2020-04-18	Liber_Primus_Regum
+1100000486	et saul, confirmato regno super israel, pugnabat per circuitum adversum omnes inimicos eius, contra moab, et filios ammon, et edom, et reges soba, et philisthaeos: et quocumque se verterat, superabat.	2020-04-18	Liber_Primus_Regum
+1100000487	congregatoque exercitu, percussit amalec, et eruit israel de manu vastatorum eius.	2020-04-18	Liber_Primus_Regum
+1100000488	fuerunt autem filii saul, ionathas, et iessui, et melchisua: et nomina duarum filiarum eius, nomen primogenitae merob, et nomen minoris michol.	2020-04-18	Liber_Primus_Regum
+1100000489	et nomen uxoris saul achinoam filia achimaas: et nomen principis militiae eius abner filius ner, patruelis saul.	2020-04-18	Liber_Primus_Regum
+1100000490	porro cis fuit pater saul, et ner pater abner, filius abiel.	2020-04-18	Liber_Primus_Regum
+1100000491	erat autem bellum potens adversum philisthaeos omnibus diebus saul. 	2020-04-18	Liber_Primus_Regum
+1100000492	nam quemcumque viderat saul virum fortem, et aptum ad praelium, sociabat eum sibi.	2020-04-18	Liber_Primus_Regum
+1100000493	caput 15	2020-04-18	Liber_Primus_Regum
+1100000494	et dixit samuel ad saul: me misit dominus ut ungerem te in regem super populum eius israel: nunc ergo audi vocem domini.	2020-04-18	Liber_Primus_Regum
+1100000495	haec dicit dominus exercituum: recensui quaecumque fecit amalec israeli: quomodo restitit ei in via cum ascenderet de aegypto.	2020-04-18	Liber_Primus_Regum
+1100000496	nunc ergo vade, et percute amalec, et demolire universa eius: non parcas ei, et non concupiscas ex rebus ipsius aliquid, sed interfice a viro usque ad mulierem, et parvulum atque lactentem, bovem et ovem, camelum et asinum.	2020-04-18	Liber_Primus_Regum
+1100000497	praecepit itaque saul populo, et recensuit eos quasi agnos: ducenta millia peditum, et decem millia virorum iuda.	2020-04-18	Liber_Primus_Regum
+1100000498	cumque venisset saul usque ad civitatem amalec, tetendit insidias in torrente.	2020-04-18	Liber_Primus_Regum
+1100000499	dixitque saul cinaeo: abite, recedite, atque descendite ab amalec, ne forte involvam te cum eo: tu enim fecisti misericordiam cum omnibus filiis israel, cum ascenderent de aegypto. 	2020-04-18	Liber_Primus_Regum
+1100000500	et recessit cinaeus de medio amalec.	2020-04-18	Liber_Primus_Regum
+1100000501	percussitque saul amalec ab hevila donec venias ad sur, quae est e regione aegypti.	2020-04-18	Liber_Primus_Regum
+1100000502	et apprehendit agag regem amalec vivum: omne autem vulgus interfecit in ore gladii.	2020-04-18	Liber_Primus_Regum
+1100000503	et pepercit saul et populus agag, et optimis gregibus ovium et armentorum, et vestibus et arietibus, et universis quae pulchra erant, nec voluerunt disperdere ea: quidquid vero vile fuit et reprobum, hoc demoliti sunt.	2020-04-18	Liber_Primus_Regum
+1100000504	factum est autem verbum domini ad samuel, dicens:poenitet me quod constituerim saul regem: quia dereliquit me, et verba mea opere non implevit. 	2020-04-18	Liber_Primus_Regum
+1100000505	contristatusque est samuel, et clamavit ad dominum tota nocte.	2020-04-18	Liber_Primus_Regum
+1100000506	cumque de nocte surrexisset samuel ut iret ad saul mane, nuntiatum est samueli eo quod venisset saul in carmelum, et erexisset sibi fornicem triumphalem, et reversus transisset, descendissetque in galgala. 	2020-04-18	Liber_Primus_Regum
+1100000507	venit ergo samuel ad saul, et saul offerebat holocaustum domino de initiis praedarum quae attulerat ex amalec.	2020-04-18	Liber_Primus_Regum
+1100000508	et cum venisset samuel ad saul, dixit ei saul: benedictus tu domino: implevi verbum domini.	2020-04-18	Liber_Primus_Regum
+1100000509	dixitque samuel: et quae est haec vox gregum, quae resonat in auribus meis, et armentorum, quam ego audio?	2020-04-18	Liber_Primus_Regum
+1100000510	et ait saul: de amalec adduxerunt ea: pepercit enim populus melioribus ovibus et armentis ut immolarentur domino deo tuo, reliqua vero occidimus.	2020-04-18	Liber_Primus_Regum
+1100000511	ait autem samuel ad saul: sine me, et indicabo tibi quae locutus sit dominus ad me nocte. 	2020-04-18	Liber_Primus_Regum
+1100000512	dixitque ei: loquere.	2020-04-18	Liber_Primus_Regum
+1100000513	et ait samuel: nonne cum parvulus esses in oculis tuis, caput in tribubus israel factus es? 	2020-04-18	Liber_Primus_Regum
+1100000514	unxitque te dominus in regem super israel,et misit te dominus in viam, et ait: vade, et interfice peccatores amalec, et pugnabis contra eos usque ad internecionem eorum?	2020-04-18	Liber_Primus_Regum
+1100000515	quare ergo non audisti vocem domini: sed versus ad praedam es, et fecisti malum in oculis domini?	2020-04-18	Liber_Primus_Regum
+1100000516	et ait saul ad samuelem: immo audivi vocem domini, et ambulavi in via per quam misit me dominus, et adduxi agag regem amalec, et amalec interfeci.	2020-04-18	Liber_Primus_Regum
+1100000517	tulit autem de praeda populus oves et boves, primitias eorum quae caesa sunt, ut immolet domino deo suo in galgalis.	2020-04-18	Liber_Primus_Regum
+1100000518	et ait samuel: numquid vult dominus holocausta et victimas, et non potius ut obediatur voci domini? 	2020-04-18	Liber_Primus_Regum
+1100000519	melior est enim obedientia quam victimae, et auscultare magis quam offerre adipem arietum.	2020-04-18	Liber_Primus_Regum
+1100000520	quoniam quasi peccatum ariolandi est, repugnare: et quasi scelus idololatriae, nolle acquiescere. 	2020-04-18	Liber_Primus_Regum
+1100000521	pro eo ergo quod abiecisti sermonem domini, abiecit te dominus ne sis rex.	2020-04-18	Liber_Primus_Regum
+1100000522	dixitque saul ad samuelem: peccavi, quia praevaricatus sum sermonem domini et verba tua, timens populum, et obediens voci eorum.	2020-04-18	Liber_Primus_Regum
+1100000523	sed nunc porta, quaeso, peccatum meum, et revertere mecum, ut adorem dominum.	2020-04-18	Liber_Primus_Regum
+1100000524	et ait samuel ad saul: non revertar tecum, quia proiecisti sermonem domini, et proiecit te dominus ne sis rex super israel.	2020-04-18	Liber_Primus_Regum
+1100000525	et conversus est samuel ut abiret: ille autem apprehendit summitatem pallii eius, quae et scissa est.	2020-04-18	Liber_Primus_Regum
+1100000526	et ait ad eum samuel: scidit dominus regnum israel a te hodie, et tradidit illud proximo tuo meliori te.	2020-04-18	Liber_Primus_Regum
+1100000527	porro triumphator in israel non parcet, et poenitudine non flectetur: neque enim homo est ut agat poenitentiam.	2020-04-18	Liber_Primus_Regum
+1100000528	at ille ait: peccavi: sed nunc honora me coram senioribus populi mei et coram israel, et revertere mecum, ut adorem dominum deum tuum.	2020-04-18	Liber_Primus_Regum
+1100000529	reversus ergo samuel secutus est saulem: et adoravit saul dominum.	2020-04-18	Liber_Primus_Regum
+1100000530	dixitque samuel: adducite ad me agag regem amalec. 	2020-04-18	Liber_Primus_Regum
+1100000531	et oblatus est ei agag, pinguissimus et tremens. 	2020-04-18	Liber_Primus_Regum
+1100000532	et dixit agag: siccine separat amara mors?	2020-04-18	Liber_Primus_Regum
+1100000533	et ait samuel: sicut fecit absque liberis mulieres gladius tuus, sic absque liberis erit inter mulieres mater tua. 	2020-04-18	Liber_Primus_Regum
+1100000534	et in frustra concidit eum samuel coram domino in galgalis.	2020-04-18	Liber_Primus_Regum
+1100000535	abiit autem samuel in ramatha: saul vero ascendit in domum suam in gabaa.	2020-04-18	Liber_Primus_Regum
+1100000536	et non vidit samuel ultra saul usque ad diem mortis suae: verumtamen lugebat samuel saulem, quoniam dominum poenitebat quod constituisset eum regem super israel.	2020-04-18	Liber_Primus_Regum
+1100000537	caput 16	2020-04-18	Liber_Primus_Regum
+1100000538	dixitque dominus ad samuelem: usquequo tu luges saul, cum ego proiecerim eum ne regnet super israel? 	2020-04-18	Liber_Primus_Regum
+1100000539	imple cornu tuum oleo, et veni, ut mittam te ad isai bethlehemitem: providi enim in filiis eius mihi regem.	2020-04-18	Liber_Primus_Regum
+1100000540	et ait samuel: quomodo vadam? 	2020-04-18	Liber_Primus_Regum
+1100000541	audiet enim saul, et interficiet me. 	2020-04-18	Liber_Primus_Regum
+1100000542	et ait dominus: vitulum de armento tolles in manu tua, et dices: ad immolandum domino veni.	2020-04-18	Liber_Primus_Regum
+1100000543	et vocabis isai ad victimam, et ego ostendam tibi quid facias, et unges quemcumque monstravero tibi.	2020-04-18	Liber_Primus_Regum
+1100000544	fecit ergo samuel sicut locutus est ei dominus. 	2020-04-18	Liber_Primus_Regum
+1100000545	venitque in bethlehem, et admirati sunt seniores civitatis occurrentes ei: dixeruntque: pacificusne est ingressus tuus?	2020-04-18	Liber_Primus_Regum
+1100000546	et ait: pacificus: ad immolandum domino veni: sanctificamini, et venite mecum ut immolem. 	2020-04-18	Liber_Primus_Regum
+1100000547	sanctificavit ergo isai et filios eius, et vocavit eos ad sacrificium.	2020-04-18	Liber_Primus_Regum
+1100000548	cumque ingressi essent, vidit eliab, et ait: num coram domino est christus eius?	2020-04-18	Liber_Primus_Regum
+1100000549	et dixit dominus ad samuelem: ne respicias vultum eius, neque altitudinem staturae eius: quoniam abieci eum, nec iuxta intuitum hominis ego iudico: homo enim videt ea quae parent, dominus autem intuetur cor.	2020-04-18	Liber_Primus_Regum
+1100000550	et vocavit isai abinadab, et adduxit eum coram samuele. 	2020-04-18	Liber_Primus_Regum
+1100000551	qui dixit: nec hunc elegit dominus.	2020-04-18	Liber_Primus_Regum
+1100000552	adduxit autem isai samma, de quo ait: etiam hunc non elegit dominus.	2020-04-18	Liber_Primus_Regum
+1100000553	adduxit itaque isai septem filios suos coram samuele: et ait samuel ad isai: non elegit dominus ex istis.	2020-04-18	Liber_Primus_Regum
+1100000554	dixitque samuel ad isai: numquid iam completi sunt filii? 	2020-04-18	Liber_Primus_Regum
+1100000555	qui respondit: adhuc reliquus est parvulus, et pascit oves. 	2020-04-18	Liber_Primus_Regum
+1100000556	et ait samuel ad isai: mitte, et adduc eum: nec enim discumbemus priusquam huc ille veniat.	2020-04-18	Liber_Primus_Regum
+1100000557	misit ergo, et adduxit eum. 	2020-04-18	Liber_Primus_Regum
+1100000558	erat autem rufus, et pulcher aspectu, decoraque facie: et ait dominus: surge, unge eum: ipse est enim.	2020-04-18	Liber_Primus_Regum
+1100000559	tulit ergo samuel cornu olei, et unxit eum in medio fratrum eius: et directus est spiritus domini a die illa in david, et deinceps. 	2020-04-18	Liber_Primus_Regum
+1100000560	surgensque samuel abiit in ramatha.	2020-04-18	Liber_Primus_Regum
+1100000561	spiritus autem domini recessit a saul, et exagitabat eum spiritus nequam a domino.	2020-04-18	Liber_Primus_Regum
+1100000562	dixeruntque servi saul ad eum: ecce spiritus dei malus exagitat te.	2020-04-18	Liber_Primus_Regum
+1100000563	iubeat dominus noster, et servi tui qui coram te sunt quaerent hominem scientem psallere cithara, ut quando arripuerit te spiritus domini malus, psallat manu sua, et levius feras.	2020-04-18	Liber_Primus_Regum
+1100000564	et ait saul ad servos suos: providete ergo mihi aliquem bene psallentem, et adducite eum ad me.	2020-04-18	Liber_Primus_Regum
+1100000565	et respondens unus de pueris, ait: ecce vidi filium isai bethlehemitem scientem psallere, et fortissimum robore, et virum bellicosum, et prudentem in verbis, et virum pulchrum: et dominus est cum eo.	2020-04-18	Liber_Primus_Regum
+1100000566	misit ergo saul nuntios ad isai, dicens: mitte ad me david filium tuum, qui est in pascuis.	2020-04-18	Liber_Primus_Regum
+1100000567	tulit itaque isai asinum plenum panibus, et lagenam vini, et haedum de capris unum, et misit per manum david filii sui sauli.	2020-04-18	Liber_Primus_Regum
+1100000568	et venit david ad saul, et stetit coram eo: at ille dilexit eum nimis, et factus est eius armiger.	2020-04-18	Liber_Primus_Regum
+1100000569	misitque saul ad isai, dicens: stet david in conspectu meo: invenit enim gratiam in oculis meis.	2020-04-18	Liber_Primus_Regum
+1100000570	igitur quandocumque spiritus domini malus arripiebat saul, david tollebat citharam, et percutiebat manu sua, et refocillabatur saul, et levius habebat: recedebat enim ab eo spiritus malus.	2020-04-18	Liber_Primus_Regum
+1100000571	caput 17	2020-04-18	Liber_Primus_Regum
+1100000572	congregantes autem philisthiim agmina sua in praelium, convenerunt in socho iudae: et castrametati sunt inter socho et azeca in finibus dommim.	2020-04-18	Liber_Primus_Regum
+1100000573	porro saul et filii israel congregati venerunt in vallem terebinthi, et direxerunt aciem ad pugnandum contra philisthiim.	2020-04-18	Liber_Primus_Regum
+1100000574	et philisthiim stabant super montem ex parte hac, et israel stabat supra montem ex altera parte: vallisque erat inter eos.	2020-04-18	Liber_Primus_Regum
+1100000575	et egressus est vir spurius de castris philisthinorum nomine goliath, de geth, altitudinis sex cubitorum et palmi:et cassis aerea super caput eius, et lorica squamata induebatur. 	2020-04-18	Liber_Primus_Regum
+1100000576	porro pondus loricae eius, quinque millia siclorum aeris erat:et ocreas aereas habebat in cruribus, et clypeus aereus tegebat humeros eius.	2020-04-18	Liber_Primus_Regum
+1100000577	hastile autem hastae eius erat quasi liciatorium texentium: ipsum autem ferrum hastae eius sexcentos siclos habebat ferri: et armiger eius antecedebat eum.	2020-04-18	Liber_Primus_Regum
+1100000578	stansque clamabat adversum phalangas israel, et dicebat eis: quare venistis parati ad praelium? 	2020-04-18	Liber_Primus_Regum
+1100000579	numquid ego non sum philisthaeus, et vos servi saul? 	2020-04-18	Liber_Primus_Regum
+1100000580	eligite ex vobis virum, et descendat ad singulare certamen.	2020-04-18	Liber_Primus_Regum
+1100000581	si quiverit pugnare mecum, et percusserit me, erimus vobis servi: si autem ego praevaluero, et percussero eum, vos servi eritis, et servietis nobis.	2020-04-18	Liber_Primus_Regum
+1100000582	et aiebat philisthaeus: ego exprobravi agminibus israel hodie: date mihi virum, et ineat mecum singulare certamen.	2020-04-18	Liber_Primus_Regum
+1100000583	audiens autem saul et omnes israelitae sermones philisthaei huiuscemodi, stupebant, et metuebant nimis.	2020-04-18	Liber_Primus_Regum
+1100000584	david autem erat filius viri ephrathaei, de quo supra dictum est, de bethlehem iuda, cui nomen erat isai, qui habebat octo filios, et erat vir in diebus saul senex, et grandaevus inter viros.	2020-04-18	Liber_Primus_Regum
+1100000585	abierunt autem tres filii eius maiores post saul in praelium: et nomina trium filiorum eius qui perrexerunt ad bellum, eliab primogenitus, et secundus abinadab, tertiusque samma.	2020-04-18	Liber_Primus_Regum
+1100000586	david autem erat minimus. 	2020-04-18	Liber_Primus_Regum
+1100000587	tribus ergo maioribus secutis saulem,abiit david, et reversus est a saul ut pasceret gregem patris sui in bethlehem.	2020-04-18	Liber_Primus_Regum
+1100000588	procedebat vero philisthaeus mane et vespere, et stabat quadraginta diebus.	2020-04-18	Liber_Primus_Regum
+1100000589	dixit autem isai ad david filium suum: accipe fratribus tuis ephi polentae, et decem panes istos, et curre in castra ad fratres tuos,et decem formellas casei has deferes ad tribunum: et fratres tuos visitabis, si recte agant: et cum quibus ordinati sunt, disce.	2020-04-18	Liber_Primus_Regum
+1100000590	saul autem, et illi, et omnes filii israel, in valle terebinthi pugnabant adversum philisthiim.	2020-04-18	Liber_Primus_Regum
+1100000591	surrexit itaque david mane, et commendavit gregem custodi: et onustus abiit, sicut praeceperat ei isai. 	2020-04-18	Liber_Primus_Regum
+1100000592	et venit ad locum magala, et ad exercitum, qui egressus ad pugnam vociferatus erat in certamine.	2020-04-18	Liber_Primus_Regum
+1100000593	direxerat enim aciem israel, sed et philisthiim ex adverso fuerant praeparati.	2020-04-18	Liber_Primus_Regum
+1100000594	derelinquens ergo david vasa quae attulerat sub manu custodis ad sarcinas, cucurrit ad locum certaminis, et interrogabat si omnia recte agerentur erga fratres suos.	2020-04-18	Liber_Primus_Regum
+1100000595	cumque adhuc ille loqueretur eis, apparuit vir ille spurius ascendens, goliath nomine, philisthaeus de geth, de castris philisthinorum: et loquente eo haec eadem verba audivit david.	2020-04-18	Liber_Primus_Regum
+1100000596	omnes autem israelitae, cum vidissent virum, fugerunt a facie eius, timentes eum valde.	2020-04-18	Liber_Primus_Regum
+1100000597	et dixit unus quispiam de israel: num vidistis virum hunc, qui ascendit? 	2020-04-18	Liber_Primus_Regum
+1100000598	ad exprobrandum enim israeli ascendit. 	2020-04-18	Liber_Primus_Regum
+1100000599	virum ergo qui percusserit eum, ditabit rex divitiis magnis, et filiam suam dabit ei, et domum patris eius faciet absque tributo in israel.	2020-04-18	Liber_Primus_Regum
+1100000600	et ait david ad viros qui stabant secum, dicens: quid dabitur viro qui percusserit philisthaeum hunc, et tulerit opprobrium de israel? 	2020-04-18	Liber_Primus_Regum
+1100000601	quis enim est hic philisthaeus incircumcisus, qui exprobravit acies dei viventis?	2020-04-18	Liber_Primus_Regum
+1100000602	referebat autem ei populus eumdem sermonem, dicens: haec dabuntur viro qui percusserit eum.	2020-04-18	Liber_Primus_Regum
+1100000603	quod cum audisset eliab frater eius maior, loquente eo cum aliis, iratus est contra david, et ait: quare venisti, et quare dereliquisti pauculas oves illas in deserto? 	2020-04-18	Liber_Primus_Regum
+1100000604	ego novi superbiam tuam, et nequitiam cordis tui: quia ut videres praelium, descendisti.	2020-04-18	Liber_Primus_Regum
+1100000605	et dixit david: quid feci? 	2020-04-18	Liber_Primus_Regum
+1100000606	numquid non verbum est?	2020-04-18	Liber_Primus_Regum
+1100000607	et declinavit paululum ab eo ad alium: dixitque eumdem sermonem. 	2020-04-18	Liber_Primus_Regum
+1100000608	et respondit ei populus verbum sicut prius.	2020-04-18	Liber_Primus_Regum
+1100000609	audita sunt autem verba quae locutus est david, et annuntiata in conspectu saul.	2020-04-18	Liber_Primus_Regum
+1100000610	ad quem cum fuisset adductus, locutus est ei: non concidat cor cuiusquam in eo: ego servus tuus vadam, et pugnabo adversus philisthaeum.	2020-04-18	Liber_Primus_Regum
+1100000611	et ait saul ad david: non vales resistere philisthaeo isti, nec pugnare adversus eum, quia puer es: hic autem vir bellator est ab adolescentia sua.	2020-04-18	Liber_Primus_Regum
+1100000612	dixitque david ad saul: pascebat servus tuus patris sui gregem, et veniebat leo vel ursus, et tollebat arietem de medio gregis:et persequebar eos, et percutiebam, eruebamque de ore eorum: et illi consurgebant adversum me, et apprehendebam mentum eorum, et suffocabam, interficiebamque eos.	2020-04-18	Liber_Primus_Regum
+1100000613	nam et leonem et ursum interfeci ego servus tuus: erit igitur et philisthaeus hic incircumcisus quasi unus ex eis. 	2020-04-18	Liber_Primus_Regum
+1100000614	nunc vadam, et auferam opprobrium populi: quoniam quis est iste philisthaeus incircumcisus, qui ausus est maledicere exercitui dei viventis?	2020-04-18	Liber_Primus_Regum
+1100000615	et ait david: dominus qui eripuit me de manu leonis, et de manu ursi, ipse me liberabit de manu philisthaei huius. 	2020-04-18	Liber_Primus_Regum
+1100000616	dixit autem saul ad david: vade, et dominus tecum sit.	2020-04-18	Liber_Primus_Regum
+1100000617	et induit saul david vestimentis suis, et imposuit galeam aeream super caput eius, et vestivit eum lorica.	2020-04-18	Liber_Primus_Regum
+1100000618	accinctus ergo david gladio eius super vestem suam, coepit tentare si armatus posset incedere: non enim habebat consuetudinem. 	2020-04-18	Liber_Primus_Regum
+1100000619	dixitque david ad saul: non possum sic incedere, quia non usum habeo.	2020-04-18	Liber_Primus_Regum
+1100000620	et deposuit ea,et tulit baculum suum, quem semper habebat in manibus: et elegit sibi quinque limpidissimos lapides de torrente, et misit eos in peram pastoralem quam habebat secum, et fundam manu tulit: et processit adversum philisthaeum.	2020-04-18	Liber_Primus_Regum
+1100000621	ibat autem philisthaeus incedens, et appropinquans adversum david, et armiger eius ante eum.	2020-04-18	Liber_Primus_Regum
+1100000622	cumque inspexisset philisthaeus, et vidisset david, despexit eum. 	2020-04-18	Liber_Primus_Regum
+1100000623	erat enim adolescens, rufus, et pulcher aspectu.	2020-04-18	Liber_Primus_Regum
+1100000624	et dixit philisthaeus ad david: numquid ego canis sum, quod tu venis ad me cum baculo? 	2020-04-18	Liber_Primus_Regum
+1100000625	et maledixit philisthaeus david in diis suis:dixitque ad david: veni ad me, et dabo carnes tuas volatilibus caeli et bestiis terrae.	2020-04-18	Liber_Primus_Regum
+1100000626	dixit autem david ad philisthaeum: tu venis ad me cum gladio, et hasta, et clypeo: ego autem venio ad te in nomine domini exercituum, dei agminum israel quibus exprobrastihodie, et dabit te dominus in manu mea, et percutiam te, et auferam caput tuum a te: et dabo cadavera castrorum philisthiim hodie volatilibus caeli, et bestiis terrae, ut sciat omnis terra quia est deus in israel,et noverit universa ecclesia haec, quia non in gladio nec in hasta salvat dominus: ipsius enim est bellum, et tradet vos in manus nostras.	2020-04-18	Liber_Primus_Regum
+1100000627	cum ergo surrexisset philisthaeus, et veniret, et appropinquaret contra david, festinavit david et cucurrit ad pugnam ex adverso philisthaei.	2020-04-18	Liber_Primus_Regum
+1100000628	et misit manum suam in peram, tulitque unum lapidem, et funda iecit, et circumducens percussit philisthaeum in fronte: et infixus est lapis in fronte eius, et cecidit in faciem suam super terram.	2020-04-18	Liber_Primus_Regum
+1100000629	praevaluitque david adversum philisthaeum in funda et lapide, percussumque philisthaeum interfecit. 	2020-04-18	Liber_Primus_Regum
+1100000630	cumque gladium non haberet in manu david,cucurrit, et stetit super philisthaeum, et tulit gladium eius, et eduxit eum de vagina sua: et interfecit eum, praeciditque caput eius. 	2020-04-18	Liber_Primus_Regum
+1100000631	videntes autem philisthiim quod mortuus esset fortissimus eorum, fugerunt.	2020-04-18	Liber_Primus_Regum
+1100000632	et consurgentes viri israel et iuda vociferati sunt, et persecuti sunt philisthaeos usque dum venirent in vallem, et usque ad portas accaron: cecideruntque vulnerati de philisthiim in via saraim, et usque ad geth, et usque ad accaron.	2020-04-18	Liber_Primus_Regum
+1100000633	et revertentes filii israel postquam persecuti fuerant philisthaeos, invaserunt castra eorum.	2020-04-18	Liber_Primus_Regum
+1100000634	assumens autem david caput philisthaei, attulit illud in ierusalem: arma vero eius posuit in tabernaculo suo.	2020-04-18	Liber_Primus_Regum
+1100000635	eo autem tempore quo viderat saul david egredientem contra philisthaeum, ait ad abner principem militiae: de qua stirpe descendit hic adolescens, abner? 	2020-04-18	Liber_Primus_Regum
+1100000636	dixitque abner: vivit anima tua, rex, si novi.	2020-04-18	Liber_Primus_Regum
+1100000637	et ait rex: interroga tu, cuius filius sit iste puer.	2020-04-18	Liber_Primus_Regum
+1100000638	cumque regressus esset david, percusso philisthaeo, tulit eum abner, et introduxit coram saule, caput philisthaei habentem in manu.	2020-04-18	Liber_Primus_Regum
+1100000639	et ait ad eum saul: de qua progenie es, o adolescens? 	2020-04-18	Liber_Primus_Regum
+1100000640	dixitque david: filius servi tui isai bethlehemitae ego sum.	2020-04-18	Liber_Primus_Regum
+1100000641	caput 18	2020-04-18	Liber_Primus_Regum
+1100000642	et factum est cum complesset loqui ad saul, anima ionathae conglutinata est animae david, et dilexit eum ionathas quasi animam suam.	2020-04-18	Liber_Primus_Regum
+1100000643	tulitque eum saul in die illa, et non concessit ei ut reverteretur in domum patris sui.	2020-04-18	Liber_Primus_Regum
+1100000644	inierunt autem david et ionathas foedus: diligebat enim eum quasi animam suam.	2020-04-18	Liber_Primus_Regum
+1100000645	nam expoliavit se ionathas tunica qua erat indutus, et dedit eam david, et reliqua vestimenta sua, usque ad gladium et arcum suum, et usque ad balteum.	2020-04-18	Liber_Primus_Regum
+1100000646	egrediebatur quoque david ad omnia quaecumque misisset eum saul, et prudenter se agebat: posuitque eum saul super viros belli, et acceptus erat in oculis universi populi, maximeque in conspectu famulorum saul.	2020-04-18	Liber_Primus_Regum
+1100000647	porro cum reverteretur percusso philisthaeo david, egressae sunt mulieres de universis urbibus israel, cantantes, chorosque ducentes in occursum saul regis, in tympanis laetitiae, et in sistris.	2020-04-18	Liber_Primus_Regum
+1100000648	et praecinebant mulieres, ludentes, atque dicentes:	2020-04-18	Liber_Primus_Regum
+1100000649	percussit saul mille,	2020-04-18	Liber_Primus_Regum
+1100000650	et david decem millia.	2020-04-18	Liber_Primus_Regum
+1100000651	iratus est autem saul nimis, et displicuit in oculis eius sermo iste: dixitque: dederunt david decem millia, et mihi mille dederunt: quid ei superest, nisi solum regnum?	2020-04-18	Liber_Primus_Regum
+1100000652	non rectis ergo oculis saul aspiciebat david a die illa et deinceps.	2020-04-18	Liber_Primus_Regum
+1100000653	post diem autem alteram, invasit spiritus dei malus saul, et prophetabat in medio domus suae: david autem psallebat manu sua, sicut per singulos dies. 	2020-04-18	Liber_Primus_Regum
+1100000654	tenebatque saul lanceam,et misit eam, putans quod configere posset david cum pariete: et declinavit david a facie eius secundo.	2020-04-18	Liber_Primus_Regum
+1100000655	et timuit saul david, eo quod dominus esset cum eo, et a se recessisset.	2020-04-18	Liber_Primus_Regum
+1100000656	amovit ergo eum saul a se, et fecit eum tribunum super mille viros: et egrediebatur, et intrabat in conspectu populi.	2020-04-18	Liber_Primus_Regum
+1100000657	in omnibus quoque viis suis david prudenter agebat, et dominus erat cum eo.	2020-04-18	Liber_Primus_Regum
+1100000658	vidit itaque saul quod prudens esset nimis, et coepit cavere eum.	2020-04-18	Liber_Primus_Regum
+1100000659	omnis autem israel et iuda diligebat david: ipse enim ingrediebatur et egrediebatur ante eos.	2020-04-18	Liber_Primus_Regum
+1100000660	dixitque saul ad david: ecce filia mea maior merob: ipsam dabo tibi uxorem: tantummodo esto vir fortis, et praeliare bella domini. 	2020-04-18	Liber_Primus_Regum
+1100000661	saul autem reputabat, dicens: non sit manus mea in eum, sed sit super eum manus philisthinorum.	2020-04-18	Liber_Primus_Regum
+1100000662	ait autem david ad saul: quis ego sum, aut quae est vita mea, aut cognatio patris mei in israel, ut fiam gener regis?	2020-04-18	Liber_Primus_Regum
+1100000663	factum est autem tempus cum deberet dari merob filia saul david, data est hadrieli molathitae uxor.	2020-04-18	Liber_Primus_Regum
+1100000664	dilexit autem david michol filia saul altera. 	2020-04-18	Liber_Primus_Regum
+1100000665	et nuntiatum est saul, et placuit ei.	2020-04-18	Liber_Primus_Regum
+1100000666	dixitque saul: dabo eam illi, ut fiat ei in scandalum, et sit super eum manus philisthinorum. 	2020-04-18	Liber_Primus_Regum
+1100000667	dixitque saul ad david: in duabus rebus gener meus eris hodie.	2020-04-18	Liber_Primus_Regum
+1100000668	et mandavit saul servis suis: loquimini ad david clam me, dicentes: ecce places regi, et omnes servi eius diligunt te: nunc ergo esto gener regis.	2020-04-18	Liber_Primus_Regum
+1100000669	et locuti sunt servi saul in auribus david omnia verba haec. 	2020-04-18	Liber_Primus_Regum
+1100000670	et ait david: num parum videtur vobis, generum esse regis? 	2020-04-18	Liber_Primus_Regum
+1100000671	ego autem sum vir pauper et tenuis.	2020-04-18	Liber_Primus_Regum
+1100000672	et renuntiaverunt servi saul dicentes: huiuscemodi verba locutus est david.	2020-04-18	Liber_Primus_Regum
+1100000673	dixit autem saul: sic loquimini ad david: non habet rex sponsalia necesse, nisi tantum centum praeputia philisthinorum, ut fiat ultio de inimicis regis. 	2020-04-18	Liber_Primus_Regum
+1100000674	porro saul cogitabat tradere david in manus philisthinorum.	2020-04-18	Liber_Primus_Regum
+1100000675	cumque renuntiassent servi eius david verba quae dixerat saul, placuit sermo in oculis david, ut fieret gener regis.	2020-04-18	Liber_Primus_Regum
+1100000676	et post paucos dies surgens david, abiit cum viris qui sub eo erant. 	2020-04-18	Liber_Primus_Regum
+1100000677	et percussit ex philisthiim ducentos viros, et attulit eorum praeputia et annumeravit ea regi, ut esset gener eius. 	2020-04-18	Liber_Primus_Regum
+1100000678	dedit itaque saul ei michol filiam suam uxorem.	2020-04-18	Liber_Primus_Regum
+1100000679	et vidit saul, et intellexit quod dominus esset cum david. 	2020-04-18	Liber_Primus_Regum
+1100000680	michol autem filia saul diligebat eum.	2020-04-18	Liber_Primus_Regum
+1100000681	et saul magis coepit timere david: factusque est saul inimicus david cunctis diebus.	2020-04-18	Liber_Primus_Regum
+1100000682	et egressi sunt principes philisthinorum. 	2020-04-18	Liber_Primus_Regum
+1100000683	a principio autem egressionis eorum, prudentius se gerebat david quam omnes servi saul, et celebre factum est nomen eius nimis.	2020-04-18	Liber_Primus_Regum
+1100000684	caput 19	2020-04-18	Liber_Primus_Regum
+1100000685	locutus est autem saul ad ionathan filium suum, et ad omnes servos suos, ut occiderent david. 	2020-04-18	Liber_Primus_Regum
+1100000686	porro ionathas filius saul diligebat david valde:et indicavit ionathas david, dicens: quaerit saul pater meus occidere te: quapropter observa te, quaeso, mane: et manebis clam, et absconderis.	2020-04-18	Liber_Primus_Regum
+1100000687	ego autem egrediens stabo iuxta patrem meum in agro, ubicumque fueris: et ego loquar de te ad patrem meum, et quodcumque videro, nuntiabo tibi.	2020-04-18	Liber_Primus_Regum
+1100000688	locutus est ergo ionathas de david bona ad saul patrem suum: dixitque ad eum: ne pecces rex in servum tuum david, quia non peccavit tibi, et opera eius bona sunt tibi valde.	2020-04-18	Liber_Primus_Regum
+1100000689	et posuit animam suam in manu sua, et percussit philisthaeum, et fecit dominus salutem magnam universo israeli: vidisti, et laetatus es. 	2020-04-18	Liber_Primus_Regum
+1100000690	quare ergo peccas in sanguine innoxio, interficiens david, qui est absque culpa?	2020-04-18	Liber_Primus_Regum
+1100000691	quod cum audisset saul, placatus voce ionathae, iuravit: vivit dominus, quia non occidetur.	2020-04-18	Liber_Primus_Regum
+1100000692	vocavit itaque ionathas david, et indicavit ei omnia verba haec: et introduxit ionathas david ad saul, et fuit ante eum sicut fuerat heri et nudiustertius.	2020-04-18	Liber_Primus_Regum
+1100000693	motum est autem rursum bellum: et egressus david, pugnavit adversum philisthiim: percussitque eos plaga magna, et fugerunt a facie eius.	2020-04-18	Liber_Primus_Regum
+1100000694	et factus est spiritus domini malus in saul: sedebat autem in domo sua, et tenebat lanceam: porro david psallebat manu sua.	2020-04-18	Liber_Primus_Regum
+1100000695	nisusque est saul configere david lancea in pariete, et declinavit david a facie saul: lancea autem casso vulnere perlata est in parietem, et david fugit, et salvatus est nocte illa.	2020-04-18	Liber_Primus_Regum
+1100000696	misit ergo saul satellites suos in domum david, ut custodirent eum, et interficeretur mane. 	2020-04-18	Liber_Primus_Regum
+1100000697	quod cum annuntiasset david michol uxor sua, dicens: nisi salvaveris te nocte hac, cras morieris:deposuit eum per fenestram. 	2020-04-18	Liber_Primus_Regum
+1100000698	porro ille abiit et aufugit, atque salvatus est.	2020-04-18	Liber_Primus_Regum
+1100000699	tulit autem michol statuam, et posuit eam super lectum, et pellem pilosam caprarum posuit ad caput eius, et operuit eam vestimentis.	2020-04-18	Liber_Primus_Regum
+1100000700	misit autem saul apparitores, qui raperent david: et responsum est quod aegrotaret.	2020-04-18	Liber_Primus_Regum
+1100000701	rursumque misit saul nuntios ut viderent david, dicens: afferte eum ad me in lecto, ut occidatur.	2020-04-18	Liber_Primus_Regum
+1100000702	cumque venissent nuntii, inventum est simulacrum super lectum, et pellis caprarum ad caput eius.	2020-04-18	Liber_Primus_Regum
+1100000703	dixitque saul ad michol: quare sic illusisti mihi, et dimisisti inimicum meum ut fugeret? 	2020-04-18	Liber_Primus_Regum
+1100000704	et respondit michol ad saul: quia ipse locutus est mihi: dimitte me, alioquin interficiam te.	2020-04-18	Liber_Primus_Regum
+1100000705	david autem fugiens salvatus est, et venit ad samuel in ramatha, et nuntiavit ei omnia quae fecerat sibi saul: et abierunt ipse et samuel, et morati sunt in naioth.	2020-04-18	Liber_Primus_Regum
+1100000706	nuntiatum est autem sauli a dicentibus: ecce david in naioth in ramatha.	2020-04-18	Liber_Primus_Regum
+1100000707	misit ergo saul lictores, ut raperent david: qui cum vidissent cuneum prophetarum vaticinantium, et samuelem stantem super eos, factus est etiam spiritus domini in illis, et prophetare coeperunt etiam ipsi.	2020-04-18	Liber_Primus_Regum
+1100000708	quod cum nuntiatum esset sauli, misit et alios nuntios: prophetaverunt autem et illi. 	2020-04-18	Liber_Primus_Regum
+1100000709	et rursum misit saul tertios nuntios: qui et ipsi prophetaverunt. 	2020-04-18	Liber_Primus_Regum
+1100000710	et iratus iracundia saul,abiit etiam ipse in ramatha, et venit usque ad cisternam magnam quae est in socho, et interrogavit, et dixit: in quo loco sunt samuel et david? 	2020-04-18	Liber_Primus_Regum
+1100000711	dictumque est ei: ecce in naioth sunt in ramatha.	2020-04-18	Liber_Primus_Regum
+1100000712	et abiit in naioth in ramatha, et factus est etiam super eum spiritus domini, et ambulabat ingrediens, et prophetabat usque dum veniret in naioth in ramatha.	2020-04-18	Liber_Primus_Regum
+1100000713	et expoliavit etiam ipse se vestimentis suis, et prophetavit cum ceteris coram samuele, et cecidit nudus tota die illa et nocte. 	2020-04-18	Liber_Primus_Regum
+1100000714	unde et exivit proverbium: num et saul inter prophetas?	2020-04-18	Liber_Primus_Regum
+1100000715	caput 20	2020-04-18	Liber_Primus_Regum
+1100000716	fugit autem david de naioth, quae est in ramatha, veniensque locutus est coram ionatha: quid feci? 	2020-04-18	Liber_Primus_Regum
+1100000717	quae est iniquitas mea, et quod peccatum meum in patrem tuum, quia quaerit animam meam?	2020-04-18	Liber_Primus_Regum
+1100000718	qui dixit ei: absit, non morieris: neque enim faciet pater meus quidquam grande vel parvum, nisi prius indicaverit mihi: hunc ergo celavit me pater meus sermonem tantummodo? 	2020-04-18	Liber_Primus_Regum
+1100000719	nequaquam erit istud.	2020-04-18	Liber_Primus_Regum
+1100000720	et iuravit rursum davidi. 	2020-04-18	Liber_Primus_Regum
+1100000721	et ille ait: scit profecto pater tuus quia inveni gratiam in oculis tuis, et dicet: nesciat hoc ionathas, ne forte tristetur. 	2020-04-18	Liber_Primus_Regum
+1100000722	quinimmo vivit dominus, et vivit anima tua, quia uno tantum (ut ita dicam) gradu ego morsque dividimur.	2020-04-18	Liber_Primus_Regum
+1100000723	et ait ionathas ad david: quodcumque dixerit mihi anima tua, faciam tibi.	2020-04-18	Liber_Primus_Regum
+1100000724	dixit autem david ad ionathan: ecce calendae sunt crastino, et ego ex more sedere soleo iuxta regem ad vescendum: dimitte ergo me ut abscondar in agro usque ad vesperam diei tertiae.	2020-04-18	Liber_Primus_Regum
+1100000725	si respiciens requisierit me pater tuus, respondebis ei: rogavit me david ut iret celeriter in bethlehem civitatem suam, quia victimae solemnes ibi sunt universis contribulibus suis.	2020-04-18	Liber_Primus_Regum
+1100000726	si dixerit: bene: pax erit servo tuo. 	2020-04-18	Liber_Primus_Regum
+1100000727	si autem fuerit iratus, scito quia completa est malitia eius.	2020-04-18	Liber_Primus_Regum
+1100000728	fac ergo misericordiam in servum tuum, quia foedus domini me famulum tuum tecum inire fecisti: si autem est iniquitas aliqua in me, tu me interfice, et ad patrem tuum ne introducas me.	2020-04-18	Liber_Primus_Regum
+1100000729	et ait ionathas: absit hoc a te: neque enim fieri potest, ut si certe cognovero completam esse patris mei malitiam contra te, non annuntiem tibi.	2020-04-18	Liber_Primus_Regum
+1100000730	responditque david ad ionathan: quis renuntiabit mihi, si quid forte responderit tibi pater tuus dure de me?	2020-04-18	Liber_Primus_Regum
+1100000731	et ait ionathas ad david: veni, et egrediamur foras in agrum. 	2020-04-18	Liber_Primus_Regum
+1100000732	cumque exissent ambo in agrum,ait ionathas ad david: domine deus israel, si investigavero sententiam patris mei crastino vel perendie, et aliquid boni fuerit super david, et non statim misero ad te, et notum tibi fecero,haec faciat dominus ionathae, et haec addat. 	2020-04-18	Liber_Primus_Regum
+1100000733	si autem perseveraverit patris mei malitia adversum te, revelabo aurem tuam, et dimittam te, ut vadas in pace, et sit dominus tecum, sicut fuit cum patre meo.	2020-04-18	Liber_Primus_Regum
+1100000734	et si vixero, facies mihi misericordiam domini: si vero mortuus fuero,non auferes misericordiam tuam a domo mea usque in sempiternum, quando eradicaverit dominus inimicos david, unumquemque de terra: auferat ionathan de domo sua, et requirat dominus de manu inimicorum david.	2020-04-18	Liber_Primus_Regum
+1100000735	pepigit ergo ionathas foedus cum domo david: et requisivit dominus de manu inimicorum david.	2020-04-18	Liber_Primus_Regum
+1100000736	et addidit ionathas deierare david, eo quod diligeret illum: sicut enim animam suam, ita diligebat eum.	2020-04-18	Liber_Primus_Regum
+1100000737	dixitque ad eum ionathas: cras calendae sunt, et requireris:requiretur enim sessio tua usque perendie. 	2020-04-18	Liber_Primus_Regum
+1100000738	descendes ergo festinus, et venies in locum ubi celandus es in die qua operari licet, et sedebis iuxta lapidem cui nomen est ezel.	2020-04-18	Liber_Primus_Regum
+1100000739	et ego tres sagittas mittam iuxta eum, et iaciam quasi exercens me ad signum.	2020-04-18	Liber_Primus_Regum
+1100000740	mittam quoque et puerum, dicens ei: vade, et affer mihi sagittas.	2020-04-18	Liber_Primus_Regum
+1100000741	si dixero puero: ecce sagittae intra te sunt, tolle eas: tu veni ad me, quia pax tibi est, et nihil est mali, vivit dominus. 	2020-04-18	Liber_Primus_Regum
+1100000742	si autem sic locutus fuero puero: ecce sagittae ultra te sunt: vade in pace, quia dimisit te dominus.	2020-04-18	Liber_Primus_Regum
+1100000743	de verbo autem quod locuti sumus ego et tu, sit dominus inter me et te usque in sempiternum.	2020-04-18	Liber_Primus_Regum
+1100000744	absconditus est ergo david in agro, et venerunt calendae, et sedit rex ad comedendum panem.	2020-04-18	Liber_Primus_Regum
+1100000745	cumque sedisset rex super cathedram suam (secundum consuetudinem) quae erat iuxta parietem, surrexit ionathas, et sedit abner ex latere saul: vacuusque apparuit locus david.	2020-04-18	Liber_Primus_Regum
+1100000746	et non est locutus saul quidquam in die illa: cogitabat enim quod forte evenisset ei, ut non esset mundus, nec purificatus.	2020-04-18	Liber_Primus_Regum
+1100000747	cumque illuxisset dies secunda post calendas, rursus apparuit vacuus locus david. 	2020-04-18	Liber_Primus_Regum
+1100000748	dixitque saul ad ionathan filium suum: cur non venit filius isai nec heri nec hodie ad vescendum?	2020-04-18	Liber_Primus_Regum
+1100000749	responditque ionathas sauli: rogavit me obnixe ut iret in bethlehem,et ait: dimitte me, quoniam sacrificium solemne est in civitate, unus de fratribus meis accersivit me: nunc ergo si inveni gratiam in oculis tuis, vadam cito, et videbo fratres meos. 	2020-04-18	Liber_Primus_Regum
+1100000750	ob hanc causam non venit ad mensam regis.	2020-04-18	Liber_Primus_Regum
+1100000751	iratus autem saul adversum ionathan, dixit ei: fili mulieris virum ultro rapientis, numquid ignoro quia diligis filium isai in confusionem tuam, et in confusionem ignominiosae matris tuae?	2020-04-18	Liber_Primus_Regum
+1100000752	omnibus enim diebus quibus filius isai vixerit super terram, non stabilieris tu, neque regnum tuum. 	2020-04-18	Liber_Primus_Regum
+1100000753	itaque iam nunc mitte, et adduc eum ad me: quia filius mortis est.	2020-04-18	Liber_Primus_Regum
+1100000754	respondens autem ionathas sauli patri suo, ait: quare morietur? 	2020-04-18	Liber_Primus_Regum
+1100000755	quid fecit?	2020-04-18	Liber_Primus_Regum
+1100000756	et arripuit saul lanceam ut percuteret eum. 	2020-04-18	Liber_Primus_Regum
+1100000757	et intellexit ionathas quod definitum esset a patre suo, ut interficeret david.	2020-04-18	Liber_Primus_Regum
+1100000758	surrexit ergo ionathas a mensa in ira furoris, et non comedit in die calendarum secunda panem. 	2020-04-18	Liber_Primus_Regum
+1100000759	contristatus est enim super david, eo quod confudisset eum pater suus.	2020-04-18	Liber_Primus_Regum
+1100000760	cumque illuxisset mane, venit ionathas in agrum iuxta placitum david, et puer parvulus cum eo.	2020-04-18	Liber_Primus_Regum
+1100000761	et ait ad puerum suum: vade, et affer mihi sagittas quas ego iacio. 	2020-04-18	Liber_Primus_Regum
+1100000762	cumque puer cucurrisset, iecit aliam sagittam trans puerum.	2020-04-18	Liber_Primus_Regum
+1100000763	venit itaque puer ad locum iaculi quod miserat ionathas: et clamavit ionathas post tergum pueri, et ait: ecce ibi est sagitta porro ultra te.	2020-04-18	Liber_Primus_Regum
+1100000764	clamavitque iterum ionathas post tergum pueri, dicens: festina velociter, ne steteris. 	2020-04-18	Liber_Primus_Regum
+1100000765	collegit autem puer ionathae sagittas, et attulit ad dominum suum:et quid ageretur, penitus ignorabat, tantummodo enim ionathas et david rem noverant.	2020-04-18	Liber_Primus_Regum
+1100000766	dedit ergo ionathas arma sua puero, et dixit ei: vade, et defer in civitatem.	2020-04-18	Liber_Primus_Regum
+1100000767	cumque abiisset puer, surrexit david de loco qui vergebat ad austrum, et cadens pronus in terram, adoravit tertio: et osculantes se alterutrum, fleverunt pariter, david autem amplius.	2020-04-18	Liber_Primus_Regum
+1100000768	dixit ergo ionathas ad david: vade in pace: quaecumque iuravimus ambo in nomine domini, dicentes: dominus sit inter me et te, et inter semen meum et semen tuum usque in sempiternum.	2020-04-18	Liber_Primus_Regum
+1100000769	et surrexit david, et abiit: sed et ionathas ingressus est civitatem.	2020-04-18	Liber_Primus_Regum
+1100000770	caput 21	2020-04-18	Liber_Primus_Regum
+1100000771	venit autem david in nobe ad achimelech sacerdotem: et obstupuit achimelech, eo quod venisset david. 	2020-04-18	Liber_Primus_Regum
+1100000772	et dixit ei: quare tu solus, et nullus est tecum?	2020-04-18	Liber_Primus_Regum
+1100000773	et ait david ad achimelech sacerdotem: rex praecepit mihi sermonem, et dixit: nemo sciat rem propter quam missus es a me, et cuiusmodi praecepta tibi dederim: nam et pueris condixi in illum et illum locum.	2020-04-18	Liber_Primus_Regum
+1100000774	nunc ergo si quid habes ad manum, vel quinque panes, da mihi, aut quidquid inveneris.	2020-04-18	Liber_Primus_Regum
+1100000775	et respondens sacerdos ad david, ait illi: non habeo laicos panes ad manum, sed tantum panem sanctum: si mundi sunt pueri, maxime a mulieribus?	2020-04-18	Liber_Primus_Regum
+1100000776	et respondit david sacerdoti, et dixit ei: equidem, si de mulieribus agitur: continuimus nos ab heri et nudiustertius quando egrediebamur, et fuerunt vasa puerorum sancta. 	2020-04-18	Liber_Primus_Regum
+1100000777	porro via haec polluta est, sed et ipsa hodie sanctificabitur in vasis.	2020-04-18	Liber_Primus_Regum
+1100000778	dedit ergo ei sacerdos sanctificatum panem: neque enim erat ibi panis, nisi tantum panes propositionis, qui sublati fuerant a facie domini, ut ponerentur panes calidi.	2020-04-18	Liber_Primus_Regum
+1100000779	erat autem ibi vir quidam de servis saul in die illa, intus in tabernaculo domini: et nomen eius doeg idumaeus, potentissimus pastorum saul.	2020-04-18	Liber_Primus_Regum
+1100000780	dixit autem david ad achimelech: si habes hic ad manum hastam aut gladium? 	2020-04-18	Liber_Primus_Regum
+1100000781	quia gladium meum et arma mea non tuli mecum: sermo enim regis urgebat.	2020-04-18	Liber_Primus_Regum
+1100000782	et dixit sacerdos: ecce hic gladius goliath philisthaei, quem percussisti in valle terebinthi: est involutus pallio post ephod: si istum vis tollere, tolle: neque enim hic est alius absque eo. 	2020-04-18	Liber_Primus_Regum
+1100000783	et ait david: non est huic alter similis: da mihi eum.	2020-04-18	Liber_Primus_Regum
+1100000784	surrexit itaque david, et fugit in die illa a facie saul: et venit ad achis regem geth.	2020-04-18	Liber_Primus_Regum
+1100000785	dixeruntque servi achis ad eum cum vidissent david: numquid non iste est david rex terrae? 	2020-04-18	Liber_Primus_Regum
+1100000786	nonne huic cantabant per choros, dicentes:	2020-04-18	Liber_Primus_Regum
+1100000787	percussit saul mille,	2020-04-18	Liber_Primus_Regum
+1100000788	et david decem millia?	2020-04-18	Liber_Primus_Regum
+1100000789	posuit autem david sermones istos in corde suo, et extimuit valde a facie achis regis geth.	2020-04-18	Liber_Primus_Regum
+1100000790	et immutavit os suum coram eis, et collabebatur inter manus eorum: et impingebat in ostia portae, defluebantque salivae eius in barbam.	2020-04-18	Liber_Primus_Regum
+1100000791	et ait achis ad servos suos: vidistis hominem insanum: quare adduxistis eum ad me?	2020-04-18	Liber_Primus_Regum
+1100000792	an desunt nobis furiosi, quod introduxistis istum, ut fureret me praesente? 	2020-04-18	Liber_Primus_Regum
+1100000793	hiccine ingredietur domum meam?	2020-04-18	Liber_Primus_Regum
+1100000794	caput 22	2020-04-18	Liber_Primus_Regum
+1100000795	abiit ergo david inde, et fugit in speluncam odollam. 	2020-04-18	Liber_Primus_Regum
+1100000796	quod cum audissent fratres eius, et omnis domus patris eius, descenderunt ad eum illuc.	2020-04-18	Liber_Primus_Regum
+1100000797	et convenerunt ad eum omnes qui erant in angustia constituti, et oppressi aere alieno, et amaro animo: et factus est eorum princeps, fueruntque cum eo quasi quadringenti viri.	2020-04-18	Liber_Primus_Regum
+1100000798	et profectus est david inde in maspha, quae est moab: et dixit ad regem moab: maneat, oro, pater meus et mater mea vobiscum, donec sciam quid faciat mihi deus.	2020-04-18	Liber_Primus_Regum
+1100000799	et reliquit eos ante faciem regis moab: manseruntque apud eum cunctis diebus quibus david fuit in praesidio.	2020-04-18	Liber_Primus_Regum
+1100000800	dixitque gad propheta ad david: noli manere in praesidio: proficiscere, et vade in terram iuda. 	2020-04-18	Liber_Primus_Regum
+1100000801	et profectus est david, et venit in saltum haret.	2020-04-18	Liber_Primus_Regum
+1100000802	et audivit saul quod apparuisset david, et viri qui erant cum eo. 	2020-04-18	Liber_Primus_Regum
+1100000803	saul autem cum maneret in gabaa, et esset in nemore quod est in rama, hastam manu tenens, cunctique servi eius circumstarent eum,ait ad servos suos qui assistebant ei: audite nunc, filii iemini: numquid omnibus vobis dabit filius isai agros et vineas, et universos vos faciet tribunos et centuriones?	2020-04-18	Liber_Primus_Regum
+1100000804	quoniam coniurastis omnes adversum me, et non est qui mihi renuntiet, maxime cum et filius meus foedus inierit cum filio isai. 	2020-04-18	Liber_Primus_Regum
+1100000805	non est qui vicem meam doleat ex vobis, nec qui annuntiet mihi: eo quod suscitaverit filius meus servum meum adversum me, insidiantem mihi usque hodie.	2020-04-18	Liber_Primus_Regum
+1100000806	respondens autem doeg idumaeus, qui assistebat, et erat primus inter servos saul: vidi, inquit, filium isai in nobe apud achimelech filium achitob sacerdotem.	2020-04-18	Liber_Primus_Regum
+1100000807	qui consuluit pro eo dominum, et cibaria dedit ei: sed et gladium goliath philisthaei dedit illi.	2020-04-18	Liber_Primus_Regum
+1100000808	misit ergo rex ad accersendum achimelech sacerdotem filium achitob, et omnem domum patris eius, sacerdotum qui erant in nobe, qui universi venerunt ad regem.	2020-04-18	Liber_Primus_Regum
+1100000809	et ait saul ad achimelech: audi, fili achitob. 	2020-04-18	Liber_Primus_Regum
+1100000810	qui respondit: praesto sum, domine.	2020-04-18	Liber_Primus_Regum
+1100000811	dixitque ad eum saul: quare coniurastis adversum me, tu et filius isai, et dedisti ei panes et gladium, et consuluisti pro eo deum, ut consurgeret adversum me, insidiator usque hodie permanens?	2020-04-18	Liber_Primus_Regum
+1100000812	respondensque achimelech regi, ait: et quis in omnibus servis tuis sicut david, fidelis, et gener regis, et pergens ad imperium tuum, et gloriosus in domo tua?	2020-04-18	Liber_Primus_Regum
+1100000813	num hodie coepi pro eo consulere deum? 	2020-04-18	Liber_Primus_Regum
+1100000814	absit hoc a me: ne suspicetur rex adversus servum suum rem huiuscemodi, in universa domo patris mei: non enim scivit servus tuus quidquam super hoc negotio, vel modicum vel grande.	2020-04-18	Liber_Primus_Regum
+1100000815	dixitque rex: morte morieris achimelech, tu et omnis domus patris tui.	2020-04-18	Liber_Primus_Regum
+1100000816	et ait rex emissariis qui circumstabant eum: convertimini, et interficite sacerdotes domini, nam manus eorum cum david est: scientes quod fugisset, et non indicaverunt mihi. 	2020-04-18	Liber_Primus_Regum
+1100000817	noluerunt autem servi regis extendere manus suas in sacerdotes domini.	2020-04-18	Liber_Primus_Regum
+1100000818	et ait rex ad doeg: convertere tu, et irrue in sacerdotes. 	2020-04-18	Liber_Primus_Regum
+1100000819	conversusque doeg idumaeus, irruit in sacerdotes, et trucidavit in die illa octoginta quinque viros vestitos ephod lineo.	2020-04-18	Liber_Primus_Regum
+1100000820	nobe autem civitatem sacerdotum percussit in ore gladii, viros et mulieres, et parvulos et lactentes, bovemque, et asinum, et ovem in ore gladii.	2020-04-18	Liber_Primus_Regum
+1100000821	evadens autem unus filius achimelech filii achitob, cuius nomen erat abiathar, fugit ad david,et annuntiavit ei quod occidisset saul sacerdotes domini.	2020-04-18	Liber_Primus_Regum
+1100000822	et ait david ad abiathar: sciebam in die illa quod cum ibi esset doeg idumaeus, procul dubio annuntiaret sauli: ego sum reus omnium animarum patris tui.	2020-04-18	Liber_Primus_Regum
+1100000823	mane mecum: ne timeas: si quis quaesierit animam meam, quaeret et animam tuam, mecumque servaberis.	2020-04-18	Liber_Primus_Regum
+1100000824	caput 23	2020-04-18	Liber_Primus_Regum
+1100000825	et annuntiaverunt david, dicentes: ecce philisthiim oppugnant ceilam et diripiunt areas.	2020-04-18	Liber_Primus_Regum
+1100000826	consuluit ergo david dominum, dicens: num vadam, et percutiam philisthaeos istos? 	2020-04-18	Liber_Primus_Regum
+1100000827	et ait dominus ad david: vade, et percuties philisthaeos, et ceilam salvabis.	2020-04-18	Liber_Primus_Regum
+1100000828	et dixerunt viri qui erant cum david ad eum: ecce nos hic in iudaea consistentes timemus: quanto magis si ierimus in ceilam adversum agmina philisthinorum?	2020-04-18	Liber_Primus_Regum
+1100000829	rursum ergo david consuluit dominum. 	2020-04-18	Liber_Primus_Regum
+1100000830	qui respondens, ait ei: surge, et vade in ceilam: ego enim tradam philisthaeos in manu tua.	2020-04-18	Liber_Primus_Regum
+1100000831	abiit ergo david et viri eius in ceilam, et pugnavit adversum philisthaeos: et abegit iumenta eorum, et percussit eos plaga magna: et salvavit david habitatores ceilae.	2020-04-18	Liber_Primus_Regum
+1100000832	porro eo tempore quo fugiebat abiathar filius achimelech ad david in ceilam, ephod secum habens descenderat.	2020-04-18	Liber_Primus_Regum
+1100000833	nuntiatum est autem sauli quod venisset david in ceilam: et ait saul: tradidit eum deus in manus meas, conclususque est introgressus urbem, in qua portae et serae sunt.	2020-04-18	Liber_Primus_Regum
+1100000834	et praecepit saul omni populo ut ad pugnam descenderet in ceilam, et obsideret david et viros eius.	2020-04-18	Liber_Primus_Regum
+1100000835	quod cum david rescisset quia praepararet ei saul clam malum, dixit ad abiathar sacerdotem: applica ephod.	2020-04-18	Liber_Primus_Regum
+1100000836	et ait david: domine deus israel, audivit famam servus tuus, quod disponat saul venire in ceilam, ut evertat urbem propter me:si tradent me viri ceilae in manus eius? 	2020-04-18	Liber_Primus_Regum
+1100000837	et si descendet saul, sicut audivit servus tuus? 	2020-04-18	Liber_Primus_Regum
+1100000838	domine deus israel, indica servo tuo. 	2020-04-18	Liber_Primus_Regum
+1100000839	et ait dominus: descendet.	2020-04-18	Liber_Primus_Regum
+1100000840	dixitque david: si tradent me viri ceilae, et viros qui sunt mecum, in manus saul? 	2020-04-18	Liber_Primus_Regum
+1100000841	et dixit dominus: tradent.	2020-04-18	Liber_Primus_Regum
+1100000842	surrexit ergo david et viri eius quasi sexcenti, et egressi de ceila, huc atque illuc vagabantur incerti: nuntiatumque est sauli quod fugisset david de ceila, et salvatus esset: quam ob rem dissimulavit exire.	2020-04-18	Liber_Primus_Regum
+1100000843	morabatur autem david in deserto in locis firmissimis, mansitque in monte solitudinis ziph, in monte opaco: quaerebat eum tamen saul cunctis diebus, et non tradidit eum deus in manus eius.	2020-04-18	Liber_Primus_Regum
+1100000844	et vidit david quod egressus esset saul ut quaereret animam eius. 	2020-04-18	Liber_Primus_Regum
+1100000845	porro david erat in deserto ziph in silva.	2020-04-18	Liber_Primus_Regum
+1100000846	et surrexit ionathas filius saul, et abiit ad david in silvam, et confortavit manus eius in deo: dixitque ei:ne timeas: neque enim inveniet te manus saul patris mei, et tu regnabis super israel, et ego ero tibi secundus: sed et saul pater meus scit hoc.	2020-04-18	Liber_Primus_Regum
+1100000847	percussit ergo uterque foedus coram domino: mansitque david in silva, ionathas autem reversus est in domum suam.	2020-04-18	Liber_Primus_Regum
+1100000848	ascenderunt autem ziphaei ad saul in gabaa, dicentes: nonne ecce david latitat apud nos in locis tutissimis silvae, in colle hachila, quae est ad dexteram deserti?	2020-04-18	Liber_Primus_Regum
+1100000849	nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis.	2020-04-18	Liber_Primus_Regum
+1100000850	dixitque saul: benedicti vos a domino, quia doluistis vicem meam.	2020-04-18	Liber_Primus_Regum
+1100000851	abite ergo, oro, et diligentius praeparate, et curiosius agite, et considerate locum ubi sit pes eius, vel quis viderit eum ibi: recogitat enim de me, quod callide insidier ei.	2020-04-18	Liber_Primus_Regum
+1100000852	considerate, et videte omnia latibula eius in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. 	2020-04-18	Liber_Primus_Regum
+1100000853	quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus iuda.	2020-04-18	Liber_Primus_Regum
+1100000854	at illi surgentes abierunt in ziph ante saul: david autem et viri eius erant in deserto maon, in campestribus ad dexteram iesimon.	2020-04-18	Liber_Primus_Regum
+1100000855	ivit ergo saul et socii eius ad quaerendum eum. 	2020-04-18	Liber_Primus_Regum
+1100000856	et nuntiatum est david: statimque descendit ad petram, et versabatur in deserto maon: quod cum audisset saul, persecutus est david in deserto maon.	2020-04-18	Liber_Primus_Regum
+1100000857	et ibat saul ad latus montis ex parte una: david autem et viri eius erant in latere montis ex parte altera. 	2020-04-18	Liber_Primus_Regum
+1100000858	porro david desperabat se posse evadere a facie saul: itaque saul et viri eius in modum coronae cingebant david et viros eius, ut caperent eos.	2020-04-18	Liber_Primus_Regum
+1100000859	et nuntius venit ad saul, dicens: festina, et veni, quoniam infuderunt se philisthiim super terram.	2020-04-18	Liber_Primus_Regum
+1100000860	reversus est ergo saul desistens persequi david, et perrexit in occursum philisthinorum: propter hoc vocaverunt locum illum, petram dividentem.	2020-04-18	Liber_Primus_Regum
+1100000861	caput 24	2020-04-18	Liber_Primus_Regum
+1100000862	ascendit ergo david inde: et habitavit in locis tutissimis engaddi.	2020-04-18	Liber_Primus_Regum
+1100000863	cumque reversus esset saul, postquam persecutus est philisthaeos, nuntiaverunt ei, dicentes: ecce david in deserto est engaddi.	2020-04-18	Liber_Primus_Regum
+1100000864	assumens ergo saul tria millia electorum virorum ex omni israel, perrexit ad investigandum david et viros eius, etiam super abruptissimas petras, quae solis ibicibus perviae sunt.	2020-04-18	Liber_Primus_Regum
+1100000865	et venit ad caulas ovium, quae se offerebant vianti: eratque ibi spelunca, quam ingressus est saul ut purgaret ventrem: porro david et viri eius in interiore parte speluncae latebant.	2020-04-18	Liber_Primus_Regum
+1100000866	et dixerunt servi david ad eum: ecce dies de qua locutus est dominus ad te: ego tradam tibi inimicum tuum, ut facias ei sicut placuerit in oculis tuis. 	2020-04-18	Liber_Primus_Regum
+1100000867	surrexit ergo david, et praecidit oram chlamydis saul silenter.	2020-04-18	Liber_Primus_Regum
+1100000868	post haec percussit cor suum david, eo quod abscidisset oram chlamydis saul.	2020-04-18	Liber_Primus_Regum
+1100000869	dixitque ad viros suos: propitius sit mihi dominus, ne faciam hanc rem domino meo, christo domini, ut mittam manum meam in eum: quia christus domini est.	2020-04-18	Liber_Primus_Regum
+1100000870	et confregit david viros suos sermonibus, et non permisit eos ut consurgerent in saul: porro saul exsurgens de spelunca, pergebat coepto itinere.	2020-04-18	Liber_Primus_Regum
+1100000871	surrexit autem et david post eum: et egressus de spelunca, clamavit post tergum saul, dicens: domine mi rex. 	2020-04-18	Liber_Primus_Regum
+1100000872	et respexit saul post se: et inclinans se david pronus in terram adoravit,dixitque ad saul: quare audis verba hominum loquentium: david quaerit malum adversum te?	2020-04-18	Liber_Primus_Regum
+1100000873	ecce hodie viderunt oculi tui quod tradiderit te dominus in manu mea in spelunca: et cogitavi ut occiderem te, sed pepercit tibi oculus meus: dixi enim: non extendam manum meam in dominum meum, quia christus domini est.	2020-04-18	Liber_Primus_Regum
+1100000874	quin potius pater mi, vide, et cognosce oram chlamydis tuae in manu mea: quoniam cum praescinderem summitatem chlamydis tuae, nolui extendere manum meam in te: animadverte, et vide, quoniam non est in manu mea malum, neque iniquitas, neque peccavi in te: tu autem insidiaris animae meae ut auferas eam.	2020-04-18	Liber_Primus_Regum
+1100000875	iudicet dominus inter me et te, et ulciscatur me dominus ex te: manus autem mea non sit in te.	2020-04-18	Liber_Primus_Regum
+1100000876	sicut et in proverbio antiquo dicitur: ab impiis egredietur impietas: manus ergo mea non sit in te.	2020-04-18	Liber_Primus_Regum
+1100000877	quem persequeris, rex israel? 	2020-04-18	Liber_Primus_Regum
+1100000878	quem persequeris? 	2020-04-18	Liber_Primus_Regum
+1100000879	canem mortuum persequeris, et pulicem unum.	2020-04-18	Liber_Primus_Regum
+1100000880	sit dominus iudex, et iudicet inter me et te: et videat, et iudicet causam meam, et eruat me de manu tua.	2020-04-18	Liber_Primus_Regum
+1100000881	cum autem complesset david loquens sermones huiuscemodi ad saul, dixit saul: numquid vox haec tua est, fili mi david? 	2020-04-18	Liber_Primus_Regum
+1100000882	et levavit saul vocem suam, et flevit:dixitque ad david: iustior tu es quam ego: tu enim tribuisti mihi bona, ego autem reddidi tibi mala.	2020-04-18	Liber_Primus_Regum
+1100000883	et tu indicasti hodie quae feceris mihi bona: quomodo tradiderit me dominus in manum tuam, et non occideris me.	2020-04-18	Liber_Primus_Regum
+1100000884	quis enim cum invenerit inimicum suum, dimittet eum in via bona? 	2020-04-18	Liber_Primus_Regum
+1100000885	sed dominus reddat tibi vicissitudinem hanc pro eo quod hodie operatus es in me.	2020-04-18	Liber_Primus_Regum
+1100000886	et nunc quia scio quod certissime regnaturus sis, et habiturus in manu tua regnum israel:iura mihi in domino, ne deleas semen meum post me, neque auferas nomen meum de domo patris mei.	2020-04-18	Liber_Primus_Regum
+1100000887	et iuravit david sauli. 	2020-04-18	Liber_Primus_Regum
+1100000888	abiit ergo saul in domum suam: et david et viri eius ascenderunt ad tutiora loca.	2020-04-18	Liber_Primus_Regum
+1100000889	caput 25	2020-04-18	Liber_Primus_Regum
+1100000890	mortuus est autem samuel, et congregatus est universus israel, et planxerunt eum, et sepelierunt eum in domo sua in ramatha. 	2020-04-18	Liber_Primus_Regum
+1100000891	consurgensque david descendit in desertum pharan.	2020-04-18	Liber_Primus_Regum
+1100000892	erat autem vir quispiam in solitudine maon, et possessio eius in carmelo, et homo ille magnus nimis: erantque ei oves tria millia, et mille caprae: et accidit ut tonderetur grex eius in carmelo.	2020-04-18	Liber_Primus_Regum
+1100000893	nomen autem viri illius erat nabal. 	2020-04-18	Liber_Primus_Regum
+1100000894	et nomen uxoris eius abigail: eratque mulier illa prudentissima, et speciosa: porro vir eius durus, et pessimus, et malitiosus: erat autem de genere caleb.	2020-04-18	Liber_Primus_Regum
+1100000895	cum ergo audisset david in deserto quod tonderet nabal gregem suum,misit decem iuvenes, et dixit eis: ascendite in carmelum, et venietis ad nabal, et salutabitis eum ex nomine meo pacifice.	2020-04-18	Liber_Primus_Regum
+1100000896	et dicetis: sit fratribus meis et tibi pax, et domui tuae pax, et omnibus, quaecumque habes, sit pax.	2020-04-18	Liber_Primus_Regum
+1100000897	audivi quod tonderent pastores tui, qui erant nobiscum in deserto: numquam eis molesti fuimus, nec aliquando defuit quidquam eis de grege, omni tempore quo fuerunt nobiscum in carmelo.	2020-04-18	Liber_Primus_Regum
+1100000898	interroga pueros tuos, et indicabunt tibi. 	2020-04-18	Liber_Primus_Regum
+1100000899	nunc ergo inveniant pueri tui gratiam in oculis tuis: in die enim bona venimus: quodcumque invenerit manus tua, da servis tuis, et filio tuo david.	2020-04-18	Liber_Primus_Regum
+1100000900	cumque venissent pueri david, locuti sunt ad nabal omnia verba haec ex nomine david: et siluerunt.	2020-04-18	Liber_Primus_Regum
+1100000901	respondens autem nabal pueris david, ait: quis est david? 	2020-04-18	Liber_Primus_Regum
+1100000902	et quis est filius isai? 	2020-04-18	Liber_Primus_Regum
+1100000903	hodie increverunt servi qui fugiunt dominos suos.	2020-04-18	Liber_Primus_Regum
+1100000904	tollam ergo panes meos, et aquas meas, et carnes pecorum quae occidi tonsoribus meis, et dabo viris quos nescio unde sint?	2020-04-18	Liber_Primus_Regum
+1100000905	regressi sunt itaque pueri david per viam suam, et reversi venerunt, et nuntiaverunt ei omnia verba quae dixerat.	2020-04-18	Liber_Primus_Regum
+1100000906	tunc ait david pueris suis: accingatur unusquisque gladio suo. 	2020-04-18	Liber_Primus_Regum
+1100000907	et accincti sunt singuli gladiis suis, accinctusque est et david ense suo: et secuti sunt david quasi quadringenti viri: porro ducenti remanserunt ad sarcinas.	2020-04-18	Liber_Primus_Regum
+1100000908	abigail autem uxori nabal nuntiavit unus de pueris suis, dicens: ecce david misit nuntios de deserto, ut benedicerent domino nostro: et aversatus est eos.	2020-04-18	Liber_Primus_Regum
+1100000909	homines isti boni satis fuerant nobis, et non molesti: nec quidquam aliquando periit omni tempore quo fuimus conversati cum eis in deserto:pro muro erant nobis tam in nocte quam in die, omnibus diebus quibus pavimus apud eos greges.	2020-04-18	Liber_Primus_Regum
+1100000910	quam ob rem considera, et recogita quid facias: quoniam completa est malitia adversum virum tuum, et adversum domum tuam, et ipse est filius belial, ita ut nemo possit ei loqui.	2020-04-18	Liber_Primus_Regum
+1100000911	festinavit igitur abigail, et tulit ducentos panes, et duos utres vini, et quinque arietes coctos, et quinque sata polentae, et centum ligaturas uvae passae, et ducentas massas caricarum, et posuit super asinos:dixitque pueris suis: praecedite me: ecce ego post tergum sequar vos: viro autem suo nabal non indicavit.	2020-04-18	Liber_Primus_Regum
+1100000912	cum ergo ascendisset asinum, et descenderet ad radices montis, david et viri eius descendebant in occursum eius: quibus et illa occurrit.	2020-04-18	Liber_Primus_Regum
+1100000913	et ait david: vere frustra servavi omnia quae huius erant in deserto, et non periit quidquam de cunctis quae ad eum pertinebant: et reddidit mihi malum pro bono.	2020-04-18	Liber_Primus_Regum
+1100000914	haec faciat deus inimicis david, et haec addat, si reliquero de omnibus quae ad ipsum pertinent usque mane mingentem ad parietem.	2020-04-18	Liber_Primus_Regum
+1100000915	cum autem vidisset abigail david, festinavit, et descendit de asino, et procidit coram david super faciem suam, et adoravit super terram,et cecidit ad pedes eius, et dixit: in me sit, domine mi, haec iniquitas: loquatur, obsecro, ancilla tua in auribus tuis, et audi verba famulae tuae.	2020-04-18	Liber_Primus_Regum
+1100000916	ne ponat, oro, dominus meus rex cor suum super virum istum iniquum nabal: quoniam secundum nomen suum stultus est, et stultitia est cum eo: ego autem ancilla tua non vidi pueros tuos, domine mi, quos misisti.	2020-04-18	Liber_Primus_Regum
+1100000917	nunc ergo, domine mi, vivit dominus, et vivit anima tua, qui prohibuit te ne venires in sanguinem, et salvavit manum tuam tibi: et nunc fiant sicut nabal inimici tui, et qui quaerunt domino meo malum.	2020-04-18	Liber_Primus_Regum
+1100000918	quapropter suscipe benedictionem hanc, quam attulit ancilla tua tibi domino meo, et da pueris qui sequuntur te dominum meum.	2020-04-18	Liber_Primus_Regum
+1100000919	aufer iniquitatem famulae tuae: faciens enim faciet dominus tibi domino meo domum fidelem, quia praelia domini, domine mi, tu praeliaris: malitia ergo non inveniatur in te omnibus diebus vitae tuae.	2020-04-18	Liber_Primus_Regum
+1100000920	si enim surrexerit aliquando homo persequens te, et quaerens animam tuam, erit anima domini mei custodita quasi in fasciculo viventium apud dominum deum tuum: porro inimicorum tuorum anima rotabitur, quasi in impetu et circulo fundae.	2020-04-18	Liber_Primus_Regum
+1100000921	cum ergo fecerit dominus tibi domino meo omnia quae locutus est bona de te, et constituerit te ducem super israel,non erit tibi hoc in singultum, et in scrupulum cordis domino meo, quod effuderis sanguinem innoxium, aut ipse te ultus fueris: et cum benefecerit dominus domino meo, recordaberis ancillae tuae.	2020-04-18	Liber_Primus_Regum
+1100000922	et ait david ad abigail: benedictus dominus deus israel, qui misit hodie te in occursum meum, et benedictum eloquium tuum,et benedicta tu, quae prohibuisti me hodie ne irem ad sanguinem, et ulciscerer me manu mea.	2020-04-18	Liber_Primus_Regum
+1100000923	alioquin vivit dominus deus israel, qui prohibuit me ne malum facerem tibi: nisi cito venisses in occursum mihi, non remansisset nabal usque ad lucem matutinam mingens ad parietem.	2020-04-18	Liber_Primus_Regum
+1100000924	suscepit ergo david de manu eius omnia quae attulerat ei, dixitque ei: vade pacifice in domum tuam: ecce audivi vocem tuam, et honoravi faciem tuam.	2020-04-18	Liber_Primus_Regum
+1100000925	venit autem abigail ad nabal: et ecce erat ei convivium in domo eius quasi convivium regis, et cor nabal iucundum: erat enim ebrius nimis: et non indicavit ei verbum pusillum aut grande usque mane.	2020-04-18	Liber_Primus_Regum
+1100000926	diluculo autem cum digessisset vinum nabal, indicavit ei uxor sua verba haec: et emortuum est cor eius intrinsecus, et factus est quasi lapis.	2020-04-18	Liber_Primus_Regum
+1100000927	cumque pertransissent decem dies, percussit dominus nabal, et mortuus est.	2020-04-18	Liber_Primus_Regum
+1100000928	quod cum audisset david mortuum nabal, ait: benedictus dominus, qui iudicavit causam opprobrii mei de manu nabal, et servum suum custodivit a malo, et malitiam nabal reddidit dominus in caput eius. 	2020-04-18	Liber_Primus_Regum
+1100000929	misit ergo david, et locutus est ad abigail, ut sumeret eam sibi in uxorem.	2020-04-18	Liber_Primus_Regum
+1100000930	et venerunt pueri david ad abigail in carmelum, et locuti sunt ad eam, dicentes: david misit nos ad te, ut accipiat te sibi in uxorem.	2020-04-18	Liber_Primus_Regum
+1100000931	quae consurgens, adoravit prona in terram, et ait: ecce famula tua sit in ancillam, ut lavet pedes servorum domini mei.	2020-04-18	Liber_Primus_Regum
+1100000932	et festinavit, et surrexit abigail, et ascendit super asinum, et quinque puellae ierunt cum ea, pedissequae eius, et secuta est nuntios david: et facta est illi uxor.	2020-04-18	Liber_Primus_Regum
+1100000933	sed et achinoam accepit david de iezrael: et fuit utraque uxor eius.	2020-04-18	Liber_Primus_Regum
+1100000934	saul autem dedit michol filiam suam, uxorem david, phalti filio lais, qui erat de gallim.	2020-04-18	Liber_Primus_Regum
+1100000935	caput 26	2020-04-18	Liber_Primus_Regum
+1100000936	et venerunt ziphaei ad saul in gabaa, dicentes: ecce david absconditus est in colle hachila, quae est ex adverso solitudinis.	2020-04-18	Liber_Primus_Regum
+1100000937	et surrexit saul, et descendit in desertum ziph, et cum eo tria millia virorum de electis israel, ut quaereret david in deserto ziph.	2020-04-18	Liber_Primus_Regum
+1100000938	et castrametatus est saul in gabaa hachila, quae erat ex adverso solitudinis in via: david autem habitabat in deserto. 	2020-04-18	Liber_Primus_Regum
+1100000939	videns autem quod venisset saul post se in desertum,misit exploratores, et didicit quod illuc venisset certissime.	2020-04-18	Liber_Primus_Regum
+1100000940	et surrexit david clam, et venit ad locum ubi erat saul: cumque vidisset locum in quo dormiebat saul, et abner filius ner, princeps militiae eius, et saulem dormientem in tentorio, et reliquum vulgus per circuitum eius,ait david ad achimelech hethaeum, et abisai filium sarviae fratrem ioab, dicens: quis descendet mecum ad saul in castra? 	2020-04-18	Liber_Primus_Regum
+1100000941	dixitque abisai: ego descendam tecum.	2020-04-18	Liber_Primus_Regum
+1100000942	venerunt ergo david et abisai ad populum nocte, et invenerunt saul iacentem et dormientem in tentorio, et hastam fixam in terra ad caput eius: abner autem et populum dormientes in circuitu eius.	2020-04-18	Liber_Primus_Regum
+1100000943	dixitque abisai ad david: conclusit deus inimicum tuum hodie in manus tuas: nunc ergo perfodiam eum lancea in terra semel, et secundo opus non erit.	2020-04-18	Liber_Primus_Regum
+1100000944	et dixit david ad abisai: ne interficias eum: quis enim extendet manum suam in christum domini, et innocens erit?	2020-04-18	Liber_Primus_Regum
+1100000945	et dixit david: vivit dominus, quia nisi dominus percusserit eum, aut dies eius venerit ut moriatur, aut in praelium descendens perierit:propitius sit mihi dominus ne extendam manum meam in christum domini. 	2020-04-18	Liber_Primus_Regum
+1100000946	nunc igitur tolle hastam quae est ad caput eius, et scyphum aquae, et abeamus.	2020-04-18	Liber_Primus_Regum
+1100000947	tulit igitur david hastam, et scyphum aquae qui erat ad caput saul, et abierunt: et non erat quisquam qui videret, et intelligeret, et evigilaret, sed omnes dormiebant, quia sopor domini irruerat super eos.	2020-04-18	Liber_Primus_Regum
+1100000948	cumque transisset david ex adverso, et stetisset in vertice montis de longe, et esset grande intervallum inter eos,clamavit david ad populum, et ad abner filium ner, dicens: nonne respondebis, abner? 	2020-04-18	Liber_Primus_Regum
+1100000949	et respondens abner, ait: quis es tu, qui clamas, et inquietas regem?	2020-04-18	Liber_Primus_Regum
+1100000950	et ait david ad abner: numquid non vir tu es? 	2020-04-18	Liber_Primus_Regum
+1100000951	et quis alius similis tui in israel? 	2020-04-18	Liber_Primus_Regum
+1100000952	quare ergo non custodisti dominum tuum regem? 	2020-04-18	Liber_Primus_Regum
+1100000953	ingressus est enim unus de turba ut interficeret regem dominum tuum.	2020-04-18	Liber_Primus_Regum
+1100000954	non est bonum hoc, quod fecisti: vivit dominus, quoniam filii mortis estis vos, qui non custodistis dominum vestrum, christum domini: nunc ergo vide ubi sit hasta regis, et ubi sit scyphus aquae qui erat ad caput eius.	2020-04-18	Liber_Primus_Regum
+1100000955	cognovit autem saul vocem david, et dixit: numquid vox haec tua, fili mi david? 	2020-04-18	Liber_Primus_Regum
+1100000956	et ait david: vox mea, domine mi rex.	2020-04-18	Liber_Primus_Regum
+1100000957	et ait: quam ob causam dominus meus persequitur servum suum? 	2020-04-18	Liber_Primus_Regum
+1100000958	quid feci? 	2020-04-18	Liber_Primus_Regum
+1100000959	aut quod est malum in manu mea?	2020-04-18	Liber_Primus_Regum
+1100000960	nunc ergo audi, oro, domine mi rex, verba servi tui: si dominus incitat te adversum me, odoretur sacrificium: si autem filii hominum, maledicti sunt in conspectu domini qui eiecerunt me hodie ut non habitem in haereditate domini, dicentes: vade, servi diis alienis.	2020-04-18	Liber_Primus_Regum
+1100000961	et nunc non effundatur sanguis meus in terram coram domino: quia egressus est rex israel ut quaerat pulicem unum, sicut persequitur perdix in montibus.	2020-04-18	Liber_Primus_Regum
+1100000962	et ait saul: peccavi: revertere, fili mi david: nequaquam enim ultra tibi malefaciam, eo quod pretiosa fuerit anima mea in oculis tuis hodie: apparet enim quod stulte egerim, et ignoraverim multa nimis.	2020-04-18	Liber_Primus_Regum
+1100000963	et respondens david, ait: ecce hasta regis: transeat unus de pueris regis, et tollat eam.	2020-04-18	Liber_Primus_Regum
+1100000964	dominus autem retribuet unicuique secundum iustitiam suam et fidem: tradidit enim te dominus hodie in manum meam, et nolui extendere manum meam in christum domini.	2020-04-18	Liber_Primus_Regum
+1100000965	et sicut magnificata est anima tua hodie in oculis meis, sic magnificetur anima mea in oculis domini, et liberet me de omni angustia.	2020-04-18	Liber_Primus_Regum
+1100000966	ait ergo saul ad david: benedictus tu, fili mi david: et quidem faciens facies, et potens poteris. 	2020-04-18	Liber_Primus_Regum
+1100000967	abiit autem david in viam suam, et saul reversus est in locum suum.	2020-04-18	Liber_Primus_Regum
+1100000968	caput 27	2020-04-18	Liber_Primus_Regum
+1100000969	et ait david in corde suo: aliquando incidam una die in manus saul: nonne melius est ut fugiam, et salver in terra philisthinorum, ut desperet saul, cessetque me quaerere in cunctis finibus israel? 	2020-04-18	Liber_Primus_Regum
+1100000970	fugiam ergo manus eius.	2020-04-18	Liber_Primus_Regum
+1100000971	et surrexit david, et abiit ipse, et sexcenti viri cum eo, ad achis filium maoch regem geth.	2020-04-18	Liber_Primus_Regum
+1100000972	et habitavit david cum achis in geth, ipse et viri eius: vir et domus eius: et david, et duae uxores eius, achinoam iezrahelitis, et abigail uxor nabal carmeli.	2020-04-18	Liber_Primus_Regum
+1100000973	et nuntiatum est sauli quod fugisset david in geth, et non addidit ultra quaerere eum.	2020-04-18	Liber_Primus_Regum
+1100000974	dixit autem david ad achis: si inveni gratiam in oculis tuis, detur mihi locus in una urbium regionis huius, ut habitem ibi: cur enim manet servus tuus in civitate regis tecum?	2020-04-18	Liber_Primus_Regum
+1100000975	dedit itaque ei achis in die illa siceleg: propter quam causam facta est siceleg regum iuda usque in diem hanc.	2020-04-18	Liber_Primus_Regum
+1100000976	fuit autem numerus dierum quibus habitavit david in regione philisthinorum, quatuor mensium.	2020-04-18	Liber_Primus_Regum
+1100000977	et ascendit david et viri eius, et agebant praedas de gessuri, et de gerzi, et de amalecitis: hi enim pagi habitabantur in terra antiquitus, euntibus sur usque ad terram aegypti.	2020-04-18	Liber_Primus_Regum
+1100000978	et percutiebat david omnem terram, nec relinquebat viventem virum et mulierem: tollensque oves, et boves, et asinos, et camelos, et vestes, revertebatur, et veniebat ad achis.	2020-04-18	Liber_Primus_Regum
+1100000979	dicebat autem ei achis: in quem irruisti hodie? 	2020-04-18	Liber_Primus_Regum
+1100000980	respondebat david: contra meridiem iudae, et contra meridiem ierameel, et contra meridiem ceni.	2020-04-18	Liber_Primus_Regum
+1100000981	virum et mulierem non vivificabat david, nec adducebat in geth, dicens: ne forte loquantur adversum nos: haec fecit david: et hoc erat decretum illi omnibus diebus quibus habitavit in regione philisthinorum.	2020-04-18	Liber_Primus_Regum
+1100000982	credidit ergo achis david, dicens: multa mala operatus est contra populum suum israel: erit igitur mihi servus sempiternus.	2020-04-18	Liber_Primus_Regum
+1100000983	caput 28	2020-04-18	Liber_Primus_Regum
+1100000984	factum est autem in diebus illis, congregaverunt philisthiim agmina sua, ut praepararentur ad bellum contra israel: dixitque achis ad david: sciens nunc scito quoniam mecum egredieris in castris, tu et viri tui.	2020-04-18	Liber_Primus_Regum
+1100000985	dixitque david ad achis: nunc scies quae facturus est servus tuus. 	2020-04-18	Liber_Primus_Regum
+1100000986	et ait achis ad david: et ego custodem capitis mei ponam te cunctis diebus.	2020-04-18	Liber_Primus_Regum
+1100000987	samuel autem mortuus est, planxitque eum omnis israel, et sepelierunt eum in ramatha urbe sua. 	2020-04-18	Liber_Primus_Regum
+1100000988	et saul abstulit magos et hariolos de terra.	2020-04-18	Liber_Primus_Regum
+1100000989	congregatique sunt philisthiim, et venerunt, et castrametati sunt in sunam: congregavit autem et saul universum israel, et venit in gelboe.	2020-04-18	Liber_Primus_Regum
+1100000990	et vidit saul castra philisthiim, et timuit, et expavit cor eius nimis.	2020-04-18	Liber_Primus_Regum
+1100000991	consuluitque dominum, et non respondit ei neque per somnia, neque per sacerdotes, neque per prophetas.	2020-04-18	Liber_Primus_Regum
+1100000992	dixitque saul servis suis: quaerite mihi mulierem habentem pythonem, et vadam ad eam, et sciscitabor per illam. 	2020-04-18	Liber_Primus_Regum
+1100000993	et dixerunt servi eius ad eum: est mulier pythonem habens in endor.	2020-04-18	Liber_Primus_Regum
+1100000994	mutavit ergo habitum suum, vestitusque est aliis vestimentis, et abiit ipse, et duo viri cum eo: veneruntque ad mulierem nocte, et ait illi: divina mihi in pythone, et suscita mihi quem dixero tibi.	2020-04-18	Liber_Primus_Regum
+1100000995	et ait mulier ad eum: ecce, tu nosti quanta fecerit saul, et quomodo eraserit magos et hariolos de terra: quare ergo insidiaris animae meae, ut occidar?	2020-04-18	Liber_Primus_Regum
+1100000996	et iuravit ei saul in domino, dicens: vivit dominus, quia non eveniet tibi quidquam mali propter hanc rem.	2020-04-18	Liber_Primus_Regum
+1100000997	dixitque ei mulier: quem suscitabo tibi? 	2020-04-18	Liber_Primus_Regum
+1100000998	qui ait: samuelem mihi suscita.	2020-04-18	Liber_Primus_Regum
+1100000999	cum autem vidisset mulier samuelem, exclamavit voce magna, et dixit ad saul: quare imposuisti mihi? 	2020-04-18	Liber_Primus_Regum
+1100001000	tu es enim saul.	2020-04-18	Liber_Primus_Regum
+1100001001	dixitque ei rex: noli timere: quid vidisti? 	2020-04-18	Liber_Primus_Regum
+1100001002	et ait mulier ad saul: deos vidi ascendentes de terra.	2020-04-18	Liber_Primus_Regum
+1100001003	dixitque ei: qualis est forma eius? 	2020-04-18	Liber_Primus_Regum
+1100001004	quae ait: vir senex ascendit, et ipse amictus est pallio. 	2020-04-18	Liber_Primus_Regum
+1100001005	et intellexit saul quod samuel esset, et inclinavit se super faciem suam in terra, et adoravit.	2020-04-18	Liber_Primus_Regum
+1100001006	dixit autem samuel ad saul: quare inquietasti me ut suscitarer? 	2020-04-18	Liber_Primus_Regum
+1100001007	et ait saul: coarctor nimis: siquidem philisthiim pugnant adversum me, et deus recessit a me, et exaudire me noluit neque in manu prophetarum, neque per somnia: vocavi ergo te, ut ostenderes mihi quid faciam.	2020-04-18	Liber_Primus_Regum
+1100001008	et ait samuel: quid interrogas me, cum dominus recesserit a te, et transierit ad aemulum tuum?	2020-04-18	Liber_Primus_Regum
+1100001009	faciet enim tibi dominus sicut locutus est in manu mea, et scindet regnum tuum de manu tua et dabit illud proximo tuo david:quia non obedisti voci domini, neque fecisti iram furoris eius in amalec: idcirco quod pateris, fecit tibi dominus hodie.	2020-04-18	Liber_Primus_Regum
+1100001010	et dabit dominus etiam israel tecum in manus philisthiim: cras autem tu et filii tui mecum eritis: sed et castra israel tradet dominus in manus philisthiim.	2020-04-18	Liber_Primus_Regum
+1100001011	statimque saul cecidit porrectus in terram: extimuerat enim verba samuelis, et robur non erat in eo, quia non comederat panem tota die illa.	2020-04-18	Liber_Primus_Regum
+1100001012	ingressa est itaque mulier illa ad saul (conturbatus enim erat valde), dixitque ad eum: ecce obedivit ancilla tua voci tuae, et posui animam meam in manu mea: et audivi sermones tuos, quos locutus es ad me.	2020-04-18	Liber_Primus_Regum
+1100001013	nunc igitur audi et tu vocem ancillae tuae, et ponam coram te buccellam panis, ut comedens convalescas, et possis iter agere.	2020-04-18	Liber_Primus_Regum
+1100001014	qui renuit, et ait: non comedam. 	2020-04-18	Liber_Primus_Regum
+1100001015	coegerunt autem eum servi sui et mulier, et tandem audita voce eorum surrexit de terra, et sedit super lectum.	2020-04-18	Liber_Primus_Regum
+1100001016	mulier autem illa habebat vitulum pascualem in domo, et festinavit, et occidit eum: tollensque farinam, miscuit eam, et coxit azyma,et posuit ante saul et ante servos eius. 	2020-04-18	Liber_Primus_Regum
+1100001017	qui cum comedissent, surrexerunt, et ambulaverunt per totam noctem illam.	2020-04-18	Liber_Primus_Regum
+1100001018	caput 29	2020-04-18	Liber_Primus_Regum
+1100001019	congregata sunt ergo philisthiim universa agmina in aphec: sed et israel castrametatus est super fontem qui erat in iezrahel.	2020-04-18	Liber_Primus_Regum
+1100001020	et satrapae quidem philisthiim incedebant in centuriis et millibus: david autem et viri eius erant in novissimo agmine cum achis.	2020-04-18	Liber_Primus_Regum
+1100001021	dixeruntque principes philisthiim ad achis: quid sibi volunt hebraei isti? 	2020-04-18	Liber_Primus_Regum
+1100001022	et ait achis ad principes philisthiim: num ignoratis david, qui fuit servus saul regis israel, et est apud me multis diebus, vel annis, et non inveni in eo quidquam ex die qua transfugit ad me usque ad diem hanc?	2020-04-18	Liber_Primus_Regum
+1100001023	irati sunt autem adversus eum principes philisthiim, et dixerunt ei: revertatur vir iste, et sedeat in loco suo in quo constituisti eum, et non descendat nobiscum in praelium, ne fiat nobis adversarius, cum praeliari coeperimus: quomodo enim aliter poterit placare dominum suum, nisi in capitibus nostris?	2020-04-18	Liber_Primus_Regum
+1100001024	nonne iste est david, cui cantabant in choris, dicentes:	2020-04-18	Liber_Primus_Regum
+1100001025	percussit saul in millibus suis,	2020-04-18	Liber_Primus_Regum
+1100001026	et david in decem millibus suis?	2020-04-18	Liber_Primus_Regum
+1100001027	vocavit ergo achis david, et ait ei: vivit dominus, quia rectus es tu, et bonus in conspectu meo: et exitus tuus, et introitus tuus mecum est in castris: et non inveni in te quidquam mali ex die qua venisti ad me usque in diem hanc: sed satrapis non places.	2020-04-18	Liber_Primus_Regum
+1100001028	revertere ergo, et vade in pace, et non offendas oculos satraparum philisthiim.	2020-04-18	Liber_Primus_Regum
+1100001029	dixitque david ad achis: quid enim feci, et quid invenisti in me servo tuo, a die qua fui in conspectu tuo usque in diem hanc, ut non veniam et pugnem contra inimicos domini mei regis?	2020-04-18	Liber_Primus_Regum
+1100001030	respondens autem achis, locutus est ad david: scio quia bonus es tu in oculis meis, sicut angelus dei: sed principes philisthinorum dixerunt: non ascendet nobiscum in praelium.	2020-04-18	Liber_Primus_Regum
+1100001031	igitur consurge mane tu, et servi domini tui qui venerunt tecum: et cum de nocte surrexeritis, et coeperit dilucescere, pergite.	2020-04-18	Liber_Primus_Regum
+1100001032	surrexit itaque de nocte david, ipse et viri eius, ut proficiscerentur mane, et reverterentur ad terram philisthiim: philisthiim autem ascenderunt in iezrahel.	2020-04-18	Liber_Primus_Regum
+1100001033	caput 30	2020-04-18	Liber_Primus_Regum
+1100001034	cumque venissent david et viri eius in siceleg die tertia, amalecitae impetum fecerant ex parte australi in siceleg, et percusserant siceleg, et succenderant eam igni.	2020-04-18	Liber_Primus_Regum
+1100001035	et captivas duxerant mulieres ex ea, a minimo usque ad magnum: et non interfecerant quemquam, sed secum duxerant, et pergebant itinere suo.	2020-04-18	Liber_Primus_Regum
+1100001036	cum ergo venissent david et viri eius ad civitatem, et invenissent eam succensam igni, et uxores suas, et filios suos et filias, ductas esse captivas,levaverunt david et populus qui erat cum eo voces suas, et planxerunt donec deficerent in eis lacrimae.	2020-04-18	Liber_Primus_Regum
+1100001037	siquidem et duae uxores david captivae ductae fuerant, achinoam iezrahelites, et abigail uxor nabal carmeli.	2020-04-18	Liber_Primus_Regum
+1100001038	et contristatus est david valde: volebat enim eum populus lapidare, quia amara erat anima uniuscuiusque viri super filiis suis et filiabus: confortatus est autem david in domino deo suo.	2020-04-18	Liber_Primus_Regum
+1100001039	et ait ad abiathar sacerdotem filium achimelech: applica ad me ephod. 	2020-04-18	Liber_Primus_Regum
+1100001040	et applicavit abiathar ephod ad david.	2020-04-18	Liber_Primus_Regum
+1100001041	et consuluit david dominum, dicens: persequar latrunculos hos, et comprehendam eos, an non? 	2020-04-18	Liber_Primus_Regum
+1100001042	dixitque ei dominus: persequere: absque dubio enim comprehendes eos, et excuties praedam.	2020-04-18	Liber_Primus_Regum
+1100001043	abiit ergo david, ipse et sexcenti viri qui erant cum eo, et venerunt usque ad torrentem besor: et lassi quidam substiterunt.	2020-04-18	Liber_Primus_Regum
+1100001044	persecutus est autem david ipse, et quadringenti viri: substiterant enim ducenti, qui lassi transire non poterant torrentem besor.	2020-04-18	Liber_Primus_Regum
+1100001045	et invenerunt virum aegyptium in agro, et adduxerunt eum ad david: dederuntque ei panem ut comederet, et biberet aquam,sed et fragmen massae caricarum, et duas ligaturas uvae passae. 	2020-04-18	Liber_Primus_Regum
+1100001046	quae cum comedisset, reversus est spiritus eius, et refocillatus est: non enim comederat panem, neque biberat aquam, tribus diebus et tribus noctibus.	2020-04-18	Liber_Primus_Regum
+1100001047	dixit itaque ei david: cuius es tu? 	2020-04-18	Liber_Primus_Regum
+1100001048	vel unde? 	2020-04-18	Liber_Primus_Regum
+1100001049	et quo pergis? 	2020-04-18	Liber_Primus_Regum
+1100001050	qui ait: puer aegyptius ego sum, servus viri amalecitae: dereliquit autem me dominus meus, quia aegrotare coepi nudiustertius.	2020-04-18	Liber_Primus_Regum
+1100001051	siquidem nos erupimus ad australem plagam cerethi, et contra iudam, et ad meridiem caleb, et siceleg succendimus igni.	2020-04-18	Liber_Primus_Regum
+1100001052	dixitque ei david: potes me ducere ad cuneum istum? 	2020-04-18	Liber_Primus_Regum
+1100001053	qui ait: iura mihi per deum quod non occidas me, et non tradas me in manus domini mei, et ego ducam te ad cuneum istum. 	2020-04-18	Liber_Primus_Regum
+1100001054	et iuravit ei david.	2020-04-18	Liber_Primus_Regum
+1100001055	qui cum duxisset eum, ecce illi discumbebant super faciem universae terrae comedentes et bibentes, et quasi festum celebrantes diem, pro cuncta praeda et spoliis quae ceperant de terra philisthiim et de terra iuda.	2020-04-18	Liber_Primus_Regum
+1100001056	et percussit eos david a vespere usque ad vesperam alterius diei, et non evasit ex eis quisquam, nisi quadringenti viri adolescentes, qui ascenderant camelos et fugerant.	2020-04-18	Liber_Primus_Regum
+1100001057	eruit ergo david omnia quae tulerant amalecitae, et duas uxores suas eruit.	2020-04-18	Liber_Primus_Regum
+1100001058	nec defuit quidquam a parvo usque ad magnum, tam de filiis quam de filiabus, et de spoliis, et quaecumque rapuerant: omnia reduxit david.	2020-04-18	Liber_Primus_Regum
+1100001059	et tulit universos greges et armenta, et minavit ante faciem suam: dixeruntque: haec est praeda david.	2020-04-18	Liber_Primus_Regum
+1100001060	venit autem david ad ducentos viros qui lassi substiterant, nec sequi potuerant david, et residere eos iusserat in torrente besor: qui egressi sunt obviam david et populo qui erat cum eo. 	2020-04-18	Liber_Primus_Regum
+1100001061	accedens autem david ad populum, salutavit eos pacifice.	2020-04-18	Liber_Primus_Regum
+1100001062	respondensque omnis vir pessimus et iniquus de viris qui ierant cum david, dixit: quia non venerunt nobiscum, non dabimus eis quidquam de praeda quam eruimus: sed sufficiat unicuique uxor sua et filii: quos cum acceperint, recedant.	2020-04-18	Liber_Primus_Regum
+1100001063	dixit autem david: non sic facietis, fratres mei, de his quae tradidit nobis dominus, et custodivit nos, et dedit latrunculos qui eruperant adversum nos, in manus nostras:nec audiet vos quisquam super sermone hoc: aequa enim pars erit descendentis ad praelium, et remanentis ad sarcinas, et similiter divident.	2020-04-18	Liber_Primus_Regum
+1100001064	et factum est hoc ex die illa et deinceps, constitutum et praefinitum, et quasi lex in israel usque in diem hanc.	2020-04-18	Liber_Primus_Regum
+1100001065	venit ergo david in siceleg, et misit dona de praeda senioribus iuda proximis suis, dicens: accipite benedictionem de praeda hostium domini:his qui erant in bethel, et qui in ramoth ad meridiem, et qui in iether,et qui in aroer, et qui in sephamoth, et qui in esthamo,et qui in rachal, et qui in urbibus ierameel, et qui in urbibus ceni,et qui in arama, et qui in lacu asan, et qui in athach,et qui in hebron, et reliquis qui erant in his locis in quibus commoratus fuerat david, ipse et viri eius.	2020-04-18	Liber_Primus_Regum
+1100001066	caput 31	2020-04-18	Liber_Primus_Regum
+1100001067	philisthiim autem pugnabant adversum israel: et fugerunt viri israel ante faciem philisthiim, et ceciderunt interfecti in monte gelboe.	2020-04-18	Liber_Primus_Regum
+1100001068	irrueruntque philisthiim in saul et in filios eius, et percusserunt ionathan, et abinadab, et melchisua filios saul:totumque pondus praelii versum est in saul, et consecuti sunt eum viri sagittarii, et vulneratus est vehementer a sagittariis.	2020-04-18	Liber_Primus_Regum
+1100001069	dixitque saul ad armigerum suum: evagina gladium tuum, et percute me: ne forte veniant incircumcisi isti, et interficiant me, illudentes mihi. 	2020-04-18	Liber_Primus_Regum
+1100001070	et noluit armiger eius: fuerat enim nimio terrore perterritus. 	2020-04-18	Liber_Primus_Regum
+1100001071	arripuit itaque saul gladium, et irruit super eum.	2020-04-18	Liber_Primus_Regum
+1100001072	quod cum vidisset armiger eius, videlicet quod mortuus esset saul, irruit etiam ipse super gladium suum, et mortuus est cum eo.	2020-04-18	Liber_Primus_Regum
+1100001073	mortuus est ergo saul, et tres filii eius, et armiger illius, et universi viri eius in die illa pariter.	2020-04-18	Liber_Primus_Regum
+1100001074	videntes autem viri israel qui erant trans vallem et trans iordanem, quod fugissent viri israelitae, et quod mortuus esset saul et filii eius, reliquerunt civitates suas, et fugerunt: veneruntque philisthiim, et habitaverunt ibi.	2020-04-18	Liber_Primus_Regum
+1100001075	facta autem die altera, venerunt philisthiim ut spoliarent interfectos, et invenerunt saul et tres filios eius iacentes in monte gelboe.	2020-04-18	Liber_Primus_Regum
+1100001076	et praeciderunt caput saul, et spoliaverunt eum armis: et miserunt in terram philisthinorum per circuitum, ut annuntiaretur in templo idolorum, et in populis.	2020-04-18	Liber_Primus_Regum
+1100001077	et posuerunt arma eius in templo astaroth, corpus vero eius suspenderunt in muro bethsan.	2020-04-18	Liber_Primus_Regum
+1100001078	quod cum audissent habitatores iabes galaad, quaecumque fecerant philisthiim saul,surrexerunt omnes viri fortissimi, et ambulaverunt tota nocte, et tulerunt cadaver saul, et cadavera filiorum eius, de muro bethsan: veneruntque iabes galaad, et combusserunt ea ibi:et tulerunt ossa eorum, et sepelierunt in nemore iabes, et ieiunaverunt septem diebus.	2020-04-18	Liber_Primus_Regum

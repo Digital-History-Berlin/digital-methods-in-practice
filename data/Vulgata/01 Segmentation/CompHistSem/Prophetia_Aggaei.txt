@@ -1,0 +1,96 @@
+1100000001	prophetia aggaei	2020-04-18	Prophetia_Aggaei
+1100000002	caput 1	2020-04-18	Prophetia_Aggaei
+1100000003	in anno secundo darii regis, in mense sexto, in die una mensis, factum est verbum domini in manu aggaei prophetae, ad zorobabel, filium salathiel, ducem iuda, et ad iesum, filium iosedec, sacerdotem magnum, dicens:haec ait dominus exercituum, dicens: populus iste dicit: nondum venit tempus domus domini aedificandae.	2020-04-18	Prophetia_Aggaei
+1100000004	et factum est verbum domini in manu aggaei prophetae, dicens:	2020-04-18	Prophetia_Aggaei
+1100000005	numquid tempus vobis est ut habitetis in domibus laqueatis,	2020-04-18	Prophetia_Aggaei
+1100000006	et domus ista deserta?	2020-04-18	Prophetia_Aggaei
+1100000007	et nunc haec dicit dominus exercituum:	2020-04-18	Prophetia_Aggaei
+1100000008	ponite corda vestra super vias vestras.	2020-04-18	Prophetia_Aggaei
+1100000009	seminastis multum, et intulistis parum;	2020-04-18	Prophetia_Aggaei
+1100000010	comedistis, et non estis satiati;	2020-04-18	Prophetia_Aggaei
+1100000011	bibistis, et non estis inebriati;	2020-04-18	Prophetia_Aggaei
+1100000012	operuistis vos, et non estis calefacti;	2020-04-18	Prophetia_Aggaei
+1100000013	et qui mercedes congregavit, misit eas in sacculum pertusum.	2020-04-18	Prophetia_Aggaei
+1100000014	haec dicit dominus exercituum:	2020-04-18	Prophetia_Aggaei
+1100000015	ponite corda vestra super vias vestras;	2020-04-18	Prophetia_Aggaei
+1100000016	ascendite in montem, portate ligna, et aedificate domum:	2020-04-18	Prophetia_Aggaei
+1100000017	et acceptabilis mihi erit, et glorificabor, dicit dominus.	2020-04-18	Prophetia_Aggaei
+1100000018	respexistis ad amplius, et ecce factum est minus;	2020-04-18	Prophetia_Aggaei
+1100000019	et intulistis in domum, et exsufflavi illud:	2020-04-18	Prophetia_Aggaei
+1100000020	quam ob causam? 	2020-04-18	Prophetia_Aggaei
+1100000021	dicit dominus exercituum:	2020-04-18	Prophetia_Aggaei
+1100000022	quia domus mea deserta est,	2020-04-18	Prophetia_Aggaei
+1100000023	et vos festinatis unusquisque in domum suam.	2020-04-18	Prophetia_Aggaei
+1100000024	propter hoc super vos prohibiti sunt caeli ne darent rorem,	2020-04-18	Prophetia_Aggaei
+1100000025	et terra prohibita est ne daret germen suum:	2020-04-18	Prophetia_Aggaei
+1100000026	et vocavi siccitatem super terram, et super montes,	2020-04-18	Prophetia_Aggaei
+1100000027	et super triticum, et super vinum, et super oleum,	2020-04-18	Prophetia_Aggaei
+1100000028	et quaecumque profert humus,	2020-04-18	Prophetia_Aggaei
+1100000029	et super homines, et super iumenta,	2020-04-18	Prophetia_Aggaei
+1100000030	et super omnem laborem manuum.	2020-04-18	Prophetia_Aggaei
+1100000031	et audivit zorobabel, filius salathiel, et iesus, filius iosedec, sacerdos magnus, et omnes reliquiae populi, vocem domini dei sui, et verba aggaei prophetae, sicut misit eum dominus deus eorum ad eos, et timuit populus a facie domini.	2020-04-18	Prophetia_Aggaei
+1100000032	et dixit aggaeus, nuntius domini de nuntiis domini, populo dicens: ego vobiscum sum, dicit dominus.	2020-04-18	Prophetia_Aggaei
+1100000033	et suscitavit dominus spiritum zorobabel, filii salathiel, ducis iuda, et spiritum iesu, filii iosedec, sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo domini exercituum, dei sui.	2020-04-18	Prophetia_Aggaei
+1100000034	caput 2	2020-04-18	Prophetia_Aggaei
+1100000035	in die vigesima et quarta mensis, in sexto mense, in anno secundo darii regis.	2020-04-18	Prophetia_Aggaei
+1100000036	in septimo mense, vigesima et prima mensis, factum est verbum domini in manu aggaei prophetae, dicens:loquere ad zorobabel, filium salathiel, ducem iuda, et ad iesum, filium iosedec, sacerdotem magnum, et ad reliquos populi, dicens:	2020-04-18	Prophetia_Aggaei
+1100000037	quis in vobis est derelictus,	2020-04-18	Prophetia_Aggaei
+1100000038	qui vidit domum istam in gloria sua prima?	2020-04-18	Prophetia_Aggaei
+1100000039	et quid vos videtis hanc nunc?	2020-04-18	Prophetia_Aggaei
+1100000040	numquid non ita est, quasi non sit in oculis vestris?	2020-04-18	Prophetia_Aggaei
+1100000041	et nunc confortare, zorobabel, dicit dominus;	2020-04-18	Prophetia_Aggaei
+1100000042	et confortare, iesu, fili iosedec, sacerdos magne;	2020-04-18	Prophetia_Aggaei
+1100000043	et confortare, omnis populus terrae, dicit dominus exercituum:	2020-04-18	Prophetia_Aggaei
+1100000044	et facite (quoniam ego vobiscum sum, dicit dominus exercituum)	2020-04-18	Prophetia_Aggaei
+1100000045	verbum quod pepigi vobiscum cum egrederemini de terra aegypti:	2020-04-18	Prophetia_Aggaei
+1100000046	et spiritus meus erit in medio vestrum: nolite timere.	2020-04-18	Prophetia_Aggaei
+1100000047	quia haec dicit dominus exercituum:	2020-04-18	Prophetia_Aggaei
+1100000048	adhuc unum modicum est,	2020-04-18	Prophetia_Aggaei
+1100000049	et ego commovebo caelum, et terram, et mare, et aridam.	2020-04-18	Prophetia_Aggaei
+1100000050	et movebo omnes gentes,	2020-04-18	Prophetia_Aggaei
+1100000051	et veniet desideratus cunctis gentibus:	2020-04-18	Prophetia_Aggaei
+1100000052	et implebo domum istam gloria,	2020-04-18	Prophetia_Aggaei
+1100000053	dicit dominus exercituum.	2020-04-18	Prophetia_Aggaei
+1100000054	meum est argentum, et meum est aurum,	2020-04-18	Prophetia_Aggaei
+1100000055	dicit dominus exercituum.	2020-04-18	Prophetia_Aggaei
+1100000056	magna erit gloria domus istius novissimae plus quam primae,	2020-04-18	Prophetia_Aggaei
+1100000057	dicit dominus exercituum:	2020-04-18	Prophetia_Aggaei
+1100000058	et in loco isto dabo pacem,	2020-04-18	Prophetia_Aggaei
+1100000059	dicit dominus exercituum.	2020-04-18	Prophetia_Aggaei
+1100000060	in vigesima et quarta noni mensis, in anno secundo darii regis, factum est verbum domini ad aggaeum prophetam, dicens:haec dicit dominus exercituum: interroga sacerdotes legem, dicens:si tulerit homo carnem sanctificatam in ora vestimenti sui, et tetigerit de summitate eius panem, aut pulmentum, aut vinum, aut oleum, aut omnem cibum, numquid sanctificabitur? 	2020-04-18	Prophetia_Aggaei
+1100000061	respondentes autem sacerdotes, dixerunt: non.	2020-04-18	Prophetia_Aggaei
+1100000062	et dixit aggaeus: si tetigerit pollutus in anima ex omnibus his, numquid contaminabitur? 	2020-04-18	Prophetia_Aggaei
+1100000063	et responderunt sacerdotes, et dixerunt: contaminabitur.	2020-04-18	Prophetia_Aggaei
+1100000064	et respondit aggaeus, et dixit:	2020-04-18	Prophetia_Aggaei
+1100000065	sic populus iste,	2020-04-18	Prophetia_Aggaei
+1100000066	et sic gens ista ante faciem meam, dicit dominus,	2020-04-18	Prophetia_Aggaei
+1100000067	et sic omne opus manuum eorum:	2020-04-18	Prophetia_Aggaei
+1100000068	et omnia quae obtulerunt ibi, contaminata erunt.	2020-04-18	Prophetia_Aggaei
+1100000069	et nunc ponite corda vestra a die hac et supra,	2020-04-18	Prophetia_Aggaei
+1100000070	antequam poneretur lapis super lapidem in templo domini.	2020-04-18	Prophetia_Aggaei
+1100000071	cum accederetis ad acervum viginti modiorum,	2020-04-18	Prophetia_Aggaei
+1100000072	et fierent decem;	2020-04-18	Prophetia_Aggaei
+1100000073	et intraretis ad torcular, ut exprimeretis quinquaginta lagenas,	2020-04-18	Prophetia_Aggaei
+1100000074	et fiebant viginti.	2020-04-18	Prophetia_Aggaei
+1100000075	percussi vos vento urente, et aurugine,	2020-04-18	Prophetia_Aggaei
+1100000076	et grandine omnia opera manuum vestrarum:	2020-04-18	Prophetia_Aggaei
+1100000077	et non fuit in vobis qui reverteretur ad me, dicit dominus.	2020-04-18	Prophetia_Aggaei
+1100000078	ponite corda vestra ex die ista, et in futurum,	2020-04-18	Prophetia_Aggaei
+1100000079	a die vigesima et quarta noni mensis:	2020-04-18	Prophetia_Aggaei
+1100000080	a die qua fundamenta iacta sunt templi domini,	2020-04-18	Prophetia_Aggaei
+1100000081	ponite super cor vestrum.	2020-04-18	Prophetia_Aggaei
+1100000082	numquid iam semen in germine est,	2020-04-18	Prophetia_Aggaei
+1100000083	et adhuc vinea, et ficus,	2020-04-18	Prophetia_Aggaei
+1100000084	et malogranatum, et lignum olivae non floruit? 	2020-04-18	Prophetia_Aggaei
+1100000085	ex die ista benedicam.	2020-04-18	Prophetia_Aggaei
+1100000086	et factum est verbum domini secundo ad aggaeum in vigesima et quarta mensis, dicens:loquere ad zorobabel ducem iuda, dicens:	2020-04-18	Prophetia_Aggaei
+1100000087	ego movebo caelum pariter et terram,	2020-04-18	Prophetia_Aggaei
+1100000088	et subvertam solium regnorum,	2020-04-18	Prophetia_Aggaei
+1100000089	et conteram fortitudinem regni gentium:	2020-04-18	Prophetia_Aggaei
+1100000090	et subvertam quadrigam et ascensorem eius,	2020-04-18	Prophetia_Aggaei
+1100000091	et descendent equi, et ascensores eorum,	2020-04-18	Prophetia_Aggaei
+1100000092	vir in gladio fratris sui.	2020-04-18	Prophetia_Aggaei
+1100000093	in die illa, dicit dominus exercituum, assumam te,	2020-04-18	Prophetia_Aggaei
+1100000094	zorobabel, fili salathiel, serve meus, dicit dominus:	2020-04-18	Prophetia_Aggaei
+1100000095	et ponam te quasi signaculum,	2020-04-18	Prophetia_Aggaei
+1100000096	quia te elegi, dicit dominus exercituum.	2020-04-18	Prophetia_Aggaei

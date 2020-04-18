@@ -1,0 +1,242 @@
+1100000001	epistola b. pauli apostoli ad corinthios secunda	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000003	paulus, apostolus iesu christi per voluntatem dei, et timotheus frater, ecclesiae dei, quae est corinthi cum omnibus sanctis, qui sunt in universa achaia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000004	gratia vobis, et pax a deo patre nostro, et domino iesu christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000005	benedictus deus et pater domini nostri iesu christi, pater misericordiarum, et deus totius consolationis,qui consolatur nos in omni tribulatione nostra: ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000006	quoniam sicut abundant passiones christi in nobis: ita et per christum abundat consolatio nostra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000007	sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quae operatur tolerantiam earumdem passionum, quas et nos patimur:ut spes nostra firma sit pro vobis: scientes quod sicut socii passionum estis, sic eritis et consolationis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000008	non enim volumus ignorare vos, fratres, de tribulatione nostra, quae facta est in asia, quoniam supra modum gravati sumus supra virtutem, ita ut taederet nos etiam vivere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000009	sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in deo, qui suscitat mortuos:qui de tantis periculis nos eripuit, et eruit: in quem speramus quoniam et adhuc eripiet,adiuvantibus et vobis in oratione pro nobis: ut ex multorum personis, eius quae in nobis est donationis, per multos gratiae agantur pro nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000010	nam gloria nostra haec est: testimonium conscientiae nostrae, quod in simplicitate cordis et sinceritate dei, et non in sapientia carnali, sed in gratia dei, conversati sumus in hoc mundo: abundantius autem ad vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000011	non enim alia scribimus vobis, quam quae legistis, et cognovistis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000012	spero autem quod usque in finem cognoscetis,sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die domini nostri iesu christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000013	et hac confidentia volui prius venire ad vos, ut secundum gratiam haberetis:et per vos transire in macedoniam, et iterum a macedonia venire ad vos, et a vobis deduci in iudaeam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000014	cum ergo hoc voluissem, numquid levitate usus sum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000015	aut quae cogito, secundum carnem cogito, ut sit apud me est et non?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000016	fidelis autem deus, quia sermo noster, qui fuit apud vos, non est in illo est et non.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000017	dei enim filius iesus christus, qui in vobis per nos praedicatus est, per me, et silvanum, et timotheum, non fuit est et non, sed est in illo fuit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000018	quotquot enim promissiones dei sunt, in illo est: ideo et per ipsum amen deo ad gloriam nostram.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000019	qui autem confirmat nos vobiscum in christo, et qui unxit nos deus:qui et signavit nos, et dedit pignus spiritus in cordibus nostris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000020	ego autem testem deum invoco in animam meam, quod parcens vobis, non veni ultra corinthum: non quia dominamur fidei vestae, sed adiutores sumus gaudii vestri: nam fide statis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000021	caput 2	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000022	statui autem hoc ipsum apud me, ne iterum in tristitia venirem ad vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000023	si enim ego contristo vos: et quis est, qui me laetificet, nisi qui contristatur ex me?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000024	et hoc ipsum scripsi vobis, ut non cum venero, tristitiam super tristitiam habeam, de quibus oportuerat me gaudere: confidens in omnibus vobis, quia meum gaudium, omnium vestrum est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000025	nam ex multa tribulatione et angustia cordis scripsi vobis per multas lacrimas: non ut contristemini, sed ut sciatis, quam caritatem habeam abundantius in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000026	si quis autem contristavit, non me contristavit: sed ex parte, ut non onerem omnes vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000027	sufficit illi, qui eiusmodi est, obiurgatio haec, quae fit a pluribus:ita ut e contrario magis donetis, et consolemini, ne forte abundantiori tristitia absorbeatur qui eiusmodi est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000028	propter quod obsecro vos, ut confirmetis in illum caritatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000029	ideo enim et scripsi, ut cognoscam experimentum vestrum, an in omnibus obedientes sitis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000030	cui autem aliquid donastis, et ego: nam et ego quod donavi, si quid donavi, propter vos in persona christi,ut non circumveniamur a satana: non enim ignoramus cogitationes eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000031	cum venissem autem troadem propter evangelium christi, et ostium mihi apertum esset in domino,non habui requiem spiritui meo, eo quod non invenerim titum fratrem meum, sed valefaciens eis, profectus sum in macedoniam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000032	deo autem gratias, qui semper triumphat nos in christo iesu, et odorem notitiae suae manifestat per nos in omni loco:quia christi bonus odor sumus deo in iis qui salvi fiunt, et in iis qui pereunt:aliis quidem odor mortis in mortem: aliis autem odor vitae in vitam. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000033	et ad haec quis tam idoneus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000034	non enim sumus sicut plurimi, adulterantes verbum dei, sed ex sinceritate, sed sicut ex deo, coram deo, in christo loquimur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000035	caput 3	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000036	incipimus iterum nosmetipsos commendare? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000037	aut numquid egemus (sicut quidam) commendatitiis epistolis ad vos, aut ex vobis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000038	epistola nostra vos estis, scripta in cordibus nostris, quae scitur, et legitur ab omnibus hominibus:manifestati quod epistola estis christi, ministrata a nobis, et scripta non atramento, sed spiritu dei vivi: non in tabulis lapideis, sed in tabulis cordis carnalibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000039	fiduciam autem talem habemus per christum ad deum:non quod sufficientes simus cogitare aliquid a nobis, quasi ex nobis: sed sufficientia nostra ex deo est:qui et idoneos nos fecit ministros novi testamenti: non littera, sed spiritu: littera enim occidit, spiritus autem vivificat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000040	quod si ministratio mortis litteris deformata in lapidibus fuit in gloria, ita ut non possent intendere filii israel in faciem moysi propter gloriam vultus eius, quae evacuatur:quomodo non magis ministratio spiritus erit in gloria?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000041	nam si ministratio damnationis gloria est: multo magis abundat ministerium iustitiae in gloria.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000042	nam nec glorificatum est, quod claruit in hac parte, propter excellentem gloriam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000043	si enim quod evacuatur, per gloriam est: multo magis quod manet, in gloria est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000044	habentes igitur talem spem, multa fiducia utimur:et non sicut moyses ponebat velamen super faciem suam, ut non intenderent filii israel in faciem eius, quod evacuatur,sed obtusi sunt sensus eorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000045	usque in hodiernum enim diem, idipsum velamen in lectione veteris testamenti manet non revelatum (quoniam in christo evacuatur),sed usque in hodiernum diem, cum legitur moyses, velamen positum est super cor eorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000046	cum autem conversus fuerit ad dominum, auferetur velamen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000047	dominus autem spiritus est: ubi autem spiritus domini, ibi libertas.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000048	nos vero omnes, revelata facie gloriam domini speculantes, in eamdem imaginem transformamur a claritate in claritatem, tamquam a domini spiritu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000049	caput 4	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000050	ideo habentes administrationem, iuxta quod misericordiam consecuti sumus, non deficimus,sed abdicamus occulta dedecoris, non ambulantes in astutia, neque adulterantes verbum dei, sed in manifestatione veritatis commendantes nosmetipsos ad omnem conscientiam hominum coram deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000051	quod si etiam opertum est evangelium nostrum, in iis, qui pereunt, est opertum:in quibus deus huius saeculi excaecavit mentes infidelium, ut non fulgeat illis illuminatio evangelii gloriae christi, qui est imago dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000052	non enim nosmetipsos praedicamus, sed iesum christum dominum nostrum: nos autem servos vestros per iesum:quoniam deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiae claritatis dei, in facie christi iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000053	habemus autem thesaurum istum in vasis fictilibus: ut sublimitas sit virtutis dei, et non ex nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000054	in omnibus tribulationem patimur, sed non angustiamur: aporiamur, sed non destituimur:persecutionem patimur, sed non derelinquimur: deiicimur, sed non perimus:semper mortificationem iesu in corpore nostro circumferentes, ut et vita iesu manifestetur in corporibus nostris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000055	semper enim nos, qui vivimus, in mortem tradimur propter iesum: ut et vita iesu manifestetur in carne nostra mortali.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000056	ergo mors in nobis operatur, vita autem in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000057	habentes autem eumdem spiritum fidei, sicut scriptum est: credidi, propter quod locutus sum: et nos credimus, propter quod et loquimur:scientes quoniam qui suscitavit iesum, et nos cum iesu suscitabit, et constituet vobiscum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000058	omnia enim propter vos: ut gratia abundans, per multos in gratiarum actione, abundet in gloriam dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000059	propter quod non deficimus: sed licet is, qui foris est, noster homo corrumpatur, tamen is, qui intus est, renovatur de die in diem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000060	id enim, quod in praesenti est momentaneum et leve tribulationis nostrae, supra modum in sublimitate aeternum gloriae pondus operatur in nobis,non contemplantibus nobis quae videntur, sed quae non videntur. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000061	quae enim videntur, temporalia sunt: quae autem non videntur, aeterna sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000062	caput 5	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000063	scimus enim quoniam si terrestris domus nostra huius habitationis dissolvatur, quod aedificationem ex deo habemus, domum non manufactam, aeternam in caelis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000064	nam et in hoc ingemiscimus, habitationem nostram, quae de caelo est, superindui cupientes:si tamen vestiti, non nudi inveniamur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000065	nam et qui sumus in hoc tabernaculo, ingemiscimus gravati: eo quod nolumus expoliari, sed supervestiri, ut absorbeatur quod mortale est, a vita.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000066	qui autem efficit nos in hoc ipsum, deus, qui dedit nobis pignus spiritus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000067	audentes igitur semper, scientes quoniam dum sumus in corpore, peregrinamur a domino(per fidem enim ambulamus, et non per speciem):audemus autem, et bonam voluntatem habemus magis peregrinari a corpore, et praesentes esse ad dominum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000068	et ideo contendimus, sive absentes, sive praesentes, placere illi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000069	omnes enim nos manifestari oportet ante tribunal christi, ut referat unusquisque propria corporis, prout gessit, sive bonum, sive malum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000070	scientes ergo timorem domini, hominibus suademus, deo autem manifesti sumus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000071	spero autem et in conscientiis vestris manifestos nos esse.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000072	non iterum commendamus nos vobis, sed occasionem damus vobis gloriandi pro nobis: ut habeatis ad eos qui in facie gloriantur, et non in corde.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000073	sive enim mente excedimus deo: sive sobrii sumus, vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000074	caritas enim christi urget nos: aestimantes hoc, quoniam si unus pro omnibus mortuus est, ergo omnes mortui sunt:et pro omnibus mortuus est christus: ut, et qui vivunt, iam non sibi vivant, sed ei qui pro ipsis mortuus est et resurrexit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000075	itaque nos ex hoc neminem novimus secundum carnem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000076	et si cognovimus secundum carnem christum, sed nunc iam non novimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000077	si qua ergo in christo nova creatura, vetera transierunt: ecce facta sunt omnia nova.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000078	omnia autem ex deo, qui nos reconciliavit sibi per christum: et dedit nobis ministerium reconciliationis,quoniam quidem deus erat in christo mundum reconcilians sibi, non reputans illis delicta ipsorum, et posuit in nobis verbum reconciliationis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000079	pro christo ergo legatione fungimur, tamquam deo exhortante per nos. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000080	obsecramus pro christo, reconciliamini deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000081	eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur iustitia dei in ipso.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000082	caput 6	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000083	adiuvantes autem exhortamur ne in vacuum gratiam dei recipiatis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000084	ait enim: tempore accepto exaudivi te, et in die salutis adiuvi te. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000085	ecce nunc tempus acceptabile, ecce nunc dies salutis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000086	nemini dantes ullam offensionem, ut non vituperetur ministerium nostrum:sed in omnibus exhibeamus nosmetipsos sicut dei ministros in multa patientia, in tribulationibus, in necessitatibus, in angustiis,in plagis, in carceribus, in seditionibus, in laboribus, in vigiliis, in ieiuniis,in castitate, in scientia, in longanimitate, in suavitate, in spiritu sancto, in caritate non ficta,in verbo veritatis, in virtute dei, per arma iustitiae a dextris et a sinistris,per gloriam, et ignobilitatem, per infamiam, et bonam famam: ut seductores, et veraces, sicut qui ignoti, et cogniti:quasi morientes, et ecce vivimus: ut castigati, et non mortificati:quasi tristes, semper autem gaudentes: sicut egentes, multos autem locupletantes: tamquam nihil habentes, et omnia possidentes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000087	os nostrum patet ad vos, o corinthii; cor nostrum dilatatum est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000088	non angustiamini in nobis: angustiamini autem in visceribus vestris:eamdem autem habentes remunerationem, tamquam filiis dico, dilatamini et vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000089	nolite iugum ducere cum infidelibus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000090	quae enim participatio iustitiae cum iniquitate? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000091	aut quae societas luci ad tenebras?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000092	quae autem conventio christi ad belial? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000093	aut quae pars fideli cum infideli?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000094	qui autem consensus templo dei cum idolis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000095	vos enim estis templum dei vivi, sicut dicit deus:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000096	quoniam inhabitabo in illis, et inambulabo inter eos,	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000097	et ero illorum deus, et ipsi erunt mihi populus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000098	propter quod exite de medio eorum,	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000099	et separamini, dicit dominus,	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000100	et immundum ne tetigeritis:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000101	et ego recipiam vos:	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000102	et ero vobis in patrem,	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000103	et vos eritis mihi in filios et filias,	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000104	dicit dominus omnipotens.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000105	caput 7	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000106	has ergo habentes promissiones, carissimi, mundemus nos ab omni inquinamento carnis et spiritus, perficientes sanctificationem in timore dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000107	capite nos. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000108	neminem laesimus, neminem corrupimus, neminem circumvenimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000109	non ad condemnationem vestram dico: praediximus enim quod in cordibus nostris estis ad commoriendum et ad convivendum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000110	multa mihi fiducia est apud vos, multa mihi gloriatio pro vobis: repletus sum consolatione; superabundo gaudio in omni tribulatione nostra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000111	nam et cum venissemus in macedoniam, nullam requiem habuit caro nostra, sed omnem tribulationem passi sumus: foris pugnae, intus timores.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000112	sed qui consolatur humiles, consolatus est nos deus in adventu titi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000113	non solum autem in adventu eius, sed etiam in consolatione, qua consolatus est in vobis, referens nobis vestrum desiderium, vestrum fletum, vestram aemulationem pro me, ita ut magis gauderem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000114	quoniam etsi contristavi vos in epistola, non me poenitet: etsi poeniteret, videns quod epistola illa (etsi ad horam) vos contristavit,nunc gaudeo: non quia contristati estis, sed quia contristati estis ad poenitentiam. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000115	contristati enim estis ad deum, ut in nullo detrimentum patiamini ex nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000116	quae enim secundum deum tristitia est, poenitentiam in salutem stabilem operatur: saeculi autem tristitia mortem operatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000117	ecce enim hoc ipsum, secundum deum contristari vos, quantam in vobis operatur sollicitudinem: sed defensionem, sed indignationem, sed timorem, sed desiderium, sed aemulationem, sed vindictam: in omnibus exhibuistis vos incontaminatos esse negotio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000118	igitur, etsi scripsi vobis, non propter eum qui fecit iniuriam, nec propter eum qui passus est: sed ad manifestandam sollicitudinem nostram, quam habemus pro vobiscoram deo: ideo consolati sumus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000119	in consolatione autem nostra, abundantius magis gavisi sumus super gaudio titi, quia refectus est spiritus eius ab omnibus vobis:et si quid apud illum de vobis gloriatus sum, non sum confusus: sed sicut omnia vobis in veritate locuti sumus, ita et gloriatio nostra, quae fuit ad titum, veritas facta est,et viscera eius abundantius in vobis sunt, reminiscentis omnium vestrum obedientiam: quomodo cum timore et tremore excepistis illum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000120	gaudeo quod in omnibus confido in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000121	caput 8	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000122	notam autem facimus vobis, fratres, gratiam dei, quae data est in ecclesiis macedoniae:quod in multo experimento tribulationis abundantia gaudii ipsorum fuit, et altissima paupertas eorum, abundavit in divitias simplicitatis eorum:quia secundum virtutem testimonium illis reddo, et supra virtutem voluntarii fuerunt,cum multa exhortatione obsecrantes nos gratiam, et communicationem ministerii, quod fit in sanctos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000123	et non sicut speravimus, sed semetipsos dederunt primum domino, deinde nobis per voluntatem dei,ita ut rogaremus titum, ut quemadmodum coepit, ita et perficiat in vobis etiam gratiam istam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000124	sed sicut in omnibus abundatis fide, et sermone, et scientia, et omni sollicitudine, insuper et caritate vestra in nos, ut et in hac gratia abundetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000125	non quasi imperans dico: sed per aliorum sollicitudinem, etiam vestrae caritatis ingenium bonum comprobans.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000126	scitis enim gratiam domini nostri iesu christi, quoniam propter vos egenus factus est, cum esset dives, ut illius inopia vos divites essetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000127	et consilium in hoc do: hoc enim vobis utile est, qui non solum facere, sed et velle coepistis ab anno priore:nunc vero et facto perficite: ut quemadmodum promptus est animus voluntatis, ita sit et perficiendi ex eo quod habetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000128	si enim voluntas prompta est, secundum id quod habet, accepta est, non secundum id quod non habet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000129	non enim ut aliis sit remissio, vobis autem tribulatio, sed ex aequalitate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000130	in praesenti tempore vestra abundantia illorum inopiam suppleat: ut et illorum abundantia vestrae inopiae sit supplementum, ut fiat aequalitas, sicut scriptum est:qui multum, non abundavit: et qui modicum, non minoravit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000131	gratias autem deo, qui dedit eamdem sollicitudinem pro vobis in corde titi,quoniam exhortationem quidem suscepit: sed cum sollicitior esset, sua voluntate profectus est ad vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000132	misimus etiam cum illo fratrem, cuius laus est in evangelio per omnes ecclesias:non solum autem, sed et ordinatus est ab ecclesiis comes peregrinationis nostrae in hanc gratiam, quae ministratur a nobis ad domini gloriam, et destinatam voluntatem nostram:devitantes hoc, ne quis nos vituperet in hac plenitudine, quae ministratur a nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000133	providemus enim bona non solum coram deo, sed etiam coram hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000134	misimus autem cum illis et fratrem nostrum, quem probavimus in multis saepe sollicitum esse: nunc autem multo sollicitiorem, confidentia multa in vos,sive pro tito, qui est socius meus, et in vos adiutor, sive fratres nostri, apostoli ecclesiarum, gloria christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000135	ostensionem ergo, quae est caritatis vestrae, et nostrae gloriae pro vobis, in illos ostendite in faciem ecclesiarum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000136	caput 9	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000137	nam de ministerio, quod fit in sanctos ex abundanti est mihi scribere vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000138	scio enim promptum animum vestrum: pro quo de vobis glorior apud macedones. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000139	quoniam et achaia parata est ab anno praeterito, et vestra aemulatio provocavit plurimos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000140	misi autem fratres: ut ne quod gloriamur de vobis, evacuetur in hac parte, ut (quemadmodum dixi) parati sitis:ne cum venerint macedones mecum, et invenerint vos imparatos, erubescamus nos (ut non dicamus vos) in hac substantia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000141	necessarium ergo existimavi rogare fratres, ut praeveniant ad vos, et praeparent repromissam benedictionem hanc paratam esse sic, quasi benedictionem, non tamquam avaritiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000142	hoc autem dico: qui parce seminat, parce et metet: et qui seminat in benedictionibus, de benedictionibus et metet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000143	unusquisque, prout destinavit in corde suo, non ex tristitia, aut ex necessitate: hilarem enim datorem diligit deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000144	potens est autem deus omnem gratiam abundare facere in vobis: ut in omnibus semper omnem sufficientiam habentes, abundetis in omne opus bonum,sicut scriptum est: dispersit, dedit pauperibus: iustitia eius manet in saeculum saeculi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000145	qui autem administrat semen seminanti: et panem ad manducandum praestabit, et multiplicabit semen vestrum, et augebit incrementa frugum iustitiae vestrae:ut in omnibus locupletati abundetis in omnem simplicitatem, quae operatur per nos gratiarum actionem deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000146	quoniam ministerium huius officii non solum supplet ea quae desunt sanctis, sed etiam abundat per multas gratiarum actiones in domino,per probationem ministerii huius, glorificantes deum in obedientia confessionis vestrae, in evangelium christi, et simplicitate communicationis in illos, et in omnes,et in ipsorum obsecratione pro vobis, desiderantium vos propter eminentem gratiam dei in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000147	gratias deo super inenarrabili dono eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000148	caput 10	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000149	ipse autem ego paulus obsecro vos per mansuetudinem et modestiam christi, qui in facie quidem humilis sum inter vos, absens autem confido in vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000150	rogo autem vos ne praesens audeam per eam confidentiam, qua existimor audere in quosdam, qui arbitrantur nos tamquam secundum carnem ambulemus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000151	in carne enim ambulantes, non secundum carnem militamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000152	nam arma militiae nostrae non carnalia sunt, sed potentia deo ad destructionem munitionum, consilia destruentes,et omnem altitudinem extollentem se adversus scientiam dei, et in captivitatem redigentes omnem intellectum in obsequium christi,et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit vestra obedientia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000153	quae secundum faciem sunt, videte. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000154	si quis confidit sibi christi se esse, hoc cogitet iterum apud se: quia sicut ipse christi est, ita et nos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000155	nam etsi amplius aliquid gloriatus fuero de potestate nostra, quam dedit nobis dominus in aedificationem, et non in destructionem vestram, non erubescam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000156	ut autem non existimer tamquam terrere vos per epistolas:quoniam quidem epistolae, inquiunt, graves sunt et fortes: praesentia autem corporis infirma, et sermo contemptibilis:hoc cogitet qui eiusmodi est, quia quales sumus verbo per epistolas absentes, tales et praesentes in facto.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000157	non enim audemus inserere, aut comparare nos quibusdam, qui seipsos commendant: sed ipsi in nobis nosmetipsos metientes, et comparantes nosmetipsos nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000158	nos autem non in immensum gloriabimur, sed secundum mensuram regulae, qua mensus est nobis deus, mensuram pertingendi usque ad vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000159	non enim quasi non pertingentes ad vos, superextendimus nos: usque ad vos enim pervenimus in evangelio christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000160	non in immensum gloriantes in alienis laboribus: spem autem habentes crescentis fidei vestrae, in vobis magnificari secundum regulam nostram in abundantiam,etiam in illa, quae ultra vos sunt, evangelizare, non in aliena regula in iis quae praeparata sunt gloriari.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000161	qui autem gloriatur, in domino glorietur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000162	non enim qui seipsum commendat, ille probatus est: sed quem deus commendat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000163	caput 11	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000164	utinam sustineretis modicum quid insipientiae meae, sed et supportare me:aemulor enim vos dei aemulatione. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000165	despondi enim vos uni viro, virginem castam exhibere christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000166	timeo autem ne sicut serpens hevam seduxit astutia sua, ita corrumpantur sensus vestri, et excidant a simplicitate, quae est in christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000167	nam si is qui venit, alium christum praedicat, quem non praedicavimus, aut alium spiritum accipitis, quem non accepistis: aut aliud evangelium, quod non recepistis: recte pateremini.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000168	existimo enim nihil me minus fecisse a magnis apostolis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000169	nam etsi imperitus sermone, sed non scientia, in omnibus autem manifestati sumus vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000170	aut numquid peccatum feci, meipsum humilians, ut vos exaltemini? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000171	quoniam gratis evangelium dei evangelizavi vobis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000172	alias ecclesias expoliavi, accipiens stipendium ad ministerium vestrum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000173	et cum essem apud vos, et egerem, nulli onerosus fui: nam quod mihi deerat, suppleverunt fratres, qui venerunt a macedonia: et in omnibus sine onere me vobis servavi, et servabo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000174	est veritas christi in me, quoniam haec gloriatio non infringetur in me in regionibus achaiae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000175	quare? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000176	quia non diligo vos? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000177	deus scit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000178	quod autem facio, et faciam: ut amputem occasionem eorum qui volunt occasionem, ut in quo gloriantur, inveniantur sicut et nos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000179	nam eiusmodi pseudoapostoli sunt operarii subdoli, transfigurantes se in apostolos christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000180	et non mirum: ipse enim satanas transfigurat se in angelum lucis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000181	non est ergo magnum, si ministri eius transfigurentur velut ministri iustitiae: quorum finis erit secundum opera ipsorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000182	iterum dico (ne quis me putet insipientem esse, alioquin velut insipientem accipite me, ut et ego modicum quid glorier),quod loquor, non loquor secundum deum, sed quasi in insipientia, in hac substantia gloriae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000183	quoniam multi gloriantur secundum carnem: et ego gloriabor.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000184	libenter enim suffertis insipientes, cum sitis ipsi sapientes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000185	sustinetis enim si quis vos in servitutem redigit, si quis devorat, si quis accipit, si quis extollitur, si quis in faciem vos caedit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000186	secundum ignobilitatem dico, quasi nos infirmi fuerimus in hac parte. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000187	in quo quis audet (in insipientia dico) audeo et ego:hebraei sunt, et ego: israelitae sunt, et ego: semen abrahae sunt, et ego.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000188	ministri christi sunt (ut minus sapiens dico), plus ego: in laboribus plurimis, in carceribus abundantius, in plagis supra modum, in mortibus frequenter.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000189	a iudaeis quinquies, quadragenas, una minus, accepi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000190	ter virgis caesus sum, semel lapidatus sum: ter naufragium feci, nocte et die in profundo maris fui,in itineribus saepe, periculis fluminum, periculis latronum, periculis ex genere, periculis ex gentibus, periculis in civitate, periculis in solitudine, periculis in mari, periculis in falsis fratribus:in labore et aerumna, in vigiliis multis, in fame et siti, in ieiuniis multis, in frigore et nuditate,praeter illa quae extrinsecus sunt, instantia mea quotidiana, sollicitudo omnium ecclesiarum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000191	quis infirmatur, et ego non infirmor? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000192	quis scandalizatur, et ego non uror?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000193	si gloriari oportet, quae infirmitatis meae sunt, gloriabor.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000194	deus et pater domini nostri iesu christi, qui est benedictus in saecula, scit quod non mentior.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000195	damasci praepositus gentis aretae regis custodiebat civitatem damascenorum ut me comprehenderet:et per fenestram in sporta dimissus sum per murum, et sic effugi manus eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000196	caput 12	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000197	si gloriari oportet (non expedit quidem), veniam autem ad visiones et revelationes domini.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000198	scio hominem in christo ante annos quatuordecim, sive in corpore nescio, sive extra corpus nescio, deus scit, raptum huiusmodi usque ad tertium caelum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000199	et scio huiusmodi hominem sive in corpore, sive extra corpus nescio, deus scit:quoniam raptus est in paradisum: et audivit arcana verba, quae non licet homini loqui.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000200	pro huiusmodi gloriabor: pro me autem nihil gloriabor nisi in infirmitatibus meis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000201	nam etsi voluero gloriari, non ero insipiens: veritatem enim dicam: parco autem, ne quis me existimet supra id quod videt in me, aut aliquid audit ex me.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000202	et ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meae angelus satanae, qui me colaphizet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000203	propter quod ter dominum rogavi ut discederet a me:et dixit mihi: sufficit tibi gratia mea: nam virtus in infirmitate perficitur. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000204	libenter igitur gloriabor in infirmitatibus meis, ut inhabitet in me virtus christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000205	propter quod placeo mihi in infirmitatibus meis, in contumeliis, in necessitatibus, in persecutionibus, in angustiis pro christo: cum enim infirmor, tunc potens sum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000206	factus sum insipiens, vos me coegistis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000207	ego enim a vobis debui commendari: nihil enim minus fui ab iis, qui sunt supra modum apostoli: tametsi nihil sum:signa tamen apostolatus mei facta sunt super vos in omni patientia, in signis, et prodigiis, et virtutibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000208	quid est enim, quod minus habuistis prae ceteris ecclesiis, nisi quod ego ipse non gravavi vos? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000209	donate mihi hanc iniuriam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000210	ecce tertio hoc paratus sum venire ad vos: et non ero gravis vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000211	non enim quaero quae vestra sunt, sed vos. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000212	nec enim debent filii parentibus thesaurizare, sed parentes filiis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000213	ego autem libentissime impendam, et super impendar ipse pro animabus vestris: licet plus vos diligens, minus diligar.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000214	sed esto: ego vos non gravavi: sed cum essem astutus, dolo vos cepi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000215	numquid per aliquem eorum, quod misi ad vos, circumveni vos?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000216	rogavi titum, et misi cum illo fratrem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000217	numquid titus vos circumvenit? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000218	nonne eodem spiritu ambulavimus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000219	nonne iisdem vestigiis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000220	olim putatis quod excusemus nos apud vos? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000221	coram deo in christo loquimur: omnia autem, carissimi, propter aedificationem vestram.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000222	timeo enim ne forte cum venero, non quales volo, inveniam vos: et ego inveniar a vobis, qualem non vultis: ne forte contentiones, aemulationes, animositates, dissensiones, detractiones, susurrationes, inflationes, seditiones sint inter vos:ne iterum cum venero, humiliet me deus apud vos, et lugeam multos ex iis qui ante peccaverunt, et non egerunt poenitentiam super immunditia, et fornicatione, et impudicitia, quam gesserunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000223	caput 13	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000224	ecce tertio hoc venio ad vos: in ore duorum vel trium testium stabit omne verbum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000225	praedixi, et praedico, ut praesens, et nunc absens iis qui ante peccaverunt, et ceteris omnibus, quoniam si venero iterum, non parcam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000226	an experimentum quaeritis eius, qui in me loquitur christus, qui in vobis non infirmatur, sed potens est in vobis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000227	nam etsi crucifixus est ex infirmitate: sed vivit ex virtute dei. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000228	nam et nos infirmi sumus in illo: sed vivemus cum eo ex virtute dei in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000229	vosmetipsos tentate si estis in fide: ipsi vos probate. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000230	an non cognoscitis vosmetipsos quia christus iesus in vobis est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000231	nisi forte reprobi estis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000232	spero autem quod cognoscetis, quia nos non sumus reprobi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000233	oramus autem deum ut nihil mali faciatis, non ut nos probati appareamus, sed ut vos quod bonum est faciatis: nos autem ut reprobi simus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000234	non enim possumus aliquid adversus veritatem, sed pro veritate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000235	gaudemus enim, quoniam nos infirmi sumus, vos autem potentes estis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000236	hoc et oramus, vestram consummationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000237	ideo haec absens scribo, ut non praesens durius agam secundum potestatem, quam dominus dedit mihi in aedificationem, et non in destructionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000238	de cetero, fratres, gaudete, perfecti estote, exhortamini, idem sapite, pacem habete, et deus pacis et dilectionis erit vobiscum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000239	salutate invicem in osculo sancto. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000240	salutant vos omnes sancti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000241	gratia domini nostri iesu christi, et caritas dei, et communicatio sancti spiritus sit cum omnibus vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda
+1100000242	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Secunda

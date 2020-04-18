@@ -1,0 +1,886 @@
+1100000001	liber primus paralipomenon	2020-04-18	Liber_Primus_Paralipomenon
+1100000002	caput 1	2020-04-18	Liber_Primus_Paralipomenon
+1100000003	adam, seth, enos,cainan, malaleel, iared,henoch, mathusale, lamech,noe, sem, cham, et iaptheth.	2020-04-18	Liber_Primus_Paralipomenon
+1100000004	filii iapheth: gomer, et magog, et madai, et iavan, thubal, mosoch, thiras.	2020-04-18	Liber_Primus_Paralipomenon
+1100000005	porro filii gomer: ascenez, et riphath, et thogorma.	2020-04-18	Liber_Primus_Paralipomenon
+1100000006	filii autem iavan: elisa et tharsis, cethim et dodanim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000007	filii cham: chus, et mesraim, et phut, et chanaan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000008	filii autem chus: saba, et hevila, sabatha, et regma, et sabathacha. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000009	porro filii regma: saba, et dadan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000010	chus autem genuit nemrod: iste coepit esse potens in terra.	2020-04-18	Liber_Primus_Paralipomenon
+1100000011	mesraim vero genuit ludim, et anamim, et laabim, et nephtuim,phetrusim quoque, et casluim: de quibus egressi sunt philisthiim, et caphtorim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000012	chanaan vero genuit sidonem primogenitum suum, hethaeum quoque,et iebusaeum, et amorrhaeum, et gergesaeum,hevaeumque et aracaeum, et sinaeum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000013	aradium quoque, et samaraeum, et hamathaeum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000014	filii sem: aelam, et assur, et arphaxad, et lud, et aram, et hus, et hul, et gether, et mosoch.	2020-04-18	Liber_Primus_Paralipomenon
+1100000015	arphaxad autem genuit sale, qui et ipse genuit heber.	2020-04-18	Liber_Primus_Paralipomenon
+1100000016	porro heber nati sunt duo filii: nomen uni phaleg, quia in diebus eius divisa est terra; et nomen fratris eius iectan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000017	iectan autem genuit elmodad, et saleph, et asarmoth, et iare,adoram quoque, et huzal, et decla,hebal etiam, et abimael, et saba, necnonet ophir, et hevila, et iobab: omnes isti filii iectan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000018	sem, arphaxad, sale,heber, phaleg, ragau,serug, nachor, thare,abram: iste est abraham.	2020-04-18	Liber_Primus_Paralipomenon
+1100000019	filii autem abraham, isaac et ismahel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000020	et hae generationes eorum. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000021	primogenitus ismahelis, nabaioth, et cedar, et adbeel, et mabsam,et masma, et duma, massa, hadad, et thema,ietur, naphis, cedma: hi sunt filii ismahelis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000022	filii autem ceturae concubinae abraham, quos genuit: zamran, iecsan, madan, madian, iesboc, et sue. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000023	porro filii iecsan: saba, et dadan. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000024	filii autem dadan: assurim, et latussim, et laomim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000025	filii autem madian: epha, et epher, et henoch, et abida, et eldaa: omnes hi filii ceturae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000026	genuit autem abraham isaac: cuius fuerunt filii esau, et israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000027	filii esau: eliphaz, rahuel, iehus, ihelom, et core.	2020-04-18	Liber_Primus_Paralipomenon
+1100000028	filii eliphaz: theman, omar, sephi, gathan, cenez, thamna, amalec.	2020-04-18	Liber_Primus_Paralipomenon
+1100000029	filii rahuel: nahath, zara, samma, meza.	2020-04-18	Liber_Primus_Paralipomenon
+1100000030	filii seir: lotan, sobal, sebeon, ana, dison, eser, disan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000031	filii lotan: hori, homam. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000032	soror autem lotan fuit thamna.	2020-04-18	Liber_Primus_Paralipomenon
+1100000033	filii sobal: alian, et manahath, et ebal, sephi et onam. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000034	filii sebeon: aia et ana. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000035	filii ana: dison.	2020-04-18	Liber_Primus_Paralipomenon
+1100000036	filii dison: hamram, et heseban, et iethran, et charan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000037	filii eser: balaan, et zavan, et iacan. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000038	filii disan: hus et aran.	2020-04-18	Liber_Primus_Paralipomenon
+1100000039	isti sunt reges qui imperaverunt in terra edom, antequam esset rex super filios israel. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000040	bale filius beor: et nomen civitatis eius, denaba.	2020-04-18	Liber_Primus_Paralipomenon
+1100000041	mortuus est autem bale, et regnavit pro eo iobab filius zare de bosra.	2020-04-18	Liber_Primus_Paralipomenon
+1100000042	cumque et iobab fuisset mortuus, regnavit pro eo husam de terra themanorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000043	obiit quoque et husam, et regnavit pro eo adad filius badad, qui percussit madian in terra moab: et nomen civitatis eius avith.	2020-04-18	Liber_Primus_Paralipomenon
+1100000044	cumque et adad fuisset mortuus, regnavit pro eo semla de masreca.	2020-04-18	Liber_Primus_Paralipomenon
+1100000045	sed et semla mortuus est, et regnavit pro eo saul de rohoboth, quae iuxta amnem sita est.	2020-04-18	Liber_Primus_Paralipomenon
+1100000046	mortuo quoque saul, regnavit pro eo balanan filius achobor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000047	sed et hic mortuus est, et regnavit pro eo adad: cuius urbis nomen fuit phau, et appellata est uxor eius meetabel filia matred filiae mezaab.	2020-04-18	Liber_Primus_Paralipomenon
+1100000048	adad autem mortuo, duces pro regibus in edom esse coeperunt: dux thamna, dux alva, dux ietheth,dux oolibama, dux ela, dux phinon,dux cenez, dux theman, dux mabsar,dux magdiel, dux hiram: hi duces edom.	2020-04-18	Liber_Primus_Paralipomenon
+1100000049	caput 2	2020-04-18	Liber_Primus_Paralipomenon
+1100000050	filii autem israel: ruben, simeon, levi, iuda, issachar, et zabulon,dan, ioseph, beniamin, nephthali, gad, et aser.	2020-04-18	Liber_Primus_Paralipomenon
+1100000051	filii iuda: her, onan, et sela: hi tres nati sunt ei de filia sue chananitide. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000052	fuit autem her primogenitus iuda malus coram domino, et occidit eum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000053	thamar autem nurus eius peperit ei phares et zara: omnes ergo filii iuda, quinque.	2020-04-18	Liber_Primus_Paralipomenon
+1100000054	filii autem phares: hesron et hamul.	2020-04-18	Liber_Primus_Paralipomenon
+1100000055	filii quoque zarae: zamri, et ethan, et eman, chalchal quoque, et dara, simul quinque.	2020-04-18	Liber_Primus_Paralipomenon
+1100000056	filii charmi: achar, qui turbavit israel, et peccavit in furto anathematis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000057	filii ethan: azarias.	2020-04-18	Liber_Primus_Paralipomenon
+1100000058	filii autem hesron qui nati sunt ei: ierameel, et ram, et calubi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000059	porro ram genuit aminadab. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000060	aminadab autem genuit nahasson, principem filiorum iuda.	2020-04-18	Liber_Primus_Paralipomenon
+1100000061	nahasson quoque genuit salma, de quo ortus est booz.	2020-04-18	Liber_Primus_Paralipomenon
+1100000062	booz vero genuit obed, qui et ipse genuit isai.	2020-04-18	Liber_Primus_Paralipomenon
+1100000063	isai autem genuit primogenitum eliab, secundum abinadab, tertium simmaa,quartum nathanael, quintum raddai,sextum asom, septimum david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000064	quorum sorores fuerunt sarvia et abigail. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000065	filii sarviae: abisai, ioab, et asael, tres.	2020-04-18	Liber_Primus_Paralipomenon
+1100000066	abigail autem genuit amasa, cuius pater fuit iether ismahelites.	2020-04-18	Liber_Primus_Paralipomenon
+1100000067	caleb vero filius hesron accepit uxorem nomine azuba, de qua genuit ierioth: fueruntque filii eius iaser, et sobab, et ardon.	2020-04-18	Liber_Primus_Paralipomenon
+1100000068	cumque mortua fuisset azuba, accepit uxorem caleb ephratha, quae peperit ei hur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000069	porro hur genuit uri, et uri genuit bezeleel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000070	post haec ingressus est hesron ad filiam machir patris galaad, et accepit eam cum esset annorum sexaginta: quae peperit ei segub.	2020-04-18	Liber_Primus_Paralipomenon
+1100000071	sed et segub genuit iair, et possedit viginti tres civitates in terra galaad.	2020-04-18	Liber_Primus_Paralipomenon
+1100000072	cepitque gessur et aram oppida iair, et canath, et viculos eius sexaginta civitatum: omnes isti filii machir patris galaad.	2020-04-18	Liber_Primus_Paralipomenon
+1100000073	cum autem mortuus esset hesron, ingressus est caleb ad ephratha. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000074	habuit quoque hesron uxorem abia, quae peperit ei assur patrem thecuae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000075	nati sunt autem filii ierameel primogeniti hesron, ram primogenitus eius, et buna, et aram, et asom, et achia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000076	duxit quoque uxorem alteram ierameel, nomine atara, quae fuit mater onam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000077	sed et filii ram primogeniti ierameel fuerunt moos, iamin, et achar.	2020-04-18	Liber_Primus_Paralipomenon
+1100000078	onam autem habuit filios semei et iada. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000079	filii autem semei: nadab et abisur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000080	nomen vero uxoris abisur, abihail, quae peperit ei ahobban et molid.	2020-04-18	Liber_Primus_Paralipomenon
+1100000081	filii autem nadab fuerunt saled et apphaim. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000082	mortuus est autem saled absque liberis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000083	filius vero apphaim, iesi: qui iesi genuit sesan. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000084	porro sesan genuit oholai.	2020-04-18	Liber_Primus_Paralipomenon
+1100000085	filii autem iada fratris semei: iether, et ionathan. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000086	sed et iether mortuus est absque liberis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000087	porro ionathan genuit phaleth, et ziza. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000088	isti fuerunt filii ierameel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000089	sesan autem non habuit filios, sed filias: et servum aegyptium nomine ieraa.	2020-04-18	Liber_Primus_Paralipomenon
+1100000090	deditque ei filiam suam uxorem: quae peperit ei ethei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000091	ethei autem genuit nathan, et nathan genuit zabad.	2020-04-18	Liber_Primus_Paralipomenon
+1100000092	zabad quoque genuit ophlal, et ophlal genuit obed.	2020-04-18	Liber_Primus_Paralipomenon
+1100000093	obed genuit iehu, iehu genuit azariam,azarias genuit helles, et helles genuit elasa.	2020-04-18	Liber_Primus_Paralipomenon
+1100000094	elasa genuit sisamoi, sisamoi genuit sellum,sellum genuit icamiam, icamia autem genuit elisama.	2020-04-18	Liber_Primus_Paralipomenon
+1100000095	filii autem caleb fratris ierameel: mesa primogenitus eius; ipse est pater ziph: et filii maresa patris hebron.	2020-04-18	Liber_Primus_Paralipomenon
+1100000096	porro filii hebron, core, et taphua, et recem, et samma.	2020-04-18	Liber_Primus_Paralipomenon
+1100000097	samma autem genuit raham, patrem iercaam, et recem genuit sammai.	2020-04-18	Liber_Primus_Paralipomenon
+1100000098	filius sammai, maon: et maon pater bethsur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000099	epha autem concubina caleb peperit haran, et mosa, et gezez. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000100	porro haran genuit gezez.	2020-04-18	Liber_Primus_Paralipomenon
+1100000101	filii autem iahaddai, regom, et ioathan, et gesan, et phalet, et epha, et saaph.	2020-04-18	Liber_Primus_Paralipomenon
+1100000102	concubina caleb maacha, peperit saber, et tharana.	2020-04-18	Liber_Primus_Paralipomenon
+1100000103	genuit autem saaph pater madmena sue, patrem machbena et patrem gabaa. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000104	filia vero caleb fuit achsa.	2020-04-18	Liber_Primus_Paralipomenon
+1100000105	hi erant filii caleb, filii hur primogeniti ephratha, sobal pater cariathiarim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000106	salma pater bethlehem, hariph pater bethgader.	2020-04-18	Liber_Primus_Paralipomenon
+1100000107	fuerunt autem filii sobal patris cariathiarim, qui videbat dimidium requietionum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000108	et de cognatione cariathiarim, iethrei, et aphuthei, et semathei, et maserei. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000109	ex his egressi sunt saraitae, et esthaolitae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000110	filii salma, bethlehem, et netophathi, coronae domus ioab, et dimidium requietionis sarai:cognationes quoque scribarum habitantium in iabes, canentes atque resonantes, et in tabernaculis commorantes. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000111	hi sunt cinaei, qui venerunt de calore patris domus rechab.	2020-04-18	Liber_Primus_Paralipomenon
+1100000112	caput 3	2020-04-18	Liber_Primus_Paralipomenon
+1100000113	david vero hos habuit filios, qui ei nati sunt in hebron: primogenitum amnon ex achinoam iezrahelitide, secundum daniel de abigail carmelitide,tertium absalom filium maacha filiae tholmai regis gessur, quartum adoniam filium aggith,quintum saphathiam ex abital, sextum iethraham de egla uxore sua.	2020-04-18	Liber_Primus_Paralipomenon
+1100000114	sex ergo nati sunt ei in hebron, ubi regnavit septem annis et sex mensibus. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000115	triginta autem et tribus annis regnavit in ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000116	porro in ierusalem nati sunt ei filii, simmaa, et sobab, et nathan, et salomon, quatuor de bethsabee filia ammiel:iebaar quoque et elisama,et eliphaleth, et noge, et nepheg, et iaphia,necnon elisama, et eliada, et elipheleth, novem:omnes hi, filii david absque filiis concubinarum: habueruntque sororem thamar.	2020-04-18	Liber_Primus_Paralipomenon
+1100000117	filius autem salomonis, roboam: cuius abia filius genuit asa. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000118	de hoc quoque natus est iosaphat,pater ioram: qui ioram genuit ochoziam, ex quo ortus est ioas:et huius amasias filius genuit azariam. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000119	porro azariae filius ioathamprocreavit achaz patrem ezechiae, de quo natus est manasses.	2020-04-18	Liber_Primus_Paralipomenon
+1100000120	sed et manasses genuit amon patrem iosiae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000121	filii autem iosiae fuerunt: primogenitus iohanan, secundus ioakim, tertius sedecias, quartus sellum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000122	de ioakim natus est iechonias, et sedecias.	2020-04-18	Liber_Primus_Paralipomenon
+1100000123	filii iechoniae fuerunt: asir, salathiel,melchiram, phadaia, senneser, et iecemia, sama, et nadabia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000124	de phadaia orti sunt zorobabel et semei. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000125	zorobabel genuit mosollam, hananiam, et salomith sororem eorum:hasaban quoque, et ohol, et barachian, et hasadian, iosabhesed, quinque.	2020-04-18	Liber_Primus_Paralipomenon
+1100000126	filius autem hananiae, phaltias pater ieseiae, cuius filius raphaia: huius quoque filius, arnan, de quo natus est obdia, cuius filius fuit sechenias.	2020-04-18	Liber_Primus_Paralipomenon
+1100000127	filius secheniae, semeia: cuius filii hattus, et iegaal, et baria, et naaria, et saphat, sex numero.	2020-04-18	Liber_Primus_Paralipomenon
+1100000128	filius naariae, elioenai, et ezechias, et ezricam, tres.	2020-04-18	Liber_Primus_Paralipomenon
+1100000129	filii elioenai, oduia, et eliasub, et pheleia, et accub, et iohanan, et dalaia, et anani, septem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000130	caput 4	2020-04-18	Liber_Primus_Paralipomenon
+1100000131	filii iuda: phares, hesron, et charmi, et hur, et sobal.	2020-04-18	Liber_Primus_Paralipomenon
+1100000132	raia vero filius sobal genuit iahath, de quo nati sunt ahumai, et laad: hae cognationes sarathi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000133	ista quoque stirps etam: iezrahel, et iesema, et iedebos. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000134	nomen quoque sororis eorum, asalelphuni.	2020-04-18	Liber_Primus_Paralipomenon
+1100000135	phanuel autem pater gedor, et ezer pater hosa: isti sunt filii hur primogeniti ephratha patris bethlehem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000136	assur vero patri thecuae erant duae uxores, halaa et naara.	2020-04-18	Liber_Primus_Paralipomenon
+1100000137	peperit autem ei naara, oozam, et hepher, et themani, et ahasthari: isti sunt filii naara.	2020-04-18	Liber_Primus_Paralipomenon
+1100000138	porro filii halaa, sereth, isaar et ethnan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000139	cos autem genuit anob, et soboba, et cognationem aharehel filii arum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000140	fuit autem iabes inclytus prae fratribus suis, et mater eius vocavit nomen illius iabes, dicens: quia peperi eum in dolore.	2020-04-18	Liber_Primus_Paralipomenon
+1100000141	invocavit vero iabes deum israel, dicens: si benedicens benedixeris mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et feceris me a malitia non opprimi. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000142	et praestitit deus quae precatus est.	2020-04-18	Liber_Primus_Paralipomenon
+1100000143	caleb autem frater sua genuit mahir, qui fuit pater esthon.	2020-04-18	Liber_Primus_Paralipomenon
+1100000144	porro esthon genuit bethrapha, et phesse, et tehinna patrem urbis naas: hi sunt viri recha.	2020-04-18	Liber_Primus_Paralipomenon
+1100000145	filii autem cenez, othoniel, et saraia. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000146	porro filii othoniel, hathath, et maonathi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000147	maonathi genuit ophra, saraia autem genuit ioab patrem vallis artificum: ibi quippe artifices erant.	2020-04-18	Liber_Primus_Paralipomenon
+1100000148	filii vero caleb filii iephone, hir, et ela, et naham. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000149	filii quoque ela: cenez.	2020-04-18	Liber_Primus_Paralipomenon
+1100000150	filii quoque ialeleel: ziph, et zipha, thiria, et asrael.	2020-04-18	Liber_Primus_Paralipomenon
+1100000151	et filii ezra, iether, et mered, et epher, et ialon, genuitque mariam, et sammai, et iesba patrem esthamo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000152	uxor quoque eius iudaia, peperit iared patrem gedor, et heber patrem socho, et icuthiel patrem zanoe: hi autem filii bethiae filiae pharaonis, quam accepit mered.	2020-04-18	Liber_Primus_Paralipomenon
+1100000153	et filii uxoris odaiae sororis naham patris ceila, garmi, et esthamo, qui fuit de machathi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000154	filii quoque simon, amnon, et rinna filius hanan, et thilon. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000155	et filii iesi, zoheth, et benzoheth.	2020-04-18	Liber_Primus_Paralipomenon
+1100000156	filii sela, filii iuda: her pater lecha, et laada pater maresa, et cognationes domus operantium byssum in domo iuramenti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000157	et qui stare fecit solem, virique mendacii, et securus, et incendens, qui principes fuerunt in moab, et qui reversi sunt in lahem: haec autem verba vetera.	2020-04-18	Liber_Primus_Paralipomenon
+1100000158	hi sunt figuli habitantes in plantationibus et in sepibus, apud regem in operibus eius: commoratique sunt ibi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000159	filii simeon: namuel et iamin, iarib, zara, saul.	2020-04-18	Liber_Primus_Paralipomenon
+1100000160	sellum filius eius, mapsam filius eius, masma filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000161	filii masma: hamuel filius eius, zachur filius eius, semei filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000162	filii semei sedecim, et filiae sex: fratres autem eius non habuerunt filios multos, et universa cognatio non potuit adaequare summam filiorum iuda.	2020-04-18	Liber_Primus_Paralipomenon
+1100000163	habitaverunt autem in bersabee, et molada, et hasarsuhal,et in bala, et in asom, et in tholad,et in bathuel, et in horma, et in siceleg,et in bethmarchaboth, et in hasarsusim, et in bethberai, et in saarim: hae civitates eorum usque ad regem david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000164	villae quoque eorum: etam, et aen, remmon, et thochen, et asan, civitates quinque.	2020-04-18	Liber_Primus_Paralipomenon
+1100000165	et universi viculi eorum per circuitum civitatum istarum usque ad baal: haec est habitatio eorum, et sedium distributio.	2020-04-18	Liber_Primus_Paralipomenon
+1100000166	mosobab quoque et iemlech, et iosa filius amasiae,et ioel, et iehu filius iosabiae filii saraiae filii asiel,et elioenai, et iacoba, et isuhaia, et asaia, et adiel, et ismiel, et banaia,ziza quoque filius sephei filii allon filii idaia filii semri filii samaia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000167	isti sunt nominati principes in cognationibus suis, et in domo affinitatum suarum multiplicati sunt vehementer.	2020-04-18	Liber_Primus_Paralipomenon
+1100000168	et profecti sunt ut ingrederentur in gador usque ad orientem vallis, et ut quaererent pascua gregibus suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000169	inveneruntque pascuas uberes, et valde bonas, et terram latissimam et quietam et fertilem, in qua ante habitaverant de stirpe cham.	2020-04-18	Liber_Primus_Paralipomenon
+1100000170	hi ergo venerunt, quos supra descripsimus nominatim, in diebus ezechiae regis iuda: et percusserunt tabernacula eorum, et habitatores qui inventi fuerant ibi, et deleverunt eos usque in praesentem diem: habitaveruntque pro eis, quoniam uberrimas pascuas ibidem repererunt.	2020-04-18	Liber_Primus_Paralipomenon
+1100000171	de filiis quoque simeon abierunt in montem seir viri quingenti, habentes principes phalthiam et naariam et raphaiam et oziel filios iesi:et percusserunt reliquias, quae evadere potuerant, amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc.	2020-04-18	Liber_Primus_Paralipomenon
+1100000172	caput 5	2020-04-18	Liber_Primus_Paralipomenon
+1100000173	filii quoque ruben primogeniti israel. (	2020-04-18	Liber_Primus_Paralipomenon
+1100000174	ipse quippe fuit primogenitus eius: sed cum violasset thorum patris sui, data sunt primogenita eius filiis ioseph filii israel, et non est ille reputatus in primogenitum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000175	porro iudas, qui erat fortissimus inter fratres suos, de stirpe eius principes germinati sunt: primogenita autem reputata sunt ioseph.)	2020-04-18	Liber_Primus_Paralipomenon
+1100000176	filii ergo ruben primogeniti israel: enoch, et phallu, esron, et carmi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000177	filii ioel: samia filius eius, gog filius eius, semei filius eius,micha filius eius, reia filius eius, baal filius eius,beera filius eius, quem captivum duxit thelgathphalnasar rex assyriorum, et fuit princeps in tribu ruben.	2020-04-18	Liber_Primus_Paralipomenon
+1100000178	fratres autem eius, et universa cognatio eius, quando numerabantur per familias suas, habuerunt principes iehiel, et zachariam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000179	porro bala filius azaz filii samma filii ioel, ipse habitavit in aroer usque ad nebo, et beelmeon.	2020-04-18	Liber_Primus_Paralipomenon
+1100000180	contra orientalem quoque plagam habitavit usque ad introitum eremi, et flumen euphraten. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000181	multum quippe iumentorum numerum possidebant in terra galaad.	2020-04-18	Liber_Primus_Paralipomenon
+1100000182	in diebus autem saul praeliati sunt contra agareos, et interfecerunt illos, habitaveruntque pro eis in tabernaculis eorum, in omni plaga quae respicit ad orientem galaad.	2020-04-18	Liber_Primus_Paralipomenon
+1100000183	filii vero gad e regione eorum habitaverunt in terra basan usque selcha:ioel in capite, et saphan secundus: ianai autem et saphat in basan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000184	fratres vero eorum secundum domos cognationum suarum, michael, et mosollam, et sebe, et iorai, et iachan, et zie, et heber, septem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000185	hi filii abihail, filii huri, filii iara, filii galaad, filii michael, filii iesesi, filii ieddo, filii buz.	2020-04-18	Liber_Primus_Paralipomenon
+1100000186	fratres quoque, filii abdiel filii guni, princeps domus in familiis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000187	et habitaverunt in galaad, et in basan, et in viculis eius, et in cunctis suburbanis saron, usque ad terminos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000188	omnes hi numerati sunt in diebus ioathan regis iuda, et in diebus ieroboam regis israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000189	filii ruben, et gad, et dimidiae tribus manasse, viri bellatores, scuta portantes et gladios, et tendentes arcum, eruditique ad praelia, quadraginta quatuor millia et septingenti sexaginta, procedentes ad pugnam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000190	dimicaverunt contra agareos: ituraei vero, et naphis, et nodabpraebuerunt eis auxilium. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000191	traditique sunt in manus eorum agarei, et universi qui fuerant cum eis, quia deum invocaverunt cum praeliarentur: et exaudivit eos, eo quod credidissent in eum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000192	ceperuntque omnia quae possederant, camelorum quinquaginta millia, et ovium ducenta quinquaginta millia, et asinos duo millia, et animas hominum centum millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000193	vulnerati autem multi corruerunt: fuit enim bellum domini. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000194	habitaveruntque pro eis usque ad transmigrationem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000195	filii quoque dimidiae tribus manasse possederunt terram a finibus basan usque baal, hermon, et sanir, et montem hermon: ingens quippe numerus erat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000196	et hi fuerunt principes domus cognationis eorum: epher, et iesi, et eliel, et ezriel, et ieremia, et odoia, et iediel, viri fortissimi et potentes, et nominati duces in familiis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000197	reliquerunt autem deum patrum suorum, et fornicati sunt post deos populorum terrae, quos abstulit deus coram eis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000198	et suscitavit deus israel spiritum phul regis assyriorum, et spiritum thelgathphalnasar regis assur: et transtulit ruben, et gad, et dimidiam tribum manasse, et adduxit eos in lahela, et in habor, et ara, et fluvium gozan, usque ad diem hanc.	2020-04-18	Liber_Primus_Paralipomenon
+1100000199	caput 6	2020-04-18	Liber_Primus_Paralipomenon
+1100000200	filii levi: gerson, caath, et merari.	2020-04-18	Liber_Primus_Paralipomenon
+1100000201	filii caath: amram, isaar, hebron, et oziel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000202	filii amram: aaron, moyses, et maria. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000203	filii aaron: nadab et abiu, eleazar, et ithamar.	2020-04-18	Liber_Primus_Paralipomenon
+1100000204	eleazar genuit phinees, et phinees genuit abisue.	2020-04-18	Liber_Primus_Paralipomenon
+1100000205	abisue vero genuit bocci, et bocci genuit ozi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000206	ozi genuit zaraiam, et zaraias genuit meraioth.	2020-04-18	Liber_Primus_Paralipomenon
+1100000207	porro meraioth genuit amariam, et amarias genuit achitob.	2020-04-18	Liber_Primus_Paralipomenon
+1100000208	achitob genuit sadoc, et sadoc genuit achimaas,achimaas genuit azariam, azarias genuit iohanan,iohanan genuit azariam: ipse est qui sacerdotio functus est in domo quam aedificavit salomon in ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000209	genuit autem azarias amariam, et amarias genuit achitob,achitob genuit sadoc, et sadoc genuit sellum,sellum genuit helciam, et helcias genuit azariam,azarias genuit saraiam, et saraias genuit iosedec.	2020-04-18	Liber_Primus_Paralipomenon
+1100000210	porro iosedec egressus est, quando transtulit dominus iudam et ierusalem per manus nabuchodonosor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000211	filii ergo levi: gersom, caath, et merari.	2020-04-18	Liber_Primus_Paralipomenon
+1100000212	et haec nomina filiorum gersom: lobni, et semei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000213	filii caath: amram, et isaar, et hebron, et oziel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000214	filii merari: moholi et musi. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000215	hae autem cognationes levi secundum familias eorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000216	gersom: lobni filius eius, iahath filius eius, zamma filius eius,ioah filius eius, addo filius eius, zara filius eius, iethrai filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000217	filii caath: aminadab filius eius, core filius eius, asir filius eius,elcana filius eius, abiasaph filius eius, asir filius eius,thahath filius eius, uriel filius eius, ozias filius eius, saul filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000218	filii elcana, amasai et achimothet elcana. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000219	filii elcana: sophai filius eius, nahath filius eius,eliab filius eius, ieroham filius eius, elcana filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000220	filii samuel: primogenitus vasseni, et abia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000221	filii autem merari, moholi: lobni filius eius, semei filius eius, oza filius eius,sammaa filius eius, haggia filius eius, asaia filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000222	isti sunt quos constituit david super cantores domus domini, ex quo collocata est arca:et ministrabant coram tabernaculo testimonii, canentes donec aedificaret salomon domum domini in ierusalem: stabant autem iuxta ordinem suum in ministerio.	2020-04-18	Liber_Primus_Paralipomenon
+1100000223	hi vero sunt qui assistebant cum filiis suis, de filiis caath, hemam cantor filius iohel, filii samuel,filii elcana, filii ieroham, filii eliel, filii thohu,filii suph, filii elcana, filii mahath, filii amasai,filii elcana, filii iohel, filii azariae, filii sophoniae,filii thahath, filii asir, filii abiasaph, filii core,filii isaar, filii caath, filii levi, filii israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000224	et frater eius asaph, qui stabat a dextris eius, asaph filius barachiae, filii samaa,filii michael, filii basaiae, filii melchiae,filii athanai, filii zara, filii adaia,filii ethan, filii zamma, filii semei,filii ieth, filii gersom, filii levi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000225	filii autem merari fratres eorum, ad sinistram, ethan filius cusi, filii abdi, filii maloch,filii hasabiae, filii amasiae, filii helciae,filii amasai, filii boni, filii somer,filii moholi, filii musi, filii merari, filii levi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000226	fratres quoque eorum levitae, qui ordinati sunt in cunctum ministerium tabernaculi domus domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000227	aaron vero et filii eius adolebant incensum super altare holocausti, et super altare thymiamatis, in omne opus sancti sanctorum: et ut precarentur pro israel iuxta omnia quae praeceperat moyses servus dei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000228	hi sunt autem filii aaron: eleazar filius eius, phinees filius eius, abisue filius eius,bocci filius eius, ozi filius eius, zarahia filius eius,meraioth filius eius, amarias filius eius, achitob filius eius,sadoc filius eius, achimaas filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000229	et haec habitacula eorum per vicos atque confinia, filiorum scilicet aaron, iuxta cognationes caathitarum: ipsis enim sorte contigerant.	2020-04-18	Liber_Primus_Paralipomenon
+1100000230	dederunt igitur eis hebron in terra iuda, et suburbana eius per circuitum:agros autem civitatis, et villas, caleb filio iephone.	2020-04-18	Liber_Primus_Paralipomenon
+1100000231	porro filiis aaron dederunt civitates ad confugiendum hebron, et lobna, et suburbana eius,iether quoque, et esthemo cum suburbanis suis, sed et helon, et dabir cum suburbanis suis,asan quoque, et bethsemes, et suburbana earum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000232	de tribu autem beniamin, gabee et suburbana eius, et almath cum suburbanis suis, anathoth quoque cum suburbanis suis: omnes civitates, tredecim, per cognationes suas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000233	filiis autem caath residuis de cognatione sua dederunt ex dimidia tribu manasse in possessionem urbes decem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000234	porro filiis gersom per cognationes suas de tribu issachar, et de tribu aser, et de tribu nephthali, et de tribu manasse in basan, urbes tredecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000235	filiis autem merari per cognationes suas de tribu ruben, et de tribu gad, et de tribu zabulon, dederunt sorte civitates duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000236	dederunt quoque filii israel levitis civitates, et suburbana earum:dederuntque per sortem, ex tribu filiorum iuda, et ex tribu filiorum simeon, et ex tribu filiorum beniamin urbes has, quas vocaverunt nominibus suis,et his, qui erant de cognatione filiorum caath, fueruntque civitates in terminis eorum de tribu ephraim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000237	dederunt ergo eis urbes ad confugiendum, sichem cum suburbanis suis in monte ephraim, et gazer cum suburbanis suis,iecmaam quoque cum suburbanis suis, et bethoron similiter,necnon et helon cum suburbanis suis, et gethremmon in eumdem modum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000238	porro ex dimidia tribu manasse, aner et suburbana eius, balaam et suburbana eius: his videlicet, qui de cognatione filiorum caath reliqui erant.	2020-04-18	Liber_Primus_Paralipomenon
+1100000239	filiis autem gersom de cognatione dimidiae tribus manasse, gaulon in basan, et suburbana eius, et astaroth cum suburbanis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000240	de tribu issachar, cedes et suburbanis suis, et dabereth cum suburbanis suis,ramoth quoque et suburbana eius, et anem cum suburbanis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000241	de tribu vero aser: masal cum suburbanis suis, et abdon similiter,hucac quoque et suburbana eius, et rohob cum suburbanis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000242	porro de tribu nephthali, cedes in galilaea et suburbana eius, hamon cum suburbanis suis, et cariathaim et suburbana eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000243	filiis autem merari residuis: de tribu zabulon, remmono et suburbana eius, et thabor cum suburbanis sus:trans iordanem quoque ex adverso iericho contra orientem iordanis, de tribu ruben, bosor in solitudine cum suburbanis suis, et iassa cum suburbanis suis,cademoth quoque et suburbana eius, et mephaat cum suburbanis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000244	necnon et de tribu gad, ramoth in galaad et suburbana eius, et manaim cum suburbanis suis,sed et hesebon cum suburbanis suis, et iezer cum suburbanis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000245	caput 7	2020-04-18	Liber_Primus_Paralipomenon
+1100000246	porro filii issachar: thola, et phua, iasub, et simeron, quatuor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000247	filii thola: ozi, et raphaia, et ieriel, et iemai, et iebsem, et samuel, principes per domos cognationum suarum. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000248	de stirpe thola viri fortissimi numerati sunt in diebus david, viginti duo millia sexcenti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000249	filii ozi: izrahia, de quo nati sunt michael, et obadia, et ioel, et iesia, quinque omnes principes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000250	cumque eis per familias et populos suos, accincti ad praelium, viri fortissimi, triginta sex millia: multas enim habuerunt uxores, et filios.	2020-04-18	Liber_Primus_Paralipomenon
+1100000251	fratres quoque eorum per omnem cognationem issachar robustissimi ad pugnandum, octoginta septem millia numerati sunt.	2020-04-18	Liber_Primus_Paralipomenon
+1100000252	filii beniamin: bela, et bechor, et iadihel, tres.	2020-04-18	Liber_Primus_Paralipomenon
+1100000253	filii bela: esbon, et ozi, et oziel, et ierimoth, et urai, quinque principes familiarum, et ad pugnandum robustissimi: numerus autem eorum, viginti duo millia et triginta quatuor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000254	porro filii bechor: zamira, et ioas, et eliezer, et elioenai, et amri, et ierimoth, et abia, et anathoth, et almath: omnes hi filii bechor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000255	numerati sunt autem per familias suas principes cognationum suarum ad bella fortissimi, viginti millia et ducenti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000256	porro filii iadihel: balan. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000257	filii autem balan: iehus, et beniamin, et aod, et chanana, et zethan, et tharsis, et ahisahar:omnes hi filii iadihel, principes cognationum suarum viri fortissimi, decem et septem millia et ducenti ad praelium procedentes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000258	sepham quoque et hapham filii hir: et hasim filii aher.	2020-04-18	Liber_Primus_Paralipomenon
+1100000259	filii autem nephthali: iaziel, et guni, et ieser, et sellum, filii bala.	2020-04-18	Liber_Primus_Paralipomenon
+1100000260	porro filius manasse, esriel: concubinaque eius syra peperit machir patrem galaad.	2020-04-18	Liber_Primus_Paralipomenon
+1100000261	machir autem accepit uxores filiis suis happhim, et saphan: et habuit sororem nomine maacha: nomen autem secundi, salphaad, nataeque sunt salphaad filiae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000262	et peperit maacha uxor machir filium, vocavitque nomen eius phares: porro nomen fratris eius, sares: et filii eius, ulam, et recen.	2020-04-18	Liber_Primus_Paralipomenon
+1100000263	filius autem ulam, badan: hi sunt filii galaad, filii machir, filii manasse.	2020-04-18	Liber_Primus_Paralipomenon
+1100000264	soror autem eius regina peperit virum decorum, et abiezer, et mohola.	2020-04-18	Liber_Primus_Paralipomenon
+1100000265	erant autem filii semida, ahin, et sechem, et leci, et aniam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000266	filii autem ephraim: suthala, bared filius eius, thahath filius eius, elada filius eius, thahath filius eius, huius filius zabad,et huius filius suthula, et huius filius ezer et elad: occiderunt autem eos viri geth indigenae, quia descenderant ut invaderent possessiones eorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000267	luxit igitur ephraim pater eorum multis diebus, et venerunt fratres eius ut consolarentur eum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000268	ingressusque est ad uxorem suam: quae concepit, et peperit filium, et vocavit nomen eius beria, eo quod in malis domus eius ortus esset:filia autem eius fuit sara, quae aedificavit bethoron inferiorem et superiorem, et ozensara.	2020-04-18	Liber_Primus_Paralipomenon
+1100000269	porro filius eius rapha, et reseph, et thale, de quo natus est thaan,qui genuit laadan: huius quoque filius ammiud, qui genuit elisama,de quo ortus est nun, qui habuit filium iosue.	2020-04-18	Liber_Primus_Paralipomenon
+1100000270	possessio autem eorum et habitatio, bethel cum filiabus suis, et contra orientem noran, ad occidentalem plagam gazer et filiae eius, sichem quoque cum filiabus suis, usque ad aza cum filiabus eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000271	iuxta filios quoque manasse, bethsan et filias eius, thanach et filias eius, mageddo et filias eius, dor et filias eius: in his habitaverunt filii ioseph, filii israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000272	filii aser: iemna, et iesua, et iessui, et baria, et sara soror eorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000273	filii autem baria: heber, et melchiel: ipse est pater barsaith.	2020-04-18	Liber_Primus_Paralipomenon
+1100000274	heber autem genuit iephlat, et somer, et hotham, et suaa sororem eorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000275	filii iephlat: phosech, et chamaal, et asoth: hi filii iephlat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000276	porro filii somer: ahi, et roaga, et haba, et aram.	2020-04-18	Liber_Primus_Paralipomenon
+1100000277	filii autem helem fratris eius: supha, et iemna, et selles, et amal.	2020-04-18	Liber_Primus_Paralipomenon
+1100000278	filii supha: sue, harnapher, et sual, et beri, et iamra,bosor, et hod, et samma, et salusa, et iethran, et bera.	2020-04-18	Liber_Primus_Paralipomenon
+1100000279	filii iether: iephone, et phaspha, et ara.	2020-04-18	Liber_Primus_Paralipomenon
+1100000280	filii autem olla: aree, et haniel, et resia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000281	omnes hi filii aser, principes cognationum, electi atque fortissimi duces ducum: numerus autem eorum aetatis quae apta esset ad bellum, viginti sex millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000282	caput 8	2020-04-18	Liber_Primus_Paralipomenon
+1100000283	beniamin autem genuit bale primogenitum suum, asbel secundum, ahara tertium,nohaa quartum, et rapha quintum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000284	fueruntque filii bale: addar, et gera, et abiud,abisue quoque et naaman, et ahoe,sed et gera, et sephuphan, et huram.	2020-04-18	Liber_Primus_Paralipomenon
+1100000285	hi sunt filii ahod, principes cognationum habitantium in gabaa, qui translati sunt in manahath.	2020-04-18	Liber_Primus_Paralipomenon
+1100000286	naaman autem, et achia, et gera, ipse transtulit eos, et genuit osa, et ahiud.	2020-04-18	Liber_Primus_Paralipomenon
+1100000287	porro saharaim genuit in regione moab, postquam dimisit husim et bara uxores suas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000288	genuit autem de hodes uxore sua iobab, et sebia, et mosa, et molchom,iehus quoque, et sechia, et marma: hi sunt filii eius principes in familiis suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000289	mehusim vero genuit abitob et elphaal.	2020-04-18	Liber_Primus_Paralipomenon
+1100000290	porro filii elphaal: heber, et misaam, et samad: hic aedificavit ono, et lod, et filias eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000291	baria autem et sama principes cognationum habitantium in aialon: hi fugaverunt habitatores geth.	2020-04-18	Liber_Primus_Paralipomenon
+1100000292	et ahio, et sesac, et ierimoth,et zabadia, et arod, et heder,michael quoque, et iespha, et ioha filii baria.	2020-04-18	Liber_Primus_Paralipomenon
+1100000293	et zabadia, et mosollam, et hezeci, et heber,et iesamari, et iezlia, et iobab filii elphaal,et iacim, et zechri, et zabdi,et elioenai, et selethai, et eliel,et adaia, et baraia, et samarath, filii semei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000294	et iespham, et heber, et eliel,et abdon, et zechri, et hanan,et hanania, et aelam, et anathothia,et iephdaia, et phanuel, filii sesac.	2020-04-18	Liber_Primus_Paralipomenon
+1100000295	et samsari, et sohoria, et otholia,et iersia, et elia, et zechri, filii ieroham.	2020-04-18	Liber_Primus_Paralipomenon
+1100000296	hi patriarchae, et cognationum principes, qui habitaverunt in ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000297	in gabaon autem habitaverunt abigabaon, et nomen uxoris eius maacha:filiusque eius primogenitus abdon, et sur, et cis, et baal, et nadab,gedor quoque, et ahio, et zacher, et macelloth:et macelloth genuit samaa: habitaveruntque ex adverso fratrum suorum in ierusalem cum fratribus suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000298	ner autem genuit cis, et cis genuit saul. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000299	porro saul genuit ionathan, et melchisua, et abinadab, et esbaal.	2020-04-18	Liber_Primus_Paralipomenon
+1100000300	filius autem ionathan, meribbaal: et meribbaal genuit micha.	2020-04-18	Liber_Primus_Paralipomenon
+1100000301	filii micha, phithon, et melech, et tharaa, et ahaz.	2020-04-18	Liber_Primus_Paralipomenon
+1100000302	et ahaz genuit ioada, et ioada genuit alamath, et azmoth, et zamri: porro zamri genuit mosa,et mosa genuit banaa, cuius filius fuit rapha, de quo ortus est elasa, qui genuit asel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000303	porro asel sex filii fuerunt his nominibus: ezricam, bocru, ismahel, saria, obdia, et hanan: omnes hi filii asel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000304	filii autem esec fratris eius, ulam primogenitus, et iehus secundus, et eliphalet tertius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000305	fueruntque filii ulam viri robustissimi, et magno robore tendentes arcum: et multos habentes filios ac nepotes, usque ad centum quinquaginta. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000306	omnes hi filii beniamin.	2020-04-18	Liber_Primus_Paralipomenon
+1100000307	caput 9	2020-04-18	Liber_Primus_Paralipomenon
+1100000308	universus ergo israel dinumeratus est, et summa eorum scripta est in libro regum israel et iuda: translatique sunt in babylonem propter delictum suum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000309	qui autem habitaverunt primi in possessionibus et in urbibus suis: israel, et sacerdotes, et levitae, et nathinaei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000310	commorati sunt in ierusalem de filiis iuda, et de filiis beniamin, de filiis quoque ephraim, et manasse.	2020-04-18	Liber_Primus_Paralipomenon
+1100000311	othei filius ammiud, filii amri, filii omrai, filii bonni, de filiis phares filii iuda.	2020-04-18	Liber_Primus_Paralipomenon
+1100000312	et de siloni: asaia primogenitus, et filii eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000313	de filiis autem zara, iehuel, et fratres eorum, sexcenti nonaginta.	2020-04-18	Liber_Primus_Paralipomenon
+1100000314	porro de filiis beniamin: salo filius mosollam, filii oduia, filii asana,et iobania filius ieroham, et ela filius ozi, filii mochori, et mosollam filius saphatiae, filii rahuel, filii iebaniae,et fratres eorum per familias suas, nongenti quinquaginta sex. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000315	omnes hi principes cognationum per domos patrum suorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000316	de sacerdotibus autem: iedaia, ioiarib, et iachin:azarias quoque filius helciae, filii mosollam, filii sadoc, filii maraioth, filii achitob, pontifex domus dei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000317	porro adaias filius ieroham, filii phassur, filii melchiae, et maasai filius adiel filii iezra, filii mosollam, filii mosollamith, filii emmer.	2020-04-18	Liber_Primus_Paralipomenon
+1100000318	fratres quoque eorum principes per familias suas, mille septingenti sexaginta, fortissimi robore ad faciendum opus ministerii in domo dei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000319	de levitis autem: semeia filius hassub filii ezricam, filii hasebia de filiis merari.	2020-04-18	Liber_Primus_Paralipomenon
+1100000320	bacbacar quoque carpentarius, et galal, et mathania filius micha, filii zechri, filii asaph:et obdia filius semeiae, filii galal, filii idithun: et barachia filius asa, filii elcana, qui habitavit in atriis netophati.	2020-04-18	Liber_Primus_Paralipomenon
+1100000321	ianitores autem: sellum, et accub, et telmon, et ahimam: et frater eorum sellum princeps,usque ad illud tempus, in porta regis ad orientem, observabant per vices suas de filiis levi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000322	sellum vero filius core filii abiasaph, filii core, cum fratribus suis, et domo patris sui, hi sunt coritae super opera ministerii, custodes vestibulorum tabernaculi: et familiae eorum per vices castrorum domini custodientes introitum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000323	phinees autem filius eleazari erat dux eorum coram domino.	2020-04-18	Liber_Primus_Paralipomenon
+1100000324	porro zacharias filius mosollamia, ianitor portae tabernaculi testimonii.	2020-04-18	Liber_Primus_Paralipomenon
+1100000325	omnes hi electi in ostiarios per portas, ducenti duodecim: et descripti in villis propriis, quos constituerunt david, et samuel videns, in fide sua,tam ipsos quam filios eorum, in ostiis domus domini et in tabernaculo vicibus suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000326	per quatuor ventos erant ostiarii: id est, ad orientem, et ad occidentem, et ad aquilonem, et ad austrum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000327	fratres autem eorum in viculis morabantur, et veniebant in sabbatis suis de tempore usque ad tempus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000328	his quatuor levitis creditus erat omnis numerus ianitorum, et erant super exedras et thesauros domus domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000329	per gyrum quoque templi domini morabantur in custodiis suis: ut cum tempus fuisset, ipsi mane aperirent fores.	2020-04-18	Liber_Primus_Paralipomenon
+1100000330	de horum genere erant et super vasa ministerii: ad numerum enim et inferebantur vasa, et efferebantur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000331	de ipsis et qui credita habebant utensilia sanctuarii, praeerant similae, et vino, et oleo, et thuri, et aromatibus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000332	filii autem sacerdotum unguenta ex aromatibus conficiebant.	2020-04-18	Liber_Primus_Paralipomenon
+1100000333	et mathathias levites primogenitus sellum coritae, praefectus erat eorum quae in sartagine frigebantur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000334	porro de filiis caath fratribus eorum, super panes erant propositionis, ut semper novos per singula sabbata praepararent.	2020-04-18	Liber_Primus_Paralipomenon
+1100000335	hi sunt principes cantorum per familias levitarum, qui in exedris morabantur, ut die ac nocte iugiter suo ministerio deservirent.	2020-04-18	Liber_Primus_Paralipomenon
+1100000336	capita levitarum, per familias suas principes, manserunt in ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000337	in gabaon autem commorati sunt pater gabaon iehiel, et nomen uxoris eius maacha.	2020-04-18	Liber_Primus_Paralipomenon
+1100000338	filius primogenitus eius abdon, et sur, et cis, et baal, et ner, et nadab,gedor quoque, et ahio, et zacharias, et macelloth.	2020-04-18	Liber_Primus_Paralipomenon
+1100000339	porro macelloth genuit samaan: isti habitaverunt e regione fratrum suorum in ierusalem cum fratribus suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000340	ner autem genuit cis, et cis genuit saul, et saul genuit ionathan, et melchisua, et abinadab, et esbaal.	2020-04-18	Liber_Primus_Paralipomenon
+1100000341	filius autem ionathan, meribbaal: et meribbaal genuit micha.	2020-04-18	Liber_Primus_Paralipomenon
+1100000342	porro filii micha, phithon, et melech, et tharaa, et ahaz.	2020-04-18	Liber_Primus_Paralipomenon
+1100000343	ahaz autem genuit iara, et iara genuit alamath, et azmoth, et zamri. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000344	zamri autem genuit mosa.	2020-04-18	Liber_Primus_Paralipomenon
+1100000345	mosa vero genuit banaa, cuius filius raphaia, genuit elasa, de quo ortus est asel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000346	porro asel sex filios habuit, his nominibus: ezricam, bocru, ismahel, saria, obdia, hanan: hi sunt filii asel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000347	caput 10	2020-04-18	Liber_Primus_Paralipomenon
+1100000348	philisthiim autem pugnabant contra israel, fugeruntque viri israel palaesthinos, et ceciderunt vulnerati in monte gelboe.	2020-04-18	Liber_Primus_Paralipomenon
+1100000349	cumque appropinquassent philisthaei, persequentes saul et filios eius, percusserunt ionathan, et abinadab, et melchisua filios saul.	2020-04-18	Liber_Primus_Paralipomenon
+1100000350	et aggravatum est praelium contra saul, inveneruntque eum sagittarii, et vulneraverunt iaculis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000351	et dixit saul ad armigerum suum: evagina gladium tuum, et interfice me, ne forte veniant incircumcisi isti, et illudant mihi. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000352	noluit autem armiger eius hoc facere, timore perterritus: arripuit ergo saul ensem, et irruit in eum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000353	quod cum vidisset armiger eius, videlicet mortuum esse saul, irruit etiam ipse in gladium suum, et mortuus est.	2020-04-18	Liber_Primus_Paralipomenon
+1100000354	interiit ergo saul: et tres filii eius, et omnis domus illius pariter concidit.	2020-04-18	Liber_Primus_Paralipomenon
+1100000355	quod cum vidissent viri israel qui habitabant in campestribus, fugerunt: et saul ac filiis eius mortuis, dereliquerunt urbes suas, et huc illucque dispersi sunt: veneruntque philisthiim, et habitaverunt in eis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000356	die igitur altero detrahentes philisthiim spolia caesorum, invenerunt saul et filios eius iacentes in monte gelboe.	2020-04-18	Liber_Primus_Paralipomenon
+1100000357	cumque spoliassent eum, et amputassent caput, armisque nudassent, miserunt in terram suam, ut circumferretur, et ostenderetur idolorum templis, et populis:arma autem eius consecraverunt in fano dei sui, et caput affixerunt in templo dagon.	2020-04-18	Liber_Primus_Paralipomenon
+1100000358	hoc cum audissent viri iabes galaad, omnia scilicet quae philisthiim fecerant super saul,consurrexerunt singuli virorum fortium, et tulerunt cadavera saul et filiorum eius: attuleruntque ea in iabes, et sepelierunt ossa eorum subter quercum, quae erat in iabes, et ieiunaverunt septem diebus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000359	mortuus est ergo saul propter iniquitates suas, eo quod praevaricatus sit mandatum domini quod praeceperat, et non custodierit illud: sed insuper etiam pythonissam consuluerit,nec speraverit in domino: propter quod interfecit eum, et transtulit regnum eius ad david filium isai.	2020-04-18	Liber_Primus_Paralipomenon
+1100000360	caput 11	2020-04-18	Liber_Primus_Paralipomenon
+1100000361	congregatus est igitur omnis israel ad david in hebron, dicens: os tuum sumus, et caro tua.	2020-04-18	Liber_Primus_Paralipomenon
+1100000362	heri quoque et nudiustertius cum adhuc regnaret saul, tu eras qui educebas et introducebas israel: tibi enim dixit dominus deus tuus: tu pasces populum meum israel, et tu eris princeps super eum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000363	venerunt ergo omnes maiores natu israel ad regem in hebron, et iniit david cum eis foedus coram domino: unxeruntque eum regem super israel, iuxta sermonem domini quem locutus est in manu samuel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000364	abiit quoque david et omnis israel in ierusalem: haec est iebus, ubi erant iebusaei habitatores terrae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000365	dixeruntque qui habitabant in iebus ad david: non ingredieris huc. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000366	porro david cepit arcem sion, quae est civitas david,dixitque: omnis qui percusserit iebusaeum in primis, erit princeps et dux. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000367	ascendit igitur primus ioab filius sarviae, et factus est princeps.	2020-04-18	Liber_Primus_Paralipomenon
+1100000368	habitavit autem david in arce, et idcirco appellata est civitas david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000369	aedificavitque urbem in circuitu a mello usque ad gyrum; ioab autem reliqua urbis exstruxit.	2020-04-18	Liber_Primus_Paralipomenon
+1100000370	proficiebatque david vadens et crescens, et dominus exercituum erat cum eo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000371	hi principes virorum fortium david, qui adiuverunt eum ut rex fieret super omnem israel, iuxta verbum domini quod locutus est ad israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000372	et iste numerus robustorum david: iesbaam filius hachamoni princeps inter triginta: iste levavit hastam suam super trecentos vulneratos una vice.	2020-04-18	Liber_Primus_Paralipomenon
+1100000373	et post eum eleazar filius patrui eius ahohites, qui erat inter tres potentes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000374	iste fuit cum david in phesdomim, quando philisthiim congregati sunt ad locum illum in praelium: et erat ager regionis illius plenus hordeo, fugeratque populus a facie philisthinorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000375	hi steterunt in medio agri, et defenderunt eum: cumque percussissent philisthaeos, dedit dominus salutem magnam populo suo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000376	descenderunt autem tres de triginta principibus ad petram, in qua erat david, ad speluncam odollam, quando philisthiim fuerant castrametati in valle raphaim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000377	porro david erat in praesidio, et statio philisthinorum in bethlehem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000378	desideravit igitur david, et dixit: o si quis daret mihi aquam de cisterna bethlehem, quae est in porta!	2020-04-18	Liber_Primus_Paralipomenon
+1100000379	tres ergo isti per media castra philisthinorum perrexerunt, et hauserunt aquam de cisterna bethlehem quae erat in porta, et attulerunt ad david ut biberet. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000380	qui noluit, sed magis libavit illam domino,dicens: absit ut in conspectu dei mei hoc faciam, et sanguinem istorum virorum bibam: quia in periculo animarum suarum attulerunt mihi aquam. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000381	et ob hanc causam noluit bibere: haec fecerunt tres robustissimi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000382	abisai quoque frater ioab ipse erat princeps trium, et ipse levavit hastam suam contra trecentos vulneratos, et ipse erat inter tres nominatissimus,et inter tres secundos inclytus, et princeps eorum: verumtamen usque ad tres primos non pervenerat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000383	banaias filius ioiadae viri robustissimi, qui multa opera perpetrarat, de cabseel: ipse percussit duos ariel moab, et ipse descendit et interfecit leonem in media cisterna tempore nivis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000384	et ipse percussit virum aegyptium, cuius statura erat quinque cubitorum, et habebat lanceam ut liciatorium texentium: descendit igitur ad eum cum virga, et rapuit hastam quam tenebat manu, et interfecit eum hasta sua.	2020-04-18	Liber_Primus_Paralipomenon
+1100000385	haec fecit banaias filius ioiadae, qui erat inter tres robustos nominatissimus,inter triginta primus, verumtamen ad tres usque non pervenerat: posuit autem eum david ad auriculam suam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000386	porro fortissimi viri in exercitu, asahel frater ioab, et elchanan filius patrui eius de bethlehem,sammoth arorites, helles pharonites,ira filius acces thecuites, abiezer anathothites,sobbochai husathites, ilai ahohites,maharai netophathites, heled filius baana netophathites,ethai filius ribai de gabaath filiorum beniamin, banaia pharatonites,hurai de torrente gaas, abiel arbathites, azmoth bauramites, eliaba salabonites.	2020-04-18	Liber_Primus_Paralipomenon
+1100000387	filii assem gezonites, ionathan filius sage ararites,ahiam filius sachar ararites,eliphal filius ur,hepher mecherathites, ahia phelonites,hesro carmelites, naarai filius asbai,ioel frater nathan, mibahar filius agarai,selec ammonites, naharai berothites armiger ioab filii sarviae,ira iethraeus, gareb iethraeus,urias hethaeus, zabad filius oholi,adina filius siza rubenites princeps rubenitarum, et cum eo triginta:hanan filius maacha, et iosaphat mathanites,ozia astarothites, samma, et iehiel filii hotham arorites,iedihel filius samri, et ioha frater eius thosaites,eliel mahumites, et ieribai, et iosaia filii elnaem, et iethma moabites, eliel, et obed, et iasiel de masobia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000388	caput 12	2020-04-18	Liber_Primus_Paralipomenon
+1100000389	hi quoque venerunt ad david in siceleg, cum adhuc fugeret saul filium cis, qui erant fortissimi et egregii pugnatores,tendentes arcum, et utraque manu fundis saxa iacientes, et dirigentes sagittas, de fratribus saul ex beniamin.	2020-04-18	Liber_Primus_Paralipomenon
+1100000390	princeps ahiecer, et ioas filii samaa gabaathites, et iaziel, et phallet filii azmoth, et baracha, et iehu anathotites.	2020-04-18	Liber_Primus_Paralipomenon
+1100000391	samaias quoque gabaonites fortissimus inter triginta et super triginta. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000392	ieremias, et ieheziel, et iohanan, et iezabad gaderothites.	2020-04-18	Liber_Primus_Paralipomenon
+1100000393	et eluzai, et ierimuth, et baalia, et samaria, et saphatia haruphites.	2020-04-18	Liber_Primus_Paralipomenon
+1100000394	elcana, et iesia, et azareel, et ioezer, et iesbaam de carehim:ioela quoque, et zabadia filii ieroham de gedor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000395	sed et de gaddi transfugerunt ad david cum lateret in deserto, viri robustissimi, et pugnatores optimi, tenentes clypeum et hastam: facies eorum quasi facies leonis, et veloces quasi capreae in montibus:ezer princeps, obdias secundus, eliab tertius,masmana quartus, ieremias quintus,ethi sextus, eliel septimus,iohanan octavus, elzebad nonus,ieremias decimus, machbanai undecimus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000396	hi de filiis gad principes exercitus: novissimus centum militibus praeerat, et maximus mille.	2020-04-18	Liber_Primus_Paralipomenon
+1100000397	isti sunt qui transierunt iordanem mense primo, quando inundare consuevit super ripas suas: et omnes fugaverunt qui morabantur in vallibus ad orientalem plagam et occidentalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000398	venerunt autem et de beniamin et de iuda ad praesidium in quo morabatur david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000399	egressusque est david obviam eis, et ait: si pacifice venistis ad me ut auxiliemini mihi, cor meum iungatur vobis: si autem insidiamini mihi pro adversariis meis, cum ego iniquitatem in manibus non habeam, videat deus patrum nostrorum, et iudicet.	2020-04-18	Liber_Primus_Paralipomenon
+1100000400	spiritus vero induit amasai principem inter triginta, et ait: tui sumus, o david, et tecum, fili isai. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000401	pax, pax tibi, et pax adiutoribus tuis: te enim adiuvat deus tuus. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000402	suscepit ergo eos david, et constituit principes turmae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000403	porro de manasse transfugerunt ad david, quando veniebat cum philisthiim adversus saul ut pugnaret: et non dimicavit cum eis, quia inito consilio remiserunt eum principes philisthinorum, dicentes: periculo capitis nostri revertetur ad dominum suum saul.	2020-04-18	Liber_Primus_Paralipomenon
+1100000404	quando igitur reversus est in siceleg, transfugerunt ad eum de manasse, ednas, et iozabad, et iedihel, et michael, et ednas, et iozabad, et eliu, et salathi, principes millium in manasse.	2020-04-18	Liber_Primus_Paralipomenon
+1100000405	hi praebuerunt auxilium david adversus latrunculos: omnes enim erant viri fortissimi, et facti sunt principes in exercitu.	2020-04-18	Liber_Primus_Paralipomenon
+1100000406	sed et per singulos dies veniebant ad david ad auxiliandum ei, usque dum fieret grandis numerus, quasi exercitus dei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000407	iste quoque est numerus principum exercitus qui venerunt ad david cum esset in hebron, ut transferrent regnum saul ad eum, iuxta verbum domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000408	filii iuda portantes clypeum et hastam, sex millia octingenti expediti ad praelium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000409	de filiis simeon virorum fortissimorum ad pugnandum, septem millia centum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000410	de filiis levi, quatuor millia sexcenti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000411	ioioda quoque princeps de stirpe aaron, et cum eo tria millia septingenti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000412	sadoc etiam puer egregiae indolis, et domus patris eius, principes viginti duo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000413	de filiis autem beniamin fratribus saul, tria millia: magna enim pars eorum adhuc sequebatur domum saul.	2020-04-18	Liber_Primus_Paralipomenon
+1100000414	porro de filiis ephraim viginti millia octingenti, fortissimi robore, viri nominati in cognationibus suis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000415	et ex dimidia tribu manasse, decem et octo millia, singuli per nomina sua, venerunt ut constituerent regem david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000416	de filiis quoque issachar viri eruditi, qui noverant singula tempora ad praecipiendum quid facere deberet israel, principes ducenti: omnis autem reliqua tribus eorum consilium sequebatur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000417	porro de zabulon qui egrediebantur ad praelium, et stabant in acie instructi armis bellicis, quinquaginta millia venerunt in auxilium, non in corde duplici.	2020-04-18	Liber_Primus_Paralipomenon
+1100000418	et de nephthali, principes mille, et cum eis instructi clypeo et hasta, triginta et septem millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000419	de dan etiam praeparati ad praelium, viginti octo millia sexcenti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000420	et de aser egredientes ad pugnam, et in acie provocantes, quadraginta millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000421	trans iordanem autem de filiis ruben, et de gad, et dimidia parte tribus manasse, instructi armis bellicis, centum viginti millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000422	omnes isti viri bellatores expediti ad pugnandum, corde perfecto venerunt in hebron, ut constituerent regem david super universum israel: sed et omnes reliqui ex israel uno corde erant, ut rex fieret david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000423	fueruntque ibi apud david tribus diebus comedentes et bibentes: praeparaverant enim eis fratres sui.	2020-04-18	Liber_Primus_Paralipomenon
+1100000424	sed et qui iuxta eos erant, usque ad issachar, et zabulon, et nephthali, afferebant panes in asinis, et camelis, et mulis, et bobus ad vescendum: farinam, palathas, uvam passam, vinum, oleum, boves, arietes ad omnem copiam: gaudium quippe erat in israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000425	caput 13	2020-04-18	Liber_Primus_Paralipomenon
+1100000426	iniit autem consilium david cum tribunis, et centurionibus, et universis principibus,et ait ad omnem coetum israel: si placet vobis, et a domino deo nostro egreditur sermo quem loquor, mittamus ad fratres nostros reliquos in universas regiones israel, et ad sacerdotes et levitas qui habitant in suburbanis urbium, ut congregentur ad nos,et reducamus arcam dei nostri ad nos: non enim requisivimus eam in diebus saul.	2020-04-18	Liber_Primus_Paralipomenon
+1100000427	et respondit universa multitudo ut ita fieret: placuerat enim sermo omni populo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000428	congregavit ergo david cunctum israel, a sihor aegypti usque dum ingrediaris emath, ut adduceret arcam dei de cariathiarim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000429	et ascendit david, et omnis vir israel, ad collem cariathiarim, qui est in iuda, ut afferret inde arcam domini dei sedentis super cherubim, ubi invocatum est nomen eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000430	imposueruntque arcam dei super plaustrum novum, de domo abinadab: oza autem, et frater eius minabant plaustrum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000431	porro david, et universus israel, ludebant coram deo omni virtute in canticis, et in citharis, et psalteriis, et tympanis, et cymbalis, et tubis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000432	cum autem pervenisset ad aream chidon, tetendit oza manum suam, ut sustentaret arcam: bos quippe lasciviens paululum inclinaverat eam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000433	iratus est itaque dominus contra ozam, et percussit eum, eo quod tetigisset arcam: et mortuus est ibi coram domino.	2020-04-18	Liber_Primus_Paralipomenon
+1100000434	contristatusque est david, eo quod divisisset dominus ozam: vocavitque locum illum divisio ozae, usque in praesentem diem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000435	et timuit deum tunc temporis, dicens: quomodo possum ad me introducere arcam dei?	2020-04-18	Liber_Primus_Paralipomenon
+1100000436	et ob hanc causam non adduxit eam ad se, hoc est, in civitatem david, sed avertit in domum obededom gethaei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000437	mansit ergo arca dei in domo obededom tribus mensibus: et benedixit dominus domui eius, et omnibus quae habebat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000438	caput 14	2020-04-18	Liber_Primus_Paralipomenon
+1100000439	misit quoque hiram rex tyri nuntios ad david, et ligna cedrina, et artifices parietum, lignorumque, ut aedificarent ei domum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000440	cognovitque david quod confirmasset eum dominus in regem super israel, et sublevatum esset regnum suum super populum eius israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000441	accepit quoque david alias uxores in ierusalem, genuitque filios et filias.	2020-04-18	Liber_Primus_Paralipomenon
+1100000442	et haec nomina eorum, qui nati sunt ei in ierusalem: samua, et sobab, nathan, et salomon,iebahar, et elisua, et eliphalet,noga quoque, et napheg, et iaphia,elisama, et baaliada, et eliphalet.	2020-04-18	Liber_Primus_Paralipomenon
+1100000443	audientes autem philisthiim eo quod unctus esset david regem super universum israel, ascenderunt omnes ut quaererent eum: quod cum audisset david, egressus est obviam eis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000444	porro philisthiim venientes, diffusi sunt in valle raphaim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000445	consuluitque david dominum, dicens: si ascendam ad philisthaeos, et si trades eos in manu mea? 	2020-04-18	Liber_Primus_Paralipomenon
+1100000446	et dixit ei dominus: ascende, et tradam eos in manu tua.	2020-04-18	Liber_Primus_Paralipomenon
+1100000447	cumque illi ascendissent in baalpharasim, percussit eos ibi david, et dixit: divisit deus inimicos meos per manum meam, sicut dividuntur aquae: et idcirco vocatum est nomen illius loci baalpharasim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000448	dereliqueruntque ibi deos suos, quos david iussit exuri.	2020-04-18	Liber_Primus_Paralipomenon
+1100000449	alia etiam vice philisthiim irruerunt, et diffusi sunt in valle.	2020-04-18	Liber_Primus_Paralipomenon
+1100000450	consuluitque rursum david deum, et dixit ei deus: non ascendas post eos: recede ab eis, et venies contra illos ex adverso pyrorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000451	cumque audieris sonitum gradientis in cacumine pyrorum, tunc egredieris ad bellum: egressus est enim deus ante te, ut percutiat castra philisthiim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000452	fecit ergo david sicut praeceperat ei deus, et percussit castra philisthinorum, de gabaon usque gazera.	2020-04-18	Liber_Primus_Paralipomenon
+1100000453	divulgatumque est nomen david in universis regionibus, et dominus dedit pavorem eius super omnes gentes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000454	caput 15	2020-04-18	Liber_Primus_Paralipomenon
+1100000455	fecit quoque sibi domos in civitate david: et aedificavit locum arcae dei, tetenditque ei tabernaculum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000456	tunc dixit david: illicitum est ut a quocumque portetur arca dei nisi a levitis, quos elegit dominus ad portandum eam, et ad ministrandum sibi usque in aeternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000457	congregavitque universum israel in ierusalem, ut afferretur arca dei in locum suum, quem praeparaverat ei:necnon et filios aaron, et levitas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000458	de filiis caath, uriel princeps fuit, et fratres eius centum viginti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000459	de filiis merari, asaia princeps: et fratres eius ducenti viginti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000460	de filiis gersom, ioel princeps: et fratres eius centum triginta.	2020-04-18	Liber_Primus_Paralipomenon
+1100000461	de filiis elisaphan, semeias princeps: et fratres eius ducenti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000462	de filiis hebron, eliel princeps: et fratres eius octoginta.	2020-04-18	Liber_Primus_Paralipomenon
+1100000463	de filiis oziel, aminadab princeps: et fratres eius centum duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000464	vocavitque david sadoc et abiathar sacerdotes, et levitas, uriel, asaiam, ioel, semeiam, eliel, et aminadab:et dixit ad eos: vos, qui estis principes familiarum leviticarum, sanctificamini cum fratribus vestris, et afferte arcam domini dei israel ad locum qui ei praeparatus est:ne ut a principio, quia non eratis praesentes, percussit nos dominus; sic et nunc fiat, illicitum quid nobis agentibus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000465	sanctificati sunt ergo sacerdotes et levitae ut portarent arcam domini dei israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000466	et tulerunt filii levi arcam dei, sicut praeceperat moyses iuxta verbum domini, humeris suis in vectibus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000467	dixitque david principibus levitarum, ut constituerent de fratribus suis cantores in organis musicorum, nablis videlicet, et lyris, et cymbalis, ut resonaret in excelsis sonitus laetitiae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000468	constitueruntque levitas: heman filium ioel, et de fratribus eius asaph filium barachiae: de filiis vero merari, fratribus eorum: ethan filium casaiae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000469	et cum eis fratres eorum: in secundo ordine, zachariam, et ben, et iaziel, et semiramoth, et iahiel, et ani, eliab, et banaiam, et maasiam, et mathathiam, et eliphalu, et maceniam, et obededom, et iehiel, ianitores.	2020-04-18	Liber_Primus_Paralipomenon
+1100000470	porro cantores, heman, asaph, et ethan, in cymbalis aeneis concrepantes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000471	zacharias autem, et oziel, et semiramoth, et iahiel, et ani, et eliab, et maasias, et banaias in nablis arcana cantabant.	2020-04-18	Liber_Primus_Paralipomenon
+1100000472	porro mathathias, et eliphalu, et macenias, et obededom, et iehiel, et ozaziu, in citharis pro octava canebant epinicion.	2020-04-18	Liber_Primus_Paralipomenon
+1100000473	chonenias autem princeps levitarum, prophetiae praeerat, ad praecinendam melodiam: erat quippe valde sapiens.	2020-04-18	Liber_Primus_Paralipomenon
+1100000474	et barachias, et elcana, ianitores arcae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000475	porro sebenias, et iosaphat, et nathanael, et amasai, et zacharias, et banaias, et eliezer sacerdotes, clangebant tubis coram arca dei: et obededom et iehias erant ianitores arcae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000476	igitur david, et omnes maiores natu israel, et tribuni, ierunt ad deportandam arcam foederis domini de domo obededom cum laetitia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000477	cumque adiuvisset deus levitas qui portabant arcam foederis domini, immolabantur septem tauri, et septem arietes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000478	porro david erat indutus stola byssina, et universi levitae qui portabant arcam, cantoresque, et chonenias princeps prophetiae inter cantores: david autem etiam indutus erat ephod lineo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000479	universusque israel deducebant arcam foederis domini in iubilo, et sonitu buccinae, et tubis, et cymbalis, et nablis, et citharis concrepantes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000480	cumque pervenisset arca foederis domini usque ad civitatem david, michol filia saul prospiciens per fenestram vidit regem david saltantem atque ludentem, et despexit eum in corde suo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000481	caput 16	2020-04-18	Liber_Primus_Paralipomenon
+1100000482	attulerunt igitur arcam dei, et constituerunt eam in medio tabernaculi quod tetenderat ei david: et obtulerunt holocausta et pacifica coram deo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000483	cumque complesset david offerens holocausta et pacifica, benedixit populo in nomine domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000484	et divisit universis per singulos, a viro usque ad mulierem, tortam panis, et partem assae carnis bubalae, et frixam oleo similam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000485	constituitque coram arca domini de levitis, qui ministrarent, et recordarentur operum eius, et glorificarent atque laudarent dominum deum israel:asaph principem, et secundum eius zachariam: porro iahiel, et semiramoth, et iehiel, et mathathiam, et eliab, et banaiam, et obededom: iehiel super organa psalterii et lyras: asaph autem ut cymbalis personaret:banaiam vero et iaziel sacerdotes canere tuba iugiter coram arca foederis domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000486	in illo die fecit david principem ad confitendum domino asaph et fratres eius:	2020-04-18	Liber_Primus_Paralipomenon
+1100000487	confitemini domino, et invocate nomen eius:	2020-04-18	Liber_Primus_Paralipomenon
+1100000488	notas facite in populis adinventiones eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000489	cantate ei, et psallite ei,	2020-04-18	Liber_Primus_Paralipomenon
+1100000490	et narrate omnia mirabilia eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000491	laudate nomen sanctum eius:	2020-04-18	Liber_Primus_Paralipomenon
+1100000492	laetetur cor quaerentium dominum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000493	quaerite dominum, et virtutem eius:	2020-04-18	Liber_Primus_Paralipomenon
+1100000494	quaerite faciem eius semper.	2020-04-18	Liber_Primus_Paralipomenon
+1100000495	recordamini mirabilium eius quae fecit;	2020-04-18	Liber_Primus_Paralipomenon
+1100000496	signorum illius, et iudiciorum oris eius,	2020-04-18	Liber_Primus_Paralipomenon
+1100000497	semen israel servi eius,	2020-04-18	Liber_Primus_Paralipomenon
+1100000498	filii iacob electi eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000499	ipse dominus deus noster:	2020-04-18	Liber_Primus_Paralipomenon
+1100000500	in universa terra iudicia eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000501	recordamini in sempiternum pacti eius:	2020-04-18	Liber_Primus_Paralipomenon
+1100000502	sermonis quem praecepit in mille generationes,	2020-04-18	Liber_Primus_Paralipomenon
+1100000503	quem pepigit cum abraham,	2020-04-18	Liber_Primus_Paralipomenon
+1100000504	et iuramenti illius cum isaac.	2020-04-18	Liber_Primus_Paralipomenon
+1100000505	et constituit illud iacob in praeceptum,	2020-04-18	Liber_Primus_Paralipomenon
+1100000506	et israel in pactum sempiternum,	2020-04-18	Liber_Primus_Paralipomenon
+1100000507	dicens: tibi dabo terram chanaan,	2020-04-18	Liber_Primus_Paralipomenon
+1100000508	funiculum haereditatis vestrae:	2020-04-18	Liber_Primus_Paralipomenon
+1100000509	cum essent pauci numero,	2020-04-18	Liber_Primus_Paralipomenon
+1100000510	parvi et coloni eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000511	et transierunt de gente in gentem,	2020-04-18	Liber_Primus_Paralipomenon
+1100000512	et de regno ad populum alterum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000513	non dimisit quemquam calumniari eos,	2020-04-18	Liber_Primus_Paralipomenon
+1100000514	sed increpavit pro eis reges.	2020-04-18	Liber_Primus_Paralipomenon
+1100000515	nolite tangere christos meos,	2020-04-18	Liber_Primus_Paralipomenon
+1100000516	et in prophetis meis nolite malignari.	2020-04-18	Liber_Primus_Paralipomenon
+1100000517	cantate domino omnis terra;	2020-04-18	Liber_Primus_Paralipomenon
+1100000518	annuntiate ex die in diem salutare eius:	2020-04-18	Liber_Primus_Paralipomenon
+1100000519	narrate in gentibus gloriam eius;	2020-04-18	Liber_Primus_Paralipomenon
+1100000520	in cunctis populis mirabilia eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000521	quia magnus dominus, et laudabilis nimis,	2020-04-18	Liber_Primus_Paralipomenon
+1100000522	et horribilis super omnes deos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000523	omnes enim dii populorum idola:	2020-04-18	Liber_Primus_Paralipomenon
+1100000524	dominus autem caelos fecit.	2020-04-18	Liber_Primus_Paralipomenon
+1100000525	confessio et magnificentia coram eo:	2020-04-18	Liber_Primus_Paralipomenon
+1100000526	fortitudo et gaudium in loco eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000527	afferte domino, familiae populorum:	2020-04-18	Liber_Primus_Paralipomenon
+1100000528	afferte domino gloriam et imperium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000529	date domino gloriam;	2020-04-18	Liber_Primus_Paralipomenon
+1100000530	nomini eius levate sacrificium,	2020-04-18	Liber_Primus_Paralipomenon
+1100000531	et venite in conspectu eius:	2020-04-18	Liber_Primus_Paralipomenon
+1100000532	et adorate dominum in decore sancto.	2020-04-18	Liber_Primus_Paralipomenon
+1100000533	commoveatur a facie eius omnis terra:	2020-04-18	Liber_Primus_Paralipomenon
+1100000534	ipse enim fundavit orbem immobilem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000535	laetentur caeli, et exultet terra,	2020-04-18	Liber_Primus_Paralipomenon
+1100000536	et dicant in nationibus: dominus regnavit.	2020-04-18	Liber_Primus_Paralipomenon
+1100000537	tonet mare et plenitudo eius;	2020-04-18	Liber_Primus_Paralipomenon
+1100000538	exultent agri, et omnia quae in eis sunt.	2020-04-18	Liber_Primus_Paralipomenon
+1100000539	tunc laudabunt ligna saltus coram domino:	2020-04-18	Liber_Primus_Paralipomenon
+1100000540	quia venit iudicare terram.	2020-04-18	Liber_Primus_Paralipomenon
+1100000541	confitemini domino, quoniam bonus:	2020-04-18	Liber_Primus_Paralipomenon
+1100000542	quoniam in aeternum misericordia eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000543	et dicite: salva nos, deus salvator noster,	2020-04-18	Liber_Primus_Paralipomenon
+1100000544	et congrega nos, et erue de gentibus:	2020-04-18	Liber_Primus_Paralipomenon
+1100000545	ut confiteamur nomini sancto tuo,	2020-04-18	Liber_Primus_Paralipomenon
+1100000546	et exultemus in carminibus tuis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000547	benedictus dominus deus israel,	2020-04-18	Liber_Primus_Paralipomenon
+1100000548	ab aeterno usque in aeternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000549	et dicat omnis populo: amen, et hymnum domino.	2020-04-18	Liber_Primus_Paralipomenon
+1100000550	reliquit itaque ibi coram arca foederis domini asaph et fratres eius, ut ministrarent in conspectu arcae iugiter per singulos dies, et vices suas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000551	porro obededom, et fratres eius sexaginta octo: et obededom filium idithun, et hosa, constituit ianitores;sadoc autem sacerdotem, et fratres eius sacerdotes, coram tabernaculo domini in excelso quod erat in gabaon,ut offerrent holocausta domino super altare holocautomatis iugiter, mane et vespere, iuxta omnia quae scripta sunt in lege domini, quam praecepit israeli.	2020-04-18	Liber_Primus_Paralipomenon
+1100000552	et post eum heman, et idithun, et reliquos electos, unumquemque vocabulo suo ad confitendum domino, quoniam in aeternum misericordia eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000553	heman quoque et idithun canentes tuba, et quatientes cymbala et omnia musicorum organa ad canendum deo: filios autem idithun fecit esse portarios.	2020-04-18	Liber_Primus_Paralipomenon
+1100000554	reversusque est omnis populus in domum suam: et david, ut benediceret etiam domui suae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000555	caput 17	2020-04-18	Liber_Primus_Paralipomenon
+1100000556	cum autem habitaret david in domo sua, dixit ad nathan prophetam: ecce ego habito in domo cedrina: arca autem foederis domini sub pellibus est.	2020-04-18	Liber_Primus_Paralipomenon
+1100000557	et ait nathan ad david: omnia quae in corde tuo sunt, fac: deus enim tecum est.	2020-04-18	Liber_Primus_Paralipomenon
+1100000558	igitur nocte illa factus est sermo dei ad nathan, dicens:vade, et loquere david servo meo: haec dicit dominus: non aedificabis tu mihi domum ad habitandum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000559	neque enim mansi in domo ex eo tempore quo eduxi israel usque ad diem hanc: sed fui semper mutans loca tabernaculi, et in tentoriomanens cum omni israel. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000560	numquid locutus sum saltem uni iudicum israel, quibus praeceperam ut pascerent populum meum, et dixi: quare non aedificastis mihi domum cedrinam?	2020-04-18	Liber_Primus_Paralipomenon
+1100000561	nunc itaque sic loqueris ad servum meum david: haec dicit dominus exercituum: ego tuli te, cum in pascuis sequereris gregem, ut esses dux populi mei israel:et fui tecum quocumque perrexisti, et interfeci omnes inimicos tuos coram te, fecique tibi nomen quasi unius magnorum qui celebrantur in terra.	2020-04-18	Liber_Primus_Paralipomenon
+1100000562	et dedi locum populo meo israel: plantabitur, et habitabit in eo, et ultra non commovebitur: nec filii iniquitatis atterent eos, sicut a principio,ex diebus quibus dedi iudices populo meo israel, et humiliavi universos inimicos tuos. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000563	annuntio ergo tibi, quod aedificaturus sit tibi dominus domum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000564	cumque impleveris dies tuos ut vadas ad patres tuos, suscitabo semen tuum post te, quod erit de filiis tuis: et stabiliam regnum eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000565	ipse aedificabit mihi domum, et firmabo solium eius usque in aeternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000566	ego ero ei in patrem, et ipse erit mihi in filium: et misericordiam meam non auferam ab eo, sicut abstuli ab eo qui ante te fuit.	2020-04-18	Liber_Primus_Paralipomenon
+1100000567	et statuam eum in domo mea, et in regno meo usque in sempiternum: et thronus eius erit firmissimus in perpetuum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000568	iuxta omnia verba haec, et iuxta universam visionem istam, sic locutus est nathan ad david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000569	cumque venisset rex david, et sedisset coram domino, dixit: quis ego sum, domine deus, et quae domus mea, ut praestares mihi talia?	2020-04-18	Liber_Primus_Paralipomenon
+1100000570	sed et hoc parum visum est in conspectu tuo, ideoque locutus es super domum servi tui etiam in futurum: et fecisti me spectabilem super omnes homines, domine deus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000571	quid ultra addere potest david, cum ita glorificaveris servum tuum, et cognoveris eum?	2020-04-18	Liber_Primus_Paralipomenon
+1100000572	domine, propter famulum tuum iuxta cor tuum fecisti omnem magnificentiam hanc, et nota esse voluisti universa magnalia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000573	domine, non est similis tui, et non est alius deus absque te, ex omnibus quos audivimus auribus nostris.	2020-04-18	Liber_Primus_Paralipomenon
+1100000574	quis enim est alius, ut populus tuus israel, gens una in terra, ad quam perrexit deus ut liberaret et faceret populum sibi, et magnitudine sua atque terroribus eiiceret nationes a facie eius, quem de aegypto liberarat?	2020-04-18	Liber_Primus_Paralipomenon
+1100000575	et posuisti populum tuum israel tibi in populum usque in aeternum, et tu, domine, factus es deus eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000576	nunc igitur domine, sermo quem locutus es famulo tuo et super domum eius confirmetur in perpetuum, et fac sicut locutus es.	2020-04-18	Liber_Primus_Paralipomenon
+1100000577	permaneatque et magnificetur nomen tuum usque in sempiternum, et dicatur: dominus exercituum deus israel, et domus david servi eius permanens coram eo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000578	tu enim, domine deus meus, revelasti auriculam servi tui, ut aedificares ei domum: et idcirco invenit servus tuus fiduciam, ut oret coram te.	2020-04-18	Liber_Primus_Paralipomenon
+1100000579	nunc ergo domine, tu es deus, et locutus es ad servum tuum tanta beneficia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000580	et coepisti benedicere domui servi tui, ut sit semper coram te: te enim, domine, benedicente, benedicta erit in perpetuum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000581	caput 18	2020-04-18	Liber_Primus_Paralipomenon
+1100000582	factum est autem post haec, ut percuteret david philisthiim, et humiliaret eos, et tolleret geth et filias eius de manu philisthiim,percuteretque moab, et fierent moabitae servi david, offerentes ei munera.	2020-04-18	Liber_Primus_Paralipomenon
+1100000583	eo tempore percussit david etiam adarezer regem soba regionis hemath, quando perrexit ut dilataret imperium suum usque ad flumen euphraten.	2020-04-18	Liber_Primus_Paralipomenon
+1100000584	cepit ergo david mille quadrigas eius, et septem millia equitum, ac viginti millia virorum peditum, subnervavitque omnes equos curruum, exceptis centum quadrigis, quas reservavit sibi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000585	supervenit autem et syrus damascenus, ut auxilium praeberet adarezer regi soba: sed et huius percussit david viginti duo millia virorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000586	et posuit milites in damasco, ut syria quoque serviret sibi, et offerret munera. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000587	adiuvitque eum dominus in cunctis ad quae perrexerat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000588	tulit quoque david pharetras aureas, quas habuerant servi adarezer, et attulit eas in ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000589	necnon de thebath et chun urbibus adarezer aeris plurimum, de quo fecit salomon mare aeneum, et columnas, et vasa aenea.	2020-04-18	Liber_Primus_Paralipomenon
+1100000590	quod cum audisset thou rex hemath, percussisse videlicet david omnem exercitum adarezer regis soba,misit adoram filium suum ad regem david, ut postularet ab eo pacem, et congratularetur ei quod percussisset et expugnasset adarezer: adversarius quippe erat thou adarezer.	2020-04-18	Liber_Primus_Paralipomenon
+1100000591	sed et omnia vasa aurea, et argentea, et aenea consecravit david rex domino, cum argento et auro quod tulerat ex universis gentibus, tam de idumaea, et moab, et filiis ammon, quam de philisthiim et amalec.	2020-04-18	Liber_Primus_Paralipomenon
+1100000592	abisai vero filius sarviae percussit edom in valle salinarum, decem et octo millia:et constituit in edom praesidium, ut serviret idumaea david: salvavitque dominus david in cunctis ad quae perrexerat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000593	regnavit ergo david super universum israel, et faciebat iudicium atque iustitiam cuncto populo suo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000594	porro ioab filius sarviae erat super exercitum, et iosaphat filius ahilud a commentariis:sadoc autem filius achitob, et ahimelech filius abiathar, sacerdotes: et susa, scriba:banaias quoque filius ioiadae super legiones cerethi et phelethi: porro filii david, primi ad manum regis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000595	caput 19	2020-04-18	Liber_Primus_Paralipomenon
+1100000596	accidit autem ut moreretur naas rex filiorum ammon, et regnaret filius eius pro eo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000597	dixitque david: faciam misericordiam cum hanon filio naas: praestitit enim mihi pater eius gratiam. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000598	misitque david nuntios ad consolandum eum super morte patris sui. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000599	qui cum pervenissent in terram filiorum ammon ut consolarentur hanon,dixerunt principes filiorum ammon ad hanon: tu forsitan putas, quod david honoris causa in patrem tuum miserit qui consolentur te: nec animadvertis quod ut explorent, et investigent, et scrutentur terram tuam, venerint ad te servi eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000600	igitur hanon pueros david decalvavit, et rasit, et praecidit tunicas eorum a natibus usque ad pedes, et dimisit eos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000601	qui cum abiissent, et hoc mandassent david, misit in occursum eorum (grandem enim contumeliam sustinuerant) et praecepit ut manerent in iericho, donec cresceret barba eorum, et tunc reverterentur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000602	videntes autem filii ammon quod iniuriam fecissent david, tam hanon quam reliquus populus, miserunt mille talenta argenti, ut conducerent sibi de mesopotamia, et de syria maacha, et de soba currus et equites.	2020-04-18	Liber_Primus_Paralipomenon
+1100000603	conduxeruntque triginta duo millia curruum, et regem maacha cum populo eius. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000604	qui cum venissent, castrametati sunt e regione medaba. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000605	filii quoque ammon congregati de urbibus suis venerunt ad bellum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000606	quod cum audisset david, misit ioab, et omnem exercitum virorum fortium:egressique filii ammon, direxerunt aciem iuxta portam civitatis; reges autem, qui ad auxilium eius venerant, separatim in agro steterunt.	2020-04-18	Liber_Primus_Paralipomenon
+1100000607	igitur ioab, intelligens bellum ex adverso et post tergum contra se fieri, elegit viros fortissimos de universo israel, et perrexit contra syrum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000608	reliquam autem partem populi dedit sub manu abisai fratris sui: et perrexerunt contra filios ammon.	2020-04-18	Liber_Primus_Paralipomenon
+1100000609	dixitque: si vicerit me syrus, auxilio eris mihi: si autem superaverint te filii ammon, ero tibi in praesidium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000610	confortare, et agamus viriliter pro populo nostro, et pro urbibus dei nostri: dominus autem, quod in conspectu suo bonum est, faciet.	2020-04-18	Liber_Primus_Paralipomenon
+1100000611	perrexit ergo ioab et populus qui cum eo erat, contra syrum ad praelium: et fugavit eos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000612	porro filii ammon videntes quod fugisset syrus, ipsi quoque fugerunt abisai fratrem eius, et ingressi sunt civitatem: reversusque est etiam ioab in ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000613	videns autem syrus quod cecidisset coram israel, misit nuntios, et adduxit syrum, qui erat trans fluvium: sophach autem princeps militiae adarezer erat dux eorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000614	quod cum nuntiatum esset david, congregavit universum israel, et transivit iordanem, irruitque in eos et direxit ex adverso aciem, illis contra pugnantibus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000615	fugit autem syrus israel, et interfecit david de syris septem millia curruum, et quadraginta millia peditum, et sophach exercitus principem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000616	videntes autem servi adarezer se ab israel esse superatos, transfugerunt ad david, et servierunt ei: noluitque ultra syria auxilium praebere filiis ammon.	2020-04-18	Liber_Primus_Paralipomenon
+1100000617	caput 20	2020-04-18	Liber_Primus_Paralipomenon
+1100000618	factum est autem post anni circulum, eo tempore quo solent reges ad bella procedere, congregavit ioab exercitum, et robur militiae, et vastavit terram filiorum ammon: perrexitque et obsedit rabba. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000619	porro david manebat in ierusalem, quando ioab percussit rabba et destruxit eam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000620	tulit autem david coronam melchom de capite eius, et invenit in ea auri pondo talentum, et pretiosissimas gemmas, fecitque sibi inde diadema: manubias quoque urbis plurimas tulit;populum autem, qui erat in ea, eduxit, et fecit super eos tribulas, et trahas, et ferrata carpenta transire, ita ut dissecarentur et contererentur. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000621	sic fecit david cunctis urbibus filiorum ammon: et reversus est cum omni populo suo in ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000622	post haec initum est bellum in gazer adversum philisthaeos, in quo percussit sobochai husathites, saphai de genere raphaim, et humiliavit eos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000623	aliud quoque bellum gestum est adversus philisthaeos, in quo percussit adeodatus filius saltus bethlehemites fratrem goliath gethaei, cuius hastae lignum erat quasi liciatorium texentium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000624	sed et aliud bellum accidit in geth, in quo fuit homo longissimus, senos habens digitos, id est, simul viginti quatuor: qui et ipse de rapha fuerat stirpe generatus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000625	hic blasphemavit israel: et percussit eum ionathan filius samaa fratris david. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000626	hi sunt filii rapha in geth, qui ceciderunt in manu david et servorum eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000627	caput 21	2020-04-18	Liber_Primus_Paralipomenon
+1100000628	consurrexit autem satan contra israel, et concitavit david ut numeraret israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000629	dixitque david ad ioab et ad principes populi: ite, et numerate israel a bersabee usque dan: et afferte mihi numerum ut sciam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000630	responditque ioab: augeat dominus populum suum centuplum quam sunt: nonne, domine mi rex, omnes servi tui sunt? 	2020-04-18	Liber_Primus_Paralipomenon
+1100000631	quare hoc quaerit dominus meus, quod in peccatum reputetur israeli?	2020-04-18	Liber_Primus_Paralipomenon
+1100000632	sed sermo regis magis praevaluit: egressusque est ioab, et circuivit universum israel: et reversus est ierusalem,deditque david numerum eorum quos circuierat: et inventus est omnis numerus israel, mille millia et centum millia virorum educentium gladium: de iuda autem quadringenta septuaginta millia bellatorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000633	nam levi et beniamin non numeravit: eo quod ioab invitus exsequeretur regis imperium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000634	displicuit autem deo quod iussum erat: et percussit israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000635	dixitque david ad deum: peccavi nimis ut hoc facerem: obsecro, aufer iniquitatem servi tui, quia insipienter egi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000636	et locutus est dominus ad gad videntem davidis, dicens:vade, et loquere ad david, et dic ei: haec dicit dominus: trium tibi optionem do: unum, quod volueris, elige, et faciam tibi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000637	cumque venisset gad ad david, dixit ei: haec dicit dominus: elige, quod volueris:aut tribus annis famem; aut tribus mensibus te fugere hostes tuos, et gladium eorum non posse evadere; aut tribus diebus gladium domini, et pestilentiam versari in terra, et angelum domini interficere in universis finibus israel: nunc igitur vide quid respondeam ei qui misit me.	2020-04-18	Liber_Primus_Paralipomenon
+1100000638	et dixit david ad gad: ex omni parte me angustiae premunt: sed melius mihi est ut incidam in manus domini, quia multae sunt miserationes eius, quam in manus hominum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000639	misit ergo dominus pestilentiam in israel: et ceciderunt de israel septuaginta millia virorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000640	misit quoque angelum in ierusalem ut percuteret eam: cumque percuteretur, vidit dominus, et misertus est super magnitudine mali: et imperavit angelo qui percutiebat: sufficit, iam cesset manus tua. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000641	porro angelus domini stabat iuxta aream ornan iebusaei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000642	levansque david oculos suos, vidit angelum domini stantem inter caelum et terram, et evaginatum gladium in manu eius, et versum contra ierusalem: et ceciderunt tam ipse quam maiores natu, vestiti ciliciis, proni in terram.	2020-04-18	Liber_Primus_Paralipomenon
+1100000643	dixitque david ad deum: nonne ego sum, qui iussi ut numeraretur populus? 	2020-04-18	Liber_Primus_Paralipomenon
+1100000644	ego, qui peccavi? 	2020-04-18	Liber_Primus_Paralipomenon
+1100000645	ego, qui malum feci? 	2020-04-18	Liber_Primus_Paralipomenon
+1100000646	iste grex, quid commeruit? 	2020-04-18	Liber_Primus_Paralipomenon
+1100000647	domine deus meus, vertatur, obsecro, manus tua in me, et in domum patris mei: populus autem tuus non percutiatur.	2020-04-18	Liber_Primus_Paralipomenon
+1100000648	angelus autem domini praecepit gad ut diceret davidi ut ascenderet, exstrueretque altare domino deo in area ornan iebusaei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000649	ascendit ergo david iuxta sermonem gad, quem locutus ei fuerat ex nomine domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000650	porro ornan cum suspexisset et vidisset angelum, quatuorque filii eius cum eo, absconderunt se: nam eo tempore terebat in area triticum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000651	igitur cum veniret david ad ornan, conspexit eum ornan, et processit ei obviam de area, et adoravit eum pronus in terram.	2020-04-18	Liber_Primus_Paralipomenon
+1100000652	dixitque ei david: da mihi locum areae tuae, ut aedificem in ea altare domino: ita ut quantum valet argenti accipias, et cesset plaga a populo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000653	dixit autem ornan ad david: tolle, et faciat dominus meus rex quodcumque ei placet: sed et boves do in holocaustum, et tribulas in ligna, et triticum in sacrificium: omnia libens praebebo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000654	dixitque ei rex david: nequaquam ita fiet, sed argentum dabo quantum valet: neque enim tibi auferre debeo, et sic offerre domino holocausta gratuita.	2020-04-18	Liber_Primus_Paralipomenon
+1100000655	dedit ergo david ornan pro loco siclos auri iustissimi ponderis sexcentos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000656	et aedificavit ibi altare domino, obtulitque holocausta et pacifica, et invocavit dominum; et exaudivit eum in igne de caelo super altare holocausti.	2020-04-18	Liber_Primus_Paralipomenon
+1100000657	praecepitque dominus angelo, et convertit gladium suum in vaginam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000658	protinus ergo david, videns quod exaudisset eum dominus in area ornan iebusaei, immolavit ibi victimas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000659	tabernaculum autem domini, quod fecerat moyses in deserto, et altare holocaustorum, ea tempestate erat in excelso gabaon.	2020-04-18	Liber_Primus_Paralipomenon
+1100000660	et non praevaluit david ire ad altare ut ibi obsecraret deum: nimio enim fuerat in timore perterritus, videns gladium angeli domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000661	caput 22	2020-04-18	Liber_Primus_Paralipomenon
+1100000662	dixitque david: haec est domus dei, et hoc altare in holocaustum israeli.	2020-04-18	Liber_Primus_Paralipomenon
+1100000663	et praecepit ut congregarentur omnes proselyti de terra israel, et constituit ex eis latomos ad caedendos lapides et poliendos, ut aedificaretur domus dei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000664	ferrum quoque plurimum ad clavos ianuarum, et ad commissuras atque iuncturas, praeparavit david: et aeris pondus innumerabile.	2020-04-18	Liber_Primus_Paralipomenon
+1100000665	ligna quoque cedrina non poterant aestimari, quae sidonii et tyrii deportaverant ad david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000666	et dixit david: solomon filius meus puer parvulus est et delicatus: domus autem, quam aedificari volo domino, talis esse debet ut in cunctis regionibus nominetur: praeparabo ergo ei necessaria. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000667	et ob hanc causam ante mortem suam omnes praeparavit impensas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000668	vocavitque salomonem filium suum, et praecepit ei ut aedificaret domum domino deo israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000669	dixitque david ad salomonem: fili mi, voluntatis meae fuit ut aedificarem domum nomini domini dei mei:sed factus est sermo domini ad me, dicens: multum sanguinem effudisti, et plurima bella bellasti: non poteris aedificare domum nomini meo, tanto effuso sanguine coram me:filius qui nascetur tibi, erit vir quietissimus: faciam enim eum requiescere ab omnibus inimicis suis per circuitum: et ob hanc causam pacificus vocabitur: et pacem et otium dabo in israel cunctis diebus eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000670	ipse aedificabit domum nomini meo, et ipse erit mihi in filium, et ego ero illi in patrem: firmaboque solium regni eius super israel in aeternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000671	nunc ergo fili mi, sit dominus tecum, et prosperare, et aedifica domum domino deo tuo sicut locutus est de te.	2020-04-18	Liber_Primus_Paralipomenon
+1100000672	det quoque dominus prudentiam et sensum ut regere possis israel, et custodire legem domini dei tui.	2020-04-18	Liber_Primus_Paralipomenon
+1100000673	tunc enim proficere poteris, si custodieris mandata et iudicia quae praecepit dominus moysi ut doceret israel. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000674	confortare, et viriliter age: ne timeas, neque paveas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000675	ecce ego in paupertate mea praeparavi impensas domus domini, auri talenta centum millia, et argenti mille millia talentorum: aeris vero et ferri non est pondus, vincitur enim numerus magnitudine; ligna et lapides praeparavi ad universa impendia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000676	habes quoque plurimos artifices, latomos, et caementarios, artificesque lignorum, et omnium artium ad faciendum opus prudentissimos,in auro et argento et aere et ferro, cuius non est numerus. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000677	surge igitur et fac, et erit dominus tecum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000678	praecepit quoque david cunctis principibus israel ut adiuvarent salomonem filium suum:cernitis, inquiens, quod dominus deus vester vobiscum sit, et dederit vobis requiem per circuitum, et tradiderit omnes inimicos vestros in manus vestras, et subiecta sit terra coram domino, et coram populo eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000679	praebete igitur corda vestra et animas vestras, ut quaeratis dominum deum vestrum: et consurgite, et aedificate sanctuarium domino deo, ut introducatur arca foederis domini, et vasa domino consecrata, in domum quae aedificatur nomini domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000680	caput 23	2020-04-18	Liber_Primus_Paralipomenon
+1100000681	igitur david, senex et plenus dierum, regem constituit salomonem filium suum super israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000682	et congregavit omnes principes israel, et sacerdotes atque levitas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000683	numeratique sunt levitae a triginta annis et supra: et inventa sunt triginta octo millia virorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000684	ex his electi sunt, et distributi in ministerium domus domini, viginti quatuor millia: praepositorum autem et iudicum, sex millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000685	porro quatuor millia ianitores, et totidem psaltae, canentes domino in organis quae fecerat ad canendum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000686	et distribuit eos david per vices filiorum levi, gerson videlicet, et caath, et merari.	2020-04-18	Liber_Primus_Paralipomenon
+1100000687	filii gerson: leedan, et semei.	2020-04-18	Liber_Primus_Paralipomenon
+1100000688	filii leedan: princeps iahiel, et zethan, et ioel, tres.	2020-04-18	Liber_Primus_Paralipomenon
+1100000689	filii semei: salomith, et hosiel, et aran, tres: isti principes familiarum leedan.	2020-04-18	Liber_Primus_Paralipomenon
+1100000690	porro filii semei: leheth, et ziza, et iaus, et baria: isti filii semei, quatuor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000691	erat autem leheth prior, ziza secundus: porro iaus et baria non habuerunt plurimos filios, et idcirco in una familia, unaque domo computati sunt.	2020-04-18	Liber_Primus_Paralipomenon
+1100000692	filii caath: amram, et isaar, hebron, et oziel, quatuor.	2020-04-18	Liber_Primus_Paralipomenon
+1100000693	filii amram: aaron et moyses. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000694	separatusque est aaron ut ministraret in sancto sanctorum, ipse et filii eius in sempiternum, et adoleret incensum domino secundum ritum suum, ac benediceret nomini eius in perpetuum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000695	moysi quoque hominis dei filii annumerati sunt in tribu levi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000696	filii moysi: gersom et eliezer.	2020-04-18	Liber_Primus_Paralipomenon
+1100000697	filii gersom: subuel primus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000698	fuerunt autem filii eliezer: rohobia primus: et non erant eliezer filii alii. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000699	porro filii rohobia multiplicati sunt nimis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000700	filii isaar: salomith primus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000701	filii hebron: ieriau primus, amarias secundus, iahaziel tertius, iecmaam quartus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000702	filii oziel: micha primus, iesia secundus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000703	filii merari: moholi, et musi. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000704	filii moholi: eleazar et cis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000705	mortuus est autem eleazar, et non habuit filios, sed filias: acceperuntque eas filii cis fratres earum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000706	filii musi: moholi, et eder, et ierimoth, tres.	2020-04-18	Liber_Primus_Paralipomenon
+1100000707	hi filii levi in cognationibus et familiis suis, principes per vices, et numerum capitum singulorum qui faciebant opera ministerii domus domini, a viginti annis et supra.	2020-04-18	Liber_Primus_Paralipomenon
+1100000708	dixit enim david: requiem dedit dominus deus israel populo suo, et habitationem ierusalem usque in aeternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000709	nec erit officii levitarum ut ultra portent tabernaculum et omnia vasa eius ad ministrandum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000710	iuxta praecepta quoque david novissima, supputabitur numerus filiorum levi a viginti annis et supra.	2020-04-18	Liber_Primus_Paralipomenon
+1100000711	et erunt sub manu filiorum aaron in cultum domus domini, in vestibulis, et in exedris, et in loco purificationis, et in sanctuario, et in universis operibus ministerii templi domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000712	sacerdotes autem, super panes propositionis, et ad similae sacrificium, et ad lagana azyma, et sartaginem, et ad torrendum, et super omne pondus atque mensuram.	2020-04-18	Liber_Primus_Paralipomenon
+1100000713	levitae vero ut stent mane ad confitendum et canendum domino: similiterque ad vesperam,tam in oblatione holocaustorum domini, quam in sabbatis et calendis et solemnitatibus reliquis iuxta numerum et caeremonias uniuscuiusque rei, iugiter coram domino.	2020-04-18	Liber_Primus_Paralipomenon
+1100000714	et custodiant observationes tabernaculi foederis, et ritum sanctuarii, et observationem filiorum aaron fratrum suorum, ut ministrent in domo domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000715	caput 24	2020-04-18	Liber_Primus_Paralipomenon
+1100000716	porro filiis aaron hae partitiones erant. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000717	filii aaron: nadab, et abiu, et eleazar, et ithamar.	2020-04-18	Liber_Primus_Paralipomenon
+1100000718	mortui sunt autem nadab et abiu ante patrem suum absque liberis: sacerdotioque functus est eleazar, et ithamar.	2020-04-18	Liber_Primus_Paralipomenon
+1100000719	et divisit eos david, id est, sadoc de filiis eleazari, et ahimelech de filiis ithamar, secundum vices suas et ministerium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000720	inventique sunt multo plures filii eleazar in principibus viris, quam filii ithamar. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000721	divisit autem eis, hoc est, filiis eleazar, principes per familias sedecim: et filiis ithamar per familias et domos suas octo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000722	porro divisit utrasque inter se familias sortibus: erant enim principes sanctuarii, et principes dei, tam de filiis eleazar quam de filiis ithamar.	2020-04-18	Liber_Primus_Paralipomenon
+1100000723	descripsitque eos semeias filius nathanael scriba levites, coram rege et principibus, et sadoc sacerdote, et ahimelech filio abiathar, principibus quoque familiarum sacerdotalium, et leviticarum: unam domum, quae ceteris praeerat, eleazar: et alteram domum, quae sub se habebat ceteros, ithamar.	2020-04-18	Liber_Primus_Paralipomenon
+1100000724	exivit autem sors prima ioiarib, secunda iedei,tertia harim, quarta seorim,quinta melchia, sexta maiman,septima accos, octava abia,nona iesua, decima sechenia,undecima eliasib, duodecima iacim,tertiadecima hoppha, decimaquarta isbaab,decimaquinta belga, decimasexta emmer,decimaseptima hezir, decimaoctava aphses,decimanona pheteia, vigesima hezechiel,vigesima prima iachin, vigesima secunda gamul,vigesima tertia dalaiau, vigesima quarta maaziau.	2020-04-18	Liber_Primus_Paralipomenon
+1100000725	hae vices eorum secundum ministeria sua, ut ingrediantur domum domini, et iuxta ritum suum sub manu aaron patris eorum, sicut praeceperat dominus deus israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000726	porro filiorum levi qui reliqui fuerant, de filiis amram erat subael, et de filiis subael, iehedeia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000727	de filiis quoque rohobiae, princeps iesias.	2020-04-18	Liber_Primus_Paralipomenon
+1100000728	isaari vero filius salemoth, filiusque salemoth iahath:filiusque eius ieriau primus, amarias secundus, iahaziel tertius, iecmaan quartus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000729	filius oziel, micha: filius micha, samir.	2020-04-18	Liber_Primus_Paralipomenon
+1100000730	frater micha, iesia: filiusque iesiae, zacharias.	2020-04-18	Liber_Primus_Paralipomenon
+1100000731	filii merari: moholi, et musi. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000732	filius oziau: benno.	2020-04-18	Liber_Primus_Paralipomenon
+1100000733	filius quoque merari: oziau, et soam, et zachur, et hebri.	2020-04-18	Liber_Primus_Paralipomenon
+1100000734	porro moholi filius, eleazar, qui non habebat liberos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000735	filius vero cis, ierameel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000736	filii musi: moholi, eder et ierimoth: isti filii levi secundum domos familiarum suarum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000737	miseruntque et ipsi sortes contra fratres suos filios aaron coram david rege, et sadoc, et ahimelech, et principibus familiarum sacerdotalium et leviticarum, tam maiores quam minores: omnes sors aequaliter dividebat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000738	caput 25	2020-04-18	Liber_Primus_Paralipomenon
+1100000739	igitur david et magistratus exercitus segregaverunt in ministerium filios asaph, et heman, et idithun, qui prophetarent in citharis, et psalteriis, et cymbalis secundum numerum suum, dedicato sibi officio servientes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000740	de filiis asaph: zachur, et ioseph, et nathania, et asarela, filii asaph: sub manu asaph prophetantis iuxta regem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000741	porro idithun: filii idithun, godolias, sori, ieseias, et hasabias, et mathathias, sex, sub manu patris sui idithun, qui in cithara prophetabat super confitentes et laudantes dominum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000742	heman quoque: filii heman, bocciau, mathaniau, oziel, subuel, et ierimoth, hananias, hanani, eliatha, geddelthi, et romemthiezer, et iesbacassa, mellothi, othir, mahazioth:omnes isti filii heman videntis regis in sermonibus dei, ut exaltaret cornu: deditque deus heman filios quatuordecim, et filias tres.	2020-04-18	Liber_Primus_Paralipomenon
+1100000743	universi sub manu patris sui ad cantandum in templo domini distributi erant, in cymbalis, et psalteriis, et citharis, in ministeria domus domini iuxta regem: asaph videlicet, et idithun, et heman.	2020-04-18	Liber_Primus_Paralipomenon
+1100000744	fuit autem numerus eorum cum fratribus suis, qui erudiebant canticum domini, cuncti doctores, ducenti octoginta octo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000745	miseruntque sortes per vices suas, ex aequo tam maior quam minor, doctus pariter et indoctus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000746	egressaque est sors prima ioseph, qui erat de asaph. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000747	secunda godoliae, ipsi et filiis eius, et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000748	tertia zachur, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000749	quarta isari, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000750	quinta nathaniae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000751	sexta bocciau, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000752	septima isreela, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000753	octava iesaiae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000754	nona mathaniae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000755	decima semeiae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000756	undecima azareel, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000757	duodecima hasabiae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000758	tertiadecima subael, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000759	quartadecima mathathiae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000760	quintadecima ierimoth, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000761	sextadecima hananiae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000762	septimadecima iesbacassae, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000763	octavadecima hanani, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000764	nonadecima mellothi, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000765	vigesima eliatha, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000766	vigesima prima othir, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000767	vigesima secunda geddelthi, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000768	vigesima tertia mahazioth, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000769	vigesima quarta romemthiezer, filiis et fratribus eius duodecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000770	caput 26	2020-04-18	Liber_Primus_Paralipomenon
+1100000771	divisiones autem ianitorum: de coritis meselemia, filius core, de filiis asaph.	2020-04-18	Liber_Primus_Paralipomenon
+1100000772	filii meselemiae: zacharias primogenitus, iadihel secundus, zabadias tertius, iathanael quartus,aelam quintus, iohanan sextus, elioenai septimus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000773	filii autem obededom: semeias primogenitus, iozabad secundus, ioaha tertius, sachar quartus, nathanael quintus,ammiel sextus, issachar septimus, phollathi octavus: quia benedixit illi dominus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000774	semei autem filio eius nati sunt filii, praefecti familiarum suarum: erant enim viri fortissimi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000775	filii ergo semeiae: othni, et raphael, et obed, elzabad, fratres eius viri fortissimi: eliu quoque et samachias.	2020-04-18	Liber_Primus_Paralipomenon
+1100000776	omnes hi, de filiis obededom: ipsi, et filii et fratres eorum, fortissimi ad ministrandum, sexaginta duo de obededom.	2020-04-18	Liber_Primus_Paralipomenon
+1100000777	porro meselemiae filii, et fratres eorum robustissimi, decem et octo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000778	de hosa autem, id est, de filiis merari: semri princeps (non enim habuerat primogenitum, et idcirco posuerat eum pater eius in principem),helcias secundus, tabelias tertius, zacharias quartus: omnes hi filii et fratres hosa, tredecim.	2020-04-18	Liber_Primus_Paralipomenon
+1100000779	hi divisi sunt in ianitores, ut semper principes custodiarum, sicut et fratres eorum ministrarent in domo domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000780	missae sunt ergo sortes ex aequo, et parvis et magnis, per familias suas in unamquamque portarum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000781	cecidit ergo sors orientalis, selemiae. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000782	porro zachariae filio eius, viro prudentissimo et erudito, sortito obtigit plaga septentrionalis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000783	obededom vero et filiis eius ad austrum: in qua parte domus erat seniorum concilium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000784	sephim et hosa ad occidentem, iuxta portam, quae ducit ad viam ascensionis: custodia contra custodiam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000785	ad orientem vero levitae sex: et ad aquilonem, quatuor per diem: atque ad meridiem similiter in die quatuor: et ubi erat concilium bini et bini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000786	in cellulis quoque ianitorum ad occidentem quatuor in via, binique per cellulas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000787	hae sunt divisiones ianitorum filiorum core et merari.	2020-04-18	Liber_Primus_Paralipomenon
+1100000788	porro achias erat super thesauros domus dei, et vasa sanctorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000789	filii ledan, filii gersonni: de ledan principes familiarum ledan, et gersonni, iehieli.	2020-04-18	Liber_Primus_Paralipomenon
+1100000790	filii iehieli: zathan, et ioel fratres eius super thesauros domus domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000791	amramitis, et isaaritis, et hebronitis, et ozihelitis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000792	subael autem filius gersom filii moysi, praepositus thesauris.	2020-04-18	Liber_Primus_Paralipomenon
+1100000793	fratres quoque eius eliezer, cuius filius rahabia, et huius filius isaias, et huius filius ioram, huius quoque filius zechri, et huius filius selemith.	2020-04-18	Liber_Primus_Paralipomenon
+1100000794	ipse selemith, et fratres eius, super thesauros sanctorum quae sanctificavit david rex, et principes familiarum, et tribuni, et centuriones, et duces exercitus,de bellis et manubiis praeliorum, quae consecraverant ad instaurationem et supellectilem templi domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000795	haec autem universa sanctificavit samuel videns, et saul filius cis, et abner filius ner, et ioab filius sarviae: omnes qui sanctificaverant ea per manum selemith et fratrum eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000796	isaaritis vero praeerat chonenias, et filii eius ad opera forinsecus super israel ad docendum et iudicandum eos.	2020-04-18	Liber_Primus_Paralipomenon
+1100000797	porro de hebronitis hasabias, et fratres eius viri fortissimi, mille septingenti praeerant israeli trans iordanem contra occidentem, in cunctis operibus domini, et in ministerium regis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000798	hebronitarum autem princeps fuit ieria secundum familias et cognationes eorum. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000799	quadragesimo anno regni david recensiti sunt, et inventi sunt viri fortissimi in iazer galaad,fratresque eius robustioris aetatis, duo millia septingenti principes familiarum. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000800	praeposuit autem eos david rex rubenitis, et gadditis, et dimidiae tribui manasse, in omne ministerium dei et regis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000801	caput 27	2020-04-18	Liber_Primus_Paralipomenon
+1100000802	filii autem israel secundum numerum suum, principes familiarum, tribuni, et centuriones, et praefecti, qui ministrabant regi iuxta turmas suas, ingredientes et egredientes per singulos menses in anno, viginti quatuor millibus singuli praeerant.	2020-04-18	Liber_Primus_Paralipomenon
+1100000803	primae turmae in primo mense iesboam praeerat filius zabdiel, et sub eo viginti quatuor millia;de filiis phares, princeps cunctorum principum in exercitu mense primo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000804	secundi mensis habebat turmam dudia ahohites, et post se alter nomine macelloth, qui regebat partem exercitus viginti quatuor millium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000805	dux quoque turmae tertiae in mense tertio erat banaias filius ioiadae sacerdos: et in divisione sua viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000806	ipse est banaias fortissimus inter triginta, et super triginta: praeerat autem turmae ipsius amizabad filius eius.	2020-04-18	Liber_Primus_Paralipomenon
+1100000807	quartus, mense quarto, asahel frater ioab, et zabadias filius eius post eum: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000808	quintus, mense quinto, princeps samaoth iezerites: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000809	sextus, mense sexto, hira filius acces thecuites: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000810	septimus, mense septimo, helles phallonites de filiis ephraim: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000811	octavus, mense octavo, sobochai husathites de stirpe zarahi: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000812	nonus, mense nono, abiezer anathothites de filiis iemini: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000813	decimus, mense decimo, marai, et ipse netophathites de stirpe zarai: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000814	undecimus, mense undecimo, banaias pharathonites de filiis ephraim: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000815	duodecimus, mense duodecimo, holdai netophathites, de stirpe gothoniel: et in turma eius viginti quatuor millia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000816	porro tribubus praeerant israel, rubenitis, dux eliezer filius zechri: simeonitis, dux saphatias filius maacha:levitis, hasabias filius camuel: aaronitis, sadoc:iuda, eliu frater david: issachar, amri filius michael.	2020-04-18	Liber_Primus_Paralipomenon
+1100000817	zabulonitis, iesmaias filius abdiae: nephthalitibus, ierimoth filius ozriel:filiis ephraim, osee filius ozaziu: dimidiae tribui manasse, ioel filius phadaiae:et dimidiae tribui manasse in galaad, iaddo filius zachariae: beniamin autem, iasiel filius abner:dan vero, ezrihel filius ieroham: hi principes filiorum israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000818	noluit autem david numerare eos a viginti annis inferius: quia dixerat dominus ut multiplicaret israel quasi stellas caeli.	2020-04-18	Liber_Primus_Paralipomenon
+1100000819	ioab filius sarviae coeperat numerare, nec complevit: quia super hoc ira irruerat in israel, et idcirco numerus eorum qui fuerant recensiti, non est relatus in fastos regis david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000820	super thesauros autem regis fuit azmoth filius adiel: his autem thesauris, qui erant in urbibus, et in vicis, et in turribus, praesidebat ionathan filius oziae.	2020-04-18	Liber_Primus_Paralipomenon
+1100000821	operi autem rustico, et agricolis qui exercebant terram, praeerat ezri filius chelub:vinearumque cultoribus, semeias romathites: cellis autem vinariis, zabdias aphonites.	2020-04-18	Liber_Primus_Paralipomenon
+1100000822	nam super oliveta et ficeta quae erant in campestribus, balanam gederites: super apothecas autem olei, ioas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000823	porro armentis quae pascebantur in saron, praepositus fuit setrai saronites: et super boves in vallibus, saphat filius adli:super camelos vero, ubil ismahelites: et super asinos, iadias meronathites:super oves quoque, iaziz agareus: omnes hi, principes substantiae regis david.	2020-04-18	Liber_Primus_Paralipomenon
+1100000824	ionathan autem patruus david, consiliarius, vir prudens et litteratus: ipse et iahiel filius hachamoni erant cum filiis regis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000825	achitophel etiam consiliarius regis, et chusai arachites amicus regis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000826	post achitophel fuit ioiada filius banaiae, et abiathar. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000827	princeps autem exercitus regis erat ioab.	2020-04-18	Liber_Primus_Paralipomenon
+1100000828	caput 28	2020-04-18	Liber_Primus_Paralipomenon
+1100000829	convocavit igitur david omnes principes israel, duces tribuum, et praepositos turmarum, qui ministrabant regi: tribunos quoque et centuriones, et qui praeerant substantiae et possessionibus regis, filiosque suos cum eunuchis, et potentes et robustissimos quosque in exercitu ierusalem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000830	cumque surrexisset rex, et stetisset, ait: audite me, fratres mei et populus meus: cogitavi ut aedificarem domum, in qua requiesceret arca foederis domini, et scabellum pedum dei nostri: et ad aedificandum, omnia praeparavi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000831	deus autem dixit mihi: non aedificabis domum nomini meo, eo quod sis vir bellator, et sanguinem fuderis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000832	sed elegit dominus deus israel me de universa domo patris mei, ut essem rex super israel in sempiternum: de iuda enim elegit principes: porro de domo iuda, domum patris mei, et de filiis patris mei placuit ei ut me eligeret regem super cunctum israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000833	sed et de filiis meis (filios enim mihi multos dedit dominus) elegit salomonem filium meum ut sederet in throno regni domini super israel,dixitque mihi: salomon filius tuus aedificabit domum meam, et atria mea: ipsum enim elegi mihi in filium, et ego ero ei in patrem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000834	et firmabo regnum eius usque in aeternum, si perseveraverit facere praecepta mea et iudicia, sicut et hodie.	2020-04-18	Liber_Primus_Paralipomenon
+1100000835	nunc ergo coram universo coetu israel audiente deo nostro, custodite, et perquirite cuncta mandata domini dei nostri: ut possideatis terram bonam, et relinquatis eam filiis vestris post vos usque in sempiternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000836	tu autem, salomon fili mi, scito deum patris tui, et servito ei corde perfecto, animo voluntario: omnia enim corda scrutatur dominus, et universas mentium cogitationes intelligit. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000837	si quaesieris eum, invenies: si autem dereliqueris eum, proiiciet te in aeternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000838	nunc ergo quia elegit te dominus ut aedificares domum sanctuarii, confortare, et perfice.	2020-04-18	Liber_Primus_Paralipomenon
+1100000839	dedit autem david salomoni filio suo descriptionem porticus, et templi, et cellariorum, et coenaculi, et cubiculorum in adytis, et domus propitiationis,necnon et omnium quae cogitaverat atriorum et exedrarum per circuitum in thesauros domus domini, et in thesauros sanctorum,divisionumque sacerdotalium et leviticarum, in omnia opera domus domini, et in universa vasa ministerii templi domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000840	aurum in pondere per singula vasa ministerii. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000841	argenti quoque pondus pro vasorum et operum diversitate.	2020-04-18	Liber_Primus_Paralipomenon
+1100000842	sed et in candelabra aurea, et ad lucernas eorum, aurum pro mensura uniuscuiusque candelabri et lucernarum. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000843	similiter et in candelabra argentea, et in lucernas eorum, pro diversitate mensurae, pondus argenti tradidit.	2020-04-18	Liber_Primus_Paralipomenon
+1100000844	aurum quoque dedit in mensas propositionis pro diversitate mensarum: similiter et argentum in alias mensas argenteas.	2020-04-18	Liber_Primus_Paralipomenon
+1100000845	ad fuscinulas quoque, et phialas, et thuribula ex auro purissimo, et leunculos aureos pro qualitate mensurae pondus distribuit in leunculum et leunculum. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000846	similiter et in leones argenteos diversum argenti pondus separavit.	2020-04-18	Liber_Primus_Paralipomenon
+1100000847	altari autem, in quo adoletur incensum, aurum purissimum dedit: ut ex ipso fieret similitudo quadrigae cherubim extendentium alas, et velantium arcam foederis domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000848	omnia, inquit, venerunt scripta manu domini ad me, ut intelligerem universa opera exemplaris.	2020-04-18	Liber_Primus_Paralipomenon
+1100000849	dixit quoque david salomoni filio suo: viriliter age, et confortare, et fac: ne timeas, et ne paveas: dominus enim deus meus tecum erit, et non dimittet te nec derelinquet, donec perficias omne opus ministerii domus domini.	2020-04-18	Liber_Primus_Paralipomenon
+1100000850	ecce divisiones sacerdotum et levitarum: in omne ministerium domus domini assistunt tibi, et parati sunt, et noverunt tam principes quam populus facere omnia praecepta tua.	2020-04-18	Liber_Primus_Paralipomenon
+1100000851	caput 29	2020-04-18	Liber_Primus_Paralipomenon
+1100000852	locutusque est david rex ad omnem ecclesiam: salomonem filium meum unum elegit deus, adhuc puerum et tenellum: opus namque grande est, neque enim homini praeparatur habitatio, sed deo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000853	ego autem totis viribus meis praeparavi impensas domus dei mei. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000854	aurum ad vasa aurea, et argentum in argentea, aes in aenea, ferrum in ferrea, ligna ad lignea: et lapides onychinos, et quasi stibinos, et diversorum colorum, omnemque pretiosum lapidem, et marmor parium abundantissime:et super haec quae obtuli in domum dei mei de peculio meo aurum et argentum, do in templum dei mei, exceptis his quae praeparavi in aedem sanctam.	2020-04-18	Liber_Primus_Paralipomenon
+1100000855	tria millia talenta auri de auro ophir, et septem millia talentorum argenti probatissimi ad deaurandos parietes templi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000856	et ubicumque opus est aurum de auro, et ubicumque opus est argentum de argento, opera fiant per manus artificum: et si quis sponte offert, impleat manum suam hodie, et offerat quod voluerit domino.	2020-04-18	Liber_Primus_Paralipomenon
+1100000857	polliciti sunt itaque principes familiarum, et proceres tribuum israel, tribuni quoque, et centuriones, et principes possessionum regis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000858	dederuntque in opera domus dei auri talenta quinque millia, et solidos decem millia: argenti talenta decem millia, et aeris talenta decem et octo millia: ferri quoque centum millia talentorum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000859	et apud quemcumque inventi sunt lapides, dederunt in thesauros domus domini per manum iahiel gersonitis.	2020-04-18	Liber_Primus_Paralipomenon
+1100000860	laetatusque est populus cum vota sponte promitterent, quia corde toto offerebant ea domino: sed et david rex laetatus est gaudio magno.	2020-04-18	Liber_Primus_Paralipomenon
+1100000861	et benedixit domino coram universa multitudine, et ait: benedictus es, domine deus israel patris nostri, ab aeterno in aeternum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000862	tua est, domine, magnificentia, et potentia, et gloria, atque victoria: et tibi laus: cuncta enim quae in caelo sunt et in terra, tua sunt: tuum, domine, regnum, et tu es super omnes principes.	2020-04-18	Liber_Primus_Paralipomenon
+1100000863	tuae divitiae, et tua est gloria: tu dominaris omnium. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000864	in manu tua virtus et potentia: in manu tua magnitudo, et imperium omnium.	2020-04-18	Liber_Primus_Paralipomenon
+1100000865	nunc igitur deus noster, confitemur tibi, et laudamus nomen tuum inclytum.	2020-04-18	Liber_Primus_Paralipomenon
+1100000866	quis ego, et quis populus meus, ut possimus haec tibi universa promittere? 	2020-04-18	Liber_Primus_Paralipomenon
+1100000867	tua sunt omnia: et quae de manu tua accepimus, dedimus tibi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000868	peregrini enim sumus coram te, et advenae, sicut omnes patres nostri. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000869	dies nostri quasi umbra super terram, et nulla est mora.	2020-04-18	Liber_Primus_Paralipomenon
+1100000870	domine deus noster, omnis haec copia quam paravimus ut aedificaretur domus nomini sancto tuo, de manu tua est, et tua sunt omnia.	2020-04-18	Liber_Primus_Paralipomenon
+1100000871	scio, deus meus, quod probes corda, et simplicitatem diligas, unde et ego in simplicitate cordis mei laetus obtuli universa haec: et populum tuum qui hic repertus est, vidi cum ingenti gaudio tibi offerre donaria.	2020-04-18	Liber_Primus_Paralipomenon
+1100000872	domine deus abraham, et isaac, et israel patrum nostrorum, custodi in aeternum hanc voluntatem cordis eorum, et semper in venerationem tui mens ista permaneat.	2020-04-18	Liber_Primus_Paralipomenon
+1100000873	salomoni quoque filio meo da cor perfectum, ut custodiat mandata tua, testimonia tua, et caeremonias tuas, et faciat universa: et aedificet aedem, cuius impensas paravi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000874	praecepit autem david universae ecclesiae: benedicite domino deo nostro. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000875	et benedixit omnis ecclesia domino deo patrum suorum: et inclinaverunt se, et adoraverunt deum, et deinde regem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000876	immolaveruntque victimas domino: et obtulerunt holocausta die sequenti, tauros mille, arietes mille, agnos mille cum libaminibus suis, et universo ritu abundantissime in omnem israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000877	et comederunt, et biberunt coram domino in die illo cum grandi laetitia. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000878	et unxerunt secundo salomonem filium david. 	2020-04-18	Liber_Primus_Paralipomenon
+1100000879	unxerunt autem eum domino in principem, et sadoc in pontificem.	2020-04-18	Liber_Primus_Paralipomenon
+1100000880	seditque salomon super solium domini in regem pro david patre suo, et cunctis placuit: et paruit illi omnis israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000881	sed et universi principes, et potentes, et cuncti filii regis david dederunt manum, et subiecti fuerunt salomoni regi.	2020-04-18	Liber_Primus_Paralipomenon
+1100000882	magnificavit ergo dominus salomonem super omnem israel: et dedit illi gloriam regni, qualem nullus habuit ante eum rex israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000883	igitur david filius isai regnavit super universum israel.	2020-04-18	Liber_Primus_Paralipomenon
+1100000884	et dies quibus regnavit super israel, fuerunt quadraginta anni: in hebron regnavit septem annis, et in ierusalem annis triginta tribus.	2020-04-18	Liber_Primus_Paralipomenon
+1100000885	et mortuus est in senectute bona, plenus dierum, et divitiis, et gloria: et regnavit salomon filius eius pro eo.	2020-04-18	Liber_Primus_Paralipomenon
+1100000886	gesta autem david regis priora et novissima scripta sunt in libro samuelis videntis, et in libro nathan prophetae, atque in volumine gad videntis:universique regni eius, et fortitudinis, et temporum quae transierunt sub eo, sive in israel, sive in cunctis regnis terrarum.	2020-04-18	Liber_Primus_Paralipomenon

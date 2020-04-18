@@ -1,0 +1,190 @@
+1100000001	prophetia habacuc	2020-04-18	Prophetia_Habacuc
+1100000002	caput 1	2020-04-18	Prophetia_Habacuc
+1100000003	onus quod vidit habacuc propheta.	2020-04-18	Prophetia_Habacuc
+1100000004	usquequo, domine, clamabo,	2020-04-18	Prophetia_Habacuc
+1100000005	et non exaudies?	2020-04-18	Prophetia_Habacuc
+1100000006	vociferabor ad te, vim patiens,	2020-04-18	Prophetia_Habacuc
+1100000007	et non salvabis?	2020-04-18	Prophetia_Habacuc
+1100000008	quare ostendisti mihi iniquitatem et laborem,	2020-04-18	Prophetia_Habacuc
+1100000009	videre praedam et iniustitiam contra me?	2020-04-18	Prophetia_Habacuc
+1100000010	et factum est iudicium, et contradictio potentior.	2020-04-18	Prophetia_Habacuc
+1100000011	propter hoc lacerata est lex,	2020-04-18	Prophetia_Habacuc
+1100000012	et non pervenit usque ad finem iudicium;	2020-04-18	Prophetia_Habacuc
+1100000013	quia impius praevalet adversus iustum,	2020-04-18	Prophetia_Habacuc
+1100000014	propterea egreditur iudicium perversum.	2020-04-18	Prophetia_Habacuc
+1100000015	aspicite in gentibus, et videte;	2020-04-18	Prophetia_Habacuc
+1100000016	admiramini, et obstupescite:	2020-04-18	Prophetia_Habacuc
+1100000017	quia opus factum est in diebus vestris,	2020-04-18	Prophetia_Habacuc
+1100000018	quod nemo credet cum narrabitur.	2020-04-18	Prophetia_Habacuc
+1100000019	quia ecce ego suscitabo chaldaeos,	2020-04-18	Prophetia_Habacuc
+1100000020	gentem amaram et velocem,	2020-04-18	Prophetia_Habacuc
+1100000021	ambulantem super latitudinem terrae,	2020-04-18	Prophetia_Habacuc
+1100000022	ut possideat tabernacula non sua.	2020-04-18	Prophetia_Habacuc
+1100000023	horribilis et terribilis est:	2020-04-18	Prophetia_Habacuc
+1100000024	ex semetipsa iudicium et onus eius egredietur.	2020-04-18	Prophetia_Habacuc
+1100000025	leviores pardis equi eius,	2020-04-18	Prophetia_Habacuc
+1100000026	et velociores lupis vespertinis:	2020-04-18	Prophetia_Habacuc
+1100000027	et diffundentur equites eius:	2020-04-18	Prophetia_Habacuc
+1100000028	equites namque eius de longe venient;	2020-04-18	Prophetia_Habacuc
+1100000029	volabunt quasi aquila festinans ad comedendum.	2020-04-18	Prophetia_Habacuc
+1100000030	omnes ad praedam venient,	2020-04-18	Prophetia_Habacuc
+1100000031	facies eorum ventus urens;	2020-04-18	Prophetia_Habacuc
+1100000032	et congregabit quasi arenam captivitatem.	2020-04-18	Prophetia_Habacuc
+1100000033	et ipse de regibus triumphabit,	2020-04-18	Prophetia_Habacuc
+1100000034	et tyranni ridiculi eius erunt;	2020-04-18	Prophetia_Habacuc
+1100000035	ipse super omnem munitionem ridebit,	2020-04-18	Prophetia_Habacuc
+1100000036	et comportabit aggerem, et capiet eam.	2020-04-18	Prophetia_Habacuc
+1100000037	tunc mutabitur spiritus, et pertransibit, et corruet:	2020-04-18	Prophetia_Habacuc
+1100000038	haec est fortitudo eius dei sui.	2020-04-18	Prophetia_Habacuc
+1100000039	numquid non tu a principio,	2020-04-18	Prophetia_Habacuc
+1100000040	domine, deus meus, sancte meus,	2020-04-18	Prophetia_Habacuc
+1100000041	et non moriemur?	2020-04-18	Prophetia_Habacuc
+1100000042	domine, in iudicium posuisti eum,	2020-04-18	Prophetia_Habacuc
+1100000043	et fortem, ut corriperes, fundasti eum.	2020-04-18	Prophetia_Habacuc
+1100000044	mundi sunt oculi tui, ne videas malum,	2020-04-18	Prophetia_Habacuc
+1100000045	et respicere ad iniquitatem non poteris.	2020-04-18	Prophetia_Habacuc
+1100000046	quare respicis super iniqua agentes,	2020-04-18	Prophetia_Habacuc
+1100000047	et taces devorante impio iustiorem se?	2020-04-18	Prophetia_Habacuc
+1100000048	et facies homines quasi pisces maris,	2020-04-18	Prophetia_Habacuc
+1100000049	et quasi reptile non habens principem.	2020-04-18	Prophetia_Habacuc
+1100000050	totum in hamo sublevavit,	2020-04-18	Prophetia_Habacuc
+1100000051	traxit illud in sagena sua,	2020-04-18	Prophetia_Habacuc
+1100000052	et congregavit in rete suum.	2020-04-18	Prophetia_Habacuc
+1100000053	super hoc laetabitur, et exsultabit.	2020-04-18	Prophetia_Habacuc
+1100000054	propterea immolabit sagenae suae,	2020-04-18	Prophetia_Habacuc
+1100000055	et sacrificabit reti suo,	2020-04-18	Prophetia_Habacuc
+1100000056	quia in ipsis incrassata est pars eius,	2020-04-18	Prophetia_Habacuc
+1100000057	et cibus eius electus.	2020-04-18	Prophetia_Habacuc
+1100000058	propter hoc ergo expandit sagenam suam,	2020-04-18	Prophetia_Habacuc
+1100000059	et semper interficere gentes non parcet.	2020-04-18	Prophetia_Habacuc
+1100000060	caput 2	2020-04-18	Prophetia_Habacuc
+1100000061	super custodiam meam stabo,	2020-04-18	Prophetia_Habacuc
+1100000062	et figam gradum super munitionem:	2020-04-18	Prophetia_Habacuc
+1100000063	et contemplabor ut videam quid dicatur mihi,	2020-04-18	Prophetia_Habacuc
+1100000064	et quid respondeam ad arguentem me.	2020-04-18	Prophetia_Habacuc
+1100000065	et respondit mihi dominus, et dixit:	2020-04-18	Prophetia_Habacuc
+1100000066	scribe visum, et explana eum super tabulas,	2020-04-18	Prophetia_Habacuc
+1100000067	ut percurrat qui legerit eum.	2020-04-18	Prophetia_Habacuc
+1100000068	quia adhuc visus procul;	2020-04-18	Prophetia_Habacuc
+1100000069	et apparebit in finem, et non mentietur:	2020-04-18	Prophetia_Habacuc
+1100000070	si moram fecerit, exspecta illum,	2020-04-18	Prophetia_Habacuc
+1100000071	quia veniens veniet, et non tardabit.	2020-04-18	Prophetia_Habacuc
+1100000072	ecce qui incredulus est, non erit recta anima eius in semetipso;	2020-04-18	Prophetia_Habacuc
+1100000073	iustus autem in fide sua vivet.	2020-04-18	Prophetia_Habacuc
+1100000074	et quomodo vinum potantem decipit,	2020-04-18	Prophetia_Habacuc
+1100000075	sic erit vir superbus, et non decorabitur:	2020-04-18	Prophetia_Habacuc
+1100000076	qui dilatavit quasi infernus animam suam,	2020-04-18	Prophetia_Habacuc
+1100000077	et ipse quasi mors, et non adimpletur:	2020-04-18	Prophetia_Habacuc
+1100000078	et congregabit ad se omnes gentes,	2020-04-18	Prophetia_Habacuc
+1100000079	et coacervabit ad se omnes populos.	2020-04-18	Prophetia_Habacuc
+1100000080	numquid non omnes isti super eum parabolam sument,	2020-04-18	Prophetia_Habacuc
+1100000081	et loquelam aenigmatum eius, et dicetur:	2020-04-18	Prophetia_Habacuc
+1100000082	vae ei qui multiplicat non sua?	2020-04-18	Prophetia_Habacuc
+1100000083	usquequo et aggravat contra se densum lutum?	2020-04-18	Prophetia_Habacuc
+1100000084	numquid non repente consurgent qui mordeant te,	2020-04-18	Prophetia_Habacuc
+1100000085	et suscitabuntur lacerantes te,	2020-04-18	Prophetia_Habacuc
+1100000086	et eris in rapinam eis?	2020-04-18	Prophetia_Habacuc
+1100000087	quia tu spoliasti gentes multas,	2020-04-18	Prophetia_Habacuc
+1100000088	spoliabunt te omnes qui reliqui fuerint de populis,	2020-04-18	Prophetia_Habacuc
+1100000089	propter sanguinem hominis,	2020-04-18	Prophetia_Habacuc
+1100000090	et iniquitatem terrae, civitatis, et omnium habitantium in ea.	2020-04-18	Prophetia_Habacuc
+1100000091	vae qui congregat avaritiam malam domui suae,	2020-04-18	Prophetia_Habacuc
+1100000092	ut sit in excelso nidus eius,	2020-04-18	Prophetia_Habacuc
+1100000093	et liberari se putat de manu mali!	2020-04-18	Prophetia_Habacuc
+1100000094	cogitasti confusionem domui tuae;	2020-04-18	Prophetia_Habacuc
+1100000095	concidisti populos multos,	2020-04-18	Prophetia_Habacuc
+1100000096	et peccavit anima tua.	2020-04-18	Prophetia_Habacuc
+1100000097	quia lapis de pariete clamabit,	2020-04-18	Prophetia_Habacuc
+1100000098	et lignum, quod inter iuncturas aedificiorum est, respondebit.	2020-04-18	Prophetia_Habacuc
+1100000099	vae qui aedificat civitatem in sanguinibus,	2020-04-18	Prophetia_Habacuc
+1100000100	et praeparat urbem in iniquitate!	2020-04-18	Prophetia_Habacuc
+1100000101	numquid non haec sunt a domino exercituum?	2020-04-18	Prophetia_Habacuc
+1100000102	laborabunt enim populi in multo igne,	2020-04-18	Prophetia_Habacuc
+1100000103	et gentes in vacuum, et deficient.	2020-04-18	Prophetia_Habacuc
+1100000104	quia replebitur terra, ut cognoscant gloriam domini,	2020-04-18	Prophetia_Habacuc
+1100000105	quasi aquae operientes mare.	2020-04-18	Prophetia_Habacuc
+1100000106	vae qui potum dat amico suo mittens fel suum,	2020-04-18	Prophetia_Habacuc
+1100000107	et inebrians ut aspiciat nuditatem eius!	2020-04-18	Prophetia_Habacuc
+1100000108	repletus es ignominia pro gloria;	2020-04-18	Prophetia_Habacuc
+1100000109	bibe tu quoque, et consopire.	2020-04-18	Prophetia_Habacuc
+1100000110	circumdabit te calix dexterae domini,	2020-04-18	Prophetia_Habacuc
+1100000111	et vomitus ignominiae super gloriam tuam.	2020-04-18	Prophetia_Habacuc
+1100000112	quia iniquitas libani operiet te,	2020-04-18	Prophetia_Habacuc
+1100000113	et vastitas animalium deterrebit eos	2020-04-18	Prophetia_Habacuc
+1100000114	de sanguinibus hominum,	2020-04-18	Prophetia_Habacuc
+1100000115	et iniquitate terrae, et civitatis, et omnium habitantium in ea.	2020-04-18	Prophetia_Habacuc
+1100000116	quid prodest sculptile, quia sculpsit illud fictor suus,	2020-04-18	Prophetia_Habacuc
+1100000117	conflatile, et imaginem falsam?	2020-04-18	Prophetia_Habacuc
+1100000118	quia speravit in figmento fictor eius, ut faceret simulacra muta.	2020-04-18	Prophetia_Habacuc
+1100000119	vae qui dicit ligno: expergiscere;	2020-04-18	Prophetia_Habacuc
+1100000120	surge, lapidi tacenti!	2020-04-18	Prophetia_Habacuc
+1100000121	numquid ipse docere poterit?	2020-04-18	Prophetia_Habacuc
+1100000122	ecce iste coopertus est auro et argento,	2020-04-18	Prophetia_Habacuc
+1100000123	et omnis spiritus non est in visceribus eius.	2020-04-18	Prophetia_Habacuc
+1100000124	dominus autem in templo sancto suo:	2020-04-18	Prophetia_Habacuc
+1100000125	sileat a facie eius omnis terra!	2020-04-18	Prophetia_Habacuc
+1100000126	caput 3	2020-04-18	Prophetia_Habacuc
+1100000127	oratio habacuc prophetae, pro ignorantiis.	2020-04-18	Prophetia_Habacuc
+1100000128	domine, audivi auditionem tuam, et timui.	2020-04-18	Prophetia_Habacuc
+1100000129	domine, opus tuum, in medio annorum vivifica illud;	2020-04-18	Prophetia_Habacuc
+1100000130	in medio annorum notum facies:	2020-04-18	Prophetia_Habacuc
+1100000131	cum iratus fueris, misericordiae recordaberis.	2020-04-18	Prophetia_Habacuc
+1100000132	deus ab austro veniet,	2020-04-18	Prophetia_Habacuc
+1100000133	et sanctus de monte pharan:	2020-04-18	Prophetia_Habacuc
+1100000134	operuit caelos gloria eius,	2020-04-18	Prophetia_Habacuc
+1100000135	et laudis eius plena est terra.	2020-04-18	Prophetia_Habacuc
+1100000136	splendor eius ut lux erit,	2020-04-18	Prophetia_Habacuc
+1100000137	cornua in manibus eius:	2020-04-18	Prophetia_Habacuc
+1100000138	ibi abscondita est fortitudo eius.	2020-04-18	Prophetia_Habacuc
+1100000139	ante faciem eius ibit mors,	2020-04-18	Prophetia_Habacuc
+1100000140	et egredietur diabolus ante pedes eius.	2020-04-18	Prophetia_Habacuc
+1100000141	stetit, et mensus est terram;	2020-04-18	Prophetia_Habacuc
+1100000142	aspexit, et dissolvit gentes,	2020-04-18	Prophetia_Habacuc
+1100000143	et contriti sunt montes saeculi:	2020-04-18	Prophetia_Habacuc
+1100000144	incurvati sunt colles mundi ab itineribus aeternitatis eius.	2020-04-18	Prophetia_Habacuc
+1100000145	pro iniquitate vidi tentoria aethiopiae;	2020-04-18	Prophetia_Habacuc
+1100000146	turbabuntur pelles terrae madian.	2020-04-18	Prophetia_Habacuc
+1100000147	numquid in fluminibus iratus es, domine?	2020-04-18	Prophetia_Habacuc
+1100000148	aut in fluminibus furor tuus?	2020-04-18	Prophetia_Habacuc
+1100000149	vel in mari indignatio tua?	2020-04-18	Prophetia_Habacuc
+1100000150	qui ascendes super equos tuos, et quadrigae tuae salvatio.	2020-04-18	Prophetia_Habacuc
+1100000151	suscitans suscitabis arcum tuum,	2020-04-18	Prophetia_Habacuc
+1100000152	iuramenta tribubus quae locutus es;	2020-04-18	Prophetia_Habacuc
+1100000153	fluvios scindes terrae.	2020-04-18	Prophetia_Habacuc
+1100000154	viderunt te, et doluerunt montes;	2020-04-18	Prophetia_Habacuc
+1100000155	gurges aquarum transiit:	2020-04-18	Prophetia_Habacuc
+1100000156	dedit abyssus vocem suam;	2020-04-18	Prophetia_Habacuc
+1100000157	altitudo manus suas levavit.	2020-04-18	Prophetia_Habacuc
+1100000158	sol et luna steterunt in habitaculo suo:	2020-04-18	Prophetia_Habacuc
+1100000159	in luce sagittarum tuarum ibunt,	2020-04-18	Prophetia_Habacuc
+1100000160	in splendore fulgurantis hastae tuae.	2020-04-18	Prophetia_Habacuc
+1100000161	in fremitu conculcabis terram;	2020-04-18	Prophetia_Habacuc
+1100000162	in furore obstupefacies gentes.	2020-04-18	Prophetia_Habacuc
+1100000163	egressus es in salutem populi tui,	2020-04-18	Prophetia_Habacuc
+1100000164	in salutem cum christo tuo:	2020-04-18	Prophetia_Habacuc
+1100000165	percussisti caput de domo impii,	2020-04-18	Prophetia_Habacuc
+1100000166	denudasti fundamentum eius usque ad collum.	2020-04-18	Prophetia_Habacuc
+1100000167	maledixisti sceptris eius,	2020-04-18	Prophetia_Habacuc
+1100000168	capiti bellatorum eius,	2020-04-18	Prophetia_Habacuc
+1100000169	venientibus ut turbo ad dispergendum me:	2020-04-18	Prophetia_Habacuc
+1100000170	exsultatio eorum, sicut eius qui devorat pauperem in abscondito.	2020-04-18	Prophetia_Habacuc
+1100000171	viam fecisti in mari equis tuis,	2020-04-18	Prophetia_Habacuc
+1100000172	in luto aquarum multarum.	2020-04-18	Prophetia_Habacuc
+1100000173	audivi, et conturbatus est venter meus;	2020-04-18	Prophetia_Habacuc
+1100000174	a voce contremuerunt labia mea.	2020-04-18	Prophetia_Habacuc
+1100000175	ingrediatur putredo in ossibus meis,	2020-04-18	Prophetia_Habacuc
+1100000176	et subter me scateat:	2020-04-18	Prophetia_Habacuc
+1100000177	ut requiescam in die tribulationis,	2020-04-18	Prophetia_Habacuc
+1100000178	ut ascendam ad populum accinctum nostrum.	2020-04-18	Prophetia_Habacuc
+1100000179	ficus enim non florebit,	2020-04-18	Prophetia_Habacuc
+1100000180	et non erit germen in vineis;	2020-04-18	Prophetia_Habacuc
+1100000181	mentietur opus olivae,	2020-04-18	Prophetia_Habacuc
+1100000182	et arva non afferent cibum:	2020-04-18	Prophetia_Habacuc
+1100000183	abscindetur de ovili pecus,	2020-04-18	Prophetia_Habacuc
+1100000184	et non erit armentum in praesepibus.	2020-04-18	Prophetia_Habacuc
+1100000185	ego autem in domino gaudebo;	2020-04-18	Prophetia_Habacuc
+1100000186	et exsultabo in deo iesu meo.	2020-04-18	Prophetia_Habacuc
+1100000187	deus dominus fortitudo mea,	2020-04-18	Prophetia_Habacuc
+1100000188	et ponet pedes meos quasi cervorum:	2020-04-18	Prophetia_Habacuc
+1100000189	et super excelsa mea deducet me	2020-04-18	Prophetia_Habacuc
+1100000190	victor in psalmis canentem.	2020-04-18	Prophetia_Habacuc

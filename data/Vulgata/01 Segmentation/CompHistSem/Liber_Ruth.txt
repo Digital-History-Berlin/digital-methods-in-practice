@@ -1,0 +1,105 @@
+1100000001	liber ruth	2020-04-18	Liber_Ruth
+1100000002	caput 1	2020-04-18	Liber_Ruth
+1100000003	in diebus unius iudicis, quando iudices praeerant, facta est fames in terra. 	2020-04-18	Liber_Ruth
+1100000004	abiitque homo de bethlehem iuda, ut peregrinaretur in regione moabitide cum uxore sua ac duobus liberis.	2020-04-18	Liber_Ruth
+1100000005	ipse vocabatur elimelech, et uxor eius noemi: et duo filii, alter mahalon, et alter chelion, ephrathaei de bethlehem iuda. 	2020-04-18	Liber_Ruth
+1100000006	ingressique regionem moabitidem, morabantur ibi.	2020-04-18	Liber_Ruth
+1100000007	et mortuus est elimelech maritus noemi: remansitque ipsa cum filiis.	2020-04-18	Liber_Ruth
+1100000008	qui acceperunt uxores moabitidas, quarum una vocabatur orpha, altera vero ruth. 	2020-04-18	Liber_Ruth
+1100000009	manseruntque ibi decem annis,et ambo mortui sunt, mahalon videlicet et chelion: remansitque mulier orbata duobus liberis ac marito.	2020-04-18	Liber_Ruth
+1100000010	et surrexit ut in patriam pergeret cum utraque nuru sua de regione moabitide: audierat enim quod respexisset dominus populum suum, et dedisset eis escas.	2020-04-18	Liber_Ruth
+1100000011	egressa est itaque de loco peregrinationis suae, cum utraque nuru: et iam in via revertendi posita in terram iuda,dixit ad eas: ite in domum matris vestrae: faciat vobiscum dominus misericordiam, sicut fecistis cum mortuis, et mecum.	2020-04-18	Liber_Ruth
+1100000012	det vobis invenire requiem in domibus virorum quos sortiturae estis. 	2020-04-18	Liber_Ruth
+1100000013	et osculata est eas. 	2020-04-18	Liber_Ruth
+1100000014	quae elevata voce flere coeperunt,et dicere: tecum pergemus ad populum tuum.	2020-04-18	Liber_Ruth
+1100000015	quibus illa respondit: revertimini, filiae meae, cur venitis mecum? 	2020-04-18	Liber_Ruth
+1100000016	num ultra habeo filios in utero meo, ut viros ex me sperare possitis?	2020-04-18	Liber_Ruth
+1100000017	revertimini, filiae meae, et abite: iam enim senectute confecta sum, nec apta vinculo coniugali: etiamsi possem hac nocte concipere, et parere filios,si eos expectare velitis donec crescant, et annos pubertatis impleant, ante eritis vetulae quam nubatis. 	2020-04-18	Liber_Ruth
+1100000018	nolite, quaeso, filiae meae: quia vestra angustia magis me premit, et egressa est manus domini contra me.	2020-04-18	Liber_Ruth
+1100000019	elevata igitur voce, rursum flere coeperunt: orpha osculata est socrum, ac reversa est; ruth adhaesit socrui suae:cui dixit noemi: en reversa est cognata tua ad populum suum, et ad deos suos, vade cum ea.	2020-04-18	Liber_Ruth
+1100000020	quae respondit: ne adverseris mihi ut relinquam te et abeam: quocumque enim perrexeris, pergam, et ubi morata fueris, et ego pariter morabor. 	2020-04-18	Liber_Ruth
+1100000021	populus tuus populus meus, et deus tuus deus meus.	2020-04-18	Liber_Ruth
+1100000022	quae te terra morientem susceperit, in ea moriar: ibique locum accipiam sepulturae. 	2020-04-18	Liber_Ruth
+1100000023	haec mihi faciat dominus, et haec addat, si non sola mors me et te separaverit.	2020-04-18	Liber_Ruth
+1100000024	videns ergo noemi quod obstinato animo ruth decrevisset secum pergere, adversari noluit, nec ad suos ultra reditum persuadere:profectaeque sunt simul, et venerunt in bethlehem. 	2020-04-18	Liber_Ruth
+1100000025	quibus urbem ingressis, velox apud cunctos fama percrebruit: dicebantque mulieres: haec est illa noemi.	2020-04-18	Liber_Ruth
+1100000026	quibus ait: ne vocetis me noemi (id est, pulchram), sed vocate me mara (id est, amaram), quia amaritudine valde replevit me omnipotens.	2020-04-18	Liber_Ruth
+1100000027	egressa sum plena, et vacuam reduxit me dominus. 	2020-04-18	Liber_Ruth
+1100000028	cur ergo vocatis me noemi, quam dominus humiliavit, et afflixit omnipotens?	2020-04-18	Liber_Ruth
+1100000029	venit ergo noemi cum ruth moabitide nuru sua, de terra peregrinationis suae: ac reversa est in bethlehem, quando primum hordea metebantur.	2020-04-18	Liber_Ruth
+1100000030	caput 2	2020-04-18	Liber_Ruth
+1100000031	erat autem viro elimelech consanguineus, homo potens, et magnarum opum, nomine booz.	2020-04-18	Liber_Ruth
+1100000032	dixitque ruth moabitis ad socrum suam: si iubes, vadam in agrum, et colligam spicas quae fugerint manus metentium, ubicumque clementis in me patrisfamilias reperero gratiam. 	2020-04-18	Liber_Ruth
+1100000033	cui illa respondit: vade, filia mea.	2020-04-18	Liber_Ruth
+1100000034	abiit itaque et colligebat spicas post terga metentium. 	2020-04-18	Liber_Ruth
+1100000035	accidit autem ut ager ille haberet dominum nomine booz, qui erat de cognatione elimelech.	2020-04-18	Liber_Ruth
+1100000036	et ecce, ipse veniebat de bethlehem, dixitque messoribus: dominus vobiscum. 	2020-04-18	Liber_Ruth
+1100000037	qui responderunt ei: benedicat tibi dominus.	2020-04-18	Liber_Ruth
+1100000038	dixitque booz iuveni, qui messoribus praeerat: cuius est haec puella?	2020-04-18	Liber_Ruth
+1100000039	cui respondit: haec est moabitis, quae venit cum noemi, de regione moabitide,et rogavit ut spicas colligeret remanentes, sequens messorum vestigia: et de mane usque nunc stat in agro, et ne ad momentum quidem domum reversa est.	2020-04-18	Liber_Ruth
+1100000040	et ait booz ad ruth: audi, filia, ne vadas in alterum agrum ad colligendum, nec recedas ab hoc loco: sed iungere puellis meis,et ubi messuerint, sequere. 	2020-04-18	Liber_Ruth
+1100000041	mandavi enim pueris meis, ut nemo molestus sit tibi: sed etiam si sitieris, vade ad sarcinulas, et bibe aquas, de quibus et pueri bibunt.	2020-04-18	Liber_Ruth
+1100000042	quae cadens in faciem suam et adorans super terram, dixit ad eum: unde mihi hoc, ut invenirem gratiam ante oculos tuos, et nosse me dignareris peregrinam mulierem?	2020-04-18	Liber_Ruth
+1100000043	cui ille respondit: nuntiata sunt mihi omnia quae feceris socrui tuae post mortem viri tui: et quod reliqueris parentes tuos, et terram in qua nata es, et veneris ad populum, quem antea nesciebas.	2020-04-18	Liber_Ruth
+1100000044	reddat tibi dominus pro opere tuo, et plenam mercedem recipias a domino deo israel, ad quem venisti, et sub cuius confugisti alas.	2020-04-18	Liber_Ruth
+1100000045	quae ait: inveni gratiam apud oculos tuos, domine mi, qui consolatus es me, et locutus es ad cor ancillae tuae, quae non sum similis unius puellarum tuarum.	2020-04-18	Liber_Ruth
+1100000046	dixitque ad eam booz: quando hora vescendi fuerit, veni huc, et comede panem, et intinge buccellam tuam in aceto. 	2020-04-18	Liber_Ruth
+1100000047	sedit itaque ad messorum latus, et congessit polentam sibi, comeditque et saturata est, et tulit reliquias.	2020-04-18	Liber_Ruth
+1100000048	atque inde surrexit, ut spicas ex more colligeret. 	2020-04-18	Liber_Ruth
+1100000049	praecepit autem booz pueris suis, dicens: etiamsi vobiscum metere voluerit, ne prohibeatis eam:et de vestris quoque manipulis proiicite de industria, et remanere permittite, ut absque rubore colligat, et colligentem nemo corripiat.	2020-04-18	Liber_Ruth
+1100000050	collegit ergo in agro usque ad vesperam: et quae collegerat virga caedens et excutiens, invenit hordei quasi ephi mensuram, id est, tres modios.	2020-04-18	Liber_Ruth
+1100000051	quos portans reversa est in civitatem, et ostendit socrui suae: insuper protulit, et dedit ei de reliquiis cibi sui, quo saturata fuerat.	2020-04-18	Liber_Ruth
+1100000052	dixitque ei socrus sua: ubi hodie collegisti, et ubi fecisti opus? 	2020-04-18	Liber_Ruth
+1100000053	sit benedictus qui misertus est tui. 	2020-04-18	Liber_Ruth
+1100000054	indicavitque ei apud quem fuisset operata: et nomen dixit viri, quod booz vocaretur.	2020-04-18	Liber_Ruth
+1100000055	cui respondit noemi: benedictus sit a domino: quoniam eamdem gratiam, quam praebuerat vivis, servavit et mortuis. 	2020-04-18	Liber_Ruth
+1100000056	rursumque ait: propinquus noster est homo.	2020-04-18	Liber_Ruth
+1100000057	et ait ruth: hoc quoque, inquit, praecepit mihi, ut tamdiu messoribus eius iungerer, donec omnes segetes meterentur.	2020-04-18	Liber_Ruth
+1100000058	cui dixit socrus: melius est, filia mea, ut cum puellis eius exeas ad metendum, ne in alieno agro quispiam resistat tibi.	2020-04-18	Liber_Ruth
+1100000059	iuncta est itaque puellis booz: et tamdiu cum eis messuit, donec hordea et triticum in horreis conderentur.	2020-04-18	Liber_Ruth
+1100000060	caput 3	2020-04-18	Liber_Ruth
+1100000061	postquam autem reversa est ad socrum suam, audivit ab ea: filia mea, quaeram tibi requiem, et providebo ut bene sit tibi.	2020-04-18	Liber_Ruth
+1100000062	booz iste, cuius puellis in agro iuncta es, propinquus noster est, et hac nocte aream hordei ventilat.	2020-04-18	Liber_Ruth
+1100000063	lavare igitur, et ungere, et induere cultioribus vestimentis, et descende in aream: non te videat homo, donec esum potumque finierit.	2020-04-18	Liber_Ruth
+1100000064	quando autem ierit ad dormiendum, nota locum in quo dormiat: veniesque et discooperies pallium, quo operitur a parte pedum, et proiicies te, et ibi iacebis: ipse autem dicet quid agere debeas.	2020-04-18	Liber_Ruth
+1100000065	quae respondit: quidquid praeceperis, faciam.	2020-04-18	Liber_Ruth
+1100000066	descenditque in aream, et fecit omnia quae sibi imperaverat socrus.	2020-04-18	Liber_Ruth
+1100000067	cumque comedisset booz, et bibisset, et factus esset hilarior, issetque ad dormiendum iuxta acervum manipulorum, venit abscondite, et discooperto pallio, a pedibus eius se proiecit.	2020-04-18	Liber_Ruth
+1100000068	et ecce, nocte iam media expavit homo, et conturbatus est: viditque mulierem iacentem ad pedes suos,et ait illi: quae es? 	2020-04-18	Liber_Ruth
+1100000069	illaque respondit: ego sum ruth ancilla tua: expande pallium tuum super famulam tuam, quia propinquus es.	2020-04-18	Liber_Ruth
+1100000070	et ille: benedicta, inquit, es a domino, filia, et priorem misericordiam posteriore superasti: quia non est secuta iuvenes, pauperes sive divites.	2020-04-18	Liber_Ruth
+1100000071	noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. 	2020-04-18	Liber_Ruth
+1100000072	scit enim omnis populus, qui habitat intra portas urbis meae, mulierem te esse virtutis.	2020-04-18	Liber_Ruth
+1100000073	nec abnuo me propinquum, sed est alius me propinquior.	2020-04-18	Liber_Ruth
+1100000074	quiesce hac nocte: et facto mane, si te voluerit propinquitatis iure retinere, bene res acta est: sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit dominus. 	2020-04-18	Liber_Ruth
+1100000075	dormi usque mane.	2020-04-18	Liber_Ruth
+1100000076	dormivit itaque ad pedes eius, usque ad noctis abscessum. 	2020-04-18	Liber_Ruth
+1100000077	surrexit itaque antequam homines se cognoscerent mutuo, et dixit booz: cave ne quis noverit quod huc veneris.	2020-04-18	Liber_Ruth
+1100000078	et rursum: expande, inquit, pallium tuum, quo operiris, et tene utraque manu. 	2020-04-18	Liber_Ruth
+1100000079	qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. 	2020-04-18	Liber_Ruth
+1100000080	quae portans ingressa est civitatem,et venit ad socrum suam. 	2020-04-18	Liber_Ruth
+1100000081	quae dixit ei: quid egisti, filia? 	2020-04-18	Liber_Ruth
+1100000082	narravitque ei omnia, quae sibi fecisset homo.	2020-04-18	Liber_Ruth
+1100000083	et ait: ecce sex modios hordei dedit mihi, et ait: nolo vacuam te reverti ad socrum tuam.	2020-04-18	Liber_Ruth
+1100000084	dixitque noemi: expecta, filia, donec videamus quem res exitum habeat: neque enim cessabit homo, nisi compleverit quod locutus est.	2020-04-18	Liber_Ruth
+1100000085	caput 4	2020-04-18	Liber_Ruth
+1100000086	ascendit ergo booz ad portam, et sedit ibi. 	2020-04-18	Liber_Ruth
+1100000087	cumque vidisset propinquum praeterire, de quo prius sermo habitus est, dixit ad eum: declina paulisper, et sede hic: vocans eum nomine suo. 	2020-04-18	Liber_Ruth
+1100000088	qui divertit, et sedit.	2020-04-18	Liber_Ruth
+1100000089	tollens autem booz decem viros de senioribus civitatis, dixit ad eos: sedete hic.	2020-04-18	Liber_Ruth
+1100000090	quibus sedentibus, locutus est ad propinquum: partem agri fratris nostri elimelech vendet noemi, quae reversa est de regione moabitide:quod audire te volui, et tibi dicere coram cunctis sedentibus, et maioribus natu de populo meo. 	2020-04-18	Liber_Ruth
+1100000091	si vis possidere iure propinquitatis, eme, et posside: sin autem displicet tibi, hoc ipsum indica mihi, ut sciam quid facere debeam: nullus enim est propinquus, excepto te, qui prior es, et me, qui secundus sum. 	2020-04-18	Liber_Ruth
+1100000092	at ille respondit: ego agrum emam.	2020-04-18	Liber_Ruth
+1100000093	cui dixit booz: quando emeris agrum de manu mulieris, ruth quoque moabitidem, quae uxor defuncti fuit, debes accipere: ut suscites nomen propinqui tui in haereditate sua.	2020-04-18	Liber_Ruth
+1100000094	qui respondit: cedo iuri propinquitatis: neque enim posteritatem familiae meae delere debeo: tu meo utere privilegio, quo me libenter carere profiteor.	2020-04-18	Liber_Ruth
+1100000095	hic autem erat mos antiquitus in israel inter propinquos, ut siquando alter alteri suo iuri cedebat, ut esset firma concessio, solvebat homo calceamentum suum, et dabat proximo suo: hoc erat testimonium cessionis in israel.	2020-04-18	Liber_Ruth
+1100000096	dixit ergo propinquo suo booz: tolle calceamentum tuum. 	2020-04-18	Liber_Ruth
+1100000097	quod statim solvit de pede suo.	2020-04-18	Liber_Ruth
+1100000098	at ille maioribus natu, et universo populo: testes vos, inquit, estis hodie, quod possederim omnis quae fuerunt elimelech, et chelion, et mahalon, tradente noemi;et ruth moabitidem, uxorem mahalon, in coniugium sumpserim, ut suscitem nomen defuncti in haereditate sua, ne vocabulum eius de familia sua ac fratribus et populo deleatur. 	2020-04-18	Liber_Ruth
+1100000099	vos, inquam, huius rei testes estis.	2020-04-18	Liber_Ruth
+1100000100	respondit omnis populus, qui erat in porta, et maiores natu: nos testes sumus: faciat dominus hanc mulierem, quae ingreditur domum tuam, sicut rachel et liam, quae aedificaverunt domum israel: ut sit exemplum virtutis in ephratha, et habeat celebre nomen in bethlehem:fiatque domus tua sicut domus phares, quem thamar peperit iudae, de semine quod tibi dederit dominus ex hac puella.	2020-04-18	Liber_Ruth
+1100000101	tulit itaque booz ruth, et accepit uxorem: ingressusque est ad eam, et dedit illi dominus ut conciperet, et pareret filium.	2020-04-18	Liber_Ruth
+1100000102	dixeruntque mulieres ad noemi: benedictus dominus, qui non est passus ut deficeret successor familiae tuae, et vocaretur nomen eius in israel:et habeas qui consoletur animam tuam, et enutriat senectutem: de nuru enim tua natus est, quae te diligit, et multo tibi melior est, quam si septem haberes filios.	2020-04-18	Liber_Ruth
+1100000103	susceptumque noemi puerum posuit in sinu suo, et nutricis ac gerulae fungebatur officio.	2020-04-18	Liber_Ruth
+1100000104	vicinae autem mulieris congratulantes ei, et dicentes: natus est filius noemi: vocaverunt nomen eius obed: hic est pater isai, patris david.	2020-04-18	Liber_Ruth
+1100000105	hae sunt generationes phares: phares genuit esron,esron genuit aram, aram genuit aminadab,aminadab genuit nahasson, nahasson genuit salmon,salmon genuit booz, booz genuit obed,obed genuit isai, isai genuit david.	2020-04-18	Liber_Ruth

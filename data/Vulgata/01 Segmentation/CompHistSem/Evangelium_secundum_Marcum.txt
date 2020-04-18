@@ -1,0 +1,721 @@
+1100000001	evangelium secundum marcum	2020-04-18	Evangelium_secundum_Marcum
+1100000002	caput 1	2020-04-18	Evangelium_secundum_Marcum
+1100000003	initium evangelii iesu christi, filii dei.	2020-04-18	Evangelium_secundum_Marcum
+1100000004	sicut scriptum est in isaia propheta:	2020-04-18	Evangelium_secundum_Marcum
+1100000005	ecce ego mitto angelum meum ante faciem tuam,	2020-04-18	Evangelium_secundum_Marcum
+1100000006	qui praeparabit viam tuam ante te.	2020-04-18	Evangelium_secundum_Marcum
+1100000007	vox clamantis in deserto:	2020-04-18	Evangelium_secundum_Marcum
+1100000008	parate viam domini, rectas facite semitas eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000009	fuit ioannes in deserto baptizans, et praedicans baptismum poenitentiae in remissionem peccatorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000010	et egrediebatur ad eum omnis iudaeae regio, et ierosolymitae universi, et baptizabantur ab illo in iordanis flumine, confitentes peccata sua.	2020-04-18	Evangelium_secundum_Marcum
+1100000011	et erat ioannes vestitus pilis cameli, et zona pellicea circa lumbos eius, et locustas et mel silvestre edebat.	2020-04-18	Evangelium_secundum_Marcum
+1100000012	et praedicabat dicens: venit fortior me post me, cuius non sum dignus procumbens solvere corrigiam calceamentorum eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000013	ego baptizavi vos aqua, ille vero baptizabit vos spiritu sancto.	2020-04-18	Evangelium_secundum_Marcum
+1100000014	et factum est: in diebus illis venit iesus a nazareth galilaeae: et baptizatus est a ioanne in iordane.	2020-04-18	Evangelium_secundum_Marcum
+1100000015	et statim ascendens de aqua, vidit caelos apertos, et spiritum tamquam columbam descendentem, et manentem in ipso.	2020-04-18	Evangelium_secundum_Marcum
+1100000016	et vox facta est de caelis: tu es filius meus dilectus, in te complacui.	2020-04-18	Evangelium_secundum_Marcum
+1100000017	et statim spiritus expulit eum in desertum.	2020-04-18	Evangelium_secundum_Marcum
+1100000018	et erat in deserto quadraginta diebus, et quadraginta noctibus: et tentabatur a satana: eratque cum bestiis, et angeli ministrabant illi.	2020-04-18	Evangelium_secundum_Marcum
+1100000019	postquam autem traditus est ioannes, venit iesus in galilaeam, praedicans evangelium regni dei,et dicens: quoniam impletum est tempus, et appropinquavit regnum dei: poenitemini, et credite evangelio.	2020-04-18	Evangelium_secundum_Marcum
+1100000020	et praeteriens secus mare galilaeae, vidit simonem, et andream fratrem eius, mittentes retia in mare (erant enim piscatores),et dixit eis iesus: venite post me, et faciam vos fieri piscatores hominum.	2020-04-18	Evangelium_secundum_Marcum
+1100000021	et protinus relictis retibus, secuti sunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000022	et progressus inde pusillum, vidit iacobum zebedaei, et ioannem fratrem eius, et ipsos componentes retia in navi:et statim vocavit illos. 	2020-04-18	Evangelium_secundum_Marcum
+1100000023	et relicto patre suo zebedaeo in navi cum mercenariis, secuti sunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000024	et ingrediuntur capharnaum: et statim sabbatis ingressus in synagogam, docebat eos.	2020-04-18	Evangelium_secundum_Marcum
+1100000025	et stupebant super doctrina eius: erat enim docens eos quasi potestatem habens, et non sicut scribae.	2020-04-18	Evangelium_secundum_Marcum
+1100000026	et erat in synagoga eorum homo in spiritu immundo: et exclamavit,dicens: quid nobis et tibi, iesu nazarene? 	2020-04-18	Evangelium_secundum_Marcum
+1100000027	venisti perdere nos? 	2020-04-18	Evangelium_secundum_Marcum
+1100000028	scio qui sis, sanctus dei.	2020-04-18	Evangelium_secundum_Marcum
+1100000029	et comminatus est ei iesus, dicens: obmutesce, et exi de homine.	2020-04-18	Evangelium_secundum_Marcum
+1100000030	et discerpens eum spiritus immundus, et exclamans voce magna, exiit ab eo.	2020-04-18	Evangelium_secundum_Marcum
+1100000031	et mirati sunt omnes, ita ut conquirerent inter se dicentes: quidnam est hoc? 	2020-04-18	Evangelium_secundum_Marcum
+1100000032	quaenam doctrina haec nova? 	2020-04-18	Evangelium_secundum_Marcum
+1100000033	quia in potestate etiam spiritibus immundis imperat, et obediunt ei.	2020-04-18	Evangelium_secundum_Marcum
+1100000034	et processit rumor eius statim in omnem regionem galilaeae.	2020-04-18	Evangelium_secundum_Marcum
+1100000035	et protinus egredientes de synagoga, venerunt in domum simonis et andreae, cum iacobo et ioanne.	2020-04-18	Evangelium_secundum_Marcum
+1100000036	decumbebat autem socrus simonis febricitans: et statim dicunt ei de illa.	2020-04-18	Evangelium_secundum_Marcum
+1100000037	et accedens elevavit eam, apprehensa manu eius: et continuo dimisit eam febris, et ministrabat eis.	2020-04-18	Evangelium_secundum_Marcum
+1100000038	vespere autem facto cum occidisset sol, afferebant ad eum omnes male habentes, et daemonia habentes:et erat omnis civitas congregata ad ianuam.	2020-04-18	Evangelium_secundum_Marcum
+1100000039	et curavit multos, qui vexabantur variis languoribus, et daemonia multa eiiciebat, et non sinebat ea loqui, quoniam sciebant eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000040	et diluculo valde surgens, egressus abiit in desertum locum, ibique orabat.	2020-04-18	Evangelium_secundum_Marcum
+1100000041	et prosecutus est eum simon, et qui cum illo erant.	2020-04-18	Evangelium_secundum_Marcum
+1100000042	et cum invenissent eum, dixerunt ei: quia omnes quaerunt te.	2020-04-18	Evangelium_secundum_Marcum
+1100000043	et ait illis: eamus in proximos vicos, et civitates, ut et ibi praedicem: ad hoc enim veni.	2020-04-18	Evangelium_secundum_Marcum
+1100000044	et erat praedicans in synagogis eorum, et in omni galilaea, et daemonia eiiciens.	2020-04-18	Evangelium_secundum_Marcum
+1100000045	et venit ad eum leprosus deprecans eum: et genu flexo dixit ei: si vis, potes me mundare.	2020-04-18	Evangelium_secundum_Marcum
+1100000046	iesus autem misertus eius, extendit manum suam: et tangens eum, ait illi: volo: mundare.	2020-04-18	Evangelium_secundum_Marcum
+1100000047	et cum dixisset, statim discessit ab eo lepra, et mundatus est.	2020-04-18	Evangelium_secundum_Marcum
+1100000048	et comminatus est ei, statimque eiecit illum,et dicit ei: vide nemini dixeris: sed vade, ostende te principi sacerdotum, et offer pro emundatione tua, quae praecepit moyses in testimonium illis.	2020-04-18	Evangelium_secundum_Marcum
+1100000049	at ille egressus coepit praedicare, et diffamare sermonem, ita ut iam non posset manifeste introire in civitatem, sed foris in desertis locis esset, et conveniebant ad eum undique.	2020-04-18	Evangelium_secundum_Marcum
+1100000050	caput 2	2020-04-18	Evangelium_secundum_Marcum
+1100000051	et iterum intravit capharnaum post dies,et auditum est quod in domo esset, et convenerunt multi, ita ut non caperet neque ad ianuam, et loquebatur eis verbum.	2020-04-18	Evangelium_secundum_Marcum
+1100000052	et venerunt ad eum ferentes paralyticum, qui a quatuor portabatur.	2020-04-18	Evangelium_secundum_Marcum
+1100000053	et cum non possent offerre eum illi prae turba, nudaverunt tectum ubi erat: et patefacientes submiserunt grabatum in quo paralyticus iacebat.	2020-04-18	Evangelium_secundum_Marcum
+1100000054	cum autem vidisset iesus fidem illorum, ait paralytico: fili, dimittuntur tibi peccata tua.	2020-04-18	Evangelium_secundum_Marcum
+1100000055	erant autem illic quidam de scribis sedentes, et cogitantes in cordibus suis:quid hic sic loquitur? 	2020-04-18	Evangelium_secundum_Marcum
+1100000056	blasphemat. 	2020-04-18	Evangelium_secundum_Marcum
+1100000057	quis potest dimittere peccata, nisi solus deus?	2020-04-18	Evangelium_secundum_Marcum
+1100000058	quo statim cognito iesus spiritu suo, quia sic cogitarent intra se, dicit illis: quid ista cogitatis in cordibus vestris?	2020-04-18	Evangelium_secundum_Marcum
+1100000059	quid est facilius dicere paralytico: dimittuntur tibi peccata: an dicere: surge, tolle grabatum tuum, et ambula?	2020-04-18	Evangelium_secundum_Marcum
+1100000060	ut autem sciatis quia filius hominis habet potestatem in terra dimittendi peccata (ait paralytico),tibi dico: surge, tolle grabatum tuum, et vade in domum tuam.	2020-04-18	Evangelium_secundum_Marcum
+1100000061	et statim surrexit ille: et, sublato grabato, abiit coram omnibus, ita ut mirarentur omnes, et honorificent deum, dicentes: quia numquam sic vidimus.	2020-04-18	Evangelium_secundum_Marcum
+1100000062	et egressus est rursus ad mare, omnisque turba veniebat ad eum, et docebat eos.	2020-04-18	Evangelium_secundum_Marcum
+1100000063	et cum praeteriret, vidit levi alphaei sedentem ad telonium, et ait illi: sequere me. 	2020-04-18	Evangelium_secundum_Marcum
+1100000064	et surgens secutus est eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000065	et factum est, cum accumberet in domo illius, multi publicani et peccatores simul discumbebant cum iesu et discipulis eius: erant enim multi, qui et sequebantur eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000066	et scribae et pharisaei videntes quia manducaret cum publicanis et peccatoribus, dicebant discipulis eius: quare cum publicanis et peccatoribus manducat et bibit magister vester?	2020-04-18	Evangelium_secundum_Marcum
+1100000067	hoc audito iesus ait illis: non necesse habent sani medico, sed qui male habent: non enim veni vocare iustos, sed peccatores.	2020-04-18	Evangelium_secundum_Marcum
+1100000068	et erant discipuli ioannis et pharisaei ieiunantes: et veniunt, et dicunt illi: quare discipuli ioannis et pharisaeorum ieiunant, tui autem discipuli non ieiunant?	2020-04-18	Evangelium_secundum_Marcum
+1100000069	et ait illis iesus: numquid possunt filii nuptiarum, quamdiu sponsus cum illis est, ieiunare? 	2020-04-18	Evangelium_secundum_Marcum
+1100000070	quanto tempore habent secum sponsum, non possunt ieiunare.	2020-04-18	Evangelium_secundum_Marcum
+1100000071	venient autem dies cum auferetur ab eis sponsus: et tunc ieiunabunt in illis diebus.	2020-04-18	Evangelium_secundum_Marcum
+1100000072	nemo assumentum panni rudis assuit vestimento veteri: alioquin aufert supplementum novum a veteri, et maior scissura fit.	2020-04-18	Evangelium_secundum_Marcum
+1100000073	et nemo mittit vinum novum in utres veteres: alioquin dirumpet vinum utres, et vinum effundetur, et utres peribunt: sed vinum novum in utres novos mitti debet.	2020-04-18	Evangelium_secundum_Marcum
+1100000074	et factum est iterum dominus sabbatis ambularet per sata, et discipuli eius coeperunt progredi, et vellere spicas.	2020-04-18	Evangelium_secundum_Marcum
+1100000075	pharisaei autem dicebant ei: ecce, quid faciunt sabbatis quod non licet?	2020-04-18	Evangelium_secundum_Marcum
+1100000076	et ait illis: numquam legistis quid fecerit david, quando necessitatem habuit, et esuriit ipse, et qui cum eo erant?	2020-04-18	Evangelium_secundum_Marcum
+1100000077	quomodo introivit in domum dei sub abiathar principe sacerdotum, et panes propositionis manducavit, quos non licebat manducare, nisi sacerdotibus, et dedit eis qui cum eo erant?	2020-04-18	Evangelium_secundum_Marcum
+1100000078	et dicebat eis: sabbatum propter hominem factum est, et non homo propter sabbatum.	2020-04-18	Evangelium_secundum_Marcum
+1100000079	itaque dominus est filius hominis, etiam sabbati.	2020-04-18	Evangelium_secundum_Marcum
+1100000080	caput 3	2020-04-18	Evangelium_secundum_Marcum
+1100000081	et introivit iterum in synagogam: et erat ibi homo habens manum aridam.	2020-04-18	Evangelium_secundum_Marcum
+1100000082	et observabant eum, si sabbatis curaret, ut accusarent illum.	2020-04-18	Evangelium_secundum_Marcum
+1100000083	et ait homini habenti manum aridam: surge in medium.	2020-04-18	Evangelium_secundum_Marcum
+1100000084	et dicit eis: licet sabbatis benefacere, an male? 	2020-04-18	Evangelium_secundum_Marcum
+1100000085	animam salvam facere, an perdere? 	2020-04-18	Evangelium_secundum_Marcum
+1100000086	at illi tacebant.	2020-04-18	Evangelium_secundum_Marcum
+1100000087	et circumspiciens eos cum ira, contristatus super caecitate cordis eorum, dicit homini: extende manum tuam. 	2020-04-18	Evangelium_secundum_Marcum
+1100000088	et extendit, et restituta est manus illi.	2020-04-18	Evangelium_secundum_Marcum
+1100000089	exeuntes autem pharisaei, statim cum herodianis consilium faciebant adversus eum quomodo eum perderent.	2020-04-18	Evangelium_secundum_Marcum
+1100000090	iesus autem cum discipulis suis secessit ad mare: et multa turba a galilaea et iudaea secuta est eum,et ab ierosolymis, et ab idumaea, et trans iordanem: et qui circa tyrum et sidonem multitudo magna, audientes quae faciebat, venerunt ad eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000091	et dicit discipulis suis ut navicula sibi deserviret propter turbam, ne comprimerent eum:multos enim sanabat, ita ut irruerent in eum ut illum tangerent, quotquot habebant plagas.	2020-04-18	Evangelium_secundum_Marcum
+1100000092	et spiritus immundi, cum illum videbant, procidebant ei: et clamabant, dicentes:tu es filius dei. 	2020-04-18	Evangelium_secundum_Marcum
+1100000093	et vehementer comminabatur eis ne manifestarent illum.	2020-04-18	Evangelium_secundum_Marcum
+1100000094	et ascendens in montem vocavit ad se quos voluit ipse: et venerunt ad eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000095	et fecit ut essent duodecim cum illo: et ut mitteret eos praedicare.	2020-04-18	Evangelium_secundum_Marcum
+1100000096	et dedit illis potestatem curandi infirmitates et eiiciendi daemonia.	2020-04-18	Evangelium_secundum_Marcum
+1100000097	et imposuit simoni nomen petrus:et iacobum zebedaei, et ioannem fratrem iacobi, et imposuit eis nomina boanerges, quod est, filii tonitrui:et andraeam, et philippum, et bartholomaeum, et matthaeum, et thomam, et iacobum alphaei, et thaddaeum, et simonem cananaeum,et iudam iscariotem, qui et tradidit illum.	2020-04-18	Evangelium_secundum_Marcum
+1100000098	et veniunt ad domum: et convenit iterum turba, ita ut non possent neque panem manducare.	2020-04-18	Evangelium_secundum_Marcum
+1100000099	et cum audissent sui, exierunt tenere eum: dicebant enim: quoniam in furorem versus est.	2020-04-18	Evangelium_secundum_Marcum
+1100000100	et scribae, qui ab ierosolymis descenderant, dicebant: quoniam beelzebub habet, et quia in principe daemoniorum eiicit daemonia.	2020-04-18	Evangelium_secundum_Marcum
+1100000101	et convocatis eis in parabolis dicebat illis: quomodo potest satanas satanam eiicere?	2020-04-18	Evangelium_secundum_Marcum
+1100000102	et si regnum in se dividatur, non potest regnum illud stare.	2020-04-18	Evangelium_secundum_Marcum
+1100000103	et si domus super semetipsam dispertiatur, non potest domus illa stare.	2020-04-18	Evangelium_secundum_Marcum
+1100000104	et si satanas consurrexerit in semetipsum, dispertitus est, et non poterit stare, sed finem habet.	2020-04-18	Evangelium_secundum_Marcum
+1100000105	nemo potest vasa fortis ingressus in domum diripere, nisi prius fortem alliget, et tunc domum eius diripiet.	2020-04-18	Evangelium_secundum_Marcum
+1100000106	amen dico vobis, quoniam omnia dimittentur filiis hominum peccata, et blasphemiae quibus blasphemaverint:qui autem blasphemaverit in spiritum sanctum, non habebit remissionem in aeternum, sed reus erit aeterni delicti.	2020-04-18	Evangelium_secundum_Marcum
+1100000107	quoniam dicebant: spiritum immundum habet.	2020-04-18	Evangelium_secundum_Marcum
+1100000108	et veniunt mater eius et fratres: et foris stantes miserunt ad eum vocantes eum,et sedebat circa eum turba: et dicunt ei: ecce mater tua et fratres tui foris quaerunt te.	2020-04-18	Evangelium_secundum_Marcum
+1100000109	et respondens eis, ait: quae est mater mea et fratres mei?	2020-04-18	Evangelium_secundum_Marcum
+1100000110	et circumspiciens eos, qui in circuitu eius sedebant, ait: ecce mater mea et fratres mei.	2020-04-18	Evangelium_secundum_Marcum
+1100000111	qui enim fecerit voluntatem dei, hic frater meus, et soror mea, et mater est.	2020-04-18	Evangelium_secundum_Marcum
+1100000112	caput 4	2020-04-18	Evangelium_secundum_Marcum
+1100000113	et iterum coepit docere ad mare: et congregata est ad eum turba multa, ita ut navim ascendens sederet in mari, et omnis turba circa mare super terram erat:et docebat eos in parabolis multa, et dicebat illis in doctrina sua:audite: ecce exiit seminans ad seminandum.	2020-04-18	Evangelium_secundum_Marcum
+1100000114	et dum seminat, aliud cecidit circa viam, et venerunt volucres caeli, et comederunt illud.	2020-04-18	Evangelium_secundum_Marcum
+1100000115	aliud vero cecidit super petrosa, ubi non habuit terram multam: et statim exortum est, quoniam non habebat altitudinem terrae:et quando exortus est sol, exaestuavit: et eo quod non habebat radicem, exaruit.	2020-04-18	Evangelium_secundum_Marcum
+1100000116	et aliud cecidit in spinas: et ascenderunt spinae, et suffocaverunt illud, et fructum non dedit.	2020-04-18	Evangelium_secundum_Marcum
+1100000117	et aliud cecidit in terram bonam: et dabat fructum ascendentem et crescentem, et afferebat unum triginta, unum sexaginta, et unum centum.	2020-04-18	Evangelium_secundum_Marcum
+1100000118	et dicebat: qui habet aures audiendi, audiat.	2020-04-18	Evangelium_secundum_Marcum
+1100000119	et cum esset singularis, interrogaverunt eum hi qui cum eo erant duodecim, parabolam.	2020-04-18	Evangelium_secundum_Marcum
+1100000120	et dicebat eis: vobis datum est nosse mysterium regni dei: illis autem, qui foris sunt, in parabolis omnia fiunt:ut videntes videant, et non videant: et audientes audiant, et non intelligant: nequando convertantur, et dimittantur eis peccata.	2020-04-18	Evangelium_secundum_Marcum
+1100000121	et ait illis: nescitis parabolam hanc? 	2020-04-18	Evangelium_secundum_Marcum
+1100000122	et quomodo omnes parabolas cognoscetis?	2020-04-18	Evangelium_secundum_Marcum
+1100000123	qui seminat, verbum seminat.	2020-04-18	Evangelium_secundum_Marcum
+1100000124	hi autem sunt, qui circa viam, ubi seminatur verbum, et cum audierint, confestim venit satanas, et aufert verbum, quod seminatum est in cordibus eorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000125	et hi sunt similiter, qui super petrosa seminantur: qui cum audierint verbum, statim cum gaudio accipiunt illud:et non habent radicem in se, sed temporales sunt: deinde orta tribulatione et persecutione propter verbum, confestim scandalizantur.	2020-04-18	Evangelium_secundum_Marcum
+1100000126	et alii sunt qui in spinas seminantur: hi sunt qui verbum audiunt,et aerumnae saeculi, et deceptio divitiarum, et circa reliqua concupiscentiae introeuntes suffocant verbum, et sine fructu efficitur.	2020-04-18	Evangelium_secundum_Marcum
+1100000127	et hi sunt qui super terram bonam seminati sunt, qui audiunt verbum, et suscipiunt, et fructificant, unum triginta, unum sexaginta, et unum centum.	2020-04-18	Evangelium_secundum_Marcum
+1100000128	et dicebat illis: numquid venit lucerna ut sub modo ponatur, aut sub lecto? 	2020-04-18	Evangelium_secundum_Marcum
+1100000129	nonne ut super candelabrum ponatur?	2020-04-18	Evangelium_secundum_Marcum
+1100000130	non est enim aliquid absconditum, quod non manifestetur: nec factum est occultum, sed ut in palam veniat.	2020-04-18	Evangelium_secundum_Marcum
+1100000131	si quis habet aures audiendi, audiat.	2020-04-18	Evangelium_secundum_Marcum
+1100000132	et dicebat illis: videte quid audiatis. 	2020-04-18	Evangelium_secundum_Marcum
+1100000133	in qua mensura mensi fueritis, remetietur vobis, et adiicietur vobis.	2020-04-18	Evangelium_secundum_Marcum
+1100000134	qui enim habet, dabitur illi: et qui non habet, etiam quod habet auferetur ab eo.	2020-04-18	Evangelium_secundum_Marcum
+1100000135	et dicebat: sic est regnum dei, quemadmodum si homo iaciat sementem in terram,et dormiat, et exsurgat nocte et die, et semen germinet, et increscat dum nescit ille.	2020-04-18	Evangelium_secundum_Marcum
+1100000136	ultro enim terra fructificat, primum herbam, deinde spicam, deinde plenum frumentum in spica.	2020-04-18	Evangelium_secundum_Marcum
+1100000137	et cum produxerit fructus, statim mittit falcem, quoniam adest messis.	2020-04-18	Evangelium_secundum_Marcum
+1100000138	et dicebat: cui assimilabimus regnum dei? 	2020-04-18	Evangelium_secundum_Marcum
+1100000139	aut cui parabolae comparabimus illud?	2020-04-18	Evangelium_secundum_Marcum
+1100000140	sicut granum sinapis, quod cum seminatum fuerit in terra, minus est omnibus seminibus, quae sunt in terra:et cum seminatum fuerit, ascendit, et fit maius omnibus oleribus, et facit ramos magnos, ita ut possint sub umbra eius aves caeli habitare.	2020-04-18	Evangelium_secundum_Marcum
+1100000141	et talibus multis parabolis loquebatur eis verbum, prout poterant audire:sine parabola autem non loquebatur eis: seorsum autem discipulis suis disserebat omnia.	2020-04-18	Evangelium_secundum_Marcum
+1100000142	et ait illis in illa die, cum sero esset factum: transeamus contra.	2020-04-18	Evangelium_secundum_Marcum
+1100000143	et dimittentes turbam, assumunt eum ita ut erat in navi: et aliae naves erant cum illo.	2020-04-18	Evangelium_secundum_Marcum
+1100000144	et facta est procella magna venti, et fluctus mittebat in navim, ita ut impleretur navis.	2020-04-18	Evangelium_secundum_Marcum
+1100000145	et erat ipse in puppi super cervical dormiens: et excitant eum, et dicunt illi: magister, non ad te pertinet, quia perimus?	2020-04-18	Evangelium_secundum_Marcum
+1100000146	et exsurgens comminatus est vento, et dixit mari: tace, obmutesce. 	2020-04-18	Evangelium_secundum_Marcum
+1100000147	et cessavit ventus: et facta est tranquillitas magna.	2020-04-18	Evangelium_secundum_Marcum
+1100000148	et ait illis: quid timidi estis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000149	necdum habetis fidem? 	2020-04-18	Evangelium_secundum_Marcum
+1100000150	et timuerunt timore magno, et dicebant ad alterutrum: quis, putas, est iste, quia et ventus et mare obediunt ei?	2020-04-18	Evangelium_secundum_Marcum
+1100000151	caput 5	2020-04-18	Evangelium_secundum_Marcum
+1100000152	et venerunt trans fretum maris in regionem gerasenorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000153	et exeunti ei de navi, statim occurrit de monumentis homo in spiritu immundo,qui domicilium habebat in monumentis, et neque catenis iam quisquam poterat eum ligare:quoniam saepe compedibus et catenis vinctus, dirupisset catenas, et compedes comminuisset, et nemo poterat eum domare:et semper die ac nocte in monumentis, et in montibus erat, clamans, et concidens se lapidibus.	2020-04-18	Evangelium_secundum_Marcum
+1100000154	videns autem iesum a longe, cucurrit, et adoravit eum:et clamans voce magna dixit: quid mihi et tibi, iesu fili dei altissimi? 	2020-04-18	Evangelium_secundum_Marcum
+1100000155	adiuro te per deum, ne me torqueas.	2020-04-18	Evangelium_secundum_Marcum
+1100000156	dicebat enim illi: exi spiritus immunde ab homine.	2020-04-18	Evangelium_secundum_Marcum
+1100000157	et interrogabat eum: quod tibi nomen est? 	2020-04-18	Evangelium_secundum_Marcum
+1100000158	et dicit ei: legio mihi nomen est, quia multi sumus.	2020-04-18	Evangelium_secundum_Marcum
+1100000159	et deprecabatur eum multum, ne se expelleret extra regionem.	2020-04-18	Evangelium_secundum_Marcum
+1100000160	erat autem ibi circa montem grex porcorum magnus, pascens.	2020-04-18	Evangelium_secundum_Marcum
+1100000161	et deprecabantur eum spiritus, dicentes: mitte nos in porcos ut in eos introeamus.	2020-04-18	Evangelium_secundum_Marcum
+1100000162	et concessit eis statim iesus. 	2020-04-18	Evangelium_secundum_Marcum
+1100000163	et exeuntes spiritus immundi introierunt in porcos: et magno impetu grex praecipitatus est in mare ad duo millia, et suffocati sunt in mari.	2020-04-18	Evangelium_secundum_Marcum
+1100000164	qui autem pascebant eos, fugerunt, et nuntiaverunt in civitatem et in agros. 	2020-04-18	Evangelium_secundum_Marcum
+1100000165	et egressi sunt videre quid esset factum:et veniunt ad iesum: et vident illum qui a daemonio vexabatur, sedentem, vestitum, et sanae mentis, et timuerunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000166	et narraverunt illis, qui viderant, qualiter factum esset ei qui daemonium habuerat, et de porcis.	2020-04-18	Evangelium_secundum_Marcum
+1100000167	et rogare coeperunt eum ut discederet de finibus eorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000168	cumque ascenderet navim, coepit illum deprecari, qui a daemonio vexatus fuerat, ut esset cum illo,et non admisit eum, sed ait illi: vade in domum tuam ad tuos, et annuntia illis quanta tibi dominus fecerit, et misertus sit tui.	2020-04-18	Evangelium_secundum_Marcum
+1100000169	et abiit, et coepit praedicare in decapoli, quanta sibi fecisset iesus: et omnes mirabantur.	2020-04-18	Evangelium_secundum_Marcum
+1100000170	et cum transcendisset iesus in navi rursum trans fretum, convenit turba multa ad eum, et erat circa mare.	2020-04-18	Evangelium_secundum_Marcum
+1100000171	et venit quidam de archisynagogis nomine iairus, et videns eum procidit ad pedes eius,et deprecabatur eum multum, dicens: quoniam filia mea in extremis est, veni, impone manum super eam, ut salva sit, et vivat.	2020-04-18	Evangelium_secundum_Marcum
+1100000172	et abiit cum illo, et sequebatur eum turba multa, et comprimebant eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000173	et mulier, quae erat in profluvio sanguinis annis duodecim,et fuerat multa perpessa a compluribus medicis: et erogaverat omnia sua, nec quidquam profecerat, sed magis deterius habebat:cum audisset de iesu, venit in turba retro, et tetigit vestimentum eius:dicebat enim: quia si vel vestimentum eius tetigero, salva ero.	2020-04-18	Evangelium_secundum_Marcum
+1100000174	et confestim siccatus est fons sanguinis eius: et sensit corpore quia sanata esset a plaga.	2020-04-18	Evangelium_secundum_Marcum
+1100000175	et statim iesus in semetipso cognoscens virtutem quae exierat de illo, conversus ad turbam, aiebat: quis tetigit vestimenta mea?	2020-04-18	Evangelium_secundum_Marcum
+1100000176	et dicebant ei discipuli sui: vides turbam comprimentem te, et dicis: quis me tetigit?	2020-04-18	Evangelium_secundum_Marcum
+1100000177	et circumspiciebat videre eam, quae hoc fecerat.	2020-04-18	Evangelium_secundum_Marcum
+1100000178	mulier vero timens et tremens, sciens quod factum esset in se, venit et procidit ante eum, et dixit ei omnem veritatem.	2020-04-18	Evangelium_secundum_Marcum
+1100000179	ille autem dixit ei: filia, fides tua te salvam fecit: vade in pace, et esto sana a plaga tua.	2020-04-18	Evangelium_secundum_Marcum
+1100000180	adhuc eo loquente, veniunt ab archisynagogo, dicentes: quia filia tua mortua est: quid ultra vexas magistrum?	2020-04-18	Evangelium_secundum_Marcum
+1100000181	iesus autem audito verbo quod dicebatur, ait archisynagogo: noli timere: tantummodo crede.	2020-04-18	Evangelium_secundum_Marcum
+1100000182	et non admisit quemquam se sequi nisi petrum, et iacobum, et ioannem fratrem iacobi.	2020-04-18	Evangelium_secundum_Marcum
+1100000183	et veniunt in domum archisynagogi, et videt tumultum, et flentes, et eiulantes multum.	2020-04-18	Evangelium_secundum_Marcum
+1100000184	et ingressus, ait illis: quid turbamini, et ploratis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000185	puella non est mortua, sed dormit.	2020-04-18	Evangelium_secundum_Marcum
+1100000186	et irridebant eum. 	2020-04-18	Evangelium_secundum_Marcum
+1100000187	ipse vero eiectis omnibus assumit patrem, et matrem puellae, et qui secum erant, et ingreditur ubi puella erat iacens.	2020-04-18	Evangelium_secundum_Marcum
+1100000188	et tenens manum puellae, ait illi: talitha cumi, quod est interpretatum: puella (tibi dico), surge.	2020-04-18	Evangelium_secundum_Marcum
+1100000189	et confestim surrexit puella, et ambulabat: erat autem annorum duodecim: et obstupuerunt stupore magno.	2020-04-18	Evangelium_secundum_Marcum
+1100000190	et praecepit illis vehementer ut nemo id sciret: et dixit dari illi manducare.	2020-04-18	Evangelium_secundum_Marcum
+1100000191	caput 6	2020-04-18	Evangelium_secundum_Marcum
+1100000192	et egressus inde, abiit in patriam suam: et sequebantur eum discipuli sui:et facto sabbato coepit in synagoga docere: et multi audientes admirabantur in doctrina eius, dicentes: unde huic haec omnia? 	2020-04-18	Evangelium_secundum_Marcum
+1100000193	et quae est sapientia, quae data est illi, et virtutes tales, quae per manus eius efficiuntur?	2020-04-18	Evangelium_secundum_Marcum
+1100000194	nonne hic est faber, filius mariae, frater iacobi, et ioseph, et iudae, et simonis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000195	nonne et sorores eius hic nobiscum sunt? 	2020-04-18	Evangelium_secundum_Marcum
+1100000196	et scandalizabantur in illo.	2020-04-18	Evangelium_secundum_Marcum
+1100000197	et dicebat illis iesus: quia non est propheta sine honore nisi in patria sua, et in domo sua, et in cognatione sua.	2020-04-18	Evangelium_secundum_Marcum
+1100000198	et non poterat ibi virtutem ullam facere, nisi paucos infirmos impositis manibus curavit:et mirabatur propter incredulitatem eorum, et circuibat castella in circuitu docens.	2020-04-18	Evangelium_secundum_Marcum
+1100000199	et vocavit duodecim: et coepit eos mittere binos, et dabat illis potestatem spirituum immundorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000200	et praecepit eis ne quid tollerent in via, nisi virgam tantum: non peram, non panem, neque in zona aes,sed calceatos sandaliis, et ne induerentur duabus tunicis.	2020-04-18	Evangelium_secundum_Marcum
+1100000201	et dicebat eis: quocumque introieritis in domum, illic manete donec exeatis inde:et quicumque non receperint vos, nec audierint vos, exeuntes inde, excutite pulverem de pedibus vestris in testimonium illis.	2020-04-18	Evangelium_secundum_Marcum
+1100000202	et exeuntes praedicabant ut poenitentiam agerent:et daemonia multa eiiciebant, et ungebant oleo multos aegros, et sanabant.	2020-04-18	Evangelium_secundum_Marcum
+1100000203	et audivit rex herodes (manifestum enim factum est nomen eius), et dicebat: quia ioannes baptista resurrexit a mortuis: et propterea virtutes operantur in illo.	2020-04-18	Evangelium_secundum_Marcum
+1100000204	alii autem dicebant: quia elias est; alii vero dicebant: quia propheta est, quasi unus ex prophetis.	2020-04-18	Evangelium_secundum_Marcum
+1100000205	quo audito herodes ait: quem ego decollavi ioannem, hic a mortuis resurrexit.	2020-04-18	Evangelium_secundum_Marcum
+1100000206	ipse enim herodes misit, ac tenuit ioannem, et vinxit eum in carcere propter herodiadem uxorem philippi fratris sui, quia duxerat eam.	2020-04-18	Evangelium_secundum_Marcum
+1100000207	dicebat enim ioannes herodi: non licet tibi habere uxorem fratris tui.	2020-04-18	Evangelium_secundum_Marcum
+1100000208	herodias autem insidiabatur illi: et volebat occidere eum, nec poterat.	2020-04-18	Evangelium_secundum_Marcum
+1100000209	herodes enim metuebat ioannem, sciens eum virum iustum et sanctum: et custodiebat eum, et audito eo multa faciebat, et libenter eum audiebat.	2020-04-18	Evangelium_secundum_Marcum
+1100000210	et cum dies opportunus accidisset, herodes natalis sui coenam fecit principibus, et tribunis, et primis galilaeae:cumque introisset filia ipsius herodiadis, et saltasset, et placuisset herodi, simulque recumbentibus, rex ait puellae: pete a me quod vis, et dabo tibi:et iuravit illi: quia quidquid petieris dabo tibi, licet dimidium regni mei.	2020-04-18	Evangelium_secundum_Marcum
+1100000211	quae cum exisset, dixit matri suae: quid petam? 	2020-04-18	Evangelium_secundum_Marcum
+1100000212	at illa dixit: caput ioannis baptistae.	2020-04-18	Evangelium_secundum_Marcum
+1100000213	cumque introisset statim cum festinatione ad regem, petivit dicens: volo ut protinus des mihi in disco caput ioannis baptistae.	2020-04-18	Evangelium_secundum_Marcum
+1100000214	et contristatus est rex: propter iusiurandum, et propter simul discumbentes, noluit eam contristare:sed misso spiculatore praecepit afferri caput eius in disco. 	2020-04-18	Evangelium_secundum_Marcum
+1100000215	et decollavit eum in carcere,et attulit caput eius in disco: et dedit illud puellae, et puella dedit matri suae.	2020-04-18	Evangelium_secundum_Marcum
+1100000216	quo audito, discipuli eius venerunt, et tulerunt corpus eius: et posuerunt illud in monumento.	2020-04-18	Evangelium_secundum_Marcum
+1100000217	et convenientes apostoli ad iesum, renuntiaverunt ei omnia quae egerant, et docuerant.	2020-04-18	Evangelium_secundum_Marcum
+1100000218	et ait illis: venite seorsum in desertum locum, et requiescite pusillum. 	2020-04-18	Evangelium_secundum_Marcum
+1100000219	erant enim qui veniebant et redibant multi: et nec spatium manducandi habebant.	2020-04-18	Evangelium_secundum_Marcum
+1100000220	et ascendentes in navim, abierunt in desertum locum seorsum.	2020-04-18	Evangelium_secundum_Marcum
+1100000221	et viderunt eos abeuntes, et cognoverunt multi: et pedestres de omnibus civitatibus concurrerunt illuc, et praevenerunt eos.	2020-04-18	Evangelium_secundum_Marcum
+1100000222	et exiens vidit turbam multam iesus: et misertus est super eos, quia erant sicut oves non habentes pastorem, et coepit docere multa.	2020-04-18	Evangelium_secundum_Marcum
+1100000223	et cum iam hora multa fieret, accesserunt discipuli eius, dicentes: desertus est locus hic, et iam hora praeteriit:dimitte illos, ut euntes in proximas villas et vicos, emant sibi cibos, quos manducent.	2020-04-18	Evangelium_secundum_Marcum
+1100000224	et respondens ait illis: date illis vos manducare. 	2020-04-18	Evangelium_secundum_Marcum
+1100000225	et dixerunt ei: euntes emamus ducentis denariis panes, et dabimus illis manducare.	2020-04-18	Evangelium_secundum_Marcum
+1100000226	et dicit eis: quot panes habetis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000227	ite, et videte. 	2020-04-18	Evangelium_secundum_Marcum
+1100000228	et cum cognovissent, dicunt: quinque, et duos pisces.	2020-04-18	Evangelium_secundum_Marcum
+1100000229	et praecepit illis ut accumbere facerent omnes secundum contubernia super viride foenum.	2020-04-18	Evangelium_secundum_Marcum
+1100000230	et discubuerunt in partes per centenos et quinquagenos.	2020-04-18	Evangelium_secundum_Marcum
+1100000231	et acceptis quinque panibus et duobus pisces, intuens in caelum, benedixit, et fregit panes, et dedit discipulis suis, ut ponerent ante eos: et duos pisces divisit omnibus.	2020-04-18	Evangelium_secundum_Marcum
+1100000232	et manducaverunt omnes, et saturati sunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000233	et sustulerunt reliquias, fragmentorum duodecim cophinos plenos, et de piscibus.	2020-04-18	Evangelium_secundum_Marcum
+1100000234	erant autem qui manducaverunt quinque millia virorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000235	et statim coegit discipulos suos ascendere navim, ut praecederent eum trans fretum ad bethsaidam, dum ipse dimitteret populum.	2020-04-18	Evangelium_secundum_Marcum
+1100000236	et cum dimisisset eos, abiit in montem orare.	2020-04-18	Evangelium_secundum_Marcum
+1100000237	et cum sero esset, erat navis in medio mari et ipse solus in terra.	2020-04-18	Evangelium_secundum_Marcum
+1100000238	et videns eos laborantes in remigando (erat enim ventus contrarius eis) et circa quartam vigiliam noctis venit ad eos ambulans supra mare: et volebat praeterire eos.	2020-04-18	Evangelium_secundum_Marcum
+1100000239	at illi ut viderunt eum ambulantem supra mare, putaverunt phantasma esse, et exclamaverunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000240	omnes enim viderunt eum, et conturbati sunt. 	2020-04-18	Evangelium_secundum_Marcum
+1100000241	et statim locutus est cum eis, et dixit eis: confidite, ego sum: nolite timere.	2020-04-18	Evangelium_secundum_Marcum
+1100000242	et ascendit ad illos in navim, et cessavit ventus. 	2020-04-18	Evangelium_secundum_Marcum
+1100000243	et plus magis intra se stupebant:non enim intellexerunt de panibus: erat enim cor eorum obcaecatum.	2020-04-18	Evangelium_secundum_Marcum
+1100000244	et cum transfretassent, venerunt in terram genesareth, et applicuerunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000245	cumque egressi essent de navi, continuo cognoverunt eum:et percurrentes universam regionem illam, coeperunt in grabatis eos, qui se male habebant, circumferre, ubi audiebant eum esse.	2020-04-18	Evangelium_secundum_Marcum
+1100000246	et quocumque introibat, in vicos, vel in villas aut civitates, in plateis ponebant infirmos, et deprecabantur eum, ut vel fimbriam vestimenti eius tangerent, et quotquot tangebant eum, salvi fiebant.	2020-04-18	Evangelium_secundum_Marcum
+1100000247	caput 7	2020-04-18	Evangelium_secundum_Marcum
+1100000248	et conveniunt ad eum pharisaei, et quidam de scribis, venientes ab ierosolymis.	2020-04-18	Evangelium_secundum_Marcum
+1100000249	et cum vidissent quosdam ex discipulis eius communibus manibus, id est non lotis, manducare panes, vituperaverunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000250	pharisaei enim, et omnes iudaei, nisi crebro laverint manus, non manducant, tenentes traditionem seniorum:et a foro nisi baptizentur, non comedunt: et alia multa sunt, quae tradita sunt illis servare, baptismata calicum, et urceorum, et aeramentorum, et lectorum:et interrogabant eum pharisaei et scribae: quare discipuli tui non ambulant iuxta traditionem seniorum, sed communibus manibus manducant panem?	2020-04-18	Evangelium_secundum_Marcum
+1100000251	at ille respondens, dixit eis: bene prophetavit isaias de vobis hypocritis, sicut scriptum est:	2020-04-18	Evangelium_secundum_Marcum
+1100000252	populus hic labiis me honorat,	2020-04-18	Evangelium_secundum_Marcum
+1100000253	cor autem eorum longe est a me:	2020-04-18	Evangelium_secundum_Marcum
+1100000254	in vanum autem me colunt,	2020-04-18	Evangelium_secundum_Marcum
+1100000255	docentes doctrinas, et praecepta hominum.	2020-04-18	Evangelium_secundum_Marcum
+1100000256	relinquentes enim mandatum dei, tenetis traditionem hominum, baptismata urceorum et calicum: et alia similia his facitis multa.	2020-04-18	Evangelium_secundum_Marcum
+1100000257	et dicebat illis: bene irritum facitis praeceptum dei, ut traditionem vestram servetis.	2020-04-18	Evangelium_secundum_Marcum
+1100000258	moyses enim dixit: honora patrem tuum, et matrem tuam. 	2020-04-18	Evangelium_secundum_Marcum
+1100000259	et: qui maledixerit patri, vel matri, morte moriatur.	2020-04-18	Evangelium_secundum_Marcum
+1100000260	vos autem dicitis: si dixerit homo patri, aut matri, corban (quod est donum) quodcumque ex me, tibi profuerit:et ultra non dimittitis eum quidquam facere patri suo, aut matri,rescindentes verbum dei per traditionem vestram, quam tradidistis: et similia huiusmodi multa facitis.	2020-04-18	Evangelium_secundum_Marcum
+1100000261	et advocans iterum turbam, dicebat illis: audite me omnes, et intelligite.	2020-04-18	Evangelium_secundum_Marcum
+1100000262	nihil est extra hominem introiens in eum, quod possit eum coinquinare, sed quae de homine procedunt illa sunt quae communicant hominem.	2020-04-18	Evangelium_secundum_Marcum
+1100000263	si quis habet aures audiendi, audiat.	2020-04-18	Evangelium_secundum_Marcum
+1100000264	et cum introisset in domum a turba, interrogabant eum discipuli eius parabolam.	2020-04-18	Evangelium_secundum_Marcum
+1100000265	et ait illis: sic et vos imprudentes estis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000266	non intelligitis quia omne extrinsecus introiens in hominem, non potest eum communicare:quia non intrat in cor eius, sed in ventrum vadit, et in secessum exit, purgans omnes escas?	2020-04-18	Evangelium_secundum_Marcum
+1100000267	dicebat autem, quoniam quae de homine exeunt, illa communicant hominem.	2020-04-18	Evangelium_secundum_Marcum
+1100000268	ab intus enim de corde hominum malae cogitationes procedunt, adulteria, fornicationes, homicidia,furta, avaritiae, nequitiae, dolus, impudicitiae, oculus malus, blasphemia, superbia, stultitia.	2020-04-18	Evangelium_secundum_Marcum
+1100000269	omnia haec mala ab intus procedunt, et communicant hominem.	2020-04-18	Evangelium_secundum_Marcum
+1100000270	et inde surgens abiit in fines tyri et sidonis: et ingressus domum, neminem voluit scire, et non potuit latere.	2020-04-18	Evangelium_secundum_Marcum
+1100000271	mulier enim statim ut audivit de eo, cuius filia habebat spiritum immundum, intravit, et procidit ad pedes eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000272	erat enim mulier gentilis, syrophoenissa genere. 	2020-04-18	Evangelium_secundum_Marcum
+1100000273	et rogabat eum ut daemonium eiiceret de filia eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000274	qui dixit illi: sine prius saturari filios: non est enim bonum sumere panem filiorum, et mittere canibus.	2020-04-18	Evangelium_secundum_Marcum
+1100000275	at illa respondit, et dixit illi: utique domine, nam et catelli comedunt sub mensa de micis puerorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000276	et ait illi: propter hunc sermonem vade: exiit daemonium a filia tua.	2020-04-18	Evangelium_secundum_Marcum
+1100000277	et cum abiisset domum suam, invenit puellam iacentem supra lectum, et daemonium exiisse.	2020-04-18	Evangelium_secundum_Marcum
+1100000278	et iterum exiens de finibus tyri, venit per sidonem ad mare galilaeae inter medios fines decapoleos.	2020-04-18	Evangelium_secundum_Marcum
+1100000279	et adducunt ei surdum, et mutum, et deprecabantur eum, ut imponat illi manum.	2020-04-18	Evangelium_secundum_Marcum
+1100000280	et apprehendens eum de turba seorsum, misit digitos suos in auriculas eius: et exspuens, tetigit linguam eius:et suscipiens in caelum, ingemuit, et ait illi: ephphetha, quod est, adaperire.	2020-04-18	Evangelium_secundum_Marcum
+1100000281	et statim apertae sunt aures eius, et solutum est vinculum linguae eius, et loquebatur recte.	2020-04-18	Evangelium_secundum_Marcum
+1100000282	et praecepit illis ne cui dicerent. 	2020-04-18	Evangelium_secundum_Marcum
+1100000283	quanto autem eis praecipiebat, tanto magis plus praedicabant:et eo amplius admirabantur, dicentes: bene omnia fecit: et surdos fecit audire, et mutos loqui.	2020-04-18	Evangelium_secundum_Marcum
+1100000284	caput 8	2020-04-18	Evangelium_secundum_Marcum
+1100000285	in diebus illis iterum cum turba multa esset, nec haberent quod manducarent, convocatis discipulis, ait illis:misereor super turbam: quia ecce iam triduo sustinent me, nec habent quod manducent:et si dimisero eos ieiunos in domum suam, deficient in via: quidam enim ex eis de longe venerunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000286	et responderunt ei discipuli sui: unde illos quis poterit saturare panibus in solitudine?	2020-04-18	Evangelium_secundum_Marcum
+1100000287	et interrogavit eos: quot panes habetis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000288	qui dixerunt: septem.	2020-04-18	Evangelium_secundum_Marcum
+1100000289	et praecepit turbae discumbere super terram. 	2020-04-18	Evangelium_secundum_Marcum
+1100000290	et accipiens septem panes, gratias agens fregit, et dabat discipulis suis ut apponerent, et apposuerunt turbae.	2020-04-18	Evangelium_secundum_Marcum
+1100000291	et habebant pisciculos paucos: et ipsos benedixit, et iussit apponi.	2020-04-18	Evangelium_secundum_Marcum
+1100000292	et manducaverunt, et saturati sunt, et sustulerunt quod superaverat de fragmentis, septem sportas.	2020-04-18	Evangelium_secundum_Marcum
+1100000293	erant autem qui manducaverunt, quasi quatuor millia: et dimisit eos.	2020-04-18	Evangelium_secundum_Marcum
+1100000294	et statim ascendens navim cum discipulis suis, venit in partes dalmanutha.	2020-04-18	Evangelium_secundum_Marcum
+1100000295	et exierunt pharisaei, et coeperunt conquirere cum eo, quaerentes ab illo signum de caelo, tentantes eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000296	et ingemiscens spiritu, ait: quid generatio ista signum quaerit? 	2020-04-18	Evangelium_secundum_Marcum
+1100000297	amen dico vobis, si dabitur generationi isti signum.	2020-04-18	Evangelium_secundum_Marcum
+1100000298	et dimittens eos, ascendit iterum navim et abiit trans fretum.	2020-04-18	Evangelium_secundum_Marcum
+1100000299	et obliti sunt panes sumere: et nisi unum panem non habebant secum in navi.	2020-04-18	Evangelium_secundum_Marcum
+1100000300	et praecipiebat eis, dicens: videte, et cavete a fermento pharisaeorum, et fermento herodis.	2020-04-18	Evangelium_secundum_Marcum
+1100000301	et cogitabant ad alterutrum, dicentes: quia panes non habemus.	2020-04-18	Evangelium_secundum_Marcum
+1100000302	quo cognito, ait illis iesus: quid cogitatis, quia panes non habetis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000303	nondum cognoscetis nec intelligitis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000304	adhuc caecatum habetis cor vestrum?	2020-04-18	Evangelium_secundum_Marcum
+1100000305	oculos habentes non videtis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000306	et aures habentes non auditis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000307	nec recordamini,quando quinque panes fregi in quinque millia: quot cophinos fragmentorum plenos sustulistis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000308	dicunt ei: duodecim.	2020-04-18	Evangelium_secundum_Marcum
+1100000309	quando et septem panes in quatuor millia: quot sportas fragmentorum tulistis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000310	et dicunt ei: septem.	2020-04-18	Evangelium_secundum_Marcum
+1100000311	et dicebat eis: quomodo nondum intelligitis?	2020-04-18	Evangelium_secundum_Marcum
+1100000312	et veniunt bethsaidam, et adducunt ei caecum, et rogabant eum ut illum tangeret.	2020-04-18	Evangelium_secundum_Marcum
+1100000313	et apprehensa manu caeci, eduxit eum extra vicum: et exspuens in oculos eius impositis manibus suis, interrogavit eum si quid videret.	2020-04-18	Evangelium_secundum_Marcum
+1100000314	et aspiciens, ait: video homines velut arbores ambulantes.	2020-04-18	Evangelium_secundum_Marcum
+1100000315	deinde iterum imposuit manus super oculos eius: et coepit videre: et restitutus est ita ut clare videret omnia.	2020-04-18	Evangelium_secundum_Marcum
+1100000316	et misit illum in domum suam, dicens: vade in domum tuam: et si in vicum introieris, nemini dixeris.	2020-04-18	Evangelium_secundum_Marcum
+1100000317	et egressus est iesus, et discipuli eius in castella caesareae philippi: et in via interrogabat discipulos suos, dicens eis: quem me dicunt esse homines?	2020-04-18	Evangelium_secundum_Marcum
+1100000318	qui responderunt illi, dicentes: ioannem baptistam, alii eliam, alii vero quasi unum de prophetis.	2020-04-18	Evangelium_secundum_Marcum
+1100000319	tunc dicit illis: vos vero quem me esse dicitis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000320	respondens petrus, ait ei: tu es christus.	2020-04-18	Evangelium_secundum_Marcum
+1100000321	et comminatus est eis, ne cui dicerent de illo.	2020-04-18	Evangelium_secundum_Marcum
+1100000322	et coepit docere eos quoniam oportet filium hominis pati multa, et reprobari a senioribus, et a summis sacerdotibus et scribis, et occidi: et post tres dies resurgere.	2020-04-18	Evangelium_secundum_Marcum
+1100000323	et palam verbum loquebatur. 	2020-04-18	Evangelium_secundum_Marcum
+1100000324	et apprehendens eum petrus, coepit increpare eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000325	qui conversus, et videns discipulos suos, comminatus est petro, dicens: vade retro me satana, quoniam non sapis quae dei sunt, sed quae sunt hominum.	2020-04-18	Evangelium_secundum_Marcum
+1100000326	et convocata turba cum discipulis suis, dixit eis: si quis vult me sequi, deneget semetipsum: et tollat crucem suam, et sequatur me.	2020-04-18	Evangelium_secundum_Marcum
+1100000327	qui enim voluerit animam suam salvam facere, perdet eam: qui autem perdiderit animam suam propter me, et evangelium, salvam faciet eam.	2020-04-18	Evangelium_secundum_Marcum
+1100000328	quid enim proderit homini, si lucretur mundum totum et detrimentum animae suae faciat?	2020-04-18	Evangelium_secundum_Marcum
+1100000329	aut quid dabit homo commutationis pro anima sua?	2020-04-18	Evangelium_secundum_Marcum
+1100000330	qui enim me confusus fuerit, et verba mea in generatione ista adultera et peccatrice, et filius hominis confundetur eum, cum venerit in gloria patris sui cum angelis sanctis.	2020-04-18	Evangelium_secundum_Marcum
+1100000331	et dicebat illis: amen dico vobis, quia sunt quidam de hic stantibus, qui non gustabunt mortem donec videant regnum dei veniens in virtute.	2020-04-18	Evangelium_secundum_Marcum
+1100000332	caput 9	2020-04-18	Evangelium_secundum_Marcum
+1100000333	et post dies sex assumit iesus petrum, et iacobum, et ioannem, et ducit illos in montem excelsum seorsum solos, et transfiguratus est coram ipsis.	2020-04-18	Evangelium_secundum_Marcum
+1100000334	et vestimenta eius facta sunt splendentia, et candida nimis velut nix, qualia fullo non potest super terram candida facere.	2020-04-18	Evangelium_secundum_Marcum
+1100000335	et apparuit illis elias cum moyse: et erant loquentes cum iesu.	2020-04-18	Evangelium_secundum_Marcum
+1100000336	et respondens petrus, ait iesu: rabbi, bonum est nos hic esse: et faciamus tria tabernacula, tibi unum, et moysi unum, et eliae unum.	2020-04-18	Evangelium_secundum_Marcum
+1100000337	non enim sciebat quid diceret: erant enim timore exterriti.	2020-04-18	Evangelium_secundum_Marcum
+1100000338	et facta est nubes obumbrans eos: et venit vox de nube, dicens: hic est filius meus carissimus: audite illum.	2020-04-18	Evangelium_secundum_Marcum
+1100000339	et statim circumspicientes, neminem amplius viderunt, nisi iesum tantum secum.	2020-04-18	Evangelium_secundum_Marcum
+1100000340	et descendentibus illis de monte, praecepit illis ne cuiquam quae vidissent, narrarent: nisi cum filius hominis a mortuis resurrexerit.	2020-04-18	Evangelium_secundum_Marcum
+1100000341	et verbum continuerunt apud se: conquirentes quid esset, cum a mortuis resurrexerit.	2020-04-18	Evangelium_secundum_Marcum
+1100000342	et interrogabant eum, dicentes: quid ergo dicunt pharisaei et scribae, quia eliam oportet venire primum?	2020-04-18	Evangelium_secundum_Marcum
+1100000343	qui respondens, ait illis: elias cum venerit primo, restituet omnia: et quomodo scriptum est in filium hominis, ut multa patiatur et contemnatur.	2020-04-18	Evangelium_secundum_Marcum
+1100000344	sed dico vobis quia et elias venit (et fecerunt illi quaecumque voluerunt) sicut scriptum est de eo.	2020-04-18	Evangelium_secundum_Marcum
+1100000345	et veniens ad discipulos suos, vidit turbam magnam circa eos, et scribas conquirentes cum illis.	2020-04-18	Evangelium_secundum_Marcum
+1100000346	et confestim omnis populus videns iesum, stupefactus est, et expaverunt, et accurrentes salutabant eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000347	et interrogavit eos: quid inter vos conquiritis?	2020-04-18	Evangelium_secundum_Marcum
+1100000348	et respondens unus de turba, dixit: magister, attuli filium meum ad te habentem spiritum mutum:qui ubicumque eum apprehenderit, allidit illum, et spumat, et stridet dentibus, et arescit: et dixi discipulis tuis ut eiicerent illum, et non potuerunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000349	qui respondens eis, dixit: o generatio incredula, quamdiu apud vos ero? 	2020-04-18	Evangelium_secundum_Marcum
+1100000350	quamdiu vos patiar? 	2020-04-18	Evangelium_secundum_Marcum
+1100000351	afferte illum ad me.	2020-04-18	Evangelium_secundum_Marcum
+1100000352	et attulerunt eum. 	2020-04-18	Evangelium_secundum_Marcum
+1100000353	et cum vidisset eum, statim spiritus conturbavit illum: et elisus in terram, volutabatur spumans.	2020-04-18	Evangelium_secundum_Marcum
+1100000354	et interrogavit patrem eius: quantum temporis est ex quo ei hoc accidit? 	2020-04-18	Evangelium_secundum_Marcum
+1100000355	at ille ait: ab infantia:et frequenter eum in ignem, et in aquas misit ut eum perderet: sed si quid potes, adiuva nos, misertus nostri.	2020-04-18	Evangelium_secundum_Marcum
+1100000356	iesus autem ait illi: si potes credere, omnia possibilia sunt credenti.	2020-04-18	Evangelium_secundum_Marcum
+1100000357	et continuo exclamans pater pueri, cum lacrimis aiebat: credo, domine; adiuva incredulitatem meam.	2020-04-18	Evangelium_secundum_Marcum
+1100000358	et cum videret iesus concurrentem turbam, comminatus est spiritui immundo, dicens illi: surde et mute spiritus, ego praecipio tibi, exi ab eo: et amplius ne introeas in eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000359	et exclamans, et multum discerpens eum, exiit ab eo, et factus est sicut mortuus, ita ut multi dicerent: quia mortuus est.	2020-04-18	Evangelium_secundum_Marcum
+1100000360	iesus autem tenens manum eius elevavit eum, et surrexit.	2020-04-18	Evangelium_secundum_Marcum
+1100000361	et cum introisset in domum, discipuli eius secreto interrogabant eum: quare nos non potuimus eiicere eum?	2020-04-18	Evangelium_secundum_Marcum
+1100000362	et dixit illis: hoc genus in nullo potest exire, nisi in oratione et ieiunio.	2020-04-18	Evangelium_secundum_Marcum
+1100000363	et inde profecti praetergrediebantur galilaeam: nec volebat quemquam scire.	2020-04-18	Evangelium_secundum_Marcum
+1100000364	docebat autem discipulos suos, et dicebat illis: quoniam filius hominis tradetur in manus hominum, et occident eum, et occisus tertia die resurget.	2020-04-18	Evangelium_secundum_Marcum
+1100000365	at illi ignorabant verbum: et timebant interrogare eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000366	et venerunt capharnaum. 	2020-04-18	Evangelium_secundum_Marcum
+1100000367	qui cum domi essent, interrogabat eos: quid in via tractabatis?	2020-04-18	Evangelium_secundum_Marcum
+1100000368	at illi tacebant: siquidem in via inter se disputaverunt: quis eorum maior esset.	2020-04-18	Evangelium_secundum_Marcum
+1100000369	et residens vocavit duodecim, et ait illis: si quis vult primus esse, erit omnium novissimus, et omnium minister.	2020-04-18	Evangelium_secundum_Marcum
+1100000370	et accipiens puerum, statuit eum in medio eorum: quem cum complexus esset, ait illis:quisquis unum ex huiusmodi pueris receperit in nomine meo, me recipit: et quicumque me susceperit, non me suscipit, sed eum qui misit me.	2020-04-18	Evangelium_secundum_Marcum
+1100000371	respondit illi ioannes, dicens: magister, vidimus quemdam in nomine tuo eiicientem daemonia, qui non sequitur nos, et prohibuimus eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000372	iesus autem ait: nolite prohibere eum: nemo est enim qui faciat virtutem in nomine meo, et possit cito male loqui de me:qui enim non est adversum vos, pro vobis est.	2020-04-18	Evangelium_secundum_Marcum
+1100000373	quisquis enim potum dederit vobis calicem aquae in nomine meo, quia christi estis: amen dico vobis, non perdet mercedem suam.	2020-04-18	Evangelium_secundum_Marcum
+1100000374	et quisquis scandalizaverit unum ex his pusillis credentibus in me: bonum est ei magis si circumdaretur mola asinaria collo eius, et in mare mitteretur.	2020-04-18	Evangelium_secundum_Marcum
+1100000375	et si scandalizaverit te manus tua, abscide illam: bonum est tibi debilem introire in vitam, quam duas manus habentem ire in gehennam, in ignem inextinguibilem,ubi vermis eorum non moritur, et ignis non extinguitur.	2020-04-18	Evangelium_secundum_Marcum
+1100000376	et si pes tuus te scandalizat, amputa illum: bonum est tibi claudum introire in vitam aeternam, quam duos pedes habentem mitti in gehennam ignis inextinguibilis,ubi vermis eorum non moritur, et ignis non extinguitur.	2020-04-18	Evangelium_secundum_Marcum
+1100000377	quod si oculus tuus scandalizat te, eiice eum: bonum est tibi luscum introire in regnum dei, quam duos oculos habentem mitti in gehennam ignis,ubi vermis eorum non moritur, et ignis non extinguitur.	2020-04-18	Evangelium_secundum_Marcum
+1100000378	omnis enim igne salietur, et omnis victima sale salietur.	2020-04-18	Evangelium_secundum_Marcum
+1100000379	bonum est sal: quod si sal insulsum fuerit, in quo illud condietis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000380	habete in vobis sal, et pacem habete inter vos.	2020-04-18	Evangelium_secundum_Marcum
+1100000381	caput 10	2020-04-18	Evangelium_secundum_Marcum
+1100000382	et inde exsurgens venit in fines iudaeae ultra iordanem: et conveniunt iterum turbae ad eum: et sicut consueverat, iterum docebat illos.	2020-04-18	Evangelium_secundum_Marcum
+1100000383	et accedentes pharisaei interrogabant eum: si licet viro uxorem dimittere: tentantes eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000384	at ille respondens, dixit eis: quid vobis praecepit moyses?	2020-04-18	Evangelium_secundum_Marcum
+1100000385	qui dixerunt: moyses permisit libellum repudii scribere, et dimittere.	2020-04-18	Evangelium_secundum_Marcum
+1100000386	quibus respondens iesus, ait: ad duritiam cordis vestri scripsit vobis praeceptum istud:ab initio autem creaturae masculum et feminam fecit eos deus.	2020-04-18	Evangelium_secundum_Marcum
+1100000387	propter hoc relinquet homo patrem suum et matrem, et adhaerebit ad uxorem suam:et erunt duo in carne una. 	2020-04-18	Evangelium_secundum_Marcum
+1100000388	itaque iam non sunt duo, sed una caro.	2020-04-18	Evangelium_secundum_Marcum
+1100000389	quod ergo deus coniunxit, homo non separet.	2020-04-18	Evangelium_secundum_Marcum
+1100000390	et in domo iterum discipuli eius de eodem interrogaverunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000391	et ait illis: quicumque dimiserit uxorem suam, et aliam duxerit, adulterium committit super eam.	2020-04-18	Evangelium_secundum_Marcum
+1100000392	et si uxor dimiserit virum suum, et alii nupserit, moechatur.	2020-04-18	Evangelium_secundum_Marcum
+1100000393	et offerebant illi parvulos ut tangeret illos. 	2020-04-18	Evangelium_secundum_Marcum
+1100000394	discipuli autem comminabantur offerentibus.	2020-04-18	Evangelium_secundum_Marcum
+1100000395	quos cum videret iesus, indigne tulit, et ait illis: sinite parvulos venire ad me, et ne prohibueritis eos: talium enim est regnum dei.	2020-04-18	Evangelium_secundum_Marcum
+1100000396	amen dico vobis: quisquis non receperit regnum dei velut parvulus, non intrabit in illud.	2020-04-18	Evangelium_secundum_Marcum
+1100000397	et complexans eos, et imponens manus super illos, benedicebat eos.	2020-04-18	Evangelium_secundum_Marcum
+1100000398	et cum egressus esset in viam, procurrens quidam genu flexo ante eum, rogabat eum: magister bone, quid faciam ut vitam aeternam percipiam?	2020-04-18	Evangelium_secundum_Marcum
+1100000399	iesus autem dixit ei: quid me dicis bonum? 	2020-04-18	Evangelium_secundum_Marcum
+1100000400	nemo bonus, nisi unus deus.	2020-04-18	Evangelium_secundum_Marcum
+1100000401	praecepta nosti: ne adulteres, ne occidas, ne fureris, ne falsum testimonium dixeris, ne fraudem feceris, honora patrem tuum et matrem.	2020-04-18	Evangelium_secundum_Marcum
+1100000402	at ille respondens, ait illi: magister, haec omnia observavi a iuventute mea.	2020-04-18	Evangelium_secundum_Marcum
+1100000403	iesus autem intuitus eum, dilexit eum, et dixit ei: unum tibi deest: vade, quaecumque habes vende, et da pauperibus, et habebis thesaurum in caelo: et veni, sequere me.	2020-04-18	Evangelium_secundum_Marcum
+1100000404	qui contristatus in verbo, abiit moerens: erat enim habens multas possessiones.	2020-04-18	Evangelium_secundum_Marcum
+1100000405	et circumspiciens iesus, ait discipulis suis: quam difficile qui pecunias habent, in regnum dei introibunt!	2020-04-18	Evangelium_secundum_Marcum
+1100000406	discipuli autem obstupescebant in verbis eius. 	2020-04-18	Evangelium_secundum_Marcum
+1100000407	at iesus rursus respondens ait illis: filioli, quam difficile est, confidentes in pecuniis, in regnum dei introire!	2020-04-18	Evangelium_secundum_Marcum
+1100000408	facilius est camelum per foramen acus transire, quam divitem intrare in regnum dei.	2020-04-18	Evangelium_secundum_Marcum
+1100000409	qui magis admirabantur, dicentes ad semetipsos: et quis potest salvus fieri?	2020-04-18	Evangelium_secundum_Marcum
+1100000410	et intuens illos iesus, ait: apud homines impossibile est, sed non apud deum: omnia enim possibilia sunt apud deum.	2020-04-18	Evangelium_secundum_Marcum
+1100000411	et coepit ei petrus dicere: ecce nos dimisimus omnia, et secuti sumus te.	2020-04-18	Evangelium_secundum_Marcum
+1100000412	respondens iesus, ait: amen dico vobis: nemo est qui reliquerit domum, aut fratres, aut sorores, aut patrem, aut matrem, aut filios, aut agros propter me et propter evangelium,qui non accipiat centies tantum, nunc in tempore hoc: domos, et fratres, et sorores, et matres, et filios, et agros, cum persecutionibus, et in saeculo futuro vitam aeternam.	2020-04-18	Evangelium_secundum_Marcum
+1100000413	multi autem erunt primi novissimi, et novissimi primi.	2020-04-18	Evangelium_secundum_Marcum
+1100000414	erant autem in via ascendentes ierosolymam: et praecedebat illos iesus, et stupebant: et sequentes timebant. 	2020-04-18	Evangelium_secundum_Marcum
+1100000415	et assumens iterum duodecim, coepit illis dicere quae essent ei eventura.	2020-04-18	Evangelium_secundum_Marcum
+1100000416	quia ecce ascendimus ierosolymam, et filius hominis tradetur principibus sacerdotum, et scribis, et senioribus, et damnabunt eum morte, et tradent eum gentibus:et illudent ei, et conspuent eum, et flagellabunt eum, et interficient eum: et tertia die resurget.	2020-04-18	Evangelium_secundum_Marcum
+1100000417	et accedunt ad eum iacobus et ioannes filii zebedaei, dicentes: magister, volumus ut quodcumque petierimus, facias nobis.	2020-04-18	Evangelium_secundum_Marcum
+1100000418	at ille dixit eis: quid vultis ut faciam vobis?	2020-04-18	Evangelium_secundum_Marcum
+1100000419	et dixerunt: da nobis ut unus ad dexteram tuam, et alius ad sinistram tuam sedeamus in gloria tua.	2020-04-18	Evangelium_secundum_Marcum
+1100000420	iesus autem ait eis: nescitis quid petatis: potestis bibere calicem, quem ego bibo, aut baptismo, quo ego baptizor, baptizari?	2020-04-18	Evangelium_secundum_Marcum
+1100000421	at illi dixerunt ei: possumus. 	2020-04-18	Evangelium_secundum_Marcum
+1100000422	iesus autem ait eis: calicem quidem, quem ego bibo, bibetis; et baptismo, quo ego baptizor, baptizabimini:sedere autem ad dexteram meam, vel ad sinistram, non est meum dare vobis, sed quibus paratum est.	2020-04-18	Evangelium_secundum_Marcum
+1100000423	et audientes decem, coeperunt indignari de iacobo et ioanne.	2020-04-18	Evangelium_secundum_Marcum
+1100000424	iesus autem vocans eos, ait illis: scitis quia hi, qui videntur principari gentibus, dominantur eis: et principes eorum potestatem habent ipsorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000425	non ita est autem in vobis, sed quicumque voluerit fieri maior, erit vester minister:et quicumque voluerit in vobis primus esse, erit omnium servus.	2020-04-18	Evangelium_secundum_Marcum
+1100000426	nam et filius hominis non venit ut ministraretur ei, sed ut ministraret, et daret animam suam redemptionem pro multis.	2020-04-18	Evangelium_secundum_Marcum
+1100000427	et veniunt iericho: et proficiscente eo de iericho, et discipulis eius, et plurima multitudine, filius timaei bartimaeus caecus, sedebat iuxta viam mendicans.	2020-04-18	Evangelium_secundum_Marcum
+1100000428	qui cum audisset quia iesus nazarenus est, coepit clamare, et dicere: iesu fili david, miserere mei.	2020-04-18	Evangelium_secundum_Marcum
+1100000429	et comminabantur ei multi ut taceret. 	2020-04-18	Evangelium_secundum_Marcum
+1100000430	at ille multo magis clamabat: fili david, miserere mei.	2020-04-18	Evangelium_secundum_Marcum
+1100000431	et stans iesus praecepit illum vocari. 	2020-04-18	Evangelium_secundum_Marcum
+1100000432	et vocant caecum, dicentes ei: animaequior esto: surge, vocat te.	2020-04-18	Evangelium_secundum_Marcum
+1100000433	qui proiecto vestimento suo exiliens, venit ad eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000434	et respondens iesus dixit illi: quid tibi vis faciam? 	2020-04-18	Evangelium_secundum_Marcum
+1100000435	caecus autem dixit ei: rabboni, ut videam.	2020-04-18	Evangelium_secundum_Marcum
+1100000436	iesus autem ait illi: vade, fides tua te salvum fecit. 	2020-04-18	Evangelium_secundum_Marcum
+1100000437	et confestim vidit, et sequebatur eum in via.	2020-04-18	Evangelium_secundum_Marcum
+1100000438	caput 11	2020-04-18	Evangelium_secundum_Marcum
+1100000439	et cum appropinquarent ierosolymae et bethaniae ad montem olivarum, mittit duos ex discipulis suis,et ait illis: ite in castellum, quod contra vos est, et statim introeuntes illuc, invenietis pullum ligatum, super quem nemo adhuc hominum sedit: solvite illum, et adducite.	2020-04-18	Evangelium_secundum_Marcum
+1100000440	et si quis vobis dixerit: quid facitis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000441	dicite, quia domino necessarius est: et continuo illum dimittet huc.	2020-04-18	Evangelium_secundum_Marcum
+1100000442	et abeuntes invenerunt pullum ligatum ante ianuam foris in bivio: et solvunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000443	et quidam de illic stantibus dicebant illis: quid facitis solventes pullum?	2020-04-18	Evangelium_secundum_Marcum
+1100000444	qui dixerunt eis sicut praeceperat illis iesus, et dimiserunt eis.	2020-04-18	Evangelium_secundum_Marcum
+1100000445	et duxerunt pullum ad iesum: et imponunt illi vestimenta sua, et sedit super eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000446	multi autem vestimenta sua straverunt in via: alii autem frondes caedebant de arboribus, et sternebant in via.	2020-04-18	Evangelium_secundum_Marcum
+1100000447	et qui praeibant, et qui sequebantur, clamabant, dicentes: hosanna: benedictus qui venit in nomine domini:benedictum quod venit regnum patris nostri david: hosanna in excelsis.	2020-04-18	Evangelium_secundum_Marcum
+1100000448	et introivit ierosolymam in templum: et circumspectis omnibus, cum iam vespera esset hora, exiit in bethaniam cum duodecim.	2020-04-18	Evangelium_secundum_Marcum
+1100000449	et alia die cum exirent a bethania, esuriit.	2020-04-18	Evangelium_secundum_Marcum
+1100000450	cumque vidisset a longe ficum habentem folia, venit si quid forte inveniret in ea: et cum venisset ad eam, nihil invenit praeter folia: non enim erat tempus ficorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000451	et respondens dixit ei: iam non amplius in aeternum ex te fructum quisquam manducet. 	2020-04-18	Evangelium_secundum_Marcum
+1100000452	et audiebant discipuli eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000453	et veniunt in ierosolymam. 	2020-04-18	Evangelium_secundum_Marcum
+1100000454	et cum introisset in templum, coepit eiicere vendentes et ementes in templo: et mensas numulariorum, et cathedras vendentium columbas evertit:et non sinebat ut quisquam transferret vas per templum:et docebat, dicens eis: nonne scriptum est: quia domus mea, domus orationis vocabitur omnibus gentibus? 	2020-04-18	Evangelium_secundum_Marcum
+1100000455	vos autem fecistis eam speluncam latronum.	2020-04-18	Evangelium_secundum_Marcum
+1100000456	quo audito principes sacerdotum et scribae, quaerebant quomodo eum perderent: timebant enim eum, quoniam universa turba admirabatur super doctrina eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000457	et cum vespera facta esset, egrediebatur de civitate.	2020-04-18	Evangelium_secundum_Marcum
+1100000458	et cum mane transirent, viderunt ficum aridam factam a radicibus.	2020-04-18	Evangelium_secundum_Marcum
+1100000459	et recordatus petrus, dixit ei: rabbi, ecce ficus, cui maledixisti, aruit.	2020-04-18	Evangelium_secundum_Marcum
+1100000460	et respondens iesus ait illis: habete fidem dei.	2020-04-18	Evangelium_secundum_Marcum
+1100000461	amen dico vobis, quia quicumque dixerit huic monti: tollere, et mittere in mare, et non haesitaverit in corde suo, sed crediderit, quia quodcumque dixerit fiat, fiet ei.	2020-04-18	Evangelium_secundum_Marcum
+1100000462	propterea dico vobis, omnia quaecumque orantes petitis, credite quia accipietis, et evenient vobis.	2020-04-18	Evangelium_secundum_Marcum
+1100000463	et cum stabitis ad orandum, dimittite si quis habetis adversus aliquem: ut et pater vester, qui in caelis est, dimittat vobis peccata vestra.	2020-04-18	Evangelium_secundum_Marcum
+1100000464	quod si vos non dimiseritis: nec pater vester, qui in caelis est, dimittet vobis peccata vestra.	2020-04-18	Evangelium_secundum_Marcum
+1100000465	et veniunt rursus ierosolymam. 	2020-04-18	Evangelium_secundum_Marcum
+1100000466	et cum ambularet in templo, accedunt ad eum summi sacerdotes, et scribae, et seniores:et dicunt ei: in qua potestate haec facis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000467	et quis dedit tibi hanc potestatem ut ista facias?	2020-04-18	Evangelium_secundum_Marcum
+1100000468	iesus autem respondens, ait illis: interrogabo vos et ego unum verbum, et respondete mihi: et dicam vobis in qua potestate haec faciam.	2020-04-18	Evangelium_secundum_Marcum
+1100000469	baptismus ioannis, de caelo erat, an ex hominibus? 	2020-04-18	Evangelium_secundum_Marcum
+1100000470	respondete mihi.	2020-04-18	Evangelium_secundum_Marcum
+1100000471	at illi cogitabant secum, dicentes: si dixerimus: de caelo, dicet: quare ergo non credidistis ei?	2020-04-18	Evangelium_secundum_Marcum
+1100000472	si dixerimus: ex hominibus, timemus populum: omnes enim habebant ioannem quia vere propheta esset.	2020-04-18	Evangelium_secundum_Marcum
+1100000473	et respondentes dicunt iesu: nescimus. 	2020-04-18	Evangelium_secundum_Marcum
+1100000474	et respondens iesus ait illis: neque ego dico vobis in qua potestate haec faciam.	2020-04-18	Evangelium_secundum_Marcum
+1100000475	caput 12	2020-04-18	Evangelium_secundum_Marcum
+1100000476	et coepit illis in parabolis loqui: vineam pastinavit homo, et circumdedit sepem, et fodit lacum, et aedificavit turrim, et locavit eam agricolis, et peregre profectus est.	2020-04-18	Evangelium_secundum_Marcum
+1100000477	et misit ad agricolas in tempore servum ut ab agricolis acciperet de fructu vineae.	2020-04-18	Evangelium_secundum_Marcum
+1100000478	qui apprehensum eum ceciderunt, et dimiserunt vacuum.	2020-04-18	Evangelium_secundum_Marcum
+1100000479	et iterum misit ad illos alium servum: et illum in capite vulneraverunt, et contumeliis affecerunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000480	et rursum alium misit, et illum occiderunt: et plures alios: quosdam caedentes, alios vero occidentes.	2020-04-18	Evangelium_secundum_Marcum
+1100000481	adhuc ergo unum habens filium carissimum, et illum misit ad eos novissimum, dicens: quia reverebuntur filium meum.	2020-04-18	Evangelium_secundum_Marcum
+1100000482	coloni autem dixerunt ad invicem: hic est haeres: venite, occidamus eum: et nostra erit haereditas.	2020-04-18	Evangelium_secundum_Marcum
+1100000483	et apprehendentes eum, occiderunt: et eiecerunt extra vineam.	2020-04-18	Evangelium_secundum_Marcum
+1100000484	quid ergo faciet dominus vineae? 	2020-04-18	Evangelium_secundum_Marcum
+1100000485	veniet, et perdet colonos, et dabit vineam aliis.	2020-04-18	Evangelium_secundum_Marcum
+1100000486	nec scripturam hanc legistis: lapidem quem reprobaverunt aedificantes, hic factus est in caput anguli:a domino factum est istud, et est mirabile in oculis nostris?	2020-04-18	Evangelium_secundum_Marcum
+1100000487	et quaerebant eum tenere: et timuerunt turbam: cognoverunt enim quoniam ad eos parabolam hanc dixerit. 	2020-04-18	Evangelium_secundum_Marcum
+1100000488	et relicto eo abierunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000489	et mittunt ad eum quosdam ex pharisaeis, et herodianis, ut eum caperent in verbo.	2020-04-18	Evangelium_secundum_Marcum
+1100000490	qui venientes dicunt ei: magister, scimus quia verax es, et non curas quemquam: nec enim vides in faciem hominum, sed in veritate viam dei doces. 	2020-04-18	Evangelium_secundum_Marcum
+1100000491	licet dari tributum caesari, an non dabimus?	2020-04-18	Evangelium_secundum_Marcum
+1100000492	qui sciens versutiam illorum, ait illos: quid me tentatis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000493	afferte mihi denarium ut videam.	2020-04-18	Evangelium_secundum_Marcum
+1100000494	at illi attulerunt ei. 	2020-04-18	Evangelium_secundum_Marcum
+1100000495	et ait illis: cuius est imago haec, et inscriptio? 	2020-04-18	Evangelium_secundum_Marcum
+1100000496	dicunt ei: caesaris.	2020-04-18	Evangelium_secundum_Marcum
+1100000497	respondens autem iesus dixit illis: reddite igitur quae sunt caesaris, caesari: et quae sunt dei, deo. 	2020-04-18	Evangelium_secundum_Marcum
+1100000498	et mirabantur super eo.	2020-04-18	Evangelium_secundum_Marcum
+1100000499	et venerunt ad eum sadducaei, qui dicunt resurrectionem non esse: et interrogabant eum, dicentes:magister, moyses nobis scripsit, ut si cuius frater mortuus fuerit, et dimiserit uxorem, et filios non reliquerit, accipiat frater eius uxorem ipsius, et resuscitet semen fratri suo.	2020-04-18	Evangelium_secundum_Marcum
+1100000500	septem ergo fratres erant: et primus accepit uxorem, et mortuus est non relicto semine.	2020-04-18	Evangelium_secundum_Marcum
+1100000501	et secundus accepit eam, et mortuus est: et nec iste reliquit semen. 	2020-04-18	Evangelium_secundum_Marcum
+1100000502	et tertius similiter.	2020-04-18	Evangelium_secundum_Marcum
+1100000503	et acceperunt eam similiter septem: et non reliquerunt semen. 	2020-04-18	Evangelium_secundum_Marcum
+1100000504	novissima omnium defuncta est et mulier.	2020-04-18	Evangelium_secundum_Marcum
+1100000505	in resurrectione ergo cum resurrexerint, cuius de his erit uxor? 	2020-04-18	Evangelium_secundum_Marcum
+1100000506	septem enim habuerunt eam uxorem.	2020-04-18	Evangelium_secundum_Marcum
+1100000507	et respondens iesus, ait illis: nonne ideo erratis, non scientes scripturas, neque virtutem dei?	2020-04-18	Evangelium_secundum_Marcum
+1100000508	cum enim a mortuis resurrexerint, neque nubent, neque nubentur, sed sunt sicut angeli in caelis.	2020-04-18	Evangelium_secundum_Marcum
+1100000509	de mortuis autem quod resurgant, non legistis in libro moysi, super rubum, quomodo dixerit illi deus, inquiens: ego sum deus abraham, et deus isaac, et deus iacob?	2020-04-18	Evangelium_secundum_Marcum
+1100000510	non est deus mortuorum, sed vivorum. 	2020-04-18	Evangelium_secundum_Marcum
+1100000511	vos ergo multum erratis.	2020-04-18	Evangelium_secundum_Marcum
+1100000512	et accessit unus de scribis, qui audierat illos conquirentes, et videns quoniam bene illis responderit, interrogavit eum quod esset primum omnium mandatum.	2020-04-18	Evangelium_secundum_Marcum
+1100000513	iesus autem respondit ei: quia primum omnium mandatum est: audi israel, dominus deus tuus, deus unus est:et diliges dominum deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota mente tua, et ex tota virtute tua. 	2020-04-18	Evangelium_secundum_Marcum
+1100000514	hoc est primum mandatum.	2020-04-18	Evangelium_secundum_Marcum
+1100000515	secundum autem simile est illi: diliges proximum tuum tamquam teipsum. 	2020-04-18	Evangelium_secundum_Marcum
+1100000516	maius horum aliud mandatum non est.	2020-04-18	Evangelium_secundum_Marcum
+1100000517	et ait illi scriba: bene, magister, in veritate dixisti, quia unus est deus, et non est alius praeter eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000518	et ut diligatur ex toto corde, et ex toto intellectu, et ex tota anima, et ex tota fortitudine, et diligere proximum tamquam seipsum, maius est omnibus holocautomatibus, et sacrificiis.	2020-04-18	Evangelium_secundum_Marcum
+1100000519	iesus autem videns quod sapienter respondisset, dixit illi: non es longe a regno dei. 	2020-04-18	Evangelium_secundum_Marcum
+1100000520	et nemo iam audebat eum interrogare.	2020-04-18	Evangelium_secundum_Marcum
+1100000521	et respondens iesus dicebat, docens in templo: quomodo dicunt scribae christum filium esse david?	2020-04-18	Evangelium_secundum_Marcum
+1100000522	ipse enim david dicit in spiritu sancto: dixit dominus domino meo: sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000523	ipse ergo david dicit eum dominum, et unde est filius eius? 	2020-04-18	Evangelium_secundum_Marcum
+1100000524	et multa turba eum libenter audivit.	2020-04-18	Evangelium_secundum_Marcum
+1100000525	et dicebat eis in doctrina sua: cavete a scribis, qui volunt in stolis ambulare, et salutari in foro,et in primis cathedris sedere in synagogis, et primos discubitus in coenis:qui devorant domos viduarum sub obtentu prolixae orationis: hi accipient prolixius iudicium.	2020-04-18	Evangelium_secundum_Marcum
+1100000526	et sedens iesus contra gazophylacium, aspiciebat quomodo turba iactaret aes in gazophylacium, et multi divites iactabant multa.	2020-04-18	Evangelium_secundum_Marcum
+1100000527	cum venisset autem vidua una pauper, misit duo minuta, quod est quadrans,et convocans discipulos suos, ait illis: amen dico vobis, quoniam vidua haec pauper plus omnibus misit, qui miserunt in gazophylacium.	2020-04-18	Evangelium_secundum_Marcum
+1100000528	omnes enim ex eo, quod abundabat illis, miserunt: haec vero de penuria sua omnia quae habuit misit totum victum suum.	2020-04-18	Evangelium_secundum_Marcum
+1100000529	caput 13	2020-04-18	Evangelium_secundum_Marcum
+1100000530	et cum egrederetur de templo, ait illi unus ex discipulis suis: magister, aspice quales lapides, et quales structurae.	2020-04-18	Evangelium_secundum_Marcum
+1100000531	et respondens iesus, ait illi: vides has omnes magnas aedificationes? 	2020-04-18	Evangelium_secundum_Marcum
+1100000532	non relinquetur lapis super lapidem, qui non destruatur.	2020-04-18	Evangelium_secundum_Marcum
+1100000533	et cum sederet in monte olivarum contra templum, interrogabant eum separatim petrus, et iacobus, et ioannes, et andreas:dic nobis, quando ista fient? 	2020-04-18	Evangelium_secundum_Marcum
+1100000534	et quod signum erit, quando haec omnia incipient consummari?	2020-04-18	Evangelium_secundum_Marcum
+1100000535	et respondens iesus coepit dicere illis: videte ne quid vos seducat:multi enim venient in nomine meo, dicentes quia ego sum: et multos seducent.	2020-04-18	Evangelium_secundum_Marcum
+1100000536	cum audieritis autem bella, et opiniones bellorum, ne timueritis: oportet enim haec fieri: sed nondum finis.	2020-04-18	Evangelium_secundum_Marcum
+1100000537	exsurget enim gens contra gentem, et regnum super regnum, et erunt terraemotus per loca, et fames. 	2020-04-18	Evangelium_secundum_Marcum
+1100000538	initium dolorum haec.	2020-04-18	Evangelium_secundum_Marcum
+1100000539	videte autem vosmetipsos. 	2020-04-18	Evangelium_secundum_Marcum
+1100000540	tradent enim vos in consiliis, et in synagogis vapulabitis, et ante praesides et reges stabitis propter me, in testimonium illis.	2020-04-18	Evangelium_secundum_Marcum
+1100000541	et in omnes gentes primum oportet praedicari evangelium.	2020-04-18	Evangelium_secundum_Marcum
+1100000542	et cum duxerint vos tradentes, nolite praecogitare quid loquamini: sed quod datum vobis fuerit in illa hora, id loquimini: non enim vos estis loquentes, sed spiritus sanctus.	2020-04-18	Evangelium_secundum_Marcum
+1100000543	tradet autem frater fratrem in mortem, et pater filium: et consurgent filii in parentes, et morte afficient eos.	2020-04-18	Evangelium_secundum_Marcum
+1100000544	et eritis odio omnibus propter nomen meum. 	2020-04-18	Evangelium_secundum_Marcum
+1100000545	qui autem sustinuerit in finem, hic salvus erit.	2020-04-18	Evangelium_secundum_Marcum
+1100000546	cum autem videritis abominationem desolationis stantem, ubi non debet, qui legit, intelligat: tunc qui in iudaea sunt, fugiant in montes:et qui super tectum, ne descendat in domum, nec introeat ut tollat quid de domo sua:et qui in agro erit, non revertatur retro tollere vestimentum suum.	2020-04-18	Evangelium_secundum_Marcum
+1100000547	vae autem praegnantibus et nutrientibus in illis diebus.	2020-04-18	Evangelium_secundum_Marcum
+1100000548	orate vero ut hieme non fiant.	2020-04-18	Evangelium_secundum_Marcum
+1100000549	erunt enim dies illi tribulationes tales quales non fuerunt ab initio creaturae, quam condidit deus usque nunc, neque fient.	2020-04-18	Evangelium_secundum_Marcum
+1100000550	et nisi breviasset dominus dies, non fuisset salva omnis caro: sed propter electos, quos elegit, breviavit dies.	2020-04-18	Evangelium_secundum_Marcum
+1100000551	et tunc si quis vobis dixerit: ecce hic est christus, ecce illic, ne credideritis.	2020-04-18	Evangelium_secundum_Marcum
+1100000552	exsurgent enim pseudochristi et pseudoprophetae, et dabunt signa et portenta ad seducendos, si fieri potest, etiam electos.	2020-04-18	Evangelium_secundum_Marcum
+1100000553	vos ergo videte: ecce praedixi vobis omnia.	2020-04-18	Evangelium_secundum_Marcum
+1100000554	sed in illis diebus, post tribulationem illam, sol contenebrabitur, et luna non dabit splendorem suum:et stellae caeli erunt decidentes, et virtutes, quae in caelis sunt, movebuntur.	2020-04-18	Evangelium_secundum_Marcum
+1100000555	et tunc videbunt filium hominis venientem in nubibus cum virtute multa et gloria.	2020-04-18	Evangelium_secundum_Marcum
+1100000556	et tunc mittet angelos suos, et congregabit electos suos a quatuor ventis, a summo terrae usque ad summum caeli.	2020-04-18	Evangelium_secundum_Marcum
+1100000557	a ficu autem discite parabolam. 	2020-04-18	Evangelium_secundum_Marcum
+1100000558	cum iam ramus eius tener fuerit, et nata fuerint folia, cognoscitis quia in proximo sit aestas:sic et vos cum videritis haec fieri, scitote quod in proximo sit, in ostiis.	2020-04-18	Evangelium_secundum_Marcum
+1100000559	amen dico vobis, quoniam non transibit generatio haec, donec omnia ista fiant.	2020-04-18	Evangelium_secundum_Marcum
+1100000560	caelum et terra transibunt, verba autem mea non transibunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000561	de die autem illo vel hora nemo scit, neque angeli in caelo, neque filius, nisi pater.	2020-04-18	Evangelium_secundum_Marcum
+1100000562	videte, vigilate, et orate: nescitis enim quando tempus sit.	2020-04-18	Evangelium_secundum_Marcum
+1100000563	sicut homo qui peregre profectus reliquit domum suam, et dedit servis suis potestatem cuiusque operis, et ianitori praecepit ut vigilet,vigilate ergo (nescitis enim quando dominus domus veniat: sero, an media nocte, an galli cantu, an mane),ne, cum venerit repente, inveniat vos dormientes.	2020-04-18	Evangelium_secundum_Marcum
+1100000564	quod autem vobis dico, omnibus dico: vigilate.	2020-04-18	Evangelium_secundum_Marcum
+1100000565	caput 14	2020-04-18	Evangelium_secundum_Marcum
+1100000566	erat autem pascha et azyma post biduum: et quaerebant summi sacerdotes et scribae quomodo eum dolo tenerent, et occiderent.	2020-04-18	Evangelium_secundum_Marcum
+1100000567	dicebant autem: non in die festo, ne forte tumultus fieret in populo.	2020-04-18	Evangelium_secundum_Marcum
+1100000568	et cum esset bethaniae in domo simonis leprosi, et recumberet, venit mulier habens alabastrum unguenti nardi spicati pretiosi: et fracto alabastro, effudit super caput eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000569	erant autem quidam indigne ferentes intra semetipsos, et dicentes: ut quid perditio ista unguenti facta est?	2020-04-18	Evangelium_secundum_Marcum
+1100000570	poterat enim unguentum istud venundari plus quam trecentis denariis, et dari pauperibus. 	2020-04-18	Evangelium_secundum_Marcum
+1100000571	et fremebant in eam.	2020-04-18	Evangelium_secundum_Marcum
+1100000572	iesus autem dixit: sinite eam, quid illi molesti estis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000573	bonum opus operata est in me:semper enim pauperes habetis vobiscum: et cum volueritis, potestis illis benefacere: me autem non semper habetis.	2020-04-18	Evangelium_secundum_Marcum
+1100000574	quod habuit haec, fecit: praevenit ungere corpus meum in sepulturam.	2020-04-18	Evangelium_secundum_Marcum
+1100000575	amen dico vobis: ubicumque praedicatum fuerit evangelium istud in universo mundo, et quod fecit haec, narrabitur in memoriam eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000576	et iudas iscariotes, unus de duodecim, abiit ad summos sacerdotes, ut proderet eum illis.	2020-04-18	Evangelium_secundum_Marcum
+1100000577	qui audientes gavisi sunt: et promiserunt ei pecuniam se daturos. 	2020-04-18	Evangelium_secundum_Marcum
+1100000578	et quaerebat quomodo illum opportune traderet.	2020-04-18	Evangelium_secundum_Marcum
+1100000579	et primo die azymorum quando pascha immolabant, dicunt ei discipuli: quo vis eamus, et paremus tibi ut manduces pascha?	2020-04-18	Evangelium_secundum_Marcum
+1100000580	et mittit duos ex discipulis suis, et dicit eis: ite in civitatem, et occurret vobis homo lagenam aquae baiulans: sequimini eum,et quocumque introierit, dicite domino domus, quia magister dicit: ubi est refectio mea, ubi pascha cum discipulis meis manducem?	2020-04-18	Evangelium_secundum_Marcum
+1100000581	et ipse vobis demonstrabit coenaculum grande, stratum: et illic parate nobis.	2020-04-18	Evangelium_secundum_Marcum
+1100000582	et abierunt discipuli eius, et venerunt in civitatem: et invenerunt sicut dixerat illis, et paraverunt pascha.	2020-04-18	Evangelium_secundum_Marcum
+1100000583	vespere autem facto, venit cum duodecim.	2020-04-18	Evangelium_secundum_Marcum
+1100000584	et discumbentibus eis, et manducantibus, ait iesus: amen dico vobis, quia unus ex vobis tradet me, qui manducat mecum.	2020-04-18	Evangelium_secundum_Marcum
+1100000585	at illi coeperunt contristari, et dicere ei singulatim: numquid ego?	2020-04-18	Evangelium_secundum_Marcum
+1100000586	qui ait illis: unus ex duodecim, qui intingit mecum manum in catino.	2020-04-18	Evangelium_secundum_Marcum
+1100000587	et filius quidem hominis vadit sicut scriptum est de eo: vae autem homini illi per quem filius hominis tradetur! 	2020-04-18	Evangelium_secundum_Marcum
+1100000588	bonum erat ei, si non esset natus homo ille.	2020-04-18	Evangelium_secundum_Marcum
+1100000589	et manducantibus illis, accepit iesus panem: et benedicens fregit, et dedit eis, et ait: sumite, hoc est corpus meum.	2020-04-18	Evangelium_secundum_Marcum
+1100000590	et accepto calice, gratias agens dedit eis: et biberunt ex illo omnes.	2020-04-18	Evangelium_secundum_Marcum
+1100000591	et ait illis: hic est sanguis meus novi testamenti, qui pro multis effundetur.	2020-04-18	Evangelium_secundum_Marcum
+1100000592	amen dico vobis, quia iam non bibam de hoc genimine vitis usque in diem illum, cum illud bibam novum in regno dei.	2020-04-18	Evangelium_secundum_Marcum
+1100000593	et hymno dicto exierunt in montem olivarum.	2020-04-18	Evangelium_secundum_Marcum
+1100000594	et ait eis iesus: omnes scandalizabimini in me in nocte ista: quia scriptum est: percutiam pastorem, et dispergentur oves.	2020-04-18	Evangelium_secundum_Marcum
+1100000595	sed postquam resurrexero, praecedam vos in galilaeam.	2020-04-18	Evangelium_secundum_Marcum
+1100000596	petrus autem ait illi: et si omnes scandalizati fuerint in te, sed non ego.	2020-04-18	Evangelium_secundum_Marcum
+1100000597	et ait illi iesus: amen dico tibi, quia tu hodie in nocte hac, priusquam gallus vocem bis dederit, ter me es negaturus.	2020-04-18	Evangelium_secundum_Marcum
+1100000598	at ille amplius loquebatur: et si oportuerit me simul commori tibi, non te negabo. 	2020-04-18	Evangelium_secundum_Marcum
+1100000599	similiter autem et omnes dicebant.	2020-04-18	Evangelium_secundum_Marcum
+1100000600	et veniunt in praedium, cui nomen gethsemani. 	2020-04-18	Evangelium_secundum_Marcum
+1100000601	et ait discipulis suis: sedete hic donec orem.	2020-04-18	Evangelium_secundum_Marcum
+1100000602	et assumit petrum, et iacobum, et ioannem secum: et coepit pavere et taedere.	2020-04-18	Evangelium_secundum_Marcum
+1100000603	et ait illis: tristis est anima mea usque ad mortem: sustinete hic, et vigilate.	2020-04-18	Evangelium_secundum_Marcum
+1100000604	et cum processisset paululum, procidit super terram, et orabat ut, si fieri posset, transiret ab eo hora.	2020-04-18	Evangelium_secundum_Marcum
+1100000605	et dixit: abba pater, omnia tibi possibilia sunt: transfer calicem hunc a me: sed non quod ego volo, sed quod tu.	2020-04-18	Evangelium_secundum_Marcum
+1100000606	et venit, et invenit eos dormientes. 	2020-04-18	Evangelium_secundum_Marcum
+1100000607	et ait petro: simon, dormis? 	2020-04-18	Evangelium_secundum_Marcum
+1100000608	non potuisti una hora vigilare?	2020-04-18	Evangelium_secundum_Marcum
+1100000609	vigilate et orate, ut non intretis in tentationem. 	2020-04-18	Evangelium_secundum_Marcum
+1100000610	spiritus quidem promptus est, caro vero infirma.	2020-04-18	Evangelium_secundum_Marcum
+1100000611	et iterum abiens oravit, eumdem sermonem dicens.	2020-04-18	Evangelium_secundum_Marcum
+1100000612	et reversus, denuo invenit eos dormientes (erant enim oculi eorum gravati), et ignorabant quid responderent ei.	2020-04-18	Evangelium_secundum_Marcum
+1100000613	et venit tertio, et ait illis: dormite iam, et requiescite. 	2020-04-18	Evangelium_secundum_Marcum
+1100000614	sufficit: venit hora: ecce filius hominis tradetur in manus peccatorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000615	surgite, eamus: ecce qui me tradet, prope est.	2020-04-18	Evangelium_secundum_Marcum
+1100000616	et, adhuc eo loquente, venit iudas iscariotes unus de duodecim, et cum eo turba multa cum gladiis et lignis, a summis sacerdotibus, et scribis, et senioribus.	2020-04-18	Evangelium_secundum_Marcum
+1100000617	dederat autem traditor eius signum eis, dicens: quemcumque osculatus fuero, ipse est, tenete eum, et ducite caute.	2020-04-18	Evangelium_secundum_Marcum
+1100000618	et cum venisset, statim accedens ad eum, ait: ave rabbi: et osculatus est eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000619	at illi manus iniecerunt in eum, et tenuerunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000620	unus autem quidam de circumstantibus educens gladium, percussit servum summi sacerdotis, et amputavit illi auriculam.	2020-04-18	Evangelium_secundum_Marcum
+1100000621	et respondens iesus, ait illis: tamquam ad latronem existis cum gladiis et lignis comprehendere me?	2020-04-18	Evangelium_secundum_Marcum
+1100000622	quotidie eram apud vos in templo docens, et non me tenuistis. 	2020-04-18	Evangelium_secundum_Marcum
+1100000623	sed ut impleantur scripturae.	2020-04-18	Evangelium_secundum_Marcum
+1100000624	tunc discipuli eius relinquentes eum, omnes fugerunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000625	adolescens autem quidam sequebatur eum amictus sindone super nudo: et tenuerunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000626	at ille reiecta sindone, nudus profugit ab eis.	2020-04-18	Evangelium_secundum_Marcum
+1100000627	et adduxerunt iesum ad summum sacerdotem: et convenerunt omnes sacerdotes, et scribae, et seniores.	2020-04-18	Evangelium_secundum_Marcum
+1100000628	petrus autem a longe secutus est eum usque intro in atrium summi sacerdotis: et sedebat cum ministris ad ignem, et calefaciebat se.	2020-04-18	Evangelium_secundum_Marcum
+1100000629	summi vero sacerdotes et omne concilium quaerebant adversus iesum testimonium ut eum morti traderent: nec inveniebant.	2020-04-18	Evangelium_secundum_Marcum
+1100000630	multi enim testimonium falsum dicebant adversus eum: et convenientia testimonia non erant.	2020-04-18	Evangelium_secundum_Marcum
+1100000631	et quidam surgentes, falsum testimonium ferebant adversus eum, dicentes:quoniam nos audivimus eum dicentem: ego dissolvam templum hoc manu factum, et per triduum aliud non manu factum aedificabo.	2020-04-18	Evangelium_secundum_Marcum
+1100000632	et non erat conveniens testimonium illorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000633	et exsurgens summus sacerdos in medium, interrogavit iesum, dicens: non respondes quidquam ad ea quae tibi obiiciuntur ab his?	2020-04-18	Evangelium_secundum_Marcum
+1100000634	ille autem tacebat, et nihil respondit. 	2020-04-18	Evangelium_secundum_Marcum
+1100000635	rursum summus sacerdos interrogabat eum, et dixit ei: tu es christus filius dei benedicti?	2020-04-18	Evangelium_secundum_Marcum
+1100000636	iesus autem dixit illi: ego sum: et videbitis filium hominis sedentem a dextris virtutis dei, et venientem cum nubibus caeli.	2020-04-18	Evangelium_secundum_Marcum
+1100000637	summus autem sacerdos scindens vestimenta sua, ait: quid adhuc desideramus testes?	2020-04-18	Evangelium_secundum_Marcum
+1100000638	audistis blasphemiam: quid vobis videtur? 	2020-04-18	Evangelium_secundum_Marcum
+1100000639	qui omnes condemnaverunt eum esse reum mortis.	2020-04-18	Evangelium_secundum_Marcum
+1100000640	et coeperunt quidam conspuere eum, et velare faciem eius, et colaphis eum caedere, et dicere ei: prophetiza: et ministri alapis eum caedebant.	2020-04-18	Evangelium_secundum_Marcum
+1100000641	et cum esset petrus in atrio deorsum, venit una ex ancillis summi sacerdotis:et cum vidisset petrum calefacientem se, aspiciens illum, ait: et tu cum iesu nazareno eras.	2020-04-18	Evangelium_secundum_Marcum
+1100000642	at ille negavit, dicens: neque scio, neque novi quid dicas. 	2020-04-18	Evangelium_secundum_Marcum
+1100000643	et exiit foras ante atrium, et gallus cantavit.	2020-04-18	Evangelium_secundum_Marcum
+1100000644	rursus autem cum vidisset illum ancilla, coepit dicere circumstantibus: quia hic ex illis est.	2020-04-18	Evangelium_secundum_Marcum
+1100000645	at ille iterum negavit. 	2020-04-18	Evangelium_secundum_Marcum
+1100000646	et post pusillum rursus qui astabant, dicebant petro: vere ex illis es: nam et galilaeus es.	2020-04-18	Evangelium_secundum_Marcum
+1100000647	ille autem coepit anathematizare et iurare: quia nescio hominem istum, quem dicitis.	2020-04-18	Evangelium_secundum_Marcum
+1100000648	et statim gallus iterum cantavit. 	2020-04-18	Evangelium_secundum_Marcum
+1100000649	et recordatus est petrus verbi quod dixerat ei iesus: priusquam gallus cantet bis, ter me negabis. 	2020-04-18	Evangelium_secundum_Marcum
+1100000650	et coepit flere.	2020-04-18	Evangelium_secundum_Marcum
+1100000651	caput 15	2020-04-18	Evangelium_secundum_Marcum
+1100000652	et confestim mane consilium facientes summi sacerdotes cum senioribus, et scribis, et universo concilio, vincientes iesum, duxerunt, et tradiderunt pilato.	2020-04-18	Evangelium_secundum_Marcum
+1100000653	et interrogavit eum pilatus: tu es rex iudaeorum? 	2020-04-18	Evangelium_secundum_Marcum
+1100000654	at ille respondens, ait illi: tu dicis.	2020-04-18	Evangelium_secundum_Marcum
+1100000655	et accusabant eum summi sacerdotes in multis.	2020-04-18	Evangelium_secundum_Marcum
+1100000656	pilatus autem rursum interrogavit eum, dicens: non respondes quidquam? 	2020-04-18	Evangelium_secundum_Marcum
+1100000657	vide in quantis te accusant.	2020-04-18	Evangelium_secundum_Marcum
+1100000658	iesus autem amplius nihil respondit, ita ut miraretur pilatus.	2020-04-18	Evangelium_secundum_Marcum
+1100000659	per diem autem festum solebat dimittere illis unum ex vinctis, quemcumque petissent.	2020-04-18	Evangelium_secundum_Marcum
+1100000660	erat autem qui dicebatur barabbas, qui cum seditiosis erat vinctus, qui in seditione fecerat homicidium.	2020-04-18	Evangelium_secundum_Marcum
+1100000661	et cum ascendisset turba, coepit rogare, sicut semper faciebat illis.	2020-04-18	Evangelium_secundum_Marcum
+1100000662	pilatus autem respondit eis, et dixit: vultis dimittam vobis regem iudaeorum?	2020-04-18	Evangelium_secundum_Marcum
+1100000663	sciebat enim quod per invidiam tradidissent eum summi sacerdotes.	2020-04-18	Evangelium_secundum_Marcum
+1100000664	pontifices autem concitaverunt turbam, ut magis barabbam dimitteret eis.	2020-04-18	Evangelium_secundum_Marcum
+1100000665	pilatus autem iterum respondens, ait illis: quid ergo vultis faciam regi iudaeorum?	2020-04-18	Evangelium_secundum_Marcum
+1100000666	at illi iterum clamaverunt: crucifige eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000667	pilatus vero dicebat illis: quid enim mali fecit? 	2020-04-18	Evangelium_secundum_Marcum
+1100000668	at illi magis clamabant: crucifige eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000669	pilatus autem volens populo satisfacere, dimisit illis barabbam, et tradidit iesum flagellis caesum, ut crucifigeretur.	2020-04-18	Evangelium_secundum_Marcum
+1100000670	milites autem duxerunt eum in atrium praetorii, et convocant totam cohortem,et induunt eum purpura, et imponunt ei plectentes spineam coronam.	2020-04-18	Evangelium_secundum_Marcum
+1100000671	et coeperunt salutare eum: ave rex iudaeorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000672	et percutiebant caput eius arundine: et conspuebant eum, et ponentes genua, adorabant eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000673	et postquam illuserunt ei, exuerunt illum purpura, et induerunt eum vestimentis suis: et educunt illum ut crucifigerent eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000674	et angariaverunt praetereuntem quempiam, simonem cyrenaeum venientem de villa, patrem alexandri et rufi, ut tolleret crucem eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000675	et perducunt illum in golgotha locum: quod est interpretatum calvariae locus.	2020-04-18	Evangelium_secundum_Marcum
+1100000676	et dabant ei bibere myrrhatum vinum: et non accepit.	2020-04-18	Evangelium_secundum_Marcum
+1100000677	et crucifigentes eum, diviserunt vestimenta eius, mittentes sortem super eis, quis quid tolleret.	2020-04-18	Evangelium_secundum_Marcum
+1100000678	erat autem hora tertia: et crucifixerunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000679	et erat titulus causae eius inscriptus: rex iudaeorum.	2020-04-18	Evangelium_secundum_Marcum
+1100000680	et cum eo crucifigunt duos latrones: unum a dextris, et alium a sinistris eius.	2020-04-18	Evangelium_secundum_Marcum
+1100000681	et impleta est scriptura, quae dicit: et cum iniquis reputatus est.	2020-04-18	Evangelium_secundum_Marcum
+1100000682	et praetereuntes blasphemabant eum, moventes capita sua, et dicentes: vah! 	2020-04-18	Evangelium_secundum_Marcum
+1100000683	qui destruis templum dei, et in tribus diebus reaedificas,salvum fac temetipsum descendens de cruce.	2020-04-18	Evangelium_secundum_Marcum
+1100000684	similiter et summi sacerdotes illudentes, ad alterutrum cum scribis dicebant: alios salvos fecit; seipsum non potest salvum facere.	2020-04-18	Evangelium_secundum_Marcum
+1100000685	christus rex israel descendat nunc de cruce, ut videamus, et credamus. 	2020-04-18	Evangelium_secundum_Marcum
+1100000686	et qui cum eo crucifixi erant, convitiabantur ei.	2020-04-18	Evangelium_secundum_Marcum
+1100000687	et facta hora sexta, tenebrae factae sunt per totam terram usque in horam nonam.	2020-04-18	Evangelium_secundum_Marcum
+1100000688	et hora nona exclamavit iesus voce magna, dicens: eloi, eloi, lamma sabacthani? 	2020-04-18	Evangelium_secundum_Marcum
+1100000689	quod est interpretatum: deus meus, deus meus, ut quid dereliquisti me?	2020-04-18	Evangelium_secundum_Marcum
+1100000690	et quidam de circumstantibus audientes, dicebant: ecce eliam vocat.	2020-04-18	Evangelium_secundum_Marcum
+1100000691	currens autem unus, et implens spongiam aceto, circumponensque calamo, potum dabat ei, dicens: sinite, videamus si veniat elias ad deponendum eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000692	iesus autem emissa voce magna expiravit.	2020-04-18	Evangelium_secundum_Marcum
+1100000693	et velum templi scissum est in duo, a summo usque deorsum.	2020-04-18	Evangelium_secundum_Marcum
+1100000694	videns autem centurio, qui ex adverso stabat, quia sic clamans expirasset, ait: vere hic homo filius dei erat.	2020-04-18	Evangelium_secundum_Marcum
+1100000695	erant autem et mulieres de longe aspicientes: inter quas erat maria magdalene, et maria iacobi minoris, et ioseph mater, et salome:et cum esset in galilaea, sequebantur eum, et ministrabant ei, et aliae multae, quae simul cum eo ascenderant ierosolymam.	2020-04-18	Evangelium_secundum_Marcum
+1100000696	et cum iam sero esset factum (quia erat parasceve, quod est ante sabbatum),venit ioseph ab arimathaea nobilis decurio, qui et ipse erat exspectans regnum dei, et audacter introivit ad pilatum, et petiit corpus iesu.	2020-04-18	Evangelium_secundum_Marcum
+1100000697	pilatus autem mirabatur si iam obiisset. 	2020-04-18	Evangelium_secundum_Marcum
+1100000698	et accersito centurione, interrogavit eum si iam mortuus esset.	2020-04-18	Evangelium_secundum_Marcum
+1100000699	et cum cognovisset a centurione, donavit corpus ioseph.	2020-04-18	Evangelium_secundum_Marcum
+1100000700	ioseph autem mercatus sindonem, et deponens eum involvit sindone, et posuit eum in monumento quod erat excisum de petra, et advolvit lapidem ad ostium monumenti.	2020-04-18	Evangelium_secundum_Marcum
+1100000701	maria autem magdalene et maria ioseph aspiciebant ubi poneretur.	2020-04-18	Evangelium_secundum_Marcum
+1100000702	caput 16	2020-04-18	Evangelium_secundum_Marcum
+1100000703	et cum transisset sabbatum, maria magdalene, et maria iacobi, et salome emerunt aromata ut venientes ungerent iesum.	2020-04-18	Evangelium_secundum_Marcum
+1100000704	et valde mane una sabbatorum, veniunt ad monumentum, orto iam sole.	2020-04-18	Evangelium_secundum_Marcum
+1100000705	et dicebant ad invicem: quis revolvet nobis lapidem ab ostio monumenti?	2020-04-18	Evangelium_secundum_Marcum
+1100000706	et respicientes viderunt revolutum lapidem. 	2020-04-18	Evangelium_secundum_Marcum
+1100000707	erat quippe magnus valde.	2020-04-18	Evangelium_secundum_Marcum
+1100000708	et introeuntes in monumentum viderunt iuvenem sedentem in dextris, coopertum stola candida, et obstupuerunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000709	qui dicit illis: nolite expavescere: iesum quaeritis nazarenum, crucifixum: surrexit, non est hic, ecce locus ubi posuerunt eum.	2020-04-18	Evangelium_secundum_Marcum
+1100000710	sed ite, dicite discipulis eius, et petro, quia praecedit vos in galilaeam: ibi eum videbitis, sicut dixit vobis.	2020-04-18	Evangelium_secundum_Marcum
+1100000711	at illae exeuntes, fugerunt de monumento: invaserat enim eas tremor et pavor: et nemini quidquam dixerunt: timebant enim.	2020-04-18	Evangelium_secundum_Marcum
+1100000712	surgens autem mane prima sabbati, apparuit primo mariae magdalene, de qua eiecerat septem daemonia.	2020-04-18	Evangelium_secundum_Marcum
+1100000713	illa vadens nuntiavit his, qui cum eo fuerant, lugentibus et flentibus.	2020-04-18	Evangelium_secundum_Marcum
+1100000714	et illi audientes quia viveret, et visus esset ab ea, non crediderunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000715	post haec autem duobus ex his ambulantibus ostensus est in alia effigie, euntibus in villam:et illi euntes nuntiaverunt ceteris: nec illis crediderunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000716	novissime recumbentibus illis undecim apparuit: et exprobravit incredulitatem eorum et duritiam cordis: quia iis, qui viderant eum resurrexisse, non crediderunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000717	et dixit eis: euntes in mundum universum praedicate evangelium omni creaturae.	2020-04-18	Evangelium_secundum_Marcum
+1100000718	qui crediderit, et baptizatus fuerit, salvus erit: qui vero non crediderit, condemnabitur.	2020-04-18	Evangelium_secundum_Marcum
+1100000719	signa autem eos qui crediderint, haec sequentur: in nomine meo daemonia eiicient: linguis loquentur novis:serpentes tollent: et si mortiferum quid biberint, non eis nocebit: super aegros manus imponent, et bene habebunt.	2020-04-18	Evangelium_secundum_Marcum
+1100000720	et dominus quidem iesus postquam locutus est eis, assumptus est in caelum, et sedet a dextris dei.	2020-04-18	Evangelium_secundum_Marcum
+1100000721	illi autem profecti praedicaverunt ubique, domino cooperante, et sermonem confirmante, sequentibus signis.	2020-04-18	Evangelium_secundum_Marcum

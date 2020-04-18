@@ -1,0 +1,73 @@
+1100000001	prophetia ionae	2020-04-18	Prophetia_Ionae
+1100000002	caput 1	2020-04-18	Prophetia_Ionae
+1100000003	et factum est verbum domini ad ionam, filium amathi, dicens:surge, et vade in niniven, civitatem grandem, et praedica in ea, quia ascendit malitia eius coram me.	2020-04-18	Prophetia_Ionae
+1100000004	et surrexit ionas, ut fugeret in tharsis a facie domini, et descendit in ioppen: et invenit navem euntem in tharsis, et dedit naulum eius, et descendit in eam ut iret cum eis in tharsis a facie domini.	2020-04-18	Prophetia_Ionae
+1100000005	dominus autem misit ventum magnum in mare: et facta est tempestas magna in mari, et navis periclitabatur conteri.	2020-04-18	Prophetia_Ionae
+1100000006	et timuerunt nautae, et clamaverunt viri ad deum suum, et miserunt vasa quae erant in navi, in mare, ut alleviaretur ab eis; et ionas descendit ad interiora navis, et dormiebat sopore gravi.	2020-04-18	Prophetia_Ionae
+1100000007	et accessit ad eum gubernator, et dixit ei: quid tu sopore deprimeris? 	2020-04-18	Prophetia_Ionae
+1100000008	surge, invoca deum tuum, si forte recogitet deus de nobis, et non pereamus.	2020-04-18	Prophetia_Ionae
+1100000009	et dixit vir ad collegam suum: venite et mittamus sortes, et sciamus quare hoc malum sit nobis. 	2020-04-18	Prophetia_Ionae
+1100000010	et miserunt sortes, et cecidit sors super ionam.	2020-04-18	Prophetia_Ionae
+1100000011	et dixerunt ad eum: indica nobis cuius causa malum istud sit nobis: quod est opus tuum? 	2020-04-18	Prophetia_Ionae
+1100000012	quae terra tua, et quo vadis? 	2020-04-18	Prophetia_Ionae
+1100000013	vel ex quo populo es tu?	2020-04-18	Prophetia_Ionae
+1100000014	et dixit ad eos: hebraeus ego sum, et dominum deum caeli ego timeo, qui fecit mare et aridam.	2020-04-18	Prophetia_Ionae
+1100000015	et timuerunt viri timore magno, et dixerunt ad eum: quid hoc fecisti? 	2020-04-18	Prophetia_Ionae
+1100000016	cognoverunt enim viri quod a facie domini fugeret, quia indicaverat eis.	2020-04-18	Prophetia_Ionae
+1100000017	et dixerunt ad eum: quid faciemus tibi, et cessabit mare a nobis? 	2020-04-18	Prophetia_Ionae
+1100000018	quia mare ibat, et intumescebat.	2020-04-18	Prophetia_Ionae
+1100000019	et dixit ad eos: tollite me, et mittite in mare, et cessabit mare a vobis: scio enim ego quoniam propter me tempestas haec grandis venit super vos.	2020-04-18	Prophetia_Ionae
+1100000020	et remigabant viri ut reverterentur ad aridam, et non valebant, quia mare ibat, et intumescebat super eos.	2020-04-18	Prophetia_Ionae
+1100000021	et clamaverunt ad dominum, et dixerunt: quaesumus, domine, ne pereamus in anima viri istius, et ne des super nos sanguinem innocentem: quia tu, domine, sicut voluisti, fecisti.	2020-04-18	Prophetia_Ionae
+1100000022	et tulerunt ionam, et miserunt in mare: et stetit mare a fervore suo.	2020-04-18	Prophetia_Ionae
+1100000023	et timuerunt viri timore magno dominum: et immolaverunt hostias domino, et voverunt vota.	2020-04-18	Prophetia_Ionae
+1100000024	caput 2	2020-04-18	Prophetia_Ionae
+1100000025	et praeparavit dominus piscem grandem ut deglutiret ionam: et erat ionas in ventre piscis tribus diebus et tribus noctibus.	2020-04-18	Prophetia_Ionae
+1100000026	et oravit ionas ad dominum deum suum de ventre piscis,et dixit:	2020-04-18	Prophetia_Ionae
+1100000027	clamavi de tribulatione mea ad dominum,	2020-04-18	Prophetia_Ionae
+1100000028	et exaudivit me;	2020-04-18	Prophetia_Ionae
+1100000029	de ventre inferi clamavi,	2020-04-18	Prophetia_Ionae
+1100000030	et exaudisti vocem meam.	2020-04-18	Prophetia_Ionae
+1100000031	et proiecisti me in profundum in corde maris,	2020-04-18	Prophetia_Ionae
+1100000032	et flumen circumdedit me:	2020-04-18	Prophetia_Ionae
+1100000033	omnes gurgites tui, et fluctus tui super me transierunt.	2020-04-18	Prophetia_Ionae
+1100000034	et ego dixi:	2020-04-18	Prophetia_Ionae
+1100000035	abiectus sum a conspectu oculorum tuorum;	2020-04-18	Prophetia_Ionae
+1100000036	verumtamen rursus videbo templum sanctum tuum.	2020-04-18	Prophetia_Ionae
+1100000037	circumdederunt me aquae usque ad animam:	2020-04-18	Prophetia_Ionae
+1100000038	abyssus vallavit me,	2020-04-18	Prophetia_Ionae
+1100000039	pelagus operuit caput meum.	2020-04-18	Prophetia_Ionae
+1100000040	ad extrema montium descendi;	2020-04-18	Prophetia_Ionae
+1100000041	terrae vectes concluserunt me in aeternum:	2020-04-18	Prophetia_Ionae
+1100000042	et sublevabis de corruptione vitam meam, domine deus meus.	2020-04-18	Prophetia_Ionae
+1100000043	cum angustiaretur in me anima mea,	2020-04-18	Prophetia_Ionae
+1100000044	domini recordatus sum:	2020-04-18	Prophetia_Ionae
+1100000045	ut veniat ad te oratio mea,	2020-04-18	Prophetia_Ionae
+1100000046	ad templum sanctum tuum.	2020-04-18	Prophetia_Ionae
+1100000047	qui custodiunt vanitates frustra,	2020-04-18	Prophetia_Ionae
+1100000048	misericordiam suam derelinquunt.	2020-04-18	Prophetia_Ionae
+1100000049	ego autem in voce laudis immolabo tibi:	2020-04-18	Prophetia_Ionae
+1100000050	quaecumque vovi, reddam pro salute domino.	2020-04-18	Prophetia_Ionae
+1100000051	et dixit dominus pisci, et evomuit ionam in aridam.	2020-04-18	Prophetia_Ionae
+1100000052	caput 3	2020-04-18	Prophetia_Ionae
+1100000053	et factum est verbum domini ad ionam secundo, dicens:surge, et vade in niniven, civitatem magnam, et praedica in ea praedicationem quam ego loquor ad te.	2020-04-18	Prophetia_Ionae
+1100000054	et surrexit ionas, et abiit in niniven iuxta verbum domini: et ninive erat civitas magna, itinere trium dierum.	2020-04-18	Prophetia_Ionae
+1100000055	et coepit ionas introire in civitatem itinere diei unius: et clamavit, et dixit: adhuc quadraginta dies, et ninive subvertetur.	2020-04-18	Prophetia_Ionae
+1100000056	et crediderunt viri ninivitae in deum, et praedicaverunt ieiunium, et vestiti sunt saccis, a maiore usque ad minorem.	2020-04-18	Prophetia_Ionae
+1100000057	et pervenit verbum ad regem ninive: et surrexit de solio suo, et abiecit vestimentum suum a se, et indutus est sacco, et sedit in cinere.	2020-04-18	Prophetia_Ionae
+1100000058	et clamavit, et dixit in ninive ex ore regis et principum eius, dicens: homines, et iumenta, et boves, et pecora non gustent quidquam: nec pascantur, et aquam non bibant.	2020-04-18	Prophetia_Ionae
+1100000059	et operiantur saccis homines et iumenta, et clament ad dominum in fortitudine: et convertatur vir a via sua mala, et ab iniquitate quae est in manibus eorum.	2020-04-18	Prophetia_Ionae
+1100000060	quis scit si convertatur et ignoscat deus, et revertatur a furore irae suae, et non peribimus?	2020-04-18	Prophetia_Ionae
+1100000061	et vidit deus opera eorum, quia conversi sunt de via sua mala: et misertus est deus super malitiam quam locutus fuerat ut faceret eis, et non fecit.	2020-04-18	Prophetia_Ionae
+1100000062	caput 4	2020-04-18	Prophetia_Ionae
+1100000063	et afflictus est ionas afflictione magna, et iratus est:et oravit ad dominum, et dixit: obsecro, domine, numquid non hoc est verbum meum cum adhuc essem in terra mea? 	2020-04-18	Prophetia_Ionae
+1100000064	propter hoc praeoccupavi ut fugerem in tharsis: scio enim quia tu deus clemens et misericors es, patiens et multae miserationis, et ignoscens super malitia.	2020-04-18	Prophetia_Ionae
+1100000065	et nunc, domine, tolle, quaeso, animam meam a me, quia melior est mihi mors quam vita.	2020-04-18	Prophetia_Ionae
+1100000066	et dixit dominus: putasne bene irasceris tu?	2020-04-18	Prophetia_Ionae
+1100000067	et egressus est ionas de civitate, et sedit contra orientem civitatis: et fecit sibimet umbraculum ibi, et sedebat subter illud in umbra, donec videret quid accideret civitati.	2020-04-18	Prophetia_Ionae
+1100000068	et praeparavit dominus deus hederam, et ascendit super caput ionae, ut esset umbra super caput eius, et protegeret eum (laboraverat enim): et laetatus est ionas super hedera laetitia magna.	2020-04-18	Prophetia_Ionae
+1100000069	et paravit deus vermen ascensu diluculi in crastinum: et percussit hederam, et exaruit.	2020-04-18	Prophetia_Ionae
+1100000070	et cum ortus fuisset sol, praecepit dominus vento calido et urenti: et percussit sol super caput ionae, et aestuabat: et petivit animae suae ut moreretur, et dixit: melius est mihi mori quam vivere.	2020-04-18	Prophetia_Ionae
+1100000071	et dixit dominus ad ionam: putasne bene irasceris tu super hedera? 	2020-04-18	Prophetia_Ionae
+1100000072	et dixit: bene irascor ego usque ad mortem.	2020-04-18	Prophetia_Ionae
+1100000073	et dixit dominus: tu doles super hederam in qua non laborasti, neque fecisti ut cresceret; quae sub una nocte nata est, et sub una nocte periit:et ego non parcam ninive, civitati magnae, in qua sunt plus quam centum viginti millia hominum qui nesciunt quid sit inter dexteram et sinistram suam, et iumenta multa?	2020-04-18	Prophetia_Ionae

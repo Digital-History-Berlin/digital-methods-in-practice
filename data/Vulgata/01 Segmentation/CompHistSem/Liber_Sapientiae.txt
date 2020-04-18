@@ -1,0 +1,1225 @@
+1100000001	liber sapientiae	2020-04-18	Liber_Sapientiae
+1100000002	caput 1	2020-04-18	Liber_Sapientiae
+1100000003	diligite iustitiam, qui iudicatis terram.	2020-04-18	Liber_Sapientiae
+1100000004	sentite de domino in bonitate,	2020-04-18	Liber_Sapientiae
+1100000005	et in simplicitate cordis quaerite illum:	2020-04-18	Liber_Sapientiae
+1100000006	quoniam invenitur ab his qui non tentant illum,	2020-04-18	Liber_Sapientiae
+1100000007	apparet autem eis qui fidem habent in illum.	2020-04-18	Liber_Sapientiae
+1100000008	perversae enim cogitationes separant a deo;	2020-04-18	Liber_Sapientiae
+1100000009	probata autem virtus corripit insipientes.	2020-04-18	Liber_Sapientiae
+1100000010	quoniam in malevolam animam non introibit sapientia,	2020-04-18	Liber_Sapientiae
+1100000011	nec habitabit in corpore subdito peccatis.	2020-04-18	Liber_Sapientiae
+1100000012	spiritus enim sanctus disciplinae effugiet fictum,	2020-04-18	Liber_Sapientiae
+1100000013	et auferet se a cogitationibus quae sunt sine intellectu,	2020-04-18	Liber_Sapientiae
+1100000014	et corripietur a superveniente iniquitate.	2020-04-18	Liber_Sapientiae
+1100000015	benignus est enim spiritus sapientiae,	2020-04-18	Liber_Sapientiae
+1100000016	et non liberabit maledicum a labiis suis:	2020-04-18	Liber_Sapientiae
+1100000017	quoniam renum illius testis est deus,	2020-04-18	Liber_Sapientiae
+1100000018	et cordis illius scrutator est verus,	2020-04-18	Liber_Sapientiae
+1100000019	et linguae eius auditor.	2020-04-18	Liber_Sapientiae
+1100000020	quoniam spiritus domini replevit orbem terrarum,	2020-04-18	Liber_Sapientiae
+1100000021	et hoc quod continet omnia, scientiam habet vocis.	2020-04-18	Liber_Sapientiae
+1100000022	propter hoc qui loquitur iniqua non potest latere,	2020-04-18	Liber_Sapientiae
+1100000023	nec praeteriet illum corripiens iudicium.	2020-04-18	Liber_Sapientiae
+1100000024	in cogitationibus enim impii interrogatio erit;	2020-04-18	Liber_Sapientiae
+1100000025	sermonum autem illius auditio ad deum veniet,	2020-04-18	Liber_Sapientiae
+1100000026	ad correptionem iniquitatum illius.	2020-04-18	Liber_Sapientiae
+1100000027	quoniam auris zeli audit omnia,	2020-04-18	Liber_Sapientiae
+1100000028	et tumultus murmurationum non abscondetur.	2020-04-18	Liber_Sapientiae
+1100000029	custodite ergo vos a murmuratione quae nihil prodest,	2020-04-18	Liber_Sapientiae
+1100000030	et a detractione parcite linguae:	2020-04-18	Liber_Sapientiae
+1100000031	quoniam sermo obscurus in vacuum non ibit,	2020-04-18	Liber_Sapientiae
+1100000032	os autem quod mentitur occidit animam.	2020-04-18	Liber_Sapientiae
+1100000033	nolite zelare mortem in errore vitae vestrae,	2020-04-18	Liber_Sapientiae
+1100000034	neque acquiratis perditionem in operibus manuum vestrarum.	2020-04-18	Liber_Sapientiae
+1100000035	quoniam deus mortem non fecit,	2020-04-18	Liber_Sapientiae
+1100000036	nec laetatur in perditione vivorum.	2020-04-18	Liber_Sapientiae
+1100000037	creavit enim ut essent omnia,	2020-04-18	Liber_Sapientiae
+1100000038	et sanabiles fecit nationes orbis terrarum:	2020-04-18	Liber_Sapientiae
+1100000039	et non est in illis medicamentum exterminii,	2020-04-18	Liber_Sapientiae
+1100000040	nec inferorum regnum in terra.	2020-04-18	Liber_Sapientiae
+1100000041	iustitia enim perpetua est, et immortalis.	2020-04-18	Liber_Sapientiae
+1100000042	impii autem manibus et verbis accersierunt illam,	2020-04-18	Liber_Sapientiae
+1100000043	et aestimantes illam amicam, defluxerunt;	2020-04-18	Liber_Sapientiae
+1100000044	et sponsiones posuerunt ad illam,	2020-04-18	Liber_Sapientiae
+1100000045	quoniam digni sunt qui sint ex parte illius.	2020-04-18	Liber_Sapientiae
+1100000046	caput 2	2020-04-18	Liber_Sapientiae
+1100000047	dixerunt enim cogitantes apud se non recte:	2020-04-18	Liber_Sapientiae
+1100000048	exiguum et cum taedio est tempus vitae nostrae,	2020-04-18	Liber_Sapientiae
+1100000049	et non est refrigerium in fine hominis,	2020-04-18	Liber_Sapientiae
+1100000050	et non est qui agnitus sit reversus ab inferis.	2020-04-18	Liber_Sapientiae
+1100000051	quia ex nihilo nati sumus,	2020-04-18	Liber_Sapientiae
+1100000052	et post hoc erimus tamquam non fuerimus.	2020-04-18	Liber_Sapientiae
+1100000053	quoniam fumus flatus est in naribus nostris,	2020-04-18	Liber_Sapientiae
+1100000054	et sermo scintilla ad commovendum cor nostrum:	2020-04-18	Liber_Sapientiae
+1100000055	qua extincta, cinis erit corpus nostrum,	2020-04-18	Liber_Sapientiae
+1100000056	et spiritus diffundetur tamquam mollis aer;	2020-04-18	Liber_Sapientiae
+1100000057	et transibit vita nostra tamquam vestigium nubis,	2020-04-18	Liber_Sapientiae
+1100000058	et sicut nebula dissolvetur quae fugata est a radiis solis,	2020-04-18	Liber_Sapientiae
+1100000059	et a calore illius aggravata.	2020-04-18	Liber_Sapientiae
+1100000060	et nomen nostrum oblivionem accipiet per tempus,	2020-04-18	Liber_Sapientiae
+1100000061	et nemo memoriam habebit operum nostrorum.	2020-04-18	Liber_Sapientiae
+1100000062	umbrae enim transitus est tempus nostrum,	2020-04-18	Liber_Sapientiae
+1100000063	et non est reversio finis nostri:	2020-04-18	Liber_Sapientiae
+1100000064	quoniam consignata est, et nemo revertitur.	2020-04-18	Liber_Sapientiae
+1100000065	venite ergo, et fruamur bonis quae sunt,	2020-04-18	Liber_Sapientiae
+1100000066	et utamur creatura tamquam in iuventute celeriter.	2020-04-18	Liber_Sapientiae
+1100000067	vino pretioso et unguentis nos impleamus,	2020-04-18	Liber_Sapientiae
+1100000068	et non praetereat nos flos temporis.	2020-04-18	Liber_Sapientiae
+1100000069	coronemus nos rosis antequam marcescant;	2020-04-18	Liber_Sapientiae
+1100000070	nullum pratum sit quod non pertranseat luxuria nostra:	2020-04-18	Liber_Sapientiae
+1100000071	nemo nostrum exsors sit luxuriae nostrae.	2020-04-18	Liber_Sapientiae
+1100000072	ubique relinquamus signa laetitiae,	2020-04-18	Liber_Sapientiae
+1100000073	quoniam haec est pars nostra, et haec est sors.	2020-04-18	Liber_Sapientiae
+1100000074	opprimamus pauperem iustum, et non parcamus viduae,	2020-04-18	Liber_Sapientiae
+1100000075	nec veterani revereamur canos multi temporis:	2020-04-18	Liber_Sapientiae
+1100000076	sit autem fortitudo nostra lex iustitiae;	2020-04-18	Liber_Sapientiae
+1100000077	quod enim infirmum est, inutile invenitur.	2020-04-18	Liber_Sapientiae
+1100000078	circumveniamus ergo iustum, quoniam inutilis est nobis,	2020-04-18	Liber_Sapientiae
+1100000079	et contrarius est operibus nostris,	2020-04-18	Liber_Sapientiae
+1100000080	et improperat nobis peccata legis,	2020-04-18	Liber_Sapientiae
+1100000081	et diffamat in nos peccata disciplinae nostrae.	2020-04-18	Liber_Sapientiae
+1100000082	promittit se scientiam dei habere,	2020-04-18	Liber_Sapientiae
+1100000083	et filium dei se nominat.	2020-04-18	Liber_Sapientiae
+1100000084	factus est nobis in traductionem cogitationum nostrarum.	2020-04-18	Liber_Sapientiae
+1100000085	gravis est nobis etiam ad videndum,	2020-04-18	Liber_Sapientiae
+1100000086	quoniam dissimilis est aliis vita illius,	2020-04-18	Liber_Sapientiae
+1100000087	et immutatae sunt viae eius.	2020-04-18	Liber_Sapientiae
+1100000088	tamquam nugaces aestimati sumus ab illo,	2020-04-18	Liber_Sapientiae
+1100000089	et abstinet se a viis nostris tamquam ab immunditiis,	2020-04-18	Liber_Sapientiae
+1100000090	et praefert novissima iustorum,	2020-04-18	Liber_Sapientiae
+1100000091	et gloriatur patrem se habere deum.	2020-04-18	Liber_Sapientiae
+1100000092	videamus ergo si sermones illius veri sint,	2020-04-18	Liber_Sapientiae
+1100000093	et tentemus quae ventura sunt illi,	2020-04-18	Liber_Sapientiae
+1100000094	et sciemus quae erunt novissima illius.	2020-04-18	Liber_Sapientiae
+1100000095	si enim est verus filius dei, suscipiet illum,	2020-04-18	Liber_Sapientiae
+1100000096	et liberabit eum de manibus contrariorum.	2020-04-18	Liber_Sapientiae
+1100000097	contumelia et tormento interrogemus eum,	2020-04-18	Liber_Sapientiae
+1100000098	ut sciamus reverentiam eius,	2020-04-18	Liber_Sapientiae
+1100000099	et probemus patientiam illius.	2020-04-18	Liber_Sapientiae
+1100000100	morte turpissima condemnemus eum;	2020-04-18	Liber_Sapientiae
+1100000101	erit enim ei respectus ex sermonibus illius.	2020-04-18	Liber_Sapientiae
+1100000102	haec cogitaverunt, et erraverunt:	2020-04-18	Liber_Sapientiae
+1100000103	excaecavit enim illos malitia eorum.	2020-04-18	Liber_Sapientiae
+1100000104	et nescierunt sacramenta dei:	2020-04-18	Liber_Sapientiae
+1100000105	neque mercedem speraverunt iustitiae,	2020-04-18	Liber_Sapientiae
+1100000106	nec iudicaverunt honorem animarum sanctarum.	2020-04-18	Liber_Sapientiae
+1100000107	quoniam deus creavit hominem inexterminabilem,	2020-04-18	Liber_Sapientiae
+1100000108	et ad imaginem similitudinis suae fecit illum.	2020-04-18	Liber_Sapientiae
+1100000109	invidia autem diaboli mors introivit in orbem terrarum:	2020-04-18	Liber_Sapientiae
+1100000110	imitantur autem illum qui sunt ex parte illius.	2020-04-18	Liber_Sapientiae
+1100000111	caput 3	2020-04-18	Liber_Sapientiae
+1100000112	iustorum autem animae in manu dei sunt,	2020-04-18	Liber_Sapientiae
+1100000113	et non tangent illos tormentum mortis.	2020-04-18	Liber_Sapientiae
+1100000114	visi sunt oculis insipientium mori,	2020-04-18	Liber_Sapientiae
+1100000115	et aestimata est afflictio exitus illorum,	2020-04-18	Liber_Sapientiae
+1100000116	et quod a nobis est iter exterminium;	2020-04-18	Liber_Sapientiae
+1100000117	illi autem sunt in pace:	2020-04-18	Liber_Sapientiae
+1100000118	etsi coram hominibus tormenta passi sunt,	2020-04-18	Liber_Sapientiae
+1100000119	spes illorum immortalitate plena est.	2020-04-18	Liber_Sapientiae
+1100000120	in paucis vexati sunt, in multis bene disponentur,	2020-04-18	Liber_Sapientiae
+1100000121	quoniam deus tentavit eos,	2020-04-18	Liber_Sapientiae
+1100000122	et invenit illos dignos se.	2020-04-18	Liber_Sapientiae
+1100000123	tamquam aurum in fornace probavit illos,	2020-04-18	Liber_Sapientiae
+1100000124	et quasi holocausti hostiam accepit illos,	2020-04-18	Liber_Sapientiae
+1100000125	et in tempore erit respectus illorum.	2020-04-18	Liber_Sapientiae
+1100000126	fulgebunt iusti	2020-04-18	Liber_Sapientiae
+1100000127	et tamquam scintillae in arundineto discurrent.	2020-04-18	Liber_Sapientiae
+1100000128	iudicabunt nationes, et dominabuntur populis,	2020-04-18	Liber_Sapientiae
+1100000129	et regnabit dominus illorum in perpetuum.	2020-04-18	Liber_Sapientiae
+1100000130	qui confidunt in illo intelligent veritatem,	2020-04-18	Liber_Sapientiae
+1100000131	et fideles in dilectione acquiescent illi,	2020-04-18	Liber_Sapientiae
+1100000132	quoniam donum et pax est electis eius.	2020-04-18	Liber_Sapientiae
+1100000133	impii autem secundum quae cogitaverunt	2020-04-18	Liber_Sapientiae
+1100000134	correptionem habebunt:	2020-04-18	Liber_Sapientiae
+1100000135	qui neglexerunt iustum,	2020-04-18	Liber_Sapientiae
+1100000136	et a domino recesserunt.	2020-04-18	Liber_Sapientiae
+1100000137	sapientiam enim et disciplinam qui abiicit infelix est:	2020-04-18	Liber_Sapientiae
+1100000138	et vacua est spes illorum,	2020-04-18	Liber_Sapientiae
+1100000139	et labores sine fructu,	2020-04-18	Liber_Sapientiae
+1100000140	et inutilia opera eorum.	2020-04-18	Liber_Sapientiae
+1100000141	mulieres eorum insensatae sunt,	2020-04-18	Liber_Sapientiae
+1100000142	et nequissimi filii eorum.	2020-04-18	Liber_Sapientiae
+1100000143	maledicta creatura eorum, quoniam felix est sterilis;	2020-04-18	Liber_Sapientiae
+1100000144	et incoinquinata, quae nescivit thorum in delicto,	2020-04-18	Liber_Sapientiae
+1100000145	habebit fructum in respectione animarum sanctarum;	2020-04-18	Liber_Sapientiae
+1100000146	et spado qui non operatus est per manus suas iniquitatem,	2020-04-18	Liber_Sapientiae
+1100000147	nec cogitavit adversus deum nequissima:	2020-04-18	Liber_Sapientiae
+1100000148	dabitur enim illi fidei donum electum,	2020-04-18	Liber_Sapientiae
+1100000149	et sors in templo dei acceptissima.	2020-04-18	Liber_Sapientiae
+1100000150	bonorum enim laborum gloriosus est fructus,	2020-04-18	Liber_Sapientiae
+1100000151	et quae non concidat radix sapientiae.	2020-04-18	Liber_Sapientiae
+1100000152	filii autem adulterorum in inconsummatione erunt,	2020-04-18	Liber_Sapientiae
+1100000153	et ab iniquo thoro semen exterminabitur.	2020-04-18	Liber_Sapientiae
+1100000154	et si quidem longae vitae erunt, in nihilum computabuntur,	2020-04-18	Liber_Sapientiae
+1100000155	et sine honore erit novissima senectus illorum:	2020-04-18	Liber_Sapientiae
+1100000156	et si celerius defuncti fuerint, non habebunt spem,	2020-04-18	Liber_Sapientiae
+1100000157	nec in die agnitionis allocutionem.	2020-04-18	Liber_Sapientiae
+1100000158	nationis enim iniquae dirae sunt consummationes.	2020-04-18	Liber_Sapientiae
+1100000159	caput 4	2020-04-18	Liber_Sapientiae
+1100000160	o quam pulchra est casta generatio, cum claritate!	2020-04-18	Liber_Sapientiae
+1100000161	immortalis est enim memoria illius,	2020-04-18	Liber_Sapientiae
+1100000162	quoniam et apud deum nota est, et apud homines.	2020-04-18	Liber_Sapientiae
+1100000163	cum praesens est, imitantur illam,	2020-04-18	Liber_Sapientiae
+1100000164	et desiderant eam cum se eduxerit;	2020-04-18	Liber_Sapientiae
+1100000165	et in perpetuum coronata triumphat,	2020-04-18	Liber_Sapientiae
+1100000166	incoinquinatorum certaminum praemium vincens.	2020-04-18	Liber_Sapientiae
+1100000167	multigena autem impiorum multitudo non erit utilis,	2020-04-18	Liber_Sapientiae
+1100000168	et spuria vitulamina non dabunt radices altas,	2020-04-18	Liber_Sapientiae
+1100000169	nec stabile firmamentum collocabunt.	2020-04-18	Liber_Sapientiae
+1100000170	etsi in ramis in tempore germinaverint,	2020-04-18	Liber_Sapientiae
+1100000171	infirmiter posita, a vento commovebuntur,	2020-04-18	Liber_Sapientiae
+1100000172	et a nimietate ventorum eradicabuntur.	2020-04-18	Liber_Sapientiae
+1100000173	confringentur enim rami inconsummati;	2020-04-18	Liber_Sapientiae
+1100000174	et fructus illorum inutiles et acerbi ad manducandum,	2020-04-18	Liber_Sapientiae
+1100000175	et ad nihilum apti.	2020-04-18	Liber_Sapientiae
+1100000176	ex iniquis enim somnis filii qui nascuntur,	2020-04-18	Liber_Sapientiae
+1100000177	testes sunt nequitiae adversus parentes in interrogatione sua.	2020-04-18	Liber_Sapientiae
+1100000178	iustus autem si morte praeoccupatus fuerit,	2020-04-18	Liber_Sapientiae
+1100000179	in refrigerio erit;	2020-04-18	Liber_Sapientiae
+1100000180	senectus enim venerabilis est non diuturna,	2020-04-18	Liber_Sapientiae
+1100000181	neque annorum numero computata:	2020-04-18	Liber_Sapientiae
+1100000182	cani autem sunt sensus hominis,	2020-04-18	Liber_Sapientiae
+1100000183	et aetas senectutis vita immaculata.	2020-04-18	Liber_Sapientiae
+1100000184	placens deo factus est dilectus,	2020-04-18	Liber_Sapientiae
+1100000185	et vivens inter peccatores translatus est.	2020-04-18	Liber_Sapientiae
+1100000186	raptus est, ne malitia mutaret intellectum eius,	2020-04-18	Liber_Sapientiae
+1100000187	aut ne fictio deciperet animam illius.	2020-04-18	Liber_Sapientiae
+1100000188	fascinatio enim nugacitatis obscurat bona,	2020-04-18	Liber_Sapientiae
+1100000189	et inconstantia concupiscentiae transvertit sensum sine malitia.	2020-04-18	Liber_Sapientiae
+1100000190	consummatus in brevi,	2020-04-18	Liber_Sapientiae
+1100000191	explevit tempora multa;	2020-04-18	Liber_Sapientiae
+1100000192	placita enim erat deo anima illius:	2020-04-18	Liber_Sapientiae
+1100000193	propter hoc properavit educere illum de medio iniquitatum.	2020-04-18	Liber_Sapientiae
+1100000194	populi autem videntes, et non intelligentes,	2020-04-18	Liber_Sapientiae
+1100000195	nec ponentes in praecordiis talia,	2020-04-18	Liber_Sapientiae
+1100000196	quoniam gratia dei et misericordia est in sanctos eius,	2020-04-18	Liber_Sapientiae
+1100000197	et respectus in electos illius.	2020-04-18	Liber_Sapientiae
+1100000198	condemnat autem iustus mortuus vivos impios,	2020-04-18	Liber_Sapientiae
+1100000199	et iuventus celerius consummata longam vitam iniusti.	2020-04-18	Liber_Sapientiae
+1100000200	videbunt enim finem sapientis,	2020-04-18	Liber_Sapientiae
+1100000201	et non intelligent quid cogitaverit de illo deus,	2020-04-18	Liber_Sapientiae
+1100000202	et quare munierit illum dominus.	2020-04-18	Liber_Sapientiae
+1100000203	videbunt, et contemnent eum;	2020-04-18	Liber_Sapientiae
+1100000204	illos autem dominus irridebit.	2020-04-18	Liber_Sapientiae
+1100000205	et erunt post haec decidentes sine honore,	2020-04-18	Liber_Sapientiae
+1100000206	et in contumelia inter mortuos in perpetuum:	2020-04-18	Liber_Sapientiae
+1100000207	quoniam disrumpet illos inflatos sine voce,	2020-04-18	Liber_Sapientiae
+1100000208	et commovebit illos a fundamentis,	2020-04-18	Liber_Sapientiae
+1100000209	et usque ad supremum desolabuntur,	2020-04-18	Liber_Sapientiae
+1100000210	et erunt gementes, et memoria illorum peribit.	2020-04-18	Liber_Sapientiae
+1100000211	venient in cogitatione peccatorum suorum timidi,	2020-04-18	Liber_Sapientiae
+1100000212	et traducent illos ex adverso iniquitates ipsorum.	2020-04-18	Liber_Sapientiae
+1100000213	caput 5	2020-04-18	Liber_Sapientiae
+1100000214	tunc stabunt iusti in magna constantia	2020-04-18	Liber_Sapientiae
+1100000215	adversus eos qui se angustiaverunt,	2020-04-18	Liber_Sapientiae
+1100000216	et qui abstulerunt labores eorum.	2020-04-18	Liber_Sapientiae
+1100000217	videntes turbabuntur timore horribili,	2020-04-18	Liber_Sapientiae
+1100000218	et mirabuntur in subitatione insperatae salutis;	2020-04-18	Liber_Sapientiae
+1100000219	dicentes intra se, poenitentiam agentes,	2020-04-18	Liber_Sapientiae
+1100000220	et prae angustia spiritus gementes:	2020-04-18	Liber_Sapientiae
+1100000221	hi sunt quos habuimus aliquando in derisum,	2020-04-18	Liber_Sapientiae
+1100000222	et in similitudinem improperii.	2020-04-18	Liber_Sapientiae
+1100000223	nos insensati, vitam illorum aestimabamus insaniam,	2020-04-18	Liber_Sapientiae
+1100000224	et finem illorum sine honore;	2020-04-18	Liber_Sapientiae
+1100000225	ecce quomodo computati sunt inter filios dei,	2020-04-18	Liber_Sapientiae
+1100000226	et inter sanctos sors illorum est.	2020-04-18	Liber_Sapientiae
+1100000227	ergo erravimus a via veritatis,	2020-04-18	Liber_Sapientiae
+1100000228	et iustitiae lumen non luxit nobis,	2020-04-18	Liber_Sapientiae
+1100000229	et sol intelligentiae non est ortus nobis.	2020-04-18	Liber_Sapientiae
+1100000230	lassati sumus in via iniquitatis et perditionis,	2020-04-18	Liber_Sapientiae
+1100000231	et ambulavimus vias difficiles:	2020-04-18	Liber_Sapientiae
+1100000232	viam autem domini ignoravimus.	2020-04-18	Liber_Sapientiae
+1100000233	quid nobis profuit superbia?	2020-04-18	Liber_Sapientiae
+1100000234	aut divitiarum iactantia quid contulit nobis?	2020-04-18	Liber_Sapientiae
+1100000235	transierunt omnia illa tamquam umbra,	2020-04-18	Liber_Sapientiae
+1100000236	et tamquam nuntius percurrens,	2020-04-18	Liber_Sapientiae
+1100000237	et tamquam navis quae pertransit fluctuantem aquam,	2020-04-18	Liber_Sapientiae
+1100000238	cuius cum praeterierit non est vestigium invenire,	2020-04-18	Liber_Sapientiae
+1100000239	neque semitam carinae illius in fluctibus;	2020-04-18	Liber_Sapientiae
+1100000240	aut tamquam avis quae transvolat in aere,	2020-04-18	Liber_Sapientiae
+1100000241	cuius nullum invenitur argumentum itineris,	2020-04-18	Liber_Sapientiae
+1100000242	sed tantum sonitus alarum verberans levem ventum,	2020-04-18	Liber_Sapientiae
+1100000243	et scindens per vim itineris aerem:	2020-04-18	Liber_Sapientiae
+1100000244	commotis alis transvolavit,	2020-04-18	Liber_Sapientiae
+1100000245	et post hoc nullum signum invenitur itineris illius;	2020-04-18	Liber_Sapientiae
+1100000246	aut tamquam sagitta emissa in locum destinatum,	2020-04-18	Liber_Sapientiae
+1100000247	divisus aer continuo in se reclusus est,	2020-04-18	Liber_Sapientiae
+1100000248	ut ignoretur transitus illius:	2020-04-18	Liber_Sapientiae
+1100000249	sic et nos nati continuo desivimus esse;	2020-04-18	Liber_Sapientiae
+1100000250	et virtutis quidem nullum signum valuimus ostendere,	2020-04-18	Liber_Sapientiae
+1100000251	in malignitate autem nostra consumpti sumus.	2020-04-18	Liber_Sapientiae
+1100000252	talia dixerunt in inferno hi qui peccaverunt:	2020-04-18	Liber_Sapientiae
+1100000253	quoniam spes impii tamquam lanugo est quae a vento tollitur,	2020-04-18	Liber_Sapientiae
+1100000254	et tamquam spuma gracilis quae a procella dispergitur,	2020-04-18	Liber_Sapientiae
+1100000255	et tamquam fumus qui a vento diffusus est,	2020-04-18	Liber_Sapientiae
+1100000256	et tamquam memoria hospitis unius diei praetereuntis.	2020-04-18	Liber_Sapientiae
+1100000257	iusti autem in perpetuum vivent,	2020-04-18	Liber_Sapientiae
+1100000258	et apud dominum est merces eorum,	2020-04-18	Liber_Sapientiae
+1100000259	et cogitatio illorum apud altissimum.	2020-04-18	Liber_Sapientiae
+1100000260	ideo accipient regnum decoris,	2020-04-18	Liber_Sapientiae
+1100000261	et diadema speciei de manu domini:	2020-04-18	Liber_Sapientiae
+1100000262	quoniam dextera sua teget eos,	2020-04-18	Liber_Sapientiae
+1100000263	et brachio sancto suo defendet illos.	2020-04-18	Liber_Sapientiae
+1100000264	accipiet armaturam zelus illius,	2020-04-18	Liber_Sapientiae
+1100000265	et armabit creaturam ad ultionem inimicorum.	2020-04-18	Liber_Sapientiae
+1100000266	induet pro thorace iustitiam,	2020-04-18	Liber_Sapientiae
+1100000267	et accipiet pro galea iudicium certum;	2020-04-18	Liber_Sapientiae
+1100000268	sumet scutum inexpugnabile aequitatem.	2020-04-18	Liber_Sapientiae
+1100000269	acuet autem duram iram in lanceam,	2020-04-18	Liber_Sapientiae
+1100000270	et pugnabit cum illo orbis terrarum contra insensatos.	2020-04-18	Liber_Sapientiae
+1100000271	ibunt directe emissiones fulgurum,	2020-04-18	Liber_Sapientiae
+1100000272	et tamquam a bene curvato arcu nubium exterminabuntur,	2020-04-18	Liber_Sapientiae
+1100000273	et ad certum locum insilient.	2020-04-18	Liber_Sapientiae
+1100000274	et a petrosa ira plenae mittentur grandines;	2020-04-18	Liber_Sapientiae
+1100000275	excandescet in illos aqua maris,	2020-04-18	Liber_Sapientiae
+1100000276	et flumina concurrent duriter.	2020-04-18	Liber_Sapientiae
+1100000277	contra illos stabit spiritus virtutis,	2020-04-18	Liber_Sapientiae
+1100000278	et tamquam turbo venti dividet illos;	2020-04-18	Liber_Sapientiae
+1100000279	et ad eremum perducet omnem terram iniquitas illorum,	2020-04-18	Liber_Sapientiae
+1100000280	et malignitas evertet sedes potentium.	2020-04-18	Liber_Sapientiae
+1100000281	caput 6	2020-04-18	Liber_Sapientiae
+1100000282	melior est sapientia quam vires,	2020-04-18	Liber_Sapientiae
+1100000283	et vir prudens quam fortis.	2020-04-18	Liber_Sapientiae
+1100000284	audite ergo, reges, et intelligite;	2020-04-18	Liber_Sapientiae
+1100000285	discite, iudices finium terrae.	2020-04-18	Liber_Sapientiae
+1100000286	praebete aures, vos qui continetis multitudines,	2020-04-18	Liber_Sapientiae
+1100000287	et placetis vobis in turbis nationum.	2020-04-18	Liber_Sapientiae
+1100000288	quoniam data est a domino potestas vobis,	2020-04-18	Liber_Sapientiae
+1100000289	et virtus ab altissimo:	2020-04-18	Liber_Sapientiae
+1100000290	qui interrogabit opera vestra, et cogitationes scrutabitur.	2020-04-18	Liber_Sapientiae
+1100000291	quoniam cum essetis ministri regni illius,	2020-04-18	Liber_Sapientiae
+1100000292	non recte iudicastis, nec custodistis legem iustitiae,	2020-04-18	Liber_Sapientiae
+1100000293	neque secundum voluntatem dei ambulastis.	2020-04-18	Liber_Sapientiae
+1100000294	horrende et cito apparebit vobis,	2020-04-18	Liber_Sapientiae
+1100000295	quoniam iudicium durissimum his qui praesunt fiet.	2020-04-18	Liber_Sapientiae
+1100000296	exiguo enim conceditur misericordia;	2020-04-18	Liber_Sapientiae
+1100000297	potentes autem potenter tormenta patientur.	2020-04-18	Liber_Sapientiae
+1100000298	non enim subtrahet personam cuiusquam deus,	2020-04-18	Liber_Sapientiae
+1100000299	nec verebitur magnitudinem eius cuiusquam,	2020-04-18	Liber_Sapientiae
+1100000300	quoniam pusillum et magnum ipse fecit,	2020-04-18	Liber_Sapientiae
+1100000301	et aequaliter cura est illi de omnibus.	2020-04-18	Liber_Sapientiae
+1100000302	fortioribus autem fortior instat cruciatio.	2020-04-18	Liber_Sapientiae
+1100000303	ad vos ergo, reges, sunt hi sermones mei:	2020-04-18	Liber_Sapientiae
+1100000304	ut discatis sapientiam, et non excidatis.	2020-04-18	Liber_Sapientiae
+1100000305	qui enim custodierint iusta iuste, iustificabuntur;	2020-04-18	Liber_Sapientiae
+1100000306	et qui didicerint ista, invenient quid respondeant.	2020-04-18	Liber_Sapientiae
+1100000307	concupiscite ergo sermones meos;	2020-04-18	Liber_Sapientiae
+1100000308	diligite illos, et habebitis disciplinam.	2020-04-18	Liber_Sapientiae
+1100000309	clara est, et quae numquam marcescit, sapientia:	2020-04-18	Liber_Sapientiae
+1100000310	et facile videtur ab his qui diligunt eam,	2020-04-18	Liber_Sapientiae
+1100000311	et invenitur ab his qui quaerunt illam.	2020-04-18	Liber_Sapientiae
+1100000312	praeoccupat qui se concupiscunt,	2020-04-18	Liber_Sapientiae
+1100000313	ut illis se prior ostendat.	2020-04-18	Liber_Sapientiae
+1100000314	qui de luce vigilaverit ad illam non laborabit;	2020-04-18	Liber_Sapientiae
+1100000315	assidentem enim illam foribus suis inveniet.	2020-04-18	Liber_Sapientiae
+1100000316	cogitare ergo de illa sensus est consummatus,	2020-04-18	Liber_Sapientiae
+1100000317	et qui vigilaverit propter illam cito securus erit.	2020-04-18	Liber_Sapientiae
+1100000318	quoniam dignos se ipsa circuit quaerens,	2020-04-18	Liber_Sapientiae
+1100000319	et in viis ostendit se hilariter,	2020-04-18	Liber_Sapientiae
+1100000320	et in omni providentia occurrit illis.	2020-04-18	Liber_Sapientiae
+1100000321	initium enim illius verissima est disciplinae concupiscentia.	2020-04-18	Liber_Sapientiae
+1100000322	cura ergo disciplinae dilectio est,	2020-04-18	Liber_Sapientiae
+1100000323	et dilectio custodia legum illius est;	2020-04-18	Liber_Sapientiae
+1100000324	custoditio autem legum consummatio incorruptionis est;	2020-04-18	Liber_Sapientiae
+1100000325	incorruptio autem facit esse proximum deo.	2020-04-18	Liber_Sapientiae
+1100000326	concupiscentia itaque sapientiae deducit ad regnum perpetuum.	2020-04-18	Liber_Sapientiae
+1100000327	si ergo delectamini sedibus et sceptris, o reges populi,	2020-04-18	Liber_Sapientiae
+1100000328	diligite sapientiam, ut in perpetuum regnetis:	2020-04-18	Liber_Sapientiae
+1100000329	diligite lumen sapientiae, omnes qui praeestis populis.	2020-04-18	Liber_Sapientiae
+1100000330	quid est autem sapientia, et quemadmodum facta sit, referam,	2020-04-18	Liber_Sapientiae
+1100000331	et non abscondam a vobis sacramenta dei:	2020-04-18	Liber_Sapientiae
+1100000332	sed ab initio nativitatis investigabo,	2020-04-18	Liber_Sapientiae
+1100000333	et ponam in lucem scientiam illius,	2020-04-18	Liber_Sapientiae
+1100000334	et non praeteribo veritatem.	2020-04-18	Liber_Sapientiae
+1100000335	neque cum invidia tabescente iter habebo,	2020-04-18	Liber_Sapientiae
+1100000336	quoniam talis homo non erit particeps sapientiae.	2020-04-18	Liber_Sapientiae
+1100000337	multitudo autem sapientium sanitas est orbis terrarum,	2020-04-18	Liber_Sapientiae
+1100000338	et rex sapiens stabilimentum populi est.	2020-04-18	Liber_Sapientiae
+1100000339	ergo accipite disciplinam per sermones meos,	2020-04-18	Liber_Sapientiae
+1100000340	et proderit vobis.	2020-04-18	Liber_Sapientiae
+1100000341	caput 7	2020-04-18	Liber_Sapientiae
+1100000342	sum quidem et ego mortalis homo, similis omnibus,	2020-04-18	Liber_Sapientiae
+1100000343	et ex genere terreni illius qui prior factus est:	2020-04-18	Liber_Sapientiae
+1100000344	et in ventre matris figuratus sum caro;	2020-04-18	Liber_Sapientiae
+1100000345	decem mensium tempore coagulatus sum in sanguine:	2020-04-18	Liber_Sapientiae
+1100000346	ex semine hominis, et delectamento somni conveniente.	2020-04-18	Liber_Sapientiae
+1100000347	et ego natus accepi communem aerem,	2020-04-18	Liber_Sapientiae
+1100000348	et in similiter factam decidi terram,	2020-04-18	Liber_Sapientiae
+1100000349	et primam vocem similem omnibus emisi plorans.	2020-04-18	Liber_Sapientiae
+1100000350	in involumentis nutritus sum, et curis magnis:	2020-04-18	Liber_Sapientiae
+1100000351	nemo enim ex regibus aliud habuit nativitatis initium.	2020-04-18	Liber_Sapientiae
+1100000352	unus ergo introitus est omnibus ad vitam,	2020-04-18	Liber_Sapientiae
+1100000353	et similis exitus.	2020-04-18	Liber_Sapientiae
+1100000354	propter hoc optavi, et datus est mihi sensus;	2020-04-18	Liber_Sapientiae
+1100000355	et invocavi, et venit in me spiritus sapientiae:	2020-04-18	Liber_Sapientiae
+1100000356	et praeposui illam regnis et sedibus,	2020-04-18	Liber_Sapientiae
+1100000357	et divitias nihil esse duxi in comparatione illius.	2020-04-18	Liber_Sapientiae
+1100000358	nec comparavi illi lapidem pretiosum,	2020-04-18	Liber_Sapientiae
+1100000359	quoniam omne aurum in comparatione illius arena est exigua,	2020-04-18	Liber_Sapientiae
+1100000360	et tamquam lutum aestimabitur argentum in conspectu illius.	2020-04-18	Liber_Sapientiae
+1100000361	super salutem et speciem dilexi illam,	2020-04-18	Liber_Sapientiae
+1100000362	et proposui pro luce habere illam,	2020-04-18	Liber_Sapientiae
+1100000363	quoniam inextinguibile est lumen illius.	2020-04-18	Liber_Sapientiae
+1100000364	venerunt autem mihi omnia bona pariter cum illa,	2020-04-18	Liber_Sapientiae
+1100000365	et innumerabilis honestas per manus illius;	2020-04-18	Liber_Sapientiae
+1100000366	et laetatus sum in omnibus,	2020-04-18	Liber_Sapientiae
+1100000367	quoniam antecedebat me ista sapientia,	2020-04-18	Liber_Sapientiae
+1100000368	et ignorabam quoniam horum omnium mater est.	2020-04-18	Liber_Sapientiae
+1100000369	quam sine fictione didici,	2020-04-18	Liber_Sapientiae
+1100000370	et sine invidia communico,	2020-04-18	Liber_Sapientiae
+1100000371	et honestatem illius non abscondo.	2020-04-18	Liber_Sapientiae
+1100000372	infinitus enim thesaurus est hominibus;	2020-04-18	Liber_Sapientiae
+1100000373	quo qui usi sunt, participes facti sunt amicitiae dei,	2020-04-18	Liber_Sapientiae
+1100000374	propter disciplinae dona commendati.	2020-04-18	Liber_Sapientiae
+1100000375	mihi autem dedit deus dicere ex sententia,	2020-04-18	Liber_Sapientiae
+1100000376	et praesumere digna horum quae mihi dantur:	2020-04-18	Liber_Sapientiae
+1100000377	quoniam ipse sapientiae dux est,	2020-04-18	Liber_Sapientiae
+1100000378	et sapientium emendator.	2020-04-18	Liber_Sapientiae
+1100000379	in manu enim illius et nos et sermones nostri,	2020-04-18	Liber_Sapientiae
+1100000380	et omnis sapientia, et operum scientia, et disciplina.	2020-04-18	Liber_Sapientiae
+1100000381	ipse enim dedit mihi horum quae sunt scientiam veram,	2020-04-18	Liber_Sapientiae
+1100000382	ut sciam dispositionem orbis terrarum, et virtutes elementorum,	2020-04-18	Liber_Sapientiae
+1100000383	initium, et consummationem, et medietatem temporum,	2020-04-18	Liber_Sapientiae
+1100000384	vicissitudinum permutationes, et commutationes temporum,	2020-04-18	Liber_Sapientiae
+1100000385	anni cursus, et stellarum dispositiones,	2020-04-18	Liber_Sapientiae
+1100000386	naturas animalium, et iras bestiarum,	2020-04-18	Liber_Sapientiae
+1100000387	vim ventorum, et cogitationes hominum,	2020-04-18	Liber_Sapientiae
+1100000388	differentias virgultorum, et virtutes radicum.	2020-04-18	Liber_Sapientiae
+1100000389	et quaecumque sunt absconsa et improvisa didici:	2020-04-18	Liber_Sapientiae
+1100000390	omnium enim artifex docuit me sapientia.	2020-04-18	Liber_Sapientiae
+1100000391	est enim in illa spiritus intelligentiae,	2020-04-18	Liber_Sapientiae
+1100000392	sanctus, unicus, multiplex, subtilis,	2020-04-18	Liber_Sapientiae
+1100000393	disertus, mobilis, incoinquinatus, certus,	2020-04-18	Liber_Sapientiae
+1100000394	suavis, amans bonum, acutus,	2020-04-18	Liber_Sapientiae
+1100000395	quem nihil vetat, benefaciens,	2020-04-18	Liber_Sapientiae
+1100000396	humanus, benignus, stabilis, certus, securus,	2020-04-18	Liber_Sapientiae
+1100000397	omnem habens virtutem, omnia prospiciens,	2020-04-18	Liber_Sapientiae
+1100000398	et qui capiat omnes spiritus,	2020-04-18	Liber_Sapientiae
+1100000399	intelligibilis, mundus, subtilis.	2020-04-18	Liber_Sapientiae
+1100000400	omnibus enim mobilibus mobilior est sapientia:	2020-04-18	Liber_Sapientiae
+1100000401	attingit autem ubique propter suam munditiam.	2020-04-18	Liber_Sapientiae
+1100000402	vapor est enim virtutis dei,	2020-04-18	Liber_Sapientiae
+1100000403	et emanatio quaedam est claritatis omnipotentis dei sincera,	2020-04-18	Liber_Sapientiae
+1100000404	et ideo nihil inquinatum in eam incurrit:	2020-04-18	Liber_Sapientiae
+1100000405	candor est enim lucis aeternae,	2020-04-18	Liber_Sapientiae
+1100000406	et speculum sine macula dei maiestatis,	2020-04-18	Liber_Sapientiae
+1100000407	et imago bonitatis illius.	2020-04-18	Liber_Sapientiae
+1100000408	et cum sit una, omnia potest;	2020-04-18	Liber_Sapientiae
+1100000409	et in se permanens omnia innovat:	2020-04-18	Liber_Sapientiae
+1100000410	et per nationes in animas sanctas se transfert;	2020-04-18	Liber_Sapientiae
+1100000411	amicos dei et prophetas constituit.	2020-04-18	Liber_Sapientiae
+1100000412	neminem enim diligit deus,	2020-04-18	Liber_Sapientiae
+1100000413	nisi eum qui cum sapientia inhabitat.	2020-04-18	Liber_Sapientiae
+1100000414	est enim haec speciosior sole,	2020-04-18	Liber_Sapientiae
+1100000415	et super omnem dispositionem stellarum:	2020-04-18	Liber_Sapientiae
+1100000416	luci comparata, invenitur prior.	2020-04-18	Liber_Sapientiae
+1100000417	illi enim succedit nox;	2020-04-18	Liber_Sapientiae
+1100000418	sapientiam autem non vincit malitia.	2020-04-18	Liber_Sapientiae
+1100000419	caput 8	2020-04-18	Liber_Sapientiae
+1100000420	attingit ergo a fine usque ad finem fortiter,	2020-04-18	Liber_Sapientiae
+1100000421	et disponit omnia suaviter.	2020-04-18	Liber_Sapientiae
+1100000422	hanc amavi, et exquisivi a iuventute mea,	2020-04-18	Liber_Sapientiae
+1100000423	et quaesivi sponsam mihi eam assumere,	2020-04-18	Liber_Sapientiae
+1100000424	et amator factus sum formae illius.	2020-04-18	Liber_Sapientiae
+1100000425	generositatem illius glorificat,	2020-04-18	Liber_Sapientiae
+1100000426	contubernium habens dei;	2020-04-18	Liber_Sapientiae
+1100000427	sed et omnium dominus dilexit illam.	2020-04-18	Liber_Sapientiae
+1100000428	doctrix enim est disciplinae dei,	2020-04-18	Liber_Sapientiae
+1100000429	et electrix operum illius.	2020-04-18	Liber_Sapientiae
+1100000430	et si divitiae appetuntur in vita,	2020-04-18	Liber_Sapientiae
+1100000431	quid sapientia locupletius quae operatur omnia?	2020-04-18	Liber_Sapientiae
+1100000432	si autem sensus operatur,	2020-04-18	Liber_Sapientiae
+1100000433	quis horum quae sunt magis quam illa est artifex?	2020-04-18	Liber_Sapientiae
+1100000434	et si iustitiam quis diligit,	2020-04-18	Liber_Sapientiae
+1100000435	labores huius magnas habent virtutes:	2020-04-18	Liber_Sapientiae
+1100000436	sobrietatem enim et prudentiam docet,	2020-04-18	Liber_Sapientiae
+1100000437	et iustitiam, et virtutem,	2020-04-18	Liber_Sapientiae
+1100000438	quibus utilius nihil est in vita hominibus.	2020-04-18	Liber_Sapientiae
+1100000439	et si multitudinem scientiae desiderat quis,	2020-04-18	Liber_Sapientiae
+1100000440	scit praeterita, et de futuris aestimat;	2020-04-18	Liber_Sapientiae
+1100000441	scit versutias sermonum, et dissolutiones argumentorum;	2020-04-18	Liber_Sapientiae
+1100000442	signa et monstra scit antequam fiant,	2020-04-18	Liber_Sapientiae
+1100000443	et eventus temporum et saeculorum.	2020-04-18	Liber_Sapientiae
+1100000444	proposui ergo hanc adducere mihi ad convivendum,	2020-04-18	Liber_Sapientiae
+1100000445	sciens quoniam mecum communicabit de bonis,	2020-04-18	Liber_Sapientiae
+1100000446	et erit allocutio cogitationis et taedii mei.	2020-04-18	Liber_Sapientiae
+1100000447	habebo propter hanc claritatem ad turbas,	2020-04-18	Liber_Sapientiae
+1100000448	et honorem apud seniores iuvenis;	2020-04-18	Liber_Sapientiae
+1100000449	et acutus inveniar in iudicio,	2020-04-18	Liber_Sapientiae
+1100000450	et in conspectu potentium admirabilis ero,	2020-04-18	Liber_Sapientiae
+1100000451	et facies principum mirabuntur me:	2020-04-18	Liber_Sapientiae
+1100000452	tacentem me sustinebunt,	2020-04-18	Liber_Sapientiae
+1100000453	et loquentem me respicient,	2020-04-18	Liber_Sapientiae
+1100000454	et sermocinante me plura, manus ori suo imponent.	2020-04-18	Liber_Sapientiae
+1100000455	praeterea habebo per hanc immortalitatem,	2020-04-18	Liber_Sapientiae
+1100000456	et memoriam aeternam his qui post me futuri sunt relinquam.	2020-04-18	Liber_Sapientiae
+1100000457	disponam populos,	2020-04-18	Liber_Sapientiae
+1100000458	et nationes mihi erunt subditae:	2020-04-18	Liber_Sapientiae
+1100000459	timebunt me audientes reges horrendi.	2020-04-18	Liber_Sapientiae
+1100000460	in multitudine videbor bonus,	2020-04-18	Liber_Sapientiae
+1100000461	et in bello fortis.	2020-04-18	Liber_Sapientiae
+1100000462	intrans in domum meam, conquiescam cum illa:	2020-04-18	Liber_Sapientiae
+1100000463	non enim habet amaritudinem conversatio illius,	2020-04-18	Liber_Sapientiae
+1100000464	nec taedium convictus illius,	2020-04-18	Liber_Sapientiae
+1100000465	sed laetitiam et gaudium.	2020-04-18	Liber_Sapientiae
+1100000466	haec cogitans apud me	2020-04-18	Liber_Sapientiae
+1100000467	et commemorans in corde meo,	2020-04-18	Liber_Sapientiae
+1100000468	quoniam immortalitas est in cognatione sapientiae,	2020-04-18	Liber_Sapientiae
+1100000469	et in amicitia illius delectatio bona,	2020-04-18	Liber_Sapientiae
+1100000470	et in operibus manuum illius honestas sine defectione,	2020-04-18	Liber_Sapientiae
+1100000471	et in certamine loquelae illius sapientia,	2020-04-18	Liber_Sapientiae
+1100000472	et praeclaritas in communicatione sermonum ipsius:	2020-04-18	Liber_Sapientiae
+1100000473	circuibam quaerens, ut mihi illam assumerem.	2020-04-18	Liber_Sapientiae
+1100000474	puer autem eram ingeniosus,	2020-04-18	Liber_Sapientiae
+1100000475	et sortitus sum animam bonam.	2020-04-18	Liber_Sapientiae
+1100000476	et cum essem magis bonus,	2020-04-18	Liber_Sapientiae
+1100000477	veni ad corpus incoinquinatum.	2020-04-18	Liber_Sapientiae
+1100000478	et ut scivi quoniam aliter non possem esse continens, nisi deus det;	2020-04-18	Liber_Sapientiae
+1100000479	et hoc ipsum erat sapientiae, scire cuius esset hoc donum:	2020-04-18	Liber_Sapientiae
+1100000480	adii dominum, et deprecatus sum illum,	2020-04-18	Liber_Sapientiae
+1100000481	et dixi ex totis praecordiis meis:	2020-04-18	Liber_Sapientiae
+1100000482	caput 9	2020-04-18	Liber_Sapientiae
+1100000483	deus patrum meorum, et domine misericordiae,	2020-04-18	Liber_Sapientiae
+1100000484	qui fecisti omnia verbo tuo,	2020-04-18	Liber_Sapientiae
+1100000485	et sapientia tua constituisti hominem,	2020-04-18	Liber_Sapientiae
+1100000486	ut dominaretur creaturae quae a te facta est,	2020-04-18	Liber_Sapientiae
+1100000487	ut disponat orbem terrarum in aequitate et iustitia,	2020-04-18	Liber_Sapientiae
+1100000488	et in directione cordis iudicium iudicet:	2020-04-18	Liber_Sapientiae
+1100000489	da mihi sedium tuarum assistricem sapientiam,	2020-04-18	Liber_Sapientiae
+1100000490	et noli me reprobare a pueris tuis:	2020-04-18	Liber_Sapientiae
+1100000491	quoniam servus tuus sum ego, et filius ancillae tuae;	2020-04-18	Liber_Sapientiae
+1100000492	homo infirmus, et exigui temporis,	2020-04-18	Liber_Sapientiae
+1100000493	et minor ad intellectum iudicii et legum.	2020-04-18	Liber_Sapientiae
+1100000494	nam etsi quis erit consummatus inter filios hominum,	2020-04-18	Liber_Sapientiae
+1100000495	si ab illo abfuerit sapientia tua, in nihilum computabitur.	2020-04-18	Liber_Sapientiae
+1100000496	tu elegisti me regem populo tuo,	2020-04-18	Liber_Sapientiae
+1100000497	et iudicem filiorum tuorum et filiarum:	2020-04-18	Liber_Sapientiae
+1100000498	et dixisti me aedificare templum in monte sancto tuo,	2020-04-18	Liber_Sapientiae
+1100000499	et in civitate habitationis tuae altare:	2020-04-18	Liber_Sapientiae
+1100000500	similitudinem tabernaculi sancti tui quod praeparasti ab initio.	2020-04-18	Liber_Sapientiae
+1100000501	et tecum sapientia tua, quae novit opera tua,	2020-04-18	Liber_Sapientiae
+1100000502	quae et affuit tunc cum orbem terrarum faceres,	2020-04-18	Liber_Sapientiae
+1100000503	et sciebat quid esset placitum oculis tuis,	2020-04-18	Liber_Sapientiae
+1100000504	et quid directum in praeceptis tuis.	2020-04-18	Liber_Sapientiae
+1100000505	mitte illam de caelis sanctis tuis,	2020-04-18	Liber_Sapientiae
+1100000506	et a sede magnitudinis tuae,	2020-04-18	Liber_Sapientiae
+1100000507	ut mecum sit et mecum laboret,	2020-04-18	Liber_Sapientiae
+1100000508	ut sciam quid acceptum sit apud te:	2020-04-18	Liber_Sapientiae
+1100000509	scit enim illa omnia, et intelligit,	2020-04-18	Liber_Sapientiae
+1100000510	et deducet me in operibus meis sobrie,	2020-04-18	Liber_Sapientiae
+1100000511	et custodiet me in sua potentia.	2020-04-18	Liber_Sapientiae
+1100000512	et erunt accepta opera mea,	2020-04-18	Liber_Sapientiae
+1100000513	et disponam populum tuum iuste,	2020-04-18	Liber_Sapientiae
+1100000514	et ero dignus sedium patris mei.	2020-04-18	Liber_Sapientiae
+1100000515	quis enim hominum poterit scire consilium dei?	2020-04-18	Liber_Sapientiae
+1100000516	aut quis poterit cogitare quid velit deus?	2020-04-18	Liber_Sapientiae
+1100000517	cogitationes enim mortalium timidae,	2020-04-18	Liber_Sapientiae
+1100000518	et incertae providentiae nostrae;	2020-04-18	Liber_Sapientiae
+1100000519	corpus enim quod corrumpitur aggravat animam,	2020-04-18	Liber_Sapientiae
+1100000520	et terrena inhabitatio deprimit sensum multa cogitantem.	2020-04-18	Liber_Sapientiae
+1100000521	et difficile aestimamus quae in terra sunt,	2020-04-18	Liber_Sapientiae
+1100000522	et quae in prospectu sunt invenimus cum labore:	2020-04-18	Liber_Sapientiae
+1100000523	quae autem in caelis sunt, quis investigabit?	2020-04-18	Liber_Sapientiae
+1100000524	sensum autem tuum, quis sciet, nisi tu dederis sapientiam,	2020-04-18	Liber_Sapientiae
+1100000525	et miseris spiritum sanctum tuum de altissimis,	2020-04-18	Liber_Sapientiae
+1100000526	et sic correctae sint semitae eorum qui sunt in terris,	2020-04-18	Liber_Sapientiae
+1100000527	et quae tibi placent didicerint homines?	2020-04-18	Liber_Sapientiae
+1100000528	nam per sapientiam sanati sunt	2020-04-18	Liber_Sapientiae
+1100000529	quicumque placuerunt tibi, domine, a principio.	2020-04-18	Liber_Sapientiae
+1100000530	caput 10	2020-04-18	Liber_Sapientiae
+1100000531	haec illum qui primus formatus est a deo patre orbis terrarum,	2020-04-18	Liber_Sapientiae
+1100000532	cum solus esset creatus, custodivit,	2020-04-18	Liber_Sapientiae
+1100000533	et eduxit illum a delicto suo,	2020-04-18	Liber_Sapientiae
+1100000534	et dedit illi virtutem continendi omnia.	2020-04-18	Liber_Sapientiae
+1100000535	ab hac ut recessit iniustus in ira sua,	2020-04-18	Liber_Sapientiae
+1100000536	per iram homicidii fraterni deperiit.	2020-04-18	Liber_Sapientiae
+1100000537	propter quem cum aqua deleret terram, sanavit iterum sapientia,	2020-04-18	Liber_Sapientiae
+1100000538	per contemptibile lignum iustum gubernans.	2020-04-18	Liber_Sapientiae
+1100000539	haec et in consensu nequitiae, cum se nationes contulissent,	2020-04-18	Liber_Sapientiae
+1100000540	scivit iustum, et conservavit sine querela deo,	2020-04-18	Liber_Sapientiae
+1100000541	et in filii misericordia fortem custodivit.	2020-04-18	Liber_Sapientiae
+1100000542	haec iustum a pereuntibus impiis liberavit fugientem,	2020-04-18	Liber_Sapientiae
+1100000543	descendente igne in pentapolim:	2020-04-18	Liber_Sapientiae
+1100000544	quibus in testimonium nequitiae	2020-04-18	Liber_Sapientiae
+1100000545	fumigabunda constat deserta terra,	2020-04-18	Liber_Sapientiae
+1100000546	et incerto tempore fructus habentes arbores:	2020-04-18	Liber_Sapientiae
+1100000547	et incredibilis animae memoria stans figmentum salis.	2020-04-18	Liber_Sapientiae
+1100000548	sapientiam enim praetereuntes,	2020-04-18	Liber_Sapientiae
+1100000549	non tantum in hoc lapsi sunt ut ignorarent bona,	2020-04-18	Liber_Sapientiae
+1100000550	sed et insipientiae suae reliquerunt hominibus memoriam,	2020-04-18	Liber_Sapientiae
+1100000551	ut in his quae peccaverunt nec latere potuissent.	2020-04-18	Liber_Sapientiae
+1100000552	sapientia autem hos qui se observant	2020-04-18	Liber_Sapientiae
+1100000553	a doloribus liberavit.	2020-04-18	Liber_Sapientiae
+1100000554	haec profugum irae fratris iustum deduxit per vias rectas,	2020-04-18	Liber_Sapientiae
+1100000555	et ostendit illi regnum dei,	2020-04-18	Liber_Sapientiae
+1100000556	et dedit illi scientiam sanctorum;	2020-04-18	Liber_Sapientiae
+1100000557	honestavit illum in laboribus,	2020-04-18	Liber_Sapientiae
+1100000558	et complevit labores illius.	2020-04-18	Liber_Sapientiae
+1100000559	in fraude circumvenientium illum affuit illi,	2020-04-18	Liber_Sapientiae
+1100000560	et honestum fecit illum.	2020-04-18	Liber_Sapientiae
+1100000561	custodivit illum ab inimicis,	2020-04-18	Liber_Sapientiae
+1100000562	et a seductoribus tutavit illum:	2020-04-18	Liber_Sapientiae
+1100000563	et certamen forte dedit illi ut vinceret,	2020-04-18	Liber_Sapientiae
+1100000564	et sciret quoniam omnium potentior est sapientia.	2020-04-18	Liber_Sapientiae
+1100000565	haec venditum iustum non dereliquit,	2020-04-18	Liber_Sapientiae
+1100000566	sed a peccatoribus liberavit eum;	2020-04-18	Liber_Sapientiae
+1100000567	descenditque cum illo in foveam,	2020-04-18	Liber_Sapientiae
+1100000568	et in vinculis non dereliquit illum,	2020-04-18	Liber_Sapientiae
+1100000569	donec afferret illi sceptrum regni,	2020-04-18	Liber_Sapientiae
+1100000570	et potentiam adversus eos qui eum deprimebant:	2020-04-18	Liber_Sapientiae
+1100000571	et mendaces ostendit qui maculaverunt illum,	2020-04-18	Liber_Sapientiae
+1100000572	et dedit illi claritatem aeternam.	2020-04-18	Liber_Sapientiae
+1100000573	haec populum iustum et semen sine querela liberavit	2020-04-18	Liber_Sapientiae
+1100000574	a nationibus quae illum deprimebant.	2020-04-18	Liber_Sapientiae
+1100000575	intravit in animam servi dei,	2020-04-18	Liber_Sapientiae
+1100000576	et stetit contra reges horrendos in portentis et signis.	2020-04-18	Liber_Sapientiae
+1100000577	et reddidit iustis mercedem laborum suorum,	2020-04-18	Liber_Sapientiae
+1100000578	et deduxit illos in via mirabili:	2020-04-18	Liber_Sapientiae
+1100000579	et fuit illis in velamento diei,	2020-04-18	Liber_Sapientiae
+1100000580	et in luce stellarum per noctem;	2020-04-18	Liber_Sapientiae
+1100000581	transtulit illos per mare rubrum,	2020-04-18	Liber_Sapientiae
+1100000582	et transvexit illos per aquam nimiam.	2020-04-18	Liber_Sapientiae
+1100000583	inimicos autem illorum demersit in mare,	2020-04-18	Liber_Sapientiae
+1100000584	et ab altitudine inferorum eduxit illos.	2020-04-18	Liber_Sapientiae
+1100000585	ideo iusti tulerunt spolia impiorum,	2020-04-18	Liber_Sapientiae
+1100000586	et decantaverunt, domine, nomen sanctum tuum,	2020-04-18	Liber_Sapientiae
+1100000587	et victricem manum tuam laudaverunt pariter:	2020-04-18	Liber_Sapientiae
+1100000588	quoniam sapientia aperuit os mutorum,	2020-04-18	Liber_Sapientiae
+1100000589	et linguas infantium fecit disertas.	2020-04-18	Liber_Sapientiae
+1100000590	caput 11	2020-04-18	Liber_Sapientiae
+1100000591	direxit opera eorum in manibus prophetae sancti.	2020-04-18	Liber_Sapientiae
+1100000592	iter fecerunt per deserta quae non habitabantur,	2020-04-18	Liber_Sapientiae
+1100000593	et in locis desertis fixerunt casas.	2020-04-18	Liber_Sapientiae
+1100000594	steterunt contra hostes,	2020-04-18	Liber_Sapientiae
+1100000595	et de inimicis se vindicaverunt.	2020-04-18	Liber_Sapientiae
+1100000596	sitierunt, et invocaverunt te,	2020-04-18	Liber_Sapientiae
+1100000597	et data est illis aqua de petra altissima,	2020-04-18	Liber_Sapientiae
+1100000598	et requies sitis de lapide duro.	2020-04-18	Liber_Sapientiae
+1100000599	per quae enim poenas passi sunt inimici illorum	2020-04-18	Liber_Sapientiae
+1100000600	a defectione potus sui,	2020-04-18	Liber_Sapientiae
+1100000601	et in eis cum abundarent filii israel laetati sunt:	2020-04-18	Liber_Sapientiae
+1100000602	per haec, cum illis deessent, bene cum illis actum est.	2020-04-18	Liber_Sapientiae
+1100000603	nam pro fonte quidem sempiterni fluminis,	2020-04-18	Liber_Sapientiae
+1100000604	humanum sanguinem dedisti iniustis.	2020-04-18	Liber_Sapientiae
+1100000605	qui cum minuerentur in traductione infantium occisorum,	2020-04-18	Liber_Sapientiae
+1100000606	dedisti illis abundantem aquam insperate,	2020-04-18	Liber_Sapientiae
+1100000607	ostendens per sitim quae tunc fuit,	2020-04-18	Liber_Sapientiae
+1100000608	quemadmodum tuos exaltares,	2020-04-18	Liber_Sapientiae
+1100000609	et adversarios illorum necares.	2020-04-18	Liber_Sapientiae
+1100000610	cum enim tentati sunt,	2020-04-18	Liber_Sapientiae
+1100000611	et quidem cum misericordia disciplinam accipientes,	2020-04-18	Liber_Sapientiae
+1100000612	scierunt quemadmodum cum ira iudicati impii tormenta paterentur.	2020-04-18	Liber_Sapientiae
+1100000613	hos quidem tamquam pater monens probasti;	2020-04-18	Liber_Sapientiae
+1100000614	illos autem tamquam durus rex interrogans condemnasti.	2020-04-18	Liber_Sapientiae
+1100000615	absentes enim, et praesentes, similiter torquebantur.	2020-04-18	Liber_Sapientiae
+1100000616	duplex enim illos acceperat taedium et gemitus,	2020-04-18	Liber_Sapientiae
+1100000617	cum memoria praeteritorum.	2020-04-18	Liber_Sapientiae
+1100000618	cum enim audirent per sua tormenta bene secum agi,	2020-04-18	Liber_Sapientiae
+1100000619	commemorati sunt dominum, admirantes in finem exitus.	2020-04-18	Liber_Sapientiae
+1100000620	quem enim in expositione prava proiectum deriserunt,	2020-04-18	Liber_Sapientiae
+1100000621	in finem eventus mirati sunt,	2020-04-18	Liber_Sapientiae
+1100000622	non similiter iustis sitientes.	2020-04-18	Liber_Sapientiae
+1100000623	pro cogitationibus autem insensatis iniquitatis illorum,	2020-04-18	Liber_Sapientiae
+1100000624	quod quidam errantes colebant mutos serpentes	2020-04-18	Liber_Sapientiae
+1100000625	et bestias supervacuas,	2020-04-18	Liber_Sapientiae
+1100000626	immisisti illis multitudinem mutorum animalium in vindictam;	2020-04-18	Liber_Sapientiae
+1100000627	ut scirent quia per quae peccat quis, per haec et torquetur.	2020-04-18	Liber_Sapientiae
+1100000628	non enim impossibilis erat omnipotens manus tua,	2020-04-18	Liber_Sapientiae
+1100000629	quae creavit orbem terrarum ex materia invisa,	2020-04-18	Liber_Sapientiae
+1100000630	immittere illis multitudinem ursorum, aut audaces leones,	2020-04-18	Liber_Sapientiae
+1100000631	aut novi generis ira plenas ignotas bestias,	2020-04-18	Liber_Sapientiae
+1100000632	aut vaporem ignium spirantes,	2020-04-18	Liber_Sapientiae
+1100000633	aut fumi odorem proferentes,	2020-04-18	Liber_Sapientiae
+1100000634	aut horrendas ab oculis scintillas emittentes;	2020-04-18	Liber_Sapientiae
+1100000635	quarum non solum laesura poterat illos exterminare,	2020-04-18	Liber_Sapientiae
+1100000636	sed et aspectus per timorem occidere.	2020-04-18	Liber_Sapientiae
+1100000637	sed et sine his uno spiritu poterant occidi,	2020-04-18	Liber_Sapientiae
+1100000638	persecutionem passi ab ipsis factis suis,	2020-04-18	Liber_Sapientiae
+1100000639	et dispersi per spiritum virtutis tuae:	2020-04-18	Liber_Sapientiae
+1100000640	sed omnia in mensura, et numero et pondere disposuisti.	2020-04-18	Liber_Sapientiae
+1100000641	multum enim valere, tibi soli supererat semper:	2020-04-18	Liber_Sapientiae
+1100000642	et virtuti brachii tui quis resistet?	2020-04-18	Liber_Sapientiae
+1100000643	quoniam tamquam momentum staterae,	2020-04-18	Liber_Sapientiae
+1100000644	sic est ante te orbis terrarum,	2020-04-18	Liber_Sapientiae
+1100000645	et tamquam gutta roris antelucani quae descendit in terram.	2020-04-18	Liber_Sapientiae
+1100000646	sed misereris omnium, quia omnia potes;	2020-04-18	Liber_Sapientiae
+1100000647	et dissimulas peccata hominum, propter poenitentiam.	2020-04-18	Liber_Sapientiae
+1100000648	diligis enim omnia quae sunt,	2020-04-18	Liber_Sapientiae
+1100000649	et nihil odisti eorum quae fecisti;	2020-04-18	Liber_Sapientiae
+1100000650	nec enim odiens aliquid constituisti aut fecisti.	2020-04-18	Liber_Sapientiae
+1100000651	quomodo autem posset aliquid permanere, nisi tu voluisses?	2020-04-18	Liber_Sapientiae
+1100000652	aut quod a te vocatum non esset conservaretur?	2020-04-18	Liber_Sapientiae
+1100000653	parcis autem omnibus, quoniam tua sunt, domine,	2020-04-18	Liber_Sapientiae
+1100000654	qui amas animas.	2020-04-18	Liber_Sapientiae
+1100000655	caput 12	2020-04-18	Liber_Sapientiae
+1100000656	o quam bonus et suavis est, domine, spiritus tuus in omnibus!	2020-04-18	Liber_Sapientiae
+1100000657	ideoque eos qui exerrant partibus corripis,	2020-04-18	Liber_Sapientiae
+1100000658	et de quibus peccant admones et alloqueris,	2020-04-18	Liber_Sapientiae
+1100000659	ut relicta malitia credant in te, domine.	2020-04-18	Liber_Sapientiae
+1100000660	illos enim antiquos inhabitatores terrae sanctae tuae,	2020-04-18	Liber_Sapientiae
+1100000661	quos exhorruisti,	2020-04-18	Liber_Sapientiae
+1100000662	quoniam odibilia opera tibi faciebant	2020-04-18	Liber_Sapientiae
+1100000663	per medicamina et sacrificia iniusta,	2020-04-18	Liber_Sapientiae
+1100000664	et filiorum suorum necatores sine misericordia,	2020-04-18	Liber_Sapientiae
+1100000665	et comestores viscerum hominum,	2020-04-18	Liber_Sapientiae
+1100000666	et devoratores sanguinis a medio sacramento tuo,	2020-04-18	Liber_Sapientiae
+1100000667	et auctores parentes animarum inauxiliatarum,	2020-04-18	Liber_Sapientiae
+1100000668	perdere voluisti per manus parentum nostrorum:	2020-04-18	Liber_Sapientiae
+1100000669	ut dignam perciperent peregrinationem puerorum dei,	2020-04-18	Liber_Sapientiae
+1100000670	quae tibi omnium carior est terra.	2020-04-18	Liber_Sapientiae
+1100000671	sed et his tamquam hominibus pepercisti,	2020-04-18	Liber_Sapientiae
+1100000672	et misisti antecessores exercitus tui vespas,	2020-04-18	Liber_Sapientiae
+1100000673	ut illos paulatim exterminarent.	2020-04-18	Liber_Sapientiae
+1100000674	non quia impotens eras in bello subiicere impios iustis,	2020-04-18	Liber_Sapientiae
+1100000675	aut bestiis saevis, aut verbo duro simul exterminare:	2020-04-18	Liber_Sapientiae
+1100000676	sed partibus iudicans,	2020-04-18	Liber_Sapientiae
+1100000677	dabas locum poenitentiae,	2020-04-18	Liber_Sapientiae
+1100000678	non ignorans quoniam nequam est natio eorum,	2020-04-18	Liber_Sapientiae
+1100000679	et naturalis malitia ipsorum,	2020-04-18	Liber_Sapientiae
+1100000680	et quoniam non poterat mutari cogitatio illorum in perpetuum.	2020-04-18	Liber_Sapientiae
+1100000681	semen enim erat maledictum ab initio;	2020-04-18	Liber_Sapientiae
+1100000682	nec timens aliquem, veniam dabas peccatis illorum.	2020-04-18	Liber_Sapientiae
+1100000683	quis enim dicet tibi: quid fecisti?	2020-04-18	Liber_Sapientiae
+1100000684	aut quis stabit contra iudicium tuum?	2020-04-18	Liber_Sapientiae
+1100000685	aut quis in conspectu tuo veniet vindex iniquorum hominum?	2020-04-18	Liber_Sapientiae
+1100000686	aut quis tibi imputabit, si perierint nationes quas tu fecisti?	2020-04-18	Liber_Sapientiae
+1100000687	non enim est alius deus quam tu,	2020-04-18	Liber_Sapientiae
+1100000688	cui cura est de omnibus,	2020-04-18	Liber_Sapientiae
+1100000689	ut ostendas quoniam non iniuste iudicas iudicium.	2020-04-18	Liber_Sapientiae
+1100000690	neque rex, neque tyrannus in conspectu tuo inquirent	2020-04-18	Liber_Sapientiae
+1100000691	de his quos perdidisti.	2020-04-18	Liber_Sapientiae
+1100000692	cum ergo sis iustus, iuste omnia disponis;	2020-04-18	Liber_Sapientiae
+1100000693	ipsum quoque qui non debet puniri, condemnare,	2020-04-18	Liber_Sapientiae
+1100000694	exterum aestimas a tua virtute.	2020-04-18	Liber_Sapientiae
+1100000695	virtus enim tua iustitiae initium est,	2020-04-18	Liber_Sapientiae
+1100000696	et ob hoc quod dominus es,	2020-04-18	Liber_Sapientiae
+1100000697	omnibus te parcere facis.	2020-04-18	Liber_Sapientiae
+1100000698	virtutem enim ostendis tu,	2020-04-18	Liber_Sapientiae
+1100000699	qui non crederis esse in virtute consummatus,	2020-04-18	Liber_Sapientiae
+1100000700	et horum qui te nesciunt audaciam traducis.	2020-04-18	Liber_Sapientiae
+1100000701	tu autem dominator virtutis, cum tranquillitate iudicas,	2020-04-18	Liber_Sapientiae
+1100000702	et cum magna reverentia disponis nos:	2020-04-18	Liber_Sapientiae
+1100000703	subest enim tibi, cum volueris posse.	2020-04-18	Liber_Sapientiae
+1100000704	docuisti autem populum tuum per talia opera,	2020-04-18	Liber_Sapientiae
+1100000705	quoniam oportet iustum esse et humanum;	2020-04-18	Liber_Sapientiae
+1100000706	et bonae spei fecisti filios tuos,	2020-04-18	Liber_Sapientiae
+1100000707	quoniam iudicans das locum in peccatis poenitentiae.	2020-04-18	Liber_Sapientiae
+1100000708	si enim inimicos servorum tuorum, et debitos morti,	2020-04-18	Liber_Sapientiae
+1100000709	cum tanta cruciasti attentione,	2020-04-18	Liber_Sapientiae
+1100000710	dans tempus et locum per quae possent mutari a malitia:	2020-04-18	Liber_Sapientiae
+1100000711	cum quanta diligentia iudicasti filios tuos,	2020-04-18	Liber_Sapientiae
+1100000712	quorum parentibus iuramenta et conventiones dedisti bonarum promissionum!	2020-04-18	Liber_Sapientiae
+1100000713	cum ergo das nobis disciplinam,	2020-04-18	Liber_Sapientiae
+1100000714	inimicos nostros multipliciter flagellas,	2020-04-18	Liber_Sapientiae
+1100000715	ut bonitatem tuam cogitemus iudicantes,	2020-04-18	Liber_Sapientiae
+1100000716	et cum de nobis iudicatur, speremus misericordiam tuam.	2020-04-18	Liber_Sapientiae
+1100000717	unde et illis qui in vita sua insensate et iniuste vixerunt,	2020-04-18	Liber_Sapientiae
+1100000718	per haec quae coluerunt dedisti summa tormenta.	2020-04-18	Liber_Sapientiae
+1100000719	etenim in erroris via diutius erraverunt,	2020-04-18	Liber_Sapientiae
+1100000720	deos aestimantes haec quae in animalibus sunt supervacua,	2020-04-18	Liber_Sapientiae
+1100000721	infantium insensatorum more viventes.	2020-04-18	Liber_Sapientiae
+1100000722	propter hoc tamquam pueris insensatis iudicium in derisum dedisti.	2020-04-18	Liber_Sapientiae
+1100000723	qui autem ludibriis et increpationibus non sunt correcti,	2020-04-18	Liber_Sapientiae
+1100000724	dignum dei iudicium experti sunt.	2020-04-18	Liber_Sapientiae
+1100000725	in quibus enim patientes indignabantur	2020-04-18	Liber_Sapientiae
+1100000726	per haec quos putabant deos,	2020-04-18	Liber_Sapientiae
+1100000727	in ipsis cum exterminarentur videntes,	2020-04-18	Liber_Sapientiae
+1100000728	illum quem olim negabant se nosse, verum deum agnoverunt;	2020-04-18	Liber_Sapientiae
+1100000729	propter quod et finis condemnationis eorum venit super illos.	2020-04-18	Liber_Sapientiae
+1100000730	caput 13	2020-04-18	Liber_Sapientiae
+1100000731	vani autem sunt omnes homines	2020-04-18	Liber_Sapientiae
+1100000732	in quibus non subest scientia dei;	2020-04-18	Liber_Sapientiae
+1100000733	et de his quae videntur bona,	2020-04-18	Liber_Sapientiae
+1100000734	non potuerunt intelligere eum qui est,	2020-04-18	Liber_Sapientiae
+1100000735	neque operibus attendentes agnoverunt quis esset artifex:	2020-04-18	Liber_Sapientiae
+1100000736	sed aut ignem, aut spiritum, aut citatum aerem,	2020-04-18	Liber_Sapientiae
+1100000737	aut gyrum stellarum, aut nimiam aquam, aut solem et lunam,	2020-04-18	Liber_Sapientiae
+1100000738	rectores orbis terrarum deos putaverunt.	2020-04-18	Liber_Sapientiae
+1100000739	quorum si specie delectati, deos putaverunt,	2020-04-18	Liber_Sapientiae
+1100000740	sciant quanto his dominator eorum speciosior est:	2020-04-18	Liber_Sapientiae
+1100000741	speciei enim generator haec omnia constituit.	2020-04-18	Liber_Sapientiae
+1100000742	aut si virtutem et opera eorum mirati sunt,	2020-04-18	Liber_Sapientiae
+1100000743	intelligant ab illis quoniam qui haec fecit fortior est illis:	2020-04-18	Liber_Sapientiae
+1100000744	a magnitudine enim speciei et creaturae	2020-04-18	Liber_Sapientiae
+1100000745	cognoscibiliter poterit creator horum videri.	2020-04-18	Liber_Sapientiae
+1100000746	sed tamen adhuc in his minor est querela;	2020-04-18	Liber_Sapientiae
+1100000747	et hi enim fortasse errant,	2020-04-18	Liber_Sapientiae
+1100000748	deum quaerentes, et volentes invenire.	2020-04-18	Liber_Sapientiae
+1100000749	etenim cum in operibus illius conversentur inquirunt,	2020-04-18	Liber_Sapientiae
+1100000750	et persuasum habent quoniam bona sunt quae videntur.	2020-04-18	Liber_Sapientiae
+1100000751	iterum autem nec his debet ignosci.	2020-04-18	Liber_Sapientiae
+1100000752	si enim tantum potuerunt scire	2020-04-18	Liber_Sapientiae
+1100000753	ut possent aestimare saeculum,	2020-04-18	Liber_Sapientiae
+1100000754	quomodo huius dominum non facilius invenerunt?	2020-04-18	Liber_Sapientiae
+1100000755	infelices autem sunt,	2020-04-18	Liber_Sapientiae
+1100000756	et inter mortuos spes illorum est,	2020-04-18	Liber_Sapientiae
+1100000757	qui appellaverunt deos opera manuum hominum:	2020-04-18	Liber_Sapientiae
+1100000758	aurum et argentum, artis inventionem,	2020-04-18	Liber_Sapientiae
+1100000759	et similitudines animalium, aut lapidem inutilem,	2020-04-18	Liber_Sapientiae
+1100000760	opus manus antiquae.	2020-04-18	Liber_Sapientiae
+1100000761	aut si quis artifex faber de silva lignum rectum secuerit,	2020-04-18	Liber_Sapientiae
+1100000762	et huius docte eradat omnem corticem,	2020-04-18	Liber_Sapientiae
+1100000763	et arte sua usus	2020-04-18	Liber_Sapientiae
+1100000764	diligenter fabricet vas utile in conversationem vitae;	2020-04-18	Liber_Sapientiae
+1100000765	reliquiis autem eius operis	2020-04-18	Liber_Sapientiae
+1100000766	ad praeparationem escae abutatur,	2020-04-18	Liber_Sapientiae
+1100000767	et reliquum horum quod ad nullos usus facit,	2020-04-18	Liber_Sapientiae
+1100000768	lignum curvum et vorticibus plenum	2020-04-18	Liber_Sapientiae
+1100000769	sculpat diligenter per vacuitatem suam,	2020-04-18	Liber_Sapientiae
+1100000770	et per scientiam suae artis figuret illud,	2020-04-18	Liber_Sapientiae
+1100000771	et assimilet illud imagini hominis,	2020-04-18	Liber_Sapientiae
+1100000772	aut alicui ex animalibus illud comparet:	2020-04-18	Liber_Sapientiae
+1100000773	perliniens rubrica, et rubicundum faciens fuco colorem illius,	2020-04-18	Liber_Sapientiae
+1100000774	et omnem maculam quae in illo est perliniens;	2020-04-18	Liber_Sapientiae
+1100000775	et faciat ei dignam habitationem,	2020-04-18	Liber_Sapientiae
+1100000776	et in pariete ponens illud,	2020-04-18	Liber_Sapientiae
+1100000777	et confirmans ferrone forte cadat,	2020-04-18	Liber_Sapientiae
+1100000778	prospiciens illi:	2020-04-18	Liber_Sapientiae
+1100000779	sciens quoniam non potest adiuvare se:	2020-04-18	Liber_Sapientiae
+1100000780	imago enim est, et opus est illi adiutorium.	2020-04-18	Liber_Sapientiae
+1100000781	et de substantia sua, et de filiis suis,	2020-04-18	Liber_Sapientiae
+1100000782	et de nuptiis votum faciens inquirit:	2020-04-18	Liber_Sapientiae
+1100000783	non erubescit loqui cum illo qui sine anima est.	2020-04-18	Liber_Sapientiae
+1100000784	et pro sanitate quidem infirmum deprecatur,	2020-04-18	Liber_Sapientiae
+1100000785	et pro vita rogat mortuum,	2020-04-18	Liber_Sapientiae
+1100000786	et in adiutorium inutilem invocat.	2020-04-18	Liber_Sapientiae
+1100000787	et pro itinere petit ab eo qui ambulare non potest;	2020-04-18	Liber_Sapientiae
+1100000788	et de acquirendo, et de operando,	2020-04-18	Liber_Sapientiae
+1100000789	et de omnium rerum eventu,	2020-04-18	Liber_Sapientiae
+1100000790	petit ab eo qui in omnibus est inutilis.	2020-04-18	Liber_Sapientiae
+1100000791	caput 14	2020-04-18	Liber_Sapientiae
+1100000792	iterum alius navigare cogitans,	2020-04-18	Liber_Sapientiae
+1100000793	et per feros fluctus iter facere incipiens,	2020-04-18	Liber_Sapientiae
+1100000794	ligno portante se, fragilius lignum invocat.	2020-04-18	Liber_Sapientiae
+1100000795	illud enim cupiditas acquirendi excogitavit,	2020-04-18	Liber_Sapientiae
+1100000796	et artifex sapientia fabricavit sua.	2020-04-18	Liber_Sapientiae
+1100000797	tua autem, pater, providentia gubernat:	2020-04-18	Liber_Sapientiae
+1100000798	quoniam dedisti et in mari viam,	2020-04-18	Liber_Sapientiae
+1100000799	et inter fluctus semitam firmissimam,	2020-04-18	Liber_Sapientiae
+1100000800	ostendens quoniam potens es ex omnibus salvare,	2020-04-18	Liber_Sapientiae
+1100000801	etiam si sine arte aliquis adeat mare.	2020-04-18	Liber_Sapientiae
+1100000802	sed ut non essent vacua sapientiae tuae opera,	2020-04-18	Liber_Sapientiae
+1100000803	propter hoc etiam et exiguo ligno credunt homines animas suas,	2020-04-18	Liber_Sapientiae
+1100000804	et transeuntes mare per ratem liberati sunt.	2020-04-18	Liber_Sapientiae
+1100000805	sed et ab initio cum perirent superbi gigantes,	2020-04-18	Liber_Sapientiae
+1100000806	spes orbis terrarum ad ratem confugiens,	2020-04-18	Liber_Sapientiae
+1100000807	remisit saeculo semen nativitatis quae manu tua erat gubernata.	2020-04-18	Liber_Sapientiae
+1100000808	benedictum est enim lignum per quod fit iustitia;	2020-04-18	Liber_Sapientiae
+1100000809	per manus autem quod fit idolum,	2020-04-18	Liber_Sapientiae
+1100000810	maledictum est et ipsum, et qui fecit illud:	2020-04-18	Liber_Sapientiae
+1100000811	quia ille quidem operatus est,	2020-04-18	Liber_Sapientiae
+1100000812	illud autem cum esset fragile, deus cognominatus est.	2020-04-18	Liber_Sapientiae
+1100000813	similiter autem odio sunt deo impius et impietas eius;	2020-04-18	Liber_Sapientiae
+1100000814	etenim quod factum est, cum illo qui fecit tormenta patietur.	2020-04-18	Liber_Sapientiae
+1100000815	propter hoc et in idolis nationum non erit respectus,	2020-04-18	Liber_Sapientiae
+1100000816	quoniam creaturae dei in odium factae sunt,	2020-04-18	Liber_Sapientiae
+1100000817	et in tentationem animabus hominum,	2020-04-18	Liber_Sapientiae
+1100000818	et in muscipulam pedibus insipientium.	2020-04-18	Liber_Sapientiae
+1100000819	initium enim fornicationis est exquisitio idolorum,	2020-04-18	Liber_Sapientiae
+1100000820	et adinventio illorum corruptio vitae est:	2020-04-18	Liber_Sapientiae
+1100000821	neque enim erant ab initio,	2020-04-18	Liber_Sapientiae
+1100000822	neque erunt in perpetuum.	2020-04-18	Liber_Sapientiae
+1100000823	supervacuitas enim hominum haec advenit in orbem terrarum,	2020-04-18	Liber_Sapientiae
+1100000824	et ideo brevis illorum finis est inventus.	2020-04-18	Liber_Sapientiae
+1100000825	acerbo enim luctu dolens pater,	2020-04-18	Liber_Sapientiae
+1100000826	cito sibi rapti filii fecit imaginem;	2020-04-18	Liber_Sapientiae
+1100000827	et illum qui tunc quasi homo mortuus fuerat,	2020-04-18	Liber_Sapientiae
+1100000828	nunc tamquam deum colere coepit,	2020-04-18	Liber_Sapientiae
+1100000829	et constituit inter servos suos sacra et sacrificia.	2020-04-18	Liber_Sapientiae
+1100000830	deinde interveniente tempore, convalescente iniqua consuetudine,	2020-04-18	Liber_Sapientiae
+1100000831	hic error tamquam lex custoditus est,	2020-04-18	Liber_Sapientiae
+1100000832	et tyrannorum imperio colebantur figmenta.	2020-04-18	Liber_Sapientiae
+1100000833	et hos quos in palam homines honorare non poterant	2020-04-18	Liber_Sapientiae
+1100000834	propter hoc quod longe essent,	2020-04-18	Liber_Sapientiae
+1100000835	e longinquo figura eorum allata,	2020-04-18	Liber_Sapientiae
+1100000836	evidentem imaginem regis quem honorare volebant fecerunt,	2020-04-18	Liber_Sapientiae
+1100000837	ut illum qui aberat, tamquam praesentem colerent sua sollicitudine.	2020-04-18	Liber_Sapientiae
+1100000838	provexit autem ad horum culturam	2020-04-18	Liber_Sapientiae
+1100000839	et hos qui ignorabant artificis eximia diligentia.	2020-04-18	Liber_Sapientiae
+1100000840	ille enim, volens placere illi qui se assumpsit,	2020-04-18	Liber_Sapientiae
+1100000841	elaboravit arte sua ut similitudinem in melius figuraret.	2020-04-18	Liber_Sapientiae
+1100000842	multitudo autem hominum, abducta per speciem operis,	2020-04-18	Liber_Sapientiae
+1100000843	eum qui ante tempus tamquam homo honoratus fuerat,	2020-04-18	Liber_Sapientiae
+1100000844	nunc deum aestimaverunt.	2020-04-18	Liber_Sapientiae
+1100000845	et haec fuit vitae humanae deceptio,	2020-04-18	Liber_Sapientiae
+1100000846	quoniam aut affectui aut regibus deservientes homines,	2020-04-18	Liber_Sapientiae
+1100000847	incommunicabile nomen lapidibus et lignis imposuerunt.	2020-04-18	Liber_Sapientiae
+1100000848	et non suffecerat errasse eos circa dei scientiam,	2020-04-18	Liber_Sapientiae
+1100000849	sed et in magno viventes inscientiae bello,	2020-04-18	Liber_Sapientiae
+1100000850	tot et tam magna mala pacem appellant.	2020-04-18	Liber_Sapientiae
+1100000851	aut enim filios suos sacrificantes,	2020-04-18	Liber_Sapientiae
+1100000852	aut obscura sacrificia facientes,	2020-04-18	Liber_Sapientiae
+1100000853	aut insaniae plenas vigilias habentes,	2020-04-18	Liber_Sapientiae
+1100000854	neque vitam, neque nuptias mundas iam custodiunt:	2020-04-18	Liber_Sapientiae
+1100000855	sed alius alium per invidiam occidit,	2020-04-18	Liber_Sapientiae
+1100000856	aut adulterans contristat,	2020-04-18	Liber_Sapientiae
+1100000857	et omnia commista sunt: sanguis, homicidium,	2020-04-18	Liber_Sapientiae
+1100000858	furtum et fictio, corruptio et infidelitas,	2020-04-18	Liber_Sapientiae
+1100000859	turbatio et periurium, tumultus bonorum,	2020-04-18	Liber_Sapientiae
+1100000860	dei immemoratio, animarum inquinatio,	2020-04-18	Liber_Sapientiae
+1100000861	nativitatis immutatio, nuptiarum inconstantia,	2020-04-18	Liber_Sapientiae
+1100000862	inordinatio moechiae et impudicitiae.	2020-04-18	Liber_Sapientiae
+1100000863	infandorum enim idolorum cultura	2020-04-18	Liber_Sapientiae
+1100000864	omnis mali causa est, et initium et finis.	2020-04-18	Liber_Sapientiae
+1100000865	aut enim dum laetantur insaniunt,	2020-04-18	Liber_Sapientiae
+1100000866	aut certe vaticinantur falsa,	2020-04-18	Liber_Sapientiae
+1100000867	aut vivunt iniuste, aut peierant cito.	2020-04-18	Liber_Sapientiae
+1100000868	dum enim confidunt in idolis quae sine anima sunt,	2020-04-18	Liber_Sapientiae
+1100000869	male iurantes noceri se non sperant.	2020-04-18	Liber_Sapientiae
+1100000870	utraque ergo illis evenient digne,	2020-04-18	Liber_Sapientiae
+1100000871	quoniam male senserunt de deo, attendentes idolis,	2020-04-18	Liber_Sapientiae
+1100000872	et iuraverunt iniuste,	2020-04-18	Liber_Sapientiae
+1100000873	in dolo contemnentes iustitiam.	2020-04-18	Liber_Sapientiae
+1100000874	non enim iuratorum virtus,	2020-04-18	Liber_Sapientiae
+1100000875	sed peccantium poena,	2020-04-18	Liber_Sapientiae
+1100000876	perambulat semper iniustorum praevaricationem.	2020-04-18	Liber_Sapientiae
+1100000877	caput 15	2020-04-18	Liber_Sapientiae
+1100000878	tu autem, deus noster, suavis et verus es,	2020-04-18	Liber_Sapientiae
+1100000879	patiens, et in misericordia disponens omnia.	2020-04-18	Liber_Sapientiae
+1100000880	etenim si peccaverimus, tui sumus,	2020-04-18	Liber_Sapientiae
+1100000881	scientes magnitudinem tuam;	2020-04-18	Liber_Sapientiae
+1100000882	et si non peccaverimus,	2020-04-18	Liber_Sapientiae
+1100000883	scimus quoniam apud te sumus computati.	2020-04-18	Liber_Sapientiae
+1100000884	nosse enim te, consummata iustitia est;	2020-04-18	Liber_Sapientiae
+1100000885	et scire iustitiam et virtutem tuam, radix est immortalitatis.	2020-04-18	Liber_Sapientiae
+1100000886	non enim in errorem induxit nos	2020-04-18	Liber_Sapientiae
+1100000887	hominum malae artis excogitatio,	2020-04-18	Liber_Sapientiae
+1100000888	nec umbra picturae labor sine fructu,	2020-04-18	Liber_Sapientiae
+1100000889	effigies sculpta per varios colores:	2020-04-18	Liber_Sapientiae
+1100000890	cuius aspectus insensato dat concupiscentiam,	2020-04-18	Liber_Sapientiae
+1100000891	et diligit mortuae imaginis effigiem sine anima.	2020-04-18	Liber_Sapientiae
+1100000892	malorum amatores digni sunt qui spem habeant in talibus,	2020-04-18	Liber_Sapientiae
+1100000893	et qui faciunt illos, et qui diligunt, et qui colunt.	2020-04-18	Liber_Sapientiae
+1100000894	sed et figulus mollem terram premens,	2020-04-18	Liber_Sapientiae
+1100000895	laboriose fingit ad usus nostros unumquodque vas;	2020-04-18	Liber_Sapientiae
+1100000896	et de eodem luto fingit quae munda sunt in usum vasa,	2020-04-18	Liber_Sapientiae
+1100000897	et similiter quae his sunt contraria:	2020-04-18	Liber_Sapientiae
+1100000898	horum autem vasorum quis sit usus,	2020-04-18	Liber_Sapientiae
+1100000899	iudex est figulus.	2020-04-18	Liber_Sapientiae
+1100000900	et cum labore vano deum fingit de eodem luto	2020-04-18	Liber_Sapientiae
+1100000901	ille qui paulo ante de terra factus fuerat,	2020-04-18	Liber_Sapientiae
+1100000902	et post pusillum reducit se unde acceptus est,	2020-04-18	Liber_Sapientiae
+1100000903	repetitus animae debitum quam habebat.	2020-04-18	Liber_Sapientiae
+1100000904	sed cura est illi non quia laboraturus est,	2020-04-18	Liber_Sapientiae
+1100000905	nec quoniam brevis illi vita est:	2020-04-18	Liber_Sapientiae
+1100000906	sed concertatur aurificibus et argentariis;	2020-04-18	Liber_Sapientiae
+1100000907	sed et aerarios imitatur,	2020-04-18	Liber_Sapientiae
+1100000908	et gloriam praefert, quoniam res supervacuas fingit.	2020-04-18	Liber_Sapientiae
+1100000909	cinis est enim cor eius,	2020-04-18	Liber_Sapientiae
+1100000910	et terra supervacua spes illius,	2020-04-18	Liber_Sapientiae
+1100000911	et luto vilior vita eius:	2020-04-18	Liber_Sapientiae
+1100000912	quoniam ignoravit qui se finxit,	2020-04-18	Liber_Sapientiae
+1100000913	et qui inspiravit illi animam quae operatur,	2020-04-18	Liber_Sapientiae
+1100000914	et qui insufflavit ei spiritum vitalem.	2020-04-18	Liber_Sapientiae
+1100000915	sed et aestimaverunt ludum esse vitam nostram,	2020-04-18	Liber_Sapientiae
+1100000916	et conversationem vitae compositam ad lucrum,	2020-04-18	Liber_Sapientiae
+1100000917	et oportere undecumque etiam ex malo acquirere.	2020-04-18	Liber_Sapientiae
+1100000918	hic enim scit se super omnes delinquere,	2020-04-18	Liber_Sapientiae
+1100000919	qui ex terrae materia fragilia vasa et sculptilia fingit.	2020-04-18	Liber_Sapientiae
+1100000920	omnes enim insipientes,	2020-04-18	Liber_Sapientiae
+1100000921	et infelices supra modum animae superbi,	2020-04-18	Liber_Sapientiae
+1100000922	sunt inimici populi tui, et imperantes illi:	2020-04-18	Liber_Sapientiae
+1100000923	quoniam omnia idola nationum deos aestimaverunt,	2020-04-18	Liber_Sapientiae
+1100000924	quibus neque oculorum usus est ad videndum,	2020-04-18	Liber_Sapientiae
+1100000925	neque nares ad percipiendum spiritum,	2020-04-18	Liber_Sapientiae
+1100000926	neque aures ad audiendum,	2020-04-18	Liber_Sapientiae
+1100000927	neque digiti manuum ad tractandum,	2020-04-18	Liber_Sapientiae
+1100000928	sed et pedes eorum pigri ad ambulandum.	2020-04-18	Liber_Sapientiae
+1100000929	homo enim fecit illos;	2020-04-18	Liber_Sapientiae
+1100000930	et qui spiritum mutuatus est, is finxit illos.	2020-04-18	Liber_Sapientiae
+1100000931	nemo enim sibi similem homo poterit deum fingere.	2020-04-18	Liber_Sapientiae
+1100000932	cum enim sit mortalis, mortuum fingit manibus iniquis.	2020-04-18	Liber_Sapientiae
+1100000933	melior enim est ipse his quos colit,	2020-04-18	Liber_Sapientiae
+1100000934	quia ipse quidem vixit, cum esset mortalis, illi autem numquam.	2020-04-18	Liber_Sapientiae
+1100000935	sed et animalia miserrima colunt;	2020-04-18	Liber_Sapientiae
+1100000936	insensata enim comparata his, illis sunt deteriora.	2020-04-18	Liber_Sapientiae
+1100000937	sed nec aspectu aliquis ex his animalibus bona potest conspicere:	2020-04-18	Liber_Sapientiae
+1100000938	effugerunt autem dei laudem et benedictionem eius.	2020-04-18	Liber_Sapientiae
+1100000939	caput 16	2020-04-18	Liber_Sapientiae
+1100000940	propter haec et per his similia passi sunt digne tormenta,	2020-04-18	Liber_Sapientiae
+1100000941	et per multitudinem bestiarum exterminati sunt.	2020-04-18	Liber_Sapientiae
+1100000942	pro quibus tormentis bene disposuisti populum tuum,	2020-04-18	Liber_Sapientiae
+1100000943	quibus dedisti concupiscentiam delectamenti sui novum saporem,	2020-04-18	Liber_Sapientiae
+1100000944	escam parans eis ortygometram:	2020-04-18	Liber_Sapientiae
+1100000945	ut illi quidem, concupiscentes escam	2020-04-18	Liber_Sapientiae
+1100000946	propter ea quae illis ostensa et missa sunt,	2020-04-18	Liber_Sapientiae
+1100000947	etiam a necessaria concupiscentia averterentur.	2020-04-18	Liber_Sapientiae
+1100000948	hi autem in brevi inopes facti, novam gustaverunt escam.	2020-04-18	Liber_Sapientiae
+1100000949	oportebat enim illis sine excusatione quidem	2020-04-18	Liber_Sapientiae
+1100000950	supervenire interitum exercentibus tyrannidem;	2020-04-18	Liber_Sapientiae
+1100000951	his autem tantum ostendere	2020-04-18	Liber_Sapientiae
+1100000952	quemadmodum inimici eorum exterminabantur.	2020-04-18	Liber_Sapientiae
+1100000953	etenim cum illis supervenit saeva bestiarum ira,	2020-04-18	Liber_Sapientiae
+1100000954	morsibus perversorum colubrorum exterminabantur.	2020-04-18	Liber_Sapientiae
+1100000955	sed non in perpetuum ira tua permansit,	2020-04-18	Liber_Sapientiae
+1100000956	sed ad correptionem in brevi turbati sunt,	2020-04-18	Liber_Sapientiae
+1100000957	signum habentes salutis ad commemorationem mandati legis tuae.	2020-04-18	Liber_Sapientiae
+1100000958	qui enim conversus est,	2020-04-18	Liber_Sapientiae
+1100000959	non per hoc quod videbat sanabatur,	2020-04-18	Liber_Sapientiae
+1100000960	sed per te, omnium salvatorem.	2020-04-18	Liber_Sapientiae
+1100000961	in hoc autem ostendisti inimicis nostris	2020-04-18	Liber_Sapientiae
+1100000962	quia tu es qui liberas ab omni malo.	2020-04-18	Liber_Sapientiae
+1100000963	illos enim locustarum et muscarum occiderunt morsus,	2020-04-18	Liber_Sapientiae
+1100000964	et non est inventa sanitas animae illorum,	2020-04-18	Liber_Sapientiae
+1100000965	quia digni erant ab huiuscemodi exterminari.	2020-04-18	Liber_Sapientiae
+1100000966	filios autem tuos nec draconum venenatorum vicerunt dentes:	2020-04-18	Liber_Sapientiae
+1100000967	misericordia enim tua adveniens sanabat illos.	2020-04-18	Liber_Sapientiae
+1100000968	in memoria enim sermonum tuorum examinabantur,	2020-04-18	Liber_Sapientiae
+1100000969	et velociter salvabantur:	2020-04-18	Liber_Sapientiae
+1100000970	ne in altam incidentes oblivionem	2020-04-18	Liber_Sapientiae
+1100000971	non possent tuo uti adiutorio.	2020-04-18	Liber_Sapientiae
+1100000972	etenim neque herba, neque malagma sanavit eos:	2020-04-18	Liber_Sapientiae
+1100000973	sed tuus, domine, sermo, qui sanat omnia.	2020-04-18	Liber_Sapientiae
+1100000974	tu es enim, domine, qui vitae et mortis habes potestatem,	2020-04-18	Liber_Sapientiae
+1100000975	et deducis ad portas mortis, et reducis.	2020-04-18	Liber_Sapientiae
+1100000976	homo autem occidit quidem per malitiam;	2020-04-18	Liber_Sapientiae
+1100000977	et cum exierit spiritus, non revertetur,	2020-04-18	Liber_Sapientiae
+1100000978	nec revocabit animam quae recepta est.	2020-04-18	Liber_Sapientiae
+1100000979	sed tuam manum effugere impossibile est.	2020-04-18	Liber_Sapientiae
+1100000980	negantes enim te nosse impii,	2020-04-18	Liber_Sapientiae
+1100000981	per fortitudinem brachii tui flagellati sunt:	2020-04-18	Liber_Sapientiae
+1100000982	novis aquis, et grandinibus,	2020-04-18	Liber_Sapientiae
+1100000983	et pluviis persecutionem passi,	2020-04-18	Liber_Sapientiae
+1100000984	et per ignem consumpti.	2020-04-18	Liber_Sapientiae
+1100000985	quod enim mirabile erat, in aqua, quae omnia extinguit,	2020-04-18	Liber_Sapientiae
+1100000986	plus ignis valebat:	2020-04-18	Liber_Sapientiae
+1100000987	vindex est enim orbis iustorum.	2020-04-18	Liber_Sapientiae
+1100000988	quodam enim tempore mansuetabatur ignis,	2020-04-18	Liber_Sapientiae
+1100000989	ne comburerentur quae ad impios missa erant animalia,	2020-04-18	Liber_Sapientiae
+1100000990	sed ut ipsi videntes scirent	2020-04-18	Liber_Sapientiae
+1100000991	quoniam dei iudicio patiuntur persecutionem.	2020-04-18	Liber_Sapientiae
+1100000992	et quodam tempore in aqua	2020-04-18	Liber_Sapientiae
+1100000993	supra virtutem ignis exardescebat undique,	2020-04-18	Liber_Sapientiae
+1100000994	ut iniquae terrae nationem exterminaret.	2020-04-18	Liber_Sapientiae
+1100000995	pro quibus angelorum esca nutrivisti populum tuum,	2020-04-18	Liber_Sapientiae
+1100000996	et paratum panem de caelo praestitisti illis sine labore,	2020-04-18	Liber_Sapientiae
+1100000997	omne delectamentum in se habentem,	2020-04-18	Liber_Sapientiae
+1100000998	et omnis saporis suavitatem.	2020-04-18	Liber_Sapientiae
+1100000999	substantia enim tua dulcedinem tuam,	2020-04-18	Liber_Sapientiae
+1100001000	quam in filios habes, ostendebat;	2020-04-18	Liber_Sapientiae
+1100001001	et deserviens uniuscuiusque voluntati,	2020-04-18	Liber_Sapientiae
+1100001002	ad quod quisque volebat convertebatur.	2020-04-18	Liber_Sapientiae
+1100001003	nix autem et glacies sustinebant vim ignis, et non tabescebant:	2020-04-18	Liber_Sapientiae
+1100001004	ut scirent quoniam fructus inimicorum exterminabat	2020-04-18	Liber_Sapientiae
+1100001005	ignis ardens in grandine et pluvia coruscans;	2020-04-18	Liber_Sapientiae
+1100001006	hic autem iterum ut nutrirentur iusti,	2020-04-18	Liber_Sapientiae
+1100001007	etiam suae virtutis oblitus est.	2020-04-18	Liber_Sapientiae
+1100001008	creatura enim tibi factori deserviens,	2020-04-18	Liber_Sapientiae
+1100001009	exardescit in tormentum adversus iniustos,	2020-04-18	Liber_Sapientiae
+1100001010	et lenior fit ad benefaciendum pro his qui in te confidunt.	2020-04-18	Liber_Sapientiae
+1100001011	propter hoc et tunc in omnia transfigurata,	2020-04-18	Liber_Sapientiae
+1100001012	omnium nutrici gratiae tuae deserviebat,	2020-04-18	Liber_Sapientiae
+1100001013	ad voluntatem eorum qui a te desiderabant:	2020-04-18	Liber_Sapientiae
+1100001014	ut scirent filii tui quos dilexisti, domine,	2020-04-18	Liber_Sapientiae
+1100001015	quoniam non nativitatis fructus pascunt homines,	2020-04-18	Liber_Sapientiae
+1100001016	sed sermo tuus hos qui in te crediderint conservat.	2020-04-18	Liber_Sapientiae
+1100001017	quod enim ab igne non poterat exterminari,	2020-04-18	Liber_Sapientiae
+1100001018	statim ab exiguo radio solis calefactum tabescebat:	2020-04-18	Liber_Sapientiae
+1100001019	ut notum omnibus esset	2020-04-18	Liber_Sapientiae
+1100001020	quoniam oportet praevenire solem ad benedictionem tuam,	2020-04-18	Liber_Sapientiae
+1100001021	et ad ortum lucis te adorare.	2020-04-18	Liber_Sapientiae
+1100001022	ingrati enim spes tamquam hibernalis glacies tabescet,	2020-04-18	Liber_Sapientiae
+1100001023	et disperiet tamquam aqua supervacua.	2020-04-18	Liber_Sapientiae
+1100001024	caput 17	2020-04-18	Liber_Sapientiae
+1100001025	magna sunt enim iudicia tua, domine,	2020-04-18	Liber_Sapientiae
+1100001026	et inenarrabilia verba tua:	2020-04-18	Liber_Sapientiae
+1100001027	propter hoc indisciplinatae animae erraverunt.	2020-04-18	Liber_Sapientiae
+1100001028	dum enim persuasum habent iniqui	2020-04-18	Liber_Sapientiae
+1100001029	posse dominari nationi sanctae,	2020-04-18	Liber_Sapientiae
+1100001030	vinculis tenebrarum et longae noctis compediti,	2020-04-18	Liber_Sapientiae
+1100001031	inclusi sub tectis,	2020-04-18	Liber_Sapientiae
+1100001032	fugitivi perpetuae providentiae iacuerunt.	2020-04-18	Liber_Sapientiae
+1100001033	et dum putant se latere in obscuris peccatis,	2020-04-18	Liber_Sapientiae
+1100001034	tenebroso oblivionis velamento dispersi sunt,	2020-04-18	Liber_Sapientiae
+1100001035	paventes horrende,	2020-04-18	Liber_Sapientiae
+1100001036	et cum admiratione nimia perturbati.	2020-04-18	Liber_Sapientiae
+1100001037	neque enim quae continebat illos spelunca sine timore custodiebat,	2020-04-18	Liber_Sapientiae
+1100001038	quoniam sonitus descendens perturbabat illos,	2020-04-18	Liber_Sapientiae
+1100001039	et personae tristes illis apparentes pavorem illis praestabant.	2020-04-18	Liber_Sapientiae
+1100001040	et ignis quidem nulla vis poterat illis lumen praebere,	2020-04-18	Liber_Sapientiae
+1100001041	nec siderum limpidae flammae	2020-04-18	Liber_Sapientiae
+1100001042	illuminare poterant illam noctem horrendam.	2020-04-18	Liber_Sapientiae
+1100001043	apparebat autem illis subitaneus ignis, timore plenus;	2020-04-18	Liber_Sapientiae
+1100001044	et timore perculsi illius quae non videbatur faciei,	2020-04-18	Liber_Sapientiae
+1100001045	aestimabant deteriora esse quae videbantur.	2020-04-18	Liber_Sapientiae
+1100001046	et magicae artis appositi erant derisus,	2020-04-18	Liber_Sapientiae
+1100001047	et sapientiae gloriae correptio cum contumelia.	2020-04-18	Liber_Sapientiae
+1100001048	illi enim qui promittebant	2020-04-18	Liber_Sapientiae
+1100001049	timores et perturbationes expellere se ab anima languente,	2020-04-18	Liber_Sapientiae
+1100001050	hi cum derisu pleni timore languebant.	2020-04-18	Liber_Sapientiae
+1100001051	nam etsi nihil illos ex monstris perturbabat,	2020-04-18	Liber_Sapientiae
+1100001052	transitu animalium et serpentium sibilatione commoti,	2020-04-18	Liber_Sapientiae
+1100001053	tremebundi peribant,	2020-04-18	Liber_Sapientiae
+1100001054	et aerem quem nulla ratione quis effugere posset, negantes se videre.	2020-04-18	Liber_Sapientiae
+1100001055	cum sit enim timida nequitia,	2020-04-18	Liber_Sapientiae
+1100001056	dat testimonium condemnationis:	2020-04-18	Liber_Sapientiae
+1100001057	semper enim praesumit saeva,	2020-04-18	Liber_Sapientiae
+1100001058	perturbata conscientia:	2020-04-18	Liber_Sapientiae
+1100001059	nihil enim est timor nisi proditio cogitationis auxiliorum.	2020-04-18	Liber_Sapientiae
+1100001060	et dum ab intus minor est exspectatio,	2020-04-18	Liber_Sapientiae
+1100001061	maiorem computat inscientiam eius causae,	2020-04-18	Liber_Sapientiae
+1100001062	de qua tormentum praestat.	2020-04-18	Liber_Sapientiae
+1100001063	illi autem qui impotentem vere noctem,	2020-04-18	Liber_Sapientiae
+1100001064	et ab infimis et ab altissimis inferis supervenientem,	2020-04-18	Liber_Sapientiae
+1100001065	eumdem somnum dormientes,	2020-04-18	Liber_Sapientiae
+1100001066	aliquando monstrorum exagitabantur timore,	2020-04-18	Liber_Sapientiae
+1100001067	aliquando animae deficiebant traductione:	2020-04-18	Liber_Sapientiae
+1100001068	subitaneus enim illis et insperatus timor supervenerat.	2020-04-18	Liber_Sapientiae
+1100001069	deinde si quisquam ex illis decidisset,	2020-04-18	Liber_Sapientiae
+1100001070	custodiebatur in carcere sine ferro reclusus.	2020-04-18	Liber_Sapientiae
+1100001071	si enim rusticus quis erat, aut pastor,	2020-04-18	Liber_Sapientiae
+1100001072	aut agri laborum operarius praeoccupatus esset,	2020-04-18	Liber_Sapientiae
+1100001073	ineffugibilem sustinebat necessitatem;	2020-04-18	Liber_Sapientiae
+1100001074	una enim catena tenebrarum omnes erant colligati.	2020-04-18	Liber_Sapientiae
+1100001075	sive spiritus sibilans,	2020-04-18	Liber_Sapientiae
+1100001076	aut inter spissos arborum ramos avium sonus suavis,	2020-04-18	Liber_Sapientiae
+1100001077	aut vis aquae decurrentis nimium,	2020-04-18	Liber_Sapientiae
+1100001078	aut sonus validus praecipitatarum petrarum,	2020-04-18	Liber_Sapientiae
+1100001079	aut ludentium animalium cursus invisus,	2020-04-18	Liber_Sapientiae
+1100001080	aut mugientium valida bestiarum vox,	2020-04-18	Liber_Sapientiae
+1100001081	aut resonans de altissimis montibus echo:	2020-04-18	Liber_Sapientiae
+1100001082	deficientes faciebant illos prae timore.	2020-04-18	Liber_Sapientiae
+1100001083	omnis enim orbis terrarum limpido illuminabatur lumine,	2020-04-18	Liber_Sapientiae
+1100001084	et non impeditis operibus continebatur.	2020-04-18	Liber_Sapientiae
+1100001085	solis autem illis superposita erat gravis nox,	2020-04-18	Liber_Sapientiae
+1100001086	imago tenebrarum quae superventura illis erat:	2020-04-18	Liber_Sapientiae
+1100001087	ipsi ergo sibi erant graviores tenebris.	2020-04-18	Liber_Sapientiae
+1100001088	caput 18	2020-04-18	Liber_Sapientiae
+1100001089	sanctis autem tuis maxima erat lux,	2020-04-18	Liber_Sapientiae
+1100001090	et horum quidem vocem audiebant, sed figuram non videbant.	2020-04-18	Liber_Sapientiae
+1100001091	et quia non et ipsi eadem passi erant, magnificabant te;	2020-04-18	Liber_Sapientiae
+1100001092	et qui ante laesi erant, quia non laedebantur, gratias agebant,	2020-04-18	Liber_Sapientiae
+1100001093	et ut esset differentia, donum petebant.	2020-04-18	Liber_Sapientiae
+1100001094	propter quod ignis ardentem columnam	2020-04-18	Liber_Sapientiae
+1100001095	ducem habuerunt ignotae viae,	2020-04-18	Liber_Sapientiae
+1100001096	et solem sine laesura boni hospitii praestitisti.	2020-04-18	Liber_Sapientiae
+1100001097	digni quidem illi carere luce,	2020-04-18	Liber_Sapientiae
+1100001098	et pati carcerem tenebrarum,	2020-04-18	Liber_Sapientiae
+1100001099	qui inclusos custodiebant filios tuos,	2020-04-18	Liber_Sapientiae
+1100001100	per quos incipiebat incorruptum legis lumen saeculo dari.	2020-04-18	Liber_Sapientiae
+1100001101	cum cogitarent iustorum occidere infantes,	2020-04-18	Liber_Sapientiae
+1100001102	et uno exposito filio et liberato,	2020-04-18	Liber_Sapientiae
+1100001103	in traductionem illorum, multitudinem filiorum abstulisti,	2020-04-18	Liber_Sapientiae
+1100001104	et pariter illos perdidisti in aqua valida.	2020-04-18	Liber_Sapientiae
+1100001105	illa enim nox ante cognita est a patribus nostris,	2020-04-18	Liber_Sapientiae
+1100001106	ut vere scientes quibus iuramentis crediderunt,	2020-04-18	Liber_Sapientiae
+1100001107	animaequiores essent.	2020-04-18	Liber_Sapientiae
+1100001108	suscepta est autem a populo tuo sanitas quidem iustorum,	2020-04-18	Liber_Sapientiae
+1100001109	iniustorum autem exterminatio.	2020-04-18	Liber_Sapientiae
+1100001110	sicut enim laesisti adversarios,	2020-04-18	Liber_Sapientiae
+1100001111	sic et nos provocans magnificasti.	2020-04-18	Liber_Sapientiae
+1100001112	absconse enim sacrificabant iusti pueri bonorum,	2020-04-18	Liber_Sapientiae
+1100001113	et iustitiae legem in concordia disposuerunt;	2020-04-18	Liber_Sapientiae
+1100001114	similiter et bona et mala recepturos iustos,	2020-04-18	Liber_Sapientiae
+1100001115	patrum iam decantantes laudes.	2020-04-18	Liber_Sapientiae
+1100001116	resonabat autem inconveniens inimicorum vox,	2020-04-18	Liber_Sapientiae
+1100001117	et flebilis audiebatur planctus ploratorum infantium.	2020-04-18	Liber_Sapientiae
+1100001118	simili autem poena servus cum domino afflictus est,	2020-04-18	Liber_Sapientiae
+1100001119	et popularis homo regi similia passus.	2020-04-18	Liber_Sapientiae
+1100001120	similiter ergo omnes, uno nomine mortis,	2020-04-18	Liber_Sapientiae
+1100001121	mortuos habebant innumerabiles:	2020-04-18	Liber_Sapientiae
+1100001122	nec enim ad sepeliendum vivi sufficiebant,	2020-04-18	Liber_Sapientiae
+1100001123	quoniam uno momento quae erat praeclarior	2020-04-18	Liber_Sapientiae
+1100001124	natio illorum exterminata est.	2020-04-18	Liber_Sapientiae
+1100001125	de omnibus enim non credentes, propter veneficia;	2020-04-18	Liber_Sapientiae
+1100001126	tunc vero primum cum fuit exterminium primogenitorum,	2020-04-18	Liber_Sapientiae
+1100001127	spoponderunt populum dei esse.	2020-04-18	Liber_Sapientiae
+1100001128	cum enim quietum silentium contineret omnia,	2020-04-18	Liber_Sapientiae
+1100001129	et nox in suo cursu medium iter haberet,	2020-04-18	Liber_Sapientiae
+1100001130	omnipotens sermo tuus de caelo, a regalibus sedibus,	2020-04-18	Liber_Sapientiae
+1100001131	durus debellator in mediam exterminii terram prosilivit,	2020-04-18	Liber_Sapientiae
+1100001132	gladius acutus insimulatum imperium tuum portans:	2020-04-18	Liber_Sapientiae
+1100001133	et stans, replevit omnia morte,	2020-04-18	Liber_Sapientiae
+1100001134	et usque ad caelum attingebat stans in terra.	2020-04-18	Liber_Sapientiae
+1100001135	tunc continuo visus somniorum malorum turbaverunt illos,	2020-04-18	Liber_Sapientiae
+1100001136	et timores supervenerunt insperati.	2020-04-18	Liber_Sapientiae
+1100001137	et alius alibi proiectus semivivus,	2020-04-18	Liber_Sapientiae
+1100001138	propter quam moriebatur causam demonstrabat mortis.	2020-04-18	Liber_Sapientiae
+1100001139	visiones enim quae illos turbaverunt haec praemonebant,	2020-04-18	Liber_Sapientiae
+1100001140	ne inscii quare mala patiebantur perirent.	2020-04-18	Liber_Sapientiae
+1100001141	tetigit autem tunc et iustos tentatio mortis,	2020-04-18	Liber_Sapientiae
+1100001142	et commotio in eremo facta est multitudinis:	2020-04-18	Liber_Sapientiae
+1100001143	sed non diu permansit ira tua.	2020-04-18	Liber_Sapientiae
+1100001144	prosperans enim homo sine querela deprecari pro populis,	2020-04-18	Liber_Sapientiae
+1100001145	proferens servitutis suae scutum,	2020-04-18	Liber_Sapientiae
+1100001146	orationem et per incensum deprecationem allegans,	2020-04-18	Liber_Sapientiae
+1100001147	restitit irae, et finem imposuit necessitati,	2020-04-18	Liber_Sapientiae
+1100001148	ostendens quoniam tuus est famulus.	2020-04-18	Liber_Sapientiae
+1100001149	vicit autem turbas non in virtute corporis,	2020-04-18	Liber_Sapientiae
+1100001150	nec armaturae potentia:	2020-04-18	Liber_Sapientiae
+1100001151	sed verbo illum qui se vexabat subiecit,	2020-04-18	Liber_Sapientiae
+1100001152	iuramenta parentum et testamentum commemorans.	2020-04-18	Liber_Sapientiae
+1100001153	cum enim iam acervatim cecidissent super alterutrum mortui,	2020-04-18	Liber_Sapientiae
+1100001154	interstitit, et amputavit impetum,	2020-04-18	Liber_Sapientiae
+1100001155	et divisit illam quae ad vivos ducebat viam.	2020-04-18	Liber_Sapientiae
+1100001156	in veste enim poderis quam habebat, totus erat orbis terrarum;	2020-04-18	Liber_Sapientiae
+1100001157	et parentum magnalia in quatuor ordinibus lapidum erant sculpta,	2020-04-18	Liber_Sapientiae
+1100001158	et magnificentia tua in diademate capitis illius sculpta erat.	2020-04-18	Liber_Sapientiae
+1100001159	his autem cessit qui exterminabat, et haec extimuit:	2020-04-18	Liber_Sapientiae
+1100001160	erat enim sola tentatio irae sufficiens.	2020-04-18	Liber_Sapientiae
+1100001161	caput 19	2020-04-18	Liber_Sapientiae
+1100001162	impiis autem usque in novissimum	2020-04-18	Liber_Sapientiae
+1100001163	sine misericordia ira supervenit.	2020-04-18	Liber_Sapientiae
+1100001164	praesciebat enim et futura illorum:	2020-04-18	Liber_Sapientiae
+1100001165	quoniam cum ipsi permisissent ut se educerent,	2020-04-18	Liber_Sapientiae
+1100001166	et cum magna sollicitudine praemisissent illos,	2020-04-18	Liber_Sapientiae
+1100001167	consequebantur illos, poenitentia acti.	2020-04-18	Liber_Sapientiae
+1100001168	adhuc enim inter manus habentes luctum,	2020-04-18	Liber_Sapientiae
+1100001169	et deplorantes ad monumenta mortuorum,	2020-04-18	Liber_Sapientiae
+1100001170	aliam sibi assumpserunt cogitationem inscientiae,	2020-04-18	Liber_Sapientiae
+1100001171	et quos rogantes proiecerant,	2020-04-18	Liber_Sapientiae
+1100001172	hos tamquam fugitivos persequebantur.	2020-04-18	Liber_Sapientiae
+1100001173	ducebat enim illos ad hunc finem digna necessitas;	2020-04-18	Liber_Sapientiae
+1100001174	et horum quae acciderant commemorationem amittebant,	2020-04-18	Liber_Sapientiae
+1100001175	ut quae deerant tormentis repleret punitio:	2020-04-18	Liber_Sapientiae
+1100001176	et populus quidem tuus mirabiliter transiret,	2020-04-18	Liber_Sapientiae
+1100001177	illi autem novam mortem invenirent.	2020-04-18	Liber_Sapientiae
+1100001178	omnis enim creatura ad suum genus ab initio refigurabatur,	2020-04-18	Liber_Sapientiae
+1100001179	deserviens tuis praeceptis,	2020-04-18	Liber_Sapientiae
+1100001180	ut pueri tui custodirentur illaesi.	2020-04-18	Liber_Sapientiae
+1100001181	nam nubes castra eorum obumbrabat,	2020-04-18	Liber_Sapientiae
+1100001182	et ex aqua quae ante erat, terra arida apparuit,	2020-04-18	Liber_Sapientiae
+1100001183	et in mari rubro via sine impedimento,	2020-04-18	Liber_Sapientiae
+1100001184	et campus germinans de profundo nimio:	2020-04-18	Liber_Sapientiae
+1100001185	per quem omnis natio transivit quae tegebatur tua manu,	2020-04-18	Liber_Sapientiae
+1100001186	videntes tua mirabilia et monstra.	2020-04-18	Liber_Sapientiae
+1100001187	tamquam enim equi depaverunt escam,	2020-04-18	Liber_Sapientiae
+1100001188	et tamquam agni exsultaverunt,	2020-04-18	Liber_Sapientiae
+1100001189	magnificantes te, domine, qui liberasti illos.	2020-04-18	Liber_Sapientiae
+1100001190	memores enim erant adhuc eorum	2020-04-18	Liber_Sapientiae
+1100001191	quae in incolatu illorum facta fuerant:	2020-04-18	Liber_Sapientiae
+1100001192	quemadmodum pro natione animalium eduxit terra muscas,	2020-04-18	Liber_Sapientiae
+1100001193	et pro piscibus eructavit fluvius multitudinem ranarum.	2020-04-18	Liber_Sapientiae
+1100001194	novissime autem viderunt novam creaturam avium,	2020-04-18	Liber_Sapientiae
+1100001195	cum, adducti concupiscentia, postulaverunt escas epulationis.	2020-04-18	Liber_Sapientiae
+1100001196	in allocutione enim desiderii ascendit illis de mari ortygometra:	2020-04-18	Liber_Sapientiae
+1100001197	et vexationes peccatoribus supervenerunt,	2020-04-18	Liber_Sapientiae
+1100001198	non sine illis quae ante facta erant argumentis per vim fulminum:	2020-04-18	Liber_Sapientiae
+1100001199	iuste enim patiebantur secundum suas nequitias.	2020-04-18	Liber_Sapientiae
+1100001200	etenim detestabiliorem inhospitalitatem instituerunt:	2020-04-18	Liber_Sapientiae
+1100001201	alii quidem ignotos non recipiebant advenas;	2020-04-18	Liber_Sapientiae
+1100001202	alii autem bonos hospites in servitutem redigebant.	2020-04-18	Liber_Sapientiae
+1100001203	et non solum haec, sed et alius quidam respectus illorum erat,	2020-04-18	Liber_Sapientiae
+1100001204	quoniam inviti recipiebant extraneos.	2020-04-18	Liber_Sapientiae
+1100001205	qui autem cum laetitia receperunt hos	2020-04-18	Liber_Sapientiae
+1100001206	qui eisdem usi erant iustitiis,	2020-04-18	Liber_Sapientiae
+1100001207	saevissimis afflixerunt doloribus.	2020-04-18	Liber_Sapientiae
+1100001208	percussi sunt autem caecitate:	2020-04-18	Liber_Sapientiae
+1100001209	sicut illi in foribus iusti,	2020-04-18	Liber_Sapientiae
+1100001210	cum subitaneis cooperti essent tenebris,	2020-04-18	Liber_Sapientiae
+1100001211	unusquisque transitum ostii sui quaerebat.	2020-04-18	Liber_Sapientiae
+1100001212	in se enim elementa dum convertuntur,	2020-04-18	Liber_Sapientiae
+1100001213	sicut in organo qualitatis sonus immutatur,	2020-04-18	Liber_Sapientiae
+1100001214	et omnia suum sonum custodiunt:	2020-04-18	Liber_Sapientiae
+1100001215	unde aestimari ex ipso visu certo potest.	2020-04-18	Liber_Sapientiae
+1100001216	agrestia enim in aquatica convertebantur,	2020-04-18	Liber_Sapientiae
+1100001217	et quaecumque erant natantia, in terram transibant.	2020-04-18	Liber_Sapientiae
+1100001218	ignis in aqua valebat supra suam virtutem,	2020-04-18	Liber_Sapientiae
+1100001219	et aqua extinguentis naturae obliviscebatur.	2020-04-18	Liber_Sapientiae
+1100001220	flammae e contrario corruptibilium animalium	2020-04-18	Liber_Sapientiae
+1100001221	non vexaverunt carnes coambulantium,	2020-04-18	Liber_Sapientiae
+1100001222	nec dissolvebant illam, quae facile dissolvebatur sicut glacies, bonam escam.	2020-04-18	Liber_Sapientiae
+1100001223	in omnibus enim magnificasti populum tuum, domine,	2020-04-18	Liber_Sapientiae
+1100001224	et honorasti, et non despexisti,	2020-04-18	Liber_Sapientiae
+1100001225	in omni tempore et in omni loco assistens eis.	2020-04-18	Liber_Sapientiae

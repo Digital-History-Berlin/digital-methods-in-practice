@@ -1,0 +1,273 @@
+1100000001	liber esther	2020-04-18	Liber_Esther
+1100000002	caput 1	2020-04-18	Liber_Esther
+1100000003	in diebus assueri, qui regnavit ab india usque aethiopiam super centum viginti septem provincias,quando sedit in solio regni sui, susan civitas regni eius exordium fuit.	2020-04-18	Liber_Esther
+1100000004	tertio igitur anno imperii sui fecit grande convivium cunctis principibus et pueris suis, fortissimis persarum, et medorum inclytis, et praefectis provinciarum coram se,ut ostenderet divitias gloriae regni sui, ac magnitudinem atque iactantiam potentiae suae, multo tempore, centum videlicet et octoginta diebus.	2020-04-18	Liber_Esther
+1100000005	cumque implerentur dies convivii, invitavit omnem populum, qui inventus est in susan, a maximo usque ad minimum: et iussit septem diebus convivium praeparari in vestibulo horti, et nemoris quod regio cultu et manu consitum erat.	2020-04-18	Liber_Esther
+1100000006	et pendebant ex omni parte tentoria aerii coloris et carbasini ac hyacinthini, sustentata funibus byssinis atque purpureis, qui eburneis circulis inserti erant, et columnis marmoreis fulciebantur. 	2020-04-18	Liber_Esther
+1100000007	lectuli quoque aurei et argentei, super pavimentum smaragdino et pario stratum lapide, dispositi erant: quod mira varietate pictura decorabat.	2020-04-18	Liber_Esther
+1100000008	bibebant autem qui invitati erant aureis poculis, et aliis atque aliis vasis cibi inferebantur. 	2020-04-18	Liber_Esther
+1100000009	vinum quoque, ut magnificentia regia dignum erat, abundans, et praecipuum ponebatur.	2020-04-18	Liber_Esther
+1100000010	nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, praeponens mensis singulos de principibus suis ut sumeret unusquisque quod vellet.	2020-04-18	Liber_Esther
+1100000011	vasthi quoque regina fecit convivium feminarum in palatio, ubi rex assuerus manere consueverat.	2020-04-18	Liber_Esther
+1100000012	itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset mero, praecepit maumam, et bazatha, et harbona, et bagatha, et abgatha, et zethar, et charchas, septem eunuchis qui in conspectu eius ministrabant,ut introducerent reginam vasthi coram rege, posito super caput eius diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius: erat enim pulchra valde.	2020-04-18	Liber_Esther
+1100000013	quae renuit, et ad regis imperium quod per eunuchos mandaverat, venire contempsit. 	2020-04-18	Liber_Esther
+1100000014	unde iratus rex, et nimio furore succensus,interrogavit sapientes, qui ex more regio semper ei aderant, et illorum faciebat cuncta consilio, scientium leges, ac iura maiorum(erant autem primi et proximi, charsena, et sethar, et admatha, et tharsis, et mares, et marsana, et mamuchan, septem duces persarum, atque medorum, qui videbant faciem regis, et primi post eum residere soliti erant):cui sententiae vasthi regina subiaceret, quae assueri regis imperium, quod per eunuchos mandaverat, facere noluisset.	2020-04-18	Liber_Esther
+1100000015	responditque mamuchan, audiente rege atque principibus: non solum regem laesit regina vasthi, sed et omnes populos et principes qui sunt in cunctis provinciis regis assueri.	2020-04-18	Liber_Esther
+1100000016	egredietur enim sermo reginae ad omnes mulieres, ut contemnant viros suos, et dicant: rex assuerus iussit ut regina vasthi intraret ad eum, et illa noluit.	2020-04-18	Liber_Esther
+1100000017	atque hoc exemplo omnes principum coniuges persarum atque medorum parvipendent imperia maritorum: unde regis iusta est indignatio.	2020-04-18	Liber_Esther
+1100000018	si tibi placet, egrediatur edictum a facie tua, et scribatur iuxta legem persarum atque medorum, quam praeteriri illicitum est, ut nequaquam ultra vasthi ingrediatur ad regem, sed regnum illius altera, quae melior est illa, accipiat.	2020-04-18	Liber_Esther
+1100000019	et hoc in omne (quod latissimum est) provinciarum tuarum divulgetur imperium, et cunctae uxores, tam maiorum quam minorum, deferant maritis suis honorem.	2020-04-18	Liber_Esther
+1100000020	placuit consilium eius regi et principibus: fecitque rex iuxta consilium mamuchan,et misit epistolas ad universas provincias regni sui, ut quaeque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac maiores in domibus suis: et hoc per cunctos populos divulgari.	2020-04-18	Liber_Esther
+1100000021	caput 2	2020-04-18	Liber_Esther
+1100000022	his ita gestis, postquam regis assueri indignatio deferbuerat, recordatus est vasthi, et quae fecisset, vel quae passa esset:dixeruntque pueri regis ac ministri eius: quaerantur regi puellae virgines ac speciosae,et mittantur qui considerent per universas provincias puellas speciosas et virgines: et adducant eas ad civitatem susan, et tradant eas in domum feminarum sub manu egei eunuchi, qui est praepositus et custos mulierum regiarum: et accipiant mundum muliebrem, et cetera ad usus necessaria.	2020-04-18	Liber_Esther
+1100000023	et quaecumque inter omnes oculis regis placuerit, ipsa regnet pro vasthi. 	2020-04-18	Liber_Esther
+1100000024	placuit sermo regi: et ita, ut suggesserant, iussit fieri.	2020-04-18	Liber_Esther
+1100000025	erat vir iudaeus in susan civitate, vocabulo mardochaeus filius iair, filii semei, filii cis, de stirpe iemini,qui translatus fuerat de ierusalem eo tempore quo iechoniam regem iuda nabuchodonosor rex babylonis transtulerat,qui fuit nutritius filiae fratris sui edissae, quae altero nomine vocabatur esther, et utrumque parentem amiserat: pulchra nimis, et decora facie. 	2020-04-18	Liber_Esther
+1100000026	mortuisque patre eius ac matre, mardochaeus sibi eam adoptavit in filiam.	2020-04-18	Liber_Esther
+1100000027	cumque percrebruisset regis imperium, et iuxta mandatum illius multae pulchrae virgines adducerentur susan, et egeo traderentur eunucho, esther quoque inter ceteras puellas ei tradita est, ut servaretur in numero feminarum.	2020-04-18	Liber_Esther
+1100000028	quae placuit ei, et invenit gratiam in conspectu illius. 	2020-04-18	Liber_Esther
+1100000029	et praecepit eunucho, ut acceleraret mundum muliebrem, et traderet ei partes suas, et septem puellas speciosissimas de domo regis, et tam ipsam quam pedissequas eius ornaret atque excoleret.	2020-04-18	Liber_Esther
+1100000030	quae noluit indicare ei populum et patriam suam: mardochaeus enim praeceperat ei, ut de hac re omnino reticeret:qui deambulabat quotidie ante vestibulum domus, in qua electae virgines servabantur, curam agens salutis esther, et scire volens quid ei accideret.	2020-04-18	Liber_Esther
+1100000031	cum autem venisset tempus singularum per ordinem puellarum ut intrarent ad regem, expletis omnibus quae ad cultum muliebrem pertinebant, mensis duodecimus vertebatur: ita dumtaxat, ut sex mensibus oleo ungerentur myrrhino, et aliis sex quibusdam pigmentis et aromatibus uterentur.	2020-04-18	Liber_Esther
+1100000032	ingredientesque ad regem, quidquid postulassent ad ornatum pertinens, accipiebant: et ut eis placuerat, compositae de triclinio feminarum ad regis cubiculum transibant.	2020-04-18	Liber_Esther
+1100000033	et quae intraverat vespere, egrediebatur mane, atque inde in secundas aedes deducebatur, quae sub manu susagazi eunuchi erant, qui concubinis regis praesidebat: nec habebat potestatem ad regem ultra redeundi, nisi voluisset rex, et eam venire iussisset ex nomine.	2020-04-18	Liber_Esther
+1100000034	evoluto autem tempore per ordinem, instabat dies quo esther filia abihail fratris mardochaei, quam sibi adoptaverat in filiam, deberet intrare ad regem. 	2020-04-18	Liber_Esther
+1100000035	quae non quaesivit muliebrem cultum, sed quaecumque voluit egeus eunuchus custos virginum, haec ei ad ornatum dedit. 	2020-04-18	Liber_Esther
+1100000036	erat enim formosa valde, et incredibili pulchritudine: omnium oculis gratiosa et amabilis videbatur.	2020-04-18	Liber_Esther
+1100000037	ducta est itaque ad cubiculum regis assueri mense decimo, qui vocatur tebeth, septimo anno regni eius.	2020-04-18	Liber_Esther
+1100000038	et adamavit eam rex plus quam omnes mulieres, habuitque gratiam et misericordiam coram eo super omnes mulieres: et posuit diadema regni in capite eius, fecitque eam regnare in loco vasthi.	2020-04-18	Liber_Esther
+1100000039	et iussit convivium praeparari permagnificum cunctis principibus et servis suis pro coniunctione et nuptiis esther. 	2020-04-18	Liber_Esther
+1100000040	et dedit requiem universis provinciis, ac dona largitus est iuxta magnificentiam principalem.	2020-04-18	Liber_Esther
+1100000041	cumque secundo quaererentur virgines et congregarentur, mardochaeus manebat ad ianuam regis:necdum prodiderat esther patriam et populum suum, iuxta mandatum eius. 	2020-04-18	Liber_Esther
+1100000042	quidquid enim ille praecipiebat, observabat esther: et ita cuncta faciebat ut eo tempore solita erat, quo eam parvulam nutriebat.	2020-04-18	Liber_Esther
+1100000043	eo igitur tempore, quo mardochaeus ad regis ianuam morabatur, irati sunt bagathan et thares duo eunuchi regis, qui ianitores erant, et in primo palatii limine praesidebant: volueruntque insurgere in regem, et occidere eum.	2020-04-18	Liber_Esther
+1100000044	quod mardochaeum non latuit, statimque nuntiavit reginae esther: et illa regi ex nomine mardochaei, qui ad se rem detulerat.	2020-04-18	Liber_Esther
+1100000045	quaesitum est, et inventum: et appensus est uterque eorum in patibulo. 	2020-04-18	Liber_Esther
+1100000046	mandatumque est historiis, et annalibus traditum coram rege.	2020-04-18	Liber_Esther
+1100000047	caput 3	2020-04-18	Liber_Esther
+1100000048	post haec rex assuerus exaltavit aman filium amadathi, qui erat de stirpe agag: et posuit solium eius super omnes principes quos habebat.	2020-04-18	Liber_Esther
+1100000049	cunctique servi regis, qui in foribus palatii versabantur, flectebant genua, et adorabant aman: sic enim praeceperat eis imperator: solus mardochaeus non flectebat genu, neque adorabat eum.	2020-04-18	Liber_Esther
+1100000050	cui dixerunt pueri regis, qui ad fores palatii praesidebant: cur praeter ceteros non observas mandatum regis?	2020-04-18	Liber_Esther
+1100000051	cumque hoc crebrius dicerent, et ille nollet audire, nuntiaverunt aman, scire cupientes utrum perseveraret in sententia: dixerat enim eis se esse iudaeum.	2020-04-18	Liber_Esther
+1100000052	quod cum audisset aman, et experimento probasset quod mardochaeus non flecteret sibi genu, nec se adoraret, iratus est valde,et pro nihilo duxit in unum mardochaeum mittere manus suas: audierat enim quod esset gentis iudaeae; magisque voluit omnem iudaeorum, qui erant in regno assueri, perdere nationem.	2020-04-18	Liber_Esther
+1100000053	mense primo (cuius vocabulum est nisan), anno duodecimo regni assueri, missa est sors in urnam, quae hebraice dicitur phur, coram aman, quo die et quo mense gens iudaeorum deberet interfici: et exivit mensis duodecimus, qui vocatur adar.	2020-04-18	Liber_Esther
+1100000054	dixitque aman regi assuero: est populus per omnes provincias regni tui dispersus, et a se mutuo separatus, novis utens legibus et caeremoniis, insuper et regis scita contemnens: et optime nosti quod non expediat regno tuo ut insolescat per licentiam.	2020-04-18	Liber_Esther
+1100000055	si tibi placet, decerne, ut pereat, et decem millia talentorum appendam arcariis gazae tuae.	2020-04-18	Liber_Esther
+1100000056	tulit ergo rex annulum, quo utebatur, de manu sua, et dedit eum aman filio amadathi de progenie agag, hosti iudaeorum,dixitque ad eum: argentum, quod tu polliceris, tuum sit; de populo age quod tibi placet.	2020-04-18	Liber_Esther
+1100000057	vocatique sunt scribae regis mense primo nisan, tertiadecima die eiusdem mensis: et scriptum est, ut iusserat aman, ad omnes satrapas regis, et iudices provinciarum, diversarumque gentium, ut quaeque gens legere poterat et audire pro varietate linguarum ex nomine regis assueri: et litterae signatae ipsius annulomissae sunt per cursores regis ad universas provincias, ut occiderent atque delerent omnes iudaeos, a puero usque ad senem, parvulos et mulieres, uno die, hoc est tertiodecimo mensis duodecimi, qui vocatur adar; et bona eorum diriperent.	2020-04-18	Liber_Esther
+1100000058	summa autem epistolarum haec fuit, ut omnes provinciae scirent, et pararent se ad praedictam diem.	2020-04-18	Liber_Esther
+1100000059	festinabant cursores, qui missi erant, regis imperium explere. 	2020-04-18	Liber_Esther
+1100000060	statimque in susan pependit edictum, rege et aman celebrante convivium, et cunctis iudaeis, qui in urbe erant, flentibus.	2020-04-18	Liber_Esther
+1100000061	caput 4	2020-04-18	Liber_Esther
+1100000062	quae cum audisset mardochaeus, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti: et in platea mediae civitatis voce magna clamabat, ostendens amaritudinem animi sui,et hoc eiulatu usque ad fores palatii gradiens. 	2020-04-18	Liber_Esther
+1100000063	non enim erat licitum indutum sacco aulam regis intrare.	2020-04-18	Liber_Esther
+1100000064	in omnibus quoque provinciis, oppidis, ac locis, ad quae crudele regis dogma pervenerat, planctus ingens erat apud iudaeos, ieiunium, ululatus, et fletus, sacco et cinere multis pro strato utentibus.	2020-04-18	Liber_Esther
+1100000065	ingressae autem sunt puellae esther et eunuchi, nuntiaveruntque ei. 	2020-04-18	Liber_Esther
+1100000066	quod audiens consternata est, et vestem misit, ut ablato sacco induerent eum: quam accipere noluit.	2020-04-18	Liber_Esther
+1100000067	accitoque athach eunucho, quem rex ministrum ei dederat, praecepit ei ut iret ad mardochaeum, et disceret ab eo cur hoc faceret.	2020-04-18	Liber_Esther
+1100000068	egressusque athach, ivit ad mardochaeum stantem in platea civitatis, ante ostium palatii:qui indicavit ei omnia quae acciderant: quomodo aman promisisset ut in thesauros regis pro iudaeorum nece inferret argentum.	2020-04-18	Liber_Esther
+1100000069	exemplar quoque edicti, quod pendebat in susan, dedit ei, ut reginae ostenderet, et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo.	2020-04-18	Liber_Esther
+1100000070	regressus athach, nuntiavit esther omnia quae mardochaeus dixerat.	2020-04-18	Liber_Esther
+1100000071	quae respondit ei, et iussit ut diceret mardochaeo:omnes servi regis, et cunctae, quae sub ditione eius sunt, norunt provinciae, quod sive vir, sive mulier non vocatus, interius atrium regis intraverit, absque ulla cunctatione statim interficiatur: nisi forte rex auream virgam ad eum tetenderit pro signo clementiae, atque ita possit vivere. 	2020-04-18	Liber_Esther
+1100000072	ego igitur quomodo ad regem intrare potero, quae triginta iam diebus non sum vocata ad eum?	2020-04-18	Liber_Esther
+1100000073	quod cum audisset mardochaeus,rursum mandavit esther, dicens: ne putes quod animam tuam tantum liberes, quia in domo regis es prae cunctis iudaeis:si enim nunc silueris, per aliam occasionem liberabuntur iudaei: et tu, et domus patris tui, peribitis. 	2020-04-18	Liber_Esther
+1100000074	et quis novit utrum idcirco ad regnum veneris, ut in tali tempore parareris?	2020-04-18	Liber_Esther
+1100000075	rursumque esther haec mardochaeo verba mandavit:vade, et congrega omnes iudaeos quos in susan repereris, et orate pro me. 	2020-04-18	Liber_Esther
+1100000076	non comedatis et non bibatis tribus diebus et tribus noctibus: et ego cum ancillis meis similiter ieiunabo, et tunc ingrediar ad regem contra legem faciens, non vocata, tradensque me morti et periculo.	2020-04-18	Liber_Esther
+1100000077	ivit itaque mardochaeus, et fecit omnia quae ei esther praeceperat.	2020-04-18	Liber_Esther
+1100000078	caput 5	2020-04-18	Liber_Esther
+1100000079	die autem tertio induta est esther regalibus vestimentis, et stetit in atrio domus regiae, quod erat interius, contra basilicam regis: at ille sedebat super solium suum in consistorio palatii contra ostium domus.	2020-04-18	Liber_Esther
+1100000080	cumque vidisset esther reginam stantem, placuit oculis eius, et extendit contra eam virgam auream, quam tenebat manu: quae accedens, osculata est summitatem virgae eius.	2020-04-18	Liber_Esther
+1100000081	dixitque ad eam rex: quid vis, esther regina? 	2020-04-18	Liber_Esther
+1100000082	quae est petitio tua? 	2020-04-18	Liber_Esther
+1100000083	etiam si dimidiam partem regni petieris, dabitur tibi.	2020-04-18	Liber_Esther
+1100000084	at illa respondit: si regi placet, obsecro ut venias ad me hodie, et aman tecum, ad convivium quod paravi.	2020-04-18	Liber_Esther
+1100000085	statimque rex: vocate, inquit, cito aman ut esther obediat voluntati. 	2020-04-18	Liber_Esther
+1100000086	venerunt itaque rex et aman ad convivium, quod eis regina paraverat.	2020-04-18	Liber_Esther
+1100000087	dixitque ei rex, postquam vinum biberat abundanter: quid petis ut detur tibi? 	2020-04-18	Liber_Esther
+1100000088	et pro qua re postulas? 	2020-04-18	Liber_Esther
+1100000089	etiam si dimidiam partem regni mei petieris, impetrabis.	2020-04-18	Liber_Esther
+1100000090	cui respondit esther: petitio mea, et preces sunt istae:si inveni in conspectu regis gratiam, et si regi placet ut det mihi quod postulo, et meam impleat petitionem: veniat rex et aman ad convivium quod paravi eis, et cras aperiam regi voluntatem meam.	2020-04-18	Liber_Esther
+1100000091	egressus est itaque illo die aman laetus et alacer. 	2020-04-18	Liber_Esther
+1100000092	cumque vidisset mardochaeum sedentem ante fores palatii, et non solum non assurrexisse sibi, sed nec motum quidem de loco sessionis suae, indignatus est valde:et dissimulata ira reversus in domum suam, convocavit ad se amicos suos, et zares uxorem suam,et exposuit illis magnitudinem divitiarum suarum, filiorumque turbam, et quanta eum gloria super omnes principes et servos suos rex elevasset.	2020-04-18	Liber_Esther
+1100000093	et post haec ait: regina quoque esther nullum alium vocavit ad convivium cum rege praeter me: apud quam etiam cras cum rege pransurus sum.	2020-04-18	Liber_Esther
+1100000094	et cum haec omnia habeam, nihil me habere puto, quamdiu videro mardochaeum iudaeum sedentem ante fores regias.	2020-04-18	Liber_Esther
+1100000095	responderuntque ei zares uxor eius, et ceteri amici: iube parari excelsam trabem, habentem altitudinis quinquaginta cubitos, et dic mane regi ut appendatur super eam mardochaeus, et sic ibis cum rege laetus ad convivium. 	2020-04-18	Liber_Esther
+1100000096	placuit ei consilium, et iussit excelsam parari crucem.	2020-04-18	Liber_Esther
+1100000097	caput 6	2020-04-18	Liber_Esther
+1100000098	noctem illam duxit rex insomnem, iussitque sibi afferri historias et annales priorum temporum. 	2020-04-18	Liber_Esther
+1100000099	quae cum illo praesente legerentur,ventum est ad illum locum ubi scriptum erat quomodo nuntiasset mardochaeus insidias bagathan et thares eunuchorum, regem assuerum iugulare cupientium.	2020-04-18	Liber_Esther
+1100000100	quod cum audisset rex, ait: quid pro hac fide honoris ac praemii mardochaeus consecutus est? 	2020-04-18	Liber_Esther
+1100000101	dixerunt ei servi illius ac ministri: nihil omnino mercedis accepit.	2020-04-18	Liber_Esther
+1100000102	statimque rex: quis est, inquit, in atrio? 	2020-04-18	Liber_Esther
+1100000103	aman quippe interius atrium domus regiae intraverat, ut suggereret regi, et iuberet mardochaeum affigi patibulo, quod ei fuerat praeparatum.	2020-04-18	Liber_Esther
+1100000104	responderunt pueri: aman stat in atrio. 	2020-04-18	Liber_Esther
+1100000105	dixitque rex: ingrediatur.	2020-04-18	Liber_Esther
+1100000106	cumque esset ingressus, ait illi: quid debet fieri viro, quem rex honorare desiderat? 	2020-04-18	Liber_Esther
+1100000107	cogitans autem in corde suo aman, et reputans quod nullum alium rex, nisi se, vellet honorare,respondit: homo, quem rex honorare cupit,debet indui vestibus regiis, et imponi super equum, qui de sella regis est, et accipere regium diadema super caput suum:et primus de regiis principibus ac tyrannis teneat equum eius, et per plateam civitatis incedens clamet, et dicat: sic honorabitur, quemcumque voluerit rex honorare.	2020-04-18	Liber_Esther
+1100000108	dixitque ei rex: festina, et sumpta stola et equo, fac, ut locutus es, mardochaeo iudaeo, qui sedet ante fores palatii. 	2020-04-18	Liber_Esther
+1100000109	cave ne quidquam de his, quae locutus es, praetermittas.	2020-04-18	Liber_Esther
+1100000110	tulit itaque aman stolam et equum, indutumque mardochaeum in platea civitatis, et impositum equo praecedebat, atque clamabat: hoc honore condignus est, quemcumque rex voluerit honorare.	2020-04-18	Liber_Esther
+1100000111	reversusque est mardochaeus ad ianuam palatii: et aman festinavit ire in domum suam, lugens et operto capite:narravitque zares uxori suae, et amicis, omnia quae evenissent sibi. 	2020-04-18	Liber_Esther
+1100000112	cui responderunt sapientes quos habebat in consilio, et uxor eius: si de semine iudaeorum est mardochaeus, ante quem cadere coepisti, non poteris ei resistere, sed cades in conspectu eius.	2020-04-18	Liber_Esther
+1100000113	adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.	2020-04-18	Liber_Esther
+1100000114	caput 7	2020-04-18	Liber_Esther
+1100000115	intravit itaque rex et aman, ut biberent cum regina.	2020-04-18	Liber_Esther
+1100000116	dixitque ei rex etiam secunda die, postquam vino incaluerat: quae est petitio tua, esther, ut detur tibi? 	2020-04-18	Liber_Esther
+1100000117	et quid vis fieri? 	2020-04-18	Liber_Esther
+1100000118	etiam si dimidiam partem regni mei petieris, impetrabis.	2020-04-18	Liber_Esther
+1100000119	ad quem illa respondit: si inveni gratiam in oculis tuis o rex, et si tibi placet, dona mihi animam meam pro qua rogo, et populum meum pro quo obsecro.	2020-04-18	Liber_Esther
+1100000120	traditi enim sumus ego et populus meus, ut conteramur, iugulemur, et pereamus. 	2020-04-18	Liber_Esther
+1100000121	atque utinam in servos et famulas venderemur: esset tolerabile malum, et gemens tacerem: nunc autem hostis noster est, cuius crudelitas redundat in regem.	2020-04-18	Liber_Esther
+1100000122	respondensque rex assuerus, ait: quis est iste, et cuius potentiae, ut haec audeat facere?	2020-04-18	Liber_Esther
+1100000123	dixitque esther: hostis et inimicus noster pessimus iste est aman. 	2020-04-18	Liber_Esther
+1100000124	quod ille audiens, illico obstupuit, vultum regis ac reginae ferre non sustinens.	2020-04-18	Liber_Esther
+1100000125	rex autem iratus surrexit, et de loco convivii intravit in hortum arboribus consitum. 	2020-04-18	Liber_Esther
+1100000126	aman quoque surrexit ut rogaret esther reginam pro anima sua: intellexit enim a rege sibi paratum malum.	2020-04-18	Liber_Esther
+1100000127	qui cum reversus esset de horto nemoribus consito, et intrasset convivii locum, reperit aman super lectulum corruisse in quo iacebat esther, et ait: etiam reginam vult opprimere, me praesente, in domo mea. 	2020-04-18	Liber_Esther
+1100000128	necdum verbum de ore regis exierat, et statim operuerunt faciem eius.	2020-04-18	Liber_Esther
+1100000129	dixitque harbona, unus de eunuchis, qui stabant in ministerio regis: en lignum quod paraverat mardochaeo, qui locutus est pro rege, stat in domo aman, habens altitudinis quinquaginta cubitos. 	2020-04-18	Liber_Esther
+1100000130	cui dixit rex: appendite eum in eo.	2020-04-18	Liber_Esther
+1100000131	suspensus est itaque aman in patibulo quod paraverat mardochaeo: et regis ira quievit.	2020-04-18	Liber_Esther
+1100000132	caput 8	2020-04-18	Liber_Esther
+1100000133	die illo dedit rex assuerus esther reginae domum aman adversarii iudaeorum, et mardochaeus ingressus est ante faciem regis. 	2020-04-18	Liber_Esther
+1100000134	confessa est enim ei esther quod esset patruus suus.	2020-04-18	Liber_Esther
+1100000135	tulitque rex annulum, quem ab aman recipi iusserat, et tradidit mardochaeo. 	2020-04-18	Liber_Esther
+1100000136	esther autem constituit mardochaeum super domum suam.	2020-04-18	Liber_Esther
+1100000137	nec his contenta, procidit ad pedes regis, flevitque, et locuta ad eum oravit ut malitiam aman agagitae, et machinationes eius pessimas quas excogitaverat contra iudaeos, iuberet irritas fieri.	2020-04-18	Liber_Esther
+1100000138	at ille ex more sceptrum aureum protendit manu, quo signum clementiae monstrabatur: illaque consurgens stetit ante eum,et ait: si placet regi, et si inveni gratiam in oculis eius, et deprecatio mea non ei videtur esse contraria, obsecro ut novis epistolis, veteres aman litterae, insidiatoris et hostis iudaeorum, quibus eos in cunctis regis provinciis perire praeceperat, corrigantur.	2020-04-18	Liber_Esther
+1100000139	quomodo enim potero sustinere necem et interfectionem populi mei?	2020-04-18	Liber_Esther
+1100000140	responditque rex assuerus esther reginae, et mardochaeo iudaeo: domum aman concessi esther, et ipsum iussi affigi cruci, quia ausus est manum mittere in iudaeos.	2020-04-18	Liber_Esther
+1100000141	scribite ergo iudaeis, sicut vobis placet, regis nomine, signantes litteras annulo meo. 	2020-04-18	Liber_Esther
+1100000142	haec enim consuetudo erat, ut epistolis, quae ex regis nomine mittebantur et illius annulo signatae erant, nemo auderet contradicere.	2020-04-18	Liber_Esther
+1100000143	accitisque scribis et librariis regis (erat autem tempus tertii mensis, qui appellatur siban) vigesima et tertia die illius scriptae sunt epistolae, ut mardochaeus voluerat, ad iudaeos, et ad principes, procuratoresque et iudices, qui centum viginti septem provinciis ab india usque ad aethiopiam praesidebant: provinciae atque provinciae, populo et populo iuxta linguas et litteras suas, et iudaeis, prout legere poterant et audire.	2020-04-18	Liber_Esther
+1100000144	ipsaeque epistolae, quae regis nomine mittebantur, annulo ipsius obsignatae sunt, et missae per veredarios: qui per omnes provincias discurrentes, veteres litteras novis nuntiis praevenirent.	2020-04-18	Liber_Esther
+1100000145	quibus imperavit rex, ut convenirent iudaeos per singulas civitates, et in unum praeciperent congregari ut starent pro animabus suis, et omnes inimicos suos cum coniugibus ac liberis et universis domibus, interficerent atque delerent, et spolia eorum diriperent.	2020-04-18	Liber_Esther
+1100000146	et constituta est per omnes provincias una ultionis dies, id est tertiadecima mensis duodecimi adar.	2020-04-18	Liber_Esther
+1100000147	summaque epistolae haec fuit, ut in omnibus terris ac populis qui regis assueri subiacebant imperio, notum fieret paratos esse iudaeos ad capiendam vindictam de hostibus suis.	2020-04-18	Liber_Esther
+1100000148	egressique sunt veredarii celeres nuntia perferentes, et edictum regis pependit in susan.	2020-04-18	Liber_Esther
+1100000149	mardochaeus autem de palatio et de conspectu regis egrediens, fulgebat vestibus regiis, hyacinthinis videlicet et aeriis, coronam auream portans in capite, et amictus serico pallio atque purpureo. 	2020-04-18	Liber_Esther
+1100000150	omnisque civitas exultavit atque laetata est.	2020-04-18	Liber_Esther
+1100000151	iudaeis autem nova lux oriri visa est, gaudium, honor, et tripudium.	2020-04-18	Liber_Esther
+1100000152	apud omnes populos, urbes, atque provincias, quocumque regis iussa veniebant, mira exultatio, epulae atque convivia, et festus dies: in tantum ut plures alterius gentis et sectae eorum religioni et caeremoniis iungerentur. 	2020-04-18	Liber_Esther
+1100000153	grandis enim cunctos iudaici nominis terror invaserat.	2020-04-18	Liber_Esther
+1100000154	caput 9	2020-04-18	Liber_Esther
+1100000155	igitur duodecimi mensis, quem adar vocari ante iam diximus, tertiadecima die, quando cunctis iudaeis interfectio parabatur, et hostes eorum inhiabant sanguini, versa vice iudaei superiores esse coeperunt, et se de adversariis vindicare.	2020-04-18	Liber_Esther
+1100000156	congregatique sunt per singulas civitates, oppida, et loca, ut extenderent manum contra inimicos, et persecutores suos. 	2020-04-18	Liber_Esther
+1100000157	nullusque ausus est resistere, eo quod omnes populos magnitudinis eorum formido penetrarat.	2020-04-18	Liber_Esther
+1100000158	nam et provinciarum iudices, et duces, et procuratores, omnisque dignitas quae singulis locis ac operibus praeerat, extollebant iudaeos timore mardochaei,quem principem esse palatii, et plurimum posse cognoverant: fama quoque nominis eius crescebat quotidie, et per cunctorum ora volitabat.	2020-04-18	Liber_Esther
+1100000159	itaque percusserunt iudaei inimicos suos plaga magna, et occiderunt eos, reddentes eis quod sibi paraverant facere:in tantum ut etiam in susan quingentos viros interficerent, extra decem filios aman agagitae hostis iudaeorum: quorum ista sunt nomina:pharsandatha, et delphon, et esphatha,et phoratha, et adalia, et aridatha,et phermesta, et arisai, et aridai, et iezatha.	2020-04-18	Liber_Esther
+1100000160	quos cum occidissent, praedas de substantiis eorum tangere noluerunt.	2020-04-18	Liber_Esther
+1100000161	statimque numerus eorum, qui occisi erant in susan, ad regem relatus est.	2020-04-18	Liber_Esther
+1100000162	qui dixit reginae: in urbe susan interfecerunt iudaei quingentos viros, et alios decem filios aman: quantam putas eos exercere caedem in universis provinciis? 	2020-04-18	Liber_Esther
+1100000163	quid ultra postulas, et quid vis ut fieri iubeam?	2020-04-18	Liber_Esther
+1100000164	cui illa respondit: si regi placet, detur potestas iudaeis, ut sicut fecerunt hodie in susan, sic et cras faciant, et decem filii aman in patibulis suspendantur.	2020-04-18	Liber_Esther
+1100000165	praecepitque rex ut ita fieret. 	2020-04-18	Liber_Esther
+1100000166	statimque in susan pependit edictum, et decem filii aman suspensi sunt.	2020-04-18	Liber_Esther
+1100000167	congregatis iudaeis quartadecima die mensis adar, interfecti sunt in susan trecenti viri: nec eorum ab illis direpta substantia est.	2020-04-18	Liber_Esther
+1100000168	sed et per omnes provincias quae ditioni regis subiacebant, pro animabus suis steterunt iudaei, interfectis hostibus ac persecutoribus suis: in tantum ut septuaginta quinque millia occisorum implerentur, et nullus de substantiis eorum quidquam contingeret.	2020-04-18	Liber_Esther
+1100000169	dies autem tertiusdecimus mensis adar primus apud omnes interfectionis fuit, et quartadecima die caedere desierunt. 	2020-04-18	Liber_Esther
+1100000170	quem constituerunt esse solemnem, ut in eo omni tempore deinceps vacarent epulis, gaudio, atque conviviis.	2020-04-18	Liber_Esther
+1100000171	at hi, qui in urbe susan caedem exercuerant, tertiodecimo et quartodecimo die eiusdem mensis in caede versati sunt: quintodecimo autem die percutere desierunt. 	2020-04-18	Liber_Esther
+1100000172	et idcirco eumdem diem constituerunt solemnem epularum atque laetitiae.	2020-04-18	Liber_Esther
+1100000173	hi vero iudaei, qui in oppidis non muratis ac villis morabantur, quartumdecimum diem mensis adar conviviorum et gaudii decreverunt, ita ut exultent in eo, et mittant sibi mutuo partes epularum et ciborum.	2020-04-18	Liber_Esther
+1100000174	scripsit itaque mardochaeus omnia haec, et litteris comprehensa misit ad iudaeos qui in omnibus regis provinciis morabantur, tam in vicino positis, quam procul,ut quartamdecimam et quintamdecimam diem mensis adar pro festis susciperent, et revertente semper anno solemni celebrarent honore:quia in ipsis diebus se ulti sunt iudaei de inimicis suis, et luctus atque tristitia in hilaritatem gaudiumque conversa sunt, essentque dies isti epularum atque laetitiae, et mitterent sibi invicem ciborum partes, et pauperibus munuscula largirentur.	2020-04-18	Liber_Esther
+1100000175	susceperuntque iudaei in solemnem ritum cuncta quae eo tempore facere coeperant, et quae mardochaeus litteris facienda mandaverat.	2020-04-18	Liber_Esther
+1100000176	aman enim, filius amadathi stirpis agag, hostis et adversarius iudaeorum, cogitavit contra eos malum, ut occideret illos atque deleret: et misit phur, quod nostra lingua vertitur in sortem.	2020-04-18	Liber_Esther
+1100000177	et postea ingressa est esther ad regem, obsecrans ut conatus eius litteris regis irriti fierent, et malum quod contra iudaeos cogitaverat, reverteretur in caput eius. 	2020-04-18	Liber_Esther
+1100000178	denique et ipsum et filios eius affixerunt cruci,atque ex illo tempore dies isti appellati sunt phurim, id est sortium: eo quod phur, id est sors, in urnam missa fuerit. 	2020-04-18	Liber_Esther
+1100000179	et cuncta quae gesta sunt, epistolae, id est, libri huius volumine, continentur:quaeque sustinuerunt, et quae deinceps immutata sunt, susceperunt iudaei super se et semen suum, et super cunctos qui religioni eorum voluerunt copulari, ut nulli liceat duos hos dies absque solemnitate transigere, quos scriptura testatur, et certa expetunt tempora, annis sibi iugiter succedentibus.	2020-04-18	Liber_Esther
+1100000180	isti sunt dies, quos nulla umquam delebit oblivio, et per singulas generationes cunctae in toto orbe provinciae celebrabunt: nec est ulla civitas, in qua dies phurim, id est sortium, non observentur a iudaeis, et ab eorum progenie, quae his caeremoniis obligata est.	2020-04-18	Liber_Esther
+1100000181	scripseruntque esther regina filia abihail, et mardochaeus iudaeus, etiam secundam epistolam, ut omni studio dies ista solemnis sanciretur in posterum:et miserunt ad omnes iudaeos qui in centum viginti septem provinciis regis assueri versabantur, ut haberent pacem, et susciperent veritatem,observantes dies sortium, et suo tempore cum gaudio celebrarent: sicut constituerant mardochaeus et esther, et illi observanda susceperunt a se, et a semine suo, ieiunia, et clamores, et sortium dies,et omnia quae libri huius, qui vocatur esther, historia continentur.	2020-04-18	Liber_Esther
+1100000182	caput 10	2020-04-18	Liber_Esther
+1100000183	rex vero assuerus omnem terram et cunctas maris insulas fecit tributarias:cuius fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit mardochaeum, scripta sunt in libris medorum, atque persarum:et quomodo mardochaeus iudaici generis secundus a rege assuero fuerit, et magnus apud iudaeos, et acceptabilis plebi fratrum suorum, quaerens bona populo suo, et loquens ea quae ad pacem seminis sui pertinerent.	2020-04-18	Liber_Esther
+1100000184	dixitque mardochaeus: a deo facta sunt ista.	2020-04-18	Liber_Esther
+1100000185	recordatus sum somnii quod videram, haec eadem significantis: nec eorum quidquam irritum fuit.	2020-04-18	Liber_Esther
+1100000186	parvus fons, qui crevit in fluvium, et in lucem solemque conversus est, et in aquas plurimas redundavit: esther est quam rex accepit uxorem, et voluit esse reginam.	2020-04-18	Liber_Esther
+1100000187	duo autem dracones: ego sum, et aman.	2020-04-18	Liber_Esther
+1100000188	gentes, quae convenerant: hi sunt, qui conati sunt delere nomen iudaeorum.	2020-04-18	Liber_Esther
+1100000189	gens autem mea israel est, quae clamavit ad dominum, et salvum fecit dominus populum suum: liberavitque nos ab omnibus malis, et fecit signa magna atque portenta inter gentes:et duas sortes esse praecepit, unam populi dei, et alteram cunctarum gentium.	2020-04-18	Liber_Esther
+1100000190	venitque utraque sors in statutum ex illo iam tempore diem coram deo universis gentibus:et recordatus est dominus populi sui, ac misertus est haereditatis suae.	2020-04-18	Liber_Esther
+1100000191	et observabuntur dies isti in mense adar quartadecima et quintadecima die eiusdem mensis, cum omni studio et gaudio, in unum coetum populi congregati, in cunctas deinceps generationes populi israel.	2020-04-18	Liber_Esther
+1100000192	caput 11	2020-04-18	Liber_Esther
+1100000193	anno quarto regnantibus ptolemaeo et cleopatra, attulerunt dosithaeus, qui se sacerdotem et levitici generis ferebat, et ptolemaeus filius eius, hanc epistolam phurim, quam dixerunt interpretatum esse lysimachum ptolemaei filium in ierusalem.	2020-04-18	Liber_Esther
+1100000194	anno secundo, regnante artaxerxe maximo, prima die mensis nisan, vidit somnium mardochaeus filius iairi, filii semei, filii cis, de tribu beniamin:homo iudaeus, qui habitabat in urbe susis, vir magnus, et inter primos aulae regiae.	2020-04-18	Liber_Esther
+1100000195	erat autem de eo numero captivorum, quos transtulerat nabuchodonosor rex babylonis de ierusalem cum iechonia rege iuda.	2020-04-18	Liber_Esther
+1100000196	et hoc eius somnium fuit: apparuerunt voces, et tumultus, et tonitrua, et terraemotus, et conturbatio super terram:et ecce duo dracones magni, paratique contra se in praelium.	2020-04-18	Liber_Esther
+1100000197	ad quorum clamorem cunctae concitatae sunt nationes, ut pugnarent contra gentem iustorum.	2020-04-18	Liber_Esther
+1100000198	fuitque dies illa tenebrarum et discriminis, tribulationis et angustiae, et ingens formido super terram.	2020-04-18	Liber_Esther
+1100000199	conturbataque est gens iustorum timentium mala sua, et praeparata ad mortem.	2020-04-18	Liber_Esther
+1100000200	clamaveruntque ad deum: et illis vociferantibus, fons parvus creavit in fluvium maximum, et in aquas plurimas redundavit.	2020-04-18	Liber_Esther
+1100000201	lux et sol ortus est, et humiles exaltati sunt, et devoraverunt inclytos.	2020-04-18	Liber_Esther
+1100000202	quod cum vidisset mardochaeus, et surrexisset de strato, cogitabat quid deus facere vellet: et fixum habebat in animo, scire cupiens quid significaret somnium.	2020-04-18	Liber_Esther
+1100000203	caput 12	2020-04-18	Liber_Esther
+1100000204	morabatur autem eo tempore in aula regis cum bagatha et thara eunuchis regis, qui ianitores erant palatii.	2020-04-18	Liber_Esther
+1100000205	cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem artaxerxem manus mittere, et nuntiavit super eo regi.	2020-04-18	Liber_Esther
+1100000206	qui de utroque, habita quaestione, confessos iussit duci ad mortem.	2020-04-18	Liber_Esther
+1100000207	rex autem quod gestum erat, scripsit in commentariis: sed et mardochaeus rei memoriam litteris tradidit.	2020-04-18	Liber_Esther
+1100000208	praecepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.	2020-04-18	Liber_Esther
+1100000209	aman vero filius amadathi bugaeus erat gloriosissimus coram rege, et voluit nocere mardochaeo et populo eius pro duobus eunuchis regis qui fuerant interfecti. 	2020-04-18	Liber_Esther
+1100000210	et diripuerunt bona, vel substantias eorum. 	2020-04-18	Liber_Esther
+1100000211	epistolae autem hoc exemplar fuit.	2020-04-18	Liber_Esther
+1100000212	caput 13	2020-04-18	Liber_Esther
+1100000213	rex maximus artaxerxes ab india usque aethiopiam, centum viginti septem provinciarum principibus et ducibus qui eius imperio subiecti sunt, salutem.	2020-04-18	Liber_Esther
+1100000214	cum plurimis gentibus imperarem, et universum orbem meae ditioni subiugassem, volui nequaquam abuti potentiae magnitudine, sed clementia et lenitate gubernare subiectos, ut absque ullo terrore vitam silentio transigentes, optata cunctis mortalibus pace fruerentur.	2020-04-18	Liber_Esther
+1100000215	quaerente autem me a consiliariis meis quomodo posset hoc impleri, unus qui sapientia et fide ceteros praecellebat, et erat post regem secundus, aman nomine,indicavit mihi in toto orbe terrarum populum esse dispersum, qui novis uteretur legibus, et, contra omnium gentium consuetudinem faciens, regum iussa contemneret, et universarum concordiam nationum sua dissensione violaret.	2020-04-18	Liber_Esther
+1100000216	quod cum didicissemus, videntes unam gentem rebellem adversus omne hominum genus perversis uti legibus, nostrisque iussionibus contraire, et turbare subiectarum nobis provinciarum pacem atque concordiam,iussimus ut quoscumque aman, qui omnibus provinciis praepositus est et secundus a rege, et quem patris loco colimus, monstraverit, cum coniugibus ac liberis deleantur ab inimicis suis, nullusque eorum misereatur, quartadecima die duodecimi mensis adar anni praesentis:ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. 	2020-04-18	Liber_Esther
+1100000217	pergensque mardochaeus, fecit omnia quae ei mandaverat esther.	2020-04-18	Liber_Esther
+1100000218	mardochaeus autem deprecatus est dominum, memor omnium operum eius,et dixit: domine, domine rex omnipotens, in ditione enim tua cuncta sunt posita, et non est qui possit tuae resistere voluntati, si decreveris salvare israel.	2020-04-18	Liber_Esther
+1100000219	tu fecisti caelum et terram, et quidquid caeli ambitu continetur.	2020-04-18	Liber_Esther
+1100000220	dominus omnium es, nec est qui resistat maiestati tuae.	2020-04-18	Liber_Esther
+1100000221	cuncta nosti, et scis quia non pro superbia et contumelia, et aliqua gloriae cupiditate, fecerim hoc, ut non adorarem aman superbissimum(libenter enim pro salute israel etiam vestigia pedum eius deosculari paratus essem),sed timui ne honorem dei mei transferrem ad hominem, et ne quemquam adorarem, excepto deo meo.	2020-04-18	Liber_Esther
+1100000222	et nunc, domine rex, deus abraham, miserere populi tui, quia volunt nos inimici nostri perdere, et haereditatem tuam delere.	2020-04-18	Liber_Esther
+1100000223	ne despicias partem tuam, quam redemisti tibi de aegypto.	2020-04-18	Liber_Esther
+1100000224	exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum, domine: et ne claudas ora te canentium.	2020-04-18	Liber_Esther
+1100000225	omnis quoque israel pari mente et obsecratione clamavit ad dominum, eo quod eis certa mors impenderet.	2020-04-18	Liber_Esther
+1100000226	caput 14	2020-04-18	Liber_Esther
+1100000227	esther quoque regina confugit ad dominum, pavens periculum quod imminebat.	2020-04-18	Liber_Esther
+1100000228	cumque deposuisset vestes regias, fletibus et luctui apta indumenta suscepit, et pro unguentis variis, cinere et stercore implevit caput, et corpus suum humiliavit ieiuniis: omniaque loca, in quibus antea laetari consueverat, crinium laceratione complevit.	2020-04-18	Liber_Esther
+1100000229	et deprecabatur dominum deum israel, dicens: domine mi, qui rex noster es solus, adiuva me solitariam, et cuius praeter te nullus est auxiliator alius.	2020-04-18	Liber_Esther
+1100000230	periculum meum in manibus meis est.	2020-04-18	Liber_Esther
+1100000231	audivi a patre meo quod tu, domine, tulisses israel de cunctis gentibus, et patres nostros ex omnibus retro maioribus suis, ut possideres haereditatem sempiternam, fecistique eis sicut locutus es.	2020-04-18	Liber_Esther
+1100000232	peccavimus in conspectu tuo, et idcirco tradidisti nos in manus inimicorum nostrorum:coluimus enim deos eorum. 	2020-04-18	Liber_Esther
+1100000233	iustus es domine:et nunc non eis sufficit, quod durissima nos opprimunt servitute, sed robur manuum suarum, idolorum potentiae deputantes,volunt tua mutare promissa, et delere haereditatem tuam, et claudere ora laudantium te, atque extinguere gloriam templi et altaris tui,ut aperiant ora gentium, et laudent idolorum fortitudinem, et praedicent carnalem regem in sempiternum.	2020-04-18	Liber_Esther
+1100000234	ne tradas, domine, sceptrum tuum his, qui non sunt, ne rideant ad ruinam nostram: sed converte consilium eorum super eos, et eum qui in nos coepit saevire, disperde.	2020-04-18	Liber_Esther
+1100000235	memento, domine, et ostende te nobis in tempore tribulationis nostrae, et da mihi fiduciam, domine rex deorum, et universae potestatis:tribue sermonem compositum in ore meo in conspectu leonis, et transfer cor illius in odium hostis nostri, ut et ipse pereat, et ceteri qui ei consentiunt.	2020-04-18	Liber_Esther
+1100000236	nos autem libera manu tua, et adiuva me, nullum aliud auxilium habentem nisi te, domine, qui habes omnium scientiam,et nosti quia oderim gloriam iniquorum, et detester cubile incircumcisorum, et omnis alienigenae.	2020-04-18	Liber_Esther
+1100000237	tu scis necessitatem meam, quod abominer signum superbiae et gloriae meae, quod est super caput meum in diebus ostentationis meae, et detester illud quasi pannum menstruatae, et non portem in diebus silentii mei,et quod non comederim in mensa aman, nec mihi placuerit convivium regis, et non biberim vinum libaminum:et numquam laetata sit ancilla tua, ex quo huc translata sum usque in praesentem diem, nisi in te, domine deus abraham.	2020-04-18	Liber_Esther
+1100000238	deus fortis super omnes, exaudi vocem eorum qui nullam aliam spem habent, et libera nos de manu iniquorum, et erue me a timore meo.	2020-04-18	Liber_Esther
+1100000239	caput 15	2020-04-18	Liber_Esther
+1100000240	et mandavit ei (haud dubium quin esset mardochaeus) ut ingrederetur ad regem, et rogaret pro populo suo et pro patria sua.	2020-04-18	Liber_Esther
+1100000241	memorare, inquit, dierum humilitatis tuae, quomodo nutrita sis in manu mea, quia aman secundus a rege locutus est contra nos in mortem:et tu invoca dominum, et loquere regi pro nobis, et libera nos de morte.	2020-04-18	Liber_Esther
+1100000242	die autem tertio deposuit vestimenta ornatus sui, et circumdata est gloria sua.	2020-04-18	Liber_Esther
+1100000243	cumque regio fulgeret habitu, et invocasset omnium rectorem et salvatorem deum, assumpsit duas famulas,et super unam quidem innitebatur, quasi prae deliciis et nimia teneritudine corpus suum ferre non sustinens:altera autem famularum sequebatur dominam, defluentia in humum indumenta sustentans.	2020-04-18	Liber_Esther
+1100000244	ipsa autem roseo colore vultum perfusa, et gratis ac nitentibus oculis, tristem celabat animum, et nimio timore contractum.	2020-04-18	Liber_Esther
+1100000245	ingressa igitur cuncta per ordinem ostia, stetit contra regem, ubi ille residebat super solium regni sui, indutus vestibus regiis, auroque fulgens, et pretiosis lapidibus: eratque terribilis aspectu.	2020-04-18	Liber_Esther
+1100000246	cumque elevasset faciem, et ardentibus oculis furorem pectoris indicasset, regina corruit, et in pallorem colore mutato, lassum super ancillulam reclinavit caput.	2020-04-18	Liber_Esther
+1100000247	convertitque deus spiritum regis in mansuetudinem, et festinus ac metuens exilivit de solio, et sustentans eam ulnis suis donec rediret ad se, his verbis blandiebatur:quid habes, esther? 	2020-04-18	Liber_Esther
+1100000248	ego sum frater tuus: noli metuere.	2020-04-18	Liber_Esther
+1100000249	non morieris: non enim pro te, sed pro omnibus haec lex constituta est.	2020-04-18	Liber_Esther
+1100000250	accede igitur, et tange sceptrum.	2020-04-18	Liber_Esther
+1100000251	cumque illa reticeret, tulit auream virgam, et posuit super collum eius, et osculatus est eam, et ait: cur mihi non loqueris?	2020-04-18	Liber_Esther
+1100000252	quae respondit: vidi te, domine, quasi angelum dei, et conturbatum est cor meum prae timore gloriae tuae.	2020-04-18	Liber_Esther
+1100000253	valde enim mirabilis es, domine, et facies tua plena est gratiarum.	2020-04-18	Liber_Esther
+1100000254	cumque loqueretur, rursus corruit, et pene exanimata est.	2020-04-18	Liber_Esther
+1100000255	rex autem turbabatur, et omnes ministri eius consolabantur eam.	2020-04-18	Liber_Esther
+1100000256	caput 16	2020-04-18	Liber_Esther
+1100000257	rex magnus artaxerxes ab india usque aethiopiam, centum viginti septem provinciarum ducibus ac principibus qui nostrae iussioni obediunt, salutem dicit.	2020-04-18	Liber_Esther
+1100000258	multi bonitate principum et honore, qui in eos collatus est, abusi sunt in superbiam:et non solum subiectos regibus nituntur opprimere, sed datam sibi gloriam non ferentes, in ipsos qui dederunt, moliuntur insidias.	2020-04-18	Liber_Esther
+1100000259	nec contenti sunt gratias non agere beneficiis, et humanitatis in se iura violare, sed dei quoque cuncta cernentis arbitrantur se posse fugere sententiam.	2020-04-18	Liber_Esther
+1100000260	et in tantum vesaniae proruperunt, ut eos qui credita sibi officia diligenter observant, et ita cuncta agunt ut omnium laude digni sint, mendaciorum cuniculis conentur subvertere,dum aures principum simplices, et ex sua natura alios aestimantes, callida fraude decipiunt.	2020-04-18	Liber_Esther
+1100000261	quae res et ex veteribus probatur historiis, et ex his quae geruntur quotidie, quomodo malis quorumdam suggestionibus regum studia depraventur.	2020-04-18	Liber_Esther
+1100000262	unde providendum est paci omnium provinciarum.	2020-04-18	Liber_Esther
+1100000263	nec putare debetis, si diversa iubeamus, ex animi nostri venire levitate, sed pro qualitate et necessitate temporum, ut reipublicae poscit utilitas, ferre sententiam.	2020-04-18	Liber_Esther
+1100000264	et ut manifestius quod dicimus intelligatis, aman filius amadathi, et animo et gente macedo, alienusque a persarum sanguine, et pietatem nostram sua crudelitate commaculans, peregrinus a nobis susceptus est:et tantam in se expertus humanitatem, ut pater noster vocaretur, et adoraretur ab omnibus post regem secundus:qui in tantum arrogantiae tumorem sublatus est, ut regno privare nos niteretur et spiritu.	2020-04-18	Liber_Esther
+1100000265	nam mardochaeum, cuius fide et beneficiis vivimus, et consortem regni nostri esther cum omni gente sua, novis quibusdam atque inauditis machinis expetivit in mortem:hoc cogitans ut illis interfectis, insidiaretur nostrae solitudini, et regnum persarum transferret in macedonas.	2020-04-18	Liber_Esther
+1100000266	nos autem a pessimo mortalium iudaeos neci destinatos, in nulla penitus culpa reperimus, sed e contrario iustis utentes legibus,et filios altissimi et maximi semperque viventis dei, cuius beneficio et patribus nostris et nobis regnum est traditum, et usque hodie custoditur.	2020-04-18	Liber_Esther
+1100000267	unde eas litteras, quas sub nomine nostro ille direxerat, sciatis esse irritas.	2020-04-18	Liber_Esther
+1100000268	pro quo scelere ante portas huius urbis, id est, susan, et ipse qui machinatus est, et omnis cognatio eius pendet in patibulis: non nobis, sed deo reddente ei quod meruit.	2020-04-18	Liber_Esther
+1100000269	hoc autem edictum, quod nunc mittimus, in cunctis urbibus proponatur, ut liceat iudaeis uti legibus suis.	2020-04-18	Liber_Esther
+1100000270	quibus debetis esse adminiculo, ut eos qui se ad necem eorum paraverant, possint interficere tertiadecima die mensis duodecimi, qui vocatur adar.	2020-04-18	Liber_Esther
+1100000271	hanc enim diem, deus omnipotens, moeroris et luctus, eis vertit in gaudium.	2020-04-18	Liber_Esther
+1100000272	unde et vos inter ceteros festos dies, hanc habetote diem, et celebrate eam cum omni laetitia, ut et in posterum cognoscatur,omnes qui fideliter persis obediunt, dignam pro fide recipere mercedem; qui autem insidiantur regno eorum, perire pro scelere.	2020-04-18	Liber_Esther
+1100000273	omnis autem provincia et civitas quae noluerit solemnitatis huius esse particeps, gladio et igne pereat, et sic deleatur, ut non solum hominibus, sed etiam bestiis invia sit in sempiternum, pro exemplo contemptus et inobedientiae.	2020-04-18	Liber_Esther

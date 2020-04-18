@@ -1,0 +1,81 @@
+1100000001	epistola b. petri apostoli prima	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000002	caput 1	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000003	petrus apostolus iesu christi, electis advenis dispersionis ponti, galatiae, cappadociae, asiae, et bithyniae,secundum praescientiam dei patris, in sanctificationem spiritus, in obedientiam, et aspersionem sanguinis iesu christi. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000004	gratia vobis, et pax multiplicetur.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000005	benedictus deus et pater domini nostri iesu christi, qui secundum misericordiam suam magnam regeneravit nos in spem vivam, per resurrectionem iesu christi ex mortuis,in haereditatem incorruptibilem, et incontaminatam, et immarcescibilem, conservatam in caelis in vobis,qui in virtute dei custodimini per fidem in salutem, paratam revelari in tempore novissimo.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000006	in quo exsultabis, modicum nunc si oportet contristari in variis tentationibus:ut probatio vestrae fidei multo pretiosior auro (quod per ignem probatur) inveniatur in laudem, et gloriam, et honorem in revelatione iesu christi:quem cum non videritis, diligitis: in quem nunc quoque non videntes creditis: credentes autem exsultabitis laetitia inenarrabili, et glorificata:reportantes finem fidei vestrae, salutem animarum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000007	de qua salute exquisierunt, atque scrutati sunt prophetae, qui de futura in vobis gratia prophetaverunt:scrutantes in quod vel quale tempus significaret in eis spiritus christi: praenuntians eas quae in christo sunt passiones, et posteriores glorias:quibus revelatum est quia non sibimetipsis, vobis autem ministrabant ea quae nunc nuntiata sunt vobis per eos qui evangelizaverunt vobis, spiritu sancto misso de caelo, in quem desiderant angeli prospicere.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000008	propter quod succincti lumbos mentis vestrae, sobrii, perfecte sperate in eam, quae offertur vobis, gratiam, in revelationem iesu christi:quasi filii obedientiae, non configurati prioribus ignorantiae vestrae desideriis:sed secundum eum qui vocavit vos, sanctum: et ipsi in omni conversatione sancti sitis:quoniam scriptum est: sancti eritis, quoniam ego sanctus sum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000009	et si patrem invocatis eum, qui sine acceptione personarum iudicat secundum uniuscuiusque opus, in timore incolatus vestri tempore conversamini.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000010	scientes quod non corruptibilibus, auro vel argento, redempti estis de vana vestra conversatione paternae traditionis:sed pretioso sanguine quasi agni immaculati christi, et incontaminati:praecogniti quidem ante mundi constitutionem, manifestati autem novissimis temporibus propter vos,qui per ipsum fideles estis in deo, qui suscitavit eum a mortuis, et dedit ei gloriam, ut fides vestra et spes esset in deo:animas vestras castificantes in obedientia caritatis, in fraternitatis amore, simplici ex corde invicem diligite attentius:renati non ex semine corruptibili, sed incorruptibili per verbum dei vivi, et permanentis in aeternum:quia omnis caro ut foenum: et omnis gloria eius tamquam flos foeni: exaruit foenum, et flos eius decidit.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000011	verbum autem domini manet in aeternum: hoc est autem verbum, quod evangelizatum est in vos.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000012	caput 2	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000013	deponentes igitur omnem malitiam, et omnem dolum, et simulationes, et invidias, et omnes detractiones,sicut modo geniti infantes, rationabile, sine dolo lac concupiscite: ut in eo crescatis in salutem:si tamen gustastis quoniam dulcis est dominus.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000014	ad quem accedentes lapidem vivum, ab hominibus quidem reprobatum, a deo autem electum, et honorificatum:et ipsi tamquam lapides vivi superaedificamini, domus spiritualis, sacerdotium sanctum, offerre spirituales hostias, acceptabiles deo per iesum christum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000015	propter quod continet scriptura: ecce pono in sion lapidem summum angularem, electum, pretiosum: et qui crediderit in eum, non confundetur.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000016	vobis igitur honor credentibus: non credentibus autem lapis, quem reprobaverunt aedificantes: hic factus est in caput anguli,et lapis offensionis, et petra scandali, his qui offendunt verbo, nec credunt in quo et positi sunt.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000017	vos autem genus electum, regale sacerdotium, gens sancta, populus acquisitionis: ut virtutes annuntietis eius qui de tenebris vos vocavit in admirabile lumen suum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000018	qui aliquando non populus, nunc autem populus dei: qui non consecuti misericordiam, nunc autem misericordiam consecuti.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000019	carissimi, obsecro vos tamquam advenas et peregrinos abstinere vos a carnalibus desideriis, quae militant adversus animam,conversationem vestram inter gentes habentes bonam: ut in eo quod detrectant de vobis tamquam de malefactoribus, ex bonis operibus vos considerantes, glorificent deum in die visitationis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000020	subiecti igitur estote omni humanae creaturae propter deum: sive regi quasi praecellenti:sive ducibus tamquam ab eo missis ad vindictam malefactorum, laudem vero bonorum:quia sic est voluntas dei, ut benefacientes obmutescere faciatis imprudentium hominum ignorantiam:quasi liberi, et non quasi velamen habentes malitiae libertatem, sed sicut servi dei.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000021	omnes honorate: fraternitatem diligite: deum timete: regem honorificate.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000022	servi, subditi estote in omni timore dominis, non tantum bonis et modestis, sed etiam dyscolis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000023	haec est enim gratia, si propter dei conscientiam sustinet quis tristitias, patiens iniuste.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000024	quae enim est gloria, si peccantes, et colaphizati suffertis? 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000025	sed si bene facientes patienter sustinetis, haec est gratia apud deum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000026	in hoc enim vocati estis: quia et christus passus est pro nobis, vobis relinquens exemplum ut sequamini vestigia eius:qui peccatum non fecit, nec inventus est dolus in ore eius:qui cum malediceretur, non maledicebat: cum pateretur, non comminabatur: tradebat autem iudicanti se iniuste:qui peccata nostra ipse pertulit in corpore suo super lignum; ut peccatis mortui, iustitiae vivamus: cuius livore sanati estis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000027	eratis enim sicut oves errantes, sed conversi estis nunc ad pastorem, et episcopum animarum vestrarum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000028	caput 3	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000029	similiter et mulieres subditae sint viris suis: ut etsi qui non credunt verbo, per mulierem conversationem sine verbo lucrifiant:considerantes in timore castam conversationem vestram.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000030	quarum non sit extrinsecus capillatura, aut circumdatio auri, aut indumenti vestimentorum cultus:sed qui absconditus est cordis homo, in incorruptibilitate quieti, et modesti spiritus, qui est in conspectu dei locuples.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000031	sic enim aliquando et sanctae mulieres, sperantes in deo, ornabant se, subiectae propriis viris.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000032	sicut sara obediebat abrahae, dominum eum vocans: cuius estis filiae benefacientes, et non pertimentes ullam perturbationem.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000033	viri similiter cohabitantes secundum scientiam, quasi infirmiori vasculo muliebri impartientes honorem, tamquam et cohaeredibus gratiae vitae: ut non impediantur orationes vestrae.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000034	in fine autem omnes unanimes, compatientes fraternitatis amatores, misericordes, modesti, humiles:non reddentes malum pro malo, nec maledictum pro maledicto, sed e contrario benedicentes: quia in hoc vocati estis, ut benedictionem haereditate possideatis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000035	qui enim vult vitam diligere, et dies videre bonos, coerceat linguam suam a malo, et labia eius ne loquantur dolum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000036	declinet a malo, et faciat bonum: inquirat pacem, et sequatur eam:quia oculi domini super iustos, et aures eius in preces eorum: vultus autem domini super facientes mala.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000037	et quis est qui vobis noceat, si boni aemulatores fueritis?	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000038	sed et si quid patimini propter iustitiam, beati. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000039	timorem autem eorum ne timueritis, et non conturbemini.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000040	dominum autem christum sanctificate in cordibus vestris, parati semper ad satisfactionem omni poscenti vos rationem de ea, quae in vobis est, spe.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000041	sed cum modestia, et timore, conscientiam habentes bonam: ut in eo, quod detrahunt vobis, confundantur, qui calumniantur vestram bonam in christo conversationem.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000042	melius est enim benefacientes (si voluntas dei velit) pati, quam malefacientes.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000043	quia et christus semel pro peccatis nostris mortuus est, iustus pro iniustis, ut nos offerret deo, mortificatus quidem carne, vivificatus autem spiritu.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000044	in quo et his, qui in carcere erant, spiritibus veniens praedicavit:qui increduli fuerant aliquando, quando exspectabant dei patientiam in diebus noe, cum fabricaretur arca: in qua pauci, id est octo animae, salvae factae sunt per aquam.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000045	quod et vos nunc similis formae salvos fecit baptisma: non carnis depositio sordium, sed conscientiae bonae interrogatio in deum per resurrectionem iesu christi.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000046	qui est in dextera dei, deglutiens mortem ut vitae aeternae haeredes efficeremur: profectus in caelum subiectis sibi angelis, et potestatibus, et virtutibus.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000047	caput 4	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000048	christo igitur passo in carne, et vos eadem cogitatione armamini: quia qui passus est in carne, desiit a peccatis:ut iam non desideriis hominum, sed voluntati dei, quod reliquum est in carne vivat temporis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000049	sufficit enim praeteritum tempus ad voluntatem gentium consummandam his qui ambulaverunt in luxuriis, desideriis, vinolentiis, comessationibus, potationibus, et illicitis idolorum cultibus.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000050	in quo admirantur non concurrentibus vobis in eamdem luxuriae confusionem, blasphemantes.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000051	qui reddent rationem ei qui paratus est iudicare vivos et mortuos.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000052	propter hoc enim et mortuis evangelizatum est: ut iudicentur quidem secundum homines in carne, vivant autem secundum deum in spiritu.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000053	omnium autem finis appropinquavit. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000054	estote itaque prudentes, et vigilate in orationibus.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000055	ante omnia autem, mutuam in vobismetipsis caritatem continuam habentes: quia caritas operit multitudinem peccatorum.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000056	hospitales invicem sine murmuratione.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000057	unusquisque, sicut accepit gratiam, in alterutrum illam administrantes, sicut boni dispensatores multiformis gratiae dei.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000058	si quis loquitur, quasi sermones dei: si quis ministrat, tamquam ex virtute, quam administrat deus: ut in omnibus honorificetur deus per iesum christum: cui est gloria et imperium in saecula saeculorum. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000059	amen.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000060	carissimi, nolite peregrinari in fervore, qui ad tentationem vobis fit, quasi novi aliquid vobis contingat:sed communicantes christi passionibus gaudete, ut et in revelatione gloriae eius gaudeatis exsultantes.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000061	si exprobramini in nomine christi, beati eritis: quoniam quod est honoris, gloriae, et virtutis dei, et qui est eius spiritus, super vos requiescit.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000062	nemo autem vestrum patiatur ut homicida, aut fur, aut maledicus, aut alienorum appetitor.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000063	si autem ut christianus, non erubescat: glorificet autem deum in isto nomine:quoniam tempus est ut incipiat iudicium a domo dei. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000064	si autem primum a nobis, quis finis eorum, qui non credunt dei evangelio?	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000065	et si iustus vix salvabitur, impius et peccator ubi parebunt?	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000066	itaque et hi, qui patiuntur secundum voluntatem dei, fideli creatori commendent animas suas in benefactis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000067	caput 5	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000068	seniores ergo, qui in vobis sunt, obsecro, consenior et testis christi passionum: qui et eius, quae in futuro revelanda est, gloriae communicator:pascite qui in vobis est gregem dei, providentes non coacte, sed spontanee secundum deum: neque turpis lucri gratia, sed voluntarie:neque ut dominantes in cleris, sed forma facti gregis ex animo.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000069	et cum apparuerit princeps pastorum, percipietis immarcescibilem gloriae coronam.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000070	similiter adolescentes subditi estote senioribus.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000071	omnes autem invicem humilitatem insinuate, quia deus superbis resistit, humilibus autem dat gratiam.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000072	humiliamini igitur sub potenti manu dei, ut vos exaltet in tempore visitationis:omnem sollicitudinem vestram proiicientes in eum, quoniam ipsi cura est de vobis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000073	sobrii estote, et vigilate: quia adversarius vester diabolus tamquam leo rugiens circuit, quaerens quem devoret:cui resistite fortes in fide: scientes eamdem passionem ei quae in mundo est vestrae fraternitati fieri.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000074	deus autem omnis gratiae, qui vocavit nos in aeternam suam gloriam in christo iesu, modicum passos ipse perficiet, confirmabit, solidabitque.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000075	ipsi gloria, et imperium in saecula saeculorum. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000076	amen.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000077	per silvanum fidelem fratrem vobis, ut arbitror, breviter scripsi: obsecrans et contestans, hanc esse veram gratiam dei, in qua statis.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000078	salutat vos ecclesia quae est in babylone coelecta, et marcus filius meus.	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000079	salutate invicem in osculo sancto. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000080	gratia vobis omnibus qui estis in christo iesu. 	2020-04-18	Epistola_B_Petri_Apostoli_Prima
+1100000081	amen.	2020-04-18	Epistola_B_Petri_Apostoli_Prima

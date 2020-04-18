@@ -1,0 +1,1090 @@
+1100000001	liber numeri	2020-04-18	Liber_Numeri
+1100000002	caput 1	2020-04-18	Liber_Numeri
+1100000003	locutusque est dominus ad moysen in deserto sinai in tabernaculo foederis, prima die mensis secundi, anno altero egressionis eorum ex aegypto, dicens:tollite summam universae congregationis filiorum israel per cognationes et domos suas, et nomina singulorum, quidquid sexus est masculinia vigesimo anno et supra, omnium virorum fortium ex israel, et numerabitis eos per turmas suas, tu et aaron.	2020-04-18	Liber_Numeri
+1100000004	eruntque vobiscum principes tribuum ac domorum in cognationibus suis,quorum ista sunt nomina: de ruben, elisur, filius sedeur;de simeon, salamiel filius surisaddai;de iuda, nahasson filius aminadab;de issachar, nathanael filius suar;de zabulon, eliab filius helon;filiorum autem ioseph, de ephraim, elisama filius ammiud; de manasse, gamaliel filius phadassur;de beniamin, abidan filius gedeonis;de dan, ahiezer filius ammisaddai;de aser, phegiel filius ochran;de gad, eliasaph filius duel;de nephthali, ahira filius enan.	2020-04-18	Liber_Numeri
+1100000005	hi nobilissimi principes multitudinis per tribus et cognationes suas, et capita exercitus israel,quos tulerunt moyses et aaron cum omni vulgi multitudine:et congregaverunt primo die mensis secundi, recensentes eos per cognationes, et domos, ac familias, et capita, et nomina singulorum a vigesimo anno et supra,sicut praeceperat dominus moysi. 	2020-04-18	Liber_Numeri
+1100000006	numeratique sunt in deserto sinai.	2020-04-18	Liber_Numeri
+1100000007	de ruben primogenito israelis per generationes et familias ac domos suas, et nomina capitum singulorum, omne quod sexus est masculini a vigesimo anno et supra, procedentium ad bellum,quadraginta sex millia quingenti.	2020-04-18	Liber_Numeri
+1100000008	de filiis simeon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina et capita singulorum, omne quod sexus est masculini a vigesimo anno et supra, procedentium ad bellum,quinquaginta novem millia trecenti.	2020-04-18	Liber_Numeri
+1100000009	de filiis gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui ad bella procederent,quadraginta quinque millia sexcenti quinquaginta.	2020-04-18	Liber_Numeri
+1100000010	de filiis iuda per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,recensiti sunt septuaginta quatuor millia sexcenti.	2020-04-18	Liber_Numeri
+1100000011	de filiis issachar, per generationes et familias ac domos cognationum suarum, per nomina singulorum a vigesimo anno et supra, omnes qui ad bella procederent,recensiti sunt quinquaginta quatuor millia quadringenti.	2020-04-18	Liber_Numeri
+1100000012	de filiis zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,quinquaginta septem millia quadringenti.	2020-04-18	Liber_Numeri
+1100000013	de filiis ioseph, filiorum ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,quadraginta millia quingenti.	2020-04-18	Liber_Numeri
+1100000014	porro filiorum manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra, omnes qui poterant ad bella procedere,triginta duo millia ducenti.	2020-04-18	Liber_Numeri
+1100000015	de filiis beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,triginta quinque millia quadringenti.	2020-04-18	Liber_Numeri
+1100000016	de filiis dan per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,sexaginta duo millia septingenti.	2020-04-18	Liber_Numeri
+1100000017	de filiis aser per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,quadraginta millia et mille quingenti.	2020-04-18	Liber_Numeri
+1100000018	de filiis nephthali per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vigesimo anno et supra, omnes qui poterant ad bella procedere,quinquaginta tria millia quadringenti.	2020-04-18	Liber_Numeri
+1100000019	hi sunt, quos numeraverunt moyses et aaron, et duodecim principes israel, singulos per domos cognationum suarum.	2020-04-18	Liber_Numeri
+1100000020	fueruntque omnis numerus filiorum israel per domos et familias suas a vigesimo anno et supra, qui poterant ad bella procedere,sexcenta tria millia virorum quingenti quinquaginta.	2020-04-18	Liber_Numeri
+1100000021	levitae autem in tribu familiarum suarum non sunt numerati cum eis.	2020-04-18	Liber_Numeri
+1100000022	locutusque est dominus ad moysen, dicens:tribum levi noli numerare, neque pones summam eorum cum filiis israel:sed constitue eos super tabernaculum testimonii et cuncta vasa eius, et quidquid ad caeremonias pertinet. 	2020-04-18	Liber_Numeri
+1100000023	ipsi portabunt tabernaculum et omnia utensilia eius: et erunt in ministerio, ac per gyrum tabernaculi metabuntur.	2020-04-18	Liber_Numeri
+1100000024	cum proficiscendum fuerit, deponent levitae tabernaculum; cum castrametandum, erigent. 	2020-04-18	Liber_Numeri
+1100000025	quisquis externorum accesserit, occidetur.	2020-04-18	Liber_Numeri
+1100000026	metabuntur autem castra filii israel unusquisque per turmas et cuneos atque exercitum suum.	2020-04-18	Liber_Numeri
+1100000027	porro levitae per gyrum tabernaculi figent tentoria, ne fiat indignatio super multitudinem filiorum israel, et excubabunt in custodiis tabernaculi testimonii.	2020-04-18	Liber_Numeri
+1100000028	fecerunt ergo filii israel iuxta omnia quae praeceperat dominus moysi.	2020-04-18	Liber_Numeri
+1100000029	caput 2	2020-04-18	Liber_Numeri
+1100000030	locutusque est dominus ad moysen et aaron, dicens:singuli per turmas, signa, atque vexilla, et domos cognationum suarum, castrametabuntur filii israel, per gyrum tabernaculi foederis.	2020-04-18	Liber_Numeri
+1100000031	ad orientem iudas figet tentoria per turmas exercitus sui: eritque princeps filiorum eius nahasson filius aminadab.	2020-04-18	Liber_Numeri
+1100000032	et omnis de stirpe eius summa pugnantium, septuaginta quatuor millia sexcenti.	2020-04-18	Liber_Numeri
+1100000033	iuxta eum castrametati sunt de tribu issachar, quorum princeps fuit nathanael filius suar.	2020-04-18	Liber_Numeri
+1100000034	et omnis numerus pugnatorum eius quinquaginta quatuor millia quadringenti.	2020-04-18	Liber_Numeri
+1100000035	in tribu zabulon princeps fuit eliab filius helon.	2020-04-18	Liber_Numeri
+1100000036	omnis de stirpe eius exercitus pugnatorum, quinquaginta septem millia quadringenti.	2020-04-18	Liber_Numeri
+1100000037	universi qui in castris iudae enumerati sunt, fuerunt centum octoginta sex millia quadringenti: et per turmas suas primi egredientur.	2020-04-18	Liber_Numeri
+1100000038	in castris filiorum ruben ad meridianam plagam erit princeps elisur filius sedeur.	2020-04-18	Liber_Numeri
+1100000039	et cunctus exercitus pugnatorum eius qui numerati sunt, quadraginta sex millia quingenti.	2020-04-18	Liber_Numeri
+1100000040	iuxta eum castrametati sunt de tribu simeon: quorum princeps fuit salamiel filius surisaddai.	2020-04-18	Liber_Numeri
+1100000041	et cunctus exercitus pugnatorum eius qui numerati sunt, quinquaginta novem millia trecenti.	2020-04-18	Liber_Numeri
+1100000042	in tribu gad princeps fuit eliasaph filius duel.	2020-04-18	Liber_Numeri
+1100000043	et cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta quinque millia sexcenti quinquaginta.	2020-04-18	Liber_Numeri
+1100000044	omnes qui recensiti sunt in castris ruben, centum quinquaginta millia et mille quadringenti quinquaginta per turmas suas: in secundo loco proficiscentur.	2020-04-18	Liber_Numeri
+1100000045	levabitur autem tabernaculum testimonii per officia levitarum, et turmas eorum: quomodo erigetur, ita et deponetur. 	2020-04-18	Liber_Numeri
+1100000046	singuli per loca et ordines suos proficiscentur.	2020-04-18	Liber_Numeri
+1100000047	ad occidentalem plagam erunt castra filiorum ephraim, quorum princeps fuit elisama filius ammiud.	2020-04-18	Liber_Numeri
+1100000048	cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia quingenti.	2020-04-18	Liber_Numeri
+1100000049	et cum eis tribus filiorum manasse, quorum princeps fuit gamaliel filius phadassur.	2020-04-18	Liber_Numeri
+1100000050	cunctusque exercitus pugnatorum eius, qui numerati sunt, triginta duo millia ducenti.	2020-04-18	Liber_Numeri
+1100000051	in tribu filiorum beniamin princeps fuit abidan filius gedeonis.	2020-04-18	Liber_Numeri
+1100000052	et cunctus exercitus pugnatorum eius, qui recensiti sunt, triginta quinque millia quadringenti.	2020-04-18	Liber_Numeri
+1100000053	omnes qui numerati sunt in castris ephraim, centum octo millia centum per turmas suas: tertii proficiscentur.	2020-04-18	Liber_Numeri
+1100000054	ad aquilonis partem castrametati sunt filii dan: quorum princeps fuit ahiezer filius ammisaddai.	2020-04-18	Liber_Numeri
+1100000055	cunctus exercitus pugnatorum eius, qui numerati sunt, sexaginta duo millia septingenti.	2020-04-18	Liber_Numeri
+1100000056	iuxta eum fixere tentoria de tribu aser: quorum princeps fuit phegiel filius ochran.	2020-04-18	Liber_Numeri
+1100000057	cunctus exercitus pugnatorum eius, qui numerati sunt, quadraginta millia et mille quingenti.	2020-04-18	Liber_Numeri
+1100000058	de tribu filiorum nephthali princeps fuit ahira filius enan.	2020-04-18	Liber_Numeri
+1100000059	cunctus exercitus pugnatorum eius, quinquaginta tria millia quadringenti.	2020-04-18	Liber_Numeri
+1100000060	omnes qui numerati sunt in castris dan, fuerunt centum quinquaginta septem millia sexcenti: et novissimi proficiscentur.	2020-04-18	Liber_Numeri
+1100000061	hic numerus filiorum israel, per domos cognationum suarum et turmas divisi exercitus, sexcenta tria millia quingenti quinquaginta.	2020-04-18	Liber_Numeri
+1100000062	levitae autem non sunt numerati inter filios israel: sic enim praeceperat dominus moysi.	2020-04-18	Liber_Numeri
+1100000063	feceruntque filii israel iuxta omnia quae mandaverat dominus. 	2020-04-18	Liber_Numeri
+1100000064	castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.	2020-04-18	Liber_Numeri
+1100000065	caput 3	2020-04-18	Liber_Numeri
+1100000066	hae sunt generationes aaron et moysi in die qua locutus est dominus ad moysen in monte sinai.	2020-04-18	Liber_Numeri
+1100000067	et haec nomina filiorum aaron: primogenitus eius nadab, deinde abiu, et eleazar, et ithamar.	2020-04-18	Liber_Numeri
+1100000068	haec nomina filiorum aaron sacerdotum qui uncti sunt, et quorum repletae et consecratae manus ut sacerdotio fungerentur.	2020-04-18	Liber_Numeri
+1100000069	mortui sunt enim nadab et abiu cum offerrent ignem alienum in conspectu domini in deserto sinai, absque liberis: functique sunt sacerdotio eleazar et ithamar coram aaron patre suo.	2020-04-18	Liber_Numeri
+1100000070	locutusque est dominus ad moysen, dicens:applica tribum levi, et fac stare in conspectu aaron sacerdotis ut ministrent ei, et excubent,et observent quidquid ad cultum pertinet multitudinis coram tabernaculo testimonii,et custodiant vasa tabernaculi, servientes in ministerio eius.	2020-04-18	Liber_Numeri
+1100000071	dabisque dono levitasaaron et filiis eius, quibus traditi sunt a filiis israel. 	2020-04-18	Liber_Numeri
+1100000072	aaron autem et filios eius constitues super cultum sacerdotii. 	2020-04-18	Liber_Numeri
+1100000073	externus, qui ad ministrandum accesserit, morietur.	2020-04-18	Liber_Numeri
+1100000074	locutusque est dominus ad moysen, dicens:ego tuli levitas a filiis israel pro omni primogenito, qui aperit vulvam in filiis israel, eruntque levitae mei.	2020-04-18	Liber_Numeri
+1100000075	meum est enim omne primogenitum: ex quo percussi primogenitos in terra aegypti, sanctificavi mihi quidquid primum nascitur in israel: ab homine usque ad pecus, mei sunt. 	2020-04-18	Liber_Numeri
+1100000076	ego dominus.	2020-04-18	Liber_Numeri
+1100000077	locutusque est dominus ad moysen in deserto sinai, dicens:numera filios levi per domos patrum suorum et familias, omnem masculum ab uno mense et supra.	2020-04-18	Liber_Numeri
+1100000078	numeravit moyses, ut praeceperat dominus,et inventi sunt filii levi per nomina sua, gerson et caath et merari.	2020-04-18	Liber_Numeri
+1100000079	filii gerson: lebni et semei.	2020-04-18	Liber_Numeri
+1100000080	filii caath: amram et iesaar, hebron et oziel.	2020-04-18	Liber_Numeri
+1100000081	filii merari: moholi et musi.	2020-04-18	Liber_Numeri
+1100000082	de gerson fuere familiae duae, lebnitica, et semeitica:quarum numeratus est populus sexus masculini ab uno mense et supra, septem millia quingenti.	2020-04-18	Liber_Numeri
+1100000083	hi post tabernaculum metabuntur ad occidentem,sub principe eliasaph filio lael.	2020-04-18	Liber_Numeri
+1100000084	et habebunt excubias in tabernaculo foederis,ipsum tabernaculum et operimentum eius, tentorium quod trahitur ante fores tecti foederis, et cortinas atrii: tentorium quoque quod appenditur in introitu atrii tabernaculi, et quidquid ad ritum altaris pertinet, funes tabernaculi et omnia utensilia eius.	2020-04-18	Liber_Numeri
+1100000085	cognatio caath habebit populos amramitas et iesaaritas et hebronitas et ozielitas. 	2020-04-18	Liber_Numeri
+1100000086	hae sunt familiae caathitarum recensitae per nomina sua.	2020-04-18	Liber_Numeri
+1100000087	omnes generis masculini ab uno mense et supra, octo millia sexcenti habebunt excubias sanctuarii,et castrametabuntur ad meridianam plagam.	2020-04-18	Liber_Numeri
+1100000088	princepsque eorum erit elisaphan filius oziel:et custodient arcam, mensamque et candelabrum, altaria et vasa sanctuarii, in quibus ministratur, et velum, cunctamque huiuscemodi supellectilem.	2020-04-18	Liber_Numeri
+1100000089	princeps autem principum levitarum eleazar filius aaron sacerdotis, erit super excubitores custodiae sanctuarii.	2020-04-18	Liber_Numeri
+1100000090	at vero de merari erunt populi moholitae et musitae recensiti per nomina sua:omnes generis masculini ab uno mense et supra, sex millia ducenti.	2020-04-18	Liber_Numeri
+1100000091	princeps eorum suriel filius abihaiel: in plaga septentrionali castrametabuntur.	2020-04-18	Liber_Numeri
+1100000092	erunt sub custodia eorum tabulae tabernaculi et vectes, et columnae ac bases earum, et omnia quae ad cultum huiuscemodi pertinent:columnaeque atrii per circuitum cum basibus suis, et paxilli cum funibus.	2020-04-18	Liber_Numeri
+1100000093	castrametabuntur ante tabernaculum foederis, id est, ad orientalem plagam, moyses et aaron cum filiis suis, habentes custodiam sanctuarii in medio filiorum israel. 	2020-04-18	Liber_Numeri
+1100000094	quisquis alienus accesserit, morietur.	2020-04-18	Liber_Numeri
+1100000095	omnes levitae, quos numeraverunt moyses et aaron iuxta praeceptum domini per familias suas in genere masculino a mense uno et supra, fuerunt viginti duo millia.	2020-04-18	Liber_Numeri
+1100000096	et ait dominus ad moysen: numera primogenitos sexus masculini de filiis israel ab uno mense et supra, et habebis summam eorum.	2020-04-18	Liber_Numeri
+1100000097	tollesque levitas mihi pro omni primogenito filiorum israel: ego sum dominus: et pecora eorum pro universis primogenitis pecorum filiorum israel.	2020-04-18	Liber_Numeri
+1100000098	recensuit moyses, sicut praeceperat dominus, primogenitos filiorum israel:et fuerunt masculi per nomina sua, a mense uno et supra, viginti duo millia ducenti septuaginta tres.	2020-04-18	Liber_Numeri
+1100000099	locutusque est dominus ad moysen, dicens:tolle levitas pro primogenitis filiorum israel, et pecora levitarum pro pecoribus eorum, eruntque levitae mei. 	2020-04-18	Liber_Numeri
+1100000100	ego sum dominus.	2020-04-18	Liber_Numeri
+1100000101	in pretio autem ducentorum septuaginta trium, qui excedunt numerum levitarum de primogenitis filiorum israel,accipies quinque siclos per singula capita ad mensuram sanctuarii (siclus habet viginti obolos):dabisque pecuniam aaron et filiis eius pretium eorum qui supra sunt.	2020-04-18	Liber_Numeri
+1100000102	tulit igitur moyses pecuniam eorum, qui fuerant amplius, et quos redemerant a levitis,pro primogenitis filiorum israel, mille trecentorum sexaginta quinque siclorum iuxta pondus sanctuarii:et dedit eam aaron et filiis eius iuxta verbum quod praeceperat sibi dominus.	2020-04-18	Liber_Numeri
+1100000103	caput 4	2020-04-18	Liber_Numeri
+1100000104	locutusque est dominus ad moysen et aaron, dicens:tolle summam filiorum caath de medio levitarum per domos et familias suas,a trigesimo anno et supra, usque ad quinquagesimum annum, omnium qui ingrediuntur ut stent et ministrent in tabernaculo foederis.	2020-04-18	Liber_Numeri
+1100000105	hic est cultus filiorum caath: tabernaculum foederis, et sanctum sanctorumingredientur aaron et filii eius, quando movenda sunt castra, et deponent velum quod pendet ante fores, involventque eo arcam testimonii,et operient rursum velamine ianthinarum pellium, extendentque desuper pallium totum hyacinthinum, et inducent vectes.	2020-04-18	Liber_Numeri
+1100000106	mensam quoque propositionis involvent hyacinthino pallio, et ponent cum ea thuribula et mortariola, cyathos et crateras ad liba fundenda: panes semper in ea erunt:extendentque desuper pallium coccineum, quod rursum operient velamento ianthinarum pellium, et inducent vectes.	2020-04-18	Liber_Numeri
+1100000107	sument et pallium hyacinthinum, quo operient candelabrum cum lucernis et forcipibus suis et emunctoriis et cunctis vasis olei, quae ad concinnandas lucernas necessaria sunt:et super omnia ponent operimentum ianthinarum pellium, et inducent vectes.	2020-04-18	Liber_Numeri
+1100000108	necnon et altare aureum involvent hyacinthino vestimento, et extendent desuper operimentum ianthinarum pellium, inducentque vectes.	2020-04-18	Liber_Numeri
+1100000109	omnia vasa, quibus ministratur in sanctuario, involvent hyacinthino pallio, et extendent desuper operimentum ianthinarum pellium, inducentque vectes.	2020-04-18	Liber_Numeri
+1100000110	sed et altare mundabunt cinere, et involvent illud purpureo vestimento,ponentque cum eo omnia vasa, quibus in ministerio eius utuntur, id est, ignium receptacula, fuscinulas ac tridentes, uncinos et batilla. 	2020-04-18	Liber_Numeri
+1100000111	cuncta vasa altaris operient simul velamine ianthinarum pellium, et inducent vectes.	2020-04-18	Liber_Numeri
+1100000112	cumque involverint aaron et filii eius sanctuarium et omnia vasa eius in commotione castrorum, tunc intrabunt filii caath ut portent involuta: et non tangent vasa sanctuarii, ne moriantur. 	2020-04-18	Liber_Numeri
+1100000113	ista sunt onera filiorum caath in tabernaculo foederis:super quos erit eleazar filius aaron sacerdotis, ad cuius curam pertinet oleum ad concinnandas lucernas, et compositionis incensum, et sacrificium, quod semper offertur, et oleum unctionis, et quidquid ad cultum tabernaculi pertinet, omniumque vasorum, quae in sanctuario sunt.	2020-04-18	Liber_Numeri
+1100000114	locutusque est dominus ad moysen et aaron, dicens:nolite perdere populum caath de medio levitarum:sed hoc facite eis, ut vivant, et non moriantur, si tetigerint sancta sanctorum. 	2020-04-18	Liber_Numeri
+1100000115	aaron et filii eius intrabunt, ipsique disponent opera singulorum, et divident quid portare quis debeat.	2020-04-18	Liber_Numeri
+1100000116	alii nulla curiositate videant quae sunt in sanctuario priusquam involvantur, alioquin morientur.	2020-04-18	Liber_Numeri
+1100000117	locutusque est dominus ad moysen, dicens:tolle summam etiam filiorum gerson per domos ac familias et cognationes suas,a triginta annis et supra, usque ad annos quinquaginta. 	2020-04-18	Liber_Numeri
+1100000118	numera omnes qui ingrediuntur et ministrant in tabernaculo foederis.	2020-04-18	Liber_Numeri
+1100000119	hoc est officium familiae gersonitarum,ut portent cortinas tabernaculi et tectum foederis, operimentum aliud, et super omnia velamen ianthinum tentoriumque quod pendet in introitu tabernaculi foederis,cortinas atrii, et velum in introitu quod est ante tabernaculum. 	2020-04-18	Liber_Numeri
+1100000120	omnia quae ad altare pertinent, funiculos, et vasa ministerii,iubente aaron et filiis eius, portabunt filii gerson: et scient singuli cui debeant oneri mancipari.	2020-04-18	Liber_Numeri
+1100000121	hic est cultus familiae gersonitarum in tabernaculo foederis, eruntque sub manu ithamar filii aaron sacerdotis.	2020-04-18	Liber_Numeri
+1100000122	filios quoque merari per familias et domos patrum suorum recensebis,a triginta annis et supra, usque ad annos quinquaginta, omnes qui ingrediuntur ad officium ministerii sui et cultum foederis testimonii.	2020-04-18	Liber_Numeri
+1100000123	haec sunt onera eorum: portabunt tabulas tabernaculi et vectes eius, columnas ac bases earum,columnas quoque atrii per circuitum cum basibus et paxillis et funibus suis. 	2020-04-18	Liber_Numeri
+1100000124	omnia vasa et supellectilem ad numerum accipient, sicque portabunt.	2020-04-18	Liber_Numeri
+1100000125	hoc est officium familiae meraritarum et ministerium in tabernaculo foederis: eruntque sub manu ithamar filii aaron sacerdotis.	2020-04-18	Liber_Numeri
+1100000126	recensuerunt igitur moyses et aaron et principes synagogae filios caath per cognationes et domos patrum suorum,a triginta annis et supra, usque ad annum quinquagesimum, omnes qui ingrediuntur ad ministerium tabernaculi foederis:et inventi sunt duo millia septingenti quinquaginta.	2020-04-18	Liber_Numeri
+1100000127	hic est numerus populi caath qui intrant tabernaculum foederis: hos numeravit moyses et aaron iuxta sermonem domini per manum moysi.	2020-04-18	Liber_Numeri
+1100000128	numerati sunt et filii gerson per cognationes et domos patrum suorum,a triginta annos et supra, usque ad quinquagesimum annum, omnes qui ingrediuntur ut ministrent in tabernaculo foederis:et inventi sunt duo millia sexcenti triginta.	2020-04-18	Liber_Numeri
+1100000129	hic est populus gersonitarum, quos numeraverunt moyses et aaron iuxta verbum domini.	2020-04-18	Liber_Numeri
+1100000130	numerati sunt et filii merari per cognationes et domos patrum suorum,a triginta annis et supra, usque ad annum quinquagesimum, omnes qui ingrediuntur ad explendos ritus tabernaculi foederis:et inventi sunt tria millia ducenti.	2020-04-18	Liber_Numeri
+1100000131	hic est numerus filiorum merari, quos recensuerunt moyses et aaron iuxta imperium domini per manum moysi.	2020-04-18	Liber_Numeri
+1100000132	omnes qui recensiti sunt de levitis, et quos recenseri fecit ad nomen moyses et aaron, et principes israel per cognationes et domos patrum suorum,a triginta annis et supra, usque ad annum quinquagesimum, ingredientes ad ministerium tabernaculi, et onera portanda,fuerunt simul octo millia quingenti octoginta.	2020-04-18	Liber_Numeri
+1100000133	iuxta verbum domini recensuit eos moyses, unumquemque iuxta officium et onera sua, sicut praeceperat ei dominus.	2020-04-18	Liber_Numeri
+1100000134	caput 5	2020-04-18	Liber_Numeri
+1100000135	locutusque est dominus ad moysen, dicens:praecipe filiis israel, ut eiiciant de castris omnem leprosum, et qui semine fluit, pollutusque est super mortuo:tam masculum quam feminam eiicite de castris, ne contaminent ea cum habitaverint vobiscum.	2020-04-18	Liber_Numeri
+1100000136	feceruntque ita filii israel, et eiecerunt eos extra castra, sicut locutus erat dominus moysi.	2020-04-18	Liber_Numeri
+1100000137	locutusque est dominus ad moysen, dicens:loquere ad filios israel: vir, sive mulier, cum fecerint ex omnibus peccatis, quae solent hominibus accidere, et per negligentiam transgressi fuerint mandatum domini, atque deliquerint,confitebuntur peccatum suum, et reddent ipsum caput, quintamque partem desuper, ei in quem peccaverint.	2020-04-18	Liber_Numeri
+1100000138	sin autem non fuerit qui recipiat, dabunt domino, et erit sacerdotis, excepto ariete, qui offertur pro expiatione, ut sit placabilis hostia.	2020-04-18	Liber_Numeri
+1100000139	omnes quoque primitiae, quas offerunt filii israel, ad sacerdotem pertinent:et quidquid in sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.	2020-04-18	Liber_Numeri
+1100000140	locutusque est dominus ad moysen, dicens:loquere ad filios israel, et dices ad eos: vir cuius uxor erraverit, maritumque contemnensdormierit cum altero viro, et hoc maritus deprehendere non quiverit, sed latet adulterium, et testibus argui non potest, quia non est inventa in stupro:si spiritus zelotypiae concitaverit virum contra uxorem suam, quae vel polluta est, vel falsa suspicione appetitur:adducet eam ad sacerdotem, et offeret oblationem pro illa, decimam partem sati farinae hordeaceae: non fundet super eam oleum, nec imponet thus: quia sacrificium zelotypiae est, et oblatio investigans adulterium.	2020-04-18	Liber_Numeri
+1100000141	offeret igitur eam sacerdos, et statuet coram domino,assumetque aquam sanctam in vase fictili, et pauxillum terrae de pavimento tabernaculi mittet in eam.	2020-04-18	Liber_Numeri
+1100000142	cumque steterit mulier in conspectu domini, discooperiet caput eius, et ponet super manus illius sacrificium recordationis, et oblationem zelotypiae: ipse autem tenebit aquas amarissimas, in quibus cum execratione maledicta congessit.	2020-04-18	Liber_Numeri
+1100000143	adiurabitque eam, et dicet: si non dormivit vir alienus tecum, et si non polluta es deserto mariti thoro, non te nocebunt aquae istae amarissimae, in quas maledicta congessi.	2020-04-18	Liber_Numeri
+1100000144	sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro:his maledictionibus subiacebis: det te dominus in maledictionem, exemplumque cunctorum in populo suo: putrescere faciat femur tuum, et tumens uterus tuus disrumpatur.	2020-04-18	Liber_Numeri
+1100000145	ingrediantur aquae maledictae in ventrem tuum, et utero tumescente putrescat femur. 	2020-04-18	Liber_Numeri
+1100000146	et respondebit mulier: amen, amen.	2020-04-18	Liber_Numeri
+1100000147	scribetque sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit,et dabit ei bibere. 	2020-04-18	Liber_Numeri
+1100000148	quas cum exhauserit,tollet sacerdos de manu eius sacrificium zelotypiae, et elevabit illud coram domino, imponetque illud super altare, ita dumtaxat ut prius:pugillum sacrificii tollat de eo, quod offertur, et incendat super altare: et sic potum det mulieri aquas amarissimas.	2020-04-18	Liber_Numeri
+1100000149	quas cum biberit, si polluta est, et contempto viro adulterii rea, pertransibunt eam aquae maledictionis, et inflato ventre, computrescet femur: eritque mulier in maledictionem, et in exemplum omni populo.	2020-04-18	Liber_Numeri
+1100000150	quod si polluta non fuerit, erit innoxia, et faciet liberos.	2020-04-18	Liber_Numeri
+1100000151	ista est lex zelotypiae. 	2020-04-18	Liber_Numeri
+1100000152	si declinaverit mulier a viro suo, et si polluta fuerit,maritusque zelotypiae spiritu concitatus adduxerit eam in conspectu domini, et fecerit ei sacerdos iuxta omnia quae scripta sunt:maritus absque culpa erit, et illa recipiet iniquitatem suam.	2020-04-18	Liber_Numeri
+1100000153	caput 6	2020-04-18	Liber_Numeri
+1100000154	locutusque est dominus ad moysen, dicens:loquere ad filios israel, et dices ad eos: vir, sive mulier, cum fecerint votum ut sanctificentur, et se voluerint domino consecrare:a vino, et omni quod inebriare potest, abstinebunt. 	2020-04-18	Liber_Numeri
+1100000155	acetum ex vino, et ex qualibet alia potione, et quidquid de uva exprimitur, non bibent: uvas recentes siccasque non comedentcunctis diebus quibus ex voto domino consecrantur: quidquid ex vinea esse potest, ab uva passa usque ad acinum non comedent.	2020-04-18	Liber_Numeri
+1100000156	omni tempore separationis suae novacula non transibit per caput eius usque ad completum diem, quo domino consecratur. 	2020-04-18	Liber_Numeri
+1100000157	sanctus erit, crescente caesarie capitis eius.	2020-04-18	Liber_Numeri
+1100000158	omni tempore consecrationis suae, super mortuum non ingredietur,nec super patris quidem et matris et fratris sororisque funere contaminabitur, quia consecratio dei sui super caput eius est.	2020-04-18	Liber_Numeri
+1100000159	omnibus diebus separationis suae sanctus erit domino.	2020-04-18	Liber_Numeri
+1100000160	sin autem mortuus fuerit subito quispiam coram eo, polluetur caput consecrationis eius: quod radet illico in eadem die purgationis suae, et rursum septima.	2020-04-18	Liber_Numeri
+1100000161	in octava autem die offeret duos turtures, vel duos pullos columbae sacerdoti in introitu foederis testimonii.	2020-04-18	Liber_Numeri
+1100000162	facietque sacerdos unum pro peccato, et alterum in holocaustum, et deprecabitur pro eo, quia peccavit super mortuo: sanctificabitque caput eius in die illo:et consecrabit domino dies separationis illius, offerens agnum anniculum pro peccato: ita tamen ut dies priores irriti fiant, quoniam polluta est sanctificatio eius.	2020-04-18	Liber_Numeri
+1100000163	ista est lex consecrationis. 	2020-04-18	Liber_Numeri
+1100000164	cum dies, quos ex voto decreverat, complebuntur, adducet eum ad ostium tabernaculi foederis,et offeret oblationes eius domino, agnum anniculum immaculatum in holocaustum, et ovem anniculam immaculatam pro peccato, et arietem immaculatum, hostiam pacificam,canistrum quoque panum azymorum qui conspersi sint oleo, et lagana absque fermento uncta oleo, ac libamina singulorum:quae offeret sacerdos coram domino, et faciet tam pro peccato, quam in holocaustum.	2020-04-18	Liber_Numeri
+1100000165	arietem vero immolabit hostiam pacificam domino, offerens simul canistrum azymorum, et libamenta quae ex more debentur.	2020-04-18	Liber_Numeri
+1100000166	tunc radetur nazaraeus ante ostium tabernaculi foederis caesarie consecrationis suae: tolletque capillos eius, et ponet super ignem, qui est suppositus sacrificio pacificorum:et armum coctum arietis, tortamque absque fermento unam de canistro, et laganum azymum unum, et tradet in manus nazaraei, postquam rasum fuerit caput eius.	2020-04-18	Liber_Numeri
+1100000167	susceptaque rursum ab eo, elevabit in conspectu domini: et sanctificata sacerdotis erunt, sicut pectusculum, quod separari iussum est, et femur. 	2020-04-18	Liber_Numeri
+1100000168	post haec, potest bibere nazaraeus vinum.	2020-04-18	Liber_Numeri
+1100000169	ista est lex nazaraei, cum voverit oblationem suam domino tempore consecrationis suae, exceptis his, quae invenerit manus eius: iuxta quod mente devoverat, ita faciet ad perfectionem sanctificationis suae.	2020-04-18	Liber_Numeri
+1100000170	locutusque est dominus ad moysen, dicens:loquere aaron et filiis eius: sic benedicetis filiis israel, et dicetis eis:benedicat tibi dominus, et custodiat te.	2020-04-18	Liber_Numeri
+1100000171	ostendat dominus faciem suam tibi, et misereatur tui.	2020-04-18	Liber_Numeri
+1100000172	convertat dominus vultum suum ad te, et det tibi pacem.	2020-04-18	Liber_Numeri
+1100000173	invocabuntque nomen meum super filios israel, et ego benedicam eis.	2020-04-18	Liber_Numeri
+1100000174	caput 7	2020-04-18	Liber_Numeri
+1100000175	factum est autem in die qua complevit moyses tabernaculum, et erexit illud, unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa eius:obtulerunt principes israel et capita familiarum, qui erant per singulas tribus, praefectique eorum, qui numerati fuerant,munera coram domino sex plaustra tecta cum duodecim bobus. 	2020-04-18	Liber_Numeri
+1100000176	unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi.	2020-04-18	Liber_Numeri
+1100000177	ait autem dominus ad moysen:suscipe ab eis ut serviant in ministerio tabernaculi, et trades ea levitis iuxta ordinem ministerii sui.	2020-04-18	Liber_Numeri
+1100000178	itaque cum suscepisset moyses plaustra et boves, tradidit eos levitis.	2020-04-18	Liber_Numeri
+1100000179	duo plaustra et quatuor boves dedit filiis gerson, iuxta id quod habebant necessarium.	2020-04-18	Liber_Numeri
+1100000180	quatuor alia plaustra et octo boves dedit filiis merari secundum officia et cultum suum, sub manu ithamar filii aaron sacerdotis.	2020-04-18	Liber_Numeri
+1100000181	filiis autem caath non dedit plaustra et boves: quia in sanctuario serviunt, et onera propriis portant humeris.	2020-04-18	Liber_Numeri
+1100000182	igitur obtulerunt duces in dedicationem altaris, die qua unctum est, oblationem suam ante altare.	2020-04-18	Liber_Numeri
+1100000183	dixitque dominus ad moysen: singuli duces per singulos dies offerant munera in dedicationem altaris.	2020-04-18	Liber_Numeri
+1100000184	primo die obtulit oblationem suam nahasson filius aminadab de tribu iuda:fueruntque in ea acetabulum argenteum pondo centum triginta siclorum, phiala argentea habens septuaginta siclos, iuxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:mortariolum ex decem siclis aureis plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000185	haec est oblatio nahasson filii aminadab.	2020-04-18	Liber_Numeri
+1100000186	secundo die obtulit nathanael filius suar, dux de tribu issachar,acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, iuxta pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificium:mortariolum aureum habens decem siclos plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000187	haec fuit oblatio nathanael filii suar.	2020-04-18	Liber_Numeri
+1100000188	tertio die princeps filiorum zabulon, eliab filius helon,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum similia conspersa oleo in sacrificium:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000189	haec est oblatio eliab filii helon.	2020-04-18	Liber_Numeri
+1100000190	die quarto princeps filiorum ruben, elisur filius sedeur,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000191	haec fuit oblatio elisur filii sedeur.	2020-04-18	Liber_Numeri
+1100000192	die quinto princeps filiorum simeon, salamiel filius surisaddai,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000193	haec fuit oblatio salamiel filii surisaddai.	2020-04-18	Liber_Numeri
+1100000194	die sexto princeps filiorum gad, eliasaph filius duel,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000195	haec fuit oblatio eliasaph filii duel.	2020-04-18	Liber_Numeri
+1100000196	die septimo princeps filiorum ephraim, elisama filius ammiud,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000197	haec fuit oblatio elisama filii ammiud.	2020-04-18	Liber_Numeri
+1100000198	die octavo, princeps filiorum manasse, gamaliel filius phadassur,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000199	haec fuit oblatio gamaliel filii phadassur.	2020-04-18	Liber_Numeri
+1100000200	die nono princeps filiorum beniamin, abidan filius gedeonis,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:et mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000201	haec fuit oblatio abidan filii gedeonis.	2020-04-18	Liber_Numeri
+1100000202	die decimo princeps filiorum dan, ahiezer filius ammisaddai,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000203	haec fuit oblatio ahiezer filii ammisaddai.	2020-04-18	Liber_Numeri
+1100000204	die undecimo princeps filiorum aser, phegiel filius ochran,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila conspersa oleo in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000205	haec fuit oblatio phegiel filii ochran.	2020-04-18	Liber_Numeri
+1100000206	die duodecimo princeps filiorum nephthali, ahira filius enan,obtulit acetabulum argenteum appendens centum triginta siclos, phialam argenteam habentem septuaginta siclos, ad pondus sanctuarii, utrumque plenum simila oleo conspersa in sacrificum:mortariolum aureum appendens decem siclos, plenum incenso:bovem de armento, et arietem, et agnum anniculum in holocaustum:hircumque pro peccato:et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. 	2020-04-18	Liber_Numeri
+1100000207	haec fuit oblatio ahira filii enan.	2020-04-18	Liber_Numeri
+1100000208	haec in dedicatione altaris oblata sunt a principibus israel, in die qua consecratum est: acetabula argentea duodecim: phialae argenteae duodecim: mortariola aurea duodecim:ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere sanctuarii:mortariola aurea duodecim plena incenso, denos siclos appendentia pondere sanctuarii: id est, simul auri sicli centum viginti:boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato.	2020-04-18	Liber_Numeri
+1100000209	in hostias pacificorum, boves viginti quatuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. 	2020-04-18	Liber_Numeri
+1100000210	haec oblata sunt in dedicatione altaris, quando unctum est.	2020-04-18	Liber_Numeri
+1100000211	cumque ingrederetur moyses tabernaculum foederis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.	2020-04-18	Liber_Numeri
+1100000212	caput 8	2020-04-18	Liber_Numeri
+1100000213	locutusque est dominus ad moysen, dicens:loquere aaron, et dices ad eum: cum posueris septem lucernas, candelabrum in australi parte erigatur. 	2020-04-18	Liber_Numeri
+1100000214	hoc igitur praecipe ut lucernae contra boream e regione respiciant ad mensam panum propositionis, contra eam partem, quam candelabrum respicit, lucere debebunt.	2020-04-18	Liber_Numeri
+1100000215	fecitque aaron, et imposuit lucernas super candelabrum, ut praeceperat dominus moysi.	2020-04-18	Liber_Numeri
+1100000216	haec autem erat factura candelabri, ex auro ductili, tam medius stipes, quam cuncta quae ex utroque calamorum latere nascebantur: iuxta exemplum quod ostendit dominus moysi, ita operatus est candelabrum.	2020-04-18	Liber_Numeri
+1100000217	et locutus est dominus ad moysen, dicens:tolle levitas de medio filiorum israel, et purificabis eosiuxta hunc ritum: aspergantur aqua lustrationis, et radant omnes pilos carnis suae. 	2020-04-18	Liber_Numeri
+1100000218	cumque laverint vestimenta sua, et mundati fuerint,tollent bovem de armentis, et libamentum eius similam oleo conspersam: bovem autem alterum de armento tu accipies pro peccato:et applicabis levitas coram tabernaculo foederis, convocata omni multitudine filiorum israel.	2020-04-18	Liber_Numeri
+1100000219	cumque levitae fuerint coram domino, ponent filii israel manus suas super eos.	2020-04-18	Liber_Numeri
+1100000220	et offeret aaron levitas, munus in conspectu domini a filiis israel, ut serviant in ministerio eius.	2020-04-18	Liber_Numeri
+1100000221	levitae quoque ponent manus suas super capita boum, e quibus unum facies pro peccato, et alterum in holocaustum domini, ut depreceris pro eis.	2020-04-18	Liber_Numeri
+1100000222	statuesque levitas in conspectu aaron et filiorum eius, et consecrabis oblatos domino,ac separabis de medio filiorum israel, ut sint mei.	2020-04-18	Liber_Numeri
+1100000223	et postea ingredientur tabernaculum foederis, ut serviant mihi. 	2020-04-18	Liber_Numeri
+1100000224	sicque purificabis et consecrabis eos in oblationem domini: quoniam dono donati sunt mihi a filiis israel.	2020-04-18	Liber_Numeri
+1100000225	pro primogenitis quae aperiunt omnem vulvam in israel, accepi eos.	2020-04-18	Liber_Numeri
+1100000226	mea sunt enim omnia primogenita filiorum israel, tam ex hominibus quam ex iumentis. 	2020-04-18	Liber_Numeri
+1100000227	ex die quo percussi omne primogenitum in terra aegypti, sanctificavi eos mihi:et tuli levitas pro cunctis primogenitis filiorum israel,tradidique eos dono aaron et filiis eius de medio populi, ut serviant mihi pro israel in tabernaculo foederis, et orent pro eis ne sit in populo plaga, si ausi fuerint accedere ad sanctuarium.	2020-04-18	Liber_Numeri
+1100000228	feceruntque moyses et aaron et omnis multitudo filiorum israel super levitas quae praeceperat dominus moysi:purificatique sunt, et laverunt vestimenta sua. 	2020-04-18	Liber_Numeri
+1100000229	elevavitque eos aaron in conspectu domini, et oravit pro eis,ut purificati ingrederentur ad officia sua in tabernaculum foederis coram aaron et filiis eius. 	2020-04-18	Liber_Numeri
+1100000230	sicut praeceperat dominus moysi de levitis, ita factum est.	2020-04-18	Liber_Numeri
+1100000231	locutusque est dominus ad moysen, dicens:haec est lex levitarum: a viginti quinque annis et supra, ingredientur ut ministrent in tabernaculo foederis.	2020-04-18	Liber_Numeri
+1100000232	cumque quinquagesimum annum aetatis impleverint, servire cessabunt,eruntque ministri fratrum suorum in tabernaculo foederis, ut custodiant quae sibi fuerunt commendata: opera autem ipsa non faciant. 	2020-04-18	Liber_Numeri
+1100000233	sic dispones levitis in custodiis suis.	2020-04-18	Liber_Numeri
+1100000234	caput 9	2020-04-18	Liber_Numeri
+1100000235	locutus est dominus ad moysen in deserto sinai anno secundo, postquam egressi sunt de terra aegypti, mense primo, dicens:faciant filii israel phase in tempore suo,quartadecima die mensis huius ad vesperam, iuxta omnes caeremonias et iustificationes eius.	2020-04-18	Liber_Numeri
+1100000236	praecepitque moyses filiis israel ut facerent phase.	2020-04-18	Liber_Numeri
+1100000237	qui fecerunt tempore suo, quartadecima die mensis ad vesperam, in monte sinai. 	2020-04-18	Liber_Numeri
+1100000238	iuxta omnia quae mandaverat dominus moysi, fecerunt filii israel.	2020-04-18	Liber_Numeri
+1100000239	ecce autem quidam immundi super anima hominis, qui non poterant facere phase in die illo, accedentes ad moysen et aaron,dixerunt eis: immundi sumus super anima hominis: quare fraudamur ut non valeamus oblationem offerre domino in tempore suo inter filios israel?	2020-04-18	Liber_Numeri
+1100000240	quibus respondit moyses: state ut consulam quid praecipiat dominus de vobis.	2020-04-18	Liber_Numeri
+1100000241	locutusque est dominus ad moysen, dicens:loquere filiis israel: homo, qui fuerit immundus super anima, sive in via procul in gente vestra, faciat phase dominoin mense secundo, quartadecima die mensis ad vesperam. 	2020-04-18	Liber_Numeri
+1100000242	cum azymis et lactucis agrestibus comedent illud:non relinquent ex eo quippiam usque mane, et os eius non confringent: omnem ritum phase observabunt.	2020-04-18	Liber_Numeri
+1100000243	si quis autem et mundus est, et in itinere non fuit, et tamen non fecit phase, exterminabitur anima illa de populis suis, quia sacrificium domino non obtulit tempore suo: peccatum suum ipse portabit.	2020-04-18	Liber_Numeri
+1100000244	peregrinus quoque et advena si fuerint apud vos, facient phase domino iuxta caeremonias et iustificationes eius. 	2020-04-18	Liber_Numeri
+1100000245	praeceptum idem erit apud vos tam advenae quam indigenae.	2020-04-18	Liber_Numeri
+1100000246	igitur die qua erectum est tabernaculum, operuit illud nubes. 	2020-04-18	Liber_Numeri
+1100000247	a vespere autem super tentorium erat quasi species ignis usque mane.	2020-04-18	Liber_Numeri
+1100000248	sic fiebat iugiter: per diem operiebat illud nubes, et per noctem quasi species ignis.	2020-04-18	Liber_Numeri
+1100000249	cumque ablata fuisset nubes, quae tabernaculum protegebat, tunc proficiscebantur filii israel: et in loco ubi stetisset nubes, ibi castrametabantur.	2020-04-18	Liber_Numeri
+1100000250	ad imperium domini proficiscebantur, et ad imperium illius figebant tabernaculum. 	2020-04-18	Liber_Numeri
+1100000251	cunctis diebus quibus stabat nubes super tabernaculum, manebant in eodem loco:et si evenisset ut multo tempore maneret super illud, erant filii israel in excubiis domini, et non proficiscebanturquot diebus fuisset nubes super tabernaculum. 	2020-04-18	Liber_Numeri
+1100000252	ad imperium domini erigebant tentoria, et ad imperium illius deponebant.	2020-04-18	Liber_Numeri
+1100000253	si fuisset nubes a vespere usque mane, et statim diluculo tabernaculum reliquisset, proficiscebantur: et si post diem et noctem recessisset, dissipabant tentoria.	2020-04-18	Liber_Numeri
+1100000254	si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, manebant filii israel in eodem loco, et non proficiscebantur: statim autem ut recessisset, movebant castra.	2020-04-18	Liber_Numeri
+1100000255	per verbum domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis domini iuxta imperium eius per manum moysi.	2020-04-18	Liber_Numeri
+1100000256	caput 10	2020-04-18	Liber_Numeri
+1100000257	locutusque est dominus ad moysen, dicens:fac tibi duas tubas argenteas ductiles, quibus convocare possis multitudinem quando movenda sunt castra.	2020-04-18	Liber_Numeri
+1100000258	cumque increpueris tubis, congregabitur ad te omnis turba ad ostium tabernaculi foederis.	2020-04-18	Liber_Numeri
+1100000259	si semel clangueris, venient ad te principes, et capita multitudinis israel.	2020-04-18	Liber_Numeri
+1100000260	si autem prolixior atque concisus clangor increpuerit, movebunt castra primi qui sunt ad orientalem plagam.	2020-04-18	Liber_Numeri
+1100000261	in secundo autem sonitu et pari ululatu tubae, levabunt tentoria qui habitant ad meridiem; et iuxta hunc modum reliqui facient, ululantibus tubis in profectionem.	2020-04-18	Liber_Numeri
+1100000262	quando autem congregandus est populus, simplex tubarum clangor erit, et non concise ululabunt.	2020-04-18	Liber_Numeri
+1100000263	filii autem aaron sacerdotes clangent tubis: eritque hoc legitimum sempiternum in generationibus vestris.	2020-04-18	Liber_Numeri
+1100000264	si exieritis ad bellum de terra vestra contra hostes qui dimicant adversum vos, clangetis ululantibus tubis, et erit recordatio vestri coram domino deo vestro, ut eruamini de manibus inimicorum vestrorum.	2020-04-18	Liber_Numeri
+1100000265	siquando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem dei vestri. 	2020-04-18	Liber_Numeri
+1100000266	ego dominus deus vester.	2020-04-18	Liber_Numeri
+1100000267	anno secundo, mense secundo, vigesima die mensis, elevata est nubes de tabernaculo foederis:profectique sunt filii israel per turmas suas de deserto sinai, et recubuit nubes in solitudine pharan.	2020-04-18	Liber_Numeri
+1100000268	moveruntque castra primi iuxta imperium domini in manu moysi.	2020-04-18	Liber_Numeri
+1100000269	filii iuda per turmas suas: quorum princeps erat nahasson filius aminadab.	2020-04-18	Liber_Numeri
+1100000270	in tribu filiorum issachar fuit princeps nathanael filius suar.	2020-04-18	Liber_Numeri
+1100000271	in tribu zabulon erat princeps eliab filius helon.	2020-04-18	Liber_Numeri
+1100000272	depositumque est tabernaculum, quod portantes egressi sunt filii gerson et merari.	2020-04-18	Liber_Numeri
+1100000273	profectique sunt et filii ruben, per turmas et ordinem suum: quorum princeps erat helisur filius sedeur.	2020-04-18	Liber_Numeri
+1100000274	in tribu autem filiorum simeon, princeps fuit salamiel filius surisaddai.	2020-04-18	Liber_Numeri
+1100000275	porro in tribu gad erat princeps eliasaph filius duel.	2020-04-18	Liber_Numeri
+1100000276	profectique sunt et caathitae portantes sanctuarium. 	2020-04-18	Liber_Numeri
+1100000277	tamdiu tabernaculum portabatur, donec venirent ad erectionis locum.	2020-04-18	Liber_Numeri
+1100000278	moverunt castra et filii ephraim per turmas suas, in quorum exercitu princeps erat elisama filius ammiud.	2020-04-18	Liber_Numeri
+1100000279	in tribu autem filiorum manasse princeps fuit gamaliel filius phadassur.	2020-04-18	Liber_Numeri
+1100000280	et in tribu beniamin erat dux abidan filius gedeonis.	2020-04-18	Liber_Numeri
+1100000281	novissimi castrorum omnium profecti sunt filii dan per turmas suas, in quorum exercitu princeps fuit ahiezer filius ammisaddai.	2020-04-18	Liber_Numeri
+1100000282	in tribu autem filiorum aser erat princeps phegiel filius ochran.	2020-04-18	Liber_Numeri
+1100000283	et in tribu filiorum nephthali princeps fuit ahira filius enan.	2020-04-18	Liber_Numeri
+1100000284	haec sunt castra, et profectiones filiorum israel per turmas suas quando egrediebantur.	2020-04-18	Liber_Numeri
+1100000285	dixitque moyses hobab filio raguel madianitae, cognato suo: proficiscimur ad locum quem dominus daturus est nobis: veni nobiscum, ut benefaciamus tibi, quia dominus bona promisit israeli.	2020-04-18	Liber_Numeri
+1100000286	cui ille respondit: non vadam tecum, sed revertar in terram meam, in qua natus sum.	2020-04-18	Liber_Numeri
+1100000287	et ille: noli, inquit, nos relinquere: tu enim nosti in quibus locis per desertum castra ponere debeamus, et eris ductor noster.	2020-04-18	Liber_Numeri
+1100000288	cumque nobiscum veneris, quidquid optimum fuerit ex opibus, quas nobis traditurus est dominus, dabimus tibi.	2020-04-18	Liber_Numeri
+1100000289	profecti sunt ergo de monte domini viam trium dierum, arcaque foederis domini praecedebat eos, per dies tres providens castrorum locum.	2020-04-18	Liber_Numeri
+1100000290	nubes quoque domini super eos erat per diem cum incederent.	2020-04-18	Liber_Numeri
+1100000291	cumque elevaretur arca, dicebat moyses: surge, domine, et dissipentur inimici tui, et fugiant qui oderunt te, a facie tua.	2020-04-18	Liber_Numeri
+1100000292	cum autem deponeretur, aiebat: revertere, domine, ad multitudinem exercitus israel.	2020-04-18	Liber_Numeri
+1100000293	caput 11	2020-04-18	Liber_Numeri
+1100000294	interea ortum est murmur populi, quasi dolentium pro labore, contra dominum. 	2020-04-18	Liber_Numeri
+1100000295	quod cum audisset dominus, iratus est. 	2020-04-18	Liber_Numeri
+1100000296	et accensus in eos ignis domini, devoravit extremam castrorum partem.	2020-04-18	Liber_Numeri
+1100000297	cumque clamasset populus ad moysen, oravit moyses ad dominum, et absorptus est ignis.	2020-04-18	Liber_Numeri
+1100000298	vocavitque nomen loci illius, incensio: eo quod incensus fuisset contra eos ignis domini.	2020-04-18	Liber_Numeri
+1100000299	vulgus quippe promiscuum, quod ascenderat cum eis, flagravit desiderio, sedens et flens, iunctis sibi pariter filiis israel, et ait: quis dabit nobis ad vescendum carnes?	2020-04-18	Liber_Numeri
+1100000300	recordamur piscium quos comedebamus in aegypto gratis: in mentem nobis veniunt cucumeres, et pepones, porrique, et caepe, et allia.	2020-04-18	Liber_Numeri
+1100000301	anima nostra arida est: nihil aliud respiciunt oculi nostri nisi man.	2020-04-18	Liber_Numeri
+1100000302	erat autem man quasi semen coriandri, coloris bdellii.	2020-04-18	Liber_Numeri
+1100000303	circuibatque populus, et colligens illud, frangebat mola, sive terebat in mortario, coquens in olla, et faciens ex eo tortulas saporis quasi panis oleati.	2020-04-18	Liber_Numeri
+1100000304	cumque descenderet nocte super castra ros, descendebat pariter et man.	2020-04-18	Liber_Numeri
+1100000305	audivit ergo moyses flentem populum per familias, singulos per ostia tentorii sui. 	2020-04-18	Liber_Numeri
+1100000306	iratusque est furor domini valde: sed et moysi intoleranda res visa est,et ait ad dominum: cur afflixisti servum tuum? 	2020-04-18	Liber_Numeri
+1100000307	quare non invenio gratiam coram te? 	2020-04-18	Liber_Numeri
+1100000308	et cur imposuisti pondus universi populi huius super me?	2020-04-18	Liber_Numeri
+1100000309	numquid ego concepi omnem hanc multitudinem, vel genui eam, ut dicas mihi: porta eos in sinu tuo sicut portare solet nutrix infantulum, et defer in terram, pro qua iurasti patribus eorum?	2020-04-18	Liber_Numeri
+1100000310	unde mihi carnes ut dem tantae multitudini? 	2020-04-18	Liber_Numeri
+1100000311	flent contra me, dicentes: da nobis carnes ut comedamus.	2020-04-18	Liber_Numeri
+1100000312	non possum solus sustinere omnem hunc populum, quia gravis est mihi.	2020-04-18	Liber_Numeri
+1100000313	sin aliter tibi videtur, obsecro ut interficias me, et inveniam gratiam in oculis tuis, ne tantis afficiar malis.	2020-04-18	Liber_Numeri
+1100000314	et dixit dominus ad moysen: congrega mihi septuaginta viros de senibus israel, quos tu nosti quod senes populi sint ac magistri: et duces eos ad ostium tabernaculi foederis, faciesque ibi stare tecum,ut descendam et loquar tibi: et auferam de spiritu tuo, tradamque eis, ut sustentent tecum onus populi, et non tu solus graveris.	2020-04-18	Liber_Numeri
+1100000315	populo quoque dices: sanctificamini (cras comedetis carnes: ego enim audivi vos dicere: quis dabit nobis escas carnium? 	2020-04-18	Liber_Numeri
+1100000316	bene nobis erat in aegypto), ut det vobis dominus carnes, et comedatis:non uno die, nec duobus, vel quinque aut decem, nec viginti quidem,sed usque ad mensem dierum, donec exeat per nares vestras, et vertatur in nauseam, eo quod repuleritis dominum, qui in medio vestri est, et fleveritis coram eo, dicentes: quare egressi sumus ex aegypto?	2020-04-18	Liber_Numeri
+1100000317	et ait moyses: sexcenta millia peditum huius populi sunt: et tu dicis: dabo eis esum carnium mense integro?	2020-04-18	Liber_Numeri
+1100000318	numquid ovium et boum multitudo caedetur, ut possit sufficere ad cibum? 	2020-04-18	Liber_Numeri
+1100000319	vel omnes pisces maris in unum congregabuntur, ut eos satient?	2020-04-18	Liber_Numeri
+1100000320	cui respondit dominus: numquid manus domini invalida est? 	2020-04-18	Liber_Numeri
+1100000321	iam nunc videbis utrum meus sermo opere compleatur.	2020-04-18	Liber_Numeri
+1100000322	venit igitur moyses, et narravit populo verba domini, congregans septuaginta viros de senibus israel, quos stare fecit circa tabernaculum.	2020-04-18	Liber_Numeri
+1100000323	descenditque dominus per nubem, et locutus est ad eum, auferens de spiritu qui erat in moyse, et dans septuaginta viris. 	2020-04-18	Liber_Numeri
+1100000324	cumque requievisset in eis spiritus, prophetaverunt, nec ultra cessaverunt.	2020-04-18	Liber_Numeri
+1100000325	remanserat autem in castris duo viri, quorum unus vocabatur eldad, et alter medad, super quos requievit spiritus. 	2020-04-18	Liber_Numeri
+1100000326	nam et ipsi descripti fuerant, et non exierant ad tabernaculum.	2020-04-18	Liber_Numeri
+1100000327	cumque prophetarent in castris, cucurrit puer, et nuntiavit moysi, dicens: eldad et medad prophetant in castris.	2020-04-18	Liber_Numeri
+1100000328	statim iosue filius nun, minister moysi, et electus e pluribus, ait: domine mi moyses, prohibe eos.	2020-04-18	Liber_Numeri
+1100000329	at ille: quid, inquit aemularis pro me? 	2020-04-18	Liber_Numeri
+1100000330	quis tribuat ut omnis populus prophetet, et det eis dominus spiritum suum?	2020-04-18	Liber_Numeri
+1100000331	reversusque est moyses, et maiores natu israel in castra.	2020-04-18	Liber_Numeri
+1100000332	ventus autem egrediens a domino, arreptans trans mare coturnices detulit, et demisit in castra itinere quantum uno die confici potest, ex omni parte castrorum per circuitum, volabantque in aere duobus cubitis altitudine super terram.	2020-04-18	Liber_Numeri
+1100000333	surgens ergo populus toto die illo, et nocte, ac die altero, congregavit coturnicum: qui parum, decem coros: et siccaverunt eas per gyrum castrorum.	2020-04-18	Liber_Numeri
+1100000334	adhuc carnes erant in dentibus eorum, nec defecerat huiuscemodi cibus: et ecce furor domini concitatus in populum, percussit eum plaga magna nimis.	2020-04-18	Liber_Numeri
+1100000335	vocatusque est ille locus, sepulchra concupiscentiae: ibi enim sepelierunt populum qui desideraverat. 	2020-04-18	Liber_Numeri
+1100000336	egressi autem de sepulchris concupiscentiae, venerunt in haseroth, et manserunt ibi.	2020-04-18	Liber_Numeri
+1100000337	caput 12	2020-04-18	Liber_Numeri
+1100000338	locutaque est maria et aaron contra moysen propter uxorem eius aethiopissam,et dixerunt: num per solum moysen locutus est dominus? 	2020-04-18	Liber_Numeri
+1100000339	nonne et nobis similiter est locutus? 	2020-04-18	Liber_Numeri
+1100000340	quod cum audisset dominus(erat enim moyses vir mitissimus super omnes homines qui morabantur in terra),statim locutus est ad eum, et ad aaron et mariam: egredimini vos tantum tres ad tabernaculum foederis. 	2020-04-18	Liber_Numeri
+1100000341	cumque fuissent egressi,descendit dominus in columna nubis, et stetit in introitu tabernaculi, vocans aaron et mariam. 	2020-04-18	Liber_Numeri
+1100000342	qui cum issent,dixit ad eos: audite sermones meos: si quis fuerit inter vos propheta domini, in visione apparebo ei, vel per somnium loquar ad illum.	2020-04-18	Liber_Numeri
+1100000343	at non talis servus meus moyses, qui in omni domo mea fidelissimus est:ore enim ad os loquor ei: et palam, et non per aenigmata et figuras dominum videt. 	2020-04-18	Liber_Numeri
+1100000344	quare ergo non timuistis detrahere servo meo moysi?	2020-04-18	Liber_Numeri
+1100000345	iratusque contra eos, abiit:nubes quoque recessit quae erat super tabernaculum: et ecce maria apparuit candens lepra quasi nix. 	2020-04-18	Liber_Numeri
+1100000346	cumque respexisset eam aaron, et vidisset perfusam lepra,ait ad moysen: obsecro, domine mi, ne imponas nobis hoc peccatum quod stulte commisimus,ne fiat haec quasi mortua, et ut abortivum quod proiicitur de vulva matris suae: ecce iam medium carnis eius devoratum est a lepra.	2020-04-18	Liber_Numeri
+1100000347	clamavitque moyses ad dominum, dicens: deus, obsecro, sana eam.	2020-04-18	Liber_Numeri
+1100000348	cui respondit dominus: si pater eius spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? 	2020-04-18	Liber_Numeri
+1100000349	separetur septem diebus extra castra, et postea revocabitur.	2020-04-18	Liber_Numeri
+1100000350	exclusa est itaque maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est maria.	2020-04-18	Liber_Numeri
+1100000351	caput 13	2020-04-18	Liber_Numeri
+1100000352	profectusque est populus de haseroth, fixis tentoriis in deserto pharan.	2020-04-18	Liber_Numeri
+1100000353	ibique locutus est dominus ad moysen, dicens:mitte viros, qui considerent terram chanaan, quam daturus sum filiis israel, singulos de singulis tribubus, ex principibus.	2020-04-18	Liber_Numeri
+1100000354	fecit moyses quod dominus imperaverat, de deserto pharan mittens principes viros, quorum ista sunt nomina.	2020-04-18	Liber_Numeri
+1100000355	de tribu ruben, sammua filium zechur.	2020-04-18	Liber_Numeri
+1100000356	de tribu simeon, saphat filium huri.	2020-04-18	Liber_Numeri
+1100000357	de tribu iuda, caleb filium iephone.	2020-04-18	Liber_Numeri
+1100000358	de tribu issachar, igal filium ioseph.	2020-04-18	Liber_Numeri
+1100000359	de tribu ephraim, osee filium nun.	2020-04-18	Liber_Numeri
+1100000360	de tribu beniamin, phalti filium raphu.	2020-04-18	Liber_Numeri
+1100000361	de tribu zabulon, geddiel filium sodi.	2020-04-18	Liber_Numeri
+1100000362	de tribu ioseph, sceptri manasse, gaddi filium susi.	2020-04-18	Liber_Numeri
+1100000363	de tribu dan, ammiel filium gemalli.	2020-04-18	Liber_Numeri
+1100000364	de tribu aser, sthur filium michael.	2020-04-18	Liber_Numeri
+1100000365	de tribu nephthali, nahabi filium vapsi.	2020-04-18	Liber_Numeri
+1100000366	de tribu gad, guel filium machi.	2020-04-18	Liber_Numeri
+1100000367	haec sunt nomina virorum, quos misit moyses ad considerandam terram: vocavitque osee filium nun, iosue.	2020-04-18	Liber_Numeri
+1100000368	misit ergo eos moyses ad considerandam terram chanaan, et dixit ad eos: ascendite per meridianam plagam. 	2020-04-18	Liber_Numeri
+1100000369	cumque veneritis ad montes,considerate terram, qualis sit: et populum qui habitator est eius, utrum fortis sit an infirmus: si pauci numero an plures:ipsa terra, bona an mala: urbes quales, muratae an absque muris:humus, pinguis an sterilis, nemorosa an absque arboribus. 	2020-04-18	Liber_Numeri
+1100000370	confortamini, et afferte nobis de fructibus terrae. 	2020-04-18	Liber_Numeri
+1100000371	erat autem tempus quando iam praecoquae uvae vesci possunt.	2020-04-18	Liber_Numeri
+1100000372	cumque ascendissent, exploraverunt terram a deserto sin, usque rohob intrantibus emath.	2020-04-18	Liber_Numeri
+1100000373	ascenderuntque ad meridiem, et venerunt in hebron, ubi erant achiman et sisai et tholmai filii enac: nam hebron septem annis ante tanim urbem aegypti condita est.	2020-04-18	Liber_Numeri
+1100000374	pergentesque usque ad torrentem botri, absciderunt palmitem cum uva sua, quem portaverunt in vecte duo viri. 	2020-04-18	Liber_Numeri
+1100000375	de malis quoque granatis et de ficis loci illius tulerunt:qui appellatus est nehelescol, id est torrens botri, eo quod botrum portassent inde filii israel.	2020-04-18	Liber_Numeri
+1100000376	reversique exploratores terrae post quadraginta dies, omni regione circuita,venerunt ad moysen et aaron et ad omnem coetum filiorum israel in desertum pharan, quod est in cades. 	2020-04-18	Liber_Numeri
+1100000377	locutique eis et omni multitudini ostenderunt fructus terrae:et narraverunt, dicentes: venimus in terram, ad quam misisti nos, quae revera fluit lacte et melle, ut ex his fructibus cognosci potest:sed cultores fortissimos habet, et urbes grandes atque muratas. 	2020-04-18	Liber_Numeri
+1100000378	stirpem enac vidimus ibi.	2020-04-18	Liber_Numeri
+1100000379	amalec habitat in meridie, hethaeus et iebusaeus et amorrhaeus in montanis: chananaeus vero moratur iuxta mare et circa fluenta iordanis.	2020-04-18	Liber_Numeri
+1100000380	inter haec caleb compescens murmur populi, qui oriebatur contra moysen, ait: ascendamus, et possideamus terram, quoniam poterimus obtinere eam.	2020-04-18	Liber_Numeri
+1100000381	alii vero, qui fuerant cum eo, dicebant: nequaquam ad hunc populum valemus ascendere, quia fortior nobis est.	2020-04-18	Liber_Numeri
+1100000382	detraxeruntque terrae, quam inspexerant, apud filios israel, dicentes: terra, quam lustravimus, devorat habitatores suos: populus, quem aspeximus, procerae staturae est.	2020-04-18	Liber_Numeri
+1100000383	ibi vidimus monstra quaedam filiorum enac de genere giganteo: quibus comparati, quasi locustae videbamur.	2020-04-18	Liber_Numeri
+1100000384	caput 14	2020-04-18	Liber_Numeri
+1100000385	igitur vociferans omnis turba flevit nocte illa,et murmurati sunt contra moysen et aaron cuncti filii israel, dicentes:utinam mortui essemus in aegypto: et in hac vasta solitudine utinam pereamus, et non inducat nos dominus in terram istam, ne cadamus gladio, et uxores ac liberi nostri ducantur captivi. 	2020-04-18	Liber_Numeri
+1100000386	nonne melius est reverti in aegyptum?	2020-04-18	Liber_Numeri
+1100000387	dixeruntque alter ad alterum: constituamus nobis ducem, et revertamur in aegyptum.	2020-04-18	Liber_Numeri
+1100000388	quo audito, moyses et aaron ceciderunt proni in terram coram omni multitudine filiorum israel.	2020-04-18	Liber_Numeri
+1100000389	at vero iosue filius nun et caleb filius iephone, qui et ipsi lustraverant terram, sciderunt vestimenta sua,et ad omnem multitudinem filiorum israel locuti sunt: terra, quam circuivimus, valde bona est.	2020-04-18	Liber_Numeri
+1100000390	si propitius fuerit dominus, inducet nos in eam, et tradet humum lacte et melle manantem.	2020-04-18	Liber_Numeri
+1100000391	nolite rebelles esse contra dominum: neque timeatis populum terrae huius, quia sicut panem ita eos possumus devorare. 	2020-04-18	Liber_Numeri
+1100000392	recessit ab eis omne praesidium: dominus nobiscum est, nolite metuere.	2020-04-18	Liber_Numeri
+1100000393	cumque clamaret omnis multitudo, et lapidibus eos vellet opprimere, apparuit gloria domini super tectum foederis cunctis filiis israel.	2020-04-18	Liber_Numeri
+1100000394	et dixit dominus ad moysen: usquequo detrahet mihi populus iste? 	2020-04-18	Liber_Numeri
+1100000395	quousque non credent mihi, in omnibus signis quae feci coram eis?	2020-04-18	Liber_Numeri
+1100000396	feriam igitur eos pestilentia, atque consumam: te autem faciam principem super gentem magnam, et fortiorem quam haec est.	2020-04-18	Liber_Numeri
+1100000397	et ait moyses ad dominum: ut audiant aegyptii, de quorum medio eduxisti populum istum,et habitatores terrae huius, qui audierunt quod tu, domine, in populo isto sis, et facie videaris ad faciem, et nubes tua protegat illos, et in columna nubis praecedas eos per diem, et in columna ignis per noctem:quod occideris tantam multitudinem quasi unum hominem, et dicant:non poterat introducere populum in terram pro qua iuraverat: idcirco occidit eos in solitudine?	2020-04-18	Liber_Numeri
+1100000398	magnificetur ergo fortitudo domini sicut iurasti, dicens:dominus patiens et multae misericordiae, auferens iniquitatem et scelera, nullumque innoxium derelinquens, qui visitas peccata patrum in filios in tertiam et quartam generationem.	2020-04-18	Liber_Numeri
+1100000399	dimitte, obsecro, peccatum populi huius secundum magnitudinem misericordiae tuae, sicut propitius fuisti egredientibus de aegypto usque ad locum istum.	2020-04-18	Liber_Numeri
+1100000400	dixitque dominus: dimisi iuxta verbum tuum.	2020-04-18	Liber_Numeri
+1100000401	vivo ego: et implebitur gloria domini universa terra.	2020-04-18	Liber_Numeri
+1100000402	attamen omnes homines qui viderunt maiestatem meam, et signa quae feci in aegypto et in solitudine, et tentaverunt me iam per decem vices, nec obedierunt voci meae,non videbunt terram pro qua iuravi patribus eorum, nec quisquam ex illis qui detraxit mihi, intuebitur eam.	2020-04-18	Liber_Numeri
+1100000403	servum meum caleb, qui plenus alio spiritu secutus est me, inducam in terram hanc, quam circuivit; et semen eius possidebit eam.	2020-04-18	Liber_Numeri
+1100000404	quoniam amalecites et chananaeus habitant in vallibus. 	2020-04-18	Liber_Numeri
+1100000405	cras movete castra, et revertimini in solitudinem per viam maris rubri.	2020-04-18	Liber_Numeri
+1100000406	locutusque est dominus ad moysen et aaron, dicens:usquequo multitudo haec pessima murmurat contra me? 	2020-04-18	Liber_Numeri
+1100000407	querelas filiorum israel audivi.	2020-04-18	Liber_Numeri
+1100000408	dic ergo eis: vivo ego, ait dominus: sicut locuti estis audiente me, sic faciam vobis.	2020-04-18	Liber_Numeri
+1100000409	in solitudine hac iacebunt cadavera vestra. 	2020-04-18	Liber_Numeri
+1100000410	omnes qui numerati estis a viginti annis et supra, et murmurastis contra me,non intrabitis terram, super quam levavi manum meam ut habitare vos facerem, praeter caleb filium iephone, et iosue filium nun.	2020-04-18	Liber_Numeri
+1100000411	parvulos autem vestros, de quibus dixistis quod praedae hostibus forent, introducam, ut videant terram, quae vobis displicuit.	2020-04-18	Liber_Numeri
+1100000412	vestra cadavera iacebunt in solitudine.	2020-04-18	Liber_Numeri
+1100000413	filii vestri erunt vagi in deserto annis quadraginta, et portabunt fornicationem vestram, donec consumantur cadavera patrum in deserto,iuxta numerum quadraginta dierum, quibus considerastis terram: annus pro die imputabitur. 	2020-04-18	Liber_Numeri
+1100000414	et quadraginta annis recipietis iniquitates vestras, et scietis ultionem meam:quoniam sicut locutus sum, ita faciam omni multitudini huic pessimae, quae consurrexit adversum me: in solitudine hac deficiet, et morietur.	2020-04-18	Liber_Numeri
+1100000415	igitur omnes viri, quos miserat moyses ad contemplandam terram, et qui reversi murmurare fecerant contra eum omnem multitudinem, detrahentes terrae quod esset mala,mortui sunt atque percussi in conspectu domini.	2020-04-18	Liber_Numeri
+1100000416	iosue autem filius nun, et caleb filius iephone, vixerunt ex omnibus qui perrexerant ad considerandam terram.	2020-04-18	Liber_Numeri
+1100000417	locutusque est moyses universa verba haec ad omnes filios israel, et luxit populus nimis.	2020-04-18	Liber_Numeri
+1100000418	et ecce mane primo surgentes ascenderunt verticem montis, atque dixerunt: parati sumus ascendere ad locum, de quo dominus locutus est: quia peccavimus.	2020-04-18	Liber_Numeri
+1100000419	quibus moyses: cur, inquit, transgredimini verbum domini, quod vobis non cedet in prosperum?	2020-04-18	Liber_Numeri
+1100000420	nolite ascendere: non enim est dominus vobiscum: ne corruatis coram inimicis vestris.	2020-04-18	Liber_Numeri
+1100000421	amalecites et chananaeus ante vos sunt, quorum gladio corruetis, eo quod nolueritis acquiescere domino: nec erit dominus vobiscum.	2020-04-18	Liber_Numeri
+1100000422	at illi contenebrati ascenderunt in verticem montis. 	2020-04-18	Liber_Numeri
+1100000423	arca autem testamenti domini et moyses non recesserunt de castris.	2020-04-18	Liber_Numeri
+1100000424	descenditque amalecites et chananaeus, qui habitabat in monte: et percutiens eos atque concidens, persecutus est eos usque horma.	2020-04-18	Liber_Numeri
+1100000425	caput 15	2020-04-18	Liber_Numeri
+1100000426	locutus est dominus ad moysen, dicens:loquere ad filios israel, et dices ad eos: cum ingressi fueritis terram habitationis vestrae, quam ego dabo vobis,et feceritis oblationem domino in holocaustum, aut victimam, vota solventes, vel sponte offerentes munera, aut in solemnitatibus vestris adolentes odorem suavitatis domino, de bobus sive de ovibus:offeret quicumque immolaverit victimam, sacrificium similae, decimam partem ephi, conspersae oleo, quod mensuram habebit quartam partem hin:et vinum ad liba fundenda eiusdem mensurae dabit in holocaustum sive in victimam. 	2020-04-18	Liber_Numeri
+1100000427	per agnos singuloset arietes erit sacrificium similae duarum decimarum, quae conspersa sit oleo tertiae partis hin:et vinum ad libamentum tertiae partis eiusdem mensurae offeret in odorem suavitatis domino.	2020-04-18	Liber_Numeri
+1100000428	quando vero de bobus feceris holocaustum aut hostiam, ut impleas votum vel pacificas victimas,dabis per singulos boves similae tres decimas conspersae oleo, quod habeat medium mensurae hin:et vinum ad liba fundenda eiusdem mensurae in oblationem suavissimi odoris domino.	2020-04-18	Liber_Numeri
+1100000429	sic faciesper singulos boves et arietis et agnos et haedos.	2020-04-18	Liber_Numeri
+1100000430	tam indigenae quam peregrinieodem ritu offerent sacrificia.	2020-04-18	Liber_Numeri
+1100000431	unum praeceptum erit atque iudicium tam vobis quam advenis terrae.	2020-04-18	Liber_Numeri
+1100000432	locutus est dominus ad moysen, dicens:loquere filiis israel, et dices ad eos:cum veneritis in terram, quam dabo vobis,et comederitis de panibus regionis illius, separabitis primitias dominode cibis vestris. 	2020-04-18	Liber_Numeri
+1100000433	sicut de areis primitias separatis,ita et de pulmentis dabitis primitiva domino.	2020-04-18	Liber_Numeri
+1100000434	quod si per ignorantiam praeterieritis quidquam horum, quae locutus est dominus ad moysen,et mandavit per eum ad vos, a die qua coepit iubere et ultra,oblitaque fuerit facere multitudo: offeret vitulum de armento, holocaustum in odorem suavissimum domino, et sacrificum eius ac liba, ut caeremoniae postulant, hircumque pro peccato:et rogabit sacerdos pro omni multitudine filiorum israel, et dimittetur eis, quoniam non sponte peccaverunt, nihilominus offerentes incensum domino pro se et pro peccato atque errore suo:et dimittetur universae plebi filiorum israel, et advenis qui peregrinantur inter eos: quoniam culpa est omnis populi per ignorantiam.	2020-04-18	Liber_Numeri
+1100000435	quod si anima una nesciens peccaverit, offeret capram anniculam pro peccato suo:et deprecabitur pro ea sacerdos, quod inscia peccaverit coram domino: impetrabitque ei veniam, et dimittetur illi.	2020-04-18	Liber_Numeri
+1100000436	tam indigenis quam advenis una lex erit omnium, qui peccaverint ignorantes.	2020-04-18	Liber_Numeri
+1100000437	anima vero, quae per superbiam aliquid commiserit, sive civis sit ille, sive peregrinus (quoniam adversus dominum rebellis fuit), peribit de populo suo:verbum enim domini contempsit, et praeceptum illius fecit irritum: idcirco delebitur, et portabit iniquitatem suam.	2020-04-18	Liber_Numeri
+1100000438	factum est autem, cum essent filii israel in solitudine, et invenissent hominem colligentem ligna in die sabbati,obtulerunt eum moysi et aaron et universae multitudini.	2020-04-18	Liber_Numeri
+1100000439	qui recluserunt eum in carcerem, nescientes quid super eo facere deberent.	2020-04-18	Liber_Numeri
+1100000440	dixitque dominus ad moysen: morte moriatur homo iste: obruat eum lapidibus omnis turba extra castra.	2020-04-18	Liber_Numeri
+1100000441	cumque eduxissent eum foras, obruerunt lapidibus, et mortuus est, sicut praeceperat dominus.	2020-04-18	Liber_Numeri
+1100000442	dixit quoque dominus ad moysen:loquere filiis israel, et dices ad eos ut faciant sibi fimbrias per angulos palliorum, ponentes in eis vittas hyacinthinas:quas cum viderint, recordentur omnium mandatorum domini, nec sequantur cogitationes suas et oculos per res varias fornicantes,sed magis memores praeceptorum domini faciant ea, sintque sancti deo suo.	2020-04-18	Liber_Numeri
+1100000443	ego dominus deus vester, qui eduxi vos de terra aegypti, ut essem deus vester.	2020-04-18	Liber_Numeri
+1100000444	caput 16	2020-04-18	Liber_Numeri
+1100000445	ecce autem core filius isaar, filii caath, filii levi, et dathan atque abiron filii eliab, hon quoque filius pheleth de filiis ruben,surrexerunt contra moysen, aliique filiorum israel ducenti quinquaginta viri proceres synagogae, et qui tempore concilii per nomina vocabantur.	2020-04-18	Liber_Numeri
+1100000446	cumque stetissent adversum moysen et aaron, dixerunt: sufficiat vobis, quia omnis multitudo sanctorum est, et in ipsis est dominus: cur elevamini super populum domini?	2020-04-18	Liber_Numeri
+1100000447	quod cum audisset moyses, cecidit pronus in faciem:locutusque ad core et ad omnem multitudinem: mane, inquit, notum faciet dominus qui ad se pertineant, et sanctos applicabit sibi: et quos elegerit, appropinquabunt ei.	2020-04-18	Liber_Numeri
+1100000448	hoc igitur facite: tollat unusquisque thuribula sua, tu core, et omne concilium tuum:et hausto cras igne, ponite desuper thymiama coram domino: et quemcumque elegerit, ipse erit sanctus: multum erigimini filii levi.	2020-04-18	Liber_Numeri
+1100000449	dixitque rursum ad core: audite, filii levi:num parum vobis est quod separavit vos deus israel ab omni populo, et iunxit sibi, ut serviretis ei in cultu tabernaculi, et staretis coram frequentia populi, et ministraretis ei?	2020-04-18	Liber_Numeri
+1100000450	idcirco ad se fecit accedere te et omnes fratres tuos filios levi, ut vobis etiam sacerdotium vindicetis,et omnis globus tuus stet contra dominum? 	2020-04-18	Liber_Numeri
+1100000451	quid est enim aaron ut murmuretis contra eum?	2020-04-18	Liber_Numeri
+1100000452	misit ergo moyses ut vocaret dathan et abiron filios eliab. 	2020-04-18	Liber_Numeri
+1100000453	qui responderunt: non venimus.	2020-04-18	Liber_Numeri
+1100000454	numquid parum est tibi quod eduxisti nos de terra, quae lacte et melle manabat, ut occideres in deserto, nisi et dominatus fueris nostri?	2020-04-18	Liber_Numeri
+1100000455	revera induxisti nos in terram, quae fluit rivis lactis et mellis, et dedisti nobis possessiones agrorum et vinearum: an et oculos nostros vis eruere? 	2020-04-18	Liber_Numeri
+1100000456	non venimus.	2020-04-18	Liber_Numeri
+1100000457	iratusque moyses valde, ait ad dominum: ne respicias sacrificia eorum: tu scis quod ne asellum quidem umquam acceperim ab eis, nec afflixerim quempiam eorum.	2020-04-18	Liber_Numeri
+1100000458	dixitque ad core: tu, et omnis congregatio tua, state seorsum coram domino, et aaron die crastino separatim.	2020-04-18	Liber_Numeri
+1100000459	tollite singuli thuribula vestra, et ponite super ea incensum, offerentes domino ducenta quinquaginta thuribula: aaron quoque teneat thuribulum suum.	2020-04-18	Liber_Numeri
+1100000460	quod cum fecissent, stantibus moyses et aaron,et coacervassent adversum eos omnem multitudinem ad ostium tabernaculi, apparuit cunctis gloria domini.	2020-04-18	Liber_Numeri
+1100000461	locutusque dominus ad moysen et aaron, ait:separamini de medio congregationis huius, ut eos repente disperdam.	2020-04-18	Liber_Numeri
+1100000462	qui ceciderunt proni in faciem, atque dixerunt: fortissime deus spirituum universae carnis, num uno peccante, contra omnes ira tua desaeviet?	2020-04-18	Liber_Numeri
+1100000463	et ait dominus ad moysen:praecipe universo populo ut separetur a tabernaculis core et dathan et abiron.	2020-04-18	Liber_Numeri
+1100000464	surrexitque moyses, et abiit ad dathan et abiron: et sequentibus eum senioribus israel,dixit ad turbam: recedite a tabernaculis hominum impiorum, et nolite tangere quae ad eos pertinent, ne involvamini in peccatis eorum.	2020-04-18	Liber_Numeri
+1100000465	cumque recessissent a tentoriis eorum per circuitum, dathan et abiron egressi stabant in introitu papilionum suorum cum uxoribus et liberis, omnique frequentia.	2020-04-18	Liber_Numeri
+1100000466	et ait moyses: in hoc scietis quod dominus miserit me ut facerem universa quae cernitis, et non ex proprio ea corde protulerim:si consueta hominum morte interierint, et visitaverit eos plaga, qua et ceteri visitari solent, non misit me dominus:sin autem novam rem fecerit dominus, ut aperiens terra os suum deglutiat eos et omnia quae ad illos pertinent, descenderintque viventes in infernum, scietis quod blasphemaverint dominum.	2020-04-18	Liber_Numeri
+1100000467	confestim igitur ut cessavit loqui, dirupta est terra sub pedibus eorum:et aperiens os suum, devoravit illos cum tabernaculis suis et universa substantia eorum,descenderuntque vivi in infernum operti humo, et perierunt de medio multitudinis.	2020-04-18	Liber_Numeri
+1100000468	at vero omnis israel, qui stabat per gyrum, fugit ad clamorem pereuntium, dicens: ne forte et nos terra deglutiat.	2020-04-18	Liber_Numeri
+1100000469	sed et ignis egressus a domino interfecit ducentos quinquaginta viros, qui offerebant incensum.	2020-04-18	Liber_Numeri
+1100000470	locutusque est dominus ad moysen, dicens:praecipe eleazaro filio aaron sacerdoti ut tollat thuribula quae iacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata suntin mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum domino, et sanctificata sint, ut cernant ea pro signo et monimento filii israel.	2020-04-18	Liber_Numeri
+1100000471	tulit ergo eleazar sacerdos thuribula aenea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:ut haberent postea filii israel, quibus commonerentur ne quis accedat alienigena, et qui non est de semine aaron ad offerendum incensum domino, ne patiatur sicut passus est core, et omnis congregatio eius, loquente domino ad moysen.	2020-04-18	Liber_Numeri
+1100000472	murmuravit autem omnis multitudo filiorum israel sequenti die contra moysen et aaron, dicens: vos interfecistis populum domini.	2020-04-18	Liber_Numeri
+1100000473	cumque oriretur seditio, et tumultus incresceret,moyses et aaron fugerunt ad tabernaculum foederis. 	2020-04-18	Liber_Numeri
+1100000474	quod, postquam ingressi sunt, operuit nubes, et apparuit gloria domini.	2020-04-18	Liber_Numeri
+1100000475	dixitque dominus ad moysen:recedite de medio huius multitudinis, etiam nunc delebo eos. 	2020-04-18	Liber_Numeri
+1100000476	cumque iacerent in terra,dixit moyses ad aaron: tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum, ut roges pro eis: iam enim egressa est ira a domino, et plaga desaevit.	2020-04-18	Liber_Numeri
+1100000477	quod cum fecisset aaron, et cucurrisset ad mediam multitudinem, quam iam vastabat incendium, obtulit thymiama:et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit.	2020-04-18	Liber_Numeri
+1100000478	fuerunt autem qui percussi sunt, quatuordecim millia hominum, et septingenti, absque his qui perierant in seditione core.	2020-04-18	Liber_Numeri
+1100000479	reversusque est aaron ad moysen ad ostium tabernaculi foederis postquam quievit interitus.	2020-04-18	Liber_Numeri
+1100000480	caput 17	2020-04-18	Liber_Numeri
+1100000481	et locutus est dominus ad moysen, dicens:loquere ad filios israel, et accipe ab eis virgas singulas per cognationes suas, a cunctis principibus tribuum, virgas duodecim, et uniuscuiusque nomen superscribes virgae suae.	2020-04-18	Liber_Numeri
+1100000482	nomen autem aaron erit in tribu levi, et una virga cunctas seorsum familias continebit:ponesque eas in tabernaculo foederis coram testimonio, ubi loquar ad te.	2020-04-18	Liber_Numeri
+1100000483	quem ex his elegero, germinabit virga eius: et cohibebo a me querimonias filiorum israel, quibus contra vos murmurant.	2020-04-18	Liber_Numeri
+1100000484	locutusque est moyses ad filios israel: et dederunt ei omnes principes virgas per singulas tribus: fueruntque virgae duodecim absque virga aaron.	2020-04-18	Liber_Numeri
+1100000485	quas cum posuisset moyses coram domino in tabernaculo testimonii,sequenti die regressus invenit germinasse virgam aaron in domo levi: et turgentibus gemmis eruperant flores, qui, foliis dilatatis, in amygdalas deformati sunt.	2020-04-18	Liber_Numeri
+1100000486	protulit ergo moyses omnes virgas de conspectu domini ad cunctos filios israel: videruntque, et receperunt singuli virgas suas.	2020-04-18	Liber_Numeri
+1100000487	dixitque dominus ad moysen: refer virgam aaron in tabernaculum testimonii, ut servetur ibi in signum rebellium filiorum israel, et quiescant querelae eorum a me, ne moriantur.	2020-04-18	Liber_Numeri
+1100000488	fecitque moyses sicut praeceperat dominus.	2020-04-18	Liber_Numeri
+1100000489	dixerunt autem filii israel ad moysen: ecce consumpti sumus, omnes perivimus.	2020-04-18	Liber_Numeri
+1100000490	quicumque accedit ad tabernaculum domini, moritur. 	2020-04-18	Liber_Numeri
+1100000491	num usque ad internecionem cuncti delendi sumus?	2020-04-18	Liber_Numeri
+1100000492	caput 18	2020-04-18	Liber_Numeri
+1100000493	dixitque dominus ad aaron: tu, et filii tui, et domus patris tui tecum, portabitis iniquitatem sanctuarii: et tu et filii tui simul sustinebitis peccata sacerdotii vestri.	2020-04-18	Liber_Numeri
+1100000494	sed et fratres tuos de tribu levi, et sceptrum patris tui sume tecum, praestoque sint, et ministrent tibi: tu autem et filii tui ministrabitis in tabernaculo testimonii.	2020-04-18	Liber_Numeri
+1100000495	excubabuntque levitae ad praecepta tua, et ad cuncta opera tabernaculi: ita dumtaxat ut ad vasa sanctuarii et ad altare non accedant, ne et illi moriantur, et vos pereatis simul.	2020-04-18	Liber_Numeri
+1100000496	sint autem tecum, et excubent in custodiis tabernaculi, et in omnibus caeremoniis eius. 	2020-04-18	Liber_Numeri
+1100000497	alienigena non miscebitur vobis.	2020-04-18	Liber_Numeri
+1100000498	excubate in custodia sanctuarii, et in ministerio altaris: ne oriatur indignatio super filios israel.	2020-04-18	Liber_Numeri
+1100000499	ego dedi vobis fratres vestros levitas de medio filiorum israel, et tradidi donum domino, ut serviant in ministeriis tabernaculi eius.	2020-04-18	Liber_Numeri
+1100000500	tu autem et filii tui custodite sacerdotium vestrum: et omnia quae ad cultum altaris pertinent, et intra velum sunt, per sacerdotes administrabuntur: si quis externus accesserit, occidetur.	2020-04-18	Liber_Numeri
+1100000501	locutusque est dominus ad aaron: ecce dedi tibi custodiam primitiarum mearum. 	2020-04-18	Liber_Numeri
+1100000502	omnia quae sanctificantur a filiis israel, tradidi tibi et filiis tuis pro officio sacerdotali legitima sempiterna.	2020-04-18	Liber_Numeri
+1100000503	haec ergo accipies de his, quae sanctificantur et oblata sunt domino. 	2020-04-18	Liber_Numeri
+1100000504	omnis oblatio, et sacrificium, et quidquid pro peccato atque delicto redditur mihi, et cedit in sancta sanctorum, tuum erit, et filiorum tuorum.	2020-04-18	Liber_Numeri
+1100000505	in sanctuario comedes illud: mares tantum edent ex eo, quia consecratum est tibi.	2020-04-18	Liber_Numeri
+1100000506	primitias autem, quas voverint et obtulerint filii israel, tibi dedi, et filiis tuis, ac filiabus tuis, iure perpetuo: qui mundus est in domo tua, vescetur eis.	2020-04-18	Liber_Numeri
+1100000507	omnem medullam olei, et vini, ac frumenti, quidquid offerunt primitiarum domino, tibi dedi.	2020-04-18	Liber_Numeri
+1100000508	universa frugum initia, quas gignit humus, et domino deportantur, cedent in usus tuos: qui mundus est in domo tua, vescetur eis.	2020-04-18	Liber_Numeri
+1100000509	omne quod ex voto reddiderint filii israel, tuum erit.	2020-04-18	Liber_Numeri
+1100000510	quidquid primum erumpit e vulva cunctae carnis, quam offerunt domino, sive ex hominibus, sive de pecoribus fuerit, tui iuris erit: ita dumtaxat ut pro hominis primogenito pretium accipias, et omne animal quod immundum est redimi facias,cuius redemptio erit post unum mensem, siclis argenti quinque, pondere sanctuarii. 	2020-04-18	Liber_Numeri
+1100000511	siclus viginti obolos habet.	2020-04-18	Liber_Numeri
+1100000512	primogenitum autem bovis, et ovis, et caprae, non facies redimi, quia sanctificata sunt domino. 	2020-04-18	Liber_Numeri
+1100000513	sanguinem tantum eorum fundes super altare, et adipes adolebis in suavissimum odorem domino.	2020-04-18	Liber_Numeri
+1100000514	carnes vero in usum tuum cedent, sicut pectusculum consecratum, et armus dexter: tua erunt.	2020-04-18	Liber_Numeri
+1100000515	omnes primitias sanctuarii, quas offerunt filii israel domino, tibi dedi, et filiis, ac filiabus tuis, iure perpetuo. 	2020-04-18	Liber_Numeri
+1100000516	pactum salis est sempiternum coram domino, tibi ac filiis tuis.	2020-04-18	Liber_Numeri
+1100000517	dixitque dominus ad aaron: in terra eorum nihil possidebitis, nec habebitis partem inter eos: ego pars et haereditas tua in medio filiorum israel.	2020-04-18	Liber_Numeri
+1100000518	filiis autem levi dedi omnes decimas israelis in possessionem, pro ministerio, quo serviunt mihi in tabernaculo foederis:ut non accedant ultra filii israel ad tabernaculum, nec committant peccatum mortiferum,solis filiis levi mihi in tabernaculo servientibus, et portantibus peccata populi. 	2020-04-18	Liber_Numeri
+1100000519	legitimum sempiternum erit in generationibus vestris. 	2020-04-18	Liber_Numeri
+1100000520	nihil aliud possidebunt,decimarum oblatione contenti, quas in usus eorum et necessaria separavi.	2020-04-18	Liber_Numeri
+1100000521	locutusque est dominus ad moysen, dicens:praecipe levitis, atque denuntia: cum acceperitis a filiis israel decimas, quas dedi vobis, primitias earum offerte domino, id est, decimam partem decimae,ut reputetur vobis in oblationem primitivorum, tam de areis quam de torcularibus:et universis quorum accipitis primitias, offerte domino, et date aaron sacerdoti.	2020-04-18	Liber_Numeri
+1100000522	omnia quae offeretis ex decimis, et in donaria domini separabitis, optima et electa erunt.	2020-04-18	Liber_Numeri
+1100000523	dicesque ad eos: si praeclara et meliora quaeque obtuleritis ex decimis, reputabitur vobis quasi de area, et torculari dederitis primitias:et comedetis eas in omnibus locis vestris, tam vos quam familiae vestrae: quia pretium est pro ministerio, quo servitis in tabernaculo testimonii.	2020-04-18	Liber_Numeri
+1100000524	et non peccabitis super hoc, egregia vobis et pinguia reservantes, ne polluatis oblationes filiorum israel, et moriamini.	2020-04-18	Liber_Numeri
+1100000525	caput 19	2020-04-18	Liber_Numeri
+1100000526	locutusque est dominus ad moysen et aaron, dicens:ista est religio victimae, quam constituit dominus. 	2020-04-18	Liber_Numeri
+1100000527	praecipe filiis israel, ut adducant ad te vaccam rufam aetatis integrae, in qua nulla sit macula, nec portaverit iugum:tradetisque eam eleazaro sacerdoti, qui eductam extra castra, immolabit in conspectu omnium:et tingens digitum in sanguine eius, asperget contra fores tabernaculi septem vicibus,comburetque eam cunctis videntibus, tam pelle et carnibus eius quam sanguine et fimo flammae traditis.	2020-04-18	Liber_Numeri
+1100000528	lignum quoque cedrinum, et hyssopum, coccumque bis tinctum sacerdos mittet in flammam, quae vaccam vorat.	2020-04-18	Liber_Numeri
+1100000529	et tunc demum, lotis vestibus et corpore suo, ingredietur in castra, commaculatusque erit usque ad vesperum.	2020-04-18	Liber_Numeri
+1100000530	sed et ille qui combusserit eam, lavabit vestimenta sua et corpus, et immundus erit usque ad vesperum.	2020-04-18	Liber_Numeri
+1100000531	colliget autem vir mundus cineres vaccae, et effundet eos extra castra in loco purissimo, ut sint multitudini filiorum israel in custodiam, et in aquam aspersionis: quia pro peccato vacca combusta est.	2020-04-18	Liber_Numeri
+1100000532	cumque laverit qui vaccae portaverat cineres vestimenta sua, immundus erit usque ad vesperum. 	2020-04-18	Liber_Numeri
+1100000533	habebunt hoc filii israel, et advenae qui habitant inter eos, sanctum iure perpetuo.	2020-04-18	Liber_Numeri
+1100000534	qui tetigerit cadaver hominis, et propter hoc septem diebus fuerit immundus,aspergetur ex hac aqua die tertio et septimo, et sic mundabitur. 	2020-04-18	Liber_Numeri
+1100000535	si die tertio aspersus non fuerit, septimo non poterit emundari.	2020-04-18	Liber_Numeri
+1100000536	omnis qui tetigerit humanae animae morticinum, et aspersus hac commistione non fuerit, polluet tabernaculum domini et peribit ex israel: quia aqua expiationis non est aspersus, immundus erit, et manebit spurcitia eius super eum.	2020-04-18	Liber_Numeri
+1100000537	ista est lex hominis qui moritur in tabernaculo: omnes qui ingrediuntur tentorium illius, et universa vasa quae ibi sunt, polluta erunt septem diebus.	2020-04-18	Liber_Numeri
+1100000538	vas, quod non habuerit operculum nec ligaturam desuper, immundum erit.	2020-04-18	Liber_Numeri
+1100000539	si quis in agro tetigerit cadaver occisi hominis, aut per se mortui, sive os illius, vel sepulchrum, immundus erit septem diebus.	2020-04-18	Liber_Numeri
+1100000540	tollentque de cineribus combustionis atque peccati, et mittent aquas vivas super eos in vas:in quibus cum homo mundus tinxerit hyssopum, asperget ex eo omne tentorium, et cunctam supellectilem, et homines huiuscemodi contagione pollutos:atque hoc modo mundus lustrabit immundum tertio et septimo die: expiatusque die septimo, lavabit et se et vestimenta sua, et immundus erit usque ad vesperum.	2020-04-18	Liber_Numeri
+1100000541	si quis hoc ritu non fuerit expiatus, peribit anima illius de medio ecclesiae: quia sanctuarium domini polluit, et non est aqua lustrationis aspersus.	2020-04-18	Liber_Numeri
+1100000542	erit hoc praeceptum legitimum sempiternum. 	2020-04-18	Liber_Numeri
+1100000543	ipse quoque qui aspergit aquas, lavabit vestimenta sua. 	2020-04-18	Liber_Numeri
+1100000544	omnis qui tetigerit aquas expiationis, immundus erit usque ad vesperum.	2020-04-18	Liber_Numeri
+1100000545	quidquid tetigerit immundus, immundum faciet: et anima, quae horum quippiam tetigerit, immunda erit usque ad vesperum.	2020-04-18	Liber_Numeri
+1100000546	caput 20	2020-04-18	Liber_Numeri
+1100000547	veneruntque filii israel et omnis multitudo in desertum sin, mense primo, et mansit populus in cades. 	2020-04-18	Liber_Numeri
+1100000548	mortuaque est ibi maria, et sepulta in eodem loco.	2020-04-18	Liber_Numeri
+1100000549	cumque indigeret aqua populus, convenerunt adversum moysen et aaron:et versi in seditionem, dixerunt: utinam periissemus inter fratres nostros coram domino.	2020-04-18	Liber_Numeri
+1100000550	cur eduxistis ecclesiam domini in solitudinem, ut et nos et nostra iumenta moriamur?	2020-04-18	Liber_Numeri
+1100000551	quare nos fecistis ascendere de aegypto, et adduxistis in locum istum pessimum, qui seri non potest, qui nec ficum gignit, nec vineas, nec malogranata, insuper et aquam non habet ad bibendum?	2020-04-18	Liber_Numeri
+1100000552	ingressusque moyses et aaron, dimissa multitudine, tabernaculum foederis, corruerunt proni in terram, clamaveruntque ad dominum, atque dixerunt: domine deus, audi clamorem huius populi, et aperi eis thesaurum tuum fontem aquae vivae, ut satiati, cesset murmuratio eorum. 	2020-04-18	Liber_Numeri
+1100000553	et apparuit gloria domini super eos.	2020-04-18	Liber_Numeri
+1100000554	locutusque est dominus ad moysen, dicens:tolle virgam, et congrega populum, tu et aaron frater tuus, et loquimini ad petram coram eis, et illa dabit aquas. 	2020-04-18	Liber_Numeri
+1100000555	cumque eduxeris aquam de petra, bibet omnis multitudo et iumenta eius.	2020-04-18	Liber_Numeri
+1100000556	tulit igitur moyses virgam, quae erat in conspectu domini, sicut praeceperat ei,congregata multitudine ante petram: dixitque eis: audite, rebelles et increduli: num de petra hac vobis aquam poterimus eiicere?	2020-04-18	Liber_Numeri
+1100000557	cumque elevasset moyses manum, percutiens virga bis silicem, egressae sunt aquae largissimae, ita ut populus biberet et iumenta.	2020-04-18	Liber_Numeri
+1100000558	dixitque dominus ad moysen et aaron: quia non credidistis mihi, ut sanctificaretis me coram filiis israel, non introducetis hos populos in terram, quam dabo eis.	2020-04-18	Liber_Numeri
+1100000559	haec est aqua contradictionis, ubi iurgati sunt filii israel contra dominum, et sanctificatus est in eis.	2020-04-18	Liber_Numeri
+1100000560	misit interea nuntios moyses de cades ad regem edom, qui dicerent: haec mandat frater tuus israel: nosti omnem laborem qui apprehendit nos,quomodo descenderint patres nostri in aegyptum, et habitaverimus ibi multo tempore, afflixerintque nos aegyptii, et patres nostros:et quomodo clamaverimus ad dominum, et exaudierit nos, miseritque angelum, qui eduxerit nos de aegypto. 	2020-04-18	Liber_Numeri
+1100000561	ecce in urbe cades, quae est in extremis finibus tuis, positi,obsecramus ut nobis transire liceat per terram tuam. 	2020-04-18	Liber_Numeri
+1100000562	non ibimus per agros, nec per vineas; non bibemus aquas de puteis tuis: sed gradiemur via publica, nec ad dexteram nec ad sinistram declinantes, donec transeamus terminos tuos.	2020-04-18	Liber_Numeri
+1100000563	cui respondit edom: non transibis per me, alioquin armatus occurram tibi.	2020-04-18	Liber_Numeri
+1100000564	dixeruntque filii israel: per tritam gradiemur viam: et si biberimus aquas tuas, nos et pecora nostra, dabimus quod iustum est: nulla erit in pretio difficultas, tantum velociter transeamus.	2020-04-18	Liber_Numeri
+1100000565	at ille respondit: non transibis. 	2020-04-18	Liber_Numeri
+1100000566	statimque egressus est obvius, cum infinita multitudo, et manu forti,nec voluit acquiescere deprecanti, ut concederet transitum per fines suos. 	2020-04-18	Liber_Numeri
+1100000567	quam ob rem divertit ab eo israel.	2020-04-18	Liber_Numeri
+1100000568	cumque castra movissent de cades, venerunt in montem hor, qui est in finibus terrae edom:ubi locutus est dominus ad moysen:pergat, inquit, aaron ad populos suos: non enim intrabit terram, quam dedi filiis israel, eo quod incredulus fuerit ori meo, ad aquas contradictionis.	2020-04-18	Liber_Numeri
+1100000569	tolle aaron et filium eius cum eo, et duces eos in montem hor.	2020-04-18	Liber_Numeri
+1100000570	cumque nudaveris patrem veste sua, indues ea eleazarum filium eius: aaron colligetur, et morietur ibi.	2020-04-18	Liber_Numeri
+1100000571	fecit moyses ut praeceperat dominus: et ascenderunt in montem hor coram omni multitudine.	2020-04-18	Liber_Numeri
+1100000572	cumque aaron spoliasset vestibus suis, induit eis eleazarum filium eius.	2020-04-18	Liber_Numeri
+1100000573	illo mortuo in montis supercilio, descendit cum eleazaro.	2020-04-18	Liber_Numeri
+1100000574	omnis autem multitudo videns occubuisse aaron, flevit super eo triginta diebus per cunctas familias suas.	2020-04-18	Liber_Numeri
+1100000575	caput 21	2020-04-18	Liber_Numeri
+1100000576	quod cum audisset chananaeus rex arad, qui habitabat ad meridiem, venisse scilicet israel per exploratorum viam, pugnavit contra illum, et victor existens, duxit ex eo praedam.	2020-04-18	Liber_Numeri
+1100000577	at israel voto se domino obligans, ait: si tradideris populum istum in manu mea, delebo urbes eius.	2020-04-18	Liber_Numeri
+1100000578	exaudivitque dominus preces israel, et tradidit chananaeum, quem ille interfecit subversis urbibus eius: et vocavit nomen loci illius horma, id est, anathema.	2020-04-18	Liber_Numeri
+1100000579	profecti sunt autem et de monte hor, per viam quae ducit ad mare rubrum, ut circumirent terram edom. 	2020-04-18	Liber_Numeri
+1100000580	et taedere coepit populum itineris ac laboris:locutusque contra deum et moysen, ait: cur eduxisti nos de aegypto, ut moreremur in solitudine? 	2020-04-18	Liber_Numeri
+1100000581	deest panis, non sunt aquae: anima nostra iam nauseat super cibo isto levissimo.	2020-04-18	Liber_Numeri
+1100000582	quam ob rem misit dominus in populum ignitos serpentes, ad quorum plagas et mortes plurimorum,venerunt ad moysen, atque dixerunt: peccavimus, quia locuti sumus contra dominum et te: ora ut tollat a nobis serpentes. 	2020-04-18	Liber_Numeri
+1100000583	oravitque moyses pro populo,et locutus est dominus ad eum: fac serpentem aeneum, et pone eum pro signo: qui percussus aspexerit eum, vivet.	2020-04-18	Liber_Numeri
+1100000584	fecit ergo moyses serpentem aeneum, et posuit eum pro signo: quem cum percussi aspicerent, sanabantur.	2020-04-18	Liber_Numeri
+1100000585	profectique filii israel castrametati sunt in oboth.	2020-04-18	Liber_Numeri
+1100000586	unde egressi fixere tentoria in ieabarim, in solitudine quae respicit moab contra orientalem plagam.	2020-04-18	Liber_Numeri
+1100000587	et inde moventes, venerunt ad torrentem zared.	2020-04-18	Liber_Numeri
+1100000588	quem relinquentes castrametati sunt contra arnon, quae est in deserto, et prominet in finibus amorrhaei. 	2020-04-18	Liber_Numeri
+1100000589	siquidem arnon terminus est moab, dividens moabitas et amorrhaeos.	2020-04-18	Liber_Numeri
+1100000590	unde dicitur in libro bellorum domini:	2020-04-18	Liber_Numeri
+1100000591	sicut fecit in mari rubro,	2020-04-18	Liber_Numeri
+1100000592	sic faciet in torrentibus arnon.	2020-04-18	Liber_Numeri
+1100000593	scopuli torrentium inclinati sunt, ut requiescerent in ar,	2020-04-18	Liber_Numeri
+1100000594	et recumberent in finibus moabitarum.	2020-04-18	Liber_Numeri
+1100000595	ex eo loco apparuit puteus, super quo locutus est dominus ad moysen: congrega populum, et dabo ei aquam.	2020-04-18	Liber_Numeri
+1100000596	tunc cecinit israel carmen istud:	2020-04-18	Liber_Numeri
+1100000597	ascendat puteus.	2020-04-18	Liber_Numeri
+1100000598	concinebant:	2020-04-18	Liber_Numeri
+1100000599	puteus, quem foderunt principes	2020-04-18	Liber_Numeri
+1100000600	et paraverunt duces multitudinis	2020-04-18	Liber_Numeri
+1100000601	in datore legis, et in baculis suis.	2020-04-18	Liber_Numeri
+1100000602	de solitudine, matthana.	2020-04-18	Liber_Numeri
+1100000603	de matthana in nahaliel: de nahaliel in bamoth.	2020-04-18	Liber_Numeri
+1100000604	de bamoth, vallis est in regione moab, in vertice phasga, quod respicit contra desertum.	2020-04-18	Liber_Numeri
+1100000605	misit autem israel nuntios ad sehon regem amorrhaeorum, dicens:obsecro ut transire mihi liceat per terram tuam: non declinabimus in agros et vineas; non bibemus aquas ex puteis: via regia gradiemur, donec transeamus terminos tuos.	2020-04-18	Liber_Numeri
+1100000606	qui concedere noluit ut transiret israel per fines suos: quin potius exercitu congregato, egressus est obviam in desertum, et venit in iasa, pugnavitque contra eum.	2020-04-18	Liber_Numeri
+1100000607	a quo percussus est in ore gladii, et possessa est terra eius ab arnon usque ieboc, et filios ammon: quia forti praesidio tenebantur termini ammonitarum.	2020-04-18	Liber_Numeri
+1100000608	tulit ergo israel omnes civitates eius, et habitavit in urbibus amorrhaei, in hesebon scilicet, et viculis eius.	2020-04-18	Liber_Numeri
+1100000609	urbs hesebon fuit sehon regis amorrhaei, qui pugnavit contra regem moab: et tulit omnem terram, quae ditionis illius fuerat usque arnon.	2020-04-18	Liber_Numeri
+1100000610	idcirco dicitur in proverbio:	2020-04-18	Liber_Numeri
+1100000611	venite in hesebon: aedificetur, et construatur civitas sehon:	2020-04-18	Liber_Numeri
+1100000612	ignis egressus est de hesebon, flamma de oppido sehon,	2020-04-18	Liber_Numeri
+1100000613	et devoravit ar moabitarum, et habitatores excelsorum arnon.	2020-04-18	Liber_Numeri
+1100000614	vae tibi moab; peristi popule chamos.	2020-04-18	Liber_Numeri
+1100000615	dedit filios eius in fugam, et filias in captivitatem regi amorrhaeorum sehon.	2020-04-18	Liber_Numeri
+1100000616	iugum ipsorum disperiit ad hesebon usque dibon:	2020-04-18	Liber_Numeri
+1100000617	lassi pervenerunt in nophe, et usque medaba.	2020-04-18	Liber_Numeri
+1100000618	habitavit itaque israel in terra amorrhaei.	2020-04-18	Liber_Numeri
+1100000619	misitque moyses qui explorarent iazer: cuius ceperunt viculos, et possederunt habitatores.	2020-04-18	Liber_Numeri
+1100000620	verteruntque se, et ascenderunt per viam basan, et occurrit eis og, rex basan, cum omni populo suo, pugnaturus in edrai.	2020-04-18	Liber_Numeri
+1100000621	dixitque dominus ad moysen: ne timeas eum, quia in manu tua tradidi illum, et omnem populum ac terram eius: faciesque illi sicut fecisti sehon, regi amorrhaeorum habitatori hesebon.	2020-04-18	Liber_Numeri
+1100000622	percusserunt igitur et hunc cum filiis suis, universumque populum eius usque ad internecionem, et possederunt terram illius.	2020-04-18	Liber_Numeri
+1100000623	caput 22	2020-04-18	Liber_Numeri
+1100000624	profectique castrametati sunt in campestribus moab, ubi trans iordanem iericho sita est.	2020-04-18	Liber_Numeri
+1100000625	videns autem balac filius sephor omnia quae fecerat israel amorrhaeo,et quod pertimuissent eum moabitae, et impetum eius ferre non possent,dixit ad maiores natu madian: ita delebit hic populus omnes, qui in nostris finibus commorantur, quomodo solet bos herbas usque ad radices carpere. 	2020-04-18	Liber_Numeri
+1100000626	ipse erat eo tempore rex in moab.	2020-04-18	Liber_Numeri
+1100000627	misit ergo nuntios ad balaam filium beor ariolum, qui habitabat super flumen terrae filiorum ammon, ut vocarent eum, et dicerent: ecce egressus est populus ex aegypto, qui operuit superficiem terrae, sedens contra me.	2020-04-18	Liber_Numeri
+1100000628	veni igitur, et maledic populo huic, quia fortior me est: si quomodo possim percutere et eiicere eum de terra mea. 	2020-04-18	Liber_Numeri
+1100000629	novi enim quod benedictus sit cui benedixeris, et maledictus in quem maledicta congesseris.	2020-04-18	Liber_Numeri
+1100000630	perrexeruntque seniores moab, et maiores natu madian, habentes divinationis pretium in manibus. 	2020-04-18	Liber_Numeri
+1100000631	cumque venissent ad balaam, et narrassent ei omnia verba balac,ille respondit: manete hic nocte, et respondebo quidquid mihi dixerit dominus. 	2020-04-18	Liber_Numeri
+1100000632	manentibus illis apud balaam, venit deus, et ait ad eum:quid sibi volunt homines isti apud te?	2020-04-18	Liber_Numeri
+1100000633	respondit: balac filius sephor rex moabitarum misit ad me,dicens: ecce populus qui egressus est de aegypto, operuit superficiem terrae: veni, et maledic ei, si quomodo possim pugnans abigere eum.	2020-04-18	Liber_Numeri
+1100000634	dixitque deus ad balaam: noli ire cum eis, neque maledicas populo: quia benedictus est.	2020-04-18	Liber_Numeri
+1100000635	qui mane consurgens dixit ad principes: ite in terram vestram, quia prohibuit me dominus venire vobiscum.	2020-04-18	Liber_Numeri
+1100000636	reversi principes dixerunt ad balac: noluit balaam venire nobiscum.	2020-04-18	Liber_Numeri
+1100000637	rursum ille multo plures et nobiliores quam ante miserat, misit.	2020-04-18	Liber_Numeri
+1100000638	qui cum venissent ad balaam, dixerunt: sic dicit balac filius sephor: ne cuncteris venire ad me:paratus sum honorare te, et quidquid volueris, dabo tibi: veni, et maledic populo isti.	2020-04-18	Liber_Numeri
+1100000639	respondit balaam: si dederit mihi balac plenam domum suam argenti et auri, non potero immutare verbum domini dei mei, ut vel plus, vel minus loquar.	2020-04-18	Liber_Numeri
+1100000640	obsecro ut hic maneatis etiam hac nocte, et scire queam quid mihi rursum respondeat dominus.	2020-04-18	Liber_Numeri
+1100000641	venit ergo deus ad balaam nocte, et ait ei: si vocare te venerunt homines isti, surge, et vade cum eis: ita dumtaxat, ut quod tibi praecepero, facias.	2020-04-18	Liber_Numeri
+1100000642	surrexit balaam mane, et strata asina sua profectus est cum eis.	2020-04-18	Liber_Numeri
+1100000643	et iratus est deus. 	2020-04-18	Liber_Numeri
+1100000644	stetitque angelus domini in via contra balaam, qui insidebat asinae, et duos pueros habebat secum.	2020-04-18	Liber_Numeri
+1100000645	cernens asina angelum stantem in via, evaginato gladio, avertit se de itinere, et ibat per agrum. 	2020-04-18	Liber_Numeri
+1100000646	quam cum verberaret balaam, et vellet ad semitam reducere,stetit angelus in angustiis duarum maceriarum, quibus vineae cingebantur.	2020-04-18	Liber_Numeri
+1100000647	quem videns asina, iunxit se parieti, et attrivit sedentis pedem. 	2020-04-18	Liber_Numeri
+1100000648	at ille iterum verberabat eam:et nihilominus angelus ad locum angustum transiens, ubi nec ad dexteram, nec ad sinistram poterat deviare, obvius stetit.	2020-04-18	Liber_Numeri
+1100000649	cumque vidisset asina stantem angelum, concidit sub pedibus sedentis: qui iratus, vehementius caedebat fuste latera eius.	2020-04-18	Liber_Numeri
+1100000650	aperuitque dominus os asinae, et locuta est: quid feci tibi? 	2020-04-18	Liber_Numeri
+1100000651	cur percutis me ecce iam tertio?	2020-04-18	Liber_Numeri
+1100000652	respondit balaam: quia commeruisti, et illusisti mihi: utinam haberem gladium, ut te percuterem!	2020-04-18	Liber_Numeri
+1100000653	dixit asina: nonne animal tuum sum, cui semper sedere consuevisti usque in praesentem diem? 	2020-04-18	Liber_Numeri
+1100000654	dic quid simile umquam fecerim tibi. 	2020-04-18	Liber_Numeri
+1100000655	at ille ait: numquam.	2020-04-18	Liber_Numeri
+1100000656	protinus aperuit dominus oculos balaam, et vidit angelum stantem in via, evaginato gladio, adoravitque eum pronus in terram.	2020-04-18	Liber_Numeri
+1100000657	cui angelus: cur, inquit, tertio verberas asinam tuam? 	2020-04-18	Liber_Numeri
+1100000658	ego veni ut adversarer tibi, quia perversa est via tua, mihique contraria:et nisi asina declinasset de via, dans locum resistenti, te occidissem, et illa viveret.	2020-04-18	Liber_Numeri
+1100000659	dixit balaam: peccavi, nesciens quod tu stares contra me: et nunc si displicet tibi ut vadam, revertar.	2020-04-18	Liber_Numeri
+1100000660	ait angelus: vade cum istis, et cave ne aliud quam praecepero tibi loquaris. 	2020-04-18	Liber_Numeri
+1100000661	ivit igitur cum principibus.	2020-04-18	Liber_Numeri
+1100000662	quod cum audisset balac, egressus est in occursum eius in oppido moabitarum, quod situm est in extremis finibus arnon.	2020-04-18	Liber_Numeri
+1100000663	dixitque ad balaam: misi nuntios ut vocarent te: cur non statim venisti ad me? 	2020-04-18	Liber_Numeri
+1100000664	an quia mercedem adventui tuo reddere nequeo?	2020-04-18	Liber_Numeri
+1100000665	cui ille respondit: ecce adsum: numquid loqui potero aliud, nisi quod deus posuerit in ore meo?	2020-04-18	Liber_Numeri
+1100000666	perrexerunt ergo simul, et venerunt in urbem, quae in extremis regni eius finibus erat.	2020-04-18	Liber_Numeri
+1100000667	cumque occidisset balac boves et oves, misit ad balaam, et principes qui cum eo erant, munera.	2020-04-18	Liber_Numeri
+1100000668	mane autem facto, duxit eum ad excelsa baal, et intuitus est extremam partem populi.	2020-04-18	Liber_Numeri
+1100000669	caput 23	2020-04-18	Liber_Numeri
+1100000670	dixitque balaam ad balac: aedifica mihi hic septem aras, et para totidem vitulos, eiusdemque numeri arietes.	2020-04-18	Liber_Numeri
+1100000671	cumque fecisset iuxta sermonem balaam, imposuerunt simul vitulum et arietem super aram.	2020-04-18	Liber_Numeri
+1100000672	dixitque balaam ad balac: sta paulisper iuxta holocaustum tuum, donec vadam, si forte occurrat mihi dominus, et quodcumque imperaverit, loquar tibi.	2020-04-18	Liber_Numeri
+1100000673	cumque abiisset velociter, occurrit illi deus. 	2020-04-18	Liber_Numeri
+1100000674	locutusque ad eum balaam: septem, inquit, aras erexi, et imposui vitulum et arietem desuper.	2020-04-18	Liber_Numeri
+1100000675	dominus autem posuit verbum in ore eius, et ait: revertere ad balac, et haec loqueris.	2020-04-18	Liber_Numeri
+1100000676	reversus invenit stantem balac iuxta holocaustum suum, et omnes principes moabitarum:assumptaque parabola sua, dixit:	2020-04-18	Liber_Numeri
+1100000677	de aram adduxit me balac	2020-04-18	Liber_Numeri
+1100000678	rex moabitarum, de montibus orientis:	2020-04-18	Liber_Numeri
+1100000679	veni, inquit, et maledic iacob;	2020-04-18	Liber_Numeri
+1100000680	propera, et detestare israel.	2020-04-18	Liber_Numeri
+1100000681	quomodo maledicam, cui non maledixit deus?	2020-04-18	Liber_Numeri
+1100000682	qua ratione detester, quem dominus non detestatur?	2020-04-18	Liber_Numeri
+1100000683	de summis silicibus videbo eum,	2020-04-18	Liber_Numeri
+1100000684	et de collibus considerabo illum.	2020-04-18	Liber_Numeri
+1100000685	populus solus habitabit,	2020-04-18	Liber_Numeri
+1100000686	et inter gentes non reputabitur.	2020-04-18	Liber_Numeri
+1100000687	quis dinumerare possit pulverem iacob,	2020-04-18	Liber_Numeri
+1100000688	et nosse numerum stirpis israel?	2020-04-18	Liber_Numeri
+1100000689	moriatur anima mea morte iustorum,	2020-04-18	Liber_Numeri
+1100000690	et fiant novissima mea horum similia.	2020-04-18	Liber_Numeri
+1100000691	dixitque balac ad balaam: quid est hoc quod agis? 	2020-04-18	Liber_Numeri
+1100000692	ut malediceres inimicis meis vocavi te, et tu e contrario benedicis eis.	2020-04-18	Liber_Numeri
+1100000693	cui ille respondit: num aliud possum loqui, nisi quod iusserit dominus?	2020-04-18	Liber_Numeri
+1100000694	dixit ergo balac: veni mecum in alterum locum unde partem israel videas, et totum videre non possis: inde maledicito ei.	2020-04-18	Liber_Numeri
+1100000695	cumque duxisset eum in locum sublimem, super verticem montis phasga, aedificavit balaam septem aras, et impositis supra vitulo atque ariete,dixit ad balac: sta hic iuxta holocaustum tuum, donec ego obvius pergam.	2020-04-18	Liber_Numeri
+1100000696	cui cum dominus occurrisset, posuissetque verbum in ore eius, ait: revertere ad balac, et haec loqueris ei.	2020-04-18	Liber_Numeri
+1100000697	reversus invenit eum stantem iuxta holocaustum suum, et principes moabitarum cum eo. 	2020-04-18	Liber_Numeri
+1100000698	ad quem balac: quid, inquit, locutus est dominus?	2020-04-18	Liber_Numeri
+1100000699	at ille, assumpta parabola sua, ait:	2020-04-18	Liber_Numeri
+1100000700	sta, balac, et ausculta; audi, fili sephor:	2020-04-18	Liber_Numeri
+1100000701	non est deus quasi homo, ut mentiatur,	2020-04-18	Liber_Numeri
+1100000702	nec ut filius hominis, ut mutetur.	2020-04-18	Liber_Numeri
+1100000703	dixit ergo, et non faciet?	2020-04-18	Liber_Numeri
+1100000704	locutus est, et non implebit?	2020-04-18	Liber_Numeri
+1100000705	ad benedicendum adductus sum:	2020-04-18	Liber_Numeri
+1100000706	benedictionem prohibere non valeo.	2020-04-18	Liber_Numeri
+1100000707	non est idolum in iacob,	2020-04-18	Liber_Numeri
+1100000708	nec videtur simulacrum in israel.	2020-04-18	Liber_Numeri
+1100000709	dominus deus eius cum eo est,	2020-04-18	Liber_Numeri
+1100000710	et clangor victoriae regis in illo.	2020-04-18	Liber_Numeri
+1100000711	deus eduxit illum de aegypto,	2020-04-18	Liber_Numeri
+1100000712	cuius fortitudo similis est rhinocerotis.	2020-04-18	Liber_Numeri
+1100000713	non est augurium in iacob,	2020-04-18	Liber_Numeri
+1100000714	nec divinatio in israel:	2020-04-18	Liber_Numeri
+1100000715	temporibus suis dicetur iacob et israeli quid operatus sit deus.	2020-04-18	Liber_Numeri
+1100000716	ecce populus ut leaena consurget,	2020-04-18	Liber_Numeri
+1100000717	et quasi leo erigetur:	2020-04-18	Liber_Numeri
+1100000718	non accubabit donec devoret praedam,	2020-04-18	Liber_Numeri
+1100000719	et occisorum sanguinem bibat.	2020-04-18	Liber_Numeri
+1100000720	dixitque balac ad balaam: nec maledicas ei, nec benedicas.	2020-04-18	Liber_Numeri
+1100000721	et ille ait: nonne dixi tibi quod quidquid mihi deus imperaret, hoc facerem?	2020-04-18	Liber_Numeri
+1100000722	et ait balac ad eum: veni, et ducam te ad alium locum: si forte placeat deo ut inde maledicas eis.	2020-04-18	Liber_Numeri
+1100000723	cumque duxisset eum super verticem montis phogor, qui respicit solitudinem,dixit ei balaam: aedifica mihi hic septem aras, et para totidem vitulos, eiusdemque numeri arietes.	2020-04-18	Liber_Numeri
+1100000724	fecit balac ut balaam dixerat: imposuitque vitulos et arietes per singulas aras.	2020-04-18	Liber_Numeri
+1100000725	caput 24	2020-04-18	Liber_Numeri
+1100000726	cumque vidisset balaam quod placeret domino ut benediceret israeli, nequaquam abiit ut ante perrexerat, ut augurium quaereret: sed dirigens contra desertum vultum suum,et elevans oculos, vidit israel in tentoriis commorantem per tribus suas: et irruente in se spiritu dei,assumpta parabola, ait:	2020-04-18	Liber_Numeri
+1100000727	dixit balaam filius beor:	2020-04-18	Liber_Numeri
+1100000728	dixit homo, cuius obturatus est oculus:	2020-04-18	Liber_Numeri
+1100000729	dixit auditor sermonum dei,	2020-04-18	Liber_Numeri
+1100000730	qui visionem omnipotentis intuitus est,	2020-04-18	Liber_Numeri
+1100000731	qui cadit, et sic aperiuntur oculi eius:	2020-04-18	Liber_Numeri
+1100000732	quam pulchra tabernacula tua, iacob,	2020-04-18	Liber_Numeri
+1100000733	et tentoria tua, israel!	2020-04-18	Liber_Numeri
+1100000734	ut valles nemorosae,	2020-04-18	Liber_Numeri
+1100000735	ut horti iuxta fluvios irrigui,	2020-04-18	Liber_Numeri
+1100000736	ut tabernacula quae fixit dominus,	2020-04-18	Liber_Numeri
+1100000737	quasi cedri prope aquas.	2020-04-18	Liber_Numeri
+1100000738	fluet aqua de situla eius,	2020-04-18	Liber_Numeri
+1100000739	et semen illius erit in aquas multas.	2020-04-18	Liber_Numeri
+1100000740	tolletur propter agag, rex eius,	2020-04-18	Liber_Numeri
+1100000741	et auferetur regnum illius.	2020-04-18	Liber_Numeri
+1100000742	deus eduxit illum de aegypto,	2020-04-18	Liber_Numeri
+1100000743	cuius fortitudo similis est rhinocerotis.	2020-04-18	Liber_Numeri
+1100000744	devorabunt gentes hostes illius,	2020-04-18	Liber_Numeri
+1100000745	ossaque eorum confringent, et perforabunt sagittis.	2020-04-18	Liber_Numeri
+1100000746	accubans dormivit ut leo,	2020-04-18	Liber_Numeri
+1100000747	et quasi leaena, quam suscitare nullus audebit.	2020-04-18	Liber_Numeri
+1100000748	qui benedixerit tibi, erit et ipse benedictus:	2020-04-18	Liber_Numeri
+1100000749	qui maledixerit, in maledictione reputabitur.	2020-04-18	Liber_Numeri
+1100000750	iratusque balac contra balaam, complosis manibus ait: ad maledicendum inimicis meis vocavi te, quibus e contrario tertio benedixisti:revertere ad locum tuum. 	2020-04-18	Liber_Numeri
+1100000751	decreveram quidem magnifice honorare te, sed dominus privavit te honore disposito.	2020-04-18	Liber_Numeri
+1100000752	respondit balaam ad balac: nonne nuntiis tuis, quos misisti ad me, dixi:si dederit mihi balac plenam domum suam argenti et auri, non potero praeterire sermonem domini dei mei, ut vel boni quid vel mali proferam ex corde meo: sed quidquid dominus dixerit, hoc loquar?	2020-04-18	Liber_Numeri
+1100000753	verumtamen pergens ad populum meum, dabo consilium, quid populus tuus populo huic faciat extremo tempore.	2020-04-18	Liber_Numeri
+1100000754	sumpta igitur parabola, rursum ait:	2020-04-18	Liber_Numeri
+1100000755	dixit balaam filius beor:	2020-04-18	Liber_Numeri
+1100000756	dixit homo, cuius obturatus est oculus:	2020-04-18	Liber_Numeri
+1100000757	dixit auditor sermonum dei,	2020-04-18	Liber_Numeri
+1100000758	qui novit doctrinam altissimi,	2020-04-18	Liber_Numeri
+1100000759	et visiones omnipotentis videt,	2020-04-18	Liber_Numeri
+1100000760	qui cadens apertos habet oculos:	2020-04-18	Liber_Numeri
+1100000761	videbo eum, sed non modo:	2020-04-18	Liber_Numeri
+1100000762	intuebor illum, sed non prope.	2020-04-18	Liber_Numeri
+1100000763	orietur stella ex iacob,	2020-04-18	Liber_Numeri
+1100000764	et consurget virga de israel:	2020-04-18	Liber_Numeri
+1100000765	et percutiet duces moab,	2020-04-18	Liber_Numeri
+1100000766	vastabitque omnes filios seth.	2020-04-18	Liber_Numeri
+1100000767	et erit idumaea possessio eius:	2020-04-18	Liber_Numeri
+1100000768	haereditas seir cedet inimicis suis:	2020-04-18	Liber_Numeri
+1100000769	israel vero fortiter aget.	2020-04-18	Liber_Numeri
+1100000770	de iacob erit qui dominetur,	2020-04-18	Liber_Numeri
+1100000771	et perdat reliquias civitatis.	2020-04-18	Liber_Numeri
+1100000772	cumque vidisset amalec, assumens parabolam, ait:	2020-04-18	Liber_Numeri
+1100000773	principium gentium amalec,	2020-04-18	Liber_Numeri
+1100000774	cuius extrema perdentur.	2020-04-18	Liber_Numeri
+1100000775	vidit quoque cinaeum: et assumpta parabola, ait:	2020-04-18	Liber_Numeri
+1100000776	robustum quidem est habitaculum tuum:	2020-04-18	Liber_Numeri
+1100000777	sed si in petra posueris nidum tuum,	2020-04-18	Liber_Numeri
+1100000778	et fueris electus de stirpe cin,	2020-04-18	Liber_Numeri
+1100000779	quamdiu poteris permanere? 	2020-04-18	Liber_Numeri
+1100000780	assur enim capiet te.	2020-04-18	Liber_Numeri
+1100000781	assumptaque parabola iterum locutus est:	2020-04-18	Liber_Numeri
+1100000782	heu! 	2020-04-18	Liber_Numeri
+1100000783	quis victurus est,	2020-04-18	Liber_Numeri
+1100000784	quando ista faciet deus?	2020-04-18	Liber_Numeri
+1100000785	venient in trieribus de italia:	2020-04-18	Liber_Numeri
+1100000786	superabunt assyrios, vastabuntque hebraeos, et ad extremum etiam ipsi peribunt.	2020-04-18	Liber_Numeri
+1100000787	surrexitque balaam, et reversus est in locum suum: balac quoque via, qua venerat, rediit.	2020-04-18	Liber_Numeri
+1100000788	caput 25	2020-04-18	Liber_Numeri
+1100000789	morabatur autem eo tempore israel in settim, et fornicatus est populus cum filiabus moab,quae vocaverunt eos ad sacrificia sua. 	2020-04-18	Liber_Numeri
+1100000790	at ille comederunt et adoraverunt deos earum.	2020-04-18	Liber_Numeri
+1100000791	initiatusque est israel beelphegor: et iratus dominus,ait ad moysen: tolle cunctos principes populi, et suspende eos contra solem in patibulis, ut avertatur furor meus ab israel.	2020-04-18	Liber_Numeri
+1100000792	dixitque moyses ad iudices israel: occidat unusquisque proximos suos, qui initiati sunt beelphegor.	2020-04-18	Liber_Numeri
+1100000793	et ecce unus de filiis israel intravit coram fratribus suis ad scortum madianitidem, vidente moyse, et omni turba filiorum israel, qui flebant ante fores tabernaculi.	2020-04-18	Liber_Numeri
+1100000794	quod cum vidisset phinees filius eleazari filii aaron sacerdotis, surrexit de medio multitudinis, et arrepto pugione,ingressus est post virum israelitem in lupanar, et perfodit ambos simul, virum scilicet et mulierem in locis genitalibus. 	2020-04-18	Liber_Numeri
+1100000795	cessavitque plaga a filiis israel:et occisi sunt viginti quatuor millia hominum.	2020-04-18	Liber_Numeri
+1100000796	dixitque dominus ad moysen:phinees filius eleazari filii aaron sacerdotis avertit iram meam a filiis israel: quia zelo meo commotus est contra eos, ut non ipse delerem filios israel in zelo meo.	2020-04-18	Liber_Numeri
+1100000797	idcirco loquere ad eum: ecce do ei pacem foederis mei,et erit tam ipsi quam semini eius pactum sacerdotii sempiternum: quia zelatus est pro deo suo, et expiavit scelus filiorum israel.	2020-04-18	Liber_Numeri
+1100000798	erat autem nomen viri israelitae, qui occisus est cum madianitide, zambri filius salu, dux de cognatione et tribu simeonis.	2020-04-18	Liber_Numeri
+1100000799	porro mulier madianitis, quae pariter interfecta est, vocabatur cozbi filia sur principis nobilissimi madianitarum.	2020-04-18	Liber_Numeri
+1100000800	locutusque est dominus ad moysen, dicens:hostes vos sentiant madianitae, et percutite eos:quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum phogor, et cozbi filiam ducis madian sororem suam, quae percussa est in die plagae pro sacrilegio phogor.	2020-04-18	Liber_Numeri
+1100000801	caput 26	2020-04-18	Liber_Numeri
+1100000802	postquam noxiorum sanguis effusus est, dixit dominus ad moysen et eleazarum filium aaron sacerdotem:numerate omnem summam filiorum israel a viginti annis et supra, per domos et cognationes suas, cunctos qui possunt ad bella procedere.	2020-04-18	Liber_Numeri
+1100000803	locuti sunt itaque moyses et eleazar sacerdos, in campestribus moab super iordanem contra iericho, ad eos qui eranta viginti annis et supra, sicut dominus imperaverat, quorum iste est numerus.	2020-04-18	Liber_Numeri
+1100000804	ruben primogenitus israel: huius filius, henoch, a quo familia henochitarum: et phallu, a quo familia phalluitarum:et hesron, a quo familia hesronitarum: et charmi, a quo familia charmitarum.	2020-04-18	Liber_Numeri
+1100000805	hae sunt familiae de stirpe ruben: quarum numerus inventus est quadraginta tria millia, et septingenti triginta.	2020-04-18	Liber_Numeri
+1100000806	filius phallu, eliab:huius filii, namuel et dathan et abiron: isti sunt dathan et abiron principes populi, qui surrexerunt contra moysen et aaron in seditione core, quando adversus dominum rebellaverunt:et aperiens terra os suum devoravit core, morientibus plurimis, quando combussit ignis ducentos quinquaginta viros. 	2020-04-18	Liber_Numeri
+1100000807	et factum est grande miraculum,ut, core pereunte, filii illius non perirent.	2020-04-18	Liber_Numeri
+1100000808	filii simeon per cognationes suas: namuel, ab hoc familia namuelitarum: iamin, ab hoc familia iaminitarum: iachin, ab hoc familia iachinitarum:zare, ab hoc familia zareitarum: saul, ab hoc familia saulitarum.	2020-04-18	Liber_Numeri
+1100000809	hae sunt familiae de stirpe simeon, quarum omnis numerus fuit viginti duo millia ducenti.	2020-04-18	Liber_Numeri
+1100000810	filii gad per cognationes suas: sephon, ab hoc familia sephonitarum: aggi, ab hoc familia aggitarum: suni, ab hoc familia sunitarum:ozni, ab hoc familia oznitarum: her, ab hoc familia heritarum:arod, ab hoc familia aroditarum: ariel, ab hoc familia arielitarum.	2020-04-18	Liber_Numeri
+1100000811	istae sunt familiae gad, quarum omnis numerus fuit quadraginta millia quingenti.	2020-04-18	Liber_Numeri
+1100000812	filii iuda, her et onan, qui ambo mortui sunt in terra chanaan.	2020-04-18	Liber_Numeri
+1100000813	fueruntque filii iuda per cognationes suas: sela, a quo familia selaitarum: phares, a quo familia pharesitarum: zare, a quo familia zareitarum.	2020-04-18	Liber_Numeri
+1100000814	porro filii phares: hesron, a quo familia hesronitarum: et hamul, a quo familia hamulitarum.	2020-04-18	Liber_Numeri
+1100000815	istae sunt familiae iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.	2020-04-18	Liber_Numeri
+1100000816	filii issachar per cognationes suas: thola, a quo familia tholaitarum: phua, a quo familia phuaitarum:iasub, a quo familia iasubitarum: semran, a quo familia semranitarum.	2020-04-18	Liber_Numeri
+1100000817	hae sunt cognationes issachar, quarum numerus fuit sexaginta quatuor millia trecenti.	2020-04-18	Liber_Numeri
+1100000818	filii zabulon per cognationes suas: sared, a quo familia sareditarum: elon, a quo familia elonitarum: ialel, a quo familia ialelitarum.	2020-04-18	Liber_Numeri
+1100000819	hae sunt cognationes zabulon, quarum numerus fuit sexaginta millia quingenti.	2020-04-18	Liber_Numeri
+1100000820	filii ioseph per cognationes suas, manasse et ephraim.	2020-04-18	Liber_Numeri
+1100000821	de manasse ortus est machir, a quo familia machiritarum. 	2020-04-18	Liber_Numeri
+1100000822	machir genuit galaad, a quo familia galaaditarum.	2020-04-18	Liber_Numeri
+1100000823	galaad habuit filios: iezer, a quo familia iezeritarum: et helec, a quo familia helecitarum:et asriel, a quo familia asrielitarum: et sechem, a quo familia sechemitarum:et semida, a quo familia semidaitarum: et hepher, a quo familia hepheritarum.	2020-04-18	Liber_Numeri
+1100000824	fuit autem hepher pater salphaad, qui filios non habebat, sed tantum filias: quarum ista sunt nomina: maala, et noa, et hegla, et melcha, et thersa.	2020-04-18	Liber_Numeri
+1100000825	hae sunt familiae manasse, et numerus earum quinquaginta duo millia septingenti.	2020-04-18	Liber_Numeri
+1100000826	filii autem ephraim per cognationes suas fuerunt hi: suthala, a quo familia suthalaitarum: becher, a quo familia becheritarum: thehen, a quo familia thehenitarum.	2020-04-18	Liber_Numeri
+1100000827	porro filius suthala fuit heran, a quo familia heranitarum.	2020-04-18	Liber_Numeri
+1100000828	hae sunt cognationes filiorum ephraim: quarum numerus fuit triginta duo millia quingenti.	2020-04-18	Liber_Numeri
+1100000829	isti sunt filii ioseph per familias suas. 	2020-04-18	Liber_Numeri
+1100000830	filii beniamin in cognationibus suis: bela, a quo familia belaitarum: asbel, a quo familia asbelitarum: ahiram, a quo familia ahiramitarum:supham, a quo familia suphamitarum: hupham, a quo familia huphamitarum.	2020-04-18	Liber_Numeri
+1100000831	filii bela: hered, et noeman. 	2020-04-18	Liber_Numeri
+1100000832	de hered, familia hereditarum: de noeman, familia noemanitarum.	2020-04-18	Liber_Numeri
+1100000833	hi sunt filii beniamin per cognationes suas: quorum numerus fuit quadraginta quinque millia sexcenti.	2020-04-18	Liber_Numeri
+1100000834	filii dan per cognationes suas: suham, a quo familia suhamitarum. 	2020-04-18	Liber_Numeri
+1100000835	hae sunt cognationes dan per familias suas.	2020-04-18	Liber_Numeri
+1100000836	omnes fuere suhamitae, quorum numerus erat sexaginta quatuor millia quadringenti.	2020-04-18	Liber_Numeri
+1100000837	filii aser per cognationes suas: iemna, a quo familia iemnaitarum: iessui, a quo familia iessuitarum: brie, a quo familia brieitarum.	2020-04-18	Liber_Numeri
+1100000838	filii brie: heber, a quo familia heberitarum: et melchiel, a quo familia melchielitarum.	2020-04-18	Liber_Numeri
+1100000839	nomen autem filiae aser fuit sara.	2020-04-18	Liber_Numeri
+1100000840	hae cognationes filiorum aser, et numerus eorum quinquaginta tria millia quadringenti.	2020-04-18	Liber_Numeri
+1100000841	filii nephthali per cognationes suas: iesiel, a quo familia iesielitarum: guni, a quo familia gunitarum:ieser, a quo familia ieseritarum: sellem, a quo familia sellemitarum.	2020-04-18	Liber_Numeri
+1100000842	hae sunt cognationes filiorum nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.	2020-04-18	Liber_Numeri
+1100000843	ista est summa filiorum israel, qui recensiti sunt, sexcenta millia, et mille septingenti triginta.	2020-04-18	Liber_Numeri
+1100000844	locutusque est dominus ad moysen, dicens:istis dividetur terra iuxta numerum vocabulorum in possessiones suas.	2020-04-18	Liber_Numeri
+1100000845	pluribus maiorem partem dabis, et paucioribus minorem: singulis, sicut nunc recensiti sunt, tradetur possessio:ita dumtaxat ut sors terram tribubus dividat et familiis.	2020-04-18	Liber_Numeri
+1100000846	quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores.	2020-04-18	Liber_Numeri
+1100000847	hic quoque est numerus filiorum levi per familias suas: gerson, a quo familia gersonitarum: caath, a quo familia caathitarum: merari, a quo familia meraritarum.	2020-04-18	Liber_Numeri
+1100000848	hae sunt familiae levi: familia lobni, familia hebroni, familia moholi, familia musi, familia core. 	2020-04-18	Liber_Numeri
+1100000849	at vero caath genuit amram:qui habuit uxorem iochabed filiam levi, quae nata est ei in aegypto. 	2020-04-18	Liber_Numeri
+1100000850	haec genuit amram viro suo filios, aaron, et moysen, et mariam sororem eorum.	2020-04-18	Liber_Numeri
+1100000851	de aaron orti sunt nadab et abiu, et eleazar et ithamar:quorum nadab et abiu mortui sunt, cum obtulissent ignem alienum coram domino.	2020-04-18	Liber_Numeri
+1100000852	fueruntque omnes qui numerati sunt, viginti tria millia generis masculini ab uno mense et supra: quia non sunt recensiti inter filios israel, nec eis cum ceteris data possessio est.	2020-04-18	Liber_Numeri
+1100000853	hic est numerus filiorum israel, qui descripti sunt a moyse et eleazaro sacerdote, in campestribus moab supra iordanem contra iericho:inter quos, nullus fuit eorum qui ante numerati sunt a moyse et aaron in deserto sinai:praedixerat enim dominus quod omnes morerentur in solitudine. 	2020-04-18	Liber_Numeri
+1100000854	nullusque remansit ex eis, nisi caleb filius iephone, et iosue filius nun.	2020-04-18	Liber_Numeri
+1100000855	caput 27	2020-04-18	Liber_Numeri
+1100000856	accesserunt autem filiae salphaad, filii hepher, filii galaad, filii machir, filii manasse, qui fuit filius ioseph: quarum sunt nomina, maala, et noa, et hegla, et melcha, et thersa.	2020-04-18	Liber_Numeri
+1100000857	steteruntque coram moyse et eleazaro sacerdote et cunctis principibus populi ad ostium tabernaculi foederis, atque dixerunt:pater noster mortuus est in deserto, nec fuit in seditione, quae concitata est contra dominum sub core, sed in peccato suo mortuus est: hic non habuit mares filios. 	2020-04-18	Liber_Numeri
+1100000858	cur tollitur nomen illius de familia sua, quia non habuit filium? 	2020-04-18	Liber_Numeri
+1100000859	date nobis possessionem inter cognatos patris nostri.	2020-04-18	Liber_Numeri
+1100000860	retulitque moyses causam earum ad iudicium domini.	2020-04-18	Liber_Numeri
+1100000861	qui dixit ad eum:iustam rem postulant filiae salphaad: da eis possessionem inter cognatos patris sui, et ei in haereditatem succedant.	2020-04-18	Liber_Numeri
+1100000862	ad filios autem israel loqueris haec:homo cum mortuus fuerit absque filio, ad filiam eius transibit haereditas.	2020-04-18	Liber_Numeri
+1100000863	si filiam non habuerit, habebit successores fratres suos.	2020-04-18	Liber_Numeri
+1100000864	quod si et fratres non fuerint, dabitis haereditatem fratribus patris eius.	2020-04-18	Liber_Numeri
+1100000865	sin autem nec patruos habuerit, dabitur haereditas his qui ei proximi sunt. 	2020-04-18	Liber_Numeri
+1100000866	eritque hoc filiis israel sanctum lege perpetua, sicut praecepit dominus moysi.	2020-04-18	Liber_Numeri
+1100000867	dixit quoque dominus ad moysen: ascende in montem istum abarim, et contemplare inde terram, quam daturus sum filiis israel.	2020-04-18	Liber_Numeri
+1100000868	cumque videris eam, ibis et tu ad populum tuum, sicut ivit frater tuus aaron:quia offendistis me in deserto sin in contradictione multitudinis, nec sanctificare me voluistis coram ea super aquas. 	2020-04-18	Liber_Numeri
+1100000869	hae sunt aquae contradictionis in cades deserti sin.	2020-04-18	Liber_Numeri
+1100000870	cui respondit moyses:provideat dominus deus spirituum omnis carnis hominem, qui sit super multitudinem hanc:et possit exire et intrare ante eos, et educere eos vel introducere: ne sit populus domini sicut oves absque pastore.	2020-04-18	Liber_Numeri
+1100000871	dixitque dominus ad eum: tolle iosue filium nun, virum in quo est spiritus, et pone manum tuam super eum.	2020-04-18	Liber_Numeri
+1100000872	qui stabit coram eleazaro sacerdote et omni multitudine:et dabis ei praecepta cunctis videntibus, et partem gloriae tuae, ut audiat eum omnis synagoga filiorum israel.	2020-04-18	Liber_Numeri
+1100000873	pro hoc, si quid agendum erit, eleazar sacerdos consulet dominum. 	2020-04-18	Liber_Numeri
+1100000874	ad verbum eius egredietur et ingredietur ipse, et omnes filii israel cum eo, et cetera multitudo.	2020-04-18	Liber_Numeri
+1100000875	fecit moyses ut praeceperat dominus: cumque tulisset iosue, statuit eum coram eleazaro sacerdote et omni frequentia populi.	2020-04-18	Liber_Numeri
+1100000876	et impositis capiti eius manibus, cuncta replicavit quae mandaverat dominus.	2020-04-18	Liber_Numeri
+1100000877	caput 28	2020-04-18	Liber_Numeri
+1100000878	dixit quoque dominus ad moysen:praecipe filiis israel, et dices ad eos: oblationem meam et panes, et incensum odoris suavissimi offerte per tempora sua.	2020-04-18	Liber_Numeri
+1100000879	haec sunt sacrificia quae offerre debetis: agnos anniculos immaculatos duos quotidie in holocaustum sempiternum:unum offeretis mane, et alterum ad vesperum:decimam partem ephi similae, quae conspersa sit oleo purissimo, et habeat quartam partem hin.	2020-04-18	Liber_Numeri
+1100000880	holocaustum iuge est quod obtulistis in monte sinai in odorem suavissimum incensi domini.	2020-04-18	Liber_Numeri
+1100000881	et libabitis vini quartam partem hin per agnos singulos in sanctuario domini.	2020-04-18	Liber_Numeri
+1100000882	alterumque agnum similiter offeretis ad vesperam iuxta omnem ritum sacrificii matutini, et libamentorum eius, oblationem suavissimi odoris domino.	2020-04-18	Liber_Numeri
+1100000883	die autem sabbati offeretis duos agnos anniculos immaculatos, et duas decimas similae oleo conspersae in sacrificio, et liba:quae rite funduntur per singula sabbata in holocaustum sempiternum.	2020-04-18	Liber_Numeri
+1100000884	in calendis autem offeretis holocaustum domino, vitulos de armento duos, arietem unum, agnos anniculos septem immaculatos,et tres decimas similae oleo conspersae in sacrificio per singulos vitulos: et duas decimas similae oleo conspersae per singulos arietes:et decimam decimae similae ex oleo in sacrificio per agnos singulos: holocaustum suavissimi odoris atque incensi est domino.	2020-04-18	Liber_Numeri
+1100000885	libamenta autem vini, quae per singulas fundenda sunt victimas, ista erunt: media pars hin per singulos vitulos, tertia per arietem, quarta per agnum. 	2020-04-18	Liber_Numeri
+1100000886	hoc erit holocaustum per omnes menses, qui sibi anno vertente succedunt.	2020-04-18	Liber_Numeri
+1100000887	hircus quoque offeretur domino pro peccatis in holocaustum sempiternum cum libamentis suis.	2020-04-18	Liber_Numeri
+1100000888	mense autem primo, quartadecima die mensis, phase domini erit,et quintadecima die solemnitas: septem diebus vescentur azymis.	2020-04-18	Liber_Numeri
+1100000889	quarum dies prima venerabilis et sancta erit: omne opus servile non facietis in ea.	2020-04-18	Liber_Numeri
+1100000890	offeretisque incensum holocaustum domino, vitulos de armento duos, arietem unum, agnos anniculos immaculatos septem:et sacrificia singulorum ex simila quae conspersa sit oleo, tres decimas per singulos vitulos, et duas decimas per arietem,et decimam decimae per agnos singulos, id est, per septem agnos.	2020-04-18	Liber_Numeri
+1100000891	et hircum pro peccato unum, ut expietur pro vobis,praeter holocaustum matutinum, quod semper offeretis.	2020-04-18	Liber_Numeri
+1100000892	ita facietis per singulos dies septem dierum in fomitem ignis, et in odorem suavissimum domino, qui surget de holocausto, et de libationibus singulorum.	2020-04-18	Liber_Numeri
+1100000893	dies quoque septimus celeberrimus et sanctus erit vobis: omne opus servile non facietis in eo.	2020-04-18	Liber_Numeri
+1100000894	dies etiam primitivorum, quando offeretis novas fruges domino, expletis hebdomadibus, venerabilis et sancta erit: omne opus servile non facietis in ea.	2020-04-18	Liber_Numeri
+1100000895	offeretisque holocaustum in odorem suavissimum domino, vitulos de armento duos, arietem unum, et agnos anniculos immaculatos septem:atque in sacrificiis eorum, similae oleo conspersae tres decimas per singulos vitulos, per arietes duas,per agnos decimam decimae, qui simul sunt agni septem. 	2020-04-18	Liber_Numeri
+1100000896	hircum quoque,qui mactatur pro expiatione: praeter holocaustum sempiternum et liba eius.	2020-04-18	Liber_Numeri
+1100000897	immaculata offeretis omnia cum libationibus suis.	2020-04-18	Liber_Numeri
+1100000898	caput 29	2020-04-18	Liber_Numeri
+1100000899	mensis etiam septimi prima dies venerabilis et sancta erit vobis. 	2020-04-18	Liber_Numeri
+1100000900	omne opus servile non facietis in ea, quia dies clangoris est et tubarum.	2020-04-18	Liber_Numeri
+1100000901	offeretisque holocaustum in odorem suavissimum domino, vitulum de armento unum, arietem unum, et agnos anniculos immaculatos septem:et in sacrificiis eorum, similae oleo conspersae tres decimas per singulos vitulos, duas decimas per arietem,unam decimam per agnum, qui simul sunt agni septem:et hircum pro peccato, qui offertur in expiationem populi,praeter holocaustum calendarum cum sacrificiis suis, et holocaustum sempiternum cum libationibus solitis: eisdem caeremoniis offeretis in odorem suavissimum incensum domino.	2020-04-18	Liber_Numeri
+1100000902	decima quoque dies mensis huius septimi erit vobis sancta atque venerabilis, et affligetis animas vestras: omne opus servile non facietis in ea.	2020-04-18	Liber_Numeri
+1100000903	offeretisque holocaustum domino in odorem suavissimum, vitulum de armento unum, arietem unum, agnos anniculos immaculatos septem:et in sacrificiis eorum similae oleo conspersae tres decimas per singulos vitulos, duas decimas per arietem,decimam decimae per agnos singulos, qui sunt simul agni septem:et hircum pro peccato, absque his quae offerri pro delicto solent in expiationem, et holocaustum sempiternum, cum sacrificio et libaminibus eorum.	2020-04-18	Liber_Numeri
+1100000904	quintadecima vero die mensis septimi, quae vobis sancta erit atque venerabilis, omne opus servile non facietis in ea, sed celebrabitis solemnitatem domino septem diebus.	2020-04-18	Liber_Numeri
+1100000905	offeretisque holocaustum in odorem suavissimum domino, vitulos de armento tredecim, arietes duos, agnos anniculos immaculatos quatuordecim:et in libamentis eorum, similae oleo conspersae tres decimas per vitulos singulos, qui sunt simul vituli tredecim, et duas decimas arieti uno, id est, simul arietibus duobus,et decimam decimae agnis singulis, qui sunt simul agni quatuordecim:et hircum pro peccato, absque holocausto sempiterno, et sacrificio, et libamine eius.	2020-04-18	Liber_Numeri
+1100000906	in die altero offeretis vitulos de armento duodecim, arietes duos, agnos anniculos immaculatos quatuordecim:sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis:et hircum pro peccato, absque holocausto sempiterno, sacrificioque et libamine eius.	2020-04-18	Liber_Numeri
+1100000907	die tertio offeretis vitulos undecim, arietes duos, agnos anniculos immaculatos quatuordecim:sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis:et hircum pro peccato, absque holocausto sempiterno, sacrificioque et libamine eius.	2020-04-18	Liber_Numeri
+1100000908	die quarto offeretis vitulos decem, arietes duos, agnos anniculos immaculatos quatuordecim:sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis:et hircum pro peccato, absque holocausto sempiterno, sacrificioque eius et libamine.	2020-04-18	Liber_Numeri
+1100000909	die quinto offeretis vitulos novem, arietes duos, agnos anniculos immaculatos quatuordecim:sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis:et hircum pro peccato, absque holocausto sempiterno, sacrificioque eius et libamine.	2020-04-18	Liber_Numeri
+1100000910	die sexto offeretis vitulos octo, arietes duos, agnos anniculos immaculatos quatuordecim:sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis:et hircum pro peccato, absque holocausto sempiterno, sacrificioque eius et libamine.	2020-04-18	Liber_Numeri
+1100000911	die septimo offeretis vitulos septem, et arietes duos, agnos anniculos immaculatos quatuordecim:sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis:et hircum pro peccato, absque holocausto sempiterno, sacrificioque eius et libamine.	2020-04-18	Liber_Numeri
+1100000912	die octavo, qui est celeberrimus, omne opus servile non facietis,offerentes holocaustum in odorem suavissimum domino, vitulum unum, arietem unum, agnos anniculos immaculatos septem:sacrificiaque et libamina singulorum, per vitulos, et arietes, et agnos rite celebrabitis:et hircum pro peccato, absque holocausto sempiterno, sacrificioque eius et libamine.	2020-04-18	Liber_Numeri
+1100000913	haec offeretis domino in solemnitatibus vestris: praeter vota et oblationes spontaneas in holocausto, in sacrificio, in libamine, et in hostiis pacificis.	2020-04-18	Liber_Numeri
+1100000914	caput 30	2020-04-18	Liber_Numeri
+1100000915	narravitque moyses filiis israel omnia quae ei dominus imperarat.	2020-04-18	Liber_Numeri
+1100000916	et locutus est ad principes tribuum filiorum israel: iste est sermo quem praecepit dominus:si quis virorum votum domino voverit, aut se constrinxerit iuramento: non faciet irritum verbum suum, sed omne quod promisit, implebit.	2020-04-18	Liber_Numeri
+1100000917	mulier si quippiam voverit, et se constrinxerit iuramento, quae est in domo patris sui, et in aetate adhuc puellari: si cognoverit pater votum quod pollicita est, et iuramentum quo obligavit animam suam, et tacuerit, voti rea erit:quidquid pollicita est, et iuravit, opere complebit.	2020-04-18	Liber_Numeri
+1100000918	sin autem statim ut audierit, contradixerit pater: et vota et iuramenta eius irrita erunt, nec obnoxia tenebitur sponsioni, eo quod contradixerit pater.	2020-04-18	Liber_Numeri
+1100000919	si maritum habuerit, et voverit aliquid, et semel de ore eius verbum egrediens animam eius obligaverit iuramento:quo die audierit vir, et non contradixerit, voti rea erit, reddetque quodcumque promiserat.	2020-04-18	Liber_Numeri
+1100000920	sin autem audiens statim contradixerit, et irritas fecerit pollicitationes eius, verbaque quibus obstrinxerat animam suam, propitius erit ei dominus.	2020-04-18	Liber_Numeri
+1100000921	vidua et repudiata quidquid voverint, reddent.	2020-04-18	Liber_Numeri
+1100000922	uxor in domo viri cum se voto constrinxerit et iuramento,si audierit vir, et tacuerit, nec contradixerit sponsioni, reddet quodcumque promiserat.	2020-04-18	Liber_Numeri
+1100000923	sin autem extemplo contradixerit, non tenebitur promissionis rea: quia maritus contradixit, et dominus ei propitius erit.	2020-04-18	Liber_Numeri
+1100000924	si voverit, et iuramento se constrinxerit, ut per ieiunium, vel ceterarum rerum abstinentiam affligat animam suam, in arbitrio viri erit ut faciat, sive non faciat.	2020-04-18	Liber_Numeri
+1100000925	quod si audiens vir tacuerit, et in alteram diem distulerit sententiam, quidquid voverat atque promiserat, reddet: quia statim ut audivit, tacuit.	2020-04-18	Liber_Numeri
+1100000926	sin autem contradixerit postquam rescivit, portabit ipse iniquitatem eius.	2020-04-18	Liber_Numeri
+1100000927	istae sunt leges, quas constituit dominus moysi inter virum et uxorem, inter patrem et filiam, quae in puellari adhuc aetate est, vel quae manet in parentis domo.	2020-04-18	Liber_Numeri
+1100000928	caput 31	2020-04-18	Liber_Numeri
+1100000929	locutusque est dominus ad moysen, dicens:ulciscere prius filios israel de madianitis, et sic colligeris ad populum tuum.	2020-04-18	Liber_Numeri
+1100000930	statimque moyses: armate, inquit, ex vobis viros ad pugnam, qui possint ultionem domini expetere de madianitis.	2020-04-18	Liber_Numeri
+1100000931	mille viri de singulis tribubus eligantur ex israel qui mittantur ad bellum.	2020-04-18	Liber_Numeri
+1100000932	dederuntque millenos de singulis tribubus, id est, duodecim millia expeditorum ad pugnam:quos misit moyses cum phinees filio eleazari sacerdotis, vasa quoque sancta, et tubas ad clangendum tradidit ei.	2020-04-18	Liber_Numeri
+1100000933	cumque pugnassent contra madianitas atque vicissent, omnes mares occiderunt,et reges eorum, evi, et recem, et sur, et hur, et rebe, quinque principes gentis: balaam quoque filium beor interfecerunt gladio.	2020-04-18	Liber_Numeri
+1100000934	ceperuntque mulieres eorum, et parvulos, omniaque pecora, et cunctam supellectilem: quidquid habere potuerant depopulati sunt:tam urbes quam viculos et castella flamma consumpsit.	2020-04-18	Liber_Numeri
+1100000935	et tulerunt praedam, et universa quae ceperant tam ex hominibus quam ex iumentis,et adduxerunt ad moysen, et eleazarum sacerdotem, et ad omnem multitudinem filiorum israel: reliqua autem utensilia portaverunt ad castra in campestribus moab iuxta iordanem contra iericho.	2020-04-18	Liber_Numeri
+1100000936	egressi sunt autem moyses et eleazar sacerdos, et omnes principes synagogae, in occursum eorum extra castra.	2020-04-18	Liber_Numeri
+1100000937	iratusque moyses principibus exercitus, tribunis, et centurionibus qui venerant de bello,ait: cur feminas reservastis?	2020-04-18	Liber_Numeri
+1100000938	nonne istae sunt, quae deceperunt filios israel ad suggestionem balaam, et praevaricari vos fecerunt in domino super peccato phogor, unde et percussus est populus?	2020-04-18	Liber_Numeri
+1100000939	ergo cunctos interficite quidquid est generis masculinis, etiam in parvulis: et mulieres, quae noverunt viros in coitu, iugulate:puellas autem et omnes feminas virgines reservate vobis:et manete extra castra septem diebus. 	2020-04-18	Liber_Numeri
+1100000940	qui occiderit hominem, vel occisum tetigerit, lustrabitur die tertio et septimo.	2020-04-18	Liber_Numeri
+1100000941	et de omni praeda, sive vestimentum fuerit, sive vas, et aliquid in utensilia praeparatum, de caprarum pellibus, et pilis, et ligno, expiabitur.	2020-04-18	Liber_Numeri
+1100000942	eleazar quoque sacerdos ad viros exercitus, qui pugnaverunt, sic locutus est: hoc est praeceptum legis, quod mandavit dominus moysi:aurum, et argentum, et aes, et ferrum, et plumbum, et stannum,et omne, quod potest transire per flammas, igne purgabitur: quidquid autem ignem non potest sustinere, aqua expiationis sanctificabitur:et lavabitis vestimenta vestra die septimo, et purificati postea castra intrabitis.	2020-04-18	Liber_Numeri
+1100000943	dixit quoque dominus ad moysen:tollite summam eorum quae capta sunt, ab homine usque ad pecus, tu et eleazar sacerdos et principes vulgi:dividesque ex aequo praedam inter eos qui pugnaverunt egressique sunt ad bellum, et inter omnem reliquam multitudinem.	2020-04-18	Liber_Numeri
+1100000944	et separabis partem domino ab his qui pugnaverunt et fuerunt in bello, unam animam de quingentis, tam ex hominibus quam ex bobus et asinis et ovibus,et dabis eam eleazaro sacerdoti, quia primitiae domini sunt.	2020-04-18	Liber_Numeri
+1100000945	ex media quoque parte filiorum israel accipies quinquagesimum caput hominum, et boum, et asinorum, et ovium, cunctorum animantium, et dabis ea levitis, qui excubant in custodiis tabernaculi domini.	2020-04-18	Liber_Numeri
+1100000946	feceruntque moyses et eleazar sicut praeceperat dominus.	2020-04-18	Liber_Numeri
+1100000947	fuit autem praeda, quam exercitus ceperat, ovium sexcenta septuaginta quinque millia,boum septuaginta duo millia,asinorum sexaginta millia et mille:animae hominum sexus feminei, quae non cognoverant viros, triginta duo millia.	2020-04-18	Liber_Numeri
+1100000948	dataque est media pars his qui in praelio fuerant, ovium trecenta triginta septem millia quingentae:e quibus in partem domini supputatae sunt oves sexcentae septuaginta quinque:et de bobus triginta sex millibus, boves septuaginta et duo:de asinis triginta millibus quingentis, asini sexaginta unus:de animabus hominum sedecim millibus, cesserunt in partem domini triginta duae animae.	2020-04-18	Liber_Numeri
+1100000949	tradiditque moyses numerum primitiarum domini eleazaro sacerdoti, sicut fuerat ei imperatum,ex media parte filiorum israel, quam separaverat his qui in praelio fuerant.	2020-04-18	Liber_Numeri
+1100000950	de media vero parte, quae contigerat reliquae multitudini, id est, de ovibus trecentis triginta septem millibus quingentis,et de bobus triginta sex millibus,et de asinis triginta millibus quingentis,et de hominibus sedecim millibus,tulit moyses quinquagesimum caput, et dedit levitis, qui excubabant in tabernaculo domini, sicut praeceperat dominus.	2020-04-18	Liber_Numeri
+1100000951	cumque accessissent principes exercitus ad moysen, et tribuni, centurionesque, dixerunt:nos servi tui recensuimus numerum pugnatorum, quos habuimus sub manu nostra: et ne unus quidem defuit.	2020-04-18	Liber_Numeri
+1100000952	ob hanc causam offerimus in donariis domini singuli quod in praeda auri potuimus invenire, periscelides et armillas, annulos et dextralia, ac muraenulas, ut depreceris pro nobis dominum.	2020-04-18	Liber_Numeri
+1100000953	susceperuntque moyses et eleazar sacerdos omne aurum in diversis speciebus,pondo sedecim millia septingentos quinquaginta siclos, a tribunis et centurionibus.	2020-04-18	Liber_Numeri
+1100000954	unusquisque enim quod in praeda rapuerat, suum erat.	2020-04-18	Liber_Numeri
+1100000955	et susceptum intulerunt in tabernaculum testimonii, in monimentum filiorum israel coram domino.	2020-04-18	Liber_Numeri
+1100000956	caput 32	2020-04-18	Liber_Numeri
+1100000957	filii autem ruben et gad habebant pecora multa, et erat illis in iumentis infinita substantia. 	2020-04-18	Liber_Numeri
+1100000958	cumque vidissent iazer et galaad aptas animalibus alendis terras,venerunt ad moysen, et ad elezarum sacerdotem, et principes multitudinis, atque dixerunt:ataroth, et dibon, et iazer, et nemra, hesebon, et eleale, et saban, et nebo, et beon,terra, quam percussit dominus in conspectu filiorum israel, regio uberrima est ad pastum animalium: et nos servi tui habemus iumenta plurima,precamurque si invenimus gratiam coram te, ut des nobis famulis tuis eam in possessionem, nec facias nos transire iordanem.	2020-04-18	Liber_Numeri
+1100000959	quibus respondit moyses: numquid fratres vestri ibunt ad pugnam, et vos hic sedebitis?	2020-04-18	Liber_Numeri
+1100000960	cur subvertitis mentes filiorum israel, ne transire audeant in locum, quem eis daturus est dominus?	2020-04-18	Liber_Numeri
+1100000961	nonne ita egerunt patres vestri, quando misi de cadesbarne ad explorandam terram?	2020-04-18	Liber_Numeri
+1100000962	cumque venissent usque ad vallem botri, lustrata omni regione, subverterunt cor filiorum israel, ut non intrarent fines, quos eis dominus dedit.	2020-04-18	Liber_Numeri
+1100000963	qui iratus iuravit, dicens:si videbunt homines isti, qui ascenderunt ex aegypto a viginti annis et supra, terram, quam sub iuramento pollicitus sum abraham, isaac, et iacob: et noluerunt sequi me,praeter caleb filium iephone cenezaeum, et iosue filium nun: isti impleverunt voluntatem meam.	2020-04-18	Liber_Numeri
+1100000964	iratusque dominus adversum israel, circumduxit eum per desertum quadraginta annis, donec consumeretur universa generatio, quae fecerat malum in conspectu eius.	2020-04-18	Liber_Numeri
+1100000965	et ecce, inquit, vos surrexistis pro patribus vestris, incrementa et alumni hominum peccatorum, ut augeretis furorem domini contra israel.	2020-04-18	Liber_Numeri
+1100000966	quod si nolueritis sequi eum, in solitudine populum derelinquet, et vos causa eritis necis omnium.	2020-04-18	Liber_Numeri
+1100000967	at illi prope accedentes, dixerunt: caulas ovium fabricabimus, et stabula iumentorum, parvulis quoque nostris urbes munitas:nos autem ipsi armati et accincti pergemus ad praelium ante filios israel, donec introducamus eos ad loca sua. 	2020-04-18	Liber_Numeri
+1100000968	parvuli nostri, et quidquid habere possumus, erunt in urbibus muratis, propter habitatorum insidias.	2020-04-18	Liber_Numeri
+1100000969	non revertemur in domos nostras, usque dum possideant filii israel haereditatem suam:nec quidquam quaeremus trans iordanem, quia iam habemus nostram possessionem in orientali eius plaga.	2020-04-18	Liber_Numeri
+1100000970	quibus moyses ait: si facitis quod promittitis, expediti pergite coram domino ad pugnam:et omnis vir bellator armatus iordanem transeat, donec subvertat dominus inimicos suos,et subiiciatur ei omnis terra: tunc eritis inculpabiles apud dominum et apud israel, et obtinebitis regiones, quas vultis, coram domino.	2020-04-18	Liber_Numeri
+1100000971	sin autem quod dicitis, non feceritis, nulli dubium est quin peccetis in deum: et scitote quoniam peccatum vestrum apprehendet vos.	2020-04-18	Liber_Numeri
+1100000972	aedificate ergo urbes parvulis vestris, et caulas, et stabula ovibus ac iumentis: et quod polliciti estis, implete.	2020-04-18	Liber_Numeri
+1100000973	dixeruntque filii gad et ruben ad moysen: servi tui sumus: faciemus quod iubet dominus noster.	2020-04-18	Liber_Numeri
+1100000974	parvulos nostros, et mulieres, et pecora, ac iumenta relinquemus in urbibus galaad:nos autem famuli tui omnes expediti pergemus ad bellum, sicut tu, domine, loqueris.	2020-04-18	Liber_Numeri
+1100000975	praecepit ergo moyses eleazaro sacerdoti, et iosue filio nun, et principibus familiarum per tribus israel, et dixit ad eos:si transierint filii gad et filii ruben vobiscum iordanem omnes armati ad bellum coram domino, et vobis fuerit terra subiecta, date eis galaad in possessionem.	2020-04-18	Liber_Numeri
+1100000976	sin autem noluerint transire armati vobiscum in terram chanaan, inter vos habitandi accipiant loca.	2020-04-18	Liber_Numeri
+1100000977	responderuntque filii gad et filii ruben: sicut locutus est dominus servis suis, ita faciemus:ipsi armati pergemus coram domino in terram chanaan, et possessionem iam suscepisse nos confitemur trans iordanem.	2020-04-18	Liber_Numeri
+1100000978	dedit itaque moyses filiis gad et ruben, et dimidiae tribui manasse filii ioseph, regnum sehon regis amorrhaei, et regnum og regis basan, et terram eorum cum urbibus suis per circuitum.	2020-04-18	Liber_Numeri
+1100000979	igitur exstruxerunt filii gad, dibon, et ataroth, et aroer,et etroth, et sophan, et iazer, et iegbaa,et bethnemra, et betharan, urbes munitas, et caulas pecoribus suis.	2020-04-18	Liber_Numeri
+1100000980	filii vero ruben aedificaverunt hesebon, et eleale, et cariathaim,et nabo, et baalmeon versis nominibus, sabama quoque: imponentes vocabula urbibus, quas exstruxerunt.	2020-04-18	Liber_Numeri
+1100000981	porro filii machir filii manasse, perrexerunt in galaad, et vastaverunt eam interfecto amorrhaeo habitatore eius.	2020-04-18	Liber_Numeri
+1100000982	dedit ergo moyses terram galaad machir filio manasse, qui habitavit in ea.	2020-04-18	Liber_Numeri
+1100000983	iair autem filius manasse abiit, et occupavit vicos eius, quos appellavit havoth iair, id est, villas iair.	2020-04-18	Liber_Numeri
+1100000984	nobe quoque perrexit, et apprehendit chanath cum viculis suis: vocavitque eam ex nomine suo nobe.	2020-04-18	Liber_Numeri
+1100000985	caput 33	2020-04-18	Liber_Numeri
+1100000986	hae sunt mansiones filiorum israel, qui egressi sunt de aegypto per turmas suas in manu moysi et aaron,quas descripsit moyses iuxta castrorum loca, quae domini iussione mutabant.	2020-04-18	Liber_Numeri
+1100000987	profecti igitur de ramesse mense primo, quintadecima die mensis primi, altera die phase, filii israel in manu excelsa, videntibus cunctis aegyptiis,et sepelientibus primogenitos, quos percusserat dominus (nam et in diis eorum exercuerat ultionem),castrametati sunt in soccoth.	2020-04-18	Liber_Numeri
+1100000988	et de soccoth venerunt in etham, quae est in extremis finibus solitudinis.	2020-04-18	Liber_Numeri
+1100000989	inde egressi venerunt contra phihahiroth, quae respicit beelsephon, et castrametati sunt ante magdalum.	2020-04-18	Liber_Numeri
+1100000990	profectique de phihahiroth, transierunt per medium mare in solitudinem: et ambulantes tribus diebus per desertum etham, castrametati sunt in mara.	2020-04-18	Liber_Numeri
+1100000991	profectique de mara, venerunt in elim, ubi erant duodecim fontes aquarum, et palmae septuaginta: ibique castrametati sunt.	2020-04-18	Liber_Numeri
+1100000992	sed et inde egressi, fixerunt tentoria super mare rubrum. 	2020-04-18	Liber_Numeri
+1100000993	profectique de mari rubro,castrametati sunt in deserto sin.	2020-04-18	Liber_Numeri
+1100000994	unde egressi, venerunt in daphca.	2020-04-18	Liber_Numeri
+1100000995	profectique de daphca, castrametati sunt in alus.	2020-04-18	Liber_Numeri
+1100000996	egressique de alus, in raphidim fixere tentoria, ubi populo defuit aqua ad bibendum.	2020-04-18	Liber_Numeri
+1100000997	profectique de raphidim, castrametati sunt in deserto sinai.	2020-04-18	Liber_Numeri
+1100000998	sed et de solitudine sinai egressi, venerunt ad sepulchra concupiscentiae.	2020-04-18	Liber_Numeri
+1100000999	profectique de sepulchris concupiscentiae, castrametati sunt in haseroth.	2020-04-18	Liber_Numeri
+1100001000	et de haseroth venerunt in rethma.	2020-04-18	Liber_Numeri
+1100001001	profectique de rethma, castrametati sunt in remmomphares.	2020-04-18	Liber_Numeri
+1100001002	unde egressi venerunt in lebna.	2020-04-18	Liber_Numeri
+1100001003	de lebna castrametati sunt in ressa.	2020-04-18	Liber_Numeri
+1100001004	egressique de ressa, venerunt in ceelatha.	2020-04-18	Liber_Numeri
+1100001005	unde profecti, castrametati sunt in monte sepher.	2020-04-18	Liber_Numeri
+1100001006	egressi de monte sepher, venerunt in arada.	2020-04-18	Liber_Numeri
+1100001007	inde proficiscentes, castrametati sunt in maceloth.	2020-04-18	Liber_Numeri
+1100001008	profectique de maceloth, venerunt in thahath.	2020-04-18	Liber_Numeri
+1100001009	de thahath, castrametati sunt in thare.	2020-04-18	Liber_Numeri
+1100001010	unde egressi, fixere tentoria in methca.	2020-04-18	Liber_Numeri
+1100001011	et de methca, castrametati sunt in hesmona.	2020-04-18	Liber_Numeri
+1100001012	profectique de hesmona, venerunt in moseroth.	2020-04-18	Liber_Numeri
+1100001013	et de moseroth, castrametati sunt in beneiaacan.	2020-04-18	Liber_Numeri
+1100001014	profectique de beneiaacan, venerunt in montem gadgad.	2020-04-18	Liber_Numeri
+1100001015	unde profecti, castrametati sunt in ietebatha.	2020-04-18	Liber_Numeri
+1100001016	et de ietebatha venerunt in hebrona.	2020-04-18	Liber_Numeri
+1100001017	egressique de hebrona, castrametati sunt in asiongaber.	2020-04-18	Liber_Numeri
+1100001018	inde profecti, venerunt in desertum sin, haec est cades.	2020-04-18	Liber_Numeri
+1100001019	egressique de cades, castrametati sunt in monte hor, in extremis finibus terrae edom.	2020-04-18	Liber_Numeri
+1100001020	ascenditque aaron sacerdos in montem hor iubente domino: et ibi mortuus est anno quadragesimo egressionis filiorum israel ex aegypto, mense quinto, prima die mensis,cum esset annorum centum viginti trium.	2020-04-18	Liber_Numeri
+1100001021	audivitque chananaeus rex arad, qui habitabat ad meridiem, in terram chanaan venisse filios israel.	2020-04-18	Liber_Numeri
+1100001022	et profecti de monte hor, castrametati sunt in salmona.	2020-04-18	Liber_Numeri
+1100001023	unde egressi, venerunt in phunon.	2020-04-18	Liber_Numeri
+1100001024	profectique de phunon, castrametati sunt in oboth.	2020-04-18	Liber_Numeri
+1100001025	et de oboth venerunt in iieabarim, quae est in finibus moabitarum.	2020-04-18	Liber_Numeri
+1100001026	profectique de iieabarim, fixere tentoria in dibongad.	2020-04-18	Liber_Numeri
+1100001027	unde egressi, castrametati sunt in helmondeblathaim.	2020-04-18	Liber_Numeri
+1100001028	egressique de helmondeblathaim, venerunt ad montes abarim contra nabo.	2020-04-18	Liber_Numeri
+1100001029	profectique de montibus abarim, transierunt ad campestria moab, supra iordanem, contra iericho.	2020-04-18	Liber_Numeri
+1100001030	ibique castrametati sunt de bethsimoth usque ad abelsatim in planioribus locis moabitarum.	2020-04-18	Liber_Numeri
+1100001031	ubi locutus est dominus ad moysen:praecipe filiis israel, et dic ad eos: quando transieritis iordanem, intrantes terram chanaan,disperdite cunctos habitatores terrae illius: confringite titulos, et statuas comminuite, atque omnia excelsa vastate,mundantes terram, et habitantes in ea. 	2020-04-18	Liber_Numeri
+1100001032	ego enim dedi vobis illam in possessionem,quam dividetis vobis sorte. 	2020-04-18	Liber_Numeri
+1100001033	pluribus dabitis latiorem, et paucis angustiorem. 	2020-04-18	Liber_Numeri
+1100001034	singulis ut sors ceciderit, ita tribuetur haereditas. 	2020-04-18	Liber_Numeri
+1100001035	per tribus et familias possessio dividetur.	2020-04-18	Liber_Numeri
+1100001036	sin autem nolueritis interficere habitatores terrae: qui remanserint, erunt vobis quasi clavi in oculis, et lanceae in lateribus, et adversabuntur vobis in terra habitationis vestrae:et quidquid illis cogitaveram facere, vobis faciam.	2020-04-18	Liber_Numeri
+1100001037	caput 34	2020-04-18	Liber_Numeri
+1100001038	locutusque est dominus ad moysen, dicens:praecipe filiis israel, et dices ad eos: cum ingressi fueritis terram chanaan, et in possessionem vobis sorte ceciderit, his finibus terminabitur.	2020-04-18	Liber_Numeri
+1100001039	pars meridiana incipiet a solitudine sin, quae est iuxta edom: et habebit terminos contra orientem mare salsissimum.	2020-04-18	Liber_Numeri
+1100001040	qui circuibunt australem plagam per ascensum scorpionis, ita ut transeant in senna, et perveniant a meridie usque ad cadesbarne, unde egredientur confinia ad villam nomine adar, et tendent usque ad asemona.	2020-04-18	Liber_Numeri
+1100001041	ibitque per gyrum terminus ab asemona usque ad torrentem aegypti, et maris magni littore finietur.	2020-04-18	Liber_Numeri
+1100001042	plaga autem occidentalis a mari magno incipiet, et ipso fine claudetur.	2020-04-18	Liber_Numeri
+1100001043	porro ad septentrionalem plagam a mari magno termini incipient, pervenientes usque ad montem altissimum,a quo venient in emath usque ad terminos sedada:ibuntque confinia usque ad zephrona, et villam enan. 	2020-04-18	Liber_Numeri
+1100001044	hi erunt termini in parte aquilonis.	2020-04-18	Liber_Numeri
+1100001045	inde metabuntur fines contra orientalem plagam de villa enan usque sephama,et de sephama descendent termini in rebla contra fontem daphnim: inde pervenient contra orientem ad mare cenereth,et tendent usque ad iordanem, et ad ultimum salsissimo claudentur mari. 	2020-04-18	Liber_Numeri
+1100001046	hanc habebitis terram per fines suos in circuitu.	2020-04-18	Liber_Numeri
+1100001047	praecepitque moyses filiis israel, dicens: haec erit terra, quam possidebitis sorte, et quam iussit dominus dari novem tribubus, et dimidiae tribui.	2020-04-18	Liber_Numeri
+1100001048	tribus enim filiorum ruben per familias suas, et tribus filiorum gad iuxta cognationum numerum, media quoque tribus manasse,id est, duae semis tribus, acceperunt partem suam trans iordanem contra iericho ad orientalem plagam.	2020-04-18	Liber_Numeri
+1100001049	et ait dominus ad moysen:haec sunt nomina virorum qui terram vobis divident, eleazar sacerdos, et iosue filius nun,et singuli principes de tribubus singulis,quorum ista sunt vocabula. 	2020-04-18	Liber_Numeri
+1100001050	de tribu iuda, caleb filius iephone.	2020-04-18	Liber_Numeri
+1100001051	de tribu simeon, samuel filius ammiud.	2020-04-18	Liber_Numeri
+1100001052	de tribu beniamin, elidad filius chaselon.	2020-04-18	Liber_Numeri
+1100001053	de tribu filiorum dan, bocci filius iogli.	2020-04-18	Liber_Numeri
+1100001054	filiorum ioseph de tribu manasse, hanniel filius ephod.	2020-04-18	Liber_Numeri
+1100001055	de tribu ephraim, camuel filius sephthan.	2020-04-18	Liber_Numeri
+1100001056	de tribu zabulon, elisaphan filius pharnach.	2020-04-18	Liber_Numeri
+1100001057	de tribu issachar, dux phaltiel filius ozan.	2020-04-18	Liber_Numeri
+1100001058	de tribu aser, ahiud filius salomi.	2020-04-18	Liber_Numeri
+1100001059	de tribu nephthali, phedael filius ammiud.	2020-04-18	Liber_Numeri
+1100001060	hi sunt, quibus praecepit dominus ut dividerent filiis israel terram chanaan.	2020-04-18	Liber_Numeri
+1100001061	caput 35	2020-04-18	Liber_Numeri
+1100001062	haec quoque locutus est dominus ad moysen in campes tribus moab supra iordanem, contra iericho:praecipe filiis israel ut dent levitis de possessionibus suisurbes ad habitandum, et suburbana earum per circuitum: ut ipsi in oppidis maneant, et suburbana sint pecoribus ac iumentis:quae a muris civitatum forinsecus, per circuitum, mille passuum spatio tendentur.	2020-04-18	Liber_Numeri
+1100001063	contra orientem duo millia erunt cubiti, et contra meridiem similiter erunt duo millia: ad mare quoque, quod respicit ad occidentem, eadem mensura erit, et septentrionalis plaga aequali termino finietur, eruntque urbes in medio, et foris suburbana.	2020-04-18	Liber_Numeri
+1100001064	de ipsis autem oppidis, quae levitis dabitis, sex erunt in fugitivorum auxilia separata, ut fugiat ad ea qui fuderit sanguinem: et exceptis his, alia quadraginta duo oppida,id est, simul quadraginta octo cum suburbanis suis.	2020-04-18	Liber_Numeri
+1100001065	ipsaeque urbes, quae dabuntur de possessionibus filiorum israel, ab his qui plus habent, plures auferentur: et qui minus, pauciores: singuli iuxta mensuram haereditatis suae dabunt oppida levitis.	2020-04-18	Liber_Numeri
+1100001066	ait dominus ad moysen:loquere filiis israel, et dices ad eos: quando transgressi fueritis iordanem in terram chanaan,decernite quae urbes esse debeant in praesidia fugitivorum, qui nolentes sanguinem fuderint:in quibus cum fuerit profugus, cognatus occisi non poterit eum occidere, donec stet in conspectu multitudinis, et causa illius iudicetur.	2020-04-18	Liber_Numeri
+1100001067	de ipsis autem urbibus, quae ad fugitivorum subsidia separantur,tres erunt trans iordanem, et tres in terra chanaan,tam filiis israel quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.	2020-04-18	Liber_Numeri
+1100001068	si quis ferro percusserit, et mortuus fuerit qui percussus est, reus erit homicidii, et ipse morietur.	2020-04-18	Liber_Numeri
+1100001069	si lapidem iecerit, et ictus occubuerit, similiter punietur.	2020-04-18	Liber_Numeri
+1100001070	si ligno percussus interierit, percussoris sanguine vindicabitur.	2020-04-18	Liber_Numeri
+1100001071	propinquus occisi, homicidam interficiet: statim ut apprehenderit eum, interficiet.	2020-04-18	Liber_Numeri
+1100001072	si per odium quis hominem impulerit, vel iecerit quippiam in eum per insidias:aut cum esset inimicus, manu percusserit, et ille mortuus fuerit: percussor homicidii reus erit: cognatus occisi statim ut invenerit eum, iugulabit.	2020-04-18	Liber_Numeri
+1100001073	quod si fortuitu, et absque odioet inimicitiis quidquam horum fecerit,et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quaestio ventilata:liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.	2020-04-18	Liber_Numeri
+1100001074	si interfector extra fines urbium, quae exulibus deputatae sunt,fuerit inventus, et percussus ab eo qui ultor est sanguinis: absque noxa erit qui eum occiderit.	2020-04-18	Liber_Numeri
+1100001075	debuerat enim profugus usque ad mortem pontificis in urbe residere. 	2020-04-18	Liber_Numeri
+1100001076	postquam autem ille obierit, homicida revertetur in terram suam.	2020-04-18	Liber_Numeri
+1100001077	haec sempiterna erunt, et legitima in cunctis habitationibus vestris.	2020-04-18	Liber_Numeri
+1100001078	homicida sub testibus punietur: ad unius testimonium nullus condemnabitur.	2020-04-18	Liber_Numeri
+1100001079	non accipietis pretium ab eo qui reus est sanguinis, statim et ipse morietur.	2020-04-18	Liber_Numeri
+1100001080	exules et profugi ante mortem pontificis nullo modo in urbes suas reverti poterunt,ne polluatis terram habitationis vestrae, quae insontium cruore maculatur: nec aliter expiari potest, nisi per eius sanguinem, qui alterius sanguinem fuderit.	2020-04-18	Liber_Numeri
+1100001081	atque ita emundabitur vestra possessio me commorante vobiscum. 	2020-04-18	Liber_Numeri
+1100001082	ego enim sum dominus qui habito inter filios israel.	2020-04-18	Liber_Numeri
+1100001083	caput 36	2020-04-18	Liber_Numeri
+1100001084	accesserunt autem et principes familiarum galaad filii machir filii manasse, de stirpe filiorum ioseph: locutique sunt moysi coram principibus israel, atque dixerunt:tibi domino nostro praecepit dominus ut terram sorte divideres filiis israel, et ut filiabus salphaad fratris nostri dares possessionem debitam patri:quas si alterius tribus homines uxores acceperint, sequetur possessio sua, et translata ad aliam tribum, de nostra haereditate minuetur.	2020-04-18	Liber_Numeri
+1100001085	atque ita fiet, ut cum iubilaeus, id est, quinquagesimus annus remissionis advenerit, confundatur sortium distributio, et aliorum possessio ad alios transeat.	2020-04-18	Liber_Numeri
+1100001086	respondit moyses filiis israel, et domino praecipiente ait: recte tribus filiorum ioseph locuta est.	2020-04-18	Liber_Numeri
+1100001087	et haec lex super filiabus salphaad a domino promulgata est: nubant quibus volunt, tantum ut suae tribus hominibus:ne commisceatur possessio filiorum israel de tribu in tribum. 	2020-04-18	Liber_Numeri
+1100001088	omnes enim viri ducent uxores de tribu et cognatione sua:et cunctae feminae de eadem tribu maritos accipient: ut haereditas permaneat in familiis,nec sibi misceantur tribus, sed ita maneantut a domino separatae sunt. 	2020-04-18	Liber_Numeri
+1100001089	feceruntque filiae salphaad ut fuerat imperatum:et nupserunt maala, et thersa, et hegla, et melcha, et noa, filiis patrui suide familia manasse, qui fuit filius ioseph: et possessio, quae illis fuerat attributa, mansit in tribu et familia patris earum.	2020-04-18	Liber_Numeri
+1100001090	haec sunt mandata atque iudicia, quae mandavit dominus per manum moysi ad filios israel, in campestribus moab supra iordanem contra iericho.	2020-04-18	Liber_Numeri

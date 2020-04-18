@@ -1,0 +1,548 @@
+1100000001	liber iosue	2020-04-18	Liber_Iosue
+1100000002	caput 1	2020-04-18	Liber_Iosue
+1100000003	et factum est post mortem moysi servi domini, ut loqueretur dominus ad iosue filium nun, ministrum moysi, et diceret ei:moyses servus meus mortuus est: surge, et transi iordanem istum tu, et omnis populus tecum, in terram quam ego dabo filiis israel.	2020-04-18	Liber_Iosue
+1100000004	omnem locum, quem calcaverit vestigium pedis vestri, vobis tradam, sicut locutus sum moysi.	2020-04-18	Liber_Iosue
+1100000005	a deserto et libano usque ad fluvium magnum euphraten, omnis terra hethaeorum usque ad mare magnum contra solis occasum erit terminus vester.	2020-04-18	Liber_Iosue
+1100000006	nullus poterit vobis resistere cunctis diebus vitae tuae: sicut fui cum moyse, ita ero tecum: non dimittam, nec derelinquam te.	2020-04-18	Liber_Iosue
+1100000007	confortare, et esto robustus: tu enim sorte divides populo huic terram, pro qua iuravi patribus suis, ut traderem eam illis.	2020-04-18	Liber_Iosue
+1100000008	confortare igitur, et esto robustus valde, ut custodias, et facias omnem legem, quam praecepit tibi moyses servus meus: ne declines ab ea ad dexteram vel ad sinistram, ut intelligas cuncta quae agis.	2020-04-18	Liber_Iosue
+1100000009	non recedat volumen legis huius ab ore tuo: sed meditaberis in eo diebus ac noctibus, ut custodias et facias omnia quae scripta sunt in eo: tunc diriges viam tuam, et intelliges eam.	2020-04-18	Liber_Iosue
+1100000010	ecce praecipio tibi: confortare, et esto robustus. 	2020-04-18	Liber_Iosue
+1100000011	noli metuere, et noli timere: quoniam tecum est dominus deus tuus in omnibus ad quaecumque perrexeris.	2020-04-18	Liber_Iosue
+1100000012	praecepitque iosue principibus populi, dicens: transite per medium castrorum, et imperate populo, ac dicite:praeparate vobis cibaria: quoniam post diem tertium transibitis iordanem, et intrabitis ad possidendam terram quam dominus deus vester daturus est vobis.	2020-04-18	Liber_Iosue
+1100000013	rubenitis quoque et gaditis, et dimidiae tribui manasse, ait:mementote sermonis, quem praecepit vobis moyses famulus domini, dicens: dominus deus vester dedit vobis requiem, et omnem terram.	2020-04-18	Liber_Iosue
+1100000014	uxores vestrae, et filii, ac iumenta manebunt in terra, quam tradidit vobis moyses trans iordanem: vos autem transite armati ante fratres vestros, omnes fortes manu, et pugnate pro eis,donec det dominus requiem fratribus vestris sicut et vobis dedit, et possideant ipsi quoque terram quam dominus deus vester daturus est eis: et sic revertimini in terram possessionis vestrae, et habitabitis in ea, quam vobis dedit moyses famulus domini trans iordanem contra solis ortum.	2020-04-18	Liber_Iosue
+1100000015	responderuntque ad iosue, atque dixerunt: omnia quae praecepisti nobis, faciemus: et quocumque miseris, ibimus.	2020-04-18	Liber_Iosue
+1100000016	sicut obedivimus in cunctis moysi, ita obediemus et tibi: tantum sit dominus deus tuus tecum, sicut fuit cum moyse.	2020-04-18	Liber_Iosue
+1100000017	qui contradixerit ori tuo, et non obedierit cunctis sermonibus, quos praeceperis ei, moriatur. 	2020-04-18	Liber_Iosue
+1100000018	tu tantum confortare, et viriliter age.	2020-04-18	Liber_Iosue
+1100000019	caput 2	2020-04-18	Liber_Iosue
+1100000020	misit igitur iosue filius nun de setim duos viros exploratores in abscondito: et dixit eis: ite, et considerate terram, urbemque iericho. 	2020-04-18	Liber_Iosue
+1100000021	qui pergentes ingressi sunt domum mulieris meretricis, nomine rahab, et quieverunt apud eam.	2020-04-18	Liber_Iosue
+1100000022	nuntiatumque est regi iericho, et dictum: ecce viri ingressi sunt huc per noctem de filiis israel, ut explorarent terram.	2020-04-18	Liber_Iosue
+1100000023	misitque rex iericho ad rahab, dicens: educ viros, qui venerunt ad te, et ingressi sunt domum tuam: exploratores quippe sunt, et omnem terram considerare venerunt.	2020-04-18	Liber_Iosue
+1100000024	tollensque mulier viros, abscondit, et ait: fateor, venerunt ad me, sed nesciebam unde essent:cumque porta clauderetur in tenebris, et illi pariter exierunt; nescio quo abierunt: persequimini cito, et comprehendetis eos.	2020-04-18	Liber_Iosue
+1100000025	ipsa autem fecit ascendere viros in solarium domus suae, operuitque eos stipula lini, quae ibi erat.	2020-04-18	Liber_Iosue
+1100000026	hi autem, qui missi fuerant, secuti sunt eos per viam, quae ducit ad vadum iordanis: illisque egressis statim porta clausa est.	2020-04-18	Liber_Iosue
+1100000027	necdum obdormierant qui latebant, et ecce mulier ascendit ad eos, et ait:novi quod dominus tradiderit vobis terram: etenim irruit in nos terror vester, et elanguerunt omnes habitatores terrae.	2020-04-18	Liber_Iosue
+1100000028	audivimus quod siccaverit dominus aquas maris rubri ad vestrum introitum, quando egressi estis ex aegypto: et quae feceritis duobus amorrhaeorum regibus, qui erant trans iordanem, sehon et og, quos interfecistis.	2020-04-18	Liber_Iosue
+1100000029	et haec audientes pertimuimus, et elanguit cor nostrum, nec remansit in nobis spiritus ad introitum vestrum: dominus enim deus vester ipse est deus in caelo sursum et in terra deorsum.	2020-04-18	Liber_Iosue
+1100000030	nunc ergo iurate mihi per dominum, ut quomodo ego misericordiam feci vobiscum, ita et vos faciatis cum domo patris mei: detisque mihi verum signum,ut salvetis patrem meum et matrem, et fratres ac sorores meas, et omnia quae illorum sunt, et eruatis animas nostras a morte.	2020-04-18	Liber_Iosue
+1100000031	qui responderunt ei: anima nostra sit pro vobis in mortem, si tamen non prodideris nos: cumque tradiderit nobis dominus terram, faciemus in te misericordiam et veritatem.	2020-04-18	Liber_Iosue
+1100000032	demisit ergo eos per funem de fenestra: domus enim eius haerebat muro.	2020-04-18	Liber_Iosue
+1100000033	dixitque ad eos: ad montana conscendite, ne forte occurrant vobis revertentes: ibique latitate tribus diebus, donec redeant, et sic ibitis per viam vestram.	2020-04-18	Liber_Iosue
+1100000034	qui dixerunt ad eam: innoxii erimus a iuramento hoc, quo adiurasti nos:si ingredientibus nobis terram, signum fuerit funiculus iste coccineus, et ligaveris eum in fenestra, per quam demisisti nos: et patrem tuum ac matrem, fratresque et omnem cognationem tuam congregaveris in domum tuam.	2020-04-18	Liber_Iosue
+1100000035	qui ostium domus tuae egressus fuerit, sanguis ipsius erit in caput eius, et nos erimus alieni. 	2020-04-18	Liber_Iosue
+1100000036	cunctorum autem sanguis, qui tecum in domo fuerint, redundabit in caput nostrum, si eos aliquis tetigerit.	2020-04-18	Liber_Iosue
+1100000037	quod si nos prodere volueris, et sermonem istum proferre in medium, erimus mundi ab hoc iuramento, quo adiurasti nos.	2020-04-18	Liber_Iosue
+1100000038	et illa respondit: sicut locuti estis, ita fiat: dimittensque eos ut pergerent, appendit funiculum coccineum in fenestra.	2020-04-18	Liber_Iosue
+1100000039	illi vero ambulantes pervenerunt ad montana, et manserunt ibi tres dies, donec reverterentur qui fuerant persecuti: quaerentes enim per omnem viam, non repererunt eos.	2020-04-18	Liber_Iosue
+1100000040	quibus urbem ingressis, reversi sunt, et descenderunt exploratores de monte: et, transmisso iordane, venerunt ad iosue filium nun, narraveruntque ei omnia quae acciderant sibi,atque dixerunt: tradidit dominus omnem terram hanc in manus nostras, et timore prostrati sunt cuncti habitatores eius.	2020-04-18	Liber_Iosue
+1100000041	caput 3	2020-04-18	Liber_Iosue
+1100000042	igitur iosue de nocte consurgens movit castra: egredientesque de setim, venerunt ad iordanem ipse et omnes filii israel, et morati sunt ibi tres dies.	2020-04-18	Liber_Iosue
+1100000043	quibus evolutis transierunt praecones per castrorum medium,et clamare coeperunt: quando videritis arcam foederis domini dei vestri, et sacerdotes stirpis leviticae portantes eam, vos quoque consurgite, et sequimini praecedentes:sitque inter vos et arcam spatium cubitorum duum millium: ut procul videre possitis, et nosse per quam viam ingrediamini: quia prius non ambulastis per eam: et cavete ne appropinquetis ad arcam.	2020-04-18	Liber_Iosue
+1100000044	dixitque iosue ad populum: sanctificamini: cras enim faciet dominus inter vos mirabilia.	2020-04-18	Liber_Iosue
+1100000045	et ait ad sacerdotes: tollite arcam foederis, et praecedite populum. 	2020-04-18	Liber_Iosue
+1100000046	qui iussa complentes, tulerunt, et ambulaverunt ante eos.	2020-04-18	Liber_Iosue
+1100000047	dixitque dominus ad iosue: hodie incipiam exaltare te coram omni israel: ut sciant quod sicut cum moyse fui, ita et tecum sim.	2020-04-18	Liber_Iosue
+1100000048	tu autem praecipe sacerdotibus, qui portant arcam foederis, et dic eis: cum ingressi fueritis partem aquae iordanis, state in ea.	2020-04-18	Liber_Iosue
+1100000049	dixitque iosue ad filios israel: accedite huc, et audite verbum domini dei vestri.	2020-04-18	Liber_Iosue
+1100000050	et rursum: in hoc, inquit, scietis quod dominus deus vivens in medio vestri est, et disperdet in conspectu vestro chananaeum et hethaeum, hevaeum et pherezaeum, gergesaeum quoque et iebusaeum, et amorrhaeum.	2020-04-18	Liber_Iosue
+1100000051	ecce arca foederis domini omnis terrae antecedet vos per iordanem.	2020-04-18	Liber_Iosue
+1100000052	parate duodecim viros de tribubus israel, singulos per singulas tribus.	2020-04-18	Liber_Iosue
+1100000053	et cum posuerint vestigia pedum suorum sacerdotes qui portant arcam domini dei universae terrae in aquis iordanis, aquae quae inferiores sunt, decurrent atque deficient: quae autem desuper veniunt, in una mole consistent.	2020-04-18	Liber_Iosue
+1100000054	igitur egressus est populus de tabernaculis suis, ut transiret iordanem: et sacerdotes, qui portabant arcam foederis, pergebant ante eum.	2020-04-18	Liber_Iosue
+1100000055	ingressisque eis iordanem, et pedibus eorum in parte aquae tinctis (iordanis autem ripas alvei sui tempore messis impleverat),steterunt aquae descendentes in loco uno, et ad instar montis intumescentes apparebant procul, ab urbe quae vocatur adom usque ad locum sarthan: quae autem inferiores erant, in mare solitudinis (quod nunc vocatur mortuum) descenderunt, usquequo omnino deficerent.	2020-04-18	Liber_Iosue
+1100000056	populus autem incedebat contra iericho: et sacerdotes qui portabant arcam foederis domini, stabant super siccam humum in medio iordanis accincti, omnisque populus per arentem alveum transibat.	2020-04-18	Liber_Iosue
+1100000057	caput 4	2020-04-18	Liber_Iosue
+1100000058	quibus transgressis, dixit dominus ad iosue:elige duodecim viros singulos per singulas tribus:et praecipe eis ut tollant de medio iordanis alveo, ubi steterunt pedes sacerdotum, duodecim durissimos lapides, quos ponetis in loco castrorum, ubi fixeritis hac nocte tentoria.	2020-04-18	Liber_Iosue
+1100000059	vocavitque iosue duodecim viros, quos elegerat de filiis israel, singulos de singulis tribubus,et ait ad eos: ite ante arcam domini dei vestri ad iordanis medium, et portate inde singuli singulos lapides in humeris vestris, iuxta numerum filiorum israel,ut sit signum inter vos: et quando interrogaverint vos filii vestri cras, dicentes: quid sibi volunt isti lapides?	2020-04-18	Liber_Iosue
+1100000060	respondebitis eis: defecerunt aquae iordanis ante arcam foederis domini, cum transiret eum: idcirco positi sunt lapides isti in monimentum filiorum israel usque in aeternum.	2020-04-18	Liber_Iosue
+1100000061	fecerunt ergo filii israel sicut praecepit eis iosue, portantes de medio iordanis alveo duodecim lapides, ut dominus ei imperarat, iuxta numerum filiorum israel, usque ad locum in quo castrametati sunt, ibique posuerunt eos.	2020-04-18	Liber_Iosue
+1100000062	alios quoque duodecim lapides posuit iosue in medio iordanis alveo, ubi steterunt sacerdotes qui portabant arcam foederis: et sunt ibi usque in praesentem diem.	2020-04-18	Liber_Iosue
+1100000063	sacerdotes autem qui portabant arcam, stabant in iordanis medio, donec omnia complerentur, quae iosue, ut loqueretur ad populum, praeceperat dominus, et dixerat ei moyses. 	2020-04-18	Liber_Iosue
+1100000064	festinavitque populus, et transiit.	2020-04-18	Liber_Iosue
+1100000065	cumque transissent omnes, transivit et arca domini, sacerdotesque pergebant ante populum.	2020-04-18	Liber_Iosue
+1100000066	filii quoque ruben, et gad, et dimidia tribus manasse, armati praecedebant filios israel, sicut eis praeceperat moyses:et quadraginta pugnatorum millia per turmas, et cuneos, incedebant per plana atque campestria urbis iericho.	2020-04-18	Liber_Iosue
+1100000067	in die illo magnificavit dominus iosue coram omni israel, ut timerent eum, sicut timuerant moysen, dum adviveret.	2020-04-18	Liber_Iosue
+1100000068	dixitque ad eum:praecipe sacerdotibus, qui portant arcam foederis, ut ascendant de iordane.	2020-04-18	Liber_Iosue
+1100000069	qui praecepit eis, dicens: ascendite de iordane.	2020-04-18	Liber_Iosue
+1100000070	cumque ascendissent portantes arcam foederis domini, et siccam humum calcare coepissent, reversae sunt aquae in alveum suum, et fluebant sicut ante consueverant.	2020-04-18	Liber_Iosue
+1100000071	populus autem ascendit de iordane decimo die mensis primi, et castrametati sunt in galgalis contra orientalem plagam urbis iericho.	2020-04-18	Liber_Iosue
+1100000072	duodecim quoque lapides, quos de iordanis alveo sumpserant, posuit iosue in galgalis,et dixit ad filios israel: quando interrogaverint filii vestri cras patres suos, et dixerint eis: quid sibi volunt lapides isti?	2020-04-18	Liber_Iosue
+1100000073	docebitis eos, atque dicetis: per arentem alveum transivit israel iordanem istum,siccante domino deo vestro aquas eius in conspectu vestro, donec transiretis,sicut fecerat prius in mari rubro, quod siccavit donec transiremus:ut discant omnes terrarum populi fortissimam domini manum, ut et vos timeatis dominum deum vestrum omni tempore.	2020-04-18	Liber_Iosue
+1100000074	caput 5	2020-04-18	Liber_Iosue
+1100000075	postquam ergo audierunt omnes reges amorrhaeorum, qui habitabant trans iordanem ad occidentalem plagam, et cuncti reges chanaan, qui propinqua possidebant magni maris loca, quod siccasset dominus fluenta iordanis coram filiis israel donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, timentium introitum filiorum israel.	2020-04-18	Liber_Iosue
+1100000076	eo tempore ait dominus ad iosue: fac tibi cultros lapideos, et circumcide secundo filios israel.	2020-04-18	Liber_Iosue
+1100000077	fecit quod iusserat dominus, et circumcidit filios israel in colle praeputiorum.	2020-04-18	Liber_Iosue
+1100000078	haec autem causa est secundae circumcisionis: omnis populus, qui egressus est de aegypto generis masculini, universi bellatores viri, mortui sunt in deserto per longissimos viae circuitus,qui omnes circumcisi erant. 	2020-04-18	Liber_Iosue
+1100000079	populus autem qui natus est in deserto,per quadraginta annos itineris latissimae solitudinis incircumcisus fuit: donec consumerentur qui non audierant vocem domini, et quibus ante iuraverat ut non ostenderet eis terram lacte et melle manantem.	2020-04-18	Liber_Iosue
+1100000080	horum filii in locum successerunt patrum, et circumcisi sunt a iosue: quia sicut nati fuerant, in praeputio erant, nec eos in via aliquis circumciderat.	2020-04-18	Liber_Iosue
+1100000081	postquam autem omnes circumcisi sunt, manserunt in eodem castrorum loco, donec sanarentur.	2020-04-18	Liber_Iosue
+1100000082	dixitque dominus ad iosue: hodie abstuli opprobrium aegypti a vobis. 	2020-04-18	Liber_Iosue
+1100000083	vocatumque est nomen loci illius galgala, usque in praesentem diem.	2020-04-18	Liber_Iosue
+1100000084	manseruntque filii israel in galgalis, et fecerunt phase quartadecima die mensis ad vesperum in campestribus iericho:et comederunt de frugibus terrae die altero, azymos panes, et polentam eiusdem anni.	2020-04-18	Liber_Iosue
+1100000085	defecitque manna postquam comederunt de frugibus terrae, nec usi sunt ultra cibo illo filii israel, sed comederunt de frugibus praesentis anni terrae chanaan.	2020-04-18	Liber_Iosue
+1100000086	cum autem esset iosue in agro urbis iericho, levavit oculos, et vidit virum stantem contra se, evaginatum tenentem gladium: perrexitque ad eum, et ait: noster es, an adversariorum?	2020-04-18	Liber_Iosue
+1100000087	qui respondit: nequaquam: sed sum princeps exercitus domini, et nunc venio.	2020-04-18	Liber_Iosue
+1100000088	cecidit iosue pronus in terram, et adorans ait: quid dominus meus loquitur ad servum suum?	2020-04-18	Liber_Iosue
+1100000089	solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. 	2020-04-18	Liber_Iosue
+1100000090	fecitque iosue ut sibi fuerat imperatum.	2020-04-18	Liber_Iosue
+1100000091	caput 6	2020-04-18	Liber_Iosue
+1100000092	iericho autem clausa erat atque munita, timore filiorum israel, et nullus egredi audebat aut ingredi.	2020-04-18	Liber_Iosue
+1100000093	dixitque dominus ad iosue: ecce dedi in manu tua iericho, et regem eius, omnesque fortes viros.	2020-04-18	Liber_Iosue
+1100000094	circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus.	2020-04-18	Liber_Iosue
+1100000095	septimo autem die, sacerdotes tollant septem buccinas, quarum usus est in iubilaeo, et praecedant arcam foederis: septiesque circuibitis civitatem, et sacerdotes clangent buccinis.	2020-04-18	Liber_Iosue
+1100000096	cumque insonuerit vox tubae longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint.	2020-04-18	Liber_Iosue
+1100000097	vocavit ergo iosue filius nun sacerdotes, et dixit ad eos: tollite arcam foederis: et septem alii sacerdotes tollant septem iubilaeorum buccinas, et incedant ante arcam domini.	2020-04-18	Liber_Iosue
+1100000098	ad populum quoque ait: ite, et circuite civitatem, armati, praecedentes arcam domini.	2020-04-18	Liber_Iosue
+1100000099	cumque iosue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam foederis domini,omnisque praecederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant.	2020-04-18	Liber_Iosue
+1100000100	praeceperat autem iosue populo, dicens: non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur, donec veniat dies in quo dicam vobis: clamate, et vociferamini.	2020-04-18	Liber_Iosue
+1100000101	circuivit ergo arca domini civitatem semel per diem, et reversa in castra mansit ibi.	2020-04-18	Liber_Iosue
+1100000102	igitur iosue de nocte consurgente, tulerunt sacerdotes arcam domini,et septem ex eis septem buccinas, quarum in iubilaeo usus est: praecedebantque arcam domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat.	2020-04-18	Liber_Iosue
+1100000103	circuieruntque civitatem secundo die semel, et reversi sunt in castra. 	2020-04-18	Liber_Iosue
+1100000104	sic fecerunt sex diebus.	2020-04-18	Liber_Iosue
+1100000105	dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies.	2020-04-18	Liber_Iosue
+1100000106	cumque septimo circuitu clangerent buccinis sacerdotes, dixit iosue ad omnem israel: vociferamini: tradidit enim vobis dominus civitatem.	2020-04-18	Liber_Iosue
+1100000107	sitque civitas haec anathema, et omnia quae in ea sunt, domino: sola rahab meretrix vivat, cum universis qui cum ea in domo sunt: abscondit enim nuntios quos direximus.	2020-04-18	Liber_Iosue
+1100000108	vos autem cavete ne de his, quae praecepta sunt, quippiam contingatis, et sitis praevaricationis rei, et omnia castra israel sub peccato sint atque turbentur.	2020-04-18	Liber_Iosue
+1100000109	quidquid autem auri et argenti fuerit, et vasorum aeneorum ac ferri, domino consecretur, repositum in thesauris eius.	2020-04-18	Liber_Iosue
+1100000110	igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum qui contra se erat: ceperuntque civitatem,et interfecerunt omnia quae erant in ea, a viro usque ad mulierem, ab infante usque ad senem. 	2020-04-18	Liber_Iosue
+1100000111	boves quoque et oves et asinos in ore gladii percusserunt.	2020-04-18	Liber_Iosue
+1100000112	duobus autem viris, qui exploratores missi fuerant, dixit iosue: ingredimini domum mulieris meretricis, et producite eam, et omnia quae illius sunt, sicut illi iuramento firmastis.	2020-04-18	Liber_Iosue
+1100000113	ingressique iuvenes eduxerunt rahab, et parentes eius, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra israel manere fecerunt.	2020-04-18	Liber_Iosue
+1100000114	urbem autem, et omnia quae erant in ea, succenderunt, absque auro et argento, et vasis aeneis, ac ferro, quae in aerarium domini consecrarunt.	2020-04-18	Liber_Iosue
+1100000115	rahab vero meretricem, et domum patris eius, et omnia quae habebat, fecit iosue vivere, et habitaverunt in medio israel, usque in praesentem diem: eo quod absconderit nuntios, quos miserat ut explorarent iericho. 	2020-04-18	Liber_Iosue
+1100000116	in tempore illo, imprecatus est iosue, dicens:maledictus vir coram domino, qui suscitaverit et aedificaverit civitatem iericho. 	2020-04-18	Liber_Iosue
+1100000117	in primogenito suo fundamenta illius iaciat, et in novissimo liberorum ponat portas eius.	2020-04-18	Liber_Iosue
+1100000118	fuit ergo dominus cum iosue, et nomen eius vulgatum est in omni terra.	2020-04-18	Liber_Iosue
+1100000119	caput 7	2020-04-18	Liber_Iosue
+1100000120	filii autem israel praevaricati sunt mandatum, et usurpaverunt de anathemate. 	2020-04-18	Liber_Iosue
+1100000121	nam achan filius charmi filii zabdi filii zare de tribu iuda tulit aliquid de anathemate: iratusque est dominus contra filios israel.	2020-04-18	Liber_Iosue
+1100000122	cumque mitteret iosue de iericho viros contra hai, quae est iuxta bethaven, ad orientalem plagam oppidi bethel, dixit eis: ascendite, et explorate terram. 	2020-04-18	Liber_Iosue
+1100000123	qui praecepta complentes exploraverunt hai.	2020-04-18	Liber_Iosue
+1100000124	et reversi dixerunt ei: non ascendat omnis populus, sed duo vel tria millia virorum pergant, et deleant civitatem: quare omnis populus frustra vexabitur contra hostes paucissimos?	2020-04-18	Liber_Iosue
+1100000125	ascenderunt ergo tria millia pugnatorum. 	2020-04-18	Liber_Iosue
+1100000126	qui statim terga vertentes,percussi sunt a viris urbis hai, et corruerunt ex eis triginta sex homines: persecutique sunt eos adversarii de porta usque ad sabarim, et ceciderunt per prona fugientes: pertimuitque cor populi, et instar aquae liquefactum est.	2020-04-18	Liber_Iosue
+1100000127	iosue vero scidit vestimenta sua, et pronus cecidit in terram coram arca domini usque ad vesperam, tam ipse quam omnes senes israel: miseruntque pulverem super capita sua,et dixit iosue: heu domine deus, quid voluisti traducere populum istum iordanem fluvium, ut traderes nos in manus amorrhaei, et perderes? 	2020-04-18	Liber_Iosue
+1100000128	utinam ut coepimus, mansissemus trans iordanem.	2020-04-18	Liber_Iosue
+1100000129	mi domine deus, quid dicam, videns israelem hostibus suis terga vertentem?	2020-04-18	Liber_Iosue
+1100000130	audient chananaei, et omnes habitatores terrae, et pariter conglobati circumdabunt nos, atque delebunt nomen nostrum de terra: et quid facies magno nomini tuo?	2020-04-18	Liber_Iosue
+1100000131	dixitque dominus ad iosue: surge: cur iaces pronus in terra?	2020-04-18	Liber_Iosue
+1100000132	peccavit israel, et praevaricatus est pactum meum: tuleruntque de anathemate, et furati sunt atque mentiti, et absconderunt inter vasa sua.	2020-04-18	Liber_Iosue
+1100000133	nec poterit israel stare ante hostes suos, eosque fugiet: quia pollutus est anathemate. 	2020-04-18	Liber_Iosue
+1100000134	non ero ultra vobiscum, donec conteratis eum qui huius sceleris reus est.	2020-04-18	Liber_Iosue
+1100000135	surge, sanctifica populum, et dic eis: sanctificamini in crastinum: haec enim dicit dominus deus israel: anathema in medio tui est, israel: non poteris stare coram hostibus tuis, donec deleatur ex te qui hoc contaminatus est scelere.	2020-04-18	Liber_Iosue
+1100000136	accedetisque mane singuli per tribus vestras: et quamcumque tribum sors invenerit, accedet per cognationes suas, et cognatio per domos, domusque per viros.	2020-04-18	Liber_Iosue
+1100000137	et quicumque ille in hoc facinore fuerit deprehensus, comburetur igni cum omni substantia sua: quoniam praevaricatus est pactum domini, et fecit nefas in israel.	2020-04-18	Liber_Iosue
+1100000138	surgens itaque iosue mane, applicuit israel per tribus suas, et inventa est tribus iuda.	2020-04-18	Liber_Iosue
+1100000139	quae cum iuxta familias suas esset oblata, inventa est familia zare. 	2020-04-18	Liber_Iosue
+1100000140	illam quoque per domos offerens, reperit zabdi:cuius domum in singulos dividens viros, invenit achan filium charmi filii zabdi filii zare de tribu iuda.	2020-04-18	Liber_Iosue
+1100000141	et ait iosue ad achan: fili mi, da gloriam domino deo israel, et confitere, atque indica mihi quid feceris, ne abscondas.	2020-04-18	Liber_Iosue
+1100000142	responditque achan iosue, et dixit ei: vere ego peccavi domino deo israel, et sic et sic feci.	2020-04-18	Liber_Iosue
+1100000143	vidi enim inter spolia pallium coccineum valde bonum, et ducentos siclos argenti, regulamque auream quinquaginta siclorum: et concupiscens abstuli, et abscondi in terra contra medium tabernaculi mei, argentumque fossa humo operui.	2020-04-18	Liber_Iosue
+1100000144	misit ergo iosue ministros: qui currentes ad tabernaculum illius, repererunt cuncta abscondita in eodem loco, et argentum simul.	2020-04-18	Liber_Iosue
+1100000145	auferentesque de tentorio, tulerunt ea ad iosue, et ad omnes filios israel, proieceruntque ante dominum.	2020-04-18	Liber_Iosue
+1100000146	tollens itaque iosue achan filium zare, argentumque et pallium, et auream regulam, filios quoque et filias eius, boves et asinos et oves, ipsumque tabernaculum, et cunctam supellectilem (et omnis israel cum eo), duxerunt eos ad vallem achor:ubi dixit iosue: quia turbasti nos, exturbet te dominus in die hac. 	2020-04-18	Liber_Iosue
+1100000147	lapidavitque eum omnis israel: et cuncta quae illius erant, igne consumpta sunt.	2020-04-18	Liber_Iosue
+1100000148	congregaveruntque super eum acervum magnum lapidum, qui permanet usque in praesentem diem. 	2020-04-18	Liber_Iosue
+1100000149	et aversus est furor domini ab eis. 	2020-04-18	Liber_Iosue
+1100000150	vocatumque est nomen loci illius, vallis achor, usque hodie.	2020-04-18	Liber_Iosue
+1100000151	caput 8	2020-04-18	Liber_Iosue
+1100000152	dixit autem dominus ad iosue: ne timeas, neque formides: tolle tecum omnem multitudinem pugnatorum, et consurgens ascende in oppidum hai. 	2020-04-18	Liber_Iosue
+1100000153	ecce tradidi in manu tua regem eius et populum, urbemque et terram.	2020-04-18	Liber_Iosue
+1100000154	faciesque urbi hai, et regi eius, sicut fecisti iericho, et regi illius: praedam vero, et omnia animantia diripietis vobis: pone insidias urbi post eam.	2020-04-18	Liber_Iosue
+1100000155	surrexitque iosue, et omnis exercitus bellatorum cum eo, ut ascenderent in hai: et electa triginta millia virorum fortium misit nocte,praecepitque eis, dicens: ponite insidias post civitatem, nec longius recedatis: et eritis omnes parati.	2020-04-18	Liber_Iosue
+1100000156	ego autem, et reliqua multitudo, quae mecum est, accedemus ex adverso contra urbem. 	2020-04-18	Liber_Iosue
+1100000157	cumque exierint contra nos, sicut ante fecimus, fugiemus, et terga vertemus,donec persequentes ab urbe longius protrahantur: putabunt enim nos fugere sicut prius.	2020-04-18	Liber_Iosue
+1100000158	nobis ergo fugientibus, et illis persequentibus, consurgetis de insidiis, et vastabitis civitatem: tradetque eam dominus deus vester in manus vestras.	2020-04-18	Liber_Iosue
+1100000159	cumque ceperitis, succendite eam, et sic omnia facietis, ut iussi.	2020-04-18	Liber_Iosue
+1100000160	dimisitque eos, et perrexerunt ad locum insidiarum, sederuntque inter bethel et hai, ad occidentalem plagam urbis hai: iosue autem nocte illa in medio mansit populi,surgensque diluculo recensuit socios, et ascendit cum senioribus in fronte exercitus, vallatus auxilio pugnatorum.	2020-04-18	Liber_Iosue
+1100000161	cumque venissent et ascendissent ex adverso civitatis, steterunt ad septentrionalem urbis plagam, inter quam et eos erat vallis media.	2020-04-18	Liber_Iosue
+1100000162	quinque autem millia viros elegerat, et posuerat in insidiis inter bethel et hai ex occidentali parte eiusdem civitatis:omnis vero reliquus exercitus ad aquilonem aciem dirigebat, ita ut novissimi illius multitudinis occidentalem plagam urbis attingerent. 	2020-04-18	Liber_Iosue
+1100000163	abiit ergo iosue nocte illa, et stetit in vallis medio.	2020-04-18	Liber_Iosue
+1100000164	quod cum vidisset rex hai, festinavit mane, et egressus est cum omni exercitu civitatis, direxitque aciem contra desertum, ignorans quod post tergum laterent insidiae.	2020-04-18	Liber_Iosue
+1100000165	iosue vero et omnis israel cesserunt loco, simulantes metum, et fugientes per solitudinis viam.	2020-04-18	Liber_Iosue
+1100000166	at illi vociferantes pariter, et se mutuo cohortantes, persecuti sunt eos. 	2020-04-18	Liber_Iosue
+1100000167	cumque recessissent a civitate,et ne unus quidem in urbe hai et bethel remansisset qui non persequeretur israel (sicut eruperant aperta oppida relinquentes),dixit dominus ad iosue: leva clypeum, qui in manu tua est, contra urbem hai, quoniam tibi tradam eam.	2020-04-18	Liber_Iosue
+1100000168	cumque elevasset clypeum ex adverso civitatis, insidiae, quae latebant, surrexerunt confestim: et pergentes ad civitatem, ceperunt, et succenderunt eam.	2020-04-18	Liber_Iosue
+1100000169	viri autem civitatis, qui persequebantur iosue, respicientes et videntes fumum urbis ad caelum usque conscendere, non potuerunt ultra huc illucque diffugere: praesertim cum hi qui simulaverant fugam, et tendebant ad solitudinem, contra persequentes fortissime restitissent.	2020-04-18	Liber_Iosue
+1100000170	vidensque iosue et omnis israel quod capta esset civitas, et fumus urbis ascenderet, reversus percussit viros hai.	2020-04-18	Liber_Iosue
+1100000171	siquidem et illi qui ceperant et succenderant civitatem, egressi ex urbe contra suos, medios hostium ferire coeperunt. 	2020-04-18	Liber_Iosue
+1100000172	cum ergo ex utraque parte adversarii caederentur, ita ut nullus de tanta multitudine salvaretur,regem quoque urbis hai apprehenderunt viventem, et obtulerunt iosue.	2020-04-18	Liber_Iosue
+1100000173	igitur omnibus interfectis, qui israelem ad deserta tendentem fuerant persecuti, et in eodem loco gladio corruentibus, reversi filii israel percusserunt civitatem.	2020-04-18	Liber_Iosue
+1100000174	erant autem qui in eodem die conciderant a viro usque ad mulierem, duodecim millia hominum, omnes urbis hai.	2020-04-18	Liber_Iosue
+1100000175	iosue vero non contraxit manum, quam in sublime porrexerat, tenens clypeum donec interficerentur omnes habitatores hai.	2020-04-18	Liber_Iosue
+1100000176	iumenta autem et praedam civitatis diviserunt sibi filii israel, sicut praeceperat dominus iosue.	2020-04-18	Liber_Iosue
+1100000177	qui succendit urbem, et fecit eam tumulum sempiternum:regem quoque eius suspendit in patibulo usque ad vesperam et solis occasum. 	2020-04-18	Liber_Iosue
+1100000178	praecepitque iosue, et deposuerunt cadaver eius de cruce: proieceruntque in ipso introitu civitatis, congesto super eum magno acervo lapidum, qui permanet usque in praesentem diem.	2020-04-18	Liber_Iosue
+1100000179	tunc aedificavit iosue altare domino deo israel in monte hebal,sicut praeceperat moyses famulus domini filiis israel, et scriptum est in volumine legis moysi: altare vero de lapidibus impolitis, quos ferrum non tetigit: et obtulit super eo holocausta domino, immolavitque pacificas victimas.	2020-04-18	Liber_Iosue
+1100000180	et scripsit super lapides deuteronomium legis moysi, quod ille digesserat coram filiis israel.	2020-04-18	Liber_Iosue
+1100000181	omnis autem populus, et maiores natu, ducesque ac iudices, stabant ex utraque parte arcae, in conspectu sacerdotum qui portabant arcam foederis domini, ut advena, ita et indigena. 	2020-04-18	Liber_Iosue
+1100000182	media pars eorum iuxta montem garizim, et media iuxta montem hebal, sicut praeceperat moyses famulus domini. 	2020-04-18	Liber_Iosue
+1100000183	et primum quidem benedixit populo israel.	2020-04-18	Liber_Iosue
+1100000184	post haec legit omnia verba benedictionis et maledictionis, et cuncta quae scripta erant in legis volumine.	2020-04-18	Liber_Iosue
+1100000185	nihil ex his quae moyses iusserat, reliquit intactum, sed universa replicavit coram omni multitudine israel, mulieribus ac parvulis, et advenis qui inter eos morabantur.	2020-04-18	Liber_Iosue
+1100000186	caput 9	2020-04-18	Liber_Iosue
+1100000187	quibus auditis, cuncti reges trans iordanem, qui versabantur in montanis et campestribus, in maritimis ac littore magni maris, hi quoque qui habitabant iuxta libanum, hethaeus et amorrhaeus, chananaeus, pherezaeus, et hevaeus, et iebusaeus,congregati sunt pariter, ut pugnarent contra iosue et israel uno animo, eademque sententia.	2020-04-18	Liber_Iosue
+1100000188	at hi qui habitabant in gabaon, audientes cuncta quae fecerat iosue iericho, et hai,et callide cogitantes, tulerunt sibi cibaria, saccos veteres asinis imponentes, et utres vinarios scissos atque consutos,calceamentaque perantiqua quae ad indicium vetustatis pittaciis consuta erant, induti veteribus vestimentis: panes quoque, quos portabant ob viaticum, duri erant, et in frustra comminuti:perrexeruntque ad iosue, qui tunc morabatur in castris galgalae, et dixerunt ei, atque simul omni israeli: de terra longinqua venimus, pacem vobiscum facere cupientes. 	2020-04-18	Liber_Iosue
+1100000189	responderuntque viri israel ad eos, atque dixerunt:ne forte in terra, quae nobis sorte debetur, habitetis, et non possimus foedus inire vobiscum.	2020-04-18	Liber_Iosue
+1100000190	at illi ad iosue: servi, inquiunt, tui sumus. 	2020-04-18	Liber_Iosue
+1100000191	quibus iosue ait: quinam estis vos? 	2020-04-18	Liber_Iosue
+1100000192	et unde venistis?	2020-04-18	Liber_Iosue
+1100000193	responderunt: de terra longinqua valde venerunt servi tui in nomine domini dei tui. 	2020-04-18	Liber_Iosue
+1100000194	audivimus enim famam potentiae eius, cuncta quae fecit in aegypto,et duobus regibus amorrhaeorum qui fuerunt trans iordanem, sehon regi hesebon, et og regi basan, qui erat in astaroth:dixeruntque nobis seniores, et omnes habitatores terrae nostrae: tollite in manibus cibaria ob longissimam viam, et occurrite eis, et dicite: servi vestri sumus: foedus inite nobiscum.	2020-04-18	Liber_Iosue
+1100000195	en panes quando egressi sumus de domibus nostris, ut veniremus ad vos, calidos sumpsimus; nunc sicci facti sunt, et vetustate nimia comminuti.	2020-04-18	Liber_Iosue
+1100000196	utres vini novos implevimus; nunc rupti sunt et soluti. 	2020-04-18	Liber_Iosue
+1100000197	vestes et calceamenta quibus induimur, et quae habemus in pedibus, ob longitudinem longioris viae trita sunt, et pene consumpta.	2020-04-18	Liber_Iosue
+1100000198	susceperunt igitur de cibariis eorum, et os domini non interrogaverunt.	2020-04-18	Liber_Iosue
+1100000199	fecitque iosue cum eis pacem, et inito foedere pollicitus est quod non occiderentur: principes quoque multitudinis iuraverunt eis.	2020-04-18	Liber_Iosue
+1100000200	post dies autem tres initi foederis, audierunt quod in vicino habitarent, et inter eos futuri essent.	2020-04-18	Liber_Iosue
+1100000201	moveruntque castra filii israel, et venerunt in civitates eorum die tertio, quarum haec vocabula sunt: gabaon, et caphira, et beroth, et cariathiarim.	2020-04-18	Liber_Iosue
+1100000202	et non percusserunt eos, eo quod iurassent eis principes multitudinis in nomine domini dei israel. 	2020-04-18	Liber_Iosue
+1100000203	murmuravit itaque omne vulgus contra principes.	2020-04-18	Liber_Iosue
+1100000204	qui responderunt eis: iuravimus illis in nomine domini dei israel, et idcirco non possumus eos contingere.	2020-04-18	Liber_Iosue
+1100000205	sed hoc faciemus eis: reserventur quidem ut vivant, ne contra nos ira domini concitetur, si peieraverimus:sed sic vivant, ut in usus universae multitudinis ligna caedant, aquasque comportent. 	2020-04-18	Liber_Iosue
+1100000206	quibus haec loquentibus,vocavit gabaonitas iosue, et dixit eis: cur nos decipere fraude voluistis, ut diceretis: procul valde habitamus a vobis, cum in medio nostri sitis?	2020-04-18	Liber_Iosue
+1100000207	itaque sub maledictione eritis, et non deficiet de stirpe vestra ligna caedens, aquasque comportans in domum dei mei.	2020-04-18	Liber_Iosue
+1100000208	qui responderunt: nuntiatum est nobis servis tuis, quod promisisset dominus deus tuus moysi servo suo ut traderet vobis omnem terram, et disperderet cunctos habitatores eius. 	2020-04-18	Liber_Iosue
+1100000209	timuimus igitur valde, et providimus animabus nostris, vestro terrore compulsi, et hoc consilium inivimus.	2020-04-18	Liber_Iosue
+1100000210	nunc autem in manu tua sumus: quod tibi bonum et rectum videtur, fac nobis.	2020-04-18	Liber_Iosue
+1100000211	fecit ergo iosue ut dixerat, et liberavit eos de manu filiorum israel, ut non occiderentur.	2020-04-18	Liber_Iosue
+1100000212	decrevitque in illo die eos esse in ministerio cuncti populi, et altaris domini, caedentes ligna, et aquas comportantes, usque in praesens tempus, in loco quem dominus elegisset.	2020-04-18	Liber_Iosue
+1100000213	caput 10	2020-04-18	Liber_Iosue
+1100000214	quae cum audisset adonisedec rex ierusalem, quod scilicet cepisset iosue hai, et subvertisset eam (sicut enim fecerat iericho et regi eius, sic fecit hai et regi illius), et quod transfugissent gabaonitae ad israel, et essent foederati eorum,timuit valde. 	2020-04-18	Liber_Iosue
+1100000215	urbs enim magna erat gabaon, et una civitatum regalium, et maior oppido hai, omnesque bellatores eius fortissimi.	2020-04-18	Liber_Iosue
+1100000216	misit ergo adonisedec rex ierusalem ad oham regem hebron, et ad pharam regem ierimoth, ad iaphia quoque regem lachis, et ad dabir regem eglon, dicens:ad me ascendite, et ferte praesidium, ut expugnemus gabaon, quare transfugerit ad iosue, et ad filios israel.	2020-04-18	Liber_Iosue
+1100000217	congregati igitur ascenderunt quinque reges amorrhaeorum: rex ierusalem, rex hebron, rex ierimoth, rex lachis, rex eglon, simul cum exercitibus suis: et castrametati sunt circa gabaon, oppugnantes eam.	2020-04-18	Liber_Iosue
+1100000218	habitatores autem gabaon urbis obsessae miserunt ad iosue, qui tunc morabatur in castris apud galgalam, et dixerunt ei: ne retrahas manus tuas ab auxilio servorum tuorum: ascende cito, et libera nos, ferque praesidium: convenerunt enim adversum nos omnes reges amorrhaeorum, qui habitant in montanis.	2020-04-18	Liber_Iosue
+1100000219	ascenditque iosue de galgalis, et omnis exercitus bellatorum cum eo, viri fortissimi.	2020-04-18	Liber_Iosue
+1100000220	dixitque dominus ad iosue: ne timeas eos: in manus enim tuas tradidi illos: nullus ex eis tibi resistere poterit.	2020-04-18	Liber_Iosue
+1100000221	irruit itaque iosue super eos repente, tota nocte ascendens de galgalis.	2020-04-18	Liber_Iosue
+1100000222	et conturbavit eos dominus a facie israel: contrivitque plaga magna in gabaon, ac persecutus est eos per viam ascensus bethoron, et percussit usque azeca et maceda.	2020-04-18	Liber_Iosue
+1100000223	cumque fugerent filios israel, et essent in descensu bethoron, dominus misit super eos lapides magnos de caelo usque ad azeca: et mortui sunt multo plures lapidibus grandinis, quam quos gladio percusserant filii israel.	2020-04-18	Liber_Iosue
+1100000224	tunc locutus est iosue domino, in die qua tradidit amorrhaeum in conspectu filiorum israel, dixitque coram eis:	2020-04-18	Liber_Iosue
+1100000225	sol, contra gabaon ne movearis,	2020-04-18	Liber_Iosue
+1100000226	et luna contra vallem aialon.	2020-04-18	Liber_Iosue
+1100000227	steteruntque sol et luna,	2020-04-18	Liber_Iosue
+1100000228	donec ulcisceretur se gens de inimicis suis.	2020-04-18	Liber_Iosue
+1100000229	nonne scriptum est hoc in libro iustorum? 	2020-04-18	Liber_Iosue
+1100000230	stetit itaque sol in medio caeli, et non festinavit occumbere spatio unius diei.	2020-04-18	Liber_Iosue
+1100000231	non fuit antea nec postea tam longa dies, obediente domino voci hominis, et pugnante pro israel.	2020-04-18	Liber_Iosue
+1100000232	reversusque est iosue cum omni israel in castra galgalae.	2020-04-18	Liber_Iosue
+1100000233	fugerant enim quinque reges et se absconderant in spelunca urbis maceda.	2020-04-18	Liber_Iosue
+1100000234	nuntiatumque est iosue quod inventi essent quinque reges latentes in spelunca urbis maceda.	2020-04-18	Liber_Iosue
+1100000235	qui praecepit sociis, et ait: volvite saxa ingentia ad os speluncae, et ponite viros industrios, qui clausos custodiant:vos autem nolite stare, sed persequimini hostes, et extremos quosque fugientium caedite: nec dimittatis eos urbium suarum intrare praesidia, quos tradidit dominus deus in manus vestras.	2020-04-18	Liber_Iosue
+1100000236	caesis ergo adversariis plaga magna, et usque ad internecionem pene consumptis, hi qui israel effugere potuerunt, ingressi sunt civitates munitas.	2020-04-18	Liber_Iosue
+1100000237	reversusque est omnis exercitus ad iosue in maceda, ubi tunc erant castra, sani et integro numero: nullusque contra filios israel mutire ausus est.	2020-04-18	Liber_Iosue
+1100000238	praecepitque iosue, dicens: aperite os speluncae, et producite ad me quinque reges, qui in ea latitant.	2020-04-18	Liber_Iosue
+1100000239	feceruntque ministri ut sibi fuerat imperatum: et eduxerunt ad eum quinque reges de spelunca, regem ierusalem, regem hebron, regem ierimoth, regem lachis, regem eglon.	2020-04-18	Liber_Iosue
+1100000240	cumque educti essent ad eum, vocavit omnes viros israel, et ait ad principes exercitus qui secum erant: ite, et ponite pedes super colla regum istorum. 	2020-04-18	Liber_Iosue
+1100000241	qui cum perrexissent, et subiectorum colla pedibus calcarent,rursum ait ad eos: nolite timere, nec paveatis: confortamini, et estote robusti: sic enim faciet dominus cunctis hostibus vestris, adversum quos dimicatis.	2020-04-18	Liber_Iosue
+1100000242	percussitque iosue, et interfecit eos, atque suspendit super quinque stipites: fueruntque suspensi usque ad vesperum.	2020-04-18	Liber_Iosue
+1100000243	cumque occumberet sol, praecepit sociis ut deponerent eos de patibulis. 	2020-04-18	Liber_Iosue
+1100000244	qui depositos proiecerunt in speluncam in qua latuerant, et posuerunt super os eius saxa ingentia, quae permanent usque in praesens.	2020-04-18	Liber_Iosue
+1100000245	eodem quoque die, macedam cepit iosue, et percussit eam in ore gladii, regemque illius interfecit, et omnes habitatores eius: non dimisit in ea saltem parvas reliquias. 	2020-04-18	Liber_Iosue
+1100000246	fecitque regi maceda sicut fecerat regi iericho.	2020-04-18	Liber_Iosue
+1100000247	transivit autem cum omni israel de maceda in lebna, et pugnabat contra eam:quam tradidit dominus cum rege suo in manus israel: percusseruntque urbem in ore gladii, et omnes habitatores eius: non dimiserunt in ea ullas reliquias. 	2020-04-18	Liber_Iosue
+1100000248	feceruntque regi lebna sicut fecerant regi iericho.	2020-04-18	Liber_Iosue
+1100000249	de lebna transivit in lachis cum omni israel: et exercitu per gyrum disposito, oppugnabat eam.	2020-04-18	Liber_Iosue
+1100000250	tradiditque dominus lachis in manus israel, et cepit eam die altero, atque percussit in ore gladii, omnemque animam quae fuerat in ea, sicut fecerat lebna.	2020-04-18	Liber_Iosue
+1100000251	eo tempore ascendit horam rex gazer, ut auxiliaretur lachis: quem percussit iosue cum omni populo eius usque ad internecionem.	2020-04-18	Liber_Iosue
+1100000252	transivitque de lachis in eglon, et circumdedit,atque expugnavit eam eadem die: percussitque in ore gladii omnes animas quae erant in ea, iuxta omnia quae fecerat lachis.	2020-04-18	Liber_Iosue
+1100000253	ascendit quoque cum omni israel de eglon in hebron, et pugnavit contra eam:cepit eam, et percussit in ore gladii, regem quoque eius, et omnia oppida regionis illius, universasque animas quae in ea fuerant commoratae: non reliquit in ea ullas reliquias: sicut fecerat eglon, sic fecit et hebron, cuncta quae in ea reperit consumens gladio.	2020-04-18	Liber_Iosue
+1100000254	inde reversus in dabir,cepit eam atque vastavit: regem quoque eius atque omnia per circuitum oppida percussit in ore gladii: non dimisit in ea ullas reliquias: sicut fecerat hebron et lebna et regibus earum, sic fecit dabir et regi illius.	2020-04-18	Liber_Iosue
+1100000255	percussit itaque iosue omnem terram montanam et meridianam atque campestrem, et asedoth, cum regibus suis: non dimisit in ea ullas reliquias, sed omne quod spirare poterat interfecit, sicut praeceperat ei dominus deus israel,a cadesbarne usque gazam. 	2020-04-18	Liber_Iosue
+1100000256	omnem terram gosen usque gabaon,universosque reges, et regiones eorum uno impetu cepit atque vastavit: dominus enim deus israel pugnavit pro eo.	2020-04-18	Liber_Iosue
+1100000257	reversusque est cum omni israel ad locum castrorum in galgala.	2020-04-18	Liber_Iosue
+1100000258	caput 11	2020-04-18	Liber_Iosue
+1100000259	quae cum audisset iabin rex asor, misit ad iobab regem madon, et ad regem semeron, atque ad regem achsaph:ad reges quoque aquilonis, qui habitabant in montanis et in planitie contra meridiem ceneroth, in campestribus quoque et in regionibus dor iuxta mare:chananaeum quoque ab oriente et occidente, et amorrhaeum atque hethaeum ac pherezaeum et iebusaeum in montanis: hevaeum quoque qui habitabat ad radices hermon in terra maspha.	2020-04-18	Liber_Iosue
+1100000260	egressique sunt omnes cum turmis suis, populus multus nimis sicut arena quae est in littore maris, equi quoque et currus immensae multitudinis.	2020-04-18	Liber_Iosue
+1100000261	conveneruntque omnes reges isti in unum ad aquas merom, ut pugnarent contra israel.	2020-04-18	Liber_Iosue
+1100000262	dixitque dominus ad iosue: ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu israel: equos eorum subnervabis, et currus igne combures.	2020-04-18	Liber_Iosue
+1100000263	venitque iosue, et omnis exercitus cum eo, adversus illos ad aquas merom subito, et irruerunt super eos,tradiditque illos dominus in manus israel. 	2020-04-18	Liber_Iosue
+1100000264	qui percusserunt eos, et persecuti sunt usque ad sidonem magnam, et aquas maserephoth, campumque masphe, qui est ad orientalem illius partem. 	2020-04-18	Liber_Iosue
+1100000265	ita percussit omnes, ut nullas dimitteret ex eis reliquias:fecitque sicut praeceperat ei dominus: equos eorum subnervavit, currusque combussit igni.	2020-04-18	Liber_Iosue
+1100000266	reversusque statim cepit asor, et regem eius percussit gladio. 	2020-04-18	Liber_Iosue
+1100000267	asor enim antiquitus inter omnia regna haec principatum tenebat.	2020-04-18	Liber_Iosue
+1100000268	percussitque omnes animas quae ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio.	2020-04-18	Liber_Iosue
+1100000269	et omnes per circuitum civitates, regesque earum, cepit, percussit atque delevit, sicut praeceperat ei moyses famulus domini.	2020-04-18	Liber_Iosue
+1100000270	absque urbibus, quae erant in collibus et in tumulis sitae, ceteras succendit israel: unam tantum asor munitissimam flamma consumpsit.	2020-04-18	Liber_Iosue
+1100000271	omnemque praedam istarum urbium ac iumenta diviserunt sibi filii israel, cunctis hominibus interfectis.	2020-04-18	Liber_Iosue
+1100000272	sicut praeceperat dominus moysi servo suo, ita praecepit moyses iosue, et ille universa complevit: non praeteriit de universis mandatis, nec unum quidem verbum quod iusserat dominus moysi.	2020-04-18	Liber_Iosue
+1100000273	cepit itaque iosue omnem terram montanam et meridianam, terramque gosen, et planitiem, et occidentalem plagam, montemque israel, et campestria eius,et partem montis, quae ascendit seir usque baalgad, per planitiem libani subter montem hermon: omnes reges eorum cepit, percussit, et occidit.	2020-04-18	Liber_Iosue
+1100000274	multo tempore pugnavit iosue contra reges istos.	2020-04-18	Liber_Iosue
+1100000275	non fuit civitas quae se traderet filiis israel, praeter hevaeum, qui habitabat in gabaon: omnes enim bellando cepit.	2020-04-18	Liber_Iosue
+1100000276	domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra israel, et caderent, et non mererentur ullam clementiam, ac perirent, sicut praeceperat dominus moysi.	2020-04-18	Liber_Iosue
+1100000277	in illo tempore venit iosue, et interfecit enacim de montanis, hebron, et dabir, et anab, et de omni monte iuda et israel, urbesque eorum delevit.	2020-04-18	Liber_Iosue
+1100000278	non reliquit ullum de stirpe enacim, in terra filiorum israel: absque civitatibus gaza, et geth, et azoto, in quibus solis relicti sunt.	2020-04-18	Liber_Iosue
+1100000279	cepit ergo iosue omnem terram, sicut locutus est dominus ad moysen, et tradidit eam in possessionem filiis israel secundum partes et tribus suas: quievitque terra a praeliis.	2020-04-18	Liber_Iosue
+1100000280	caput 12	2020-04-18	Liber_Iosue
+1100000281	hi sunt reges, quos percusserunt filii israel, et possederunt terram eorum trans iordanem ad solis ortum, a torrente arnon usque ad montem hermon, et omnem orientalem plagam, quae respicit solitudinem.	2020-04-18	Liber_Iosue
+1100000282	sehon rex amorrhaeorum, qui habitavit in hesebon, dominatus est ab aroer, quae sita est super ripam torrentis arnon, et mediae partis in valle, dimidiaeque galaad, usque ad torrentem iaboc, qui est terminus filiorum ammon.	2020-04-18	Liber_Iosue
+1100000283	et a solitudine usque ad mare ceneroth contra orientem, et usque ad mare deserti, quod est mare salsissimum, ad orientalem plagam per viam quae ducit bethsimoth: et ab australi parte, quae subiacet asedoth, phasga.	2020-04-18	Liber_Iosue
+1100000284	terminus og regis basan, de reliquiis raphaim, qui habitavit in astaroth, et in edrai, et dominatus est in monte hermon, et in salecha, atque in universa basan, usque ad terminosgessuri, et machati, et dimidiae partis galaad: terminos sehon regis hesebon.	2020-04-18	Liber_Iosue
+1100000285	moyses famulus domini et filii israel percusserunt eos, tradiditque terram eorum moyses in possessionem rubenitis, et gaditis, et dimidiae tribui manasse.	2020-04-18	Liber_Iosue
+1100000286	hi sunt reges terrae, quos percussit iosue et filii israel trans iordanem ad occidentalem plagam, a baalgad in campo libani, usque ad montem cuius pars ascendit in seir: tradiditque eam iosue in possessionem tribubus israel, singulis partes suas,tam in montanis quam in planis atque campestribus. 	2020-04-18	Liber_Iosue
+1100000287	in asedoth, et in solitudine, ac in meridie, hethaeus fuit et amorrhaeus, chananaeus, et pherezaeus, hevaeus et iebusaeus.	2020-04-18	Liber_Iosue
+1100000288	rex iericho unus: rex hai, quae est ex latere bethel, unus:rex ierusalem unus, rex hebron unus,rex ierimoth unus, rex lachis unus,rex eglon unus, rex gazer unus,rex dabir unus, rex gader unus,rex herma unus, rex hered unus,rex lebna unus, rex odullam unus,rex maceda unus, rex bethel unus,rex taphua unus, rex opher unus,rex aphec unus, rex saron unus,rex madon unus, rex asor unus,rex semeron unus, rex achsaph unus,rex thenac unus, rex mageddo unus,rex cades unus, rex iachanan carmeli unus,rex dor et provinciae dor unus, rex gentium galgal unus,rex thersa unus: omnes reges triginta unus.	2020-04-18	Liber_Iosue
+1100000289	caput 13	2020-04-18	Liber_Iosue
+1100000290	iosue senex provectaeque aetatis erat, et dixit dominus ad eum: senuisti, et longaevus es, terraque latissima derelicta est, quae necdum sorte divisa est:omnis videlicet galilaea, philisthiim, et universa gessuri.	2020-04-18	Liber_Iosue
+1100000291	a fluvio turbido, qui irrigat aegyptum, usque ad terminos accaron contra aquilonem: terra chanaan, quae in quinque regulos philisthiim dividitur, gazaeos, et azotios, ascalonitas, gethaeos, et accaronitas.	2020-04-18	Liber_Iosue
+1100000292	ad meridiem vero sunt hevaei, omnis terra chanaan, et maara sidoniorum, usque apheca et terminos amorrhaei,eiusque confinia. 	2020-04-18	Liber_Iosue
+1100000293	libani quoque regio contra orientem, a baalgad sub monte hermon, donec ingrediaris emath;omnium qui habitant in monte a libano usque ad aquas maserephoth, universique sidonii. 	2020-04-18	Liber_Iosue
+1100000294	ego sum qui delebo eos a facie filiorum israel. 	2020-04-18	Liber_Iosue
+1100000295	veniat ergo in partem haereditatis israel, sicut praecepi tibi.	2020-04-18	Liber_Iosue
+1100000296	et nunc divide terram in possessionem novem tribubus, et dimidiae tribui manasse,cum qua ruben et gad possederunt terram, quam tradidit eis moyses famulus domini trans fluenta iordanis, ad orientalem plagam.	2020-04-18	Liber_Iosue
+1100000297	ab aroer, quae sita est in ripa torrentis arnon, et in vallis medio, universaque campestria medaba, usque dibon,et cunctas civitates sehon regis amorrhaei, qui regnavit in hesebon, usque ad terminos filiorum ammon,et galaad, ac terminum gessuri et machati, et omnem montem hermon, et universam basan, usque ad salecha,omne regnum og in basan, qui regnavit in astaroth et edrai, ipse fuit de reliquiis raphaim: percussitque eos moyses, atque delevit.	2020-04-18	Liber_Iosue
+1100000298	nolueruntque disperdere filii israel gessuri et machati: et habitaverunt in medio israel usque in praesentem diem.	2020-04-18	Liber_Iosue
+1100000299	tribui autem levi non dedit possessionem: sed sacrificia et victimae domini dei israel, ipsa est eius haereditas, sicut locutus est illi.	2020-04-18	Liber_Iosue
+1100000300	dedit ergo moyses possessionem tribui filiorum ruben iuxta cognationes suas.	2020-04-18	Liber_Iosue
+1100000301	fuitque terminus eorum ab aroer, quae sita est in ripa torrentis arnon, et in valle eiusdem torrentis media: universam planitiem, quae ducit medaba,et hesebon, cunctosque viculos earum, qui sunt in campestribus: dibon quoque et bamothbaal, et oppidum baalmaon,et iassa, et cedimoth, et mephaath,et cariathaim, et sabama, et sarathasar in monte convallis.	2020-04-18	Liber_Iosue
+1100000302	bethphogor et asedoth, phasga et bethiesimoth,et omnes urbes campestres, universaque regna sehon regis amorrhaei, qui regnavit in hesebon, quem percussit moyses cum principibus madian: hevaeum, et recem, et sur, et hur, et rebe duces sehon habitatores terrae.	2020-04-18	Liber_Iosue
+1100000303	et balaam filium beor ariolum occiderunt filii israel gladio cum ceteris interfectis.	2020-04-18	Liber_Iosue
+1100000304	factusque est terminus filiorum ruben iordanis fluvius. 	2020-04-18	Liber_Iosue
+1100000305	haec est possessio rubenitarum per cognationes suas urbium et viculorum.	2020-04-18	Liber_Iosue
+1100000306	deditque moyses tribui gad et filiis eius per cognationes suas possessionem, cuius haec divisio est.	2020-04-18	Liber_Iosue
+1100000307	terminus iaser, et omnes civitates galaad, et dimidiam partem terrae filiorum ammon, usque ad aroer, quae est contra rabba,et ab hesebon usque ramoth, masphe et betonim: et a manaim usque ad terminos dabir.	2020-04-18	Liber_Iosue
+1100000308	in valle quoque betharan, et bethnemra, et socoth, et saphon reliquam partem regni sehon regis hesebon: huius quoque finis, iordanis est, usque ad extremam partem maris cenereth trans iordanem ad orientalem plagam.	2020-04-18	Liber_Iosue
+1100000309	haec est possessio filiorum gad per familias suas, civitates et villae earum.	2020-04-18	Liber_Iosue
+1100000310	dedit et dimidiae tribui manasse, filiisque eius iuxta cognationes suas, possessionem,cuius hoc principium est: a manaim universam basan, et cuncta regna og regis basan, omnesque vicos iair, qui sunt in basan, sexaginta oppida:et dimidiam partem galaad, et astaroth, et edrai, urbes regni og in basan: filiis machir, filii manasse, dimidiae parti filiorum machir iuxta cognationes suas.	2020-04-18	Liber_Iosue
+1100000311	hanc possessionem divisit moyses in campestribus moab trans iordanem contra iericho ad orientalem plagam.	2020-04-18	Liber_Iosue
+1100000312	tribui autem levi non dedit possessionem: quoniam dominus deus israel ipse est possessio eius, ut locutus est illi.	2020-04-18	Liber_Iosue
+1100000313	caput 14	2020-04-18	Liber_Iosue
+1100000314	hoc est quod possederunt filii israel in terra chanaan, quam dederunt eis eleazar sacerdos, et iosue filius nun, et principes familiarum per tribus israel:sorte omnia dividentes, sicut praeceperat dominus in manu moysi, novem tribubus, et dimidiae tribui.	2020-04-18	Liber_Iosue
+1100000315	duabus enim tribubus, et dimidiae, dederat moyses trans iordanem possessionem: absque levitis, qui nihil terrae acceperunt inter fratres suos:sed in eorum successerunt locum filii ioseph in duas divisi tribus, manasse et ephraim: nec acceperunt levitae aliam in terra partem, nisi urbes ad habitandum, et suburbana earum ad alenda iumenta et pecora sua.	2020-04-18	Liber_Iosue
+1100000316	sicut praeceperat dominus moysi, ita fecerunt filii israel, et diviserunt terram.	2020-04-18	Liber_Iosue
+1100000317	accesserunt itaque filii iuda ad iosue in galgala, locutusque est ad eum caleb filius iephone cenezaeus: nosti quid locutus sit dominus ad moysen hominem dei de me et te in cadesbarne.	2020-04-18	Liber_Iosue
+1100000318	quadraginta annorum eram quando misit me moyses famulus domini de cadesbarne, ut considerarem terram, nuntiavique ei quod mihi verum videbatur.	2020-04-18	Liber_Iosue
+1100000319	fratres autem mei, qui ascenderant mecum, dissolverunt cor populi: et nihilominus ego secutus sum dominum deum meum.	2020-04-18	Liber_Iosue
+1100000320	iuravitque moyses in die illo, dicens: terra, quam calcavit pes tuus, erit possessio tua, et filiorum tuorum in aeternum: quia secutus es dominum deum meum.	2020-04-18	Liber_Iosue
+1100000321	concessit ergo dominus vitam mihi, sicut pollicitus est, usque in praesentem diem. 	2020-04-18	Liber_Iosue
+1100000322	quadraginta et quinque anni sunt, ex quo locutus est dominus verbum istud ad moysen, quando ambulabat israel per solitudinem: hodie octoginta quinque annorum sum,sic valens ut eo valebam tempore quando ad explorandum missus sum: illius in me temporis fortitudo usque hodie perseverat, tam ad bellandum quam ad gradiendum.	2020-04-18	Liber_Iosue
+1100000323	da ergo mihi montem istum, quem pollicitus est dominus, te quoque audiente, in quo enacim sunt, et urbes magnae atque munitae: si forte sit dominus mecum, et potuero delere eos, sicut promisit mihi.	2020-04-18	Liber_Iosue
+1100000324	benedixitque ei iosue, et tradidit ei hebron in possessionem:atque ex eo fuit hebron caleb filio iephone cenezaeo usque in praesentem diem, quia secutus est dominum deum israel.	2020-04-18	Liber_Iosue
+1100000325	nomen hebron ante vocabatur cariath arbe: adam maximus ibi inter enacim situs est: et terra cessavit a praeliis.	2020-04-18	Liber_Iosue
+1100000326	caput 15	2020-04-18	Liber_Iosue
+1100000327	igitur sors filiorum iudae per cognationes suas ista fuit: a termino edom, desertum sin, contra meridiem, et usque ad extremam partem australis plagae.	2020-04-18	Liber_Iosue
+1100000328	initium eius a summitate maris salsissimi, et a lingua eius, quae respicit meridiem.	2020-04-18	Liber_Iosue
+1100000329	egrediturque contra ascensum scorpionis, et pertransit in sina: ascenditque in cadesbarne, et pervenit in esron, ascendens ad addar, et circuiens carcaa,atque inde pertransiens in asemona, et perveniens ad torrentem aegypti: eruntque termini eius mare magnum. 	2020-04-18	Liber_Iosue
+1100000330	hic erit finis meridianae plagae.	2020-04-18	Liber_Iosue
+1100000331	ab oriente vero erit initium, mare salsissimum usque ad extrema iordanis: et ea quae respiciunt ad aquilonem, a lingua maris usque ad eumdem iordanis fluvium.	2020-04-18	Liber_Iosue
+1100000332	ascenditque terminus in beth hagla, et transit ab aquilone in beth araba, ascendens ad lapidem boen filii ruben:et tendens usque ad terminos debera de valle achor, contra aquilonem respiciens galgala, quae est ex adverso ascensionis adommim, ab australi parte torrentis: transitque aquas, quae vocantur fons solis: et erunt exitus eius ad fontem rogel.	2020-04-18	Liber_Iosue
+1100000333	ascenditque per convallem filii ennom ex latere iebusaei ad meridiem, haec est ierusalem: et inde se erigens ad verticem montis, qui est contra geennom ad occidentem in summitate vallis raphaim contra aquilonem:pertransitque a vertice montis usque ad fontem aquae nephtoa: et pervenit usque ad vicos montis ephron: inclinaturque in baala, quae est cariathiarim, id est, urbs silvarum.	2020-04-18	Liber_Iosue
+1100000334	et circuit de baala contra occidentem, usque ad montem seir: transitque iuxta latus montis iarim ad aquilonem in cheslon: et descendit in bethsames, transitque in thamna.	2020-04-18	Liber_Iosue
+1100000335	et pervenit contra aquilonem partis accaron ex latere: inclinaturque sechrona, et transit montem baala: pervenitque in iebneel, et magni maris contra occidentem fine concluditur.	2020-04-18	Liber_Iosue
+1100000336	hi sunt termini filiorum iuda per circuitum in cognationibus suis.	2020-04-18	Liber_Iosue
+1100000337	caleb vero filio iephone dedit partem in medio filiorum iuda, sicut praeceperat ei dominus: cariath arbe patris enac, ipsa est hebron.	2020-04-18	Liber_Iosue
+1100000338	delevitque ex ea caleb tres filios enac, sesai et ahiman et tholmai de stirpe enac.	2020-04-18	Liber_Iosue
+1100000339	atque inde conscendens venit ad habitatores dabir, quae prius vocabatur cariath sepher, id est, civitas litterarum.	2020-04-18	Liber_Iosue
+1100000340	dixitque caleb: qui percusserit cariath sepher, et ceperit eam, dabo ei axam filiam meam uxorem.	2020-04-18	Liber_Iosue
+1100000341	cepitque eam othoniel filius cenez frater caleb iunior: deditque ei axam filiam suam uxorem.	2020-04-18	Liber_Iosue
+1100000342	quae, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum. 	2020-04-18	Liber_Iosue
+1100000343	suspiravitque ut sedebat in asino: cui caleb: quid habes? 	2020-04-18	Liber_Iosue
+1100000344	inquit.	2020-04-18	Liber_Iosue
+1100000345	at illa respondit: da mihi benedictionem: terram australem et arentem dedisti mihi; iunge et irriguam. 	2020-04-18	Liber_Iosue
+1100000346	dedit itaque ei caleb irriguum superius et inferius.	2020-04-18	Liber_Iosue
+1100000347	haec est possessio tribus filiorum iuda per cognationes suas.	2020-04-18	Liber_Iosue
+1100000348	erantque civitates ab extremis partibus filiorum iuda iuxta terminos edom a meridie: cabseel et eder et iagur,et cyna et dimona et adada,et cades et asor et iethnam,ziph et telem et baloth,asor nova et carioth, hesron, haec est asor;amam, sama, et molada,et asergadda et hassemon et bethphelet,et hasersual et bersabee et baziothia,et baala et iim et esem,et eltholad et cesil et harma,et siceleg et medemena et sensenna,lebaoth et selim et aen et remon. 	2020-04-18	Liber_Iosue
+1100000349	omnes civitates viginti novem, et villae earum.	2020-04-18	Liber_Iosue
+1100000350	in campestribus vero: estaol et sarea et asena,et zanoe et aengannim et taphua et enaim,et ierimoth et adullam, socho et azeca,et saraim et adithaim et gedera et gederothaim: urbes quatuordecim, et villae earum.	2020-04-18	Liber_Iosue
+1100000351	sanan et hadassa et magdalgad,delean et masepha et iecthel,lachis et bascath et eglon,chebbon et leheman et cethlis,et gideroth et bethdagon et naama et maceda: civitates sedecim, et villae earum.	2020-04-18	Liber_Iosue
+1100000352	labana et ether et asan,iephtha et esna et nesib,et ceila et achzib et maresa: civitates novem, et villae earum.	2020-04-18	Liber_Iosue
+1100000353	accaron cum vicis et villulis suis.	2020-04-18	Liber_Iosue
+1100000354	ab accaron usque ad mare: omnia quae vergunt ad azotum et viculos eius.	2020-04-18	Liber_Iosue
+1100000355	azotus cum vicis et villulis suis. 	2020-04-18	Liber_Iosue
+1100000356	gaza cum vicis et villulis suis, usque ad torrentem aegypti, et mare magnum terminus eius.	2020-04-18	Liber_Iosue
+1100000357	et in monte: samir et iether et socothet danna et cariathsenna, haec est dabir:anab et istemo et anim,gosen et olon et gilo: civitates undecim et villae earum.	2020-04-18	Liber_Iosue
+1100000358	arab et ruma et esaan,et ianum et beththaphua et apheca,athmatha, et cariath arbe, haec est hebron, et sior: civitates novem, et villae earum.	2020-04-18	Liber_Iosue
+1100000359	maon et carmel et ziph et iota,iezrael et iucadam et zanoe,accain, gabaa et thamna: civitates decem et villae earum.	2020-04-18	Liber_Iosue
+1100000360	halhul, et besur, et gedor,mareth, et bethanoth, et eltecon: civitates sex et villae earum.	2020-04-18	Liber_Iosue
+1100000361	cariathbaal, haec est cariathiarim urbs silvarum, et arebba: civitates duae, et villae earum.	2020-04-18	Liber_Iosue
+1100000362	in deserto betharaba, meddin, et sachacha,et nebsan, et civitas salis, et engaddi: civitates sex, et villae earum.	2020-04-18	Liber_Iosue
+1100000363	iebusaeum autem habitatorem ierusalem non potuerunt filii iuda delere: habitavitque iebusaeus cum filiis iuda in ierusalem usque in praesentem diem.	2020-04-18	Liber_Iosue
+1100000364	caput 16	2020-04-18	Liber_Iosue
+1100000365	cecidit quoque sors filiorum ioseph ab iordane contra iericho et aquas eius ab oriente: solitudo quae ascendit de iericho ad montem bethel:et egreditur de bethel luza: transitque terminum archi, ataroth:et descendit ad occidentem iuxta terminum iephleti, usque ad terminos beth-horon inferioris, et gazer: finiunturque regiones eius mari magno:possederuntque filii ioseph, manasses et ephraim.	2020-04-18	Liber_Iosue
+1100000366	et factus est terminus filiorum ephraim per cognationes suas: et possessio eorum contra orientem ataroth addar usque beth-horon superiorem.	2020-04-18	Liber_Iosue
+1100000367	egrediunturque confinia in mare: machmethath vero aquilonem respicit, et circuit terminos contra orientem in thanathselo: et pertransit ab oriente ianoe.	2020-04-18	Liber_Iosue
+1100000368	descenditque de ianoe in ataroth et naaratha: et pervenit in iericho, egrediturque ad iordanem.	2020-04-18	Liber_Iosue
+1100000369	de taphua pertransit contra mare in vallem arundineti, suntque egressus eius in mare salsissimum. 	2020-04-18	Liber_Iosue
+1100000370	haec est possessio tribus filiorum ephraim per familias suas.	2020-04-18	Liber_Iosue
+1100000371	urbesque separatae sunt filiis ephraim in medio possessionis filiorum manasse, et villae earum.	2020-04-18	Liber_Iosue
+1100000372	et non interfecerunt filii ephraim chananaeum, qui habitabat in gazer: habitavitque chananaeus in medio ephraim usque in diem hanc tributarius.	2020-04-18	Liber_Iosue
+1100000373	caput 17	2020-04-18	Liber_Iosue
+1100000374	cecidit autem sors tribui manasse (ipse enim est primogenitus ioseph): machir primogenito manasse patri galaad, qui fuit vir pugnator, habuitque possessionem galaad et basan:et reliquis filiorum manasse iuxta familias suas, filiis abiezer, et filiis helec, et filiis esriel, et filiis sechem, et filiis hepher, et filiis semida. 	2020-04-18	Liber_Iosue
+1100000375	isti sunt filii manasse filii ioseph, mares, per cognationes suas.	2020-04-18	Liber_Iosue
+1100000376	salphaad vero filio hepher filii galaad filii machir filii manasse non erant filii, sed solae filiae: quarum ista sunt nomina: maala et noa et hegla et melcha et thersa.	2020-04-18	Liber_Iosue
+1100000377	veneruntque in conspectu eleazari sacerdotis, et iosue filii nun, et principum, dicentes: dominus praecepit per manum moysi, ut daretur nobis possessio in medio fratrum nostrorum. 	2020-04-18	Liber_Iosue
+1100000378	deditque eis iuxta imperium domini possessionem in medio fratrum patris earum.	2020-04-18	Liber_Iosue
+1100000379	et ceciderunt funiculi manasse, decem, absque terra galaad et basan trans iordanem.	2020-04-18	Liber_Iosue
+1100000380	filiae enim manasse possederunt haereditatem in medio filiorum eius. 	2020-04-18	Liber_Iosue
+1100000381	terra autem galaad cecidit in sortem filiorum manasse qui reliqui erant.	2020-04-18	Liber_Iosue
+1100000382	fuitque terminus manasse ab aser, machmethath quae respicit sichem: et egreditur ad dexteram iuxta habitatores fontis taphuae.	2020-04-18	Liber_Iosue
+1100000383	etenim in sorte manasse ceciderat terra taphuae, quae est iuxta terminos manasse filiorum ephraim.	2020-04-18	Liber_Iosue
+1100000384	descenditque terminus vallis arundineti in meridiem torrentis civitatum ephraim, quae in medio sunt urbium manasse: terminus manasse ab aquilone torrentis, et exitus eius pergit ad mare:ita ut possessio ephraim sit ab austro, et ab aquilone manasse, et utramque claudat mare, et coniungantur sibi in tribu aser ab aquilone, et in tribu issachar ab oriente.	2020-04-18	Liber_Iosue
+1100000385	fuitque haereditas manasse in issachar et in aser, bethsan et viculi eius, et ieblaam cum viculis suis, et habitatores dor cum oppidis suis, habitatores quoque endor cum viculis suis: similiterque habitatores thenac cum viculis suis, et habitatores mageddo cum viculis suis, et tertia pars urbis nopheth.	2020-04-18	Liber_Iosue
+1100000386	nec potuerunt filii manasse has civitates subvertere, sed coepit chananaeus habitare in terra sua.	2020-04-18	Liber_Iosue
+1100000387	postquam autem convaluerunt filii israel, subiecerunt chananaeos, et fecerunt sibi tributarios, nec interfecerunt eos.	2020-04-18	Liber_Iosue
+1100000388	locutique sunt filii ioseph ad iosue, et dixerunt: quare dedisti mihi possessionem sortis et funiculi unius, cum sim tantae multitudinis, et benedixerit mihi dominus?	2020-04-18	Liber_Iosue
+1100000389	ad quos iosue ait: si populus multus es, ascende in silvam, et succide tibi spatia in terra pherezaei et raphaim: quia angusta est tibi possessio montis ephraim.	2020-04-18	Liber_Iosue
+1100000390	cui responderunt filii ioseph: non poterimus ad montana conscendere, cum ferreis curribus utantur chananaei, qui habitant in terra campestri, in qua sitae sunt bethsan cum viculis suis, et iezrael mediam possidens vallem.	2020-04-18	Liber_Iosue
+1100000391	dixitque iosue ad domum ioseph, ephraim et manasse: populus multus es, et magnae fortitudinis: non habebis sortem unam,sed transibis ad montem, et succides tibi, atque purgabis ad habitandum spatia: et poteris ultra procedere cum subverteris chananaeum, quem dicis ferreos habere currus, et esse fortissimum.	2020-04-18	Liber_Iosue
+1100000392	caput 18	2020-04-18	Liber_Iosue
+1100000393	congregatique sunt omnes filii israel in silo, ibique fixerunt tabernaculum testimonii, et fuit eis terra subiecta.	2020-04-18	Liber_Iosue
+1100000394	remanserant autem filiorum israel septem tribus, quae necdum acceperant possessiones suas.	2020-04-18	Liber_Iosue
+1100000395	ad quos iosue ait: usquequo marcetis ignavia, et non intratis ad possidendam terram, quam dominus deus patrum vestrorum dedit vobis?	2020-04-18	Liber_Iosue
+1100000396	eligite de singulis tribubus ternos viros, ut mittam eos, et pergant atque circumeant terram, et describant eam iuxta numerum uniuscuiusque multitudinis: referantque ad me quod descripserint.	2020-04-18	Liber_Iosue
+1100000397	dividite vobis terram in septem partes: iudas sit in terminis suis ab australi plaga, et domus ioseph ab aquilone.	2020-04-18	Liber_Iosue
+1100000398	mediam inter hos terram in septem partes describite: et huc venietis ad me, ut coram domino deo vestro mittam vobis hic sortem:quia non est inter vos pars levitarum, sed sacerdotium domini est eorum haereditas. 	2020-04-18	Liber_Iosue
+1100000399	gad autem et ruben, et dimidia tribus manasse, iam acceperant possessiones suas trans iordanem ad orientalem plagam, quas dedit eis moyses famulus domini.	2020-04-18	Liber_Iosue
+1100000400	cumque surrexissent viri, ut pergerent ad describendam terram, praecepit eis iosue, dicens: circuite terram, et describite eam, ac revertimini ad me: ut hic coram domino, in silo, mittam vobis sortem.	2020-04-18	Liber_Iosue
+1100000401	itaque perrexerunt: et lustrantes eam, in septem partes diviserunt, scribentes in volumine. 	2020-04-18	Liber_Iosue
+1100000402	reversique sunt ad iosue in castra silo.	2020-04-18	Liber_Iosue
+1100000403	qui misit sortes coram domino in silo, divisitque terram filiis israel in septem partes.	2020-04-18	Liber_Iosue
+1100000404	et ascendit sors prima filiorum beniamin per familias suas, ut possiderent terram inter filios iuda et filios ioseph.	2020-04-18	Liber_Iosue
+1100000405	fuitque terminus eorum contra aquilonem a iordane: pergens iuxta latus iericho septentrionalis plagae, et inde contra occidentem ad montana conscendens et perveniens ad solitudinem bethaven,atque pertransiens iuxta luzam ad meridiem, ipsa est bethel: descenditque in ataroth addar, in montem qui est ad meridiem beth-horon inferioris:et inclinatur circuiens contra mare ad meridiem montis qui respicit beth-horon contra africum: suntque exitus eius in cariath-baal, quae vocatur et cariathiarim, urbem filiorum iuda. 	2020-04-18	Liber_Iosue
+1100000406	haec est plaga contra mare, ad occidentem.	2020-04-18	Liber_Iosue
+1100000407	a meridie autem ex parte cariathiarim egreditur terminus contra mare, et pervenit usque ad fontem aquarum nephtoa.	2020-04-18	Liber_Iosue
+1100000408	descenditque in partem montis, qui respicit vallem filiorum ennom: et est contra septentrionalem plagam in extrema parte vallis raphaim. 	2020-04-18	Liber_Iosue
+1100000409	descenditque in geennom (id est, vallem ennom) iuxta latus iebusaei ad austrum: et pervenit ad fontem rogel,transiens ad aquilonem, et egrediens ad ensemes, id est, fontem solis:et pertransit usque ad tumulos, qui sunt e regione ascensus adommim: descenditque ad abenboen, id est, lapidem boen filii ruben: et pertransit ex latere aquilonis ad campestria: descenditque in planitiem,et praetergreditur contra aquilonem beth hagla: suntque exitus eius contra linguam maris salsissimi ab aquilone in fine iordanis ad australem plagam:qui est terminus illius ab oriente. 	2020-04-18	Liber_Iosue
+1100000410	haec est possessio filiorum beniamin per terminos suos in circuitu, et familias suas.	2020-04-18	Liber_Iosue
+1100000411	fueruntque civitates eius, iericho et beth hagla et vallis casis,beth araba et samaraim et bethelet avim et aphara et ophera,villa emona et ophni et gabee: civitates duodecim, et villae earum.	2020-04-18	Liber_Iosue
+1100000412	gabaon et rama et beroth,et mesphe et caphara, et amosaet recem, iarephel et tharela,et sela, eleph, et iebus, quae est ierusalem, gabaath et cariath: civitates quatuordecim, et villae earum. 	2020-04-18	Liber_Iosue
+1100000413	haec est possessio filiorum beniamin iuxta familias suas.	2020-04-18	Liber_Iosue
+1100000414	caput 19	2020-04-18	Liber_Iosue
+1100000415	et egressa est sors secunda filiorum simeon per cognationes suas: fuitque haereditaseorum in medio possessionis filiorum iuda: bersabee et sabee et moladaet hasersual, bala et asemet eltholad, bethul et harmaet siceleg et bethmarchaboth et hasersusaet bethlebaoth et sarohen: civitates tredecim, et villae earum.	2020-04-18	Liber_Iosue
+1100000416	ain et remmon et athar et asan: civitates quatuor, et villae earum:omnes viculi per circuitum urbium istarum usque ad baalath beer ramath contra australem plagam. 	2020-04-18	Liber_Iosue
+1100000417	haec est haereditas filiorum simeon iuxta cognationes suas,in possessione et funiculo filiorum iuda: quia maior erat, et idcirco filii simeon possederunt in medio haereditatis eorum.	2020-04-18	Liber_Iosue
+1100000418	ceciditque sors tertia filiorum zabulon per cognationes suas: factus est terminus possessionis eorum usque sarid.	2020-04-18	Liber_Iosue
+1100000419	ascenditque de mari et merala, et pervenit in debbaseth, usque ad torrentem qui est contra ieconam.	2020-04-18	Liber_Iosue
+1100000420	et revertitur de sared contra orientem in fines ceseleththabor: et egreditur ad dabereth, ascenditque contra iaphie.	2020-04-18	Liber_Iosue
+1100000421	et inde pertransit usque ad orientalem plagam gethepher et thacasin: et egreditur in remmon, amthar et noa.	2020-04-18	Liber_Iosue
+1100000422	et circuit ad aquilonem hanathon: suntque egressus eius vallis iephthael,et cateth et naalol et semeron et ierala et bethlehem: civitates duodecim, et villae earum.	2020-04-18	Liber_Iosue
+1100000423	haec est haereditas tribus filiorum zabulon per cognationes suas, urbes et viculi earum.	2020-04-18	Liber_Iosue
+1100000424	issachar egressa est sors quarta per cognationes suas:fuitque eius haereditas iezrael et casaloth et sunemet hapharaim et seon, et anaharathet rabboth et cesion, abes,et rameth, et engannim, et enhadda et bethpheses.	2020-04-18	Liber_Iosue
+1100000425	et pervenit terminus eius usque thabor et sehesima et bethsames, eruntque exitus eius iordanis: civitates sedecim, et villae earum.	2020-04-18	Liber_Iosue
+1100000426	haec est possessio filiorum issachar per cognationes suas, urbes et viculi earum.	2020-04-18	Liber_Iosue
+1100000427	ceciditque sors quinta tribui filiorum aser per cognationes suas:fuitque terminus eorum halcath et chali et beten et axaphet elmelech et amaad et messal: et pervenit usque ad carmelum maris et sihor et labanath,ac revertitur contra orientem bethdagon: et pertransit usque zabulon et vallem iephthael contra aquilonem in bethemec et nehiel. 	2020-04-18	Liber_Iosue
+1100000428	egrediturque ad laevam cabul,et abran et rohob et hamon et cana, usque ad sidonem magnam.	2020-04-18	Liber_Iosue
+1100000429	revertiturque in horma usque ad civitatem munitissimam tyrum, et usque hosa: eruntque exitus eius in mare de funiculo achziba:et amma et aphec et rohob: civitates viginti duae, et villae earum.	2020-04-18	Liber_Iosue
+1100000430	haec est possessio filiorum aser per cognationes suas, urbesque et viculi earum.	2020-04-18	Liber_Iosue
+1100000431	filiorum nephthali sexta sors cecidit per familias suas:et coepit terminus de heleph et elon in saananim, et adami, quae est neceb, et iebnael usque lecum: et egressus eorum usque ad iordanem:revertiturque terminus contra occidentem in azanotthabor, atque inde egreditur in hucuca, et pertransit in zabulon contra meridiem, et in aser contra occidentem, et in iuda ad iordanem contra ortum solis:civitates munitissimae, assedim, ser, et emath, et reccath et cenereth,et edema et arama, asoret cedes et edrai, enhasor,et ieron et magdalel, horem et bethanath et bethsames: civitates decem et novem, et villae earum.	2020-04-18	Liber_Iosue
+1100000432	haec est possessio tribus filiorum nephthali per cognationes suas, urbes et viculi earum.	2020-04-18	Liber_Iosue
+1100000433	tribui filiorum dan per familias suas egressa est sors septima:et fuit terminus possessionis eius sara et esthaol, et hirsemes, id est, civitas solis.	2020-04-18	Liber_Iosue
+1100000434	selebin et aialon et iethela,elon et themna et acron,elthece, gebbethon et balaath,et iud et bane et barach et gethremmon:et meiarcon et arecon, cum termino qui respicit ioppen,et ipso fine concluditur. 	2020-04-18	Liber_Iosue
+1100000435	ascenderuntque filii dan, et pugnaverunt contra lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen eius lesem dan, ex nomine dan patris sui.	2020-04-18	Liber_Iosue
+1100000436	haec est possessio tribus filiorum dan, per cognationes suas, urbes et viculi earum.	2020-04-18	Liber_Iosue
+1100000437	cumque complesset sorte dividere terram singulis per tribus suas, dederunt filii israel possessionem iosue filio nun in medio sui,iuxta praeceptum domini, urbem quam postulavit thamnath saraa in monte ephraim: et aedificavit civitatem, habitavitque in ea.	2020-04-18	Liber_Iosue
+1100000438	hae sunt possessiones, quas sorte diviserunt eleazar sacerdos, et iosue filius nun, et principes familiarum ac tribuum filiorum israel in silo, coram domino ad ostium tabernaculi testimonii: partitique sunt terram.	2020-04-18	Liber_Iosue
+1100000439	caput 20	2020-04-18	Liber_Iosue
+1100000440	et locutus est dominus ad iosue, dicens: loquere filiis israel, et dic eis:separate urbes fugitivorum, de quibus locutus sum ad vos per manum moysi:ut confugiat ad eas quicumque animam percusserit nescius, et possit evadere iram proximi, qui ultor est sanguinis:cum ad unam harum confugerit civitatum, stabit ante portam civitatis, et loquetur senioribus urbis illius ea quae se comprobent innocentem: sicque suscipient eum, et dabunt ei locum ad habitandum.	2020-04-18	Liber_Iosue
+1100000441	cumque ultor sanguinis eum fuerit persecutus, non tradent in manus eius: quia ignorans percussit proximum eius, nec ante biduum triduumve eius probatur inimicus.	2020-04-18	Liber_Iosue
+1100000442	et habitabit in civitate illa, donec stet ante iudicium, causam reddens facti sui, et moriatur sacerdos magnus, qui fuerit in illo tempore: tunc revertetur homicida, et ingredietur civitatem et domum suam de qua fugerat.	2020-04-18	Liber_Iosue
+1100000443	decreveruntque cedes in galilaea montis nephthali, et sichem in monte ephraim, et cariatharbe, ipsa est hebron in monte iuda.	2020-04-18	Liber_Iosue
+1100000444	et trans iordanem contra orientalem plagam iericho, statuerunt bosor, quae sita est in campestri solitudine de tribu ruben, et ramoth in galaad de tribu gad, et gaulon in basan de tribu manasse.	2020-04-18	Liber_Iosue
+1100000445	hae civitates constitutae sunt cunctis filiis israel, et advenis qui habitabant inter eos, ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam.	2020-04-18	Liber_Iosue
+1100000446	caput 21	2020-04-18	Liber_Iosue
+1100000447	accesseruntque principes familiarum levi ad eleazarum sacerdotem, et iosue filium nun, et ad duces cognationum per singulas tribus filiorum israel:locutique sunt ad eos in silo terrae chanaan, atque dixerunt: dominus praecepit per manum moysi, ut darentur nobis urbes ad habitandum, et suburbana earum ad alenda iumenta.	2020-04-18	Liber_Iosue
+1100000448	dederuntque filii israel de possessionibus suis iuxta imperium domini, civitates et suburbana earum.	2020-04-18	Liber_Iosue
+1100000449	egressaque est sors in familiam caath filiorum aaron sacerdotis, de tribubus iuda, et simeon, et beniamin, civitates tredecim:et reliquis filiorum caath, id est levitis, qui superfuerant, de tribubus ephraim, et dan, et dimidia tribu manasse, civitates decem.	2020-04-18	Liber_Iosue
+1100000450	porro filii gerson egressa est sors, ut acciperent de tribubus issachar et aser et nephthali, dimidiaque tribu manasse in basan, civitates numero tredecim.	2020-04-18	Liber_Iosue
+1100000451	et filiis merari per cognationes suas de tribubus ruben et gad et zabulon urbes duodecim.	2020-04-18	Liber_Iosue
+1100000452	dederuntque filii israel levitis civitates et suburbana earum, sicut praecepit dominus per manum moysi, singulis sorte tribuentes.	2020-04-18	Liber_Iosue
+1100000453	de tribubus filiorum iuda et simeon dedit iosue civitates, quarum ista sunt nomina,filiis aaron per familias caath levitici generis (prima enim sors illis egressa est),cariatharbe patris enac, quae vocatur hebron, in monte iuda, et suburbana eius per circuitum.	2020-04-18	Liber_Iosue
+1100000454	agros vero et villas eius dederat caleb filio iephone ad possidendum.	2020-04-18	Liber_Iosue
+1100000455	dedit ergo filiis aaron sacerdotis hebron confugii civitatem, ac suburbana eius: et lobnam cum suburbanis suis:et iether, et esthemo,et holon, et dabir,et ain, et ieta, et bethsames, cum suburbanis suis: civitates novem de tribubus, ut dictum est, duabus.	2020-04-18	Liber_Iosue
+1100000456	de tribu autem filiorum beniamin, gabaon, et gabae,et anathoth et almon, cum suburbanis suis: civitates quatuor.	2020-04-18	Liber_Iosue
+1100000457	omnes simul civitates filiorum aaron sacerdotis, tredecim, cum suburbanis suis.	2020-04-18	Liber_Iosue
+1100000458	reliquis vero per familias filiorum caath levitici generis, haec est data possessio.	2020-04-18	Liber_Iosue
+1100000459	de tribu ephraim urbes confugii, sichem cum suburbanis suis in monte ephraim, et gazeret cibsaim et beth-horon, cum suburbanis suis, civitates quatuor.	2020-04-18	Liber_Iosue
+1100000460	de tribu quoque dan, eltheco et gabathon,et aialon et gethremmon, cum suburbanis suis, civitates quatuor.	2020-04-18	Liber_Iosue
+1100000461	porro de dimidia tribu manasse, thanach et gethremmon, cum suburbanis suis, civitates duae.	2020-04-18	Liber_Iosue
+1100000462	omnes civitates decem, et suburbana earum, datae sunt filiis caath inferioris gradus.	2020-04-18	Liber_Iosue
+1100000463	filiis quoque gerson levitici generis dedit de dimidia tribu manasse confugii civitates, gaulon in basan, et bosram, cum suburbanis suis, civitates duas.	2020-04-18	Liber_Iosue
+1100000464	porro de tribu issachar, cesion, et dabereth,et iaramoth, et engannim, cum suburbanis suis, civitates quatuor.	2020-04-18	Liber_Iosue
+1100000465	de tribu autem aser, masal et abdon,et helcath, et rohob, cum suburbanis suis, civitates quatuor.	2020-04-18	Liber_Iosue
+1100000466	de tribu quoque nephthali civitates confugii, cedes in galilaea, et hammoth dor, et carthan, cum suburbanis suis, civitates tres.	2020-04-18	Liber_Iosue
+1100000467	omnes urbes familiarum gerson, tredecim, cum suburbanis suis.	2020-04-18	Liber_Iosue
+1100000468	filiis autem merari levitis inferioris gradus per familias suas data est de tribu zabulon, iecnam, et carthaet damna et naalol, civitates quatuor cum suburbanis suis.	2020-04-18	Liber_Iosue
+1100000469	de tribu ruben ultra iordanem contra iericho civitates refugii, bosor in solitudine, misor et iaser et iethson et mephaath, civitates quatuor cum suburbanis suis.	2020-04-18	Liber_Iosue
+1100000470	de tribu gad civitates confugii, ramoth in galaad, et manaim et hesebon et iazer, civitates quatuor cum suburbanis suis.	2020-04-18	Liber_Iosue
+1100000471	omnes urbes filiorum merari per familias et cognationes suas, duodecim.	2020-04-18	Liber_Iosue
+1100000472	itaque civitates universae levitarum in medio possessionis filiorum israel fuerunt quadraginta octocum suburbanis suis, singulae per familias distributae.	2020-04-18	Liber_Iosue
+1100000473	deditque dominus deus israeli omnem terram, quam traditurum se patribus eorum iuraverat: et possederunt illam, atque habitaverunt in ea.	2020-04-18	Liber_Iosue
+1100000474	dataque est ab eo pax in omnes per circuitum nationes: nullusque eis hostium resistere ausus est, sed cuncti in eorum ditionem redacti sunt.	2020-04-18	Liber_Iosue
+1100000475	ne unum quidem verbum, quod illis praestiturum se esse promiserat, irritum fuit, sed rebus expleta sunt omnia.	2020-04-18	Liber_Iosue
+1100000476	caput 22	2020-04-18	Liber_Iosue
+1100000477	eodem tempore vocavit iosue rubenitas, et gaditas, et dimidiam tribum manasse,dixitque ad eos: fecistis omnia quae praecepit vobis moyses famulus domini: mihi quoque in omnibus obedistis,nec reliquistis fratres vestros longo tempore, usque in praesentem diem, custodientes imperium domini dei vestri.	2020-04-18	Liber_Iosue
+1100000478	quia igitur dedit dominus deus vester fratribus vestris quietem et pacem, sicut pollicitus est: revertimini, et ite in tabernacula vestra, et in terram possessionis, quam tradidit vobis moyses famulus domini trans iordanem:ita dumtaxat ut custodiatis attente, et opere compleatis mandatum et legem quam praecepit vobis moyses famulus domini, ut diligatis dominum deum vestrum, et ambuletis in omnibus viis eius, et observetis mandata illius, adhaereatisque ei, ac serviatis in omni corde, et in omni anima vestra.	2020-04-18	Liber_Iosue
+1100000479	benedixitque eis iosue, et dimisit eos. 	2020-04-18	Liber_Iosue
+1100000480	qui reversi sunt in tabernacula sua.	2020-04-18	Liber_Iosue
+1100000481	dimidiae autem tribui manasse possessionem moyses dederat in basan: et idcirco mediae, quae superfuit, dedit iosue sortem inter ceteros fratres suos trans iordanem ad occidentalem plagam. 	2020-04-18	Liber_Iosue
+1100000482	cumque dimitteret eos in tabernacula sua, et benedixisset eis,dixit ad eos: in multa substantia atque divitiis revertimini ad sedes vestras, cum argento et auro, aere ac ferro, et veste multiplici: dividite praedam hostium cum fratribus vestris.	2020-04-18	Liber_Iosue
+1100000483	reversique sunt, et abierunt filii ruben, et filii gad, et dimidia tribus manasse, a filiis israel de silo, quae sita est in chanaan, ut intrarent galaad terram possessionis suae, quam obtinuerant iuxta imperium domini in manu moysi.	2020-04-18	Liber_Iosue
+1100000484	cumque venissent ad tumulos iordanis in terram chanaan, aedificaverunt iuxta iordanem altare infinitae magnitudinis.	2020-04-18	Liber_Iosue
+1100000485	quod cum audissent filii israel, et ad eos certi nuntii detulissent, aedificasse filios ruben, et gad, et dimidiae tribus manasse, altare in terra chanaan, super iordanis tumulos, contra filios israel:convenerunt omnes in silo, ut ascenderent, et dimicarent contra eos.	2020-04-18	Liber_Iosue
+1100000486	et interim miserunt ad illos in terram galaad phinees filium eleazari sacerdotis,et decem principes cum eo, singulos de singulis tribubus.	2020-04-18	Liber_Iosue
+1100000487	qui venerunt ad filios ruben, et gad, et dimidiae tribus manasse in terram galaad, dixeruntque ad eos:haec mandat omnis populus domini: quae est ista transgressio? 	2020-04-18	Liber_Iosue
+1100000488	cur reliquistis dominum deum israel, aedificantes altare sacrilegum, et a cultu illius recedentes?	2020-04-18	Liber_Iosue
+1100000489	an parum vobis est quod peccastis in beelphegor, et usque in praesentem diem macula huius sceleris in nobis permanet, multique de populo corruerunt?	2020-04-18	Liber_Iosue
+1100000490	et vos hodie reliquistis dominum, et cras in universum israel ira eius desaeviet.	2020-04-18	Liber_Iosue
+1100000491	quod si putatis immundam esse terram possessionis vestrae, transite ad terram, in qua tabernaculum domini est, et habitate inter nos: tantum ut a domino et a nostro consortio non recedatis, aedificato altari praeter altare domini dei nostri.	2020-04-18	Liber_Iosue
+1100000492	nonne achan filius zare praeteriit mandatum domini, et super omnem populum israel ira eius incubuit? 	2020-04-18	Liber_Iosue
+1100000493	et ille erat unus homo, atque utinam solum periisset in scelere suo.	2020-04-18	Liber_Iosue
+1100000494	responderuntque filii ruben et gad, et dimidia tribus manasse, principibus legationis israel:fortissimus deus dominus, fortissimus deus dominus, ipse novit, et israel simul intelliget: si praevaricationis animo hoc altare construximus, non custodiat nos, sed puniat nos in praesenti:et si ea mente fecimus ut holocausta, et sacrificium, et pacificas victimas super eo imponeremus, ipse quaerat et iudicet:et non ea magis cogitatione atque tractatu, ut diceremus: cras dicent filii vestri filiis nostris: quid vobis et domino deo israel?	2020-04-18	Liber_Iosue
+1100000495	terminum posuit dominus inter nos et vos, o filii ruben, et filii gad, iordanem fluvium, et idcirco partem non habetis in domino: et per hanc occasionem avertent filii vestri filios nostros a timore domini. 	2020-04-18	Liber_Iosue
+1100000496	putavimus itaque melius,et diximus: exstruamus nobis altare, non in holocausta, neque ad victimas offerendas,sed in testimonium inter nos et vos, et sobolem nostram vestramque progeniem, ut serviamus domino, et iuris nostri sit offerre et holocausta, et victimas, et pacificas hostias: et nequaquam dicant cras filii vestri filiis nostris: non est vobis pars in domino.	2020-04-18	Liber_Iosue
+1100000497	quod si voluerint dicere, respondebunt eis: ecce altare domini, quod fecerunt patres nostri, non in holocausta, neque in sacrificium, sed in testimonium nostrum ac vestrum.	2020-04-18	Liber_Iosue
+1100000498	absit a nobis hoc scelus, ut recedamus a domino, et eius vestigia relinquamus, exstructo altari ad holocausta, et sacrificia, et victimas offerendas, praeter altare domini dei nostri, quod exstructum est ante tabernaculum eius.	2020-04-18	Liber_Iosue
+1100000499	quibus auditis, phinees sacerdos, et principes legationis israel, qui erant cum eo, placati sunt: et verba filiorum ruben, et gad, et dimidiae tribus manasse, libentissime susceperunt.	2020-04-18	Liber_Iosue
+1100000500	dixitque phinees filius eleazari sacerdos ad eos: nunc scimus quod nobiscum sit dominus, quoniam alieni estis a praevaricatione hac, et liberastis filios israel de manu domini.	2020-04-18	Liber_Iosue
+1100000501	reversusque est cum principibus a filiis ruben et gad de terra galaad, finium chanaan, ad filios israel, et retulit eis.	2020-04-18	Liber_Iosue
+1100000502	placuitque sermo cunctis audientibus. 	2020-04-18	Liber_Iosue
+1100000503	et laudaverunt deum filii israel, et nequaquam ultra dixerunt, ut ascenderent contra eos, atque pugnarent, et delerent terram possessionis eorum.	2020-04-18	Liber_Iosue
+1100000504	vocaveruntque filii ruben, et filii gad, altare quod exstruxerant, testimonium nostrum, quod dominus ipse sit deus.	2020-04-18	Liber_Iosue
+1100000505	caput 23	2020-04-18	Liber_Iosue
+1100000506	evoluto autem multo tempore, postquam pacem dederat dominus israeli, subiectis in gyro nationibus universis, et iosue iam longaevo, et persenilis aetatis,vocavit iosue omnem israelem, maioresque natu, et principes ac duces, et magistros, dixitque ad eos: ego senui, et progressioris aetatis sum:vosque cernitis omnia, quae fecerit dominus deus vester cunctis per circuitum nationibus, quomodo pro vobis ipse pugnaverit:et nunc quia vobis sorte divisit omnem terram, ab orientali parte iordanis usque ad mare magnum, multaeque adhuc supersunt nationes:dominus deus vester disperdet eas et auferet a facie vestra, et possidebitis terram, sicut vobis pollicitus est.	2020-04-18	Liber_Iosue
+1100000507	tantum confortamini, et estote solliciti, ut custodiatis cuncta quae scripta sunt in volumine legis moysi: et non declinetis ab eis neque ad dexteram neque ad sinistram:ne postquam intraveritis ad gentes quae inter vos futurae sunt, iuretis in nomine deorum earum, et serviatis eis, et adoretis illos:sed adhaereatis domino deo vestro: quod fecistis usque in diem hanc.	2020-04-18	Liber_Iosue
+1100000508	et tunc auferet dominus deus in conspectu vestro gentes magnas et robustissimas, et nullus vobis resistere poterit.	2020-04-18	Liber_Iosue
+1100000509	unus e vobis persequetur hostium mille viros: quia dominus deus vester pro vobis ipse pugnabit, sicut pollicitus est.	2020-04-18	Liber_Iosue
+1100000510	hoc tantum diligentissime praecavete: ut diligatis dominum deum vestrum.	2020-04-18	Liber_Iosue
+1100000511	quod si volueritis gentium harum, quae inter vos habitant, erroribus adhaerere, et cum eis miscere connubia, atque amicitias copulare:iam nunc scitote quod dominus deus vester non eas deleat ante faciem vestram, sed sint vobis in foveam ac laqueum, et offendiculum ex latere vestro, et sudes in oculis vestris, donec vos auferat atque disperdat de terra hac optima, quam tradidit vobis.	2020-04-18	Liber_Iosue
+1100000512	en ego hodie ingredior viam universae terrae, et toto animo cognoscetis quod de omnibus verbis, quae se dominus praestiturum vobis esse pollicitus est, unum non praeterierit incassum.	2020-04-18	Liber_Iosue
+1100000513	sicut ergo implevit opere quod promisit, et prospera cuncta venerunt: sic adducet super vos quidquid malorum comminatus est, donec vos auferat atque disperdat de terra hac optima, quam tradidit vobis,eo quod praeterieritis pactum domini dei vestri, quod pepigit vobiscum, et servieritis diis alienis, ad adoraveritis eos: cito atque velociter consurget in vos furor domini, et auferemini ab hac terra optima, quam tradidit vobis.	2020-04-18	Liber_Iosue
+1100000514	caput 24	2020-04-18	Liber_Iosue
+1100000515	congregavitque iosue omnes tribus israel in sichem, et vocavit maiores natu, ac principes, et iudices, et magistros: steteruntque in conspectu domini,et ad populum sic locutus est: haec dicit dominus deus israel: trans fluvium habitaverunt patres vestri ab initio, thare pater abraham et nachor: servieruntque diis alienis.	2020-04-18	Liber_Iosue
+1100000516	tuli ergo patrem vestrum abraham de mesopotamiae finibus, et adduxi eum in terram chanaan, multiplicavique semen eius,et dedi ei isaac: illique rursum dedi iacob et esau. 	2020-04-18	Liber_Iosue
+1100000517	e quibus, esau dedi montem seir ad possidendum: iacob vero et filii eius descenderunt in aegyptum.	2020-04-18	Liber_Iosue
+1100000518	misique moysen et aaron, et percussi aegyptum multis signis atque portentis.	2020-04-18	Liber_Iosue
+1100000519	eduxique vos et patres vestros de aegypto, et venistis ad mare: persecutique sunt aegyptii patres vestros cum curribus et equitatu, usque ad mare rubrum.	2020-04-18	Liber_Iosue
+1100000520	clamaverunt autem ad dominum filii israel: qui posuit tenebras inter vos et aegyptios, et adduxit super eos mare, et operuit eos. 	2020-04-18	Liber_Iosue
+1100000521	viderunt oculi vestri cuncta quae in aegypto fecerim, et habitastis in solitudine multo tempore:et introduxi vos in terram amorrhaei, qui habitabat trans iordanem. 	2020-04-18	Liber_Iosue
+1100000522	cumque pugnarent contra vos, tradidi eos in manus vestras, et possedistis terram eorum, atque interfecistis eos.	2020-04-18	Liber_Iosue
+1100000523	surrexit autem balac filius sephor rex moab, et pugnavit contra israelem. 	2020-04-18	Liber_Iosue
+1100000524	misitque et vocavit balaam filium beor, ut malediceret vobis:et ego nolui audire eum, sed e contrario per illum benedixi vobis, et liberavi vos de manu eius.	2020-04-18	Liber_Iosue
+1100000525	transistisque iordanem, et venistis ad iericho. 	2020-04-18	Liber_Iosue
+1100000526	pugnaveruntque contra vos viri civitatis eius, amorrhaeus et pherezaeus, et chananaeus, et hethaeus, et gergezaeus, et hevaeus, et iebusaeus: et tradidi illos in manus vestras.	2020-04-18	Liber_Iosue
+1100000527	misique ante vos crabrones: et eieci eos de locis suis, duos reges amorrhaeorum, non in gladio nec in arcu tuo.	2020-04-18	Liber_Iosue
+1100000528	dedique vobis terram, in qua non laborastis, et urbes quas non aedificastis, ut habitaretis in eis: vineas, et oliveta, quae non plantastis.	2020-04-18	Liber_Iosue
+1100000529	nunc ergo timete dominum, et servite ei perfecto corde atque verissimo: et auferte deos quibus servierunt patres vestri in mesopotamia et in aegypto, ac servite domino.	2020-04-18	Liber_Iosue
+1100000530	sin autem malum vobis videtur ut domino serviatis, optio vobis datur: eligite hodie quod placet, cui servire potissimum debeatis: utrum diis, quibus servierunt patres vestri in mesopotamia, an diis amorrhaeorum, in quorum terra habitatis: ego autem et domus mea serviemus domino.	2020-04-18	Liber_Iosue
+1100000531	responditque populus, et ait: absit a nobis ut relinquamus dominum, et serviamus diis alienis.	2020-04-18	Liber_Iosue
+1100000532	dominus deus noster, ipse eduxit nos et patres nostros de terra aegypti, de domo servitutis: fecitque videntibus nobis signa ingentia, et custodivit nos in omni via per quam ambulavimus, et in cunctis populis per quos transivimus.	2020-04-18	Liber_Iosue
+1100000533	et eiecit universas gentes, amorrhaeum habitatorem terrae quam nos intravimus. 	2020-04-18	Liber_Iosue
+1100000534	serviemus igitur domino, quia ipse est deus noster.	2020-04-18	Liber_Iosue
+1100000535	dixitque iosue ad populum: non poteritis servire domino: deus enim sanctus et fortis aemulator est, nec ignoscet sceleribus vestris atque peccatis.	2020-04-18	Liber_Iosue
+1100000536	si dimiseritis dominum, et servieritis diis alienis, convertet se, et affliget vos atque subvertet, postquam vobis praestiterit bona.	2020-04-18	Liber_Iosue
+1100000537	dixitque populus ad iosue: nequaquam ita ut loqueris erit, sed domino serviemus.	2020-04-18	Liber_Iosue
+1100000538	et iosue ad populum: testes, inquit, vos estis, quia ipsi elegeritis vobis dominum ut serviatis ei. 	2020-04-18	Liber_Iosue
+1100000539	responderuntque: testes.	2020-04-18	Liber_Iosue
+1100000540	nunc ergo, ait, auferte deos alienos de medio vestri, et inclinate corda vestra ad dominum deum israel.	2020-04-18	Liber_Iosue
+1100000541	dixitque populus ad iosue: domino deo nostro serviemus, et obedientes erimus praeceptis eius.	2020-04-18	Liber_Iosue
+1100000542	percussit ergo iosue in die illo foedus, et proposuit populo praecepta atque iudicia in sichem.	2020-04-18	Liber_Iosue
+1100000543	scripsit quoque omnia verba haec in volumine legis domini: et tulit lapidem pergrandem, posuitque eum subter quercum, quae erat in sanctuario domini:et dixit ad omnem populum: en lapis iste erit vobis in testimonium, quod audierit omnia verba domini, quae locutus est vobis: ne forte postea negare velitis, et mentiri domino deo vestro.	2020-04-18	Liber_Iosue
+1100000544	dimisitque populum, singulos in possessionem suam.	2020-04-18	Liber_Iosue
+1100000545	et post haec mortuus est iosue filius nun servus domini, centum et decem annorum:sepelieruntque eum in finibus possessionis suae in thamnathsare, quae est sita in monte ephraim, a septentrionali parte montis gaas.	2020-04-18	Liber_Iosue
+1100000546	servivitque israel domino cunctis diebus iosue et seniorum, qui longo vixerunt tempore post iosue, et qui noverunt omnia opera domini quae fecerat in israel.	2020-04-18	Liber_Iosue
+1100000547	ossa quoque ioseph, quae tulerant filii israel de aegypto, sepelierunt in sichem, in parte agri quem emerat iacob a filiis hemor patris sichem, centum novellis ovibus, et fuit in possessionem filiorum ioseph.	2020-04-18	Liber_Iosue
+1100000548	eleazar quoque filius aaron mortuus est: et sepelierunt eum in gabaath phinees filii eius, quae data est ei in monte ephraim.	2020-04-18	Liber_Iosue

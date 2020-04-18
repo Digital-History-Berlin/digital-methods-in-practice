@@ -1,0 +1,629 @@
+1100000001	prophetia osee	2020-04-18	Prophetia_Osee
+1100000002	caput 1	2020-04-18	Prophetia_Osee
+1100000003	verbum domini, quod factum est ad osee, filium beeri, in diebus oziae, ioathan, achaz, ezechiae, regum iuda; et in diebus ieroboam, filii ioas, regis israel.	2020-04-18	Prophetia_Osee
+1100000004	principium loquendi domino in osee. 	2020-04-18	Prophetia_Osee
+1100000005	et dixit dominus ad osee: vade, sume tibi uxorem fornicationum, et fac tibi filios fornicationum, quia fornicans fornicabitur terra a domino.	2020-04-18	Prophetia_Osee
+1100000006	et abiit, et accepit gomer, filiam debelaim: et concepit, et peperit ei filium.	2020-04-18	Prophetia_Osee
+1100000007	et dixit dominus ad eum: voca nomen eius iezrahel, quoniam adhuc modicum, et visitabo sanguinem iezrahel super domum iehu, et quiescere faciam regnum domus israel.	2020-04-18	Prophetia_Osee
+1100000008	et in illa die conteram arcum israel in valle iezrahel.	2020-04-18	Prophetia_Osee
+1100000009	et concepit adhuc, et peperit filiam. 	2020-04-18	Prophetia_Osee
+1100000010	et dixit ei: voca nomen eius, absque misericordia, quia non addam ultra misereri domui israel, sed oblivione obliviscar eorum.	2020-04-18	Prophetia_Osee
+1100000011	et domui iuda miserebor, et salvabo eos in domino deo suo; et non salvabo eos in arcu et gladio, et in bello, et in equis, et in equitibus.	2020-04-18	Prophetia_Osee
+1100000012	et ablactavit eam quae erat absque misericordia. 	2020-04-18	Prophetia_Osee
+1100000013	et concepit, et peperit filium.	2020-04-18	Prophetia_Osee
+1100000014	et dixit: voca nomen eius, non populus meus, quia vos non populus meus, et ego non ero vester.	2020-04-18	Prophetia_Osee
+1100000015	et erit numerus filiorum israel quasi arena maris, quae sine mensura est, et non numerabitur. 	2020-04-18	Prophetia_Osee
+1100000016	et erit in loco ubi dicetur eis: non populus meus vos: dicetur eis: filii dei viventis.	2020-04-18	Prophetia_Osee
+1100000017	et congregabuntur filii iuda et filii israel pariter; et ponent sibimet caput unum, et ascendent de terra, quia magnus dies iezrahel.	2020-04-18	Prophetia_Osee
+1100000018	caput 2	2020-04-18	Prophetia_Osee
+1100000019	dicite fratribus vestris: populus meus; et sorori vestrae: misericordiam consecuta.	2020-04-18	Prophetia_Osee
+1100000020	iudicate matrem vestram, iudicate,	2020-04-18	Prophetia_Osee
+1100000021	quoniam ipsa non uxor mea,	2020-04-18	Prophetia_Osee
+1100000022	et ego non vir eius.	2020-04-18	Prophetia_Osee
+1100000023	auferat fornicationes suas a facie sua,	2020-04-18	Prophetia_Osee
+1100000024	et adulteria sua de medio uberum suorum;	2020-04-18	Prophetia_Osee
+1100000025	ne forte expoliem eam nudam,	2020-04-18	Prophetia_Osee
+1100000026	et statuam eam secundum diem nativitatis suae,	2020-04-18	Prophetia_Osee
+1100000027	et ponam eam quasi solitudinem,	2020-04-18	Prophetia_Osee
+1100000028	et statuam eam velut terram inviam,	2020-04-18	Prophetia_Osee
+1100000029	et interficiam eam siti.	2020-04-18	Prophetia_Osee
+1100000030	et filiorum illius non miserebor,	2020-04-18	Prophetia_Osee
+1100000031	quoniam filii fornicationum sunt.	2020-04-18	Prophetia_Osee
+1100000032	quia fornicata est mater eorum,	2020-04-18	Prophetia_Osee
+1100000033	confusa est quae concepit eos;	2020-04-18	Prophetia_Osee
+1100000034	quia dixit: vadam post amatores meos,	2020-04-18	Prophetia_Osee
+1100000035	qui dant panes mihi, et aquas meas,	2020-04-18	Prophetia_Osee
+1100000036	lanam meam, et linum meum,	2020-04-18	Prophetia_Osee
+1100000037	oleum meum, et potum meum.	2020-04-18	Prophetia_Osee
+1100000038	propter hoc ecce ego sepiam viam tuam spinis,	2020-04-18	Prophetia_Osee
+1100000039	et sepiam eam maceria, et semitas suas non inveniet.	2020-04-18	Prophetia_Osee
+1100000040	et sequetur amatores suos, et non apprehendet eos;	2020-04-18	Prophetia_Osee
+1100000041	et quaeret eos, et non inveniet:	2020-04-18	Prophetia_Osee
+1100000042	et dicet: vadam, et revertar ad virum meum priorem,	2020-04-18	Prophetia_Osee
+1100000043	quia bene mihi erat tunc magis quam nunc.	2020-04-18	Prophetia_Osee
+1100000044	et haec nescivit, quia ego dedi ei frumentum, et vinum, et oleum,	2020-04-18	Prophetia_Osee
+1100000045	et argentum multiplicavi ei, et aurum,	2020-04-18	Prophetia_Osee
+1100000046	quae fecerunt baal.	2020-04-18	Prophetia_Osee
+1100000047	idcirco convertar, et sumam frumentum meum in tempore suo,	2020-04-18	Prophetia_Osee
+1100000048	et vinum meum in tempore suo.	2020-04-18	Prophetia_Osee
+1100000049	et liberabo lanam meam et linum meum,	2020-04-18	Prophetia_Osee
+1100000050	quae operiebant ignominiam eius.	2020-04-18	Prophetia_Osee
+1100000051	et nunc revelabo stultitiam eius in oculis amatorum eius;	2020-04-18	Prophetia_Osee
+1100000052	et vir non eruet eam de manu mea;	2020-04-18	Prophetia_Osee
+1100000053	et cessare faciam omne gaudium eius,	2020-04-18	Prophetia_Osee
+1100000054	solemnitatem eius, neomeniam eius, sabbatum eius,	2020-04-18	Prophetia_Osee
+1100000055	et omnia festa tempora eius.	2020-04-18	Prophetia_Osee
+1100000056	et corrumpam vineam eius, et ficum eius,	2020-04-18	Prophetia_Osee
+1100000057	de quibus dixit: mercedes hae meae sunt,	2020-04-18	Prophetia_Osee
+1100000058	quas dederunt mihi amatores mei;	2020-04-18	Prophetia_Osee
+1100000059	et ponam eam in saltum,	2020-04-18	Prophetia_Osee
+1100000060	et comedet eam bestia agri.	2020-04-18	Prophetia_Osee
+1100000061	et visitabo super eam dies baalim,	2020-04-18	Prophetia_Osee
+1100000062	quibus accendebat incensum,	2020-04-18	Prophetia_Osee
+1100000063	et ornabatur in aure sua, et monili suo.	2020-04-18	Prophetia_Osee
+1100000064	et ibat post amatores suos,	2020-04-18	Prophetia_Osee
+1100000065	et mei obliviscebatur, dicit dominus.	2020-04-18	Prophetia_Osee
+1100000066	propter hoc ecce ego lactabo eam,	2020-04-18	Prophetia_Osee
+1100000067	et ducam eam in solitudinem,	2020-04-18	Prophetia_Osee
+1100000068	et loquar ad cor eius.	2020-04-18	Prophetia_Osee
+1100000069	et dabo ei vinitores eius ex eodem loco,	2020-04-18	Prophetia_Osee
+1100000070	et vallem achor, ad aperiendam spem;	2020-04-18	Prophetia_Osee
+1100000071	et canet ibi iuxta dies iuventutis suae,	2020-04-18	Prophetia_Osee
+1100000072	et iuxta dies ascensionis suae de terra aegypti.	2020-04-18	Prophetia_Osee
+1100000073	et erit in die illa, ait dominus:	2020-04-18	Prophetia_Osee
+1100000074	vocabit me, vir meus,	2020-04-18	Prophetia_Osee
+1100000075	et non vocabit me ultra baali.	2020-04-18	Prophetia_Osee
+1100000076	et auferam nomina baalim de ore eius,	2020-04-18	Prophetia_Osee
+1100000077	et non recordabitur ultra nominis eorum.	2020-04-18	Prophetia_Osee
+1100000078	et percutiam cum eis foedus in die illa, cum bestia agri,	2020-04-18	Prophetia_Osee
+1100000079	et cum volucre caeli, et cum reptili terrae;	2020-04-18	Prophetia_Osee
+1100000080	et arcum, et gladium, et bellum conteram de terra,	2020-04-18	Prophetia_Osee
+1100000081	et dormire eos faciam fiducialiter.	2020-04-18	Prophetia_Osee
+1100000082	et sponsabo te mihi in sempiternum;	2020-04-18	Prophetia_Osee
+1100000083	et sponsabo te mihi in iustitia, et iudicio,	2020-04-18	Prophetia_Osee
+1100000084	et in misericordia, et in miserationibus.	2020-04-18	Prophetia_Osee
+1100000085	et sponsabo te mihi in fide;	2020-04-18	Prophetia_Osee
+1100000086	et scies quia ego dominus.	2020-04-18	Prophetia_Osee
+1100000087	et erit in die illa:	2020-04-18	Prophetia_Osee
+1100000088	exaudiam, dicit dominus, exaudiam caelos,	2020-04-18	Prophetia_Osee
+1100000089	et illi exaudient terram.	2020-04-18	Prophetia_Osee
+1100000090	et terra exaudiet triticum, et vinum, et oleum,	2020-04-18	Prophetia_Osee
+1100000091	et haec exaudient iezrahel.	2020-04-18	Prophetia_Osee
+1100000092	et seminabo eam mihi in terra,	2020-04-18	Prophetia_Osee
+1100000093	et miserebor eius quae fuit absque misericordia.	2020-04-18	Prophetia_Osee
+1100000094	et dicam non populo meo: populus meus es tu;	2020-04-18	Prophetia_Osee
+1100000095	et ipse dicet: deus meus es tu.	2020-04-18	Prophetia_Osee
+1100000096	caput 3	2020-04-18	Prophetia_Osee
+1100000097	et dixit dominus ad me: adhuc vade, et dilige mulierem dilectam amico et adulteram, sicut diligit dominus filios israel, et ipsi respiciunt ad deos alienos, et diligunt vinacia uvarum.	2020-04-18	Prophetia_Osee
+1100000098	et fodi eam mihi quindecim argenteis, et coro hordei, et dimidio coro hordaei.	2020-04-18	Prophetia_Osee
+1100000099	et dixi ad eam: dies multos exspectabis me; non fornicaberis, et non eris viro; sed et ego exspectabo te.	2020-04-18	Prophetia_Osee
+1100000100	quia dies multos sedebunt filii israel sine rege, et sine principe, et sine sacrificio, et sine altari, et sine ephod, et sine theraphim.	2020-04-18	Prophetia_Osee
+1100000101	et post haec revertentur filii israel, et quaerent dominum deum suum, et david regem suum: et pavebunt ad dominum, et ad bonum eius, in novissimo dierum.	2020-04-18	Prophetia_Osee
+1100000102	caput 4	2020-04-18	Prophetia_Osee
+1100000103	audite verbum domini, filii israel,	2020-04-18	Prophetia_Osee
+1100000104	quia iudicium domino cum habitatoribus terrae:	2020-04-18	Prophetia_Osee
+1100000105	non est enim veritas, et non est misericordia,	2020-04-18	Prophetia_Osee
+1100000106	et non est scientia dei in terra.	2020-04-18	Prophetia_Osee
+1100000107	maledictum, et mendacium,	2020-04-18	Prophetia_Osee
+1100000108	et homicidium, et furtum, et adulterium inundaverunt,	2020-04-18	Prophetia_Osee
+1100000109	et sanguis sanguinem tetigit.	2020-04-18	Prophetia_Osee
+1100000110	propter hoc lugebit terra,	2020-04-18	Prophetia_Osee
+1100000111	et infirmabitur omnis qui habitat in ea,	2020-04-18	Prophetia_Osee
+1100000112	in bestia agri, et in volucre caeli;	2020-04-18	Prophetia_Osee
+1100000113	sed et pisces maris congregabuntur.	2020-04-18	Prophetia_Osee
+1100000114	verumtamen unusquisque non iudicet,	2020-04-18	Prophetia_Osee
+1100000115	et non arguatur vir:	2020-04-18	Prophetia_Osee
+1100000116	populus enim tuus sicut hi qui contradicunt sacerdoti.	2020-04-18	Prophetia_Osee
+1100000117	et corrues hodie,	2020-04-18	Prophetia_Osee
+1100000118	et corruet etiam propheta tecum.	2020-04-18	Prophetia_Osee
+1100000119	nocte tacere feci matrem tuam.	2020-04-18	Prophetia_Osee
+1100000120	conticuit populus meus,	2020-04-18	Prophetia_Osee
+1100000121	eo quod non habuerit scientiam:	2020-04-18	Prophetia_Osee
+1100000122	quia tu scientiam repulisti,	2020-04-18	Prophetia_Osee
+1100000123	repellam te, ne sacerdotio fungaris mihi;	2020-04-18	Prophetia_Osee
+1100000124	et oblita es legis dei tui,	2020-04-18	Prophetia_Osee
+1100000125	obliviscar filiorum tuorum et ego.	2020-04-18	Prophetia_Osee
+1100000126	secundum multitudinem eorum sic peccaverunt mihi:	2020-04-18	Prophetia_Osee
+1100000127	gloriam eorum in ignominiam commutabo.	2020-04-18	Prophetia_Osee
+1100000128	peccata populi mei comedent,	2020-04-18	Prophetia_Osee
+1100000129	et ad iniquitatem eorum sublevabunt animas eorum.	2020-04-18	Prophetia_Osee
+1100000130	et erit sicut populus, sic sacerdos;	2020-04-18	Prophetia_Osee
+1100000131	et visitabo super eum vias eius,	2020-04-18	Prophetia_Osee
+1100000132	et cogitationes eius reddam ei.	2020-04-18	Prophetia_Osee
+1100000133	et comedent, et non saturabuntur;	2020-04-18	Prophetia_Osee
+1100000134	fornicati sunt, et non cessaverunt:	2020-04-18	Prophetia_Osee
+1100000135	quoniam dominum dereliquerunt in non custodiendo.	2020-04-18	Prophetia_Osee
+1100000136	fornicatio, et vinum, et ebrietas auferunt cor.	2020-04-18	Prophetia_Osee
+1100000137	populus meus in ligno suo interrogavit,	2020-04-18	Prophetia_Osee
+1100000138	et baculus eius annuntiavit ei;	2020-04-18	Prophetia_Osee
+1100000139	spiritus enim fornicationum decepit eos,	2020-04-18	Prophetia_Osee
+1100000140	et fornicati sunt a deo suo.	2020-04-18	Prophetia_Osee
+1100000141	super capita montium sacrificabant,	2020-04-18	Prophetia_Osee
+1100000142	et super colles ascendebant thymiama;	2020-04-18	Prophetia_Osee
+1100000143	subtus quercum, et populum, et terebinthum,	2020-04-18	Prophetia_Osee
+1100000144	quia bona erat umbra eius;	2020-04-18	Prophetia_Osee
+1100000145	ideo fornicabuntur filiae vestrae,	2020-04-18	Prophetia_Osee
+1100000146	et sponsae vestrae adulterae erunt.	2020-04-18	Prophetia_Osee
+1100000147	non visitabo super filias vestras cum fuerint fornicatae,	2020-04-18	Prophetia_Osee
+1100000148	et super sponsas vestras cum adulteraverint,	2020-04-18	Prophetia_Osee
+1100000149	quoniam ipsi cum meretricibus conversabantur,	2020-04-18	Prophetia_Osee
+1100000150	et cum effeminatis sacrificabant;	2020-04-18	Prophetia_Osee
+1100000151	et populus non intelligens vapulabit.	2020-04-18	Prophetia_Osee
+1100000152	si fornicaris tu, israel,	2020-04-18	Prophetia_Osee
+1100000153	non delinquat saltem iuda;	2020-04-18	Prophetia_Osee
+1100000154	et nolite ingredi in galgala,	2020-04-18	Prophetia_Osee
+1100000155	et ne ascenderitis in bethaven,	2020-04-18	Prophetia_Osee
+1100000156	neque iuraveritis: vivit dominus!	2020-04-18	Prophetia_Osee
+1100000157	quoniam sicut vacca lasciviens declinavit israel;	2020-04-18	Prophetia_Osee
+1100000158	nunc pascet eos dominus, quasi agnum in latitudine.	2020-04-18	Prophetia_Osee
+1100000159	particeps idolorum ephraim: dimitte eum.	2020-04-18	Prophetia_Osee
+1100000160	separatum est convivium eorum;	2020-04-18	Prophetia_Osee
+1100000161	fornicatione fornicati sunt:	2020-04-18	Prophetia_Osee
+1100000162	dilexerunt afferre ignominiam protectores eius.	2020-04-18	Prophetia_Osee
+1100000163	ligavit eum spiritus in alis suis,	2020-04-18	Prophetia_Osee
+1100000164	et confundentur a sacrificiis suis.	2020-04-18	Prophetia_Osee
+1100000165	caput 5	2020-04-18	Prophetia_Osee
+1100000166	audite hoc, sacerdotes,	2020-04-18	Prophetia_Osee
+1100000167	et attendite, domus israel,	2020-04-18	Prophetia_Osee
+1100000168	et domus regis, auscultate:	2020-04-18	Prophetia_Osee
+1100000169	quia vobis iudicium est,	2020-04-18	Prophetia_Osee
+1100000170	quoniam laqueus facti estis speculationi,	2020-04-18	Prophetia_Osee
+1100000171	et rete expansum super thabor.	2020-04-18	Prophetia_Osee
+1100000172	et victimas declinastis in profundum;	2020-04-18	Prophetia_Osee
+1100000173	et ego eruditor omnium eorum.	2020-04-18	Prophetia_Osee
+1100000174	ego scio ephraim,	2020-04-18	Prophetia_Osee
+1100000175	et israel non est absconditus a me:	2020-04-18	Prophetia_Osee
+1100000176	quia nunc fornicatus est ephraim;	2020-04-18	Prophetia_Osee
+1100000177	contaminatus est israel.	2020-04-18	Prophetia_Osee
+1100000178	non dabunt cogitationes suas ut revertantur ad deum suum,	2020-04-18	Prophetia_Osee
+1100000179	quia spiritus fornicationum in medio eorum,	2020-04-18	Prophetia_Osee
+1100000180	et dominum non cognoverunt.	2020-04-18	Prophetia_Osee
+1100000181	et respondebit arrogantia israel in facie eius,	2020-04-18	Prophetia_Osee
+1100000182	et israel et ephraim ruent in iniquitate sua:	2020-04-18	Prophetia_Osee
+1100000183	ruet etiam iudas cum eis.	2020-04-18	Prophetia_Osee
+1100000184	in gregibus suis et in armentis suis vadent ad quaerendum dominum,	2020-04-18	Prophetia_Osee
+1100000185	et non invenient:	2020-04-18	Prophetia_Osee
+1100000186	ablatus est ab eis.	2020-04-18	Prophetia_Osee
+1100000187	in dominum praevaricati sunt,	2020-04-18	Prophetia_Osee
+1100000188	quia filios alienos genuerunt:	2020-04-18	Prophetia_Osee
+1100000189	nunc devorabit eos mensis, cum partibus suis.	2020-04-18	Prophetia_Osee
+1100000190	clangite buccina in gabaa,	2020-04-18	Prophetia_Osee
+1100000191	tuba in rama;	2020-04-18	Prophetia_Osee
+1100000192	ululate in bethaven,	2020-04-18	Prophetia_Osee
+1100000193	post tergum tuum, beniamin.	2020-04-18	Prophetia_Osee
+1100000194	ephraim in desolatione erit in die correptionis;	2020-04-18	Prophetia_Osee
+1100000195	in tribubus israel ostendi fidem.	2020-04-18	Prophetia_Osee
+1100000196	facti sunt principes iuda quasi assumentes terminum;	2020-04-18	Prophetia_Osee
+1100000197	super eos effundam quasi aquam iram meam.	2020-04-18	Prophetia_Osee
+1100000198	calumniam patiens est ephraim, fractus iudicio,	2020-04-18	Prophetia_Osee
+1100000199	quoniam coepit abire post sordes.	2020-04-18	Prophetia_Osee
+1100000200	et ego quasi tinea ephraim,	2020-04-18	Prophetia_Osee
+1100000201	et quasi putredo domui iuda.	2020-04-18	Prophetia_Osee
+1100000202	et vidit ephraim languorem suum,	2020-04-18	Prophetia_Osee
+1100000203	et iuda vinculum suum;	2020-04-18	Prophetia_Osee
+1100000204	et abiit ephraim ad assur,	2020-04-18	Prophetia_Osee
+1100000205	et misit ad regem ultorem:	2020-04-18	Prophetia_Osee
+1100000206	et ipse non poterit sanare vos,	2020-04-18	Prophetia_Osee
+1100000207	nec solvere poterit a vobis vinculum.	2020-04-18	Prophetia_Osee
+1100000208	quoniam ego quasi leaena ephraim,	2020-04-18	Prophetia_Osee
+1100000209	et quasi catulus leonis domui iuda.	2020-04-18	Prophetia_Osee
+1100000210	ego, ego capiam, et vadam;	2020-04-18	Prophetia_Osee
+1100000211	tollam, et non est qui eruat.	2020-04-18	Prophetia_Osee
+1100000212	vadens revertar ad locum meum,	2020-04-18	Prophetia_Osee
+1100000213	donec deficiatis, et quaeratis faciem meam.	2020-04-18	Prophetia_Osee
+1100000214	caput 6	2020-04-18	Prophetia_Osee
+1100000215	in tribulatione sua mane consurgent ad me:	2020-04-18	Prophetia_Osee
+1100000216	venite, et revertamur ad dominum,	2020-04-18	Prophetia_Osee
+1100000217	quia ipse cepit, et sanabit nos;	2020-04-18	Prophetia_Osee
+1100000218	percutiet, et curabit nos.	2020-04-18	Prophetia_Osee
+1100000219	vivificabit nos post duos dies;	2020-04-18	Prophetia_Osee
+1100000220	in die tertia suscitabit nos,	2020-04-18	Prophetia_Osee
+1100000221	et vivemus in conspectu eius.	2020-04-18	Prophetia_Osee
+1100000222	sciemus, sequemurque ut cognoscamus dominum:	2020-04-18	Prophetia_Osee
+1100000223	quasi diluculum praeparatus est egressus eius,	2020-04-18	Prophetia_Osee
+1100000224	et veniet quasi imber nobis temporaneus et serotinus terrae.	2020-04-18	Prophetia_Osee
+1100000225	quid faciam tibi, ephraim?	2020-04-18	Prophetia_Osee
+1100000226	quid faciam tibi, iuda?	2020-04-18	Prophetia_Osee
+1100000227	misericordia vestra quasi nubes matutina,	2020-04-18	Prophetia_Osee
+1100000228	et quasi ros mane pertransiens.	2020-04-18	Prophetia_Osee
+1100000229	propter hoc dolavi in prophetis;	2020-04-18	Prophetia_Osee
+1100000230	occidi eos in verbis oris mei:	2020-04-18	Prophetia_Osee
+1100000231	et iudicia tua quasi lux egredientur.	2020-04-18	Prophetia_Osee
+1100000232	quia misericordiam volui, et non sacrificium;	2020-04-18	Prophetia_Osee
+1100000233	et scientiam dei plus quam holocausta.	2020-04-18	Prophetia_Osee
+1100000234	ipsi autem sicut adam transgressi sunt pactum:	2020-04-18	Prophetia_Osee
+1100000235	ibi praevaricati sunt in me.	2020-04-18	Prophetia_Osee
+1100000236	galaad civitas operantium idolum,	2020-04-18	Prophetia_Osee
+1100000237	supplantata sanguine.	2020-04-18	Prophetia_Osee
+1100000238	et quasi fauces virorum latronum,	2020-04-18	Prophetia_Osee
+1100000239	particeps sacerdotum, in via interficientium pergentes de sichem:	2020-04-18	Prophetia_Osee
+1100000240	quia scelus operati sunt.	2020-04-18	Prophetia_Osee
+1100000241	in domo israel vidi horrendum:	2020-04-18	Prophetia_Osee
+1100000242	ibi fornicationes ephraim,	2020-04-18	Prophetia_Osee
+1100000243	contaminatus est israel.	2020-04-18	Prophetia_Osee
+1100000244	sed et iuda, pone messem tibi,	2020-04-18	Prophetia_Osee
+1100000245	cum convertero captivitatem populi mei.	2020-04-18	Prophetia_Osee
+1100000246	caput 7	2020-04-18	Prophetia_Osee
+1100000247	cum sanare vellem israel,	2020-04-18	Prophetia_Osee
+1100000248	revelata est iniquitas ephraim,	2020-04-18	Prophetia_Osee
+1100000249	et malitia samariae,	2020-04-18	Prophetia_Osee
+1100000250	quia operati sunt mendacium;	2020-04-18	Prophetia_Osee
+1100000251	et fur ingressus est spolians,	2020-04-18	Prophetia_Osee
+1100000252	latrunculus foris.	2020-04-18	Prophetia_Osee
+1100000253	et ne forte dicant in cordibus suis,	2020-04-18	Prophetia_Osee
+1100000254	omnem malitiam eorum me recordatum,	2020-04-18	Prophetia_Osee
+1100000255	nunc circumdederunt eos adinventiones suae:	2020-04-18	Prophetia_Osee
+1100000256	coram facie mea factae sunt.	2020-04-18	Prophetia_Osee
+1100000257	in malitia sua laetificaverunt regem,	2020-04-18	Prophetia_Osee
+1100000258	et in mendaciis suis principes.	2020-04-18	Prophetia_Osee
+1100000259	omnes adulterantes,	2020-04-18	Prophetia_Osee
+1100000260	quasi clibanus succensus a coquente;	2020-04-18	Prophetia_Osee
+1100000261	quievit paululum civitas a commistione fermenti,	2020-04-18	Prophetia_Osee
+1100000262	donec fermentaretur totum.	2020-04-18	Prophetia_Osee
+1100000263	dies regis nostri: coeperunt principes furere a vino;	2020-04-18	Prophetia_Osee
+1100000264	extendit manum suam cum illusoribus.	2020-04-18	Prophetia_Osee
+1100000265	quia applicuerunt quasi clibanum cor suum,	2020-04-18	Prophetia_Osee
+1100000266	cum insidiaretur eis;	2020-04-18	Prophetia_Osee
+1100000267	tota nocte dormivit coquens eos:	2020-04-18	Prophetia_Osee
+1100000268	mane ipse succensus quasi ignis flammae.	2020-04-18	Prophetia_Osee
+1100000269	omnes calefacti sunt quasi clibanus,	2020-04-18	Prophetia_Osee
+1100000270	et devoraverunt iudices suos:	2020-04-18	Prophetia_Osee
+1100000271	omnes reges eorum ceciderunt;	2020-04-18	Prophetia_Osee
+1100000272	non est qui clamat in eis ad me.	2020-04-18	Prophetia_Osee
+1100000273	ephraim in populis ipse commiscebatur;	2020-04-18	Prophetia_Osee
+1100000274	ephraim factus est subcinericius panis, qui non reversatur.	2020-04-18	Prophetia_Osee
+1100000275	comederunt alieni robur eius, et ipse nescivit;	2020-04-18	Prophetia_Osee
+1100000276	sed et cani effusi sunt in eo, et ipse ignoravit.	2020-04-18	Prophetia_Osee
+1100000277	et humiliabitur superbia israel in facie eius;	2020-04-18	Prophetia_Osee
+1100000278	nec reversi sunt ad dominum deum suum,	2020-04-18	Prophetia_Osee
+1100000279	et non quaesierunt eum in omnibus his.	2020-04-18	Prophetia_Osee
+1100000280	et factus est ephraim quasi columba seducta non habens cor.	2020-04-18	Prophetia_Osee
+1100000281	aegyptum invocabant; ad assyrios abierunt.	2020-04-18	Prophetia_Osee
+1100000282	et cum profecti fuerint,	2020-04-18	Prophetia_Osee
+1100000283	expandam super eos rete meum:	2020-04-18	Prophetia_Osee
+1100000284	quasi volucrem caeli detraham eos;	2020-04-18	Prophetia_Osee
+1100000285	caedam eos secundum auditionem coetus eorum.	2020-04-18	Prophetia_Osee
+1100000286	vae eis, quoniam recesserunt a me!	2020-04-18	Prophetia_Osee
+1100000287	vastabuntur, quia praevaricati sunt in me,	2020-04-18	Prophetia_Osee
+1100000288	et ego redemi eos,	2020-04-18	Prophetia_Osee
+1100000289	et ipsi locuti sunt contra me mendacia.	2020-04-18	Prophetia_Osee
+1100000290	et non clamaverunt ad me in corde suo,	2020-04-18	Prophetia_Osee
+1100000291	sed ululabant in cubilibus suis:	2020-04-18	Prophetia_Osee
+1100000292	super triticum et vinum ruminabant;	2020-04-18	Prophetia_Osee
+1100000293	recesserunt a me.	2020-04-18	Prophetia_Osee
+1100000294	et ego erudivi eos, et confortavi brachia eorum,	2020-04-18	Prophetia_Osee
+1100000295	et in me cogitaverunt malitiam.	2020-04-18	Prophetia_Osee
+1100000296	reversi sunt ut essent absque iugo;	2020-04-18	Prophetia_Osee
+1100000297	facti sunt quasi arcus dolosus:	2020-04-18	Prophetia_Osee
+1100000298	cadent in gladio principes eorum, a furore linguae suae.	2020-04-18	Prophetia_Osee
+1100000299	ista subsannatio eorum in terra aegypti.	2020-04-18	Prophetia_Osee
+1100000300	caput 8	2020-04-18	Prophetia_Osee
+1100000301	in gutture tuo sit tuba	2020-04-18	Prophetia_Osee
+1100000302	quasi aquila super domum domini,	2020-04-18	Prophetia_Osee
+1100000303	pro eo quod transgressi sunt foedus meum,	2020-04-18	Prophetia_Osee
+1100000304	et legem meam praevaricati sunt.	2020-04-18	Prophetia_Osee
+1100000305	me invocabunt: deus meus,	2020-04-18	Prophetia_Osee
+1100000306	cognovimus te israel.	2020-04-18	Prophetia_Osee
+1100000307	proiecit israel bonum:	2020-04-18	Prophetia_Osee
+1100000308	inimicus persequetur eum.	2020-04-18	Prophetia_Osee
+1100000309	ipsi regnaverunt, et non ex me;	2020-04-18	Prophetia_Osee
+1100000310	principes exstiterunt, et non cognovi:	2020-04-18	Prophetia_Osee
+1100000311	argentum suum et aurum suum fecerunt sibi idola,	2020-04-18	Prophetia_Osee
+1100000312	ut interirent.	2020-04-18	Prophetia_Osee
+1100000313	proiectus est vitulus tuus, samaria;	2020-04-18	Prophetia_Osee
+1100000314	iratus est furor meus in eos.	2020-04-18	Prophetia_Osee
+1100000315	usquequo non poterunt emundari?	2020-04-18	Prophetia_Osee
+1100000316	quia ex israel et ipse est:	2020-04-18	Prophetia_Osee
+1100000317	artifex fecit illum, et non est deus;	2020-04-18	Prophetia_Osee
+1100000318	quoniam in aranearum telas erit vitulus samariae.	2020-04-18	Prophetia_Osee
+1100000319	quia ventum seminabunt,	2020-04-18	Prophetia_Osee
+1100000320	et turbinem metent:	2020-04-18	Prophetia_Osee
+1100000321	culmus stans non est in eo;	2020-04-18	Prophetia_Osee
+1100000322	germen non faciet farinam:	2020-04-18	Prophetia_Osee
+1100000323	quod etsi fecerit, alieni comedent eam.	2020-04-18	Prophetia_Osee
+1100000324	devoratus est israel;	2020-04-18	Prophetia_Osee
+1100000325	nunc factus est in nationibus quasi vas immundum.	2020-04-18	Prophetia_Osee
+1100000326	quia ipsi ascenderunt ad assur,	2020-04-18	Prophetia_Osee
+1100000327	onager solitarius sibi;	2020-04-18	Prophetia_Osee
+1100000328	ephraim munera dederunt amatoribus.	2020-04-18	Prophetia_Osee
+1100000329	sed et cum mercede conduxerint nationes,	2020-04-18	Prophetia_Osee
+1100000330	nunc congregabo eos,	2020-04-18	Prophetia_Osee
+1100000331	et quiescent paulisper ab onere regis et principum.	2020-04-18	Prophetia_Osee
+1100000332	quia multiplicavit ephraim altaria ad peccandum;	2020-04-18	Prophetia_Osee
+1100000333	factae sunt ei arae in delictum.	2020-04-18	Prophetia_Osee
+1100000334	scribam ei multiplices leges meas,	2020-04-18	Prophetia_Osee
+1100000335	quae velut alienae computatae sunt.	2020-04-18	Prophetia_Osee
+1100000336	hostias offerent,	2020-04-18	Prophetia_Osee
+1100000337	immolabunt carnes et comedent,	2020-04-18	Prophetia_Osee
+1100000338	et dominus non suscipiet eas:	2020-04-18	Prophetia_Osee
+1100000339	nunc recordabitur iniquitatis eorum,	2020-04-18	Prophetia_Osee
+1100000340	et visitabit peccata eorum:	2020-04-18	Prophetia_Osee
+1100000341	ipsi in aegyptum convertentur.	2020-04-18	Prophetia_Osee
+1100000342	et oblitus est israel factoris sui,	2020-04-18	Prophetia_Osee
+1100000343	et aedificavit delubra;	2020-04-18	Prophetia_Osee
+1100000344	et iudas multiplicavit urbes munitas;	2020-04-18	Prophetia_Osee
+1100000345	et mittam ignem in civitates eius,	2020-04-18	Prophetia_Osee
+1100000346	et devorabit aedes illius.	2020-04-18	Prophetia_Osee
+1100000347	caput 9	2020-04-18	Prophetia_Osee
+1100000348	noli laetari, israel;	2020-04-18	Prophetia_Osee
+1100000349	noli exsultare sicut populi:	2020-04-18	Prophetia_Osee
+1100000350	quia fornicatus es a deo tuo;	2020-04-18	Prophetia_Osee
+1100000351	dilexisti mercedem super omnes areas tritici.	2020-04-18	Prophetia_Osee
+1100000352	area et torcular non pascet eos,	2020-04-18	Prophetia_Osee
+1100000353	et vinum mentietur eis:	2020-04-18	Prophetia_Osee
+1100000354	non habitabunt in terra domini.	2020-04-18	Prophetia_Osee
+1100000355	reversus est ephraim in aegyptum,	2020-04-18	Prophetia_Osee
+1100000356	et in assyriis pollutum comedit.	2020-04-18	Prophetia_Osee
+1100000357	non libabunt domino vinum,	2020-04-18	Prophetia_Osee
+1100000358	et non placebunt ei.	2020-04-18	Prophetia_Osee
+1100000359	sacrificia eorum quasi panis lugentium;	2020-04-18	Prophetia_Osee
+1100000360	omnes qui comedent eum, contaminabuntur:	2020-04-18	Prophetia_Osee
+1100000361	quia panis eorum animae ipsorum:	2020-04-18	Prophetia_Osee
+1100000362	non intrabit in domum domini.	2020-04-18	Prophetia_Osee
+1100000363	quid facietis in die solemni,	2020-04-18	Prophetia_Osee
+1100000364	in die festivitatis domini?	2020-04-18	Prophetia_Osee
+1100000365	ecce enim profecti sunt a vastitate:	2020-04-18	Prophetia_Osee
+1100000366	aegyptus congregabit eos;	2020-04-18	Prophetia_Osee
+1100000367	memphis sepeliet eos:	2020-04-18	Prophetia_Osee
+1100000368	desiderabile argentum eorum urtica haereditabit,	2020-04-18	Prophetia_Osee
+1100000369	lappa in tabernaculis eorum.	2020-04-18	Prophetia_Osee
+1100000370	venerunt dies visitationis,	2020-04-18	Prophetia_Osee
+1100000371	venerunt dies retributionis.	2020-04-18	Prophetia_Osee
+1100000372	scitote, israel,	2020-04-18	Prophetia_Osee
+1100000373	stultum prophetam,	2020-04-18	Prophetia_Osee
+1100000374	insanum virum spiritualem,	2020-04-18	Prophetia_Osee
+1100000375	propter multitudinem iniquitatis tuae,	2020-04-18	Prophetia_Osee
+1100000376	et multitudinem amentiae.	2020-04-18	Prophetia_Osee
+1100000377	speculator ephraim cum deo meo,	2020-04-18	Prophetia_Osee
+1100000378	propheta laqueus ruinae factus est super omnes vias eius;	2020-04-18	Prophetia_Osee
+1100000379	insania in domo dei eius.	2020-04-18	Prophetia_Osee
+1100000380	profunde peccaverunt, sicut in diebus gabaa.	2020-04-18	Prophetia_Osee
+1100000381	recordabitur iniquitatis eorum,	2020-04-18	Prophetia_Osee
+1100000382	et visitabit peccata eorum.	2020-04-18	Prophetia_Osee
+1100000383	quasi uvas in deserto inveni israel,	2020-04-18	Prophetia_Osee
+1100000384	quasi prima poma ficulneae in cacumine eius vidi patres eorum:	2020-04-18	Prophetia_Osee
+1100000385	ipsi autem intraverunt ad beelphegor,	2020-04-18	Prophetia_Osee
+1100000386	et abalienati sunt in confusionem,	2020-04-18	Prophetia_Osee
+1100000387	et facti sunt abominabiles sicut ea quae dilexerunt.	2020-04-18	Prophetia_Osee
+1100000388	ephraim quasi avis avolavit;	2020-04-18	Prophetia_Osee
+1100000389	gloria eorum a partu, et ab utero, et a conceptu.	2020-04-18	Prophetia_Osee
+1100000390	quod etsi enutrierint filios suos,	2020-04-18	Prophetia_Osee
+1100000391	absque liberis eos faciam in hominibus;	2020-04-18	Prophetia_Osee
+1100000392	sed et vae eis cum recessero ab eis!	2020-04-18	Prophetia_Osee
+1100000393	ephraim, ut vidi, tyrus erat fundata in pulchritudine;	2020-04-18	Prophetia_Osee
+1100000394	et ephraim educet ad interfectorem filios suos.	2020-04-18	Prophetia_Osee
+1100000395	da eis, domine. 	2020-04-18	Prophetia_Osee
+1100000396	quid dabis eis?	2020-04-18	Prophetia_Osee
+1100000397	da eis vulvam sine liberis, et ubera arentia.	2020-04-18	Prophetia_Osee
+1100000398	omnes nequitiae eorum in galgal,	2020-04-18	Prophetia_Osee
+1100000399	quia ibi exosos habui eos.	2020-04-18	Prophetia_Osee
+1100000400	propter malitiam adinventionum eorum,	2020-04-18	Prophetia_Osee
+1100000401	de domo mea eiiciam eos;	2020-04-18	Prophetia_Osee
+1100000402	non addam ut diligam eos:	2020-04-18	Prophetia_Osee
+1100000403	omnes principes eorum recedentes.	2020-04-18	Prophetia_Osee
+1100000404	percussus est ephraim;	2020-04-18	Prophetia_Osee
+1100000405	radix eorum exsiccata est:	2020-04-18	Prophetia_Osee
+1100000406	fructum nequaquam facient,	2020-04-18	Prophetia_Osee
+1100000407	quod etsi genuerint,	2020-04-18	Prophetia_Osee
+1100000408	interficiam amantissima uteri eorum.	2020-04-18	Prophetia_Osee
+1100000409	abiiciet eos deus meus, quia non audierunt eum,	2020-04-18	Prophetia_Osee
+1100000410	et erunt vagi in nationibus.	2020-04-18	Prophetia_Osee
+1100000411	caput 10	2020-04-18	Prophetia_Osee
+1100000412	vitis frondosa israel,	2020-04-18	Prophetia_Osee
+1100000413	fructus adaequatus est ei:	2020-04-18	Prophetia_Osee
+1100000414	secundum multitudinem fructus sui multiplicavit altaria,	2020-04-18	Prophetia_Osee
+1100000415	iuxta ubertatem terrae suae exuberavit simulacris.	2020-04-18	Prophetia_Osee
+1100000416	divisum est cor eorum, nunc interibunt;	2020-04-18	Prophetia_Osee
+1100000417	ipse confringet simulacra eorum,	2020-04-18	Prophetia_Osee
+1100000418	depopulabitur aras eorum.	2020-04-18	Prophetia_Osee
+1100000419	quia nunc dicent: non est rex nobis,	2020-04-18	Prophetia_Osee
+1100000420	non enim timemus dominum;	2020-04-18	Prophetia_Osee
+1100000421	et rex quid faciet nobis?	2020-04-18	Prophetia_Osee
+1100000422	loquimini verba visionis inutilis, et ferietis foedus;	2020-04-18	Prophetia_Osee
+1100000423	et germinabit quasi amaritudo iudicium super sulcos agri.	2020-04-18	Prophetia_Osee
+1100000424	vaccas bethaven coluerunt habitatores samariae;	2020-04-18	Prophetia_Osee
+1100000425	quia luxit super eum populus eius,	2020-04-18	Prophetia_Osee
+1100000426	et aeditui eius super eum exsultaverunt	2020-04-18	Prophetia_Osee
+1100000427	in gloria eius, quia migravit ab eo.	2020-04-18	Prophetia_Osee
+1100000428	siquidem et ipse in assur delatus est,	2020-04-18	Prophetia_Osee
+1100000429	munus regi ultori.	2020-04-18	Prophetia_Osee
+1100000430	confusio ephraim capiet,	2020-04-18	Prophetia_Osee
+1100000431	et confundetur israel in voluntate sua.	2020-04-18	Prophetia_Osee
+1100000432	transire fecit samaria regem suum	2020-04-18	Prophetia_Osee
+1100000433	quasi spumam super faciem aquae.	2020-04-18	Prophetia_Osee
+1100000434	et disperdentur excelsa idoli, peccatum israel;	2020-04-18	Prophetia_Osee
+1100000435	lappa et tribulus ascendet super aras eorum:	2020-04-18	Prophetia_Osee
+1100000436	et dicent montibus: operite nos,	2020-04-18	Prophetia_Osee
+1100000437	et collibus: cadite super nos.	2020-04-18	Prophetia_Osee
+1100000438	ex diebus gabaa peccavit israel;	2020-04-18	Prophetia_Osee
+1100000439	ibi steterunt.	2020-04-18	Prophetia_Osee
+1100000440	non comprehendet eos in gabaa	2020-04-18	Prophetia_Osee
+1100000441	praelium super filios iniquitatis.	2020-04-18	Prophetia_Osee
+1100000442	iuxta desiderium meum corripiam eos:	2020-04-18	Prophetia_Osee
+1100000443	congregabuntur super eos populi,	2020-04-18	Prophetia_Osee
+1100000444	cum corripientur propter duas iniquitates suas.	2020-04-18	Prophetia_Osee
+1100000445	ephraim vitula docta diligere trituram,	2020-04-18	Prophetia_Osee
+1100000446	et ego transivi super pulchritudinem colli eius:	2020-04-18	Prophetia_Osee
+1100000447	ascendam super ephraim,	2020-04-18	Prophetia_Osee
+1100000448	arabit iudas;	2020-04-18	Prophetia_Osee
+1100000449	confringet sibi sulcos iacob.	2020-04-18	Prophetia_Osee
+1100000450	seminate vobis in iustitia,	2020-04-18	Prophetia_Osee
+1100000451	et metite in ore misericordiae.	2020-04-18	Prophetia_Osee
+1100000452	innovate vobis novale;	2020-04-18	Prophetia_Osee
+1100000453	tempus autem requirendi dominum,	2020-04-18	Prophetia_Osee
+1100000454	cum venerit qui docebit vos iustitiam.	2020-04-18	Prophetia_Osee
+1100000455	arastis impietatem,	2020-04-18	Prophetia_Osee
+1100000456	iniquitatem messuistis:	2020-04-18	Prophetia_Osee
+1100000457	comedistis frugem mendacii,	2020-04-18	Prophetia_Osee
+1100000458	quia confisus es in viis tuis,	2020-04-18	Prophetia_Osee
+1100000459	in multitudine fortium tuorum.	2020-04-18	Prophetia_Osee
+1100000460	consurget tumultus in populo tuo;	2020-04-18	Prophetia_Osee
+1100000461	et omnes munitiones tuae vastabuntur,	2020-04-18	Prophetia_Osee
+1100000462	sicut vastatus est salmana a domo eius qui iudicavit baal	2020-04-18	Prophetia_Osee
+1100000463	in die praelii, matre super filios allisa.	2020-04-18	Prophetia_Osee
+1100000464	sic fecit vobis bethel,	2020-04-18	Prophetia_Osee
+1100000465	a facie malitiae nequitiarum vestrarum.	2020-04-18	Prophetia_Osee
+1100000466	caput 11	2020-04-18	Prophetia_Osee
+1100000467	sicut mane transiit, pertransiit rex israel.	2020-04-18	Prophetia_Osee
+1100000468	quia puer israel, et dilexi eum;	2020-04-18	Prophetia_Osee
+1100000469	et ex aegypto vocavi filium meum.	2020-04-18	Prophetia_Osee
+1100000470	vocaverunt eos, sic abierunt a facie eorum;	2020-04-18	Prophetia_Osee
+1100000471	baalim immolabant, et simulacris sacrificabant.	2020-04-18	Prophetia_Osee
+1100000472	et ego quasi nutritius ephraim:	2020-04-18	Prophetia_Osee
+1100000473	portabam eos in brachiis meis,	2020-04-18	Prophetia_Osee
+1100000474	et nescierunt quod curarem eos.	2020-04-18	Prophetia_Osee
+1100000475	in funiculis adam traham eos,	2020-04-18	Prophetia_Osee
+1100000476	in vinculis caritatis;	2020-04-18	Prophetia_Osee
+1100000477	et ero eis quasi exaltans iugum super maxillas eorum,	2020-04-18	Prophetia_Osee
+1100000478	et declinavi ad eum ut vesceretur.	2020-04-18	Prophetia_Osee
+1100000479	non revertetur in terram aegypti, et assur ipse rex eius,	2020-04-18	Prophetia_Osee
+1100000480	quoniam noluerunt converti.	2020-04-18	Prophetia_Osee
+1100000481	coepit gladius in civitatibus eius,	2020-04-18	Prophetia_Osee
+1100000482	et consumet electos eius,	2020-04-18	Prophetia_Osee
+1100000483	et comedet capita eorum.	2020-04-18	Prophetia_Osee
+1100000484	et populus meus pendebit ad reditum meum;	2020-04-18	Prophetia_Osee
+1100000485	iugum autem imponetur eis simul, quod non auferetur.	2020-04-18	Prophetia_Osee
+1100000486	quomodo dabo te, ephraim?	2020-04-18	Prophetia_Osee
+1100000487	protegam te, israel?	2020-04-18	Prophetia_Osee
+1100000488	quomodo dabo te sicut adama,	2020-04-18	Prophetia_Osee
+1100000489	ponam te ut seboim?	2020-04-18	Prophetia_Osee
+1100000490	conversum est in me cor meum,	2020-04-18	Prophetia_Osee
+1100000491	pariter conturbata est poenitudo mea.	2020-04-18	Prophetia_Osee
+1100000492	non faciam furorem irae meae;	2020-04-18	Prophetia_Osee
+1100000493	non convertar ut disperdam ephraim,	2020-04-18	Prophetia_Osee
+1100000494	quoniam deus ego, et non homo;	2020-04-18	Prophetia_Osee
+1100000495	in medio tui sanctus,	2020-04-18	Prophetia_Osee
+1100000496	et non ingrediar civitatem.	2020-04-18	Prophetia_Osee
+1100000497	post dominum ambulabunt;	2020-04-18	Prophetia_Osee
+1100000498	quasi leo rugiet,	2020-04-18	Prophetia_Osee
+1100000499	quia ipse rugiet,	2020-04-18	Prophetia_Osee
+1100000500	et formidabunt filii maris.	2020-04-18	Prophetia_Osee
+1100000501	et avolabunt quasi avis ex aegypto,	2020-04-18	Prophetia_Osee
+1100000502	et quasi columba de terra assyriorum:	2020-04-18	Prophetia_Osee
+1100000503	et collocabo eos in domibus suis, dicit dominus.	2020-04-18	Prophetia_Osee
+1100000504	circumdedit me in negatione ephraim,	2020-04-18	Prophetia_Osee
+1100000505	et in dolo domus israel;	2020-04-18	Prophetia_Osee
+1100000506	iudas autem testis descendit cum deo,	2020-04-18	Prophetia_Osee
+1100000507	et cum sanctis fidelis.	2020-04-18	Prophetia_Osee
+1100000508	caput 12	2020-04-18	Prophetia_Osee
+1100000509	ephraim pascit ventum,	2020-04-18	Prophetia_Osee
+1100000510	et sequitur aestum;	2020-04-18	Prophetia_Osee
+1100000511	tota die mendacium et vastitatem multiplicat:	2020-04-18	Prophetia_Osee
+1100000512	et foedus cum assyriis iniit,	2020-04-18	Prophetia_Osee
+1100000513	et oleum in aegyptum ferebat.	2020-04-18	Prophetia_Osee
+1100000514	iudicium ergo domini cum iuda,	2020-04-18	Prophetia_Osee
+1100000515	et visitatio super iacob:	2020-04-18	Prophetia_Osee
+1100000516	iuxta vias eius, et iuxta adinventiones eius reddet ei.	2020-04-18	Prophetia_Osee
+1100000517	in utero supplantavit fratrem suum,	2020-04-18	Prophetia_Osee
+1100000518	et in fortitudine sua directus est cum angelo.	2020-04-18	Prophetia_Osee
+1100000519	et invaluit ad angelum, et confortatus est;	2020-04-18	Prophetia_Osee
+1100000520	flevit, et rogavit eum.	2020-04-18	Prophetia_Osee
+1100000521	in bethel invenit eum,	2020-04-18	Prophetia_Osee
+1100000522	et ibi locutus est nobiscum.	2020-04-18	Prophetia_Osee
+1100000523	et dominus deus exercituum,	2020-04-18	Prophetia_Osee
+1100000524	dominus memoriale eius.	2020-04-18	Prophetia_Osee
+1100000525	et tu ad deum tuum converteris;	2020-04-18	Prophetia_Osee
+1100000526	misericordiam et iudicium custodi,	2020-04-18	Prophetia_Osee
+1100000527	et spera in deo tuo semper.	2020-04-18	Prophetia_Osee
+1100000528	chanaan, in manu eius statera dolosa,	2020-04-18	Prophetia_Osee
+1100000529	calumniam dilexit.	2020-04-18	Prophetia_Osee
+1100000530	et dixit ephraim: verumtamen dives effectus sum;	2020-04-18	Prophetia_Osee
+1100000531	inveni idolum mihi:	2020-04-18	Prophetia_Osee
+1100000532	omnes labores mei non invenient mihi iniquitatem quam peccavi.	2020-04-18	Prophetia_Osee
+1100000533	et ego dominus deus tuus ex terra aegypti:	2020-04-18	Prophetia_Osee
+1100000534	adhuc sedere te faciam in tabernaculis, sicut in diebus festivitatis.	2020-04-18	Prophetia_Osee
+1100000535	et locutus sum super prophetas,	2020-04-18	Prophetia_Osee
+1100000536	et ego visionem multiplicavi,	2020-04-18	Prophetia_Osee
+1100000537	et in manu prophetarum assimilatus sum.	2020-04-18	Prophetia_Osee
+1100000538	si galaad idolum, ergo frustra erant in galgal bobus immolantes;	2020-04-18	Prophetia_Osee
+1100000539	nam et altaria eorum quasi acervi super sulcos agri.	2020-04-18	Prophetia_Osee
+1100000540	fugit iacob in regionem syriae,	2020-04-18	Prophetia_Osee
+1100000541	et servivit israel in uxorem,	2020-04-18	Prophetia_Osee
+1100000542	et in uxorem servavit.	2020-04-18	Prophetia_Osee
+1100000543	in propheta autem eduxit dominus israel de aegypto,	2020-04-18	Prophetia_Osee
+1100000544	et in propheta servatus est.	2020-04-18	Prophetia_Osee
+1100000545	ad iracundiam me provocavit ephraim in amaritudinibus suis:	2020-04-18	Prophetia_Osee
+1100000546	et sanguis eius super eum veniet,	2020-04-18	Prophetia_Osee
+1100000547	et opprobrium eius restituet ei dominus suus.	2020-04-18	Prophetia_Osee
+1100000548	caput 13	2020-04-18	Prophetia_Osee
+1100000549	loquente ephraim, horror invasit israel;	2020-04-18	Prophetia_Osee
+1100000550	et deliquit in baal, et mortuus est.	2020-04-18	Prophetia_Osee
+1100000551	et nunc addiderunt ad peccandum;	2020-04-18	Prophetia_Osee
+1100000552	feceruntque sibi conflatile de argento suo	2020-04-18	Prophetia_Osee
+1100000553	quasi similitudinem idolorum:	2020-04-18	Prophetia_Osee
+1100000554	factura artificum totum est:	2020-04-18	Prophetia_Osee
+1100000555	his ipsi dicunt: immolate homines, vitulos adorantes.	2020-04-18	Prophetia_Osee
+1100000556	idcirco erunt quasi nubes matutina,	2020-04-18	Prophetia_Osee
+1100000557	et sicut ros matutinus praeteriens;	2020-04-18	Prophetia_Osee
+1100000558	sicut pulvis turbine raptus ex area,	2020-04-18	Prophetia_Osee
+1100000559	et sicut fumus de fumario.	2020-04-18	Prophetia_Osee
+1100000560	ego autem dominus deus tuus, ex terra aegypti;	2020-04-18	Prophetia_Osee
+1100000561	et deum absque me nescies,	2020-04-18	Prophetia_Osee
+1100000562	et salvator non est praeter me.	2020-04-18	Prophetia_Osee
+1100000563	ego cognovi te in deserto,	2020-04-18	Prophetia_Osee
+1100000564	in terra solitudinis.	2020-04-18	Prophetia_Osee
+1100000565	iuxta pascua sua adimpleti sunt et saturati sunt;	2020-04-18	Prophetia_Osee
+1100000566	et levaverunt cor suum, et obliti sunt mei.	2020-04-18	Prophetia_Osee
+1100000567	et ego ero eis quasi leaena,	2020-04-18	Prophetia_Osee
+1100000568	sicut pardus in via assyriorum.	2020-04-18	Prophetia_Osee
+1100000569	occurram eis quasi ursa raptis catulis,	2020-04-18	Prophetia_Osee
+1100000570	et dirumpam interiora iecoris eorum,	2020-04-18	Prophetia_Osee
+1100000571	et consumam eos ibi quasi leo:	2020-04-18	Prophetia_Osee
+1100000572	bestia agri scindet eos.	2020-04-18	Prophetia_Osee
+1100000573	perditio tua, israel: tantummodo in me auxilium tuum.	2020-04-18	Prophetia_Osee
+1100000574	ubi est rex tuus?	2020-04-18	Prophetia_Osee
+1100000575	maxime nunc salvet te in omnibus urbibus tuis;	2020-04-18	Prophetia_Osee
+1100000576	et iudices tui, de quibus dixisti:	2020-04-18	Prophetia_Osee
+1100000577	da mihi regem et principes.	2020-04-18	Prophetia_Osee
+1100000578	dabo tibi regem in furore meo,	2020-04-18	Prophetia_Osee
+1100000579	et auferam in indignatione mea.	2020-04-18	Prophetia_Osee
+1100000580	colligata est iniquitas ephraim;	2020-04-18	Prophetia_Osee
+1100000581	absconditum peccatum eius.	2020-04-18	Prophetia_Osee
+1100000582	dolores parturientis venient ei:	2020-04-18	Prophetia_Osee
+1100000583	ipse filius non sapiens:	2020-04-18	Prophetia_Osee
+1100000584	nunc enim non stabit in contritione filiorum.	2020-04-18	Prophetia_Osee
+1100000585	de manu mortis liberabo eos;	2020-04-18	Prophetia_Osee
+1100000586	de morte redimam eos.	2020-04-18	Prophetia_Osee
+1100000587	ero mors tua, o mors!	2020-04-18	Prophetia_Osee
+1100000588	morsus tuus ero, inferne!	2020-04-18	Prophetia_Osee
+1100000589	consolatio abscondita est ab oculis meis.	2020-04-18	Prophetia_Osee
+1100000590	quia ipse inter fratres dividet:	2020-04-18	Prophetia_Osee
+1100000591	adducet urentem ventum dominus de deserto ascendentem,	2020-04-18	Prophetia_Osee
+1100000592	et siccabit venas eius,	2020-04-18	Prophetia_Osee
+1100000593	et desolabit fontem eius:	2020-04-18	Prophetia_Osee
+1100000594	et ipse diripiet thesaurum omnis vasis desiderabilis.	2020-04-18	Prophetia_Osee
+1100000595	caput 14	2020-04-18	Prophetia_Osee
+1100000596	pereat samaria, quoniam ad amaritudinem concitavit deum suum!	2020-04-18	Prophetia_Osee
+1100000597	in gladio pereant,	2020-04-18	Prophetia_Osee
+1100000598	parvuli eorum elidantur,	2020-04-18	Prophetia_Osee
+1100000599	et foetae eius discindantur!	2020-04-18	Prophetia_Osee
+1100000600	convertere, israel, ad dominum deum tuum,	2020-04-18	Prophetia_Osee
+1100000601	quoniam corruisti in iniquitate tua.	2020-04-18	Prophetia_Osee
+1100000602	tollite vobiscum verba,	2020-04-18	Prophetia_Osee
+1100000603	et convertimini ad dominum; et dicite ei:	2020-04-18	Prophetia_Osee
+1100000604	omnem aufer iniquitatem, accipe bonum,	2020-04-18	Prophetia_Osee
+1100000605	et reddemus vitulos labiorum nostrorum.	2020-04-18	Prophetia_Osee
+1100000606	assur non salvabit nos:	2020-04-18	Prophetia_Osee
+1100000607	super equum non ascendemus,	2020-04-18	Prophetia_Osee
+1100000608	nec dicemus ultra, dii nostri opera manuum nostrarum:	2020-04-18	Prophetia_Osee
+1100000609	quia eius, qui in te est, misereberis pupilli.	2020-04-18	Prophetia_Osee
+1100000610	sanabo contritiones eorum;	2020-04-18	Prophetia_Osee
+1100000611	diligam eos spontanee:	2020-04-18	Prophetia_Osee
+1100000612	quia aversus est furor meus ab eis.	2020-04-18	Prophetia_Osee
+1100000613	ero quasi ros;	2020-04-18	Prophetia_Osee
+1100000614	israel germinabit sicut lilium,	2020-04-18	Prophetia_Osee
+1100000615	et erumpet radix eius ut libani.	2020-04-18	Prophetia_Osee
+1100000616	ibunt rami eius,	2020-04-18	Prophetia_Osee
+1100000617	et erit quasi oliva gloria eius,	2020-04-18	Prophetia_Osee
+1100000618	et odor eius ut libani.	2020-04-18	Prophetia_Osee
+1100000619	convertentur sedentes in umbra eius;	2020-04-18	Prophetia_Osee
+1100000620	vivent tritico, et germinabunt quasi vinea;	2020-04-18	Prophetia_Osee
+1100000621	memoriale eius sicut vinum libani.	2020-04-18	Prophetia_Osee
+1100000622	ephraim, quid mihi ultra idola?	2020-04-18	Prophetia_Osee
+1100000623	ego exaudiam, et dirigam eum ego ut abietem virentem;	2020-04-18	Prophetia_Osee
+1100000624	ex me fructus tuus inventus est.	2020-04-18	Prophetia_Osee
+1100000625	quis sapiens, et intelliget ista? 	2020-04-18	Prophetia_Osee
+1100000626	intelligens, et sciet haec?	2020-04-18	Prophetia_Osee
+1100000627	quia rectae viae domini,	2020-04-18	Prophetia_Osee
+1100000628	et iusti ambulabunt in eis;	2020-04-18	Prophetia_Osee
+1100000629	praevaricatores vero corruent in eis.	2020-04-18	Prophetia_Osee

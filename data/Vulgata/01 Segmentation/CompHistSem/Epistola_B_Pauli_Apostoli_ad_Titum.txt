@@ -1,0 +1,33 @@
+1100000001	epistola b. pauli apostoli ad titum	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000003	paulus servus dei, apostolus autem iesu christi secundum fidem electorum dei, et agnitionem veritatis, quae secundum pietatem estin spem vitae aeternae, quam promisit qui non mentitur, deus, ante tempora saecularia:manifestavit autem temporibus suis verbum suum in praedicatione, quae credita est mihi secundum praeceptum salvatoris nostri dei:tito dilecto filio secundum communem fidem, gratia, et pax a deo patre, et christo iesu salvatore nostro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000004	huius rei gratia reliqui te cretae, ut ea quae desunt, corrigas, et constituas per civitates presbyteros, sicut et ego disposui tibi,si quis sine crimine est, unius uxoris vir, filios habens fideles, non in accusatione luxuriae, aut non subditos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000005	oportet enim episcopum sine crimine esse, sicut dei dispensatorem: non superbum, non iracundum, non vinolentum, non percussorem, non turpis lucri cupidum:sed hospitalem, benignum, sobrium, iustum, sanctum, continentem,amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000006	sunt enim multi etiam inobedientes, vaniloqui, et seductores: maxime qui de circumcisione sunt:quos oportet redargui: qui universas domos subvertunt, docentes quae non oportet, turpis lucri gratia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000007	dixit quidam ex illis, proprius ipsorum propheta: cretenses semper mendaces, malae bestiae, ventres pigri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000008	testimonium hoc verum est. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000009	quam ob causam increpa illos dure, ut sani sint in fide,non intendentes iudaicis fabulis, et mandatis hominum, aversantium se a veritate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000010	omnia munda mundis: coinquinatis autem et infidelibus, nihil est mundum, sed inquinatae sunt eorum et mens et conscientia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000011	confitentur se nosse deum, factis autem negant: cum sint abominati, et incredibiles, et ad omne opus bonum reprobi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000012	caput 2	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000013	tu autem loquere quae decent sanam doctrinam:senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000014	iuvenes similiter hortare ut sobrii sint.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000015	in omnibus teipsum praebe exemplum bonorum operum, in doctrina, in integritate, in gravitate,verbum sanum, irreprehensibile: ut is qui ex adverso est, vereatur, nihil habens malum dicere de nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000016	servos dominis suis subditos esse, in omnibus placentes, non contradicentes,non fraudantes, sed in omnibus fidem bonam ostendentes: ut doctrinam salvatoris nostri dei ornent in omnibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000017	apparuit enim gratia dei salvatoris nostri omnibus hominibus,erudiens nos, ut abnegantes impietatem, et saecularia desideria, sobrie, et iuste, et pie vivamus in hoc saeculo,exspectantes beatam spem, et adventum gloriae magni dei, et salvatoris nostri iesu christi:qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000018	haec loquere, et exhortare, et argue cum omni imperio. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000019	nemo te contemnat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000020	caput 3	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000021	admone illos principibus, et potestatibus subditos esse, dicto obedire, ad omne opus bonum paratos esse:neminem blasphemare, non litigiosos esse, sed modestos, omnem ostendentes mansuetudinem ad omnes homines.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000022	eramus enim aliquando et nos insipientes, increduli, errantes, servientes desideriis, et voluptatibus variis, in malitia et invidia agentes, odibiles, odientes invicem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000023	cum autem benignitas et humanitas apparuit salvatoris nostri dei,non ex operibus iustitiae, quae fecimus nos, sed secundum suam misericordiam salvos nos fecit per lavacrum regenerationis et renovationis spiritus sancti,quem effudit in nos abunde per iesum christum salvatorem nostrum:ut iustificati gratia ipsius, haeredes simus secundum spem vitae aeternae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000024	fidelis sermo est: et de his volo te confirmare: ut curent bonis operibus praeesse qui credunt deo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000025	haec sunt bona, et utilia hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000026	stultas autem quaestiones, et genealogias, et contentiones, et pugnas legis devita: sunt enim inutiles, et vanae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000027	haereticum hominem post unam et secundam correptionem devita:sciens quia subversus est, qui eiusmodi est, et delinquit, cum sit proprio iudicio condemnatus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000028	cum misero ad te artemam, aut tychicum, festina ad me venire nicopolim: ibi enim statui hiemare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000029	zenam legisperitum et apollo sollicite praemitte, ut nihil illis desit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000030	discant autem et nostri bonis operibus praeesse ad usus necessarios: ut non sint infructuosi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000031	salutant te qui mecum sunt omnes: saluta eos qui nos amant in fide. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000032	gratia dei cum omnibus vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum
+1100000033	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Titum

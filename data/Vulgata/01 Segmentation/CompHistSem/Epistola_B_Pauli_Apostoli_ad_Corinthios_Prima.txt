@@ -1,0 +1,490 @@
+1100000001	epistola b. pauli apostoli ad corinthios prima	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000003	paulus vocatus apostolus iesu christi per voluntatem dei, et sosthenes frater,ecclesiae dei, quae est corinthi, sanctificatis in christo iesu, vocatis sanctis, cum omnibus qui invocant nomen domini nostri iesu christi, in omni loco ipsorum et nostro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000004	gratia vobis, et pax a deo patre nostro, et domino iesu christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000005	gratias ago deo meo semper pro vobis in gratia dei, quae data est vobis in christo iesu:quod in omnibus divites facti estis in illo, in omni verbo, et in omni scientia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000006	sicut testimonium christi confirmatum est in vobis:ita ut nihil vobis desit in ulla gratia, exspectantibus revelationem domini nostri iesu christi,qui et confirmabit vos usque in finem sine crimine, in die adventus domini nostri iesu christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000007	fidelis deus: per quem vocati estis in societatem filii eius iesu christi domini nostri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000008	obsecro autem vos fratres per nomen domini nostri iesu christi: ut idipsum dicatis omnes, et non sint in vobis schismata: sitis autem perfecti in eodem sensu, et in eadem sententia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000009	significatum est enim mihi de vobis fratres mei ab iis, qui sunt chloes, quia contentiones sunt inter vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000010	hoc autem dico, quod unusquisque vestrum dicit: ego quidem sum pauli: ego autem apollo: ego vero cephae: ego autem christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000011	divisus est christus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000012	numquid paulus crucifixus est pro vobis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000013	aut in nomine pauli baptizati estis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000014	gratias ago deo, quod neminem vestrum baptizavi, nisi crispum et caium:ne quis dicat quod in nomine meo baptizati estis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000015	baptizavi autem et stephanae domum: ceterum nescio si quem alium baptizaverim.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000016	non enim misit me christus baptizare, sed evangelizare: non in sapientia verbi, ut non evacuetur crux christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000017	verbum enim crucis pereuntibus quidem stultitia est: iis autem qui salvi fiunt, id est nobis, dei virtus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000018	scriptum est enim: perdam sapientiam sapientium, et prudentiam prudentium reprobabo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000019	ubi sapiens? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000020	ubi scriba? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000021	ubi conquisitor huius saeculi? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000022	nonne stultam fecit deus sapientiam huius mundi?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000023	nam quia in dei sapientia non cognovit mundus per sapientiam deum: placuit deo per stultitiam praedicationis salvos facere credentes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000024	quoniam et iudaei signa petunt, et graeci sapientiam quaerunt:nos autem praedicamus christum crucifixum: iudaeis quidem scandalum, gentibus autem stultitiam,ipsis autem vocatis iudaeis, atque graecis christum dei virtutem, et dei sapientia:quia quod stultum est dei, sapientius est hominibus: et quod infirmum est dei, fortius est hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000025	videte enim vocationem vestram, fratres, quia non multi sapientes secundum carnem, non multi potentes, non multi nobiles:sed quae stulta sunt mundi elegit deus, ut confundat sapientes: et infirma mundi elegit deus, ut confundat fortia:et ignobilia mundi, et contemptibilia elegit deus, et ea quae non sunt, ut ea quae sunt destrueret:ut non glorietur omnis caro in conspectu eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000026	ex ipso autem vos estis in christo iesu, qui factus est nobis sapientia a deo, et iustitia, et sanctificatio, et redemptio:ut quemadmodum scriptum est: qui gloriatur, in domino glorietur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000027	caput 2	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000028	et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapientiae, annuntians vobis testimonium christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000029	non enim iudicavi me scire aliquid inter vos, nisi iesum christum, et hunc crucifixum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000030	et ego in infirmitate, et timore, et tremore multo fui apud vos:et sermo meus, et praedicatio mea non in persuasibilibus humanae sapientiae verbis, sed in ostensione spiritus et virtutis:ut fides vestra non sit in sapientia hominum, sed in virtute dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000031	sapientiam autem loquimur inter perfectos: sapientiam vero non huius saeculi, neque principum huius saeculi, qui destruuntur:sed loquimur dei sapientiam in mysterio, quae abscondita est, quam praedestinavit deus ante saecula in gloriam nostram,quam nemo principum huius saeculi cognovit: si enim cognovissent, numquam dominum gloriae crucifixissent.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000032	sed sicut scriptum est: quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quae praeparavit deus iis qui diligunt illum:nobis autem revelavit deus per spiritum suum: spiritus enim omnia scrutatur, etiam profunda dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000033	quis enim hominum scit quae sunt hominis, nisi spiritus hominis, qui in ipso est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000034	ita et quae dei sunt, nemo cognovit, nisi spiritus dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000035	nos autem non spiritum huius mundi accepimus, sed spiritum qui ex deo est, ut sciamus quae a deo donata sunt nobis:quae et loquimur non in doctis humanae sapientiae verbis, sed in doctrina spiritus, spiritualibus spiritualia comparantes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000036	animalis autem homo non percipit ea quae sunt spiritus dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000037	spiritualis autem iudicat omnia: et ipse a nemine iudicatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000038	quis enim cognovit sensum domini, qui instruat eum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000039	nos autem sensum christi habemus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000040	caput 3	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000041	et ego, fratres, non potui vobis loqui quasi spiritualibus, sed quasi carnalibus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000042	tamquam parvulis in christo,lac vobis potum dedi, non escam: nondum enim poteratis: sed nec nunc quidem potestis: adhuc enim carnales estis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000043	cum enim sit inter vos zelus, et contentio: nonne carnales estis, et secundum hominem ambulatis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000044	cum enim quis dicat: ego quidem sum pauli; alius autem: ego apollo: nonne homines estis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000045	quid igitur est apollo? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000046	quid vero paulus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000047	ministri eius, cui credidistis, ut unicuique sicut dominus dedit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000048	ego plantavi, apollo rigavit: sed deus incrementum dedit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000049	itaque neque qui plantat est aliquid, neque qui rigat: sed qui incrementum dat, deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000050	qui autem plantat, et qui rigat, unum sunt. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000051	unusquisque autem propriam mercedem accipiet, secundum suum laborem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000052	dei enim sumus adiutores: dei agricultura estis, dei aedificatio estis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000053	secundum gratiam dei, quae data est mihi, ut sapiens architectus fundamentum posui: alius autem superaedificat. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000054	unusquisque autem videat quomodo superaedificet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000055	fundamentum enim aliud nemo potest ponere praeter id quod positum est, quod est christus iesus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000056	si quis autem superaedificat super fundamentum hoc, aurum, argentum, lapides pretiosos, ligna, foenum, stipulam,uniuscuiusque opus manifestum erit: dies enim domini declarabit, quia in igne revelabitur: et uniuscuiusque opus quale sit, ignis probabit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000057	si cuius opus manserit quod superaedificavit, mercedem accipiet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000058	si cuius opus arserit, detrimentum patietur: ipse autem salvus erit, sic tamen quasi per ignem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000059	nescitis quia templum dei estis, et spiritus dei habitat in vobis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000060	si quis autem templum dei violaverit, disperdet illum deus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000061	templum enim dei sanctum est, quod estis vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000062	nemo se seducat: si quis videtur inter vos sapiens esse in hoc saeculo, stultus fiat ut sit sapiens.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000063	sapientia enim huius mundi, stultitia est apud deum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000064	scriptum est enim: comprehendam sapientes in astutia eorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000065	et iterum: dominus novit cogitationes sapientium quoniam vanae sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000066	nemo itaque glorietur in hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000067	omnia enim vestra sunt, sive paulus, sive apollo, sive cephas, sive mundus, sive vita, sive mors, sive praesentia, sive futura: omnia enim vestra sunt:vos autem christi: christus autem dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000068	caput 4	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000069	sic nos existimet homo ut ministros christi, et dispensatores mysteriorum dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000070	hic iam quaeritur inter dispensatores ut fidelis quis inveniatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000071	mihi autem pro minimo est ut a vobis iudicer, aut ab humano die: sed neque meipsum iudico.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000072	nihil enim mihi conscius sum, sed non in hoc iustificatus sum: qui autem iudicat me, dominus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000073	itaque nolite ante tempus iudicare, quoadusque veniat dominus: qui et illuminabit abscondita tenebrarum, et manifestabit consilia cordium: et tunc laus erit unicuique a deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000074	haec autem, fratres, transfiguravi in me et apollo, propter vos: ut in nobis discatis, ne supra quam scriptum est, unus adversus alterum infletur pro alio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000075	quis enim te discernit? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000076	quid autem habes quod non accepisti? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000077	si autem accepisti, quid gloriaris quasi non acceperis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000078	iam saturati estis, iam divites facti estis: sine nobis regnatis: et utinam regnetis, ut et nos vobiscum regnemus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000079	puto enim quod deus nos apostolos novissimos ostendit, tamquam morti destinatos: quia spectaculum facti sumus mundo, et angelis, et hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000080	nos stulti propter christum, vos autem prudentes in christo: nos infirmi, vos autem fortes: vos nobiles, nos autem ignobiles.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000081	usque in hanc horam et esurimus, et sitimus, et nudi sumus, et colaphis caedimur, et instabiles sumus,et laboramus operantes manibus nostris: maledicimur, et benedicimus: persecutionem patimur, et sustinemus:blasphemamur, et obsecramus: tamquam purgamenta huius mundi facti sumus, omnium peripsema usque adhuc.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000082	non ut confundam vos, haec scribo, sed ut filios meos carissimos moneo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000083	nam si decem millia paedagogorum habeatis in christo, sed non multos patres. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000084	nam in christo iesu per evangelium ego vos genui.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000085	rogo ergo vos, imitatores mei estote, sicut et ego christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000086	ideo misi ad vos timotheum, qui est filius meus carissimus, et fidelis in domino: qui vos commonefaciet vias meas, quae sunt in christo iesu, sicut ubique in omni ecclesia doceo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000087	tamquam non venturus sim ad vos, sic inflati sunt quidam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000088	veniam autem ad vos cito, si dominus voluerit: et cognoscam non sermonem eorum qui inflati sunt, sed virtutem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000089	non enim in sermone est regnum dei, sed in virtute.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000090	quid vultis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000091	in virga veniam ad vos, an in caritate, et spiritu mansuetudinis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000092	caput 5	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000093	omnino auditur inter vos fornicatio, et talis fornicatio, qualis nec inter gentes, ita ut uxorem patris sui aliquis habeat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000094	et vos inflati estis: et non magis luctum habuistis ut tollatur de medio vestrum qui hoc opus fecit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000095	ego quidem absens corpore, praesens autem spiritu, iam iudicavi ut praesens eum, qui sic operatus est,in nomine domini nostri iesu christi, congregatis vobis et meo spiritu, cum virtute domini nostri iesu,tradere huiusmodi satanae in interitum carnis, ut spiritus salvus sit in die domini nostri iesu christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000096	non est bona gloriatio vestra. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000097	nescitis quia modicum fermentum totam massam corrumpit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000098	expurgate vetus fermentum, ut sitis nova conspersio, sicut estis azymi. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000099	etenim pascha nostrum immolatus est christus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000100	itaque epulemur: non in fermento veteri, neque in fermento malitiae et nequitiae: sed in azymis sinceritatis et veritatis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000101	scripsi in epistola: ne commisceamini fornicariis:non utique fornicariis huius mundi, aut avaris, aut rapacibus, aut idolis servientibus: alioquin debueratis de hoc mundo exiisse.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000102	nunc autem scripsi vobis non commisceri: si is qui frater nominatur, est fornicator, aut avarus, aut idolis serviens, aut maledicus, aut ebriosus, aut rapax, cum eiusmodi nec cibum sumere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000103	quid enim mihi de iis qui foris sunt, iudicare? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000104	nonne de iis qui intus sunt, vos iudicatis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000105	nam eos qui foris sunt, deus iudicabit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000106	auferte malum ex vobis ipsis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000107	caput 6	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000108	audet aliquis vestrum habens negotium adversus alterum, iudicari apud iniquos, et non apud sanctos?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000109	an nescitis quoniam sancti de hoc mundo iudicabunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000110	et si in vobis iudicabitur mundus, indigni estis qui de minimis iudicetis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000111	nescitis quoniam angelos iudicabimus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000112	quanto magis saecularia?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000113	saecularia igitur iudicia si habueritis: contemptibiles, qui sunt in ecclesia, illos constituite ad iudicandum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000114	ad verecundiam vestram dico. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000115	sic non est inter vos sapiens quisquam, qui possit iudicare inter fratrem suum?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000116	sed frater cum fratre iudicio contendit: et hoc apud infideles?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000117	iam quidem omnino delictum est in vobis, quod iudicia habetis inter vos. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000118	quare non magis iniuriam accipitis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000119	quare non magis fraudem patimini?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000120	sed vos iniuriam facitis, et fraudatis: et hoc fratribus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000121	an nescitis quia iniqui regnum dei non possidebunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000122	nolite errare: neque fornicarii, neque idolis servientes, neque adulteri,neque molles, neque masculorum concubitores, neque fures, neque avari, neque ebriosi, neque maledici, neque rapaces regnum dei possidebunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000123	et haec quidam fuistis: sed abluti estis, sed sanctificati estis, sed iustificati estis in nomine domini nostri iesu christi, et in spiritu dei nostri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000124	omnia mihi licent, sed non omnia expediunt: omnia mihi licent, sed ego sub nullis redigar potestate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000125	esca ventri, et venter escis: deus autem et hunc et has destruet: corpus autem non fornicationi, sed domino: et dominus corpori.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000126	deus vero et dominum suscitavit: et nos suscitabit per virtutem suam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000127	nescitis quoniam corpora vestra membra sunt christi? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000128	tollens ergo membra christi, faciam membra meretricis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000129	absit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000130	an nescitis quoniam qui adhaeret meretrici, unum corpus efficitur? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000131	erunt enim (inquit) duo in carne una.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000132	qui autem adhaeret domino, unus spiritus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000133	fugite fornicationem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000134	omne peccatum, quodcumque fecerit homo, extra corpus est: qui autem fornicatur, in corpus suum peccat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000135	an nescitis quoniam membra vestra, templum sunt spiritus sancti, qui in vobis est, quem habetis a deo, et non estis vestri?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000136	empti enim estis pretio magno. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000137	glorificate, et portate deum in corpore vestro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000138	caput 7	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000139	de quibus autem scripsistis mihi: bonum est homini mulierem non tangere:propter fornicationem autem unusquisque suam uxorem habeat, et unaquaeque suum virum habeat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000140	uxori vir debitum reddat: similiter autem et uxor viro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000141	mulier sui corporis potestatem non habet, sed vir. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000142	similiter autem et vir sui corporis potestatem non habet, sed mulier.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000143	nolite fraudare invicem, nisi forte ex consensu ad tempus, ut vacetis orationi: et iterum revertimini in idipsum, ne tentet vos satanas propter incontinentiam vestram.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000144	hoc autem dico secundum indulgentiam, non secundum imperium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000145	volo enim omnes vos esse sicut meipsum: sed unusquisque proprium donum habet ex deo: alius quidem sic, alius vero sic.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000146	dico autem non nuptis, et viduis: bonum est illis si sic permaneant, sicut et ego.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000147	quod si non se continent, nubant. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000148	melius est enim nubere, quam uri.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000149	iis autem qui matrimonio iuncti sunt, praecipio non ego, sed dominus, uxorem a viro non discedere:quod si discesserit, manere innuptam, aut viro suo reconciliari. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000150	et vir uxorem non dimittat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000151	nam ceteris ego dico, non dominus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000152	si quis frater uxorem habet infidelem, et haec consentit habitare cum illo, non dimittat illam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000153	et si qua mulier fidelis habet virum infidelem, et hic consentit habitare cum illa, non dimittat virum:sanctificatus est enim vir infidelis per mulierem fidelem, et sanctificata est mulier infidelis per virum fidelem: alioquin filii vestri immundi essent, nunc autem sancti sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000154	quod si infidelis discedit, discedat: non enim servituti subiectus est frater, aut soror in huiusmodi: in pace autem vocavit nos deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000155	unde enim scis mulier, si virum salvum facies? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000156	aut unde scis vir, si mulierem salvam facies?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000157	nisi unicuique sicut divisit dominus, unumquemque sicut vocavit deus, ita ambulet, et sicut in omnibus ecclesiis doceo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000158	circumcisus aliquis vocatus est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000159	non adducat praeputium. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000160	in praeputio aliquis vocatus est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000161	non circumcidatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000162	circumcisio nihil est, et praeputium nihil est: sed observatio mandatorum dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000163	unusquisque in qua vocatione vocatus est, in ea permaneat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000164	servus vocatus es? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000165	non sit tibi curae: sed et si potes fieri liber, magis utere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000166	qui enim in domino vocatus est servus, libertus est domini: similiter qui liber vocatus est, servus est christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000167	pretio empti estis: nolite fieri servi hominum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000168	unusquisque in quo vocatus est, fratres, in hoc permaneat apud deum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000169	de virginibus autem praeceptum domini non habeo: consilium autem do, tamquam misericordiam consecutus a domino, ut sim fidelis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000170	existimo ergo hoc bonum esse propter instantem necessitatem, quoniam bonum est homini sic esse.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000171	alligatus es uxori? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000172	noli quaerere solutionem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000173	solutus es ab uxore? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000174	noli quaerere uxorem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000175	si autem acceperis uxorem, non peccasti. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000176	et si nupserit virgo, non peccavit: tribulationem tamen carnis habebunt huiusmodi. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000177	ego autem vobis parco.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000178	hoc itaque dico, fratres: tempus breve est: reliquum est, ut et qui habent uxores, tamquam non habentes sint:et qui flent, tamquam non flentes: et qui gaudent, tamquam non gaudentes: et qui emunt, tamquam non possidentes:et qui utuntur hoc mundo, tamquam non utantur: praeterit enim figura huius mundi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000179	volo autem vos sine sollicitudine esse. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000180	qui sine uxore est, sollicitus est quae domini sunt, quomodo placeat deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000181	qui autem cum uxore est, sollicitus est quae sunt mundi, quomodo placeat uxori, et divisus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000182	et mulier innupta, et virgo, cogitat quae domini sunt, ut sit sancta corpore, et spiritu. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000183	quae autem nupta est, cogitat quae sunt mundi, quomodo placeat viro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000184	porro hoc ad utilitatem vestram dico: non ut laqueum vobis iniiciam, sed ad id, quod honestum est, et quod facultatem praebeat sine impedimento dominum obsecrandi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000185	si quis autem turpem se videri existimat super virgine sua, quod sit superadulta, et ita oportet fieri: quod vult faciat: non peccat, si nubat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000186	nam qui statuit in corde suo firmus, non habens necessitatem, potestatem autem habens suae voluntatis, et hoc iudicavit in corde suo, servare virginem suam, bene facit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000187	igitur et qui matrimonio iungit virginem suam, bene facit: et qui non iungit, melius facit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000188	mulier alligata est legi quanto tempore vir eius vivit, quod si dormierit vir eius, liberata est: cui vult nubat, tantum in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000189	beatior autem erit si sic permanserit secundum meum consilium: puto autem quod et ego spiritum dei habeam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000190	caput 8	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000191	de iis autem quae idolis sacrificantur, scimus quia omnes scientiam habemus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000192	scientia inflat, caritas vero aedificat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000193	si quis autem se existimat scire aliquid, nondum cognovit quemadmodum oporteat eum scire.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000194	si quis autem diligit deum, hic cognitus est ab eo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000195	de escis autem quae idolis immolantur, scimus quia nihil est idolum in mundo, et quod nullus est deus, nisi unus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000196	nam etsi sunt qui dicantur dii sive in caelo, sive in terra (siquidem sunt dii multi, et domini multi):nobis tamen unus est deus, pater, ex quo omnia, et nos in illum: et unus dominus iesus christus, per quem omnia, et nos per ipsum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000197	sed non in omnibus est scientia. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000198	quidam autem cum conscientia usque nunc idoli, quasi idolothytum manducant: et conscientia ipsorum cum sit infirma, polluitur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000199	esca autem nos non commendat deo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000200	neque enim si manducaverimus, abundabimus: neque si non manducaverimus, deficiemus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000201	videte autem ne forte haec licentia vestra offendiculum fiat infirmis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000202	si enim quis viderit eum, qui habet scientiam, in idolio recumbentem: nonne conscientia eius, cum sit infirma, aedificabitur ad manducandum idolothyta?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000203	et peribit infirmus in tua scientia, frater, propter quem christus mortuus est?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000204	sic autem peccantes in fratres, et percutientes conscientiam eorum infirmam, in christum peccatis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000205	quapropter si esca scandalizat fratrem meum, non manducabo carnem in aeternum, ne fratrem meum scandalizem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000206	caput 9	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000207	non sum liber? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000208	non sum apostolus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000209	nonne christum iesum dominum nostrum vidi? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000210	nonne opus meum vos estis in domino?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000211	et si aliis non sum apostolus, sed tamen vobis sum: nam signaculum apostolatus mei vos estis in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000212	mea defensio apud eos qui me interrogant, haec est:numquid non habemus potestatem manducandi et bibendi?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000213	numquid non habemus potestatem mulierem sororem circumducendi sicut et ceteri apostoli, et fratres domini, et cephas?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000214	aut ego solus, et barnabas, non habemus potestatem hoc operandi?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000215	quis militat suis stipendiis umquam? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000216	quis plantat vineam, et de fructu eius non edit? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000217	quis pascit gregem, et de lacte gregis non manducat?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000218	numquid secundum hominem haec dico? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000219	an et lex haec non dicit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000220	scriptum est enim in lege moysi: non alligabis os bovi trituranti. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000221	numquid de bobus cura est deo?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000222	an propter nos utique hoc dicit? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000223	nam propter nos scripta sunt: quoniam debet in spe qui arat, arare: et qui triturat, in spe fructus percipiendi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000224	si nos vobis spiritualia seminavimus, magnum est si nos carnalia vestra metamus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000225	si alii potestatis vestrae participes sunt, quare non potius nos? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000226	sed non usi sumus hac potestate: sed omnia sustinemus, ne quod offendiculum demus evangelio christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000227	nescitis quoniam qui in sacrario operantur quae de sacrario sunt, edunt: et qui altari deserviunt, cum altari participant?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000228	ita et dominus ordinavit iis qui evangelium annuntiant, de evangelio vivere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000229	ego autem nullo horum usus sum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000230	non autem scripsi haec ut ita fiant in me: bonum est enim mihi magis mori, quam ut gloriam meam quis evacuet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000231	nam si evangelizavero, non est mihi gloria: necessitas enim mihi incumbit: vae enim mihi est, si non evangelizavero.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000232	si enim volens hoc ago, mercedem habeo: si autem invitus, dispensatio mihi credita est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000233	quae est ergo merces mea? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000234	ut evangelium praedicans, sine sumptu ponam evangelium, ut non abutar potestate mea in evangelio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000235	nam cum liber essem ex omnibus, omnium me servum feci, ut plures lucrifacerem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000236	et factus sum iudaeis tamquam iudaeus, ut iudaeos lucrarer:iis qui sub lege sunt, quasi sub lege essem (cum ipse non essem sub lege) ut eos qui sub lege erant, lucrifacerem: iis qui sine lege erant, tamquam sine lege essem (cum sine lege dei non essem: sed in lege essem christi) ut lucrifacerem eos qui sine lege erant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000237	factus sum infirmis infirmus, ut infirmos lucrifacerem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000238	omnibus omnia factus sum, ut omnes facerem salvos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000239	omnia autem facio propter evangelium: ut particeps eius efficiar.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000240	nescitis quod ii qui in stadio currunt, omnes quidem currunt, sed unus accipit bravium? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000241	sic currite ut comprehendatis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000242	omnis autem qui in agone contendit, ab omnibus se abstinet, et illi quidem ut corruptibilem coronam accipiant: nos autem incorruptam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000243	ego igitur sic curro, non quasi in incertum: sic pugno, non quasi aerem verberans:sed castigo corpus meum, et in servitutem redigo: ne forte cum aliis praedicaverim, ipse reprobus efficiar.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000244	caput 10	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000245	nolo enim vos ignorare fratres, quoniam patres nostri omnes sub nube fuerunt, et omnes mare transierunt,et omnes in moyse baptizati sunt in nube, et in mari:et omnes eamdem escam spiritalem manducaverunt,et omnes eumdem potum spiritalem biberunt (bibebant autem de spiritali, consequente eos, petra: petra autem erat christus):sed non in pluribus eorum beneplacitum est deo: nam prostrati sunt in deserto.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000246	haec autem in figura facta sunt nostri, ut non simus concupiscentes malorum, sicut et illi concupierunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000247	neque idololatrae efficiamini, sicut quidam ex ipsis: quemadmodum scriptum est: sedit populus manducare, et bibere, et surrexerunt ludere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000248	neque fornicemur, sicut quidam ex ipsis fornicati sunt, et ceciderunt una die viginti tria millia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000249	neque tentemus christum, sicut quidam eorum tentaverunt, et a serpentibus perierunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000250	neque murmuraveritis, sicut quidam eorum murmuraverunt, et perierunt ab exterminatore.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000251	haec autem omnia in figura contingebant illis: scripta sunt autem ad correptionem nostram, in quos fines saeculorum devenerunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000252	itaque qui se existimat stare, videat ne cadat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000253	tentatio vos non apprehendat nisi humana: fidelis autem deus est, qui non patietur vos tentari supra id quod potestis, sed faciet etiam cum tentatione proventum ut possitis sustinere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000254	propter quod, carissimi mihi, fugite ab idolorum cultura:ut prudentibus loquor, vos ipsi iudicate quod dico.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000255	calix benedictionis, cui benedicimus, nonne communicatio sanguinis christi est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000256	et panis quem frangimus, nonne participatio corporis domini est?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000257	quoniam unus panis, unum corpus multi sumus, omnes qui de uno pane participamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000258	videte israel secundum carnem: nonne qui edunt hostias, participes sunt altaris?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000259	quid ergo? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000260	dico quod idolis immolatum sit aliquid? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000261	aut quod idolum, sit aliquid?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000262	sed quae immolant gentes, daemoniis immolant, et non deo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000263	nolo autem vos socios fieri daemoniorum:non potestis calicem domini bibere, et calicem daemoniorum; non potestis mensae domini participes esse, et mensae daemoniorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000264	an aemulamur dominum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000265	numquid fortiores illo sumus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000266	omnia mihi licent, sed non omnia expediunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000267	omnia mihi licent, sed non omnia aedificat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000268	nemo quod suum est quaerat, sed quod alterius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000269	omne quod in macello venit, manducate, nihil interrogantes propter conscientiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000270	domini est terra, et plenitudo eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000271	si quis vocat vos infidelium, et vultis ire: omne quod vobis apponitur, manducate, nihil interrogantes propter conscientiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000272	si quis autem dixerit: hoc immolatum est idolis: nolite manducare propter illum qui indicavit, et propter conscientiam:conscientiam autem dico non tuam, sed alterius. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000273	ut quid enim libertas mea iudicatur ab aliena conscientia?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000274	si ego cum gratia participo, quid blasphemor pro eo quod gratias ago?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000275	sive ergo manducatis, sive bibitis, sive aliud quid facitis: omnia in gloriam dei facite.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000276	sine offensione estote iudaeis, et gentibus, et ecclesiae dei:sicut et ego per omnia omnibus placeo, non quaerens quod mihi utile est, sed quod multis: ut salvi fiant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000277	caput 11	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000278	imitatores mei estote, sicut et ego christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000279	laudo autem vos fratres quod per omnia mei memores estis: et sicut tradidi vobis, praecepta mea tenetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000280	volo autem vos scire quod omnis viri caput, christus est: caput autem mulieris, vir: caput vero christi, deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000281	omnis vir orans, aut prophetans velato capite, deturpat caput suum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000282	omnis autem mulier orans, aut prophetans non velato capite, deturpat caput suum: unum enim est ac si decalvetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000283	nam si non velatur mulier, tondeatur. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000284	si vero turpe est mulieri tonderi, aut decalvari, velet caput suum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000285	vir quidem non debet velare caput suum: quoniam imago et gloria dei est, mulier autem gloria viri est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000286	non enim vir ex muliere est, sed mulier ex viro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000287	etenim non est creatus vir propter mulierem, sed mulier propter virum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000288	ideo debet mulier potestatem habere supra caput propter angelos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000289	verumtamen neque vir sine muliere: neque mulier sine viro in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000290	nam sicut mulier de viro, ita et vir per mulierem: omnia autem ex deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000291	vos ipsi iudicate: decet mulierem non velatam orare deum?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000292	nec ipsa natura docet vos, quod vir quidem si comam nutriat, ignominia est illi:mulier vero si comam nutriat, gloria est illi: quoniam capilli pro velamine ei dati sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000293	si quis autem videtur contentiosus esse: nos talem consuetudinem non habemus, neque ecclesia dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000294	hoc autem praecipio: non laudans quod non in melius, sed in deterius convenitis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000295	primum quidem convenientibus vobis in ecclesiam, audio scissuras esse inter vos, et ex parte credo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000296	nam oportet et haereses esse, ut et qui probati sunt, manifesti fiant in vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000297	convenientibus ergo vobis in unum, iam non est dominicam coenam manducare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000298	unusquisque enim suam coenam praesumit ad manducandum, et alius quidem esurit, alius autem ebrius est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000299	numquid domos non habetis ad manducandum, et bibendum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000300	aut ecclesiam dei contemnitis, et confunditis eos qui non habent? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000301	quid dicam vobis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000302	laudo vos? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000303	in hoc non laudo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000304	ego enim accepi a domino quod et tradidi vobis, quoniam dominus iesus in qua nocte tradebatur, accepit panem,et gratias agens fregit, et dixit: accipite, et manducate: hoc est corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000305	similiter et calicem, postquam coenavit, dicens: hic calix novum testamentum est in meo sanguine: hoc facite quotiescumque bibetis, in meam commemorationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000306	quotiescumque enim manducabitis panem hunc, et calicem bibetis, mortem domini annuntiabitis donec veniat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000307	itaque quicumque manducaverit panem hunc, vel biberit calicem domini indigne, reus erit corporis et sanguinis domini.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000308	probet autem seipsum homo: et sic de pane illo edat, et de calice bibat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000309	qui enim manducat et bibit indigne, iudicium sibi manducat et bibit, non diiudicans corpus domini.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000310	ideo inter vos multi infirmi et imbecilles, et dormiunt multi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000311	quod si nosmetipsos diiudicaremus, non utique iudicaremur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000312	dum iudicamur autem, a domino corripimur, ut non cum hoc mundo damnemur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000313	itaque fratres mei, cum convenitis ad manducandum, invicem exspectate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000314	si quis esurit, domi manducet, ut non in iudicium conveniatis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000315	cetera autem, cum venero, disponam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000316	caput 12	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000317	de spiritualibus autem, nolo vos ignorare fratres.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000318	scitis quoniam cum gentes essetis, ad simulacra muta prout ducebamini euntes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000319	ideo notum vobis facio, quod nemo in spiritu dei loquens, dicit anathema iesu. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000320	et nemo potest dicere, dominus iesus, nisi in spiritu sancto.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000321	divisiones vero gratiarum sunt, idem autem spiritus:et divisiones ministrationum sunt, idem autem dominus:et divisiones operationum sunt, idem vero deus qui operatur omnia in omnibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000322	unicuique autem datur manifestatio spiritus ad utilitatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000323	alii quidem per spiritum datur sermo sapientiae: alii autem sermo scientiae secundum eumdem spiritum:alteri fides in eodem spiritu: alii gratia sanitatum in uno spiritu:alii operatio virtutum, alii prophetia, alii discretio spirituum, alii genera linguarum, alii interpretatio sermonum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000324	haec autem omnia operantur unus atque idem spiritus, dividens singulis prout vult.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000325	sicut enim corpus unum est, et membra habet multa, omnia autem membra corporis cum sint multa, unum tamen corpus sunt: ita et christus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000326	etenim in uno spiritu omnes nos in unum corpus baptizati sumus, sive iudaei, sive gentiles, sive servi, sive liberi: et omnes in uno spiritu potati sumus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000327	nam et corpus non est unum membrum, sed multa.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000328	si dixerit pes: quoniam non sum manus, non sum de corpore: num ideo non est de corpore?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000329	et si dixerit auris: quoniam non sum oculus, non sum de corpore: num ideo est de corpore?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000330	si totum corpus oculus: ubi auditus? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000331	si totum auditus: ubi odoratus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000332	nunc autem posuit deus membra, unumquodque eorum in corpore sicut voluit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000333	quod si essent omnia unum membrum, ubi corpus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000334	nunc autem multa quidem membra, unum autem corpus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000335	non potest autem oculus dicere manui: opera tua non indigeo: aut iterum caput pedibus: non estis mihi necessarii.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000336	sed multo magis quae videntur membra corporis infirmiora esse, necessariora sunt:et quae putamus ignobiliora membra esse corporis, his honorem abundantiorem circumdamus: et quae inhonesta sunt nostra, abundantiorem honestatem habent.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000337	honesta autem nostra nullius egent: sed deus temperavit corpus, ei cui deerat, abundantiorem tribuendo honorem,ut non sit schisma in corpore, sed idipsum pro invicem sollicita sint membra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000338	et si quid patitur unum membrum, compatiuntur omnia membra: sive gloriatur unum membrum, congaudent omnia membra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000339	vos autem estis corpus christi, et membra de membro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000340	et quosdam quidem posuit deus in ecclesia primum apostolos, secundo prophetas, exinde doctores, deinde virtutes, exinde gratias curationum, opitulationes, gubernationes, genera linguarum, interpretationes sermonum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000341	numquid omnes apostoli? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000342	numquid omnes prophetae? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000343	numquid omnes doctores?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000344	numquid omnes virtutes? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000345	numquid omnes gratiam habent curationum? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000346	numquid omnes linguis loquuntur? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000347	numquid omnes interpretantur?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000348	aemulamini autem charismata meliora. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000349	et adhuc excellentiorem viam vobis demonstro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000350	caput 13	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000351	si linguis hominum loquar, et angelorum, caritatem autem non habeam, factus sum velut aes sonans, aut cymbalum tinniens.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000352	et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, caritatem autem non habuero, nihil sum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000353	et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000354	caritas patiens est, benigna est. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000355	caritas non aemulatur, non agit perperam, non inflatur,non est ambitiosa, non quaerit quae sua sunt, non irritatur, non cogitat malum,non gaudet super iniquitate, congaudet autem veritati:omnia suffert, omnia credit, omnia sperat, omnia sustinet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000356	caritas numquam excidit: sive prophetiae evacuabuntur, sive linguae cessabunt, sive scientia destruetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000357	ex parte enim cognoscimus, et ex parte prophetamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000358	cum autem venerit quod perfectum est, evacuabitur quod ex parte est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000359	cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000360	quando autem factus sum vir, evacuavi quae erant parvuli.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000361	videmus nunc per speculum in aenigmate: tunc autem facie ad faciem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000362	nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000363	nunc autem manent fides, spes, caritas, tria haec: maior autem horum est caritas.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000364	caput 14	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000365	sectamini caritatem, aemulamini spiritualia: magis autem ut prophetetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000366	qui enim loquitur lingua, non hominibus loquitur, sed deo: nemo enim audit. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000367	spiritu autem loquitur mysteria.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000368	nam qui prophetat, hominibus loquitur ad aedificationem, et exhortationem, et consolationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000369	qui loquitur lingua, semetipsum aedificat: qui autem prophetat, ecclesiam dei aedificat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000370	volo autem omnes vos loqui linguis: magis autem prophetare. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000371	nam maior est qui prophetat, quam qui loquitur linguis; nisi forte interpretetur ut ecclesia aedificationem accipiat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000372	nunc autem, fratres, si venero ad vos linguis loquens: quid vobis prodero, nisi vobis loquar aut in revelatione, aut in scientia, aut in prophetia, aut in doctrina?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000373	tamen quae sine anima sunt vocem dantia, sive tibia, sive cithara; nisi distinctionem sonituum dederint, quomodo scietur id quod canitur, aut quod citharizatur?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000374	etenim si incertam vocem det tuba, quis parabit se ad bellum?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000375	ita et vos per linguam nisi manifestum sermonem dederitis: quomodo scietur id quod dicitur? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000376	eritis enim in aera loquentes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000377	tam multa, ut puta genera linguarum sunt in hoc mundo: et nihil sine voce est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000378	si ergo nesciero virtutem vocis, ero ei, cui loquor, barbarus: et qui loquitur, mihi barbarus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000379	sic et vos, quoniam aemulatores estis spirituum, ad aedificationem ecclesiae quaerite ut abundetis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000380	et ideo qui loquitur lingua, oret ut interpretetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000381	nam si orem lingua, spiritus meus orat, mens autem mea sine fructu est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000382	quid ergo est? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000383	orabo spiritu, orabo et mente: psallam spiritu, psallam et mente.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000384	ceterum si benedixeris spiritu, qui supplet locum idiotae, quomodo dicet: amen, super tuam benedictionem? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000385	quoniam quid dicas, nescit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000386	nam tu quidem bene gratias agis, sed alter non aedificatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000387	gratias ago deo meo, quod omnium vestrum lingua loquor.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000388	sed in ecclesia volo quinque verba sensu meo loqui, ut et alios instruam: quam decem millia verborum in lingua.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000389	fratres, nolite pueri effici sensibus, sed malitia parvuli estote: sensibus autem perfecti estote.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000390	in lege scriptum est: quoniam in aliis linguis et labiis aliis loquar populo huic: et nec sic exaudient me, dicit dominus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000391	itaque linguae in signum sunt non fidelibus, sed infidelibus: prophetiae autem non infidelibus, sed fidelibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000392	si ergo conveniat universa ecclesia in unum, et omnes linguis loquantur, intrent autem idiotae, aut infideles: nonne dicent quod insanitis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000393	si autem omnes prophetent, intret autem quis infidelis, vel idiota, convincitur ab omnibus, diiudicatur ab omnibus:occulta cordis eius manifesta fiunt: et ita cadens in faciem adorabit deum, pronuntians quod vere deus in vobis sit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000394	quid ergo est, fratres? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000395	cum convenitis, unusquisque vestrum psalmum habet, doctrinam habet, apocalypsim habet, linguam habet, interpretationem habet: omnia ad aedificationem fiant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000396	sive lingua quis loquitur, secundum duos, aut ut multum tres, et per partes, et unus interpretatur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000397	si autem non fuerit interpres, taceat in ecclesia: sibi autem loquatur, et deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000398	prophetae autem duo, aut tres dicant, et ceteri diiudicent.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000399	quod si alii revelatum fuerit sedenti, prior taceat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000400	potestis enim omnes per singulos prophetare: ut omnes discant, et omnes exhortentur:et spiritus prophetarum prophetis subiecti sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000401	non enim est dissensionis deus, sed pacis: sicut et in omnibus ecclesiis sanctorum doceo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000402	mulieres in ecclesiis taceant, non enim permittitur eis loqui, sed subditas esse, sicut et lex dicit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000403	si quid autem volunt discere, domi viros suos interrogent. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000404	turpe est enim mulieri loqui in ecclesia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000405	an a vobis verbum dei processit? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000406	aut in vos solos pervenit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000407	si quis videtur propheta esse, aut spiritualis, cognoscat quae scribo vobis, quia domini sunt mandata.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000408	si quis autem ignorat, ignorabitur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000409	itaque fratres aemulamini prophetare: et loqui linguis nolite prohibere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000410	omnia autem honeste, et secundum ordinem fiant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000411	caput 15	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000412	notum autem vobis facio, fratres, evangelium, quod praedicavi vobis, quod et accepistis, in quo et statis,per quod et salvamini: qua ratione praedicaverim vobis, si tenetis, nisi frustra credidistis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000413	tradidi enim vobis in primis quod et accepi: quoniam christus mortuus est pro peccatis nostris secundum scripturas:et quia sepultus est, et quia resurrexit tertia die secundum scripturas:et quia visus est cephae, et post hoc undecim:deinde visus est plus quam quingentis fratribus simul: ex quibus multi manent usque adhuc, quidam autem dormierunt:deinde visus est iacobo, deinde apostolis omnibus:novissime autem omnium tamquam abortivo, visus est et mihi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000414	ego enim sum minimus apostolorum, qui non sum dignus vocari apostolus, quoniam persecutus sum ecclesiam dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000415	gratia autem dei sum id quod sum, et gratia eius in me vacua non fuit, sed abundantius illis omnibus laboravi: non ego autem, sed gratia dei mecum:sive enim ego, sive illi: sic praedicamus, et sic credidistis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000416	si autem christus praedicatur quod resurrexit a mortuis, quomodo quidam dicunt in vobis, quoniam resurrectio mortuorum non est?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000417	si autem resurrectio mortuorum non est: neque christus resurrexit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000418	si autem christus non resurrexit, inanis est ergo praedicatio nostra, inanis est et fides vestra:invenimur autem et falsi testes dei: quoniam testimonium diximus adversus deum quod suscitaverit christum, quem non suscitavit, si mortui non resurgunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000419	nam si mortui non resurgunt, neque christus resurrexit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000420	quod si christus non resurrexit, vana est fides vestra: adhuc enim estis in peccatis vestris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000421	ergo et qui dormierunt in christo, perierunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000422	si in hac vita tantum in christo sperantes sumus, miserabiliores sumus omnibus hominibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000423	nunc autem christus resurrexit a mortuis primitiae dormientium,quoniam quidem per hominem mors, et per hominem resurrectio mortuorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000424	et sicut in adam omnes moriuntur, ita et in christo omnes vivificabuntur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000425	unusquisque autem in suo ordine, primitiae christus: deinde ii qui sunt christi, qui in adventu eius crediderunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000426	deinde finis: cum tradiderit regnum deo et patri, cum evacuaverit omnem principatum, et potestatem, et virtutem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000427	oportet autem illum regnare donec ponat omnes inimicos sub pedibus eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000428	novissima autem inimica destruetur mors: omnia enim subiecit pedibus eius. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000429	cum autem dicat:omnia subiecta sunt ei, sine dubio praeter eum qui subiecit ei omnia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000430	cum autem subiecta fuerint illi omnia: tunc et ipse filius subiectus erit ei, qui subiecit sibi omnia, ut sit deus omnia in omnibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000431	alioquin quid facient qui baptizantur pro mortuis, si omnino mortui non resurgunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000432	ut quid et baptizantur pro illis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000433	ut quid et nos periclitamur omni hora?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000434	quotidie morior per vestram gloriam, fratres, quam habeo in christo iesu domino nostro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000435	si secundum hominem ad bestias pugnavi ephesi, quid mihi prodest, si mortui non resurgunt? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000436	manducemus, et bibamus, cras enim moriemur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000437	nolite seduci: corrumpunt mores bonos colloquia mala.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000438	evigilate iusti, et nolite peccare: ignorantiam enim dei quidam habent, ad reverentiam vobis loquor.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000439	sed dicet aliquis: quomodo resurgunt mortui? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000440	qualive corpore venient?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000441	insipiens, tu quod seminas non vivificatur, nisi prius moriatur:et quod seminas, non corpus, quod futurum est, seminas, sed nudum granum, ut puta tritici, aut alicuius ceterorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000442	deus autem dat illi corpus sicut vult: ut unicuique seminum proprium corpus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000443	non omnis caro, eadem caro: sed alia quidem hominum, alia vero pecorum, alia volucrum, alia autem piscium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000444	et corpora caelestia, et corpora terrestria: sed alia quidem caelestium gloria, alia autem terrestrium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000445	alia claritas solis, alia claritas lunae, et alia claritas stellarum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000446	stella enim a stella differt in claritate:sic et resurrectio mortuorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000447	seminatur in corruptione, surget in incorruptione.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000448	seminatur in ignobilitate, surget in gloria: seminatur in infirmitate, surget in virtute:seminatur corpus animale, surget corpus spiritale. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000449	si est corpus animale, est et spiritale, sicut scriptum est:factus est primus homo adam in animam viventem, novissimus adam in spiritum vivificantem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000450	sed non prius quod spiritale est, sed quod animale: deinde quod spiritale.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000451	primus homo de terra, terrenus: secundus homo de caelo, caelestis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000452	qualis terrenus, tales et terreni: et qualis caelestis, tales et caelestes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000453	igitur, sicut portavimus imaginem terreni, portemus et imaginem caelestis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000454	hoc autem dico, fratres: quia caro et sanguis regnum dei possidere non possunt: neque corruptio incorruptelam possidebit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000455	ecce mysterium vobis dico: omnes quidem resurgemus, sed non omnes immutabimur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000456	in momento, in ictu oculi, in novissima tuba: canet enim tuba, et mortui resurgent incorrupti: et nos immutabimur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000457	oportet enim corruptibile hoc induere incorruptionem: et mortale hoc induere immortalitatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000458	cum autem mortale hoc induerit immortalitatem, tunc fiet sermo, qui scriptus est: absorpta est mors in victoria.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000459	ubi est mors victoria tua? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000460	ubi est mors stimulus tuus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000461	stimulus autem mortis peccatum est: virtus vero peccati lex.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000462	deo autem gratias, qui dedit nobis victoriam per dominum nostrum iesum christum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000463	itaque fratres mei dilecti, stabiles estote, et immobiles: abundantes in opere domini semper, scientes quod labor vester non est inanis in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000464	caput 16	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000465	de collectis autem, quae fiunt in sanctos, sicut ordinavi ecclesiis galatiae, ita et vos facite.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000466	per unam sabbati unusquisque vestrum apud se seponat, recondens quod ei bene placuerit: ut non, cum venero, tunc collectae fiant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000467	cum autem praesens fuero, quos probaveritis per epistolas, hos mittam perferre gratiam vestram in ierusalem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000468	quod si dignum fuerit ut et ego eam, mecum ibunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000469	veniam autem ad vos, cum macedoniam pertransiero: nam macedoniam pertransibo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000470	apud vos autem forsitan manebo, vel etiam hiemabo: ut vos me deducatis quocumque iero.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000471	nolo enim vos modo in transitu videre, spero enim me aliquantulum temporis manere apud vos, si dominus permiserit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000472	permanebo autem ephesi usque ad pentecosten.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000473	ostium enim mihi apertum est magnum, et evidens: et adversarii multi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000474	si autem venerit timotheus, videte ut sine timore sit apud vos: opus enim domini operatur, sicut et ego.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000475	ne quis ergo illum spernat: deducite autem illum in pace, ut veniat ad me: exspecto enim illum cum fratribus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000476	de apollo autem fratre vobis notum facio, quoniam multum rogavi eum ut veniret ad vos cum fratribus: et utique non fuit voluntas ut nunc veniret: veniet autem, cum ei vacuum fuerit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000477	vigilate, state in fide, viriliter agite, et confortamini.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000478	omnia vestra in caritate fiant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000479	obsecro autem vos fratres, nostis domum stephanae, et fortunati, et achaici: quoniam sunt primitiae achaiae, et in ministerium sanctorum ordinaverunt seipsos:ut et vos subditi sitis eiusmodi, et omni cooperanti, et laboranti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000480	gaudeo autem in praesentia stephanae, et fortunati, et achaici: quoniam id, quod vobis deerat, ipsi suppleverunt:refecerunt enim et meum spiritum, et vestrum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000481	cognoscite ergo qui huiusmodi sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000482	salutant vos ecclesiae asiae. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000483	salutant vos in domino multum, aquila et priscilla cum domestica sua ecclesia: apud quos et hospitor.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000484	salutant vos omnes fratres. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000485	salutate invicem in osculo sancto.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000486	salutatio, mea manu pauli.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000487	si quis non amat dominum nostrum iesum christum, sit anathema, maran atha.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000488	gratia domini nostri iesu christi vobiscum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000489	caritas mea cum omnibus vobis in christo iesu. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima
+1100000490	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Corinthios_Prima

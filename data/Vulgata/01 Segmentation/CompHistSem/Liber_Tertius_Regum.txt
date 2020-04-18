@@ -1,0 +1,827 @@
+1100000001	liber tertius regum	2020-04-18	Liber_Tertius_Regum
+1100000002	caput 1	2020-04-18	Liber_Tertius_Regum
+1100000003	et rex david senuerat, habebatque aetatis plurimos dies: cumque operiretur vestibus, non calefiebat.	2020-04-18	Liber_Tertius_Regum
+1100000004	dixerunt ergo ei servi sui: quaeramus domino nostro regi adolescentulam virginem, et stet coram rege, et foveat eum, dormiatque in sinu suo, et calefaciat dominum nostrum regem.	2020-04-18	Liber_Tertius_Regum
+1100000005	quaesierunt igitur adolescentulam speciosam in omnibus finibus israel, et invenerunt abisag sunamitidem, et adduxerunt eam ad regem.	2020-04-18	Liber_Tertius_Regum
+1100000006	erat autem puella pulchra nimis, dormiebatque cum rege, et ministrabat ei: rex vero non cognovit eam.	2020-04-18	Liber_Tertius_Regum
+1100000007	adonias autem filius haggith elevabatur, dicens: ego regnabo. 	2020-04-18	Liber_Tertius_Regum
+1100000008	fecitque sibi currus et equites, et quinquaginta viros qui currerent ante eum.	2020-04-18	Liber_Tertius_Regum
+1100000009	nec corripuit eum pater suus aliquando, dicens: quare hoc fecisti? 	2020-04-18	Liber_Tertius_Regum
+1100000010	erat autem et ipse pulcher valde, secundus natu post absalom.	2020-04-18	Liber_Tertius_Regum
+1100000011	et sermo ei cum ioab filio sarviae, et cum abiathar sacerdote, qui adiuvabant partes adoniae.	2020-04-18	Liber_Tertius_Regum
+1100000012	sadoc vero sacerdos, et banaias filius ioiadae, et nathan propheta, et semei et rei, et robur exercitus david, non erat cum adonia.	2020-04-18	Liber_Tertius_Regum
+1100000013	immolatis ergo adonias arietibus et vitulis, et universis pinguibus, iuxta lapidem zoheleth, qui erat vicinus fonti rogel, vocavit universos fratres suos filios regis, et omnes viros iuda servos regis.	2020-04-18	Liber_Tertius_Regum
+1100000014	nathan autem prophetam, et banaiam, et robustos quosque, et salomonem fratrem suum non vocavit.	2020-04-18	Liber_Tertius_Regum
+1100000015	dixit itaque nathan ad bethsabee matrem salomonis: num audisti quod regnaverit adonias filius haggith, et dominus noster david hoc ignorat?	2020-04-18	Liber_Tertius_Regum
+1100000016	nunc ergo veni, accipe consilium a me, et salva animam tuam, filiique tui salomonis.	2020-04-18	Liber_Tertius_Regum
+1100000017	vade, et ingredere ad regem david, et dic ei: nonne tu, domine mi rex, iurasti mihi ancillae tuae, dicens: salomon filius tuus regnabit post me, et ipse sedebit in solio meo? 	2020-04-18	Liber_Tertius_Regum
+1100000018	quare ergo regnat adonias?	2020-04-18	Liber_Tertius_Regum
+1100000019	et adhuc ibi te loquente cum rege, ego veniam post te, et complebo sermones tuos.	2020-04-18	Liber_Tertius_Regum
+1100000020	ingressa est itaque bethsabee ad regem in cubiculum: rex autem senuerat nimis, et abisag sunamitis ministrabat ei.	2020-04-18	Liber_Tertius_Regum
+1100000021	inclinavit se bethsabee, et adoravit regem. 	2020-04-18	Liber_Tertius_Regum
+1100000022	ad quam rex: quid tibi, inquit, vis?	2020-04-18	Liber_Tertius_Regum
+1100000023	quae respondens, ait: domine mi, tu iurasti per dominum deum tuum ancillae tuae: salomon filius tuus regnabit post me, et ipse sedebit in solio meo.	2020-04-18	Liber_Tertius_Regum
+1100000024	et ecce nunc adonias regnat, te, domine mi rex, ignorante.	2020-04-18	Liber_Tertius_Regum
+1100000025	mactavit boves, et pinguia quaeque, et arietes plurimos, et vocavit omnes filios regis, abiathar quoque sacerdotem, et ioab principem militiae: salomonem autem servum tuum non vocavit.	2020-04-18	Liber_Tertius_Regum
+1100000026	verumtamen, domine mi rex, in te oculi respiciunt totius israel, ut indices eis quis sedere debeat in solio tuo, domine mi rex, post te.	2020-04-18	Liber_Tertius_Regum
+1100000027	eritque, cum dormierit dominus meus rex cum patribus suis, erimus ego et filius meus salomon peccatores.	2020-04-18	Liber_Tertius_Regum
+1100000028	adhuc illa loquente cum rege, nathan propheta venit.	2020-04-18	Liber_Tertius_Regum
+1100000029	et nuntiaverunt regi, dicentes: adest nathan propheta. 	2020-04-18	Liber_Tertius_Regum
+1100000030	cumque introisset in conspectu regis, et adorasset eum pronus in terram,dixit nathan: domine mi rex, tu dixisti: adonias regnet post me, et ipse sedeat super thronum meum?	2020-04-18	Liber_Tertius_Regum
+1100000031	quia descendit hodie, et immolavit boves, et pinguia, et arietes plurimos, et vocavit universos filios regis et principes exercitus, abiathar quoque sacerdotem, illisque vescentibus et bibentibus coram eo, et dicentibus: vivat rex adonias:me servum tuum, et sadoc sacerdotem, et banaiam filium ioiadae, et salomonem famulum tuum non vocavit.	2020-04-18	Liber_Tertius_Regum
+1100000032	numquid a domino meo rege exivit hoc verbum, et mihi non indicasti servo tuo quis sessurus esset super thronum domini mei regis post eum?	2020-04-18	Liber_Tertius_Regum
+1100000033	et respondit rex david, dicens: vocate ad me bethsabee. 	2020-04-18	Liber_Tertius_Regum
+1100000034	quae cum fuisset ingressa coram rege, et stetisset ante eum,iuravit rex, et ait: vivit dominus, qui eruit animam meam de omni angustia,quia sicut iuravi tibi per dominum deum israel, dicens: salomon filius tuus regnabit post me, et ipse sedebit super solium meum pro me: sic faciam hodie.	2020-04-18	Liber_Tertius_Regum
+1100000035	summissoque bethsabee in terram vultu, adoravit regem, dicens: vivat dominus meus david in aeternum.	2020-04-18	Liber_Tertius_Regum
+1100000036	dixit quoque rex david: vocate mihi sadoc sacerdotem, et nathan prophetam, et banaiam filium ioiadae. 	2020-04-18	Liber_Tertius_Regum
+1100000037	qui cum ingressi fuissent coram rege,dixit ad eos: tollite vobiscum servos domini vestri, et imponite salomonem filium meum super mulam meam, et ducite eum in gihon.	2020-04-18	Liber_Tertius_Regum
+1100000038	et ungat eum ibi sadoc sacerdos et nathan propheta in regem super israel: et canetis buccina, atque dicetis: vivat rex salomon.	2020-04-18	Liber_Tertius_Regum
+1100000039	et ascendetis post eum, et veniet, et sedebit super solium meum, et ipse regnabit pro me: illique praecipiam ut sit dux super israel et super iudam.	2020-04-18	Liber_Tertius_Regum
+1100000040	et respondit banaias filius ioiadae regi, dicens: amen: sic loquatur dominus deus domini mei regis.	2020-04-18	Liber_Tertius_Regum
+1100000041	quomodo fuit dominus cum domino meo rege, sic sit cum salomone, et sublimius faciat solium eius a solio domini mei regis david.	2020-04-18	Liber_Tertius_Regum
+1100000042	descendit ergo sadoc sacerdos, et nathan propheta, et banaias filius ioiadae, et cerethi, et phelethi: et imposuerunt salomonem super mulam regis david, et adduxerunt eum in gihon.	2020-04-18	Liber_Tertius_Regum
+1100000043	sumpsitque sadoc sacerdos cornu olei de tabernaculo, et unxit salomonem: et cecinerunt buccina, et dixit omnis populus: vivat rex salomon.	2020-04-18	Liber_Tertius_Regum
+1100000044	et ascendit universa multitudo post eum, et populus canentium tibiis, et laetantium gaudio magno: et insonuit terra a clamore eorum.	2020-04-18	Liber_Tertius_Regum
+1100000045	audivit autem adonias, et omnes qui invitati fuerant ab eo: iamque convivium finitum erat: sed et ioab, audita voce tubae, ait: quid sibi vult clamor civitatis tumultuantis?	2020-04-18	Liber_Tertius_Regum
+1100000046	adhuc illo loquente, ionathas filius abiathar sacerdotis venit: cui dixit adonias: ingredere, quia vir fortis es, et bona nuntians.	2020-04-18	Liber_Tertius_Regum
+1100000047	responditque ionathas adoniae: nequaquam: dominus enim noster rex david regem constituit salomonem:misitque cum eo sadoc sacerdotem, et nathan prophetam, et banaiam filium ioiadae, et cerethi, et phelethi, et imposuerunt eum super mulam regis.	2020-04-18	Liber_Tertius_Regum
+1100000048	unxeruntque eum sadoc sacerdos et nathan propheta regem in gihon: et ascenderunt inde laetantes, et insonuit civitas: haec est vox quam audistis.	2020-04-18	Liber_Tertius_Regum
+1100000049	sed et salomon sedet super solium regni.	2020-04-18	Liber_Tertius_Regum
+1100000050	et ingressi servi regis benedixerunt domino nostro regi david, dicentes: amplificet deus nomen salomonis super nomen tuum, et magnificet thronus eius super thronum tuum. 	2020-04-18	Liber_Tertius_Regum
+1100000051	et adoravit rex in lectulo suo:et locutus est: benedictus dominus deus israel, qui dedit hodie sedentem in solio meo, videntibus oculis meis.	2020-04-18	Liber_Tertius_Regum
+1100000052	territi sunt ergo, et surrexerunt omnes qui invitati fuerant ab adonia, et ivit unusquisque in viam suam.	2020-04-18	Liber_Tertius_Regum
+1100000053	adonias autem timens salomonem, surrexit, et abiit, tenuitque cornu altaris.	2020-04-18	Liber_Tertius_Regum
+1100000054	et nuntiaverunt salomoni, dicentes: ecce adonias timens regem salomonem, tenuit cornu altaris, dicens: iuret mihi rex salomon hodie, quod non interficiat servum suum gladio.	2020-04-18	Liber_Tertius_Regum
+1100000055	dixitque salomon: si fuerit vir bonus, non cadet ne unus quidem capillus eius in terram: sin autem malum inventum fuerit in eo, morietur.	2020-04-18	Liber_Tertius_Regum
+1100000056	misit ergo rex salomon, et eduxit eum ab altari: et ingressus adoravit regem salomonem: dixitque ei salomon: vade in domum tuam.	2020-04-18	Liber_Tertius_Regum
+1100000057	caput 2	2020-04-18	Liber_Tertius_Regum
+1100000058	appropinquaverunt autem dies david ut moreretur: praecepitque salomoni filio suo, dicens:ego ingredior viam universae terrae: confortare, et esto vir.	2020-04-18	Liber_Tertius_Regum
+1100000059	et observa custodias domini dei tui, ut ambules in viis eius: ut custodias caeremonias eius, et praecepta eius, et iudicia, et testimonia, sicut scriptum est in lege moysi: ut intelligas universa quae facis, et quocumque te verteris:ut confirmet dominus sermones suos quos locutus est de me, dicens: si custodierint filii tui vias suas, et ambulaverint coram me in veritate, in omni corde suo et in omni anima sua, non auferetur tibi vir de solio israel.	2020-04-18	Liber_Tertius_Regum
+1100000060	tu quoque nosti quae fecerit mihi ioab filius sarviae, quae fecerit duobus principibus exercitus israel, abner filio ner, et amasae filio iether: quos occidit, et effudit sanguinem belli in pace, et posuit cruorem praelii in balteo suo qui erat circa lumbos eius, et in calceamento suo quod erat in pedibus eius.	2020-04-18	Liber_Tertius_Regum
+1100000061	facies ergo iuxta sapientiam tuam, et non deduces canitiem eius pacifice ad inferos.	2020-04-18	Liber_Tertius_Regum
+1100000062	sed et filiis berzellai galaaditis reddes gratiam, eruntque comedentes in mensa tua: occurrerunt enim mihi quando fugiebam a facie absalom fratris tui.	2020-04-18	Liber_Tertius_Regum
+1100000063	habes quoque apud te semei filium gera filii iemini de bahurim, qui maledixit mihi maledictione pessima quando ibam ad castra: sed quia descendit mihi in occursum cum transirem iordanem, et iuravi ei per dominum, dicens: non te interficiam gladio:tu noli pati eum esse innoxium. 	2020-04-18	Liber_Tertius_Regum
+1100000064	vir autem sapiens es, ut scias quae facies ei: deducesque canos eius cum sanguine ad inferos.	2020-04-18	Liber_Tertius_Regum
+1100000065	dormivit igitur david cum patribus suis, et sepultus est in civitate david.	2020-04-18	Liber_Tertius_Regum
+1100000066	dies autem quibus regnavit david super israel, quadraginta anni sunt: in hebron regnavit septem annis; in ierusalem, triginta tribus.	2020-04-18	Liber_Tertius_Regum
+1100000067	salomon autem sedit super thronum david patris sui, et firmatum est regnum eius nimis.	2020-04-18	Liber_Tertius_Regum
+1100000068	et ingressus est adonias filius haggith ad bethsabee matrem salomonis. 	2020-04-18	Liber_Tertius_Regum
+1100000069	quae dixit ei: pacificusne est ingressus tuus? 	2020-04-18	Liber_Tertius_Regum
+1100000070	qui respondit: pacificus.	2020-04-18	Liber_Tertius_Regum
+1100000071	addiditque: sermo mihi est ad te. 	2020-04-18	Liber_Tertius_Regum
+1100000072	cui ait: loquere. 	2020-04-18	Liber_Tertius_Regum
+1100000073	et ille:tu, inquit, nosti, quia meum erat regnum, et me praeposuerat omnis israel sibi in regem: sed translatum est regnum, et factum est fratris mei: a domino enim constitutum est ei.	2020-04-18	Liber_Tertius_Regum
+1100000074	nunc ergo petitionem unam precor a te: ne confundas faciem meam. 	2020-04-18	Liber_Tertius_Regum
+1100000075	quae dixit ad eum: loquere.	2020-04-18	Liber_Tertius_Regum
+1100000076	et ille ait: precor ut dicas salomoni regi (neque enim negare tibi quidquam potest) ut det mihi abisag sunamitidem uxorem.	2020-04-18	Liber_Tertius_Regum
+1100000077	et ait bethsabee: bene: ego loquar pro te regi.	2020-04-18	Liber_Tertius_Regum
+1100000078	venit ergo bethsabee ad regem salomonem ut loqueretur ei pro adonia: et surrexit rex in occursum eius, adoravitque eam, et sedit super thronum suum: positusque est thronus matri regis, quae sedit ad dexteram eius.	2020-04-18	Liber_Tertius_Regum
+1100000079	dixitque ei: petitionem unam parvulam ego deprecor a te: ne confundas faciem meam. 	2020-04-18	Liber_Tertius_Regum
+1100000080	et dixit ei rex: pete, mater mea: neque enim fas est ut avertam faciem tuam.	2020-04-18	Liber_Tertius_Regum
+1100000081	quae ait: detur abisag sunamitis adoniae fratri tuo uxor.	2020-04-18	Liber_Tertius_Regum
+1100000082	responditque rex salomon, et dixit matri suae: quare postulas abisag sunamitidem adoniae? 	2020-04-18	Liber_Tertius_Regum
+1100000083	postula ei et regnum: ipse est enim frater meus maior me, et habet abiathar sacerdotem, et ioab filium sarviae.	2020-04-18	Liber_Tertius_Regum
+1100000084	iuravit itaque rex salomon per dominum, dicens: haec faciat mihi deus, et haec addat, quia contra animam suam locutus est adonias verbum hoc.	2020-04-18	Liber_Tertius_Regum
+1100000085	et nunc vivit dominus, qui firmavit me, et collocavit me super solium david patris mei, et qui fecit mihi domum, sicut locutus est, quia hodie occidetur adonias.	2020-04-18	Liber_Tertius_Regum
+1100000086	misitque rex salomon per manum banaiae filii ioiadae, qui interfecit eum, et mortuus est.	2020-04-18	Liber_Tertius_Regum
+1100000087	abiathar quoque sacerdoti dixit rex: vade in anathoth ad agrum tuum: equidem vir mortis es: sed hodie te non interficiam, quia portasti arcam domini dei coram david patre meo, et sustinuisti laborem in omnibus in quibus laboravit pater meus.	2020-04-18	Liber_Tertius_Regum
+1100000088	eiecit ergo salomon abiathar ut non esset sacerdos domini, ut impleretur sermo domini quem locutus est super domum heli in silo.	2020-04-18	Liber_Tertius_Regum
+1100000089	venit autem nuntius ad ioab, quod ioab declinasset post adoniam, et post salomonem non declinasset: fugit ergo ioab in tabernaculum domini, et apprehendit cornu altaris.	2020-04-18	Liber_Tertius_Regum
+1100000090	nuntiatumque est regi salomoni quod fugisset ioab in tabernaculum domini, et esset iuxta altare: misitque salomon banaiam filium ioiadae, dicens: vade, interfice eum.	2020-04-18	Liber_Tertius_Regum
+1100000091	et venit banaias ad tabernaculum domini, et dixit ei: haec dicit rex: egredere. 	2020-04-18	Liber_Tertius_Regum
+1100000092	qui ait: non egrediar, sed hic moriar. 	2020-04-18	Liber_Tertius_Regum
+1100000093	renuntiavit banaias regi sermonem, dicens: haec locutus est ioab, et haec respondit mihi.	2020-04-18	Liber_Tertius_Regum
+1100000094	dixitque ei rex: fac sicut locutus est, et interfice eum, et sepeli: et amovebis sanguinem innocentem qui effusus est a ioab, a me, et a domo patris mei.	2020-04-18	Liber_Tertius_Regum
+1100000095	et reddet dominus sanguinem eius super caput eius, quia interfecit duos viros iustos, melioresque se: et occidit eos gladio, patre meo david ignorante, abner filium ner principem militiae israel, et amasam filium iether principem exercitus iuda:et revertetur sanguis illorum in caput ioab, et in caput seminis eius in sempiternum. 	2020-04-18	Liber_Tertius_Regum
+1100000096	david autem et semini eius, et domui, et throno illius, sit pax usque in aeternum a domino.	2020-04-18	Liber_Tertius_Regum
+1100000097	ascendit itaque banaias filius ioiadae, et aggressus eum interfecit: sepultusque est in domo sua in deserto.	2020-04-18	Liber_Tertius_Regum
+1100000098	et constituit rex banaiam filium ioiadae pro eo super exercitum, et sadoc sacerdotem posuit pro abiathar.	2020-04-18	Liber_Tertius_Regum
+1100000099	misit quoque rex, et vocavit semei: dixitque ei: aedifica tibi domum in ierusalem, et habita ibi: et non egredieris inde huc atque illuc.	2020-04-18	Liber_Tertius_Regum
+1100000100	quacumque autem die egressus fueris, et transieris torrentem cedron, scito te interficiendum: sanguis tuus erit super caput tuum.	2020-04-18	Liber_Tertius_Regum
+1100000101	dixitque semei regi: bonus sermo: sicut locutus est dominus meus rex, sic faciet servus tuus. 	2020-04-18	Liber_Tertius_Regum
+1100000102	habitavit itaque semei in ierusalem diebus multis.	2020-04-18	Liber_Tertius_Regum
+1100000103	factum est autem post annos tres ut fugerent servi semei ad achis filium maacha regem geth: nuntiatumque est semei quod servi eius issent in geth.	2020-04-18	Liber_Tertius_Regum
+1100000104	et surrexit semei, et stravit asinum suum, ivitque ad achis in geth ad requirendum servos suos, et adduxit eos de geth.	2020-04-18	Liber_Tertius_Regum
+1100000105	nuntiatum est autem salomoni quod isset semei in geth de ierusalem, et rediisset.	2020-04-18	Liber_Tertius_Regum
+1100000106	et mittens vocavit eum, dixitque illi: nonne testificatus sum tibi per dominum, et praedixi tibi: quacumque die egressus ieris huc et illuc, scito te esse moriturum: et respondisti mihi: bonus sermo, quem audivi?	2020-04-18	Liber_Tertius_Regum
+1100000107	quare ergo non custodisti iusiurandum domini, et praeceptum quod praeceperam tibi?	2020-04-18	Liber_Tertius_Regum
+1100000108	dixitque rex ad semei: tu nosti omne malum cuius tibi conscium est cor tuum, quod fecisti david patri meo: reddidit dominus malitiam tuam in caput tuum:et rex salomon benedictus, et thronus david erit stabilis coram domino usque in sempiternum.	2020-04-18	Liber_Tertius_Regum
+1100000109	iussit itaque rex banaiae filio ioiadae, qui egressus, percussit eum, et mortuus est.	2020-04-18	Liber_Tertius_Regum
+1100000110	caput 3	2020-04-18	Liber_Tertius_Regum
+1100000111	confirmatum est igitur regnum in manu salomonis, et affinitate coniunctus est pharaoni regi aegypti: accepit namque filiam eius, et adduxit in civitatem david, donec compleret aedificans domum suam, et domum domini, et murum ierusalem per circuitum.	2020-04-18	Liber_Tertius_Regum
+1100000112	attamen populus immolabat in excelsis: non enim aedificatum erat templum nomini domini usque in diem illum.	2020-04-18	Liber_Tertius_Regum
+1100000113	dilexit autem salomon dominum, ambulans in praeceptis david patris sui, excepto quod in excelsis immolabat, et accendebat thymiama.	2020-04-18	Liber_Tertius_Regum
+1100000114	abiit itaque in gabaon, ut immolaret ibi: illud quippe erat excelsum maximum: mille hostias in holocaustum obtulit salomon super altare illud in gabaon.	2020-04-18	Liber_Tertius_Regum
+1100000115	apparuit autem dominus salomoni per somnium nocte, dicens: postula quod vis ut dem tibi.	2020-04-18	Liber_Tertius_Regum
+1100000116	et ait salomon: tu fecisti cum servo tuo david patre meo misericordiam magnam, sicut ambulavit in conspectu tuo in veritate et iustitia, et recto corde tecum: custodisti ei misericordiam tuam grandem, et dedisti ei filium sedentem super thronum eius, sicut est hodie.	2020-04-18	Liber_Tertius_Regum
+1100000117	et nunc domine deus, tu regnare fecisti servum tuum pro david patre meo: ego autem sum puer parvulus, et ignorans egressum et introitum meum.	2020-04-18	Liber_Tertius_Regum
+1100000118	et servus tuus in medio est populi quem elegisti, populi infiniti, qui numerari et supputari non potest prae multitudine.	2020-04-18	Liber_Tertius_Regum
+1100000119	dabis ergo servo tuo cor docile, ut populum tuum iudicare possit, et discernere inter bonum et malum. 	2020-04-18	Liber_Tertius_Regum
+1100000120	quis enim poterit iudicare populum istum, populum tuum hunc multum?	2020-04-18	Liber_Tertius_Regum
+1100000121	placuit ergo sermo coram domino, quod salomon postulasset huiuscemodi rem.	2020-04-18	Liber_Tertius_Regum
+1100000122	et dixit dominus salomoni: quia postulasti verbum hoc, et non petisti tibi dies multos, nec divitias, aut animas inimicorum tuorum, sed postulasti tibi sapientiam ad discernendum iudicium:ecce feci tibi secundum sermones tuos, et dedi tibi cor sapiens et intelligens, in tantum ut nullus ante te similis tui fuerit, nec post te surrecturus sit.	2020-04-18	Liber_Tertius_Regum
+1100000123	sed et haec quae non postulasti, dedi tibi: divitias scilicet, et gloriam, ut nemo fuerit similis tui in regibus cunctis retro diebus.	2020-04-18	Liber_Tertius_Regum
+1100000124	si autem ambulaveris in viis meis, et custodieris praecepta mea et mandata mea, sicut ambulavit pater tuus, longos faciam dies tuos.	2020-04-18	Liber_Tertius_Regum
+1100000125	igitur evigilavit salomon, et intellexit quod esset somnium: cumque venisset ierusalem, stetit coram arca foederis domini, et obtulit holocausta, et fecit victimas pacificas, et grande convivium universis famulis suis.	2020-04-18	Liber_Tertius_Regum
+1100000126	tunc venerunt duae mulieres meretrices ad regem, steteruntque coram eo:quarum una ait: obsecro, mi domine: ego et mulier haec habitabamus in domo una, et peperi apud eam in cubiculo.	2020-04-18	Liber_Tertius_Regum
+1100000127	tertia autem die postquam ego peperi, peperit et haec: et eramus simul, nullusque alius nobiscum in domo, exceptis nobis duabus.	2020-04-18	Liber_Tertius_Regum
+1100000128	mortuus est autem filius mulieris huius nocte: dormiens quippe oppressit eum.	2020-04-18	Liber_Tertius_Regum
+1100000129	et consurgens intempestae noctis silentio, tulit filium meum de latere meo, ancillae tuae dormientis, et collocavit in sinu suo: suum autem filium, qui erat mortuus, posuit in sinu meo.	2020-04-18	Liber_Tertius_Regum
+1100000130	cumque surrexissem mane ut darem lac filio meo, apparuit mortuus: quem diligentius intuens clara luce, deprehendi non esse meum quem genueram.	2020-04-18	Liber_Tertius_Regum
+1100000131	responditque altera mulier: non est ita ut dicis, sed filius tuus mortuus est, meus autem vivit. 	2020-04-18	Liber_Tertius_Regum
+1100000132	e contrario illa dicebat: mentiris: filius quippe meus vivit, et filius tuus mortuus est. 	2020-04-18	Liber_Tertius_Regum
+1100000133	atque in hunc modum contendebant coram rege.	2020-04-18	Liber_Tertius_Regum
+1100000134	tunc rex ait: haec dicit: filius meus vivit, et filius tuus mortuus est: et ista respondit: non, sed filius tuus mortuus est, meus autem vivit.	2020-04-18	Liber_Tertius_Regum
+1100000135	dixit ergo rex: afferte mihi gladium. 	2020-04-18	Liber_Tertius_Regum
+1100000136	cumque attulissent gladium coram rege,dividite, inquit, infantem vivum in duas partes, et date dimidiam partem uni, et dimidiam partem alteri.	2020-04-18	Liber_Tertius_Regum
+1100000137	dixit autem mulier, cuius filius erat vivus, ad regem (commota sunt quippe viscera eius super filio suo): obsecro, domine, date illi infantem vivum, et nolite interficere eum. 	2020-04-18	Liber_Tertius_Regum
+1100000138	e contrario illa dicebat: nec mihi nec tibi sit, sed dividatur.	2020-04-18	Liber_Tertius_Regum
+1100000139	respondit rex, et ait: date huic infantem vivum, et non occidatur: haec est enim mater eius.	2020-04-18	Liber_Tertius_Regum
+1100000140	audivit itaque omnis israel iudicium quod iudicasset rex, et timuerunt regem, videntes sapientiam dei esse in eo ad faciendum iudicium.	2020-04-18	Liber_Tertius_Regum
+1100000141	caput 4	2020-04-18	Liber_Tertius_Regum
+1100000142	erat autem rex salomon regnans super omnem israel:et hi principes quos habebat: azarias filius sadoc sacerdotis:elihoreph et ahia filii sisa scribae: iosaphat filius ahilud a commentariis:banaias filius ioiadae super exercitum: sadoc autem et abiathar sacerdotes:azarias filius nathan super eos qui assistebant regi: zabud filius nathan sacerdos, amicus regis:et ahisar praepositus domus: et adoniram filius abda super tributa.	2020-04-18	Liber_Tertius_Regum
+1100000143	habebat autem salomon duodecim praefectos super omnem israel, qui praebebant annonam regi et domui eius: per singulos enim menses in anno, singuli necessaria ministrabant.	2020-04-18	Liber_Tertius_Regum
+1100000144	et haec nomina eorum: benhur in monte ephraim.	2020-04-18	Liber_Tertius_Regum
+1100000145	bendecar in macces, et in salebim, et in bethsames, et in elon, et in bethanan.	2020-04-18	Liber_Tertius_Regum
+1100000146	benhesed in aruboth: ipsius erat socho, et omnis terra epher.	2020-04-18	Liber_Tertius_Regum
+1100000147	benabinadab, cuius omnis nephath dor: tapheth filiam salomonis habebat uxorem.	2020-04-18	Liber_Tertius_Regum
+1100000148	bana filius ahilud regebat thanac et mageddo, et universam bethsan, quae est iuxta sarthana subter iezrahel, a bethsan usque abelmehula e regione iecmaan.	2020-04-18	Liber_Tertius_Regum
+1100000149	bengaber in ramoth galaad: habebat avothiair filii manasse in galaad: ipse praeerat in omni regione argob, quae est in basan, sexaginta civitatibus magnis atque muratis quae habebant seras aereas.	2020-04-18	Liber_Tertius_Regum
+1100000150	ahinadab filius addo praeerat in manaim.	2020-04-18	Liber_Tertius_Regum
+1100000151	achimaas in nephthali: sed et ipse habebat basemath filiam salomonis in coniugio.	2020-04-18	Liber_Tertius_Regum
+1100000152	baana filius husi in aser, et in baloth.	2020-04-18	Liber_Tertius_Regum
+1100000153	iosaphat filius pharue in issachar.	2020-04-18	Liber_Tertius_Regum
+1100000154	semei filius ela in beniamin.	2020-04-18	Liber_Tertius_Regum
+1100000155	gaber filius uri in terra galaad, in terra sehon regis amorrhaei et og regis basan, super omnia quae erant in illa terra.	2020-04-18	Liber_Tertius_Regum
+1100000156	iuda et israel innumerabiles, sicut arena maris in multitudine: comedentes, et bibentes, atque laetantes.	2020-04-18	Liber_Tertius_Regum
+1100000157	salomon autem erat in ditione sua, habens omnia regna a flumine terrae philisthiim usque ad terminum aegypti: offerentium sibi munera, et servientium ei cunctis diebus vitae eius.	2020-04-18	Liber_Tertius_Regum
+1100000158	erat autem cibus salomonis per dies singulos triginta cori similae, et sexaginta cori farinae,decem boves pingues, et viginti boves pascuales, et centum arietes, excepta venatione cervorum, caprearum, atque bubalorum, et avium altilium.	2020-04-18	Liber_Tertius_Regum
+1100000159	ipse enim obtinebat omnem regionem quae erat trans flumen, a thaphsa usque ad gazan, et cunctos reges illarum regionum: et habebat pacem ex omni parte in circuitu.	2020-04-18	Liber_Tertius_Regum
+1100000160	habitabatque iuda et israel absque timore ullo, unusquisque sub vite sua et sub ficu sua, a dan usque bersabee, cunctis diebus salomonis.	2020-04-18	Liber_Tertius_Regum
+1100000161	et habebat salomon quadraginta millia praesepia equorum currilium, et duodecim millia equestrium.	2020-04-18	Liber_Tertius_Regum
+1100000162	nutriebantque eos supradicti regis praefecti: sed et necessaria mensae regis salomonis cum ingenti cura praebebant in tempore suo.	2020-04-18	Liber_Tertius_Regum
+1100000163	hordeum quoque, et paleas equorum et iumentorum, deferebant in locum ubi erat rex, iuxta constitutum sibi.	2020-04-18	Liber_Tertius_Regum
+1100000164	dedit quoque deus sapientiam salomoni, et prudentiam multam nimis, et latitudinem cordis quasi arenam quae est in littore maris.	2020-04-18	Liber_Tertius_Regum
+1100000165	et praecedebat sapientia salomonis sapientiam omnium orientalium et aegyptiorum,et erat sapientior cunctis hominibus: sapientior ethan ezrahita, et heman, et chalcol, et dorda filiis mahol: et erat nominatus in universis gentibus per circuitum.	2020-04-18	Liber_Tertius_Regum
+1100000166	locutus est quoque salomon tria millia parabolas: et fuerunt carmina eius quinque et mille.	2020-04-18	Liber_Tertius_Regum
+1100000167	et disputavit super lignis a cedro quae est in libano, usque ad hyssopum quae egreditur de pariete: et disseruit de iumentis, et volucribus, et reptilibus, et piscibus.	2020-04-18	Liber_Tertius_Regum
+1100000168	et veniebant de cunctis populis ad audiendam sapientiam salomonis, et ab universis regibus terrae qui audiebant sapientiam eius.	2020-04-18	Liber_Tertius_Regum
+1100000169	caput 5	2020-04-18	Liber_Tertius_Regum
+1100000170	misit quoque hiram rex tyri servos suos ad salomonem: audivit enim quod ipsum unxissent regem pro patre eius: quia amicus fuerat hiram david omni tempore.	2020-04-18	Liber_Tertius_Regum
+1100000171	misit autem salomon ad hiram, dicens:tu scis voluntatem david patris mei, et quia non potuerit aedificare domum nomini domini dei sui propter bella imminentia per circuitum, donec daret dominus eos sub vestigio pedum eius.	2020-04-18	Liber_Tertius_Regum
+1100000172	nunc autem requiem dedit dominus deus meus mihi per circuitum, et non est satan, neque occursus malus.	2020-04-18	Liber_Tertius_Regum
+1100000173	quam ob rem cogito aedificare templum nomini domini dei mei, sicut locutus est dominus david patri meo, dicens: filius tuus, quem dabo pro te super solium tuum, ipse aedificabit domum nomini meo.	2020-04-18	Liber_Tertius_Regum
+1100000174	praecipe igitur ut praecidant mihi servi tui cedros de libano, et servi mei sint cum servis tuis: mercedem autem servorum tuorum dabo tibi quamcumque petieris: scis enim quomodo non est in populo meo vir qui noverit ligna caedere sicut sidonii.	2020-04-18	Liber_Tertius_Regum
+1100000175	cum ergo audisset hiram verba salomonis, laetatus est valde, et ait: benedictus dominus deus hodie, qui dedit david filium sapientissimum super populum hunc plurimum.	2020-04-18	Liber_Tertius_Regum
+1100000176	et misit hiram ad salomonem, dicens: audivi quaecumque mandasti mihi: ego faciam omnem voluntatem tuam in lignis cedrinis et abiegnis.	2020-04-18	Liber_Tertius_Regum
+1100000177	servi mei deponent ea de libano ad mare, et ego componam ea in ratibus in mari usque ad locum quem significaveris mihi: et applicabo ea ibi, et tu tolles ea: praebebisque necessaria mihi, ut detur cibus domui meae.	2020-04-18	Liber_Tertius_Regum
+1100000178	itaque hiram dabat salomoni ligna cedrina, et ligna abiegna, iuxta omnem voluntatem eius.	2020-04-18	Liber_Tertius_Regum
+1100000179	salomon autem praebebat hiram coros tritici viginti millia in cibum domui eius, et viginti coros purissimi olei: haec tribuebat salomon hiram per singulos annos.	2020-04-18	Liber_Tertius_Regum
+1100000180	dedit quoque dominus sapientiam salomoni, sicut locutus est ei: et erat pax inter hiram et salomonem, et percusserunt ambo foedus.	2020-04-18	Liber_Tertius_Regum
+1100000181	elegitque rex salomon operarios de omni israel, et erat indictio triginta millia virorum.	2020-04-18	Liber_Tertius_Regum
+1100000182	mittebatque eos in libanum, decem millia per menses singulos vicissim, ita ut duobus mensibus essent in domibus suis: et adoniram erat super huiuscemodi indictione.	2020-04-18	Liber_Tertius_Regum
+1100000183	fueruntque salomoni septuaginta millia eorum qui onera portabant, et octoginta millia latomorum in monte,absque praepositis qui praeerant singulis operibus, numero trium millium et trecentorum, praecipientium populo et his qui faciebant opus.	2020-04-18	Liber_Tertius_Regum
+1100000184	praecepitque rex ut tollerent lapides grandes, lapides pretiosos in fundamentum templi, et quadrarent eos:quos dolaverunt caementarii salomonis et caementarii hiram: porro giblii praeparaverunt ligna et lapides ad aedificandam domum.	2020-04-18	Liber_Tertius_Regum
+1100000185	caput 6	2020-04-18	Liber_Tertius_Regum
+1100000186	factum est ergo quadringentesimo et octogesimo anno egressionis filiorum israel de terra aegypti, in anno quarto, mense zio (ipse est mensis secundus), regni salomonis super israel, aedificari coepit domus domino.	2020-04-18	Liber_Tertius_Regum
+1100000187	domus autem quam aedificabat rex salomon domino, habebat sexaginta cubitos in longitudine, et viginti cubitos in latitudine, et triginta cubitos in altitudine.	2020-04-18	Liber_Tertius_Regum
+1100000188	et porticus erat ante templum viginti cubitorum longitudinis, iuxta mensuram latitudinis templi: et habebat decem cubitos latitudinis ante faciem templi.	2020-04-18	Liber_Tertius_Regum
+1100000189	fecitque in templo fenestras obliquas.	2020-04-18	Liber_Tertius_Regum
+1100000190	et aedificavit super parietem templi tabulata per gyrum, in parietibus domus per circuitum templi et oraculi, et fecit latera in circuitu.	2020-04-18	Liber_Tertius_Regum
+1100000191	tabulatum quod subter erat, quinque cubitos habebat latitudinis, et medium tabulatum sex cubitorum latitudinis, et tertium tabulatum septem habens cubitos latitudinis. 	2020-04-18	Liber_Tertius_Regum
+1100000192	trabes autem posuit in domo per circuitum forinsecus, ut non haererent muris templi.	2020-04-18	Liber_Tertius_Regum
+1100000193	domus autem cum aedificaretur, de lapidibus dolatis atque perfectis aedificata est: et malleus, et securis, et omne ferramentum non sunt audita in domo cum aedificaretur.	2020-04-18	Liber_Tertius_Regum
+1100000194	ostium lateris medii in parte erat domus dextrae: et per cochleam ascendebant in medium coenaculum, et a medio in tertium.	2020-04-18	Liber_Tertius_Regum
+1100000195	et aedificavit domum, et consummavit eam: texit quoque domum laquearibus cedrinis.	2020-04-18	Liber_Tertius_Regum
+1100000196	et aedificavit tabulatum super omnem domum quinque cubitis altitudinis, et operuit domum lignis cedrinis.	2020-04-18	Liber_Tertius_Regum
+1100000197	et factus est sermo domini ad salomonem, dicens:domus haec, quam aedificas, si ambulaveris in praeceptis meis, et iudicia mea feceris, et custodieris omnia mandata mea, gradiens per ea, firmabo sermonem meum tibi, quem locutus sum ad david patrem tuum:et habitabo in medio filiorum israel, et non derelinquam populum meum israel.	2020-04-18	Liber_Tertius_Regum
+1100000198	igitur aedificavit salomon domum, et consummavit eam.	2020-04-18	Liber_Tertius_Regum
+1100000199	et aedificavit parietes domus intrinsecus tabulatis cedrinis: a pavimento domus usque ad summitatem parietum, et usque ad laquearia, operuit lignis cedrinis intrinsecus: et texit pavimentum domus tabulis abiegnis.	2020-04-18	Liber_Tertius_Regum
+1100000200	aedificavitque viginti cubitorum ad posteriorem partem templi tabulata cedrina, a pavimento usque ad superiora: et fecit interiorem domum oraculi in sanctum sanctorum.	2020-04-18	Liber_Tertius_Regum
+1100000201	porro quadraginta cubitorum erat ipsum templum pro foribus oraculi.	2020-04-18	Liber_Tertius_Regum
+1100000202	et cedro omnis domus intrinsecus vestiebatur, habens tornaturas et iuncturas suas fabrefactas, et caelaturas eminentes: omnia cedrinis tabulis vestiebantur: nec omnino lapis apparere poterat in pariete.	2020-04-18	Liber_Tertius_Regum
+1100000203	oraculum autem in medio domus, in interiori parte fecerat, ut poneret ibi arcam foederis domini.	2020-04-18	Liber_Tertius_Regum
+1100000204	porro oraculum habebat viginti cubitos longitudinis, et viginti cubitos latitudinis, et viginti cubitos altitudinis: et operuit illud atque vestivit auro purissimo: sed et altare vestivit cedro.	2020-04-18	Liber_Tertius_Regum
+1100000205	domum quoque ante oraculum operuit auro purissimo, et affixit laminas clavis aureis.	2020-04-18	Liber_Tertius_Regum
+1100000206	nihilque erat in templo quod non auro tegeretur: sed et totum altare oraculi texit auro.	2020-04-18	Liber_Tertius_Regum
+1100000207	et fecit in oraculo duos cherubim de lignis olivarum, decem cubitorum altitudinis.	2020-04-18	Liber_Tertius_Regum
+1100000208	quinque cubitorum ala cherub una, et quinque cubitorum ala cherub altera: id est, decem cubitos habentes, a summitate alae unius usque ad alae alterius summitatem.	2020-04-18	Liber_Tertius_Regum
+1100000209	decem quoque cubitorum erat cherub secundus: in mensura pari, et opus unum erat in duobus cherubim,id est, altitudinem habebat unus cherub decem cubitorum, et similiter cherub secundus.	2020-04-18	Liber_Tertius_Regum
+1100000210	posuitque cherubim in medio templi interioris: extendebant autem alas suas cherubim, et tangebat ala una parietem, et ala cherub secundi tangebat parietem alterum: alae autem alterae in media parte templi se invicem contingebant.	2020-04-18	Liber_Tertius_Regum
+1100000211	texit quoque cherubim auro.	2020-04-18	Liber_Tertius_Regum
+1100000212	et omnes parietes templi per circuitum sculpsit variis caelaturis et torno: et fecit in eis cherubim, et palmas, et picturas varias, quasi prominentes de pariete, et egredientes.	2020-04-18	Liber_Tertius_Regum
+1100000213	sed et pavimentum domus texit auro intrinsecus et extrinsecus.	2020-04-18	Liber_Tertius_Regum
+1100000214	et in ingressu oraculi fecit ostiola de lignis olivarum, postesque angulorum quinque.	2020-04-18	Liber_Tertius_Regum
+1100000215	et duo ostia de lignis olivarum: et sculpsit in eis picturam cherubim, et palmarum species, et anaglypha valde prominentia: et texit ea auro, et operuit tam cherubim quam palmas, et cetera, auro.	2020-04-18	Liber_Tertius_Regum
+1100000216	fecitque in introitu templi postes de lignis olivarum quadrangulatos,et duo ostia de lignis abiegnis altrinsecus: et utrumque ostium duplex erat, et se invicem tenens aperiebatur.	2020-04-18	Liber_Tertius_Regum
+1100000217	et sculpsit cherubim, et palmas, et caelaturas valde eminentes: operuitque omnia laminis aureis opere quadro ad regulam.	2020-04-18	Liber_Tertius_Regum
+1100000218	et aedificavit atrium interius tribus ordinibus lapidum politorum, et uno ordine lignorum cedri.	2020-04-18	Liber_Tertius_Regum
+1100000219	anno quarto fundata est domus domini in mense zio:et in anno undecimo, mense bul (ipse est mensis octavus), perfecta est domus in omni opere suo, et in universis utensilibus suis: aedificavitque eam annis septem.	2020-04-18	Liber_Tertius_Regum
+1100000220	caput 7	2020-04-18	Liber_Tertius_Regum
+1100000221	domum autem suam aedificavit salomon tredecim annis, et ad perfectum usque perduxit.	2020-04-18	Liber_Tertius_Regum
+1100000222	aedificavit quoque domum saltus libani centum cubitorum longitudinis, et quinquaginta cubitorum latitudinis, et triginta cubitorum altitudinis: et quatuor deambulacra inter columnas cedrinas: ligna quippe cedrina exciderat in columnas.	2020-04-18	Liber_Tertius_Regum
+1100000223	et tabulatis cedrinis vestivit totam cameram, quae quadraginta quinque columnis sustentabatur. 	2020-04-18	Liber_Tertius_Regum
+1100000224	unus autem ordo habebat columnas quindecimcontra se invicem positas,et e regione se respicientes, aequali spatio inter columnas, et super columnas quadrangulata ligna in cunctis aequalia.	2020-04-18	Liber_Tertius_Regum
+1100000225	et porticum columnarum fecit quinquaginta cubitorum longitudinis, et triginta cubitorum latitudinis: et alteram porticum in facie maioris porticus: et columnas, et epistylia super columnas.	2020-04-18	Liber_Tertius_Regum
+1100000226	porticum quoque solii, in qua tribunal est, fecit: et texit lignis cedrinis a pavimento usque ad summitatem.	2020-04-18	Liber_Tertius_Regum
+1100000227	et domuncula, in qua sedebatur ad iudicandum, erat in media porticu simili opere. 	2020-04-18	Liber_Tertius_Regum
+1100000228	domum quoque fecit filiae pharaonis (quam uxorem duxerat salomon) tali opere, quali et hanc porticum.	2020-04-18	Liber_Tertius_Regum
+1100000229	omnia lapidibus pretiosis, qui ad normam quamdam atque mensuram tam intrinsecus quam extrinsecus serrati erant: a fundamento usque ad summitatem parietum, et extrinsecus usque ad atrium maius.	2020-04-18	Liber_Tertius_Regum
+1100000230	fundamenta autem de lapidibus pretiosis, lapidibus magnis, decem sive octo cubitorum.	2020-04-18	Liber_Tertius_Regum
+1100000231	et desuper lapides pretiosi aequalis mensurae secti erant, similiterque de cedro.	2020-04-18	Liber_Tertius_Regum
+1100000232	et atrium maius rotundum trium ordinum de lapidibus sectis, et unius ordinis de dolata cedro: necnon et in atrio domus domini interiori, et in porticu domus.	2020-04-18	Liber_Tertius_Regum
+1100000233	misit quoque rex salomon, et tulit hiram de tyro,filium mulieris viduae de tribu nephthali, patre tyrio, artificem aerarium, et plenum sapientia, et intelligentia, et doctrina, ad faciendum omne opus ex aere. 	2020-04-18	Liber_Tertius_Regum
+1100000234	qui cum venisset ad regem salomonem, fecit omne opus eius.	2020-04-18	Liber_Tertius_Regum
+1100000235	et finxit duas columnas aereas, decem et octo cubitorum altitudinis columnam unam: et linea duodecim cubitorum ambiebat columnam utramque.	2020-04-18	Liber_Tertius_Regum
+1100000236	duo quoque capitella fecit, quae ponerentur super capita columnarum, fusilia ex aere: quinque cubitorum altitudinis capitellum unum, et quinque cubitorum altitudinis capitellum alterum:et quasi in modum retis, et catenarum sibi invicem miro opere contextarum. 	2020-04-18	Liber_Tertius_Regum
+1100000237	utrumque capitellum columnarum fusile erat: septena versuum retiacula in capitello uno, et septena retiacula in capitello altero.	2020-04-18	Liber_Tertius_Regum
+1100000238	et perfecit columnas, et duos ordines per circuitum retiaculorum singulorum, ut tegerent capitella quae erant super summitatem, malogranatorum: eodem modo fecit et capitello secundo.	2020-04-18	Liber_Tertius_Regum
+1100000239	capitella autem quae erant super capita columnarum, quasi opere lilii fabricata erant in porticu quatuor cubitorum.	2020-04-18	Liber_Tertius_Regum
+1100000240	et rursum alia capitella in summitate columnarum desuper iuxta mensuram columnae contra retiacula: malogranatorum autem ducenti ordines erant in circuitu capitelli secundi.	2020-04-18	Liber_Tertius_Regum
+1100000241	et statuit duas columnas in porticu templi: cumque statuisset columnam dexteram, vocavit eam nomine iachin: similiter erexit columnam secundam, et vocavit nomen eius booz.	2020-04-18	Liber_Tertius_Regum
+1100000242	et super capita columnarum opus in modum lilii posuit: perfectumque est opus columnarum.	2020-04-18	Liber_Tertius_Regum
+1100000243	fecit quoque mare fusile decem cubitorum a labio usque ad labium, rotundum in circuitu: quinque cubitorum altitudo eius, et resticula triginta cubitorum cingebat illud per circuitum.	2020-04-18	Liber_Tertius_Regum
+1100000244	et sculptura subter labium circuibat illud decem cubitis ambiens mare: duo ordines sculpturarum striatarum erant fusiles.	2020-04-18	Liber_Tertius_Regum
+1100000245	et stabat super duodecim boves, e quibus tres respiciebant ad aquilonem, et tres ad occidentem, et tres ad meridiem, et tres ad orientem: et mare super eos desuper erat: quorum posteriora universa intrinsecus latitabant.	2020-04-18	Liber_Tertius_Regum
+1100000246	grossitudo autem luteris, trium unciarum erat: labiumque eius quasi labium calicis, et folium repandi lilii: duo millia batos capiebat.	2020-04-18	Liber_Tertius_Regum
+1100000247	et fecit decem bases aeneas, quatuor cubitorum longitudinis bases singulas, et quatuor cubitorum latitudinis, et trium cubitorum altitudinis.	2020-04-18	Liber_Tertius_Regum
+1100000248	et ipsum opus basium, interrasile erat: et sculpturae inter iuncturas.	2020-04-18	Liber_Tertius_Regum
+1100000249	et inter coronulas et plectas, leones et boves et cherubim, et in iuncturis similiter desuper: et subter leones et boves, quasi lora ex aere dependentia.	2020-04-18	Liber_Tertius_Regum
+1100000250	et quatuor rotae per bases singulas, et axes aerei: et per quatuor partes quasi humeruli subter luterem fusiles, contra se invicem respectantes.	2020-04-18	Liber_Tertius_Regum
+1100000251	os quoque luteris intrinsecus erat in capitis summitate: et quod forinsecus apparebat, unius cubiti erat totum rotundum, pariterque habebat unum cubitum et dimidium: in angulis autem columnarum variae caelaturae erant: et media intercolumnia, quadrata non rotunda.	2020-04-18	Liber_Tertius_Regum
+1100000252	quatuor quoque rotae quae per quatuor angulos basis erant, cohaerebant sibi subter basim: una rota habebat altitudinis cubitum et semis.	2020-04-18	Liber_Tertius_Regum
+1100000253	tales autem rotae erant quales solent in curru fieri: et axes earum, et radii, et canthi, et modioli, omnia fusilia.	2020-04-18	Liber_Tertius_Regum
+1100000254	nam et humeruli illi quatuor per singulos angulos basis unius, ex ipsa basi fusiles et coniuncti erant.	2020-04-18	Liber_Tertius_Regum
+1100000255	in summitate autem basis erat quaedam rotunditas dimidii cubiti, ita fabrefacta ut luter desuper posset imponi, habens caelaturas suas, variasque sculpturas ex semetipsa.	2020-04-18	Liber_Tertius_Regum
+1100000256	sculpsit quoque in tabulatis illis quae erant ex aere, et in angulis, cherubim, et leones, et palmas, quasi in similitudinem hominis stantis, ut non caelata, sed apposita per circuitum viderentur.	2020-04-18	Liber_Tertius_Regum
+1100000257	in hunc modum fecit decem bases, fusura una, et mensura, sculpturaque consimili.	2020-04-18	Liber_Tertius_Regum
+1100000258	fecit quoque decem luteres aeneos: quadraginta batos capiebat luter unus, eratque quatuor cubitorum: singulos quoque luteres per singulas, id est, decem bases, posuit.	2020-04-18	Liber_Tertius_Regum
+1100000259	et constituit decem bases, quinque ad dexteram partem templi, et quinque ad sinistram: mare autem posuit ad dexteram partem templi contra orientem ad meridiem.	2020-04-18	Liber_Tertius_Regum
+1100000260	fecit ergo hiram lebetes, et scutras, et hamulas, et perfecit omne opus regis salomonis in templo domini.	2020-04-18	Liber_Tertius_Regum
+1100000261	columnas duas, et funiculos capitellorum super capitella columnarum duos: et retiacula duo, ut operirent duos funiculos qui erant super capita columnarum.	2020-04-18	Liber_Tertius_Regum
+1100000262	et malogranata quadringenta in duobus retiaculis: duos versus malogranatorum in retiaculis singulis, ad operiendos funiculos capitellorum qui erant super capita columnarum.	2020-04-18	Liber_Tertius_Regum
+1100000263	et bases decem, et luteres decem super bases.	2020-04-18	Liber_Tertius_Regum
+1100000264	et mare unum, et boves duodecim subter mare.	2020-04-18	Liber_Tertius_Regum
+1100000265	et lebetes, et scutras, et hamulas, omnia vasa quae fecit hiram regi salomoni in domo domini, de auricalco erant.	2020-04-18	Liber_Tertius_Regum
+1100000266	in campestri regione iordanis fudit ea rex in argillosa terra, inter sochoth et sarthan.	2020-04-18	Liber_Tertius_Regum
+1100000267	et posuit salomon omnia vasa: propter multitudinem autem nimiam non erat pondus aeris.	2020-04-18	Liber_Tertius_Regum
+1100000268	fecitque salomon omnia vasa in domo domini: altare aureum, et mensam super quam ponerentur panes propositionis, auream:et candelabra aurea, quinque ad dexteram, et quinque ad sinistram contra oraculum, ex auro puro: et quasi lilii flores, et lucernas desuper aureas: et forcipes aureos,et hydrias, et fuscinulas, et phialas, et mortariola, et thuribula, de auro purissimo: et cardines ostiorum domus interioris sancti sanctorum, et ostiorum domus templi, ex auro erant.	2020-04-18	Liber_Tertius_Regum
+1100000269	et perfecit omne opus quod faciebat salomon in domo domini, et intulit quae sanctificaverat david pater suus, argentum, et aurum, et vasa, reposuitque in thesauris domus domini.	2020-04-18	Liber_Tertius_Regum
+1100000270	caput 8	2020-04-18	Liber_Tertius_Regum
+1100000271	tunc congregati sunt omnes maiores natu israel cum principibus tribuum, et duces familiarum filiorum israel, ad regem salomonem in ierusalem, ut deferrent arcam foederis domini de civitate david, id est, de sion.	2020-04-18	Liber_Tertius_Regum
+1100000272	convenitque ad regem salomonem universus israel in mense ethanim, in solemni die: ipse est mensis septimus.	2020-04-18	Liber_Tertius_Regum
+1100000273	veneruntque cuncti senes de israel, et tulerunt arcam sacerdotes,et portaverunt arcam domini, et tabernaculum foederis, et omnia vasa sanctuarii quae erant in tabernaculo: et ferebant ea sacerdotes et levitae.	2020-04-18	Liber_Tertius_Regum
+1100000274	rex autem salomon, et omnis multitudo israel quae convenerat ad eum, gradiebatur cum illo ante arcam, et immolabant oves et boves absque aestimatione et numero.	2020-04-18	Liber_Tertius_Regum
+1100000275	et intulerunt sacerdotes arcam foederis domini in locum suum, in oraculum templi, in sanctum sanctorum, subter alas cherubim.	2020-04-18	Liber_Tertius_Regum
+1100000276	siquidem cherubim expandebant alas super locum arcae, et protegebant arcam, et vectes eius desuper.	2020-04-18	Liber_Tertius_Regum
+1100000277	cumque eminerent vectes, et apparerent summitates eorum foris sanctuarium ante oraculum, non apparebant ultra extrinsecus, qui et fuerunt ibi usque in praesentem diem.	2020-04-18	Liber_Tertius_Regum
+1100000278	in arca autem non erat aliud nisi duae tabulae lapideae quas posuerat in ea moyses in horeb, quando pepigit dominus foedus cum filiis israel, cum egrederentur de terra aegypti.	2020-04-18	Liber_Tertius_Regum
+1100000279	factum est autem cum exissent sacerdotes de sanctuario, nebula implevit domum domini,et non poterant sacerdotes stare et ministrare propter nebulam: impleverat enim gloria domini domum domini.	2020-04-18	Liber_Tertius_Regum
+1100000280	tunc ait salomon: dominus dixit ut habitaret in nebula.	2020-04-18	Liber_Tertius_Regum
+1100000281	aedificans aedificavi domum in habitaculum tuum: firmissimum solium tuum in sempiternum.	2020-04-18	Liber_Tertius_Regum
+1100000282	convertitque rex faciem suam, et benedixit omni ecclesiae israel: omnia enim ecclesia israel stabat.	2020-04-18	Liber_Tertius_Regum
+1100000283	et ait salomon: benedictus dominus deus israel, qui locutus est ore suo ad david patrem meum, et in manibus eius perfecit, dicens:a die qua eduxi populum meum israel de aegypto, non elegi civitatem de universis tribubus israel, ut aedificaretur domus, et esset nomen meum ibi: sed elegi david ut esset super populum meum israel.	2020-04-18	Liber_Tertius_Regum
+1100000284	voluitque david pater meus aedificare domum nomini domini dei israel:et ait dominus ad david patrem meum: quod cogitasti in corde tuo aedificare domum nomini meo, bene fecisti, hoc ipsum mente tractans.	2020-04-18	Liber_Tertius_Regum
+1100000285	verumtamen tu non aedificabis mihi domum, sed filius tuus, qui egredietur de renibus tuis, ipse aedificabit domum nomini meo.	2020-04-18	Liber_Tertius_Regum
+1100000286	confirmavit dominus sermonem suum quem locutus est: stetique pro david patre meo, et sedi super thronum israel, sicut locutus est dominus: et aedificavi domum nomini domini dei israel.	2020-04-18	Liber_Tertius_Regum
+1100000287	et constitui ibi locum arcae in qua foedus domini est, quod percussit cum patribus nostris quando egressi sunt de terra aegypti.	2020-04-18	Liber_Tertius_Regum
+1100000288	stetit autem salomon ante altare domini in conspectu ecclesiae israel, et expandit manus suas in caelum,et ait: domine deus israel, non est similis tui deus in caelo desuper, et super terram deorsum: qui custodis pactum et misericordiam servis tuis qui ambulant coram te in toto corde suo.	2020-04-18	Liber_Tertius_Regum
+1100000289	qui custodisti servo tuo david patri meo quae locutus es ei: ore locutus es, et manibus perfecisti, ut haec dies probat.	2020-04-18	Liber_Tertius_Regum
+1100000290	nunc igitur domine deus israel, conserva famulo tuo david patri meo quae locutus es ei, dicens: non auferetur de te vir coram me, qui sedeat super thronum israel: ita tamen si custodierint filii tui viam suam, ut ambulent coram me sicut tu ambulasti in conspectu meo.	2020-04-18	Liber_Tertius_Regum
+1100000291	et nunc domine deus israel, firmentur verba tua quae locutus es servo tuo david patri meo.	2020-04-18	Liber_Tertius_Regum
+1100000292	ergone putandum est quod vere deus habitet super terram? 	2020-04-18	Liber_Tertius_Regum
+1100000293	si enim caelum, et caeli caelorum, te capere non possunt, quanto magis domus haec, quam aedificavi?	2020-04-18	Liber_Tertius_Regum
+1100000294	sed respice ad orationem servi tui, et ad preces eius, domine deus meus: audi hymnum et orationem quam servus tuus orat coram te hodie:ut sint oculi tui aperti super domum hanc nocte ac die: super domum, de qua dixisti: erit nomen meum ibi: ut exaudias orationem quam orat in loco isto ad te servus tuus:ut exaudias deprecationem servi tui et populi tui israel, quodcumque oraverint in loco isto, et exaudies in loco habitaculi tui in caelo: et cum exaudieris, propitius eris.	2020-04-18	Liber_Tertius_Regum
+1100000295	si peccaverit homo in proximum suum, et habuerit aliquod iuramentum quo teneatur astrictus, et venerit propter iuramentum coram altari tuo in domum tuam,tu exaudies in caelo: et facies, et iudicabis servos tuos, condemnans impium, et reddens viam suam super caput eius, iustificansque iustum, et retribuens ei secundum iustitiam suam.	2020-04-18	Liber_Tertius_Regum
+1100000296	si fugerit populus tuus israel inimicos suos (quia peccaturus est tibi), et agentes poenitentiam, et confitentes nomini tuo, venerint, et oraverint, et deprecati te fuerint in domo hac:exaudi in caelo, et dimitte peccatum populi tui israel, et reduces eos in terram quam dedisti patribus eorum.	2020-04-18	Liber_Tertius_Regum
+1100000297	si clausum fuerit caelum, et non pluerit propter peccata eorum, et orantes in loco isto, poenitentiam egerint nomini tuo, et a peccatis suis conversi fuerint propter afflictionem suam:exaudi eos in caelo, et dimitte peccata servorum tuorum, et populi tui israel: et ostende eis viam bonam per quam ambulent, et da pluviam super terram tuam, quam dedisti populo tuo in possessionem.	2020-04-18	Liber_Tertius_Regum
+1100000298	fames si oborta fuerit in terra, aut pestilentia, aut corruptus aer, aut aerugo, aut locusta, vel rubigo, et afflixerit eum inimicus eius portas obsidens: omnis plaga, universa infirmitas,cuncta devotatio, et imprecatio quae acciderit omni homini de populo tuo israel: si quis cognoverit plagam cordis sui, et expanderit manus suas in domo hac,tu exaudies in caelo in loco habitationis tuae, et repropitiaberis, et facies ut des unicuique secundum omnes vias suas, sicut videris cor eius (quia tu nosti solus cor omnium filiorum hominum),ut timeant te cunctis diebus quibus vivunt super faciem terrae quam dedisti patribus nostris.	2020-04-18	Liber_Tertius_Regum
+1100000299	insuper et alienigena, qui non est de populo tuo israel, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuumextentum ubique), cum venerit ergo, et oraverit in hoc loco,tu exaudies in caelo, in firmamento habitaculi tui, et facies omnia pro quibus invocaverit te alienigena: ut discant universi populi terrarum nomen tuum timere, sicut populus tuus israel, et probent quia nomen tuum invocatum est super domum hanc quam aedificavi.	2020-04-18	Liber_Tertius_Regum
+1100000300	si egressus fuerit populus tuus ad bellum contra inimicos suos per viam, quocumque miseris eos, orabunt te contra viam civitatis quam elegisti, et contra domum quam aedificavi nomini tuo,et exaudies in caelo orationes eorum et preces eorum, et facies iudicium eorum.	2020-04-18	Liber_Tertius_Regum
+1100000301	quod si peccaverint tibi (non est enim homo qui non peccet) et iratus tradideris eos inimicis suis, et captivi ducti fuerint in terram inimicorum longe vel prope,et egerint poenitentiam in corde suo in loco captivitatis, et conversi deprecati te fuerint in captivitate sua, dicentes: peccavimus: inique egimus, impie gessimus:et reversi fuerint ad te in universo corde suo et tota anima sua in terra inimicorum suorum, ad quam captivi ducti fuerint: et oraverint te contra viam terrae suae, quam dedisti patribus eorum, et civitatis quam elegisti, et templi quod aedificavi nomini tuo:exaudies in caelo, in firmamento solii tui, orationes eorum et preces eorum, et facies iudicium eorum:et propitiaberis populo tuo qui peccavit tibi, et omnibus iniquitatibus eorum quibus praevaricati sunt in te: et dabis misericordiam coram eis qui eos captivos habuerint, ut misereantur eis.	2020-04-18	Liber_Tertius_Regum
+1100000302	populus enim tuus est, et haereditas tua, quos eduxisti de terra aegypti, de medio fornacis ferreae.	2020-04-18	Liber_Tertius_Regum
+1100000303	ut sint oculi tui aperti ad deprecationem servi tui, et populi tui israel, et exaudias eos in universis pro quibus invocaverint te.	2020-04-18	Liber_Tertius_Regum
+1100000304	tu enim separasti eos tibi in haereditatem de universis populis terrae, sicut locutus es per moysen servum tuum quando eduxisti patres nostros de aegypto, domine deus.	2020-04-18	Liber_Tertius_Regum
+1100000305	factum est autem, cum complesset salomon orans dominum omnem orationem et deprecationem hanc, surrexit de conspectu altaris domini: utrumque enim genu in terram fixerat, et manus expanderat in caelum.	2020-04-18	Liber_Tertius_Regum
+1100000306	stetit ergo, et benedixit omni ecclesiae israel voce magna, dicens:benedictus dominus, qui dedit requiem populo suo israel, iuxta omnia quae locutus est: non cecidit ne unus quidem sermo ex omnibus bonis quae locutus est per moysen servum suum.	2020-04-18	Liber_Tertius_Regum
+1100000307	sit dominus deus noster nobiscum, sicut fuit cum patribus nostris, non derelinquens nos, neque proiiciens.	2020-04-18	Liber_Tertius_Regum
+1100000308	sed inclinet corda nostra ad se, ut ambulemus in universis viis eius, et custodiamus mandata eius, et caeremonias eius, et iudicia quaecumque mandavit patribus nostris.	2020-04-18	Liber_Tertius_Regum
+1100000309	et sint sermones mei isti, quibus deprecatus sum coram domino, appropinquantes domino deo nostro die ac nocte, ut faciat iudicium servo suo, et populo suo israel per singulos dies:ut sciant omnes populi terrae quia dominus ipse est deus, et non est ultra absque eo.	2020-04-18	Liber_Tertius_Regum
+1100000310	sit quoque cor nostrum perfectum cum domino deo nostro, ut ambulemus in decretis eius, et custodiamus mandata eius, sicut et hodie.	2020-04-18	Liber_Tertius_Regum
+1100000311	igitur rex, et omnis israel cum eo, immolabant victimas coram domino.	2020-04-18	Liber_Tertius_Regum
+1100000312	mactavitque salomon hostias pacificas, quas immolavit domino, boum viginti duo millia, et ovium centum viginti millia: et dedicaverunt templum domini rex et filii israel.	2020-04-18	Liber_Tertius_Regum
+1100000313	in die illa sanctificavit rex medium atrii quod erat ante domum domini: fecit quippe holocaustum ibi, et sacrificium, et adipem pacificorum: quoniam altare aereum quod erat coram domino, minus erat, et capere non poterat holocaustum, et sacrificium, et adipem pacificorum.	2020-04-18	Liber_Tertius_Regum
+1100000314	fecit ergo salomon in tempore illo festivitatem celebrem, et omnis israel cum eo, multitudo magna ab introitu emath usque ad rivum aegypti, coram domino deo nostro, septem diebus et septem diebus, id est, quatuordecim diebus.	2020-04-18	Liber_Tertius_Regum
+1100000315	et in die octava dimisit populos: qui benedicentes regi, profecti sunt in tabernacula sua laetantes, et alacri corde super omnibus bonis quae fecerat dominus david servo suo, et israel populo suo.	2020-04-18	Liber_Tertius_Regum
+1100000316	caput 9	2020-04-18	Liber_Tertius_Regum
+1100000317	factum est autem cum perfecisset salomon aedificium domus domini, et aedificium regis, et omne quod optaverat et voluerat facere,apparuit ei dominus secundo, sicut apparuerat ei in gabaon.	2020-04-18	Liber_Tertius_Regum
+1100000318	dixitque dominus ad eum: exaudivi orationem tuam et deprecationem tuam, quam deprecatus es coram me: sanctificavi domum hanc quam aedificasti, ut ponerem nomen meum ibi in sempiternum, et erunt oculi mei et cor meum ibi cunctis diebus.	2020-04-18	Liber_Tertius_Regum
+1100000319	tu quoque si ambulaveris coram me sicut ambulavit pater tuus, in simplicitate cordis et in aequitate, et feceris omnia quae praecepi tibi, et legitima mea et iudicia mea servaveris,ponam thronum regni tui super israel in sempiternum, sicut locutus sum david patri tuo, dicens: non auferetur vir de genere tuo de solio israel.	2020-04-18	Liber_Tertius_Regum
+1100000320	si autem aversione aversi fueritis vos et filii vestri, non sequentes me, nec custodientes mandata mea et caeremonias meas quas proposui vobis, sed abieritis et colueritis deos alienos, et adoraveritis eos:auferam israel de superficie terrae quam dedi eis, et templum quod sanctificavi nomini meo, proiiciam a conspectu meo: eritque israel in proverbium, et in fabulam cunctis populis.	2020-04-18	Liber_Tertius_Regum
+1100000321	et domus haec erit in exemplum: omnis qui transierit per eam, stupebit, et sibilabit, et dicet: quare fecit dominus sic terrae huic, et domui huic?	2020-04-18	Liber_Tertius_Regum
+1100000322	et respondebunt: quia dereliquerunt dominum deum suum, qui eduxit patres eorum de terra aegypti, et secuti sunt deos alienos, et adoraverunt eos, et coluerunt eos: idcirco induxit dominus super eos omne malum hoc.	2020-04-18	Liber_Tertius_Regum
+1100000323	expletis autem annis viginti postquam aedificaverat salomon duas domos, id est, domum domini, et domum regis(hiram rege tyri praebente salomoni ligna cedrina et abiegna, et aurum iuxta omne quod opus habuerat), tunc dedit salomon hiram viginti oppida in terra galilaeae.	2020-04-18	Liber_Tertius_Regum
+1100000324	et egressus est hiram de tyro ut videret oppida quae dederat ei salomon, et non placuerunt ei.	2020-04-18	Liber_Tertius_Regum
+1100000325	et ait: haeccine sunt civitates quas dedisti mihi, frater? 	2020-04-18	Liber_Tertius_Regum
+1100000326	et appellavit eas terram chabul, usque in diem hanc.	2020-04-18	Liber_Tertius_Regum
+1100000327	misit quoque hiram ad regem salomonem centum viginti talenta auri.	2020-04-18	Liber_Tertius_Regum
+1100000328	haec est summa expensarum quam obtulit rex salomon ad aedificandam domum domini et domum suam, et mello, et murum ierusalem, et heser, et mageddo, et gazer.	2020-04-18	Liber_Tertius_Regum
+1100000329	pharao rex aegypti ascendit, et cepit gazar, succenditque eam igni, et chananaeum, qui habitabat in civitate, interfecit: et dedit eam in dotem filiae suae uxori salomonis.	2020-04-18	Liber_Tertius_Regum
+1100000330	aedificavit ergo salomon gazer, et bethoron inferiorem,et balaath, et palmiram in terra solitudinis.	2020-04-18	Liber_Tertius_Regum
+1100000331	et omnes vicos qui ad se pertinebant et erant absque muro, munivit, et civitates curruum et civitates equitum, et quodcumque ei placuit ut aedificaret in ierusalem, et in libano, et in omni terra potestatis suae.	2020-04-18	Liber_Tertius_Regum
+1100000332	universum populum qui remanserat de amorrhaeis, et hethaeis, et pherezaeis, et hevaeis, et iebusaeis, qui non sunt de filiis israel:horum filios qui remanserant in terra, quos scilicet non potuerant filii israel exterminare, fecit salomon tributarios usque in diem hanc.	2020-04-18	Liber_Tertius_Regum
+1100000333	de filiis autem israel non constituit salomon servire quemquam, sed erant viri bellatores, et ministri eius, et principes, et duces, et praefecti curruum et equorum.	2020-04-18	Liber_Tertius_Regum
+1100000334	erant autem principes super omnia opera salomonis praepositi quingenti quinquaginta, qui habebant subiectum populum, et statutis operibus imperabant.	2020-04-18	Liber_Tertius_Regum
+1100000335	filia autem pharaonis ascendit de civitate david in domum suam, quam aedificaverat ei salomon: tunc aedificavit mello.	2020-04-18	Liber_Tertius_Regum
+1100000336	offerebat quoque salomon, tribus vicibus per annos singulos, holocausta et pacificas victimas super altare quod aedificaverat domino, et adolebat thymiama coram domino: perfectumque est templum.	2020-04-18	Liber_Tertius_Regum
+1100000337	classem quoque fecit rex salomon in asiongaber, quae est iuxta ailath in littore maris rubri, in terra idumaeae.	2020-04-18	Liber_Tertius_Regum
+1100000338	misitque hiram in classe illa servos suos viros nauticos et gnaros maris, cum servis salomonis.	2020-04-18	Liber_Tertius_Regum
+1100000339	qui cum venissent in ophir, sumptum inde aurum quadringentorum viginti talentorum, detulerunt ad regem salomonem.	2020-04-18	Liber_Tertius_Regum
+1100000340	caput 10	2020-04-18	Liber_Tertius_Regum
+1100000341	sed et regina saba, audita fama salomonis in nomine domini, venit tentare eum in aenigmatibus.	2020-04-18	Liber_Tertius_Regum
+1100000342	et ingressa ierusalem multo cum comitatu et divitiis, camelis portantibus aromata, et aurum infinitum nimis, et gemmas pretiosas, venit ad regem salomonem, et locuta est ei universa quae habebat in corde suo.	2020-04-18	Liber_Tertius_Regum
+1100000343	et docuit eam salomon omnia verba quae proposuerat: non fuit sermo qui regem posset latere, et non responderet ei.	2020-04-18	Liber_Tertius_Regum
+1100000344	videns autem regina saba omnem sapientiam salomonis, et domum quam aedificaverat,et cibos mensae eius, et habitacula servorum, et ordines ministrantium, vestesque eorum, et pincernas, et holocausta quae offerebat in domo domini: non habebat ultra spiritum.	2020-04-18	Liber_Tertius_Regum
+1100000345	dixitque ad regem: verus est sermo quem audivi in terra measuper sermonibus tuis, et super sapientia tua: et non credebam narrantibus mihi, donec ipsa veni, et vidi oculis meis, et probavi quod media pars mihi nuntiata non fuerit: maior est sapientia et opera tua, quam rumor quem audivi.	2020-04-18	Liber_Tertius_Regum
+1100000346	beati viri tui, et beati servi tui, qui stant coram te semper, et audiunt sapientiam tuam.	2020-04-18	Liber_Tertius_Regum
+1100000347	sit dominus deus tuus benedictus, cui complacuisti, et posuit te super thronum israel, eo quod dilexerit dominus israel in sempiternum, et constituit te regem ut faceres iudicium et iustitiam.	2020-04-18	Liber_Tertius_Regum
+1100000348	dedit ergo regi centum viginti talenta auri, et aromata multa nimis, et gemmas pretiosas: non sunt allata ultra aromata tam multa, quam ea quae dedit regina saba regi salomoni.	2020-04-18	Liber_Tertius_Regum
+1100000349	(sed et classis hiram, quae portabat aurum de ophir, attulit ex ophir ligna thyina multa nimis, et gemmas pretiosas.	2020-04-18	Liber_Tertius_Regum
+1100000350	fecitque rex de lignis thyinis fulcra domus domini et domus regiae, et citharas lyrasque cantoribus: non sunt allata huiuscemodi ligna thyina, neque visa usque in praesentem diem.)	2020-04-18	Liber_Tertius_Regum
+1100000351	rex autem salomon dedit reginae saba omnia quae voluit et petivit ab eo, exceptis his quae ultro obtulerat ei munere regio. 	2020-04-18	Liber_Tertius_Regum
+1100000352	quae reversa est, et abiit in terram suam cum servis suis.	2020-04-18	Liber_Tertius_Regum
+1100000353	erat autem pondus auri quod afferebatur salomoni per annos singulos, sexcentorum sexaginta sex talentorum auri,excepto eo quod afferebant viri qui super vectigalia erant, et negotiatores, universique scruta vendentes, et omnes reges arabiae, ducesque terrae.	2020-04-18	Liber_Tertius_Regum
+1100000354	fecit quoque rex salomon ducenta scuta de auro purissimo: sexcentos auri siclos dedit in laminas scuti unius.	2020-04-18	Liber_Tertius_Regum
+1100000355	et trecentas peltas ex auro probato: trecentae minae auri unam peltam vestiebant: posuitque eas rex in domo saltus libani.	2020-04-18	Liber_Tertius_Regum
+1100000356	fecit etiam rex salomon thronum de ebore grandem: et vestivit eum auro fulvo nimis,qui habebat sex gradus: et summitas throni rotunda erat in parte posteriori: et duae manus hinc atque inde tenentes sedile: et duo leones stabant iuxta manus singulas.	2020-04-18	Liber_Tertius_Regum
+1100000357	et duodecim leunculi stantes super sex gradus hinc atque inde: non est factum tale opus in universis regnis.	2020-04-18	Liber_Tertius_Regum
+1100000358	sed et omnia vasa quibus potabat rex salomon, erant aurea: et universa supellex domus saltus libani de auro purissimo: non erat argentum, nec alicuius pretii putabatur in diebus salomonis,quia classis regis per mare cum classe hiram semel per tres annos ibat in tharsis, deferens inde aurum, et argentum, et dentes elephantorum, et simias, et pavos.	2020-04-18	Liber_Tertius_Regum
+1100000359	magnificatus est ergo rex salomon super omnes reges terrae divitiis et sapientia.	2020-04-18	Liber_Tertius_Regum
+1100000360	et universa terra desiderabat vultum salomonis, ut audiret sapientiam eius, quam dederat deus in corde eius.	2020-04-18	Liber_Tertius_Regum
+1100000361	et singuli deferebant ei munera, vasa argentea et aurea, vestes et arma bellica, aromata quoque, et equos et mulos per annos singulos.	2020-04-18	Liber_Tertius_Regum
+1100000362	congregavitque salomon currus et equites, et facti sunt ei mille quadringenti currus, et duodecim millia equitum: et disposuit eos per civitates munitas, et cum rege in ierusalem.	2020-04-18	Liber_Tertius_Regum
+1100000363	fecitque ut tanta esset abundantia argenti in ierusalem, quanta et lapidum: et cedrorum praebuit multitudinem quasi sycomoros quae nascuntur in campestribus.	2020-04-18	Liber_Tertius_Regum
+1100000364	et educebantur equi salomoni de aegypto, et de coa. 	2020-04-18	Liber_Tertius_Regum
+1100000365	negotiatores enim regis emebant de coa, et statuto pretio perducebant.	2020-04-18	Liber_Tertius_Regum
+1100000366	egrediebatur autem quadriga ex aegypto sexcentis siclis argenti, et equus centum quinquaginta. 	2020-04-18	Liber_Tertius_Regum
+1100000367	atque in hunc modum cuncti reges hethaeorum et syriae equos venundabant.	2020-04-18	Liber_Tertius_Regum
+1100000368	caput 11	2020-04-18	Liber_Tertius_Regum
+1100000369	rex autem salomon adamavit mulieres alienigenas multas, filiam quoque pharaonis, et moabitidas, et ammonitidas, idumaeas, et sidonias, et hethaeas:de gentibus super quibus dixit dominus filiis israel: non ingrediemini ad eas, neque de illis ingredientur ad vestras: certissime enim avertent corda vestra ut sequamini deos earum. 	2020-04-18	Liber_Tertius_Regum
+1100000370	his itaque copulatus est salomon ardentissimo amore.	2020-04-18	Liber_Tertius_Regum
+1100000371	fueruntque ei uxores quasi reginae septingentae, et concubinae trecentae: et averterunt mulieres cor eius.	2020-04-18	Liber_Tertius_Regum
+1100000372	cumque iam esset senex, depravatum est cor eius per mulieres, ut sequeretur deos alienos: nec erat cor eius perfectum cum domino deo suo, sicut cor david patris eius.	2020-04-18	Liber_Tertius_Regum
+1100000373	sed colebat salomon astarthen deam sidoniorum, et moloch idolum ammonitarum.	2020-04-18	Liber_Tertius_Regum
+1100000374	fecitque salomon quod non placuerat coram domino, et non adimplevit ut sequeretur dominum sicut david pater eius.	2020-04-18	Liber_Tertius_Regum
+1100000375	tunc aedificavit salomon fanum chamos idolo moab in monte qui est contra ierusalem, et moloch idolo filiorum ammon.	2020-04-18	Liber_Tertius_Regum
+1100000376	atque in hunc modum fecit universis uxoribus suis alienigenis, quae adolebant thura, et immolabant diis suis.	2020-04-18	Liber_Tertius_Regum
+1100000377	igitur iratus est dominus salomoni, quod aversa esset mens eius a domino deo israel, qui apparuerat ei secundo,et praeceperat de verbo hoc ne sequeretur deos alienos: et non custodivit quae mandavit ei dominus.	2020-04-18	Liber_Tertius_Regum
+1100000378	dixit itaque dominus salomoni: quia habuisti hoc apud te, et non custodisti pactum meum, et praecepta mea quae mandavi tibi, disrumpens scindam regnum tuum, et dabo illud servo tuo.	2020-04-18	Liber_Tertius_Regum
+1100000379	verumtamen in diebus tuis non faciam propter david patrem tuum: de manu filii tui scindam illud,nec totum regnum auferam, sed tribum unam dabo filio tuo propter david servum meum, et ierusalem, quam elegi.	2020-04-18	Liber_Tertius_Regum
+1100000380	suscitavit autem dominus adversarium salomoni adad idumaeum de semine regio, qui erat in edom.	2020-04-18	Liber_Tertius_Regum
+1100000381	cum enim esset david in idumaea, et ascendisset ioab princeps militiae ad sepeliendum eos qui fuerant interfecti, et occidisset omnem masculinum in idumaea(sex enim mensibus ibi moratus est ioab, et omnis israel, donec interimeret omne masculinum in idumaea),fugit adad ipse, et viri idumaei de servis patris eius cum eo, ut ingrederetur aegyptum: erat autem adad puer parvulus.	2020-04-18	Liber_Tertius_Regum
+1100000382	cumque surrexissent de madian, venerunt in pharan, tuleruntque secum viros de pharan, et introierunt aegyptum ad pharaonem regem aegypti: qui dedit ei domum, et cibos constituit, et terram delegavit.	2020-04-18	Liber_Tertius_Regum
+1100000383	et invenit adad gratiam coram pharaone valde, in tantum ut daret ei uxorem sororem uxoris suae germanam taphnes reginae.	2020-04-18	Liber_Tertius_Regum
+1100000384	genuitque ei soror taphnes genubath filium, et nutrivit eum taphnes in domo pharaonis: eratque genubath habitans apud pharaonem cum filiis eius.	2020-04-18	Liber_Tertius_Regum
+1100000385	cumque audisset adad in aegypto dormisse david cum patribus suis, et mortuum esse ioab principem militiae, dixit pharaoni: dimitte me, ut vadam in terram meam.	2020-04-18	Liber_Tertius_Regum
+1100000386	dixitque ei pharao: qua enim re apud me indiges, ut quaeras ire ad terram tuam? 	2020-04-18	Liber_Tertius_Regum
+1100000387	at ille respondit: nulla: sed obsecro te ut dimittas me.	2020-04-18	Liber_Tertius_Regum
+1100000388	suscitavit quoque ei deus adversarium razon filium eliada, qui fugerat adarezer regem soba dominum suum:et congregavit contra eum viros, et factus est princeps latronum cum interficeret eos david: abieruntque damascum, et habitaverunt ibi, et constituerunt eum regem in damasco:eratque adversarius israeli cunctis diebus salomonis: et hoc est malum adad, et odium contra israel: regnavitque in syria.	2020-04-18	Liber_Tertius_Regum
+1100000389	ieroboam quoque filius nabat, ephrathaeus, de sareda, servus salomonis, cuius mater erat nomine sarva, mulier vidua, levavit manum contra regem.	2020-04-18	Liber_Tertius_Regum
+1100000390	et haec est causa rebellionis adversus eum, quia salomon aedificavit mello, et coaequavit voraginem civitatis david patris sui.	2020-04-18	Liber_Tertius_Regum
+1100000391	erat autem ieroboam vir fortis et potens: vidensque salomon adolescentem bonae indolis et industrium, constituerat eum praefectum super tributa universae domus ioseph.	2020-04-18	Liber_Tertius_Regum
+1100000392	factum est igitur in tempore illo, ut ieroboam egrederetur de ierusalem, et inveniret eum ahias silonites propheta in via, opertus pallio novo: erant autem duo tantum in agro.	2020-04-18	Liber_Tertius_Regum
+1100000393	apprehendensque ahias pallium suum novum quo coopertus erat, scidit in duodecim partes.	2020-04-18	Liber_Tertius_Regum
+1100000394	et ait ad ieroboam: tolle tibi decem scissuras: haec enim dicit dominus deus israel: ecce ego scindam regnum de manu salomonis, et dabo tibi decem tribus.	2020-04-18	Liber_Tertius_Regum
+1100000395	porro una tribus remanebit ei propter servum meum david, et ierusalem civitatem, quam elegi ex omnibus tribubus israel:eo quod dereliquerit me, et adoraverit astarthen deam sidoniorum, et chamos deum moab, et moloch deum filiorum ammon: et non ambulaverit in viis meis, ut faceret iustitiam coram me, et praecepta mea et iudicia, sicut david pater eius.	2020-04-18	Liber_Tertius_Regum
+1100000396	nec auferam omne regnum de manu eius, sed ducem ponam eum cunctis diebus vitae suae, propter david servum meum quem elegi, qui custodivit mandata mea et praecepta mea.	2020-04-18	Liber_Tertius_Regum
+1100000397	auferam autem regnum de manu filii eius, et dabo tibi decem tribus:filio autem eius dabo tribum unam, ut remaneat lucerna david servo meo cunctis diebus coram me in ierusalem civitate, quam elegi ut esset nomen meum ibi.	2020-04-18	Liber_Tertius_Regum
+1100000398	te autem assumam, et regnabis super omnia quae desiderat anima tua, erisque rex super israel.	2020-04-18	Liber_Tertius_Regum
+1100000399	si igitur audieris omnia quae praecepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coram me, custodiens mandata mea et praecepta mea, sicut fecit david servus meus: ero tecum, et aedificabo tibi domum fidelem, quomodo aedificavi david domum: et tradam tibi israel:et affligam semen david super hoc, verumtamen non cunctis diebus.	2020-04-18	Liber_Tertius_Regum
+1100000400	voluit ergo salomon interficere ieroboam: qui surrexit, et aufugit in aegyptum ad sesac regem aegypti, et fuit in aegypto usque ad mortem salomonis.	2020-04-18	Liber_Tertius_Regum
+1100000401	reliquum autem verborum salomonis, et omnia quae fecit, et sapientia eius, ecce universa scripta sunt in libro verborum dierum salomonis.	2020-04-18	Liber_Tertius_Regum
+1100000402	dies autem quos regnavit salomon in ierusalem super omnem israel, quadraginta anni sunt.	2020-04-18	Liber_Tertius_Regum
+1100000403	dormivitque salomon cum patribus suis, et sepultus est in civitate david patris sui: regnavitque roboam filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000404	caput 12	2020-04-18	Liber_Tertius_Regum
+1100000405	venit autem roboam in sichem: illuc enim congregatus erat omnis israel ad constituendum eum regem.	2020-04-18	Liber_Tertius_Regum
+1100000406	at vero ieroboam filius nabat, cum adhuc esset in aegypto profugus a facie regis salomonis, audita morte eius, reversus est de aegypto.	2020-04-18	Liber_Tertius_Regum
+1100000407	miseruntque et vocaverunt eum: venit ergo ieroboam, et omnis multitudo israel, et locuti sunt ad roboam, dicentes:pater tuus durissimum iugum imposuit nobis: tu itaque nunc imminue paululum de imperio patris tui durissimo, et de iugo gravissimo quod imposuit nobis, et serviemus tibi.	2020-04-18	Liber_Tertius_Regum
+1100000408	qui ait eis: ite usque ad tertium diem, et revertimini ad me. 	2020-04-18	Liber_Tertius_Regum
+1100000409	cumque abiisset populus,iniit consilium rex roboam cum senioribus qui assistebant coram salomone patre eius cum adhuc viveret, et ait: quod datis mihi consilium, ut respondeam populo huic?	2020-04-18	Liber_Tertius_Regum
+1100000410	qui dixerunt ei: si hodie obedieris populo huic, et servieris, et petitioni eorum cesseris, locutusque fueris ad eos verba lenia, erunt tibi servi cunctis diebus.	2020-04-18	Liber_Tertius_Regum
+1100000411	qui dereliquit consilium senum, quod dederant ei, et adhibuit adolescentes, qui nutriti fuerant cum eo, et assistebant illi,dixitque ad eos: quod mihi datis consilium, ut respondeam populo huic, qui dixerunt mihi: levius fac iugum quod imposuit pater tuus super nos?	2020-04-18	Liber_Tertius_Regum
+1100000412	et dixerunt ei iuvenes qui nutriti fuerant cum eo: sic loqueris populo huic, qui locuti sunt ad te, dicentes: pater tuus aggravavit iugum nostrum: tu releva nos. 	2020-04-18	Liber_Tertius_Regum
+1100000413	sic loqueris ad eos: minimus digitus meus grossior est dorso patris mei.	2020-04-18	Liber_Tertius_Regum
+1100000414	et nunc pater meus posuit super vos iugum grave, ego autem addam super iugum vestrum: pater meus cecidit vos flagellis, ego autem caedam vos scorpionibus.	2020-04-18	Liber_Tertius_Regum
+1100000415	venit ergo ieroboam et omnis populus ad roboam die tertia, sicut locutus fuerat rex, dicens: revertimini ad me die tertia.	2020-04-18	Liber_Tertius_Regum
+1100000416	responditque rex populo dura, derelicto consilio seniorum quod ei dederant,et locutus est eis secundum consilium iuvenum, dicens: pater meus aggravavit iugum vestrum, ego autem addam iugo vestro: pater meus cecidit vos flagellis, ego autem caedam vos scorpionibus.	2020-04-18	Liber_Tertius_Regum
+1100000417	et non acquievit rex populo: quoniam aversatus fuerat eum dominus, ut suscitaret verbum suum quod locutus fuerat in manu ahiae silonitae, ad ieroboam filium nabat.	2020-04-18	Liber_Tertius_Regum
+1100000418	videns itaque populus quod noluisset eos audire rex, respondit ei dicens: quae nobis pars in david? 	2020-04-18	Liber_Tertius_Regum
+1100000419	vel quae haereditas in filio isai? 	2020-04-18	Liber_Tertius_Regum
+1100000420	vade in tabernacula tua, israel: nunc vide domum tuam, david. 	2020-04-18	Liber_Tertius_Regum
+1100000421	et abiit israel in tabernacula sua.	2020-04-18	Liber_Tertius_Regum
+1100000422	super filios autem israel, quicumque habitabant in civitatibus iuda, regnavit roboam.	2020-04-18	Liber_Tertius_Regum
+1100000423	misit ergo rex roboam aduram, qui erat super tributa: et lapidavit eum omnis israel, et mortuus est. 	2020-04-18	Liber_Tertius_Regum
+1100000424	porro rex roboam festinus ascendit currum, et fugit in ierusalem:recessitque israel a domo david usque in praesentem diem.	2020-04-18	Liber_Tertius_Regum
+1100000425	factum est autem cum audisset omnis israel quod reversus esset ieroboam, miserunt, et vocaverunt eum congregato coetu, et constituerunt eum regem super omnem israel: nec secutus est quisquam domum david praeter tribum iuda solam.	2020-04-18	Liber_Tertius_Regum
+1100000426	venit autem roboam ierusalem, et congregavit universam domum iuda, et tribum beniamin, centum octoginta millia electorum virorum bellatorum, ut pugnarent contra domum israel, et reducerent regnum roboam filio salomonis.	2020-04-18	Liber_Tertius_Regum
+1100000427	factus est autem sermo domini ad semeiam virum dei, dicens:loquere ad roboam filium salomonis regem iuda, et ad omnem domum iuda, et beniamin, et reliquos de populo, dicens:haec dicit dominus: non ascendetis, neque bellabitis contra fratres vestros filios israel: revertatur vir in domum suam: a me enim factum est verbum hoc. 	2020-04-18	Liber_Tertius_Regum
+1100000428	audierunt sermonem domini, et reversi sunt de itinere, sicut eis praeceperat dominus.	2020-04-18	Liber_Tertius_Regum
+1100000429	aedificavit autem ieroboam sichem in monte ephraim, et habitavit ibi: et egressus inde aedificavit phanuel.	2020-04-18	Liber_Tertius_Regum
+1100000430	dixitque ieroboam in corde suo: nunc revertetur regnum ad domum david,si ascenderit populus iste ut faciat sacrificia in domo domini in ierusalem: et convertetur cor populi huius ad dominum suum roboam regem iuda, interficientque me, et revertentur ad eum.	2020-04-18	Liber_Tertius_Regum
+1100000431	et excogitato consilio fecit duos vitulos aureos, et dixit eis: nolite ultra ascendere in ierusalem: ecce dii tui israel, qui te eduxerunt de terra aegypti.	2020-04-18	Liber_Tertius_Regum
+1100000432	posuitque unum in bethel, et alterum in dan:et factum est verbum hoc in peccatum: ibat enim populus ad adorandum vitulum usque in dan.	2020-04-18	Liber_Tertius_Regum
+1100000433	et fecit fana in excelsis, et sacerdotes de extremis populi, qui non erant de filiis levi.	2020-04-18	Liber_Tertius_Regum
+1100000434	constituitque diem solemnem in mense octavo, quintadecima die mensis, in similitudinem solemnitatis quae celebrabatur in iuda. 	2020-04-18	Liber_Tertius_Regum
+1100000435	et ascendens altare, similiter fecit in bethel, ut immolaret vitulis quos fabricatus fuerat: constituitque in bethel sacerdotes excelsorum quae fecerat.	2020-04-18	Liber_Tertius_Regum
+1100000436	et ascendit super altare quod exstruxerat in bethel, quintadecima die mensis octavi, quem finxerat de corde suo: et fecit solemnitatem filiis israel, et ascendit super altare, ut adoleret incensum.	2020-04-18	Liber_Tertius_Regum
+1100000437	caput 13	2020-04-18	Liber_Tertius_Regum
+1100000438	et ecce vir dei venit de iuda in sermone domini in bethel, ieroboam stante super altare, et thus iaciente.	2020-04-18	Liber_Tertius_Regum
+1100000439	et exclamavit contra altare in sermone domini, et ait: altare, altare, haec dicit dominus: ecce filius nascetur domui david, iosias nomine, et immolabit super te sacerdotes excelsorum, qui nunc in te thura succendunt: et ossa hominum super te incendet.	2020-04-18	Liber_Tertius_Regum
+1100000440	deditque in illa die signum, dicens: hoc erit signum quod locutus est dominus: ecce altare scindetur, et effundetur cinis qui in eo est.	2020-04-18	Liber_Tertius_Regum
+1100000441	cumque audisset rex sermonem hominis dei quem inclamaverat contra altare in bethel, extendit manum suam de altari, dicens: apprehendite eum. 	2020-04-18	Liber_Tertius_Regum
+1100000442	et exaruit manus eius quam extenderat contra eum, nec valuit retrahere eam ad se.	2020-04-18	Liber_Tertius_Regum
+1100000443	altare quoque scissum est, et effusus est cinis de altari, iuxta signum quod praedixerat vir dei in sermone domini.	2020-04-18	Liber_Tertius_Regum
+1100000444	et ait rex ad virum dei: deprecare faciem domini dei tui, et ora pro me, ut restituatur manus mea mihi. 	2020-04-18	Liber_Tertius_Regum
+1100000445	oravitque vir dei faciem domini, et reversa est manus regis ad eum, et facta est sicut prius fuerat.	2020-04-18	Liber_Tertius_Regum
+1100000446	locutus est autem rex ad virum dei: veni mecum domum ut prandeas, et dabo tibi munera.	2020-04-18	Liber_Tertius_Regum
+1100000447	responditque vir dei ad regem: si dederis mihi mediam partem domus tuae, non veniam tecum, nec comedam panem, neque bibam aquam in loco isto:sic enim mandatum est mihi in sermone domini praecipientis: non comedes panem, neque bibes aquam, nec reverteris per viam qua venisti.	2020-04-18	Liber_Tertius_Regum
+1100000448	abiit ergo per aliam viam, et non est reversus per iter quo venerat in bethel.	2020-04-18	Liber_Tertius_Regum
+1100000449	prophetes autem quidam senex habitabat in bethel: ad quem venerunt filii sui, et narraverunt ei omnia opera quae fecerat vir dei illa die in bethel: et verba quae locutus fuerat ad regem, narraverunt patri suo.	2020-04-18	Liber_Tertius_Regum
+1100000450	et dixit eis pater eorum: per quam viam abiit? 	2020-04-18	Liber_Tertius_Regum
+1100000451	ostenderunt ei filii sui viam per quam abierat vir dei, qui venerat de iuda.	2020-04-18	Liber_Tertius_Regum
+1100000452	et ait filiis suis: sternite mihi asinum. 	2020-04-18	Liber_Tertius_Regum
+1100000453	qui cum stravissent, ascendit,et abiit post virum dei, et invenit eum sedentem subtus terebinthum: et ait illi: tune es vir dei qui venisti de iuda? 	2020-04-18	Liber_Tertius_Regum
+1100000454	respondit ille: ego sum.	2020-04-18	Liber_Tertius_Regum
+1100000455	dixitque ad eum: veni mecum domum, ut comedas panem.	2020-04-18	Liber_Tertius_Regum
+1100000456	qui ait: non possum reverti, neque venire tecum: nec comedam panem, neque bibam aquam in loco isto,quia locutus est dominus ad me in sermone domini, dicens: non comedes panem, et non bibes aquam ibi, nec reverteris per viam qua ieris.	2020-04-18	Liber_Tertius_Regum
+1100000457	qui ait illi: et ego propheta sum similis tui: et angelus locutus est mihi in sermone domini, dicens: reduc eum tecum in domum tuam, ut comedat panem, et bibat aquam. 	2020-04-18	Liber_Tertius_Regum
+1100000458	fefellit eum,et reduxit secum: comedit ergo panem in domo eius, et bibit aquam.	2020-04-18	Liber_Tertius_Regum
+1100000459	cumque sederent ad mensam, factus est sermo domini ad prophetam qui reduxerat eum.	2020-04-18	Liber_Tertius_Regum
+1100000460	et exclamavit ad virum dei qui venerat de iuda, dicens: haec dicit dominus: quia non obediens fuisti ori domini, et non custodisti mandatum quod praecepit tibi dominus deus tuus,et reversus es, et comedisti panem, et bibisti aquam in loco in quo praecepit tibi ne comederes panem neque biberes aquam, non inferetur cadaver tuum in sepulchrum patrum tuorum.	2020-04-18	Liber_Tertius_Regum
+1100000461	cumque comedisset et bibisset, stravit asinum suum prophetae quem reduxerat.	2020-04-18	Liber_Tertius_Regum
+1100000462	qui cum abiisset, invenit eum leo in via, et occidit, et erat cadaver eius proiectum in itinere: asinus autem stabat iuxta illum, et leo stabat iuxta cadaver.	2020-04-18	Liber_Tertius_Regum
+1100000463	et ecce viri transeuntes viderunt cadaver proiectum in via, et leonem stantem iuxta cadaver. 	2020-04-18	Liber_Tertius_Regum
+1100000464	et venerunt, et divulgaverunt in civitate in qua prophetes ille senex habitabat.	2020-04-18	Liber_Tertius_Regum
+1100000465	quod cum audisset propheta ille qui reduxerat eum de via, ait: vir dei est, qui inobediens fuit ori domini, et tradidit eum dominus leoni, et confregit eum, et occidit iuxta verbum domini quod locutus est ei.	2020-04-18	Liber_Tertius_Regum
+1100000466	dixitque ad filios suos: sternite mihi asinum. 	2020-04-18	Liber_Tertius_Regum
+1100000467	qui cum stravissent,et ille abiisset, invenit cadaver eius proiectum in via, et asinum et leonem stantes iuxta cadaver: non comedit leo de cadavere, nec laesit asinum.	2020-04-18	Liber_Tertius_Regum
+1100000468	tulit ergo prophetes cadaver viri dei, et posuit illud super asinum, et reversus intulit in civitatem prophetae senis ut plangeret eum.	2020-04-18	Liber_Tertius_Regum
+1100000469	et posuit cadaver eius in sepulchro suo, et planxerunt eum: heu, heu mi frater!	2020-04-18	Liber_Tertius_Regum
+1100000470	cumque planxissent eum, dixit ad filios suos: cum mortuus fuero, sepelite me in sepulchro in quo vir dei sepultus est: iuxta ossa eius ponite ossa mea.	2020-04-18	Liber_Tertius_Regum
+1100000471	profecto enim veniet sermo quem praedixit in sermone domini contra altare quod est in bethel, et contra omnia fana excelsorum quae sunt in urbibus samariae.	2020-04-18	Liber_Tertius_Regum
+1100000472	post verba haec non est reversus ieroboam de via sua pessima, sed e contrario fecit de novissimis populi sacerdotes excelsorum: quicumque volebat, implebat manum suam, et fiebat sacerdos excelsorum.	2020-04-18	Liber_Tertius_Regum
+1100000473	et propter hanc causam peccavit domus ieroboam, et eversa est, et deleta de superficie terrae.	2020-04-18	Liber_Tertius_Regum
+1100000474	caput 14	2020-04-18	Liber_Tertius_Regum
+1100000475	in tempore illo aegrotavit abia filius ieroboam.	2020-04-18	Liber_Tertius_Regum
+1100000476	dixitque ieroboam uxori suae: surge, et commuta habitum, ne cognoscaris quod sis uxor ieroboam, et vade in silo, ubi est ahias propheta, qui locutus est mihi quod regnaturus essem super populum hunc.	2020-04-18	Liber_Tertius_Regum
+1100000477	tolle quoque in manu tua decem panes, et crustulam, et vas mellis, et vade ad illum: ipse enim indicabit tibi quid eventurum sit puero huic.	2020-04-18	Liber_Tertius_Regum
+1100000478	fecit ut dixerat, uxor ieroboam: et consurgens abiit in silo, et venit in domum ahiae: at ille non poterat videre, quia caligaverant oculi eius prae senectute.	2020-04-18	Liber_Tertius_Regum
+1100000479	dixit autem dominus ad ahiam: ecce uxor ieroboam ingreditur ut consulat te super filio suo qui aegrotat: haec et haec loqueris ei. 	2020-04-18	Liber_Tertius_Regum
+1100000480	cum ergo illa intraret, et dissimularet se esse quae erat,audivit ahias sonitum pedum eius introeuntis per ostium, et ait: ingredere, uxor ieroboam: quare aliam te esse simulas? 	2020-04-18	Liber_Tertius_Regum
+1100000481	ego autem missus sum ad te durus nuntius.	2020-04-18	Liber_Tertius_Regum
+1100000482	vade, et dic ieroboam: haec dicit dominus deus israel: quia exaltavi te de medio populi, et dedi te ducem super populum meum israel,et scidi regnum domus david, et dedi illud tibi, et non fuisti sicut servus meus david, qui custodivit mandata mea, et secutus est me in toto corde suo, faciens quod placitum esset in conspectu meo:sed operatus es mala super omnes qui fuerunt ante te, et fecisti tibi deos alienos et conflatiles, ut me ad iracundiam provocares, me autem proiecisti post corpus tuum:idcirco ecce ego inducam mala super domum ieroboam, et percutiam de ieroboam mingentem ad parietem, et clausum, et novissimum in israel: et mundabo reliquias domus ieroboam, sicut mundari solet fimus usque ad purum.	2020-04-18	Liber_Tertius_Regum
+1100000483	qui mortui fuerint de ieroboam in civitate, comedent eos canes: qui autem mortui fuerint in agro, vorabunt eos aves caeli: quia dominus locutus est.	2020-04-18	Liber_Tertius_Regum
+1100000484	tu igitur surge, et vade in domum tuam: et in ipso introitu pedum tuorum in urbem, morietur puer,et planget eum omnis israel, et sepeliet: iste enim solus inferetur de ieroboam in sepulchrum, quia inventus est super eo sermo bonus a domino deo israel in domo ieroboam.	2020-04-18	Liber_Tertius_Regum
+1100000485	constituet autem sibi dominus regem super israel, qui percutiet domum ieroboam in hac die, et in hoc tempore:et percutiet dominus deus israel, sicut moveri solet arundo in aqua: et evellet israel de terra bona hac, quam dedit patribus eorum, et ventilabit eos trans flumen: quia fecerunt sibi lucos, ut irritarent dominum.	2020-04-18	Liber_Tertius_Regum
+1100000486	et tradet dominus israel propter peccata ieroboam, qui peccavit, et peccare fecit israel.	2020-04-18	Liber_Tertius_Regum
+1100000487	surrexit itaque uxor ieroboam, et abiit, et venit in thersa: cumque illa ingrederetur limen domus, puer mortuus est,et sepelierunt eum. 	2020-04-18	Liber_Tertius_Regum
+1100000488	et planxit eum omnis israel iuxta sermonem domini, quem locutus est in manu servi sui ahiae prophetae.	2020-04-18	Liber_Tertius_Regum
+1100000489	reliqua autem verborum ieroboam, quomodo pugnaverit, et quomodo regnaverit, ecce scripta sunt in libro verborum dierum regum israel.	2020-04-18	Liber_Tertius_Regum
+1100000490	dies autem quibus regnavit ieroboam, viginti duo anni sunt: et dormivit cum patribus suis, regnavitque nadab filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000491	porro roboam filius salomonis regnavit in iuda. 	2020-04-18	Liber_Tertius_Regum
+1100000492	quadraginta et unius anni erat roboam cum regnare coepisset: decem et septem annos regnavit in ierusalem civitate, quam elegit dominus ut poneret nomen suum ibi, ex omnibus tribubus israel. 	2020-04-18	Liber_Tertius_Regum
+1100000493	nomen autem matris eius naama ammanitis.	2020-04-18	Liber_Tertius_Regum
+1100000494	et fecit iudas malum coram domino, et irritaverunt eum super omnibus quae fecerant patres eorum in peccatis suis quae peccaverunt.	2020-04-18	Liber_Tertius_Regum
+1100000495	aedificaverunt enim et ipsi sibi aras, et statuas, et lucos super omnem collem excelsum, et subter omnem arborem frondosam:sed et effeminati fuerunt in terra, feceruntque omnes abominationes gentium quas attrivit dominus ante faciem filiorum israel.	2020-04-18	Liber_Tertius_Regum
+1100000496	in quinto autem anno regni roboam, ascendit sesac rex aegypti in ierusalem,et tulit thesauros domus domini, et thesauros regios, et universa diripuit: scuta quoque aurea, quae fecerat salomon:pro quibus fecit rex roboam scuta aerea, et tradidit ea in manum ducum scutariorum, et eorum qui excubabant ante ostium domus regis.	2020-04-18	Liber_Tertius_Regum
+1100000497	cumque ingrederetur rex in domum domini, portabant ea qui praeeundi habebant officium: et postea reportabant ad armamentarium scutariorum.	2020-04-18	Liber_Tertius_Regum
+1100000498	reliqua autem sermonum roboam, et omnia quae fecit, ecce scripta sunt in libro sermonum dierum regum iuda.	2020-04-18	Liber_Tertius_Regum
+1100000499	fuitque bellum inter roboam et ieroboam cunctis diebus.	2020-04-18	Liber_Tertius_Regum
+1100000500	dormivitque roboam cum patribus suis, et sepultus est cum eis in civitate david: nomen autem matris eius naama ammanitis: et regnavit abiam filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000501	caput 15	2020-04-18	Liber_Tertius_Regum
+1100000502	igitur in octavodecimo anno regni ieroboam filii nabat, regnavit abiam super iudam.	2020-04-18	Liber_Tertius_Regum
+1100000503	tribus annis regnavit in ierusalem: nomen matris eius maacha filia abessalom.	2020-04-18	Liber_Tertius_Regum
+1100000504	ambulavitque in omnibus peccatis patris sui, quae fecerat ante eum: nec erat cor eius perfectum cum domino deo suo, sicut cor david patris eius.	2020-04-18	Liber_Tertius_Regum
+1100000505	sed propter david dedit ei dominus deus suus lucernam in ierusalem, ut suscitaret filium eius post eum, et statueret ierusalem:eo quod fecisset david rectum in oculis domini, et non declinasset ab omnibus quae praeceperat ei cunctis diebus vitae suae, excepto sermone uriae hethaei.	2020-04-18	Liber_Tertius_Regum
+1100000506	attamen bellum fuit inter roboam et ieroboam omni tempore vitae eius.	2020-04-18	Liber_Tertius_Regum
+1100000507	reliqua autem sermonum abiam, et omnia quae fecit, nonne haec scripta sunt in libro verborum dierum regum iuda? 	2020-04-18	Liber_Tertius_Regum
+1100000508	fuitque praelium inter abiam et inter ieroboam.	2020-04-18	Liber_Tertius_Regum
+1100000509	et dormivit abiam cum patribus suis, et sepelierunt eum in civitate david, regnavitque asa filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000510	in anno ergo vigesimo ieroboam regis israel regnavit asa rex iuda,et quadraginta et uno anno regnavit in ierusalem. 	2020-04-18	Liber_Tertius_Regum
+1100000511	nomen matris eius maacha filia abessalom.	2020-04-18	Liber_Tertius_Regum
+1100000512	et fecit asa rectum ante conspectum domini, sicut david pater eius:et abstulit effeminatos de terra, purgavitque universas sordes idolorum quae fecerant patres eius.	2020-04-18	Liber_Tertius_Regum
+1100000513	insuper et maacham matrem suam amovit, ne esset princeps in sacris priapi, et in luco eius quem consecraverat: subvertitque specum eius, et confregit simulacrum turpissimum, et combussit in torrente cedron:excelsa autem non abstulit. 	2020-04-18	Liber_Tertius_Regum
+1100000514	verumtamen cor asa perfectum erat cum domino cunctis diebus suis:et intulit ea quae sanctificaverat pater suus, et voverat, in domum domini, argentum, et aurum, et vasa.	2020-04-18	Liber_Tertius_Regum
+1100000515	bellum autem erat inter asa, et baasa regem israel cunctis diebus eorum.	2020-04-18	Liber_Tertius_Regum
+1100000516	ascendit quoque baasa rex israel in iudam, et aedificavit rama, ut non posset quispiam egredi vel ingredi de parte asa regis iuda.	2020-04-18	Liber_Tertius_Regum
+1100000517	tollens itaque asa omne argentum et aurum quod remanserat in thesauris domus domini, et in thesauris domus regiae, et dedit illud in manus servorum suorum: et misit ad benadad filium tabremon filii hezion, regem syriae, qui habitabat in damasco, dicens:foedus est inter me et te, et inter patrem meum et patrem tuum: ideo misi tibi munera, argentum et aurum: et peto ut venias, et irritum facias foedus quod habes cum baasa rege israel, et recedat a me.	2020-04-18	Liber_Tertius_Regum
+1100000518	acquiescens benadad regi asa, misit principes exercitus sui in civitates israel, et percusserunt ahion, et dan, et abeldomum maacha, et universam cenneroth, omnem scilicet terram nephthali.	2020-04-18	Liber_Tertius_Regum
+1100000519	quod cum audisset baasa, intermisit aedificare rama, et reversus est in thersa.	2020-04-18	Liber_Tertius_Regum
+1100000520	rex autem asa nuntium misit in omnem iudam, dicens: nemo sit excusatus. 	2020-04-18	Liber_Tertius_Regum
+1100000521	et tulerunt lapides de rama, et ligna eius, quibus aedificaverat baasa, et exstruxit de eis rex asa gabaa beniamin, et maspha.	2020-04-18	Liber_Tertius_Regum
+1100000522	reliqua autem omnium sermonum asa, et universae fortitudines eius, et cuncta quae fecit, et civitates quas exstruxit, nonne haec scripta sunt in libro verborum dierum regum iuda? 	2020-04-18	Liber_Tertius_Regum
+1100000523	verumtamen in tempore senectutis suae doluit pedes.	2020-04-18	Liber_Tertius_Regum
+1100000524	et dormivit cum patribus suis, et sepultus est cum eis in civitate david patris sui. 	2020-04-18	Liber_Tertius_Regum
+1100000525	regnavitque iosaphat filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000526	nadab vero filius ieroboam regnavit super israel anno secundo asa regis iuda: regnavitque super israel duobus annis.	2020-04-18	Liber_Tertius_Regum
+1100000527	et fecit quod malum est in conspectu domini, et ambulavit in viis patris sui, et in peccatis eius quibus peccare fecit israel.	2020-04-18	Liber_Tertius_Regum
+1100000528	insidiatus est autem ei baasa filius ahiae de domo issachar, et percussit eum in gebbethon, quae est urbs philisthinorum: siquidem nadab et omnis israel obsidebant gebbethon.	2020-04-18	Liber_Tertius_Regum
+1100000529	interfecit ergo illum baasa in anno tertio asa regis iuda, et regnavit pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000530	cumque regnasset, percussit omnem domum ieroboam: non dimisit ne unam quidem animam de semine eius donec deleret eum, iuxta verbum domini quod locutus fuerat in manu servi sui ahiae silonitis,propter peccata ieroboam, quae peccaverat, et quibus peccare fecerat israel: et propter delictum quo irritaverat dominum deum israel.	2020-04-18	Liber_Tertius_Regum
+1100000531	reliqua autem sermonum nadab, et omnia quae operatus est, nonne haec scripta sunt in libro verborum dierum regum israel?	2020-04-18	Liber_Tertius_Regum
+1100000532	fuitque bellum inter asa, et baasa regem israel, cunctis diebus eorum.	2020-04-18	Liber_Tertius_Regum
+1100000533	anno tertio asa regis iuda, regnavit baasa filius ahiae super omnem israel in thersa, viginti quatuor annis.	2020-04-18	Liber_Tertius_Regum
+1100000534	et fecit malum coram domino, ambulavitque in via ieroboam, et in peccatis eius quibus peccare fecit israel.	2020-04-18	Liber_Tertius_Regum
+1100000535	caput 16	2020-04-18	Liber_Tertius_Regum
+1100000536	factus est autem sermo domini ad iehu filium hanani contra baasa, dicens:pro eo quod exaltavi te de pulvere, et posui te ducem super populum meum israel, tu autem ambulasti in via ieroboam, et peccare fecisti populum meum israel, ut me irritares in peccatis eorum:ecce ego demetam posteriora baasa, et posteriora domus eius, et faciam domum tuam sicut domum ieroboam filii nabat.	2020-04-18	Liber_Tertius_Regum
+1100000537	qui mortuus fuerit de baasa in civitate, comedent eum canes: et qui mortuus fuerit ex eo in regione, comedent eum volucres caeli.	2020-04-18	Liber_Tertius_Regum
+1100000538	reliqua autem sermonum baasa, et quaecumque fecit, et praelia eius, nonne haec scripta sunt in libro verborum dierum regum israel?	2020-04-18	Liber_Tertius_Regum
+1100000539	dormivit ergo baasa cum patribus suis, sepultusque est in thersa: et regnavit ela filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000540	cum autem in manu iehu filii hanani prophetae verbum domini factum esset contra baasa, et contra domum eius, et contra omne malum quod fecerat coram domino, ad irritandum eum in operibus manuum suarum, ut fieret sicut domus ieroboam: ob hanc causam occidit eum, hoc est, iehu filium hanani prophetam.	2020-04-18	Liber_Tertius_Regum
+1100000541	anno vigesimo sexto asa regis iuda, regnavit ela filius baasa super israel in thersa, duobus annis.	2020-04-18	Liber_Tertius_Regum
+1100000542	et rebellavit contra eum servus suus zambri, dux mediae partis equitum: erat autem ela in thersa bibens, et temulentus in domo arsa praefecti thersa.	2020-04-18	Liber_Tertius_Regum
+1100000543	irruens ergo zambri, percussit et occidit eum, anno vigesimo septimo asa regis iuda, et regnavit pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000544	cumque regnasset, et sedisset super solium eius, percussit omnem domum baasa, et non dereliquit ex ea mingentem ad parietem: et propinquos et amicos eius.	2020-04-18	Liber_Tertius_Regum
+1100000545	delevitque zambri omnem domum baasa, iuxta verbum domini quod locutus fuerat ad baasa in manu iehu prophetae,propter universa peccata baasa, et peccata ela filii eius, qui peccaverunt, et peccare fecerunt israel, provocantes dominum deum israel in vanitatibus suis.	2020-04-18	Liber_Tertius_Regum
+1100000546	reliqua autem sermonum ela, et omnia quae fecit, nonne haec scripta sunt in libro verborum dierum regum israel?	2020-04-18	Liber_Tertius_Regum
+1100000547	anno vigesimo septimo asa regis iuda, regnavit zambri septem diebus in thersa: porro exercitus obsidebat gebbethon urbem philisthinorum.	2020-04-18	Liber_Tertius_Regum
+1100000548	cumque audisset rebellasse zambri, et occidisse regem, fecit sibi regem omnis israel amri, qui erat princeps militiae super israel in die illa in castris.	2020-04-18	Liber_Tertius_Regum
+1100000549	ascendit ergo amri, et omnis israel cum eo, de gebbethon, et obsidebant thersa.	2020-04-18	Liber_Tertius_Regum
+1100000550	videns autem zambri quod expugnanda esset civitas, ingressus est palatium, et succendit se cum domo regia: et mortuus estin peccatis suis quae peccaverat, faciens malum coram domino, et ambulans in via ieroboam, et in peccato eius, quo fecit peccare israel.	2020-04-18	Liber_Tertius_Regum
+1100000551	reliqua autem sermonum zambri, et insidiarum eius, et tyrannidis, nonne haec scripta sunt in libro verborum dierum regum israel?	2020-04-18	Liber_Tertius_Regum
+1100000552	tunc divisus est populus israel in duas partes: media pars populi sequebatur thebni filium gineth, ut constitueret eum regem: et media pars amri.	2020-04-18	Liber_Tertius_Regum
+1100000553	praevaluit autem populus qui erat cum amri, populo qui sequebatur thebni filium gineth: mortuusque est thebni, et regnavit amri.	2020-04-18	Liber_Tertius_Regum
+1100000554	anno trigesimo primo asa regis iuda, regnavit amri super israel, duodecim annis: in thersa regnavit sex annis.	2020-04-18	Liber_Tertius_Regum
+1100000555	emitque montem samariae a somer duobus talentis argenti: et aedificavit eum, et vocavit nomen civitatis quam exstruxerat, nomine semer domini montis, samariam.	2020-04-18	Liber_Tertius_Regum
+1100000556	fecit autem amri malum in conspectu domini, et operatus est nequiter, super omnes qui fuerunt ante eum.	2020-04-18	Liber_Tertius_Regum
+1100000557	ambulavitque in omni via ieroboam filii nabat, et in peccatis eius quibus peccare fecerat israel, ut irritaret dominum deum israel in vanitatibus suis.	2020-04-18	Liber_Tertius_Regum
+1100000558	reliqua autem sermonum amri, et praelia eius quae gessit, nonne haec scripta sunt in libro verborum dierum regum israel?	2020-04-18	Liber_Tertius_Regum
+1100000559	dormivitque amri cum patribus suis, et sepultus est in samaria: regnavitque achab filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000560	achab vero filius amri regnavit super israel anno trigesimo octavo asa regis iuda. 	2020-04-18	Liber_Tertius_Regum
+1100000561	et regnavit achab filius amri super israel in samaria viginti et duobus annis.	2020-04-18	Liber_Tertius_Regum
+1100000562	et fecit achab filius amri malum in conspectu domini super omnes qui fuerunt ante eum.	2020-04-18	Liber_Tertius_Regum
+1100000563	nec suffecit ei ut ambularet in peccatis ieroboam filii nabat: insuper duxit uxorem iezabel filiam ethbaal regis sidoniorum. 	2020-04-18	Liber_Tertius_Regum
+1100000564	et abiit, et servivit baal, et adoravit eum.	2020-04-18	Liber_Tertius_Regum
+1100000565	et posuit aram baal in templo baal, quod aedificaverat in samaria,et plantavit lucum: et addidit achab in opere suo, irritans dominum deum israel super omnes reges israel qui fuerunt ante eum.	2020-04-18	Liber_Tertius_Regum
+1100000566	in diebus eius aedificavit hiel de bethel iericho: in abiram primitivo suo fundavit eam, et in segub novissimo suo posuit portas eius, iuxta verbum domini quod locutus fuerat in manu iosue filii nun.	2020-04-18	Liber_Tertius_Regum
+1100000567	caput 17	2020-04-18	Liber_Tertius_Regum
+1100000568	et dixit elias thesbites de habitatoribus galaad ad achab: vivit dominus deus israel, in cuius conspectu sto, si erit annis his ros et pluvia, nisi iuxta oris mei verba.	2020-04-18	Liber_Tertius_Regum
+1100000569	et factum est verbum domini ad eum, dicens:recede hinc, et vade contra orientem, et abscondere in torrente carith, qui est contra iordanem,et ibi de torrente bibes: corvisque praecepi ut pascant te ibi.	2020-04-18	Liber_Tertius_Regum
+1100000570	abiit ergo, et fecit iuxta verbum domini: cumque abiisset, sedit in torrente carith, qui est contra iordanem.	2020-04-18	Liber_Tertius_Regum
+1100000571	corvi quoque deferebant ei panem et carnes mane, similiter panem et carnes vesperi, et bibebat de torrente.	2020-04-18	Liber_Tertius_Regum
+1100000572	post dies autem siccatus est torrens: non enim pluerat super terram.	2020-04-18	Liber_Tertius_Regum
+1100000573	factus est ergo sermo domini ad eum, dicens:surge, et vade in sarephta sidoniorum, et manebis ibi: praecepi enim ibi mulieri viduae ut pascat te.	2020-04-18	Liber_Tertius_Regum
+1100000574	surrexit, et abiit in sarephta. 	2020-04-18	Liber_Tertius_Regum
+1100000575	cumque venisset ad portam civitatis, apparuit ei mulier vidua colligens ligna, et vocavit eam, dixitque ei: da mihi paululum aquae in vase ut bibam.	2020-04-18	Liber_Tertius_Regum
+1100000576	cumque illa pergeret ut afferret, clamavit post tergum eius, dicens: affer mihi, obsecro, et buccellam panis in manu tua.	2020-04-18	Liber_Tertius_Regum
+1100000577	quae respondit: vivit dominus deus tuus, quia non habeo panem, nisi quantum pugillus capere potest farinae in hydria, et paululum olei in lecytho: en colligo duo ligna ut ingrediar et faciam illum mihi et filio meo, ut comedamus, et moriamur.	2020-04-18	Liber_Tertius_Regum
+1100000578	ad quam elias ait: noli timere, sed vade, et fac sicut dixisti: verumtamen mihi primum fac de ipsa farinula subcinericium panem parvulum, et affer ad me: tibi autem et filio tuo facies postea.	2020-04-18	Liber_Tertius_Regum
+1100000579	haec autem dicit dominus deus israel: hydria farinae non deficiet, nec lecythus olei minuetur, usque ad diem in qua dominus daturus est pluviam super faciem terrae.	2020-04-18	Liber_Tertius_Regum
+1100000580	quae abiit, et fecit iuxta verbum eliae: et comedit ipse, et illa, et domus eius: et ex illa diehydria farinae non defecit, et lecythus olei non est imminutus, iuxta verbum domini quod locutus fuerat in manu eliae.	2020-04-18	Liber_Tertius_Regum
+1100000581	factum est autem post haec, aegrotavit filius mulieris matrisfamilias, et erat languor fortissimus, ita ut non remaneret in eo halitus.	2020-04-18	Liber_Tertius_Regum
+1100000582	dixit ergo ad eliam: quid mihi et tibi, vir dei? 	2020-04-18	Liber_Tertius_Regum
+1100000583	ingressus es ad me, ut rememorarentur iniquitates meae, et interficeres filium meum?	2020-04-18	Liber_Tertius_Regum
+1100000584	et ait ad eam elias: da mihi filium tuum. 	2020-04-18	Liber_Tertius_Regum
+1100000585	tulitque eum de sinu eius, et portavit in coenaculum ubi ipse manebat, et posuit super lectulum suum.	2020-04-18	Liber_Tertius_Regum
+1100000586	et clamavit ad dominum, et dixit: domine deus meus, etiam ne viduam apud quam ego utcumque sustentor, afflixisti ut interficeres filium eius?	2020-04-18	Liber_Tertius_Regum
+1100000587	et expandit se, atque mensus est super puerum tribus vicibus, et clamavit ad dominum, et ait: domine deus meus, revertatur, obsecro, anima pueri huius in viscera eius.	2020-04-18	Liber_Tertius_Regum
+1100000588	et exaudivit dominus vocem eliae: et reversa est anima pueri intra eum, et revixit.	2020-04-18	Liber_Tertius_Regum
+1100000589	tulitque elias puerum, et deposuit eum de coenaculo in inferiorem domum, et tradidit matri suae, et ait illi: en vivit filius tuus.	2020-04-18	Liber_Tertius_Regum
+1100000590	dixitque mulier ad eliam: nunc in isto cognovi quoniam vir dei es tu, et verbum domini in ore tuo verum est.	2020-04-18	Liber_Tertius_Regum
+1100000591	caput 18	2020-04-18	Liber_Tertius_Regum
+1100000592	post dies multos factum est verbum domini ad eliam, in anno tertio, dicens: vade, et ostende te achab, ut dem pluviam super faciem terrae.	2020-04-18	Liber_Tertius_Regum
+1100000593	ivit ergo elias, ut ostenderet se achab: erat autem fames vehemens in samaria.	2020-04-18	Liber_Tertius_Regum
+1100000594	vocavitque achab abdiam dispensatorem domus suae: abdias autem timebat dominum valde.	2020-04-18	Liber_Tertius_Regum
+1100000595	nam cum interficeret iezabel prophetas domini, tulit ille centum prophetas, et abscondit eos quinquagenos et quinquagenos in speluncis, et pavit eos pane et aqua.	2020-04-18	Liber_Tertius_Regum
+1100000596	dixit ergo achab ad abdiam: vade in terram ad universos fontes aquarum, et in cunctas valles, si forte possimus invenire herbam, et salvare equos et mulos, et non penitus iumenta intereant.	2020-04-18	Liber_Tertius_Regum
+1100000597	diviseruntque sibi regiones ut circuirent eas: achab ibat per viam unam, et abdias per viam alteram seorsum.	2020-04-18	Liber_Tertius_Regum
+1100000598	cumque esset abdias in via, elias occurrit ei: qui cum cognovisset eum, cecidit super faciem suam, et ait: num tu es, domine mi, elias?	2020-04-18	Liber_Tertius_Regum
+1100000599	cui ille respondit: ego. 	2020-04-18	Liber_Tertius_Regum
+1100000600	vade, et dic domino tuo: adest elias.	2020-04-18	Liber_Tertius_Regum
+1100000601	et ille: quid peccavi, inquit, quoniam tradis me servum tuum in manu achab, ut interficiat me?	2020-04-18	Liber_Tertius_Regum
+1100000602	vivit dominus deus tuus, quia non est gens aut regnum quo non miserit dominus meus te requirens: et respondentibus cunctis: non est hic: adiuravit regna singula et gentes, eo quod minime reperireris.	2020-04-18	Liber_Tertius_Regum
+1100000603	et nunc tu dicis mihi: vade, et dic domino tuo: adest elias.	2020-04-18	Liber_Tertius_Regum
+1100000604	cumque recessero a te, spiritus domini asportabit te in locum quem ego ignoro: et ingressus nuntiabo achab, et non inveniens te, interficiet me: servus autem tuus timet dominum ab infantia sua.	2020-04-18	Liber_Tertius_Regum
+1100000605	numquid non indicatum est tibi domino meo quid fecerim cum interficeret iezabel prophetas domini, quod absconderim de prophetis domini centum viros, quinquagenos et quinquagenos, in speluncis, et paverim eos pane et aqua?	2020-04-18	Liber_Tertius_Regum
+1100000606	et nunc tu dicis: vade, et dic domino tuo: adest elias: ut interficiat me?	2020-04-18	Liber_Tertius_Regum
+1100000607	et dixit elias: vivit dominus exercituum, ante cuius vultum sto, quia hodie apparebo ei.	2020-04-18	Liber_Tertius_Regum
+1100000608	abiit ergo abdias in occursum achab, et indicavit ei: venitque achab in occursum eliae.	2020-04-18	Liber_Tertius_Regum
+1100000609	et cum vidisset eum, ait: tune es ille, qui conturbas israel?	2020-04-18	Liber_Tertius_Regum
+1100000610	et ille ait: non ego turbavi israel, sed tu, et domus patris tui, qui dereliquistis mandata domini, et secuti estis baalim.	2020-04-18	Liber_Tertius_Regum
+1100000611	verumtamen nunc mitte, et congrega ad me universum israel in monte carmeli, et prophetas baal quadringentos quinquaginta, prophetasque lucorum quadringentos, qui comedunt de mensa iezabel.	2020-04-18	Liber_Tertius_Regum
+1100000612	misit achab ad omnes filios israel, et congregavit prophetas in monte carmeli.	2020-04-18	Liber_Tertius_Regum
+1100000613	accedens autem elias ad omnem populum, ait: usquequo claudicatis in duas partes? 	2020-04-18	Liber_Tertius_Regum
+1100000614	si dominus est deus, sequimini eum: si autem baal, sequimini illum. 	2020-04-18	Liber_Tertius_Regum
+1100000615	et non respondit ei populus verbum.	2020-04-18	Liber_Tertius_Regum
+1100000616	et ait rursus elias ad populum: ego remansi propheta domini solus: prophetae autem baal quadringenti et quinquaginta viri sunt.	2020-04-18	Liber_Tertius_Regum
+1100000617	dentur nobis duo boves, et illi eligant sibi bovem unum, et in frusta caedentes ponant super ligna, ignem autem non supponant: et ego faciam bovem alterum, et imponam super ligna, ignem autem non supponam.	2020-04-18	Liber_Tertius_Regum
+1100000618	invocate nomina deorum vestrorum, et ego invocabo nomen domini mei: et deus qui exaudierit per ignem, ipse sit deus. 	2020-04-18	Liber_Tertius_Regum
+1100000619	respondens omnis populus ait: optima propositio.	2020-04-18	Liber_Tertius_Regum
+1100000620	dixit ergo elias prophetis baal: eligite vobis bovem unum, et facite primi, quia vos plures estis: et invocate nomina deorum vestrorum, ignemque non supponatis.	2020-04-18	Liber_Tertius_Regum
+1100000621	qui cum tulissent bovem quem dederat eis, fecerunt: et invocabant nomen baal de mane usque ad meridiem, dicentes: baal, exaudi nos. 	2020-04-18	Liber_Tertius_Regum
+1100000622	et non erat vox, nec qui responderet: transiliebantque altare quod fecerant.	2020-04-18	Liber_Tertius_Regum
+1100000623	cumque esset iam meridies, illudebat illis elias, dicens: clamate voce maiore: deus enim est, et forsitan loquitur, aut in diversorio est, aut in itinere, aut certe dormit, ut excitetur.	2020-04-18	Liber_Tertius_Regum
+1100000624	clamabant ergo voce magna, et incidebant se iuxta ritum suum cultris et lanceolis, donec perfunderentur sanguine.	2020-04-18	Liber_Tertius_Regum
+1100000625	postquam autem transiit meridies, et illis prophetantibus venerat tempus quo sacrificium offerri solet, nec audiebatur vox, nec aliquis respondebat, nec attendebat orantes,dixit elias omni populo: venite ad me.	2020-04-18	Liber_Tertius_Regum
+1100000626	et accedente ad se populo, curavit altare domini quod destructum fuerat.	2020-04-18	Liber_Tertius_Regum
+1100000627	et tulit duodecim lapides iuxta numerum tribuum filiorum iacob, ad quem factus est sermo domini, dicens: israel erit nomen tuum.	2020-04-18	Liber_Tertius_Regum
+1100000628	et aedificavit de lapidibus altare in nomine domini: fecitque aquaeductum, quasi per duas aratiunculas in circuitu altaris,et composuit ligna: divisitque per membra bovem, et posuit super ligna,et ait: implete quatuor hydrias aqua, et fundite super holocaustum et super ligna. 	2020-04-18	Liber_Tertius_Regum
+1100000629	rursumque dixit: etiam secundo hoc facite. 	2020-04-18	Liber_Tertius_Regum
+1100000630	qui cum fecissent secundo, ait: etiam tertio idipsum facite. 	2020-04-18	Liber_Tertius_Regum
+1100000631	feceruntque tertio,et currebant aquae circum altare, et fossa aquaeductus repleta est.	2020-04-18	Liber_Tertius_Regum
+1100000632	cumque iam tempus esset ut offerretur holocaustum, accedens elias propheta ait: domine deus abraham, et isaac, et israel, ostende hodie quia tu es deus israel, et ego servus tuus, et iuxta praeceptum tuum feci omnia verba haec.	2020-04-18	Liber_Tertius_Regum
+1100000633	exaudi me, domine, exaudi me: ut discat populus iste quia tu es dominus deus, et tu convertisti cor eorum iterum.	2020-04-18	Liber_Tertius_Regum
+1100000634	cecidit autem ignis domini, et voravit holocaustum, et ligna, et lapides, pulverem quoque, et aquam quae erat in aquaeductu lambens.	2020-04-18	Liber_Tertius_Regum
+1100000635	quod cum vidisset omnis populus, cecidit in faciem suam, et ait: dominus ipse est deus, dominus ipse est deus.	2020-04-18	Liber_Tertius_Regum
+1100000636	dixitque elias ad eos: apprehendite prophetas baal, et ne unus quidem effugiat ex eis. 	2020-04-18	Liber_Tertius_Regum
+1100000637	quos cum apprehendissent, duxit eos elias ad torrentem cison, et interfecit eos ibi.	2020-04-18	Liber_Tertius_Regum
+1100000638	et ait elias ad achab: ascende, comede, et bibe, quia sonus multae pluviae est.	2020-04-18	Liber_Tertius_Regum
+1100000639	ascendit achab ut comederet et biberet: elias autem ascendit in verticem carmeli, et pronus in terram posuit faciem suam inter genua sua,et dixit ad puerum suum: ascende, et prospice contra mare. 	2020-04-18	Liber_Tertius_Regum
+1100000640	qui cum ascendisset, et contemplatus esset, ait: non est quidquam. 	2020-04-18	Liber_Tertius_Regum
+1100000641	et rursum ait illi: revertere septem vicibus.	2020-04-18	Liber_Tertius_Regum
+1100000642	in septima autem vice, ecce nubecula parva quasi vestigium hominis ascendebat de mari. 	2020-04-18	Liber_Tertius_Regum
+1100000643	qui ait: ascende, et dic achab: iunge currum tuum et descende, ne occupet te pluvia.	2020-04-18	Liber_Tertius_Regum
+1100000644	cumque se verteret huc atque illuc, ecce caeli contenebrati sunt, et nubes, et ventus, et facta est pluvia grandis. 	2020-04-18	Liber_Tertius_Regum
+1100000645	ascendens itaque achab, abiit in iezrahel:et manus domini facta est super eliam, accinctisque lumbis currebat ante achab, donec veniret in iezrahel.	2020-04-18	Liber_Tertius_Regum
+1100000646	caput 19	2020-04-18	Liber_Tertius_Regum
+1100000647	nuntiavit autem achab iezabel omnia quae fecerat elias, et quomodo occidisset universos prophetas gladio.	2020-04-18	Liber_Tertius_Regum
+1100000648	misitque iezabel nuntium ad eliam, dicens: haec mihi faciant dii, et haec addant, nisi hac hora cras posuero animam tuam sicut animam unius ex illis.	2020-04-18	Liber_Tertius_Regum
+1100000649	timuit ergo elias, et surgens abiit quocumque eum ferebat voluntas: venitque in bersabee iuda, et dimisit ibi puerum suum,et perrexit in desertum, viam unius diei. 	2020-04-18	Liber_Tertius_Regum
+1100000650	cumque venisset, et sederet subter unam iuniperum, petivit animae suae ut moreretur, et ait: sufficit mihi, domine: tolle animam meam: neque enim melior sum quam patres mei.	2020-04-18	Liber_Tertius_Regum
+1100000651	proiecitque se, et obdormivit in umbra iuniperi: et ecce angelus domini tetigit eum, et dixit illi: surge, et comede.	2020-04-18	Liber_Tertius_Regum
+1100000652	respexit, et ecce ad caput suum subcinericius panis, et vas aquae: comedit ergo, et bibit, et rursum obdormivit.	2020-04-18	Liber_Tertius_Regum
+1100000653	reversusque est angelus domini secundo, et tetigit eum, dixitque illi: surge, comede: grandis enim tibi restat via.	2020-04-18	Liber_Tertius_Regum
+1100000654	qui cum surrexisset, comedit et bibit, et ambulavit in fortitudine cibi illius quadraginta diebus et quadraginta noctibus usque ad montem dei horeb.	2020-04-18	Liber_Tertius_Regum
+1100000655	cumque venisset illuc, mansit in spelunca: et ecce sermo domini ad eum, dixitque illi: quid hic agis, elia?	2020-04-18	Liber_Tertius_Regum
+1100000656	at ille respondit: zelo zelatus sum pro domino deo exercituum, quia dereliquerunt pactum tuum filii israel: altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quaerunt animam meam ut auferant eam.	2020-04-18	Liber_Tertius_Regum
+1100000657	et ait ei: egredere, et sta in monte coram domino: et ecce dominus transit. 	2020-04-18	Liber_Tertius_Regum
+1100000658	et spiritus grandis et fortis subvertens montes, et conterens petras, ante dominum: non in spiritu dominus. 	2020-04-18	Liber_Tertius_Regum
+1100000659	et post spiritum commotio: non in commotione dominus.	2020-04-18	Liber_Tertius_Regum
+1100000660	et post commotionem ignis: non in igne dominus. 	2020-04-18	Liber_Tertius_Regum
+1100000661	et post ignem sibilus aurae tenuis.	2020-04-18	Liber_Tertius_Regum
+1100000662	quod cum audisset elias, operuit vultum suum pallio, et egressus stetit in ostio speluncae. 	2020-04-18	Liber_Tertius_Regum
+1100000663	et ecce vox ad eum dicens: quid hic agis, elia? 	2020-04-18	Liber_Tertius_Regum
+1100000664	et ille respondit:zelo zelatus sum pro domino deo exercituum, quia dereliquerunt pactum tuum filii israel: altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quaerunt animam meam ut auferant eam.	2020-04-18	Liber_Tertius_Regum
+1100000665	et ait dominus ad eum: vade, et revertere in viam tuam per desertum in damascum: cumque perveneris illuc, unges hazael regem super syriam,et iehu filium namsi unges regem super israel: eliseum autem filium saphat, qui est de abelmehula, unges prophetam pro te.	2020-04-18	Liber_Tertius_Regum
+1100000666	et erit: quicumque fugerit gladium hazael, occidet eum iehu: et quicumque fugerit gladium iehu, interficiet eum eliseus.	2020-04-18	Liber_Tertius_Regum
+1100000667	et derelinquam mihi in israel septem millia virorum, quorum genua non sunt incurvata ante baal, et omne os quod non adoravit eum osculans manus.	2020-04-18	Liber_Tertius_Regum
+1100000668	profectus ergo inde elias, reperit eliseum filium saphat, arantem in duodecim iugis boum. 	2020-04-18	Liber_Tertius_Regum
+1100000669	et ipse in duodecim iugis boum arantibus unus erat: cumque venisset elias ad eum, misit pallium suum super illum.	2020-04-18	Liber_Tertius_Regum
+1100000670	qui statim relictis bobus cucurrit post eliam, et ait: osculer, oro, patrem meum, et matrem meam, et sic sequar te. 	2020-04-18	Liber_Tertius_Regum
+1100000671	dixitque ei: vade, et revertere: quod enim meum erat, feci tibi.	2020-04-18	Liber_Tertius_Regum
+1100000672	reversus autem ab eo, tulit par boum, et mactavit illud, et in aratro boum coxit carnes, et dedit populo, et comederunt: consurgensque abiit, et secutus est eliam, et ministrabat ei.	2020-04-18	Liber_Tertius_Regum
+1100000673	caput 20	2020-04-18	Liber_Tertius_Regum
+1100000674	porro benadad rex syriae congregavit omnem exercitum suum, et triginta duos reges secum, et equos, et currus: et ascendens pugnabat contra samariam, et obsidebat eam.	2020-04-18	Liber_Tertius_Regum
+1100000675	mittensque nuntios ad achab regem israel in civitatem,ait: haec dicit benadad: argentum tuum, et aurum tuum meum est: et uxores tuae, et filii tui optimi, mei sunt.	2020-04-18	Liber_Tertius_Regum
+1100000676	responditque rex israel: iuxta verbum tuum, domine mi rex, tuus sum ego, et omnia mea.	2020-04-18	Liber_Tertius_Regum
+1100000677	revertentesque nuntii, dixerunt: haec dicit benadad, qui misit nos ad te: argentum tuum, et aurum tuum, et uxores tuas, et filios tuos, dabis mihi.	2020-04-18	Liber_Tertius_Regum
+1100000678	cras igitur hac eadem hora mittam servos meos ad te, et scrutabuntur domum tuam, et domum servorum tuorum: et omne quod eis placuerit, ponent in manibus suis, et auferent.	2020-04-18	Liber_Tertius_Regum
+1100000679	vocavit autem rex israel omnes seniores terrae, et ait: animadvertite, et videte quoniam insidietur nobis: misit enim ad me pro uxoribus meis, et filiis, et pro argento et auro: et non abnui.	2020-04-18	Liber_Tertius_Regum
+1100000680	dixeruntque omnes maiores natu, et universus populus, ad eum: non audias, neque acquiescas illi.	2020-04-18	Liber_Tertius_Regum
+1100000681	respondit itaque nuntiis benadad: dicite domino meo regi: omnia propter quae misisti ad me servum tuum in initio, faciam: hanc autem rem facere non possum.	2020-04-18	Liber_Tertius_Regum
+1100000682	reversique nuntii retulerunt ei. 	2020-04-18	Liber_Tertius_Regum
+1100000683	qui remisit, et ait: haec faciant mihi dii, et haec addant, si suffecerit pulvis samariae pugillis omnis populi qui sequitur me.	2020-04-18	Liber_Tertius_Regum
+1100000684	et respondens rex israel, ait: dicite ei: ne glorietur, accinctus aeque ut discinctus.	2020-04-18	Liber_Tertius_Regum
+1100000685	factum est autem cum audisset benadad verbum istud, bibebat ipse et reges in umbraculis: et ait servis suis: circumdate civitatem. 	2020-04-18	Liber_Tertius_Regum
+1100000686	et circumdederunt eam.	2020-04-18	Liber_Tertius_Regum
+1100000687	et ecce propheta unus accedens ad achab regem israel, ait ei: haec dicit dominus: certe vidisti omnem multitudinem hanc nimiam? 	2020-04-18	Liber_Tertius_Regum
+1100000688	ecce ego tradam eam in manu tua hodie, ut scias quia ego sum dominus.	2020-04-18	Liber_Tertius_Regum
+1100000689	et ait achab: per quem? 	2020-04-18	Liber_Tertius_Regum
+1100000690	dixitque ei: haec dicit dominus: per pedissequos principum provinciarum. 	2020-04-18	Liber_Tertius_Regum
+1100000691	et ait: quis incipiet praeliari? 	2020-04-18	Liber_Tertius_Regum
+1100000692	et ille dixit: tu.	2020-04-18	Liber_Tertius_Regum
+1100000693	recensuit ergo pueros principum provinciarum, et reperit numerum ducentorum triginta duorum: et recensuit post eos populum, omnes filios israel, septem millia.	2020-04-18	Liber_Tertius_Regum
+1100000694	et egressi sunt meridie. 	2020-04-18	Liber_Tertius_Regum
+1100000695	benadad autem bibebat temulentus in umbraculo suo, et reges triginta duo cum eo, qui ad auxilium eius venerant.	2020-04-18	Liber_Tertius_Regum
+1100000696	egressi sunt autem pueri principum provinciarum in prima fronte. 	2020-04-18	Liber_Tertius_Regum
+1100000697	misit itaque benadad: qui nuntiaverunt ei, dicentes: viri egressi sunt de samaria.	2020-04-18	Liber_Tertius_Regum
+1100000698	et ille ait: sive pro pace veniunt, apprehendite eos vivos: sive ut praelientur, vivos eos capite.	2020-04-18	Liber_Tertius_Regum
+1100000699	egressi sunt ergo pueri principum provinciarum, ac reliquus exercitus sequebatur:et percussit unusquisque virum qui contra se veniebat: fugeruntque syri, et persecutus est eos israel. 	2020-04-18	Liber_Tertius_Regum
+1100000700	fugit quoque benadad rex syriae in equo cum equitibus suis.	2020-04-18	Liber_Tertius_Regum
+1100000701	necnon egressus rex israel percussit equos et currus, et percussit syriam plaga magna.	2020-04-18	Liber_Tertius_Regum
+1100000702	accedens autem propheta ad regem israel, dixit ei: vade, et confortare, et scito, et vide quid facias: sequenti enim anno rex syriae ascendet contra te.	2020-04-18	Liber_Tertius_Regum
+1100000703	servi vero regis syriae dixerunt ei: dii montium sunt dii eorum, ideo superaverunt nos: sed melius est ut pugnemus contra eos in campestribus, et obtinebimus eos.	2020-04-18	Liber_Tertius_Regum
+1100000704	tu ergo verbum hoc fac: amove reges singulos ab exercitu tuo, et pone principes pro eis:et instaura numerum militum qui ceciderunt de tuis, et equos secundum equos pristinos, et currus secundum currus quos ante habuisti: et pugnabimus contra eos in campestribus, et videbis quod obtinebimus eos. 	2020-04-18	Liber_Tertius_Regum
+1100000705	credidit consilio eorum, et fecit ita.	2020-04-18	Liber_Tertius_Regum
+1100000706	igitur postquam annus transierat, recensuit benadad syros, et ascendit in aphec ut pugnaret contra israel.	2020-04-18	Liber_Tertius_Regum
+1100000707	porro filii israel recensiti sunt, et acceptis cibariis profecti ex adverso, castraque metati sunt contra eos, quasi duo parvi greges caprarum: syri autem repleverunt terram.(	2020-04-18	Liber_Tertius_Regum
+1100000708	et accedens unus vir dei, dixit ad regem israel: haec dicit dominus: quia dixerunt syri: deus montium est dominus, et non est deus vallium: dabo omnem multitudinem hanc grandem in manu tua, et scietis quia ego sum dominus.)	2020-04-18	Liber_Tertius_Regum
+1100000709	dirigebantque septem diebus ex adverso hi atque illi acies, septima autem die commissum est bellum: percusseruntque filii israel de syris centum millia peditum in die una.	2020-04-18	Liber_Tertius_Regum
+1100000710	fugerunt autem qui remanserant in aphec, in civitatem: et cecidit murus super viginti septem millia hominum qui remanserant. 	2020-04-18	Liber_Tertius_Regum
+1100000711	porro benadad fugiens ingressus est civitatem, in cubiculum quod erat intra cubiculum.	2020-04-18	Liber_Tertius_Regum
+1100000712	dixeruntque ei servi sui: ecce, audivimus quod reges domus israel clementes sint: ponamus itaque saccos in lumbis nostris, et funiculos in capitibus nostris, et egrediamur ad regem israel: forsitan salvabit animas nostras.	2020-04-18	Liber_Tertius_Regum
+1100000713	accinxerunt saccis lumbos suos, et posuerunt funiculos in capitibus suis, veneruntque ad regem israel, et dixerunt ei: servus tuus benadad dicit: vivat, oro te, anima mea. 	2020-04-18	Liber_Tertius_Regum
+1100000714	et ille ait: si adhuc vivit, frater meus est.	2020-04-18	Liber_Tertius_Regum
+1100000715	quod acceperunt viri pro omine: et festinantes rapuerunt verbum ex ore eius, atque dixerunt: frater tuus benadad. 	2020-04-18	Liber_Tertius_Regum
+1100000716	et dixit eis: ite, et adducite eum ad me. 	2020-04-18	Liber_Tertius_Regum
+1100000717	egressus est ergo ad eum benadad, et levavit eum in currum suum.	2020-04-18	Liber_Tertius_Regum
+1100000718	qui dixit ei: civitates quas tulit pater meus a patre tuo, reddam: et plateas fac tibi in damasco, sicut fecit pater meus in samaria, et ego foederatus recedam a te. 	2020-04-18	Liber_Tertius_Regum
+1100000719	pepigit ergo foedus, et dimisit eum.	2020-04-18	Liber_Tertius_Regum
+1100000720	tunc vir quidam de filiis prophetarum dixit ad socium suum in sermone domini: percute me. 	2020-04-18	Liber_Tertius_Regum
+1100000721	at ille noluit percutere.	2020-04-18	Liber_Tertius_Regum
+1100000722	cui ait: quia noluisti audire vocem domini, ecce recedes a me, et percutiet te leo. 	2020-04-18	Liber_Tertius_Regum
+1100000723	cumque paululum recessisset ab eo, invenit eum leo, atque percussit.	2020-04-18	Liber_Tertius_Regum
+1100000724	sed et alterum inveniens virum, dixit ad eum: percute me. 	2020-04-18	Liber_Tertius_Regum
+1100000725	qui percussit eum, et vulneravit.	2020-04-18	Liber_Tertius_Regum
+1100000726	abiit ergo propheta, et occurrit regi in via, et mutavit aspersione pulveris os et oculos suos.	2020-04-18	Liber_Tertius_Regum
+1100000727	cumque rex transisset, clamavit ad regem, et ait: servus tuus egressus est ad praeliandum cominus: cumque fugisset vir unus, adduxit eum quidam ad me, et ait: custodi virum istum: qui si lapsus fuerit, erit anima tua pro anima eius, aut talentum argenti appendes.	2020-04-18	Liber_Tertius_Regum
+1100000728	dum autem ego turbatus huc illucque me verterem, subito non comparuit. 	2020-04-18	Liber_Tertius_Regum
+1100000729	et ait rex israel ad eum: hoc est iudicium tuum, quod ipse decrevisti.	2020-04-18	Liber_Tertius_Regum
+1100000730	at ille statim abstersit pulverem de facie sua, et cognovit eum rex israel, quod esset de prophetis.	2020-04-18	Liber_Tertius_Regum
+1100000731	qui ait ad eum: haec dicit dominus: quia dimisisti virum dignum morte de manu tua, erit anima tua pro anima eius, et populus tuus pro populo eius.	2020-04-18	Liber_Tertius_Regum
+1100000732	reversus est igitur rex israel in domum suam, audire contemnens, et furibundus venit in samariam.	2020-04-18	Liber_Tertius_Regum
+1100000733	caput 21	2020-04-18	Liber_Tertius_Regum
+1100000734	post verba autem haec, tempore illo vinea erat naboth iezrahelitae, quae erat in iezrahel, iuxta palatium achab regis samariae.	2020-04-18	Liber_Tertius_Regum
+1100000735	locutus est ergo achab ad naboth, dicens: da mihi vineam tuam, ut faciam mihi hortum olerum, quia vicina est, et prope domum meam: daboque tibi pro ea vineam meliorem, aut si commodius tibi putas, argenti pretium, quanto digna est.	2020-04-18	Liber_Tertius_Regum
+1100000736	cui respondit naboth: propitius sit mihi dominus, ne dem haereditatem patrum meorum tibi.	2020-04-18	Liber_Tertius_Regum
+1100000737	venit ergo achab in domum suam indignans, et frendens super verbo quod locutus fuerat ad eum naboth iezrahelites, dicens: non dabo tibi haereditatem patrum meorum. 	2020-04-18	Liber_Tertius_Regum
+1100000738	et proiiciens se in lectulum suum, avertit faciem suam ad parietem, et non comedit panem.	2020-04-18	Liber_Tertius_Regum
+1100000739	ingressa est autem ad eum iezabel uxor sua, dixitque ei: quid est hoc, unde anima tua contristata est? 	2020-04-18	Liber_Tertius_Regum
+1100000740	et quare non comedis panem?	2020-04-18	Liber_Tertius_Regum
+1100000741	qui respondit ei: locutus sum naboth iezrahelitae, et dixi ei: da mihi vineam tuam, accepta pecunia: aut, si tibi placet, dabo tibi vineam meliorem pro ea. 	2020-04-18	Liber_Tertius_Regum
+1100000742	et ille ait: non dabo tibi vineam meam.	2020-04-18	Liber_Tertius_Regum
+1100000743	dixit ergo ad eum iezabel uxor eius: grandis auctoritatis es, et bene regis regnum israel. 	2020-04-18	Liber_Tertius_Regum
+1100000744	surge, et comede panem, et aequo animo esto: ego dabo tibi vineam naboth iezrahelitae.	2020-04-18	Liber_Tertius_Regum
+1100000745	scripsit itaque litteras ex nomine achab, et signavit eas annulo eius, et misit ad maiores natu, et optimates, qui erant in civitate eius, et habitabant cum naboth.	2020-04-18	Liber_Tertius_Regum
+1100000746	litterarum autem haec erat sententia: praedicate ieiunium, et sedere facite naboth inter primos populi:et submittite duos viros filios belial contra eum, et falsum testimonium dicant: benedixit deum et regem: et educite eum, et lapidate, sicque moriatur.	2020-04-18	Liber_Tertius_Regum
+1100000747	fecerunt ergo cives eius maiores natu et optimates, qui habitabant cum eo in urbe, sicut praeceperat eis iezabel, et sicut scriptum erat in litteris quas miserat ad eos:praedicaverunt ieiunium, et sedere fecerunt naboth inter primos populi.	2020-04-18	Liber_Tertius_Regum
+1100000748	et adductis duobus viris filiis diaboli, fecerunt eos sedere contra eum: at illi, scilicet ut viri diabolici, dixerunt contra eum testimonium coram multitudine: benedixit naboth deum et regem: quam ob rem eduxerunt eum extra civitatem, et lapidibus interfecerunt.	2020-04-18	Liber_Tertius_Regum
+1100000749	miseruntque ad iezabel, dicentes: lapidatus est naboth, et mortuus est.	2020-04-18	Liber_Tertius_Regum
+1100000750	factum est autem, cum audisset iezabel lapidatum naboth et mortuum, locuta est ad achab: surge, et posside vineam naboth iezrahelitae, qui noluit tibi acquiescere, et dare eam accepta pecunia: non enim vivit naboth, sed mortuus est.	2020-04-18	Liber_Tertius_Regum
+1100000751	quod cum audisset achab, mortuum videlicet naboth, surrexit, et descendebat in vineam naboth iezrahelitae, ut possideret eam.	2020-04-18	Liber_Tertius_Regum
+1100000752	factum est igitur sermo domini ad eliam thesbiten, dicens:surge, et descende in occursum achab regis israel, qui est in samaria: ecce ad vineam naboth descendit, ut possideat eam.	2020-04-18	Liber_Tertius_Regum
+1100000753	et loqueris ad eum, dicens: haec dicit dominus: occidisti, insuper et possedisti. 	2020-04-18	Liber_Tertius_Regum
+1100000754	et post haec addes: haec dicit dominus: in loco hoc, in quo linxerunt canes sanguinem naboth, lambent quoque sanguinem tuum.	2020-04-18	Liber_Tertius_Regum
+1100000755	et ait achab ad eliam: num invenisti me inimicum tibi? 	2020-04-18	Liber_Tertius_Regum
+1100000756	qui dixit: inveni, eo quod venundatus sis, ut faceres malum in conspectu domini.	2020-04-18	Liber_Tertius_Regum
+1100000757	ecce ego inducam super te malum, et demetam posteriora tua, et interficiam de achab mingentem ad parietem, et clausum et ultimum in israel.	2020-04-18	Liber_Tertius_Regum
+1100000758	et dabo domum tuam sicut domum ieroboam filii nabat, et sicut domum baasa filii ahia: quia egisti ut me ad iracundiam provocares, et peccare fecisti israel.	2020-04-18	Liber_Tertius_Regum
+1100000759	sed et de iezabel locutus est dominus, dicens: canes comedent iezabel in agro iezrahel.	2020-04-18	Liber_Tertius_Regum
+1100000760	si mortuus fuerit achab in civitate, comedent eum canes: si autem mortuus fuerit in agro, comedent eum volucres caeli.	2020-04-18	Liber_Tertius_Regum
+1100000761	igitur non fuit alter talis sicut achab, qui venundatus est ut faceret malum in conspectu domini: concitavit enim eum iezabel uxor sua,et abominabilis factus est, in tantum ut sequeretur idola quae fecerant amorrhaei, quos consumpsit dominus a facie filiorum israel.	2020-04-18	Liber_Tertius_Regum
+1100000762	itaque cum audisset achab sermones istos, scidit vestimenta sua, et operuit cilicio carnem suam, ieiunavitque et dormivit in sacco, et ambulavit demisso capite.	2020-04-18	Liber_Tertius_Regum
+1100000763	et factus est sermo domini ad eliam thesbiten, dicens:nonne vidisti humiliatum achab coram me? 	2020-04-18	Liber_Tertius_Regum
+1100000764	quia igitur humiliatus est mei causa, non inducam malum in diebus eius, sed in diebus filii sui inferam malum domui eius.	2020-04-18	Liber_Tertius_Regum
+1100000765	caput 22	2020-04-18	Liber_Tertius_Regum
+1100000766	transierunt igitur tres anni absque bello inter syriam et israel.	2020-04-18	Liber_Tertius_Regum
+1100000767	in anno autem tertio, descendit iosaphat rex iuda ad regem israel.(	2020-04-18	Liber_Tertius_Regum
+1100000768	dixitque rex israel ad servos suos: ignoratis quod nostra sit ramoth galaad, et negligimus tollere eam de manu regis syriae?)	2020-04-18	Liber_Tertius_Regum
+1100000769	et ait ad iosaphat: veniesne mecum ad praeliandum in ramoth galaad?	2020-04-18	Liber_Tertius_Regum
+1100000770	dixitque iosaphat ad regem israel: sicut ego sum, ita et tu: populus meus et populus tuus unum sunt: et equites mei, equites tui. 	2020-04-18	Liber_Tertius_Regum
+1100000771	dixitque iosaphat ad regem israel: quaere, oro te, hodie sermonem domini.	2020-04-18	Liber_Tertius_Regum
+1100000772	congregavit ergo rex israel prophetas, quadringentos circiter viros, et ait ad eos: ire debeo in ramoth galaad ad bellandum, an quiescere? 	2020-04-18	Liber_Tertius_Regum
+1100000773	qui responderunt: ascende, et dabit eam dominus in manu regis.	2020-04-18	Liber_Tertius_Regum
+1100000774	dixit autem iosaphat: non est hic propheta domini quispiam, ut interrogemus per eum?	2020-04-18	Liber_Tertius_Regum
+1100000775	et ait rex israel ad iosaphat: remansit vir unus per quem possumus interrogare dominum: sed ego odi eum, quia non prophetat mihi bonum, sed malum: michaeas filius iemla. 	2020-04-18	Liber_Tertius_Regum
+1100000776	cui iosaphat ait: ne loquaris ita, rex.	2020-04-18	Liber_Tertius_Regum
+1100000777	vocavit ergo rex israel eunuchum quemdam, et dixit ei: festina adducere michaeam filium iemla.	2020-04-18	Liber_Tertius_Regum
+1100000778	rex autem israel, et iosaphat rex iuda, sedebant unusquisque in solio suo, vestiti cultu regio, in area iuxta ostium portae samariae: et universi prophetae prophetabant in conspectu eorum.	2020-04-18	Liber_Tertius_Regum
+1100000779	fecit quoque sibi sedecias filius chanaana cornua ferrea, et ait: haec dicit dominus: his ventilabis syriam, donec deleas eam.	2020-04-18	Liber_Tertius_Regum
+1100000780	omnesque prophetae similiter prophetabant, dicentes: ascende in ramoth galaad, et vade prospere, et tradet dominus in manus regis.	2020-04-18	Liber_Tertius_Regum
+1100000781	nuntius vero qui ierat ut vocaret michaeam, locutus est ad eum, dicens: ecce sermones prophetarum ore uno regi bona praedicant: sit ergo sermo tuus similis eorum, et loquere bona.	2020-04-18	Liber_Tertius_Regum
+1100000782	cui michaeas ait: vivit dominus, quia quodcumque dixerit mihi dominus, hoc loquar.	2020-04-18	Liber_Tertius_Regum
+1100000783	venit itaque ad regem, et ait illi rex: michaea, ire debemus in ramoth galaad ad praeliandum, an cessare? 	2020-04-18	Liber_Tertius_Regum
+1100000784	cui ille respondit: ascende, et vade prospere, et tradet eam dominus in manus regis.	2020-04-18	Liber_Tertius_Regum
+1100000785	dixit autem rex ad eum: iterum atque iterum adiuro te, ut non loquaris mihi nisi quod verum est, in nomine domini.	2020-04-18	Liber_Tertius_Regum
+1100000786	et ille ait: vidi cunctum israel dispersum in montibus, quasi oves non habentes pastorem. 	2020-04-18	Liber_Tertius_Regum
+1100000787	et ait dominus: non habent isti dominum: revertatur unusquisque in domum suam in pace.(	2020-04-18	Liber_Tertius_Regum
+1100000788	dixit ergo rex israel ad iosaphat: numquid non dixi tibi, quia non prophetat mihi bonum, sed semper malum?)	2020-04-18	Liber_Tertius_Regum
+1100000789	ille vero addens, ait: propterea audi sermonem domini: vidi dominum sedentem super solium suum, et omnem exercitum caeli assistentem ei a dextris et a sinistris:et ait dominus: quis decipiet achab regem israel, ut ascendat, et cadat in ramoth galaad? 	2020-04-18	Liber_Tertius_Regum
+1100000790	et dixit unus verba huiuscemodi, et alius aliter.	2020-04-18	Liber_Tertius_Regum
+1100000791	egressus est autem spiritus, et stetit coram domino, et ait: ego decipiam illum. 	2020-04-18	Liber_Tertius_Regum
+1100000792	cui locutus est dominus: in quo?	2020-04-18	Liber_Tertius_Regum
+1100000793	et ille ait: egrediar, et ero spiritus mendax in ore omnium prophetarum eius. 	2020-04-18	Liber_Tertius_Regum
+1100000794	et dixit dominus: decipies, et praevalebis: egredere, et fac ita.	2020-04-18	Liber_Tertius_Regum
+1100000795	nunc igitur ecce dedit dominus spiritum mendacii in ore omnium prophetarum tuorum, qui hic sunt, et dominus locutus est contra te malum.	2020-04-18	Liber_Tertius_Regum
+1100000796	accessit autem sedecias filius chanaana, et percussit michaeam in maxillam, et dixit: mene ergo dimisit spiritus domini, et locutus est tibi?	2020-04-18	Liber_Tertius_Regum
+1100000797	et ait michaeas: visurus es in die illa quando ingredieris cubiculum intra cubiculum ut abscondaris.	2020-04-18	Liber_Tertius_Regum
+1100000798	et ait rex israel: tollite michaeam, et maneat apud amon principem civitatis, et apud ioas filium amelech,et dicite eis: haec dicit rex: mittite virum istum in carcerem, et sustentate eum pane tribulationis, et aqua angustiae, donec revertar in pace.	2020-04-18	Liber_Tertius_Regum
+1100000799	dixitque michaeas: si reversus fueris in pace, non est locutus in me dominus. 	2020-04-18	Liber_Tertius_Regum
+1100000800	et ait: audite, populi omnes.	2020-04-18	Liber_Tertius_Regum
+1100000801	ascendit itaque rex israel, et iosaphat rex iuda, in ramoth galaad.	2020-04-18	Liber_Tertius_Regum
+1100000802	dixit itaque rex israel ad iosaphat: sume arma, et ingredere praelium, et induere vestibus tuis. 	2020-04-18	Liber_Tertius_Regum
+1100000803	porro rex israel mutavit habitum suum, et ingressus est bellum.	2020-04-18	Liber_Tertius_Regum
+1100000804	rex autem syriae praeceperat principibus curruum triginta duobus, dicens: non pugnabitis contra minorem et maiorem quempiam, nisi contra regem israel solum.	2020-04-18	Liber_Tertius_Regum
+1100000805	cum ergo vidissent principes curruum iosaphat, suspicati sunt quod ipse esset rex israel, et impetu facto pugnabant contra eum: et exclamavit iosaphat.	2020-04-18	Liber_Tertius_Regum
+1100000806	intellexeruntque principes curruum quod non esset rex israel, et cessaverunt ab eo.	2020-04-18	Liber_Tertius_Regum
+1100000807	vir autem quidam tetendit arcum, in incertum sagittam dirigens, et casu percussit regem israel inter pulmonem et stomachum. 	2020-04-18	Liber_Tertius_Regum
+1100000808	at ille dixit aurigae suo: verte manum tuam, et eiice me de exercitu, quia graviter vulneratus sum.	2020-04-18	Liber_Tertius_Regum
+1100000809	commissum est ergo praelium in die illa, et rex israel stabat in curru suo contra syros, et mortuus est vespere: fluebat autem sanguis plagae in sinum currus,et praeco insonuit in universo exercitu antequam sol occumberet, dicens: unusquisque revertatur in civitatem, et in terram suam.	2020-04-18	Liber_Tertius_Regum
+1100000810	mortuus est autem rex, et perlatus est in samariam: sepelieruntque regem in samaria,et laverunt currum eius in piscina samariae: et linxerunt canes sanguinem eius, et habenas laverunt, iuxta verbum domini quod locutus fuerat.	2020-04-18	Liber_Tertius_Regum
+1100000811	reliqua autem sermonum achab, et universa quae fecit, et domus eburnea quam aedificavit, cunctarumque urbium quas exstruxit, nonne haec scripta sunt in libro sermonum dierum regum israel?	2020-04-18	Liber_Tertius_Regum
+1100000812	dormivit ergo achab cum patribus suis, et regnavit ochozias filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000813	iosaphat vero filius asa regnare coeperat super iudam anno quarto achab regis israel.	2020-04-18	Liber_Tertius_Regum
+1100000814	triginta quinque annorum erat cum regnare coepisset, et viginti quinque annis regnavit in ierusalem: nomen matris eius azuba filia salai.	2020-04-18	Liber_Tertius_Regum
+1100000815	et ambulavit in omni via asa patris sui, et non declinavit ex ea: fecitque quod rectum erat in conspectu domini.	2020-04-18	Liber_Tertius_Regum
+1100000816	verumtamen excelsa non abstulit: adhuc enim populus sacrificabat, et adolebat incensum in excelsis.	2020-04-18	Liber_Tertius_Regum
+1100000817	pacemque habuit iosaphat cum rege israel.	2020-04-18	Liber_Tertius_Regum
+1100000818	reliqua autem verborum iosaphat, et opera eius quae gessit, et praelia, nonne haec scripta sunt in libro verborum dierum regum iuda?	2020-04-18	Liber_Tertius_Regum
+1100000819	sed et reliquias effeminatorum qui remanserant in diebus asa patris eius, abstulit de terra.	2020-04-18	Liber_Tertius_Regum
+1100000820	nec erat tunc rex constitutus in edom.	2020-04-18	Liber_Tertius_Regum
+1100000821	rex vero iosaphat fecerat classes in mari, quae navigarent in ophir propter aurum: et ire non potuerunt, quia confractae sunt in asiongaber.	2020-04-18	Liber_Tertius_Regum
+1100000822	tunc ait ochozias filius achab ad iosaphat: vadant servi mei cum servis tuis in navibus. 	2020-04-18	Liber_Tertius_Regum
+1100000823	et noluit iosaphat.	2020-04-18	Liber_Tertius_Regum
+1100000824	dormivitque iosaphat cum patribus suis, et sepultus est cum eis in civitate david patris sui: regnavitque ioram filius eius pro eo.	2020-04-18	Liber_Tertius_Regum
+1100000825	ochozias autem filius achab regnare coeperat super israel in samaria, anno septimodecimo iosaphat regis iuda: regnavitque super israel duobus annis.	2020-04-18	Liber_Tertius_Regum
+1100000826	et fecit malum in conspectu domini, et ambulavit in via patris sui et matris suae, et in via ieroboam filii nabat, qui peccare fecit israel.	2020-04-18	Liber_Tertius_Regum
+1100000827	servivit quoque baal, et adoravit eum, et irritavit dominum deum israel, iuxta omnia quae fecerat pater eius.	2020-04-18	Liber_Tertius_Regum

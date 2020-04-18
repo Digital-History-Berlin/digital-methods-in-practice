@@ -1,0 +1,1145 @@
+1100000001	liber exodus	2020-04-18	Liber_Exodus
+1100000002	caput 1	2020-04-18	Liber_Exodus
+1100000003	haec sunt nomina filiorum israel qui ingressi sunt in aegyptum cum iacob: singuli cum domibus suis introierunt:ruben, simeon, levi, iudas,issachar, zabulon et beniamin,dan et nephthali, gad et aser.	2020-04-18	Liber_Exodus
+1100000004	erant igitur omnes animae eorum qui egressi sunt de femore iacob, septuaginta: ioseph autem in aegypto erat.	2020-04-18	Liber_Exodus
+1100000005	quo mortuo, et universis fratribus eius, omnique cognatione illa,filii israel creverunt, et quasi germinantes multiplicati sunt: ac roborati nimis, impleverunt terram.	2020-04-18	Liber_Exodus
+1100000006	surrexit interea rex novus super aegyptum, qui ignorabat ioseph.	2020-04-18	Liber_Exodus
+1100000007	et ait ad populum suum: ecce, populus filiorum israel multus, et fortior nobis est.	2020-04-18	Liber_Exodus
+1100000008	venite, sapienter opprimamus eum, ne forte multiplicetur: et si ingruerit contra nos bellum, addatur inimicis nostris, expugnatisque nobis egrediatur de terra.	2020-04-18	Liber_Exodus
+1100000009	praeposuit itaque eis magistros operum, ut affligerent eos oneribus: aedificaveruntque urbes tabernaculorum pharaoni, phithom et ramesses.	2020-04-18	Liber_Exodus
+1100000010	quantoque opprimebant eos, tanto magis multiplicabantur, et crescebant:oderantque filios israel aegyptii, et affligebant illudentes eis,atque ad amaritudinem perducebant vitam eorum operibus duris luti et lateris, omnique famulatu, quo in terrae operibus premebantur.	2020-04-18	Liber_Exodus
+1100000011	dixit autem rex aegypti obstetricibus hebraeorum, quarum una vocabatur sephora, altera phua,praecipiens eis: quando obstetricabitis hebraeas, et partus tempus advenerit: si masculus fuerit, interficite eum: si femina, reservate.	2020-04-18	Liber_Exodus
+1100000012	timuerunt autem obstetrices deum, et non fecerunt iuxta praeceptum regis aegypti, sed conservabant mares.	2020-04-18	Liber_Exodus
+1100000013	quibus ad se accersitis, rex ait: quidnam est hoc quod facere voluistis, ut pueros servaretis?	2020-04-18	Liber_Exodus
+1100000014	quae responderunt: non sunt hebreae sicut aegyptiae mulieres: ipsae enim obstetricandi habent scientiam, et priusquam veniamus ad eas, pariunt.	2020-04-18	Liber_Exodus
+1100000015	bene ergo fecit deus obstetricibus: et crevit populus, confortatusque est nimis.	2020-04-18	Liber_Exodus
+1100000016	et quia timuerunt obstetrices deum, aedificavit eis domos.	2020-04-18	Liber_Exodus
+1100000017	praecepit ergo pharao omni populo suo, dicens: quidquid masculini sexus natum fuerit, in flumen proiicite: quidquid feminini, reservate.	2020-04-18	Liber_Exodus
+1100000018	caput 2	2020-04-18	Liber_Exodus
+1100000019	egressus est post haec vir de domo levi: et accepit uxorem stirpis suae.	2020-04-18	Liber_Exodus
+1100000020	quae concepit, et peperit filium: et videns eum elegantem, abscondit tribus mensibus.	2020-04-18	Liber_Exodus
+1100000021	cumque iam celare non posset, sumpsit fiscellam scirpeam, et linivit eam bitumine ac pice: posuitque intus infantulum, et exposuit eum in carecto ripae fluminis,stante procul sorore eius, et considerante eventum rei.	2020-04-18	Liber_Exodus
+1100000022	ecce autem descendebat filia pharaonis ut lavaretur in flumine: et puellae eius gradiebantur per crepidinem alvei. 	2020-04-18	Liber_Exodus
+1100000023	quae cum vidisset fiscellam in papyrione, misit unam e famulabus suis: et allatamaperiens, cernensque in ea parvulum vagientem, miserta eius, ait: de infantibus hebraeorum est hic.	2020-04-18	Liber_Exodus
+1100000024	cui soror pueri: vis, inquit, ut vadam, et vocem tibi mulierem hebraeam, quae nutrire possit infantulum?	2020-04-18	Liber_Exodus
+1100000025	respondit: vade. 	2020-04-18	Liber_Exodus
+1100000026	perrexit puella et vocavit matrem suam.	2020-04-18	Liber_Exodus
+1100000027	ad quam locuta filia pharaonis: accipe, ait, puerum istum, et nutri mihi: ego dabo tibi mercedem tuam. 	2020-04-18	Liber_Exodus
+1100000028	suscepit mulier, et nutrivit puerum: adultumque tradidit filiae pharaonis.	2020-04-18	Liber_Exodus
+1100000029	quem illa adoptavit in locum filii, vocavitque nomen eius moyses, dicens: quia de aqua tuli eum.	2020-04-18	Liber_Exodus
+1100000030	in diebus illis postquam creverat moyses, egressus est ad fratres suos: viditque afflictionem eorum, et virum aegyptium percutientem quemdam de hebraeis fratribus suis.	2020-04-18	Liber_Exodus
+1100000031	cumque circumspexisset huc atque illuc, et nullum adesse vidisset, percussum aegyptium abscondit sabulo.	2020-04-18	Liber_Exodus
+1100000032	et egressus die altero conspexit duos hebraeos rixantes: dixitque ei qui faciebat iniuriam: quare percutis proximum tuum?	2020-04-18	Liber_Exodus
+1100000033	qui respondit: quis te constituit principem et iudicem super nos? 	2020-04-18	Liber_Exodus
+1100000034	num occidere me tu vis, sicut heri occidisti aegyptium? 	2020-04-18	Liber_Exodus
+1100000035	timuit moyses, et ait: quomodo palam factum est verbum istud?	2020-04-18	Liber_Exodus
+1100000036	audivitque pharao sermonem hunc, et quaerebat occidere moysen: qui fugiens de conspectu eius, moratus est in terra madian, et sedit iuxta puteum.	2020-04-18	Liber_Exodus
+1100000037	erant autem sacerdoti madian septem filiae, quae venerunt ad hauriendam aquam: et impletis canalibus adaquare cupiebant greges patris sui.	2020-04-18	Liber_Exodus
+1100000038	supervenere pastores, et eiecerunt eas: surrexitque moyses, et defensis puellis, adaquavit oves earum.	2020-04-18	Liber_Exodus
+1100000039	quae cum revertissent ad raguel patrem suum, dixit ad eas: cur velocius venistis solito?	2020-04-18	Liber_Exodus
+1100000040	responderunt: vir aegyptius liberavit nos de manu pastorum: insuper et hausit aquam nobiscum, potumque dedit ovibus.	2020-04-18	Liber_Exodus
+1100000041	at ille: ubi est? 	2020-04-18	Liber_Exodus
+1100000042	inquit: quare dimisistis hominem? 	2020-04-18	Liber_Exodus
+1100000043	vocate eum ut comedat panem.	2020-04-18	Liber_Exodus
+1100000044	iuravit ergo moyses quod habitaret cum eo. 	2020-04-18	Liber_Exodus
+1100000045	accepitque sephoram filiam eius uxorem:quae peperit ei filium, quem vocavit gersam, dicens: advena fui in terra aliena. 	2020-04-18	Liber_Exodus
+1100000046	alterum vero peperit, quem vocavit eliezer, dicens: deus enim patris mei adiutor meus eripuit me de manu pharaonis.	2020-04-18	Liber_Exodus
+1100000047	post multum vero tempore mortuus est rex aegypti: et ingemiscentes filii israel, propter opera vociferati sunt: ascenditque clamor eorum ad deum ab operibus.	2020-04-18	Liber_Exodus
+1100000048	et audivit gemitum eorum, ac recordatus est foederis quod pepigit cum abraham, isaac et iacob.	2020-04-18	Liber_Exodus
+1100000049	et respexit dominus filios israel et cognovit eos.	2020-04-18	Liber_Exodus
+1100000050	caput 3	2020-04-18	Liber_Exodus
+1100000051	moyses autem pascebat oves iethro soceri sui sacerdotis madian: cumque minasset gregem ad interiora deserti, venit ad montem dei horeb.	2020-04-18	Liber_Exodus
+1100000052	apparuitque ei dominus in flamma ignis de medio rubi: et videbat quod rubus arderet, et non combureretur.	2020-04-18	Liber_Exodus
+1100000053	dixit ergo moyses: vadam, et videbo visionem hanc magnam, quare non comburatur rubus.	2020-04-18	Liber_Exodus
+1100000054	cernens autem dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: moyses, moyses. 	2020-04-18	Liber_Exodus
+1100000055	qui respondit: adsum.	2020-04-18	Liber_Exodus
+1100000056	at ille: ne appropies, inquit, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est.	2020-04-18	Liber_Exodus
+1100000057	et ait: ego sum deus patris tui, deus abraham, deus isaac et deus iacob. 	2020-04-18	Liber_Exodus
+1100000058	abscondit moyses faciem suam: non enim audebat aspicere contra deum.	2020-04-18	Liber_Exodus
+1100000059	cui ait dominus: vidi afflictionem populi mei in aegypto, et clamorem eius audivi propter duritiam eorum qui praesunt operibus:et sciens dolorem eius, descendi ut liberem eum de manibus aegyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quae fluit lacte et melle, ad loca chananaei et hethaei, et amorrhaei, et pherezaei, et hevaei, et iebusaei.	2020-04-18	Liber_Exodus
+1100000060	clamor ergo filiorum israel venit ad me: vidique afflictionem eorum, qua ab aegyptiis opprimuntur.	2020-04-18	Liber_Exodus
+1100000061	sed veni, et mittam te ad pharaonem, ut educas populum meum, filios israel, de aegypto.	2020-04-18	Liber_Exodus
+1100000062	dixitque moyses ad deum: quis sum ego ut vadam ad pharaonem, et educam filios israel de aegypto?	2020-04-18	Liber_Exodus
+1100000063	qui dixit ei: ego ero tecum: et hoc habebis signum, quod miserim te: cum eduxeris populum meum de aegypto, immolabis deo super montem istum.	2020-04-18	Liber_Exodus
+1100000064	ait moyses ad deum: ecce ego vadam ad filios israel, et dicam eis: deus patrum vestrorum misit me ad vos. 	2020-04-18	Liber_Exodus
+1100000065	si dixerint mihi: quod est nomen eius? 	2020-04-18	Liber_Exodus
+1100000066	quid dicam eis?	2020-04-18	Liber_Exodus
+1100000067	dixit deus ad moysen: ego sum qui sum. 	2020-04-18	Liber_Exodus
+1100000068	ait: sic dices filiis israel: qui est, misit me ad vos.	2020-04-18	Liber_Exodus
+1100000069	dixitque iterum deus ad moysen: haec dices filiis israel: dominus deus patrum vestrorum, deus abraham, deus isaac et deus iacob, misit me ad vos: hoc nomen mihi est in aeternum, et hoc memoriale meum in generationem et generationem.	2020-04-18	Liber_Exodus
+1100000070	vade, et congrega seniores israel, et dices ad eos: dominus deus patrum vestrorum apparuit mihi, deus abraham, deus isaac et deus iacob, dicens: visitans visitavi vos: et vidi omnia quae acciderunt vobis in aegypto.	2020-04-18	Liber_Exodus
+1100000071	et dixi ut educam vos de afflictione aegypti in terram chananaei, et hethaei, et amorrhaei, et pherezaei, et hevaei, et iebusaei, ad terram fluentem lacte et melle.	2020-04-18	Liber_Exodus
+1100000072	et audient vocem tuam: ingredierisque tu, et seniores israel, ad regem aegypti, et dices ad eum: dominus deus hebraeorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus domino deo nostro.	2020-04-18	Liber_Exodus
+1100000073	sed ego scio quod non dimittet vos rex aegypti ut eatis nisi per manum validam.	2020-04-18	Liber_Exodus
+1100000074	extendam enim manum meam, et percutiam aegyptum in cunctis mirabilibus meis, quae facturus sum in medio eorum: post haec dimittet vos.	2020-04-18	Liber_Exodus
+1100000075	daboque gratiam populo huic coram aegyptiis: et cum egrediemini, non exibitis vacui:sed postulabit mulier a vicina sua et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis aegyptum.	2020-04-18	Liber_Exodus
+1100000076	caput 4	2020-04-18	Liber_Exodus
+1100000077	respondens moyses ait: non credent mihi, neque audient vocem meam, sed dicent: non apparuit tibi dominus.	2020-04-18	Liber_Exodus
+1100000078	dixit ergo ad eum: quid est quod tenes in manu tua? 	2020-04-18	Liber_Exodus
+1100000079	respondit: virga.	2020-04-18	Liber_Exodus
+1100000080	dixitque dominus: proiice eam in terram. 	2020-04-18	Liber_Exodus
+1100000081	proiecit, et versa est in colubrum, ita ut fugeret moyses.	2020-04-18	Liber_Exodus
+1100000082	dixitque dominus: extende manum tuam, et apprehende caudam eius. 	2020-04-18	Liber_Exodus
+1100000083	extendit, et tenuit, versaque est in virgam.	2020-04-18	Liber_Exodus
+1100000084	ut credant, inquit, quod apparuerit tibi dominus deus patrum suorum, deus abraham, deus isaac et deus iacob.	2020-04-18	Liber_Exodus
+1100000085	dixitque dominus rursum: mitte manum tuam in sinum tuum. 	2020-04-18	Liber_Exodus
+1100000086	quam cum misisset in sinum, protulit leprosam instar nivis.	2020-04-18	Liber_Exodus
+1100000087	retrahe, ait, manum tuam in sinum tuum. 	2020-04-18	Liber_Exodus
+1100000088	retraxit, et protulit iterum, et erat similis carni reliquae.	2020-04-18	Liber_Exodus
+1100000089	si non crediderint, inquit, tibi, neque audierint sermonem signi prioris, credent verbo signi sequentis.	2020-04-18	Liber_Exodus
+1100000090	quod si nec duobus quidem his signis crediderint, neque audierint vocem tuam: sume aquam fluminis, et effunde eam super aridam, et quidquid hauseris de fluvio, vertetur in sanguinem.	2020-04-18	Liber_Exodus
+1100000091	ait moyses: obsecro, domine, non sum eloquens ab heri et nudiustertius: et ex quo locutus es ad servum tuum, impeditioris et tardioris linguae sum.	2020-04-18	Liber_Exodus
+1100000092	dixit dominus ad eum: quis fecit os hominis? 	2020-04-18	Liber_Exodus
+1100000093	aut quis fabricatus est mutum et surdum, videntem et caecum? 	2020-04-18	Liber_Exodus
+1100000094	nonne ego?	2020-04-18	Liber_Exodus
+1100000095	perge, igitur, et ego ero in ore tuo: doceboque te quid loquaris.	2020-04-18	Liber_Exodus
+1100000096	at ille: obsecro, inquit, domine, mitte quem missurus es.	2020-04-18	Liber_Exodus
+1100000097	iratus dominus in moysen, ait: aaron frater tuus levites, scio quod eloquens sit: ecce ipse egreditur in occursum tuum, vidensque te laetabitur corde.	2020-04-18	Liber_Exodus
+1100000098	loquere ad eum, et pone verba mea in ore eius: et ego ero in ore tuo, et in ore illius, et ostendam vobis quid agere debeatis.	2020-04-18	Liber_Exodus
+1100000099	ipse loquetur pro te ad populum, et erit os tuum: tu autem eris ei in his quae ad deum pertinent.	2020-04-18	Liber_Exodus
+1100000100	virgam quoque hanc sume in manu tua, in qua facturus es signa.	2020-04-18	Liber_Exodus
+1100000101	abiit moyses, et reversus est ad iethro socerum suum, dixitque ei: vadam et revertar ad fratres meos in aegyptum, ut videam si adhuc vivant. 	2020-04-18	Liber_Exodus
+1100000102	cui ait iethro: vade in pace.	2020-04-18	Liber_Exodus
+1100000103	dixit ergo dominus ad moysen in madian: vade, et revertere in aegyptum, mortui sunt enim omnes qui quaerebant animam tuam.	2020-04-18	Liber_Exodus
+1100000104	tulit ergo moyses uxorem suam, et filios suos, et imposuit eos super asinum: reversusque est in aegyptum, portans virgam dei in manu sua.	2020-04-18	Liber_Exodus
+1100000105	dixitque ei dominus revertenti in aegyptum: vide ut omnia ostenta quae posui in manu tua, facias coram pharaone: ego indurabo cor eius, et non dimittet populum.	2020-04-18	Liber_Exodus
+1100000106	dicesque ad eum: haec dicit dominus: filius meus primogenitus israel.	2020-04-18	Liber_Exodus
+1100000107	dixi tibi: dimitte filium meum ut serviat mihi; et noluisti dimittere eum: ecce ego interficiam filium tuum primogenitum.	2020-04-18	Liber_Exodus
+1100000108	cumque esset in itinere, in diversorio occurrit ei dominus, et volebat occidere eum.	2020-04-18	Liber_Exodus
+1100000109	tulit idcirco sephora acutissimam petram, et circumcidit praeputium filii sui, tetigitque pedes eius, et ait: sponsus sanguinum tu mihi es.	2020-04-18	Liber_Exodus
+1100000110	et dimisit eum postquam dixerat: sponsus sanguinum ob circumcisionem.	2020-04-18	Liber_Exodus
+1100000111	dixit autem dominus ad aaron: vade in occursum moysi in desertum. 	2020-04-18	Liber_Exodus
+1100000112	qui perrexit obviam ei in montem dei, et osculatus est eum.	2020-04-18	Liber_Exodus
+1100000113	narravitque moyses aaron omnia verba domini quibus miserat eum, et signa quae mandaverat.	2020-04-18	Liber_Exodus
+1100000114	veneruntque simul, et congregaverunt cunctos seniores filiorum israel.	2020-04-18	Liber_Exodus
+1100000115	locutusque est aaron omnia verba quae dixerat dominus ad moysen: et fecit signa coram populo,et credidit populus. 	2020-04-18	Liber_Exodus
+1100000116	audieruntque quod visitasset dominus filios israel, et respexisset afflictionem illorum: et proni adoraverunt.	2020-04-18	Liber_Exodus
+1100000117	caput 5	2020-04-18	Liber_Exodus
+1100000118	post haec ingressi sunt moyses et aaron, et dixerunt pharaoni: haec dicit dominus deus israel: dimitte populum meum ut sacrificet mihi in deserto.	2020-04-18	Liber_Exodus
+1100000119	at ille respondit: quis est dominus, ut audiam vocem eius, et dimittam israel? 	2020-04-18	Liber_Exodus
+1100000120	nescio dominum, et israel non dimittam.	2020-04-18	Liber_Exodus
+1100000121	dixeruntque: deus hebraeorum vocavit nos, ut eamus viam trium dierum in solitudinem, et sacrificemus domino deo nostro: ne forte accidat nobis pestis aut gladius.	2020-04-18	Liber_Exodus
+1100000122	ait ad eos rex aegypti: quare moyses et aaron sollicitatis populum ab operibus suis? 	2020-04-18	Liber_Exodus
+1100000123	ite ad onera vestra.	2020-04-18	Liber_Exodus
+1100000124	dixitque pharao: multus est populus terrae: videtis quod turba succreverit: quanto magis si dederitis eis requiem ab operibus?	2020-04-18	Liber_Exodus
+1100000125	praecepit ergo in die illo praefectis operum et exactoribus populi, dicens:nequaquam ultra dabitis paleas populo ad conficiendos lateres, sicut prius: sed ipsi vadant, et colligant stipulas.	2020-04-18	Liber_Exodus
+1100000126	et mensuram laterum, quam prius faciebant, imponetis super eos, nec minuetis quidquam: vacant enim, et idcirco vociferantur, dicentes: eamus, et sacrificemus deo nostro.	2020-04-18	Liber_Exodus
+1100000127	opprimantur operibus, et expleant ea: ut non acquiescant verbis mendacibus.	2020-04-18	Liber_Exodus
+1100000128	igitur egressi praefecti operum et exactores ad populum, dixerunt: sic dicit pharao: non do vobis paleas:ite, et colligite sicubi invenire poteritis, nec minuetur quidquam de opere vestro.	2020-04-18	Liber_Exodus
+1100000129	dispersusque est populus per omnem terram aegypti ad colligendas paleas.	2020-04-18	Liber_Exodus
+1100000130	praefecti quoque operum instabant, dicentes: complete opus vestrum quotidie, ut prius facere solebatis quando dabantur vobis paleae.	2020-04-18	Liber_Exodus
+1100000131	flagellatique sunt qui praeerant operibus filiorum israel, ab exactoribus pharaonis, dicentibus: quare non impletis mensuram laterum sicut prius, nec heri, nec hodie?	2020-04-18	Liber_Exodus
+1100000132	veneruntque praepositi filiorum israel, et vociferati sunt ad pharaonem dicentes: cur ita agis contra servos tuos?	2020-04-18	Liber_Exodus
+1100000133	paleae non dantur nobis, et lateres similiter imperantur: en famuli tui flagellis caedimur, et iniuste agitur contra populum tuum.	2020-04-18	Liber_Exodus
+1100000134	qui ait: vacatis otio, et idcirco dicitis: eamus, et sacrificemus domino.	2020-04-18	Liber_Exodus
+1100000135	ite ergo, et operamini: paleae non dabuntur vobis, et reddetis consuetum numerum laterum.	2020-04-18	Liber_Exodus
+1100000136	videbantque se praepositi filiorum israel in malo, eo quod diceretur eis: non minuetur quidquam de lateribus per singulos dies.	2020-04-18	Liber_Exodus
+1100000137	occurreruntque moysi et aaron, qui stabant ex adverso, egredientibus a pharaone:et dixerunt ad eos: videat dominus et iudicet, quoniam foetere fecistis odorem nostrum coram pharaone et servis eius, et praebuistis ei gladium, ut occideret nos.	2020-04-18	Liber_Exodus
+1100000138	reversusque est moyses ad dominum, et ait: domine, cur afflixisti populum istum? 	2020-04-18	Liber_Exodus
+1100000139	quare misisti me?	2020-04-18	Liber_Exodus
+1100000140	ex eo enim quo ingressus sum ad pharaonem ut loquerer in nomine tuo, afflixit populum tuum: et non liberasti eos.	2020-04-18	Liber_Exodus
+1100000141	caput 6	2020-04-18	Liber_Exodus
+1100000142	dixitque dominus ad moysen: nunc videbis quae facturus sim pharaoni: per manum enim fortem dimittet eos, et in manu robusta eiiciet illos de terra sua.	2020-04-18	Liber_Exodus
+1100000143	locutusque est dominus ad moysen dicens: ego dominusqui apparui abraham, isaac et iacob in deo omnipotente: et nomen meum adonai non indicavi eis.	2020-04-18	Liber_Exodus
+1100000144	pepigique foedus cum eis, ut darem eis terram chanaan, terram peregrinationis eorum, in qua fuerunt advenae.	2020-04-18	Liber_Exodus
+1100000145	ego audivi gemitum filiorum israel, quo aegyptii oppresserunt eos: et recordatus sum pacti mei.	2020-04-18	Liber_Exodus
+1100000146	ideo dic filiis israel: ego dominus qui educam vos de ergastulo aegyptiorum, et eruam de servitute, ac redimam in brachio excelso et iudiciis magnis.	2020-04-18	Liber_Exodus
+1100000147	et assumam vos mihi in populum, et ero vester deus: et scietis quod ego sum dominus deus vester qui eduxerim vos de ergastulo aegyptiorum,et induxerim in terram, super quam levavi manum meam ut darem eam abraham, isaac et iacob: daboque illam vobis possidendam. 	2020-04-18	Liber_Exodus
+1100000148	ego dominus.	2020-04-18	Liber_Exodus
+1100000149	narravit ergo moyses omnia filiis israel: qui non acquieverunt ei propter angustiam spiritus, et opus durissimum.	2020-04-18	Liber_Exodus
+1100000150	locutusque est dominus ad moysen, dicens:ingredere, et loquere ad pharaonem regem aegypti, ut dimittat filios israel de terra sua.	2020-04-18	Liber_Exodus
+1100000151	respondit moyses coram domino: ecce filii israel non audiunt me: et quomodo audiet pharao, praesertim cum incircumcisus sim labiis?	2020-04-18	Liber_Exodus
+1100000152	locutusque est dominus ad moysen et aaron, et dedit mandatum ad filios israel, et ad pharaonem regem aegypti ut educerent filios israel de terra aegypti.	2020-04-18	Liber_Exodus
+1100000153	isti sunt principes domorum per familias suas. 	2020-04-18	Liber_Exodus
+1100000154	filii ruben primogeniti israelis: henoch et phallu, hesron et charmi:hae cognationes ruben. 	2020-04-18	Liber_Exodus
+1100000155	filii simeon: iamuel, et iamin, et ahod, et iachin, et soar, et saul filius chananitidis: hae progenies simeon.	2020-04-18	Liber_Exodus
+1100000156	et haec nomina filiorum levi per cognationes suas: gerson, et caath, et merari. 	2020-04-18	Liber_Exodus
+1100000157	anni autem vitae levi fuerunt centum triginta septem.	2020-04-18	Liber_Exodus
+1100000158	filii gerson: lobni et semei, per cognationes suas.	2020-04-18	Liber_Exodus
+1100000159	filii caath: amram, et isaar, et hebron, et oziel; anni quoque vitae caath, centum triginta tres.	2020-04-18	Liber_Exodus
+1100000160	filii merari: moholi et musi: hae cognationes levi per familias suas.	2020-04-18	Liber_Exodus
+1100000161	accepit autem amram uxorem iochabed patruelem suam: quae peperit ei aaron et moysen. 	2020-04-18	Liber_Exodus
+1100000162	fueruntque anni vitae amram, centum triginta septem.	2020-04-18	Liber_Exodus
+1100000163	filii quoque isaar: core, et nepheg, et zechri.	2020-04-18	Liber_Exodus
+1100000164	filii quoque oziel: misael, et elisaphan, et sethri.	2020-04-18	Liber_Exodus
+1100000165	accepit autem aaron uxorem elisabeth filiam aminadab, sororem nahason, quae peperit ei nadab, et abiu, et eleazar, et ithamar.	2020-04-18	Liber_Exodus
+1100000166	filii quoque core: aser, et elcana, et abiasaph: hae sunt cognationes coritarum.	2020-04-18	Liber_Exodus
+1100000167	at vero eleazar filius aaron accepit uxorem de filiabus phutiel: quae peperit ei phinees. 	2020-04-18	Liber_Exodus
+1100000168	hi sunt principes familiarum leviticarum per cognationes suas.	2020-04-18	Liber_Exodus
+1100000169	iste est aaron et moyses, quibus praecepit dominus ut educerent filios israel de terra aegypti per turmas suas.	2020-04-18	Liber_Exodus
+1100000170	hi sunt, qui loquuntur ad pharaonem regem aegypti, ut educant filios israel de aegypto: iste est moyses et aaron,in die qua locutus est dominus ad moysen, in terra aegypti.	2020-04-18	Liber_Exodus
+1100000171	et locutus est dominus ad moysen, dicens: ego dominus: loquere ad pharaonem regem aegypti, omnia quae ego loquor tibi.	2020-04-18	Liber_Exodus
+1100000172	et ait moyses coram domino: en incircumcisus labiis sum, quomodo audiet me pharao?	2020-04-18	Liber_Exodus
+1100000173	caput 7	2020-04-18	Liber_Exodus
+1100000174	dixitque dominus ad moysen: ecce constitui te deum pharaonis: et aaron frater tuus erit propheta tuus.	2020-04-18	Liber_Exodus
+1100000175	tu loqueris ei omnia quae mando tibi: et ille loquetur ad pharaonem, ut dimittat filios israel de terra sua.	2020-04-18	Liber_Exodus
+1100000176	sed ego indurabo cor eius, et multiplicabo signa et ostenta mea in terra aegypti,et non audiet vos: immittamque manum meam super aegyptum, et educam exercitum et populum meum filios israel de terra aegypti per iudicia maxima.	2020-04-18	Liber_Exodus
+1100000177	et scient aegyptii quia ego sum dominus qui extenderim manum meam super aegyptum, et eduxerim filios israel de medio eorum.	2020-04-18	Liber_Exodus
+1100000178	fecit itaque moyses et aaron sicut praeceperat dominus: ita egerunt.	2020-04-18	Liber_Exodus
+1100000179	erat autem moyses octoginta annorum, et aaron octoginta trium, quando locuti sunt ad pharaonem.	2020-04-18	Liber_Exodus
+1100000180	dixitque dominus ad moysen et aaron:cum dixerit vobis pharao, ostendite signa: dices ad aaron: tolle virgam tuam, et proiice eam coram pharaone, ac vertetur in colubrum.	2020-04-18	Liber_Exodus
+1100000181	ingressi itaque moyses et aaron ad pharaonem, fecerunt sicut praeceperat dominus: tulitque aaron virgam coram pharaone et servis eius, quae versa est in colubrum.	2020-04-18	Liber_Exodus
+1100000182	vocavit autem pharao sapientes et maleficos: et fecerunt etiam ipsi per incantationes aegyptiacas et arcana quaedam similiter.	2020-04-18	Liber_Exodus
+1100000183	proieceruntque singuli virgas suas, quae versae sunt in dracones: sed devoravit virga aaron virgas eorum.	2020-04-18	Liber_Exodus
+1100000184	induratumque est cor pharaonis, et non audivit eos, sicut praeceperat dominus.	2020-04-18	Liber_Exodus
+1100000185	dixit autem dominus ad moysen: ingravatum est cor pharaonis: non vult dimittere populum.	2020-04-18	Liber_Exodus
+1100000186	vade ad eum mane, ecce egredietur ad aquas: et stabis in occursum eius super ripam fluminis: et virgam quae conversa est in draconem, tolles in manu tua.	2020-04-18	Liber_Exodus
+1100000187	dicesque ad eum: dominus deus hebraeorum misit me ad te, dicens: dimitte populum meum ut sacrificet mihi in deserto: et usque ad praesens audire noluisti.	2020-04-18	Liber_Exodus
+1100000188	haec igitur dicit dominus: in hoc scies quod sim dominus: ecce percutiam virga, quae in manu mea est, aquam fluminis, et vertetur in sanguinem.	2020-04-18	Liber_Exodus
+1100000189	pisces quoque, qui sunt in fluvio, morientur, et computrescent aquae, et affligentur aegyptii bibentes aquam fluminis.	2020-04-18	Liber_Exodus
+1100000190	dixit quoque dominus ad moysen: dic ad aaron: tolle virgam tuam, et extende manum tuam super aquas aegypti, et super fluvios eorum, et rivos ac paludes, et omnes lacus aquarum, ut vertantur in sanguinem: et sit cruor in omni terra aegypti, tam in ligneis vasis quam in saxeis.	2020-04-18	Liber_Exodus
+1100000191	feceruntque moyses et aaron sicut praeceperat dominus: et elevans virgam percussit aquam fluminis coram pharaone et servis eius: quae versa est in sanguinem.	2020-04-18	Liber_Exodus
+1100000192	et pisces, qui erant in flumine, mortui sunt: computruitque fluvius, et non poterant aegyptii bibere aquam fluminis, et fuit sanguis in tota terra aegypti.	2020-04-18	Liber_Exodus
+1100000193	feceruntque similiter malefici aegyptiorum incantationibus suis: et induratum est cor pharaonis, nec audivit eos, sicut praeceperat dominus.	2020-04-18	Liber_Exodus
+1100000194	avertitque se, et ingressus est domum suam, nec apposuit cor etiam hac vice.	2020-04-18	Liber_Exodus
+1100000195	foderunt autem omnes aegyptii per circuitum fluminis aquam ut biberent: non enim poterant bibere de aqua fluminis.	2020-04-18	Liber_Exodus
+1100000196	impletique sunt septem dies, postquam percussit dominus fluvium.	2020-04-18	Liber_Exodus
+1100000197	caput 8	2020-04-18	Liber_Exodus
+1100000198	dixit quoque dominus ad moysen: ingredere ad pharaonem, et dices ad eum: haec dicit dominus: dimitte populum meum, ut sacrificet mihi:sin autem nolueris dimittere, ecce ego percutiam omnes terminos tuos ranis,et ebulliet fluvius ranas: quae ascendent, et ingredientur domum tuam, et cubiculum lectuli tui, et super stratum tuum, et in domos servorum tuorum, et in populum tuum, et in furnos tuos, et in reliquias ciborum tuorum:et ad te, et ad populum tuum, et ad omnes servos tuos intrabunt ranae.	2020-04-18	Liber_Exodus
+1100000199	dixitque dominus ad moysen: dic ad aaron: extende manum tuam super fluvios ac super rivos et paludes, et educ ranas super terram aegypti.	2020-04-18	Liber_Exodus
+1100000200	et extendit aaron manum super aquas aegypti, et ascenderunt ranae, operueruntque terram aegypti.	2020-04-18	Liber_Exodus
+1100000201	fecerunt autem et malefici per incantationes suas similiter, eduxeruntque ranas super terram aegypti.	2020-04-18	Liber_Exodus
+1100000202	vocavit autem pharao moysen et aaron, et dixit eis: orate dominum ut auferat ranas a me et a populo meo, et dimittam populum ut sacrificet domino.	2020-04-18	Liber_Exodus
+1100000203	dixitque moyses ad pharaonem: constitue mihi quando deprecer pro te, et pro servis tuis, et pro populo tuo, ut abigantur ranae a te, et a domo tua, et a servis tuis, et a populo tuo: et tantum in flumine remaneant.	2020-04-18	Liber_Exodus
+1100000204	qui respondit: cras. 	2020-04-18	Liber_Exodus
+1100000205	at ille: iuxta, inquit, verbum tuum faciam: ut scias quoniam non est sicut dominus deus noster.	2020-04-18	Liber_Exodus
+1100000206	et recedent ranae a te, et a domo tua, et a servis tuis, et a populo tuo: et tantum in flumine remanebunt.	2020-04-18	Liber_Exodus
+1100000207	egressique sunt moyses et aaron a pharaone: et clamavit moyses ad dominum pro sponsione ranarum quam condixerat pharaoni.	2020-04-18	Liber_Exodus
+1100000208	fecitque dominus iuxta verbum moysi: et mortuae sunt ranae de domibus, et de villis, et de agris.	2020-04-18	Liber_Exodus
+1100000209	congregaveruntque eas in immensos aggeres, et computruit terra.	2020-04-18	Liber_Exodus
+1100000210	videns autem pharao quod data esset requies, ingravavit cor suum, et non audivit eos, sicut praeceperat dominus.	2020-04-18	Liber_Exodus
+1100000211	dixitque dominus ad moysen: loquere ad aaron: extende virgam tuam, et percute pulverem terrae: et sint sciniphes in universa terra aegypti.	2020-04-18	Liber_Exodus
+1100000212	feceruntque ita. 	2020-04-18	Liber_Exodus
+1100000213	et extendit aaron manum, virgam tenens: percussitque pulverem terrae, et facti sunt sciniphes in hominibus, et in iumentis: omnis pulvis terrae versus est in sciniphes per totam terram aegypti.	2020-04-18	Liber_Exodus
+1100000214	feceruntque similiter malefici incantationibus suis, ut educerent sciniphes, et non potuerunt: erantque sciniphes tam in hominibus quam in iumentis.	2020-04-18	Liber_Exodus
+1100000215	et dixerunt malefici ad pharaonem: digitus dei est hic; induratumque est cor pharaonis, et non audivit eos sicut praeceperat dominus.	2020-04-18	Liber_Exodus
+1100000216	dixit quoque dominus ad moysen: consurge diluculo, et sta coram pharaone: egredietur enim ad aquas: et dices ad eum: haec dicit dominus: dimitte populum meum ut sacrificet mihi.	2020-04-18	Liber_Exodus
+1100000217	quod si non dimiseris eum, ecce ego immittam in te, et in servos tuos, et in populum tuum, et in domos tuas, omne genus muscarum: et implebuntur domus aegyptiorum muscis diversi generis, et universa terra in qua fuerint.	2020-04-18	Liber_Exodus
+1100000218	faciamque mirabilem in die illa terram gessen, in qua populus meus est, ut non sint ibi muscae: et scias quoniam ego dominus in medio terrae.	2020-04-18	Liber_Exodus
+1100000219	ponamque divisionem inter populum meum et populum tuum: cras erit signum istud.	2020-04-18	Liber_Exodus
+1100000220	fecitque dominus ita. 	2020-04-18	Liber_Exodus
+1100000221	et venit musca gravissima in domos pharaonis et servorum eius, et in omnem terram aegypti: corruptaque est terra ab huiuscemodi muscis.	2020-04-18	Liber_Exodus
+1100000222	vocavitque pharao moysen et aaron, et ait eis: ite et sacrificate deo vestro in terra hac.	2020-04-18	Liber_Exodus
+1100000223	et ait moyses: non potest ita fieri: abominationes enim aegyptiorum immolabimus domino deo nostro: quod si mactaverimus ea quae colunt aegyptii coram eis, lapidibus nos obruent.	2020-04-18	Liber_Exodus
+1100000224	viam trium dierum pergemus in solitudinem: et sacrificabimus domino deo nostro, sicut praecepit nobis.	2020-04-18	Liber_Exodus
+1100000225	dixitque pharao: ego dimittam vos ut sacrificetis domino deo vestro in deserto: verumtamen longius ne abeatis, rogate pro me.	2020-04-18	Liber_Exodus
+1100000226	at ait moyses: egressus a te, orabo dominum: et recedet musca a pharaone, et a servis suis, et a populo eius cras: verumtamen noli ultra fallere, ut non dimittas populum sacrificare domino.	2020-04-18	Liber_Exodus
+1100000227	egressusque moyses a pharaone, oravit dominum.	2020-04-18	Liber_Exodus
+1100000228	qui fecit iuxta verbum illius, et abstulit muscas a pharaone, et a servis suis, et a populo eius: non superfuit ne una quidem.	2020-04-18	Liber_Exodus
+1100000229	et ingravatum est cor pharaonis, ita ut nec hac quidem vice dimitteret populum.	2020-04-18	Liber_Exodus
+1100000230	caput 9	2020-04-18	Liber_Exodus
+1100000231	dixit autem dominus ad moysen: ingredere ad pharaonem, et loquere ad eum: haec dicit dominus deus hebraeorum: dimitte populum meum ut sacrificet mihi.	2020-04-18	Liber_Exodus
+1100000232	quod si adhuc renuis, et retines eos,ecce manus mea erit super agros tuos, et super equos, et asinos, et camelos, et boves, et oves, pestis valde gravis.	2020-04-18	Liber_Exodus
+1100000233	et faciet dominus mirabile inter possessiones israel et possessiones aegyptiorum, ut nihil omnino pereat ex eis quae pertinent ad filios israel.	2020-04-18	Liber_Exodus
+1100000234	constituitque dominus tempus, dicens: cras faciet dominus verbum istud in terra.	2020-04-18	Liber_Exodus
+1100000235	fecit ergo dominus verbum hoc altera die: mortuaque sunt omnia animantia aegyptiorum; de animalibus vero filiorum israel, nihil omnino periit.	2020-04-18	Liber_Exodus
+1100000236	et misit pharao ad videndum: nec erat quidquam mortuum de his quae possidebat israel. 	2020-04-18	Liber_Exodus
+1100000237	ingravatumque est cor pharaonis, et non dimisit populum.	2020-04-18	Liber_Exodus
+1100000238	et dixit dominus ad moysen et aaron: tollite plenas manus cineris de camino, et spargat illum moyses in caelum coram pharaone.	2020-04-18	Liber_Exodus
+1100000239	sitque pulvis super omnem terram aegypti: erunt enim in hominibus et iumentis ulcera, et vesicae turgentes in universa terra aegypti.	2020-04-18	Liber_Exodus
+1100000240	tuleruntque cinerem de camino, et steterunt coram pharaone, et sparsit illum moyses in caelum: factaque sunt ulcera vesicarum turgentium in hominibus et iumentis:nec poterant malefici stare coram moyse propter ulcera quae in illis erant, et in omni terra aegypti.	2020-04-18	Liber_Exodus
+1100000241	induravitque dominus cor pharaonis, et non audivit eos, sicut locutus est dominus ad moysen.	2020-04-18	Liber_Exodus
+1100000242	dixitque dominus ad moysen: mane consurge, et sta coram pharaone, et dices ad eum: haec dicit dominus deus hebraeorum: dimitte populum meum ut sacrificet mihi.	2020-04-18	Liber_Exodus
+1100000243	quia in hac vice mittam omnes plagas meas super cor tuum, et super servos tuos, et super populum tuum: ut scias quod non sit similis mei in omni terra.	2020-04-18	Liber_Exodus
+1100000244	nunc enim extendens manum percutiam te, et populum tuum peste, peribisque de terra.	2020-04-18	Liber_Exodus
+1100000245	idcirco autem posui te, ut ostendam in te fortitudinem meam, et narretur nomen meum in omni terra.	2020-04-18	Liber_Exodus
+1100000246	adhuc retines populum meum, et non vis dimittere eum?	2020-04-18	Liber_Exodus
+1100000247	en pluam cras hac ipsa hora grandinem multam nimis, qualis non fuit in aegypto a die qua fundata est, usque in praesens tempus.	2020-04-18	Liber_Exodus
+1100000248	mitte ergo iam nunc, et congrega iumenta tua, et omnia quae habes in agro: homines enim, et iumenta, et universa quae inventa fuerint foris, nec congregata de agris, cecideritque super ea grando, morientur.	2020-04-18	Liber_Exodus
+1100000249	qui timuit verbum domini de servis pharaonis, facit confugere servos suos et iumenta in domos:qui autem neglexit sermonem domini, dimisit servos suos et iumenta in agris.	2020-04-18	Liber_Exodus
+1100000250	et dixit dominus ad moysen: extende manum tuam in caelum, ut fiat grando in universa terra aegypti super homines, et super iumenta, et super omnem herbam agri in terra aegypti.	2020-04-18	Liber_Exodus
+1100000251	extenditque moyses virgam in caelum, et dominus dedit tonitrua, et grandinem, ac discurrentia fulgura super terram: pluitque dominus grandinem super terram aegypti.	2020-04-18	Liber_Exodus
+1100000252	et grando et ignis mista pariter ferebantur: tantaeque fuit magnitudinis, quanta ante numquam apparuit in universa terra aegypti ex quo gens illa condita est.	2020-04-18	Liber_Exodus
+1100000253	et percussit grando in omni terra aegypti cuncta quae fuerunt in agris, ab homine usque ad iumentum: cunctamque herbam agri percussit grando, et omne lignum regionis confregit.	2020-04-18	Liber_Exodus
+1100000254	tantum in terra gessen, ubi erant filii israel, grando non cecidit.	2020-04-18	Liber_Exodus
+1100000255	misitque pharao, et vocavit moysen et aaron, dicens ad eos: peccavi etiam nunc: dominus iustus; ego et populus meus, impii.	2020-04-18	Liber_Exodus
+1100000256	orate dominum ut desinant tonitrua dei, et grando: ut dimittam vos, et nequaquam hic ultra maneatis.	2020-04-18	Liber_Exodus
+1100000257	ait moyses: cum egressus fuero de urbe, extendam palmas meas ad dominum, et cessabunt tonitrua, et grando non erit, ut scias quia domini est terra:novi autem quod et tu et servi tui necdum timeatis dominum deum.	2020-04-18	Liber_Exodus
+1100000258	linum ergo et hordeum laesum est, eo quod hordeum esset virens, et linum iam folliculos germinaret:triticum autem et far non sunt laesa, quia serotina erant.	2020-04-18	Liber_Exodus
+1100000259	egressusque moyses a pharaone ex urbe, tetendit manus ad dominum: et cessaverunt tonitrua et grando, nec ultra stillavit pluvia super terram.	2020-04-18	Liber_Exodus
+1100000260	videns autem pharao quod cessasset pluvia, et grando, et tonitrua, auxit peccatum:et ingravatum est cor eius, et servorum illius, et induratum nimis: nec dimisit filios israel, sicut praeceperat dominus per manum moysi.	2020-04-18	Liber_Exodus
+1100000261	caput 10	2020-04-18	Liber_Exodus
+1100000262	et dixit dominus ad moysen: ingredere ad pharaonem: ego enim induravi cor eius, et servorum illius, ut faciam signa mea haec in eo:et narres in auribus filii tui, et nepotum tuorum, quoties contriverim aegyptios, et signa mea fecerim in eis: et sciatis quia ego dominus.	2020-04-18	Liber_Exodus
+1100000263	introierunt ergo moyses et aaron ad pharaonem, et dixerunt ei: haec dicit dominus deus hebraeorum: usquequo non vis subiici mihi? 	2020-04-18	Liber_Exodus
+1100000264	dimitte populum meum, ut sacrificet mihi.	2020-04-18	Liber_Exodus
+1100000265	sin autem resistis, et non vis dimittere eum: ecce ego inducam cras locustam in fines tuos:quae operiat superficiem terrae, ne quidquam eius appareat, sed comedatur quod residuum fuerit grandini: corrodet enim omnia ligna quae germinant in agris.	2020-04-18	Liber_Exodus
+1100000266	et implebunt domos tuas, et servorum tuorum, et omnium aegyptiorum, quantam non viderunt patres tui, et avi, ex quo orti sunt super terram, usque in praesentem diem. 	2020-04-18	Liber_Exodus
+1100000267	avertitque se, et egressus est a pharaone.	2020-04-18	Liber_Exodus
+1100000268	dixerunt autem servi pharaonis ad eum: usquequo patiemur hoc scandalum? 	2020-04-18	Liber_Exodus
+1100000269	dimitte homines, ut sacrificent domino deo suo; nonne vides quod perierit aegyptus?	2020-04-18	Liber_Exodus
+1100000270	revocaveruntque moysen et aaron ad pharaonem: qui dixit eis: ite, sacrificate domino deo vestro: quinam sunt qui ituri sunt?	2020-04-18	Liber_Exodus
+1100000271	ait moyses: cum parvulis nostris, et senioribus pergemus, cum filiis et filiabus, cum ovibus et armentis: est enim solemnitas domini dei nostri.	2020-04-18	Liber_Exodus
+1100000272	et respondit pharao: sic dominus sit vobiscum, quomodo ego dimittam vos, et parvulos vestros, cui dubium est quod pessime cogitetis?	2020-04-18	Liber_Exodus
+1100000273	non fiet ita, sed ite tantum viri, et sacrificate domino: hoc enim et ipsi petistis. 	2020-04-18	Liber_Exodus
+1100000274	statimque eiecti sunt de conspectu pharaonis.	2020-04-18	Liber_Exodus
+1100000275	dixit autem dominus ad moysen: extende manum tuam super terram aegypti ad locustam, ut ascendat super eam, et devoret omnem herbam quae residua fuerit grandini.	2020-04-18	Liber_Exodus
+1100000276	et extendit moyses virgam super terram aegypti: et dominus induxit ventum urentem tota die illa et nocte: et mane facto, ventus urens levavit locustas.	2020-04-18	Liber_Exodus
+1100000277	quae ascenderunt super universam terram aegypti: et sederunt in cunctis finibus aegyptiorum innumerabiles, quales ante illud tempus non fuerant, nec postea futurae sunt.	2020-04-18	Liber_Exodus
+1100000278	operueruntque universam superficiem terrae, vastantes omnia. 	2020-04-18	Liber_Exodus
+1100000279	devorata est igitur herba terrae, et quidquid pomorum in arboribus fuit, quae grando dimiserat: nihilque omnino virens relictum est in lignis et in herbis terrae, in cuncta aegypto.	2020-04-18	Liber_Exodus
+1100000280	quam ob rem festinus pharao vocavit moysen et aaron, et dixit eis: peccavi in dominum deum vestrum, et in vos.	2020-04-18	Liber_Exodus
+1100000281	sed nunc dimittite peccatum mihi etiam hac vice, et rogate dominum deum vestrum, ut auferat a me mortem istam.	2020-04-18	Liber_Exodus
+1100000282	egressusque moyses de conspectu pharaonis, oravit dominum.	2020-04-18	Liber_Exodus
+1100000283	qui flare fecit ventum ab occidente vehementissimum, et arreptam locustam proiecit in mare rubrum: non remansit ne una quidem in cunctis finibus aegypti.	2020-04-18	Liber_Exodus
+1100000284	et induravit dominus cor pharaonis, nec dimisit filios israel.	2020-04-18	Liber_Exodus
+1100000285	dixit autem dominus ad moysen: extende manum tuam in caelum: et sint tenebrae super terram aegypti tam densae, ut palpari queant.	2020-04-18	Liber_Exodus
+1100000286	extenditque moyses manum in caelum: et factae sunt tenebrae horribiles in universa terra aegypti tribus diebus.	2020-04-18	Liber_Exodus
+1100000287	nemo vidit fratrem suum, nec movit se de loco in quo erat: ubicumque autem habitabant filii israel, lux erat.	2020-04-18	Liber_Exodus
+1100000288	vocavitque pharao moysen et aaron, et dixit eis: ite, sacrificate domino: oves tantum vestrae et armenta remaneant, parvuli vestri eant vobiscum.	2020-04-18	Liber_Exodus
+1100000289	ait moyses: hostias quoque et holocausta dabis nobis, quae offeramus domino deo nostro.	2020-04-18	Liber_Exodus
+1100000290	cuncti greges pergent nobiscum; non remanebit ex eis ungula: quae necessaria sunt in cultum domini dei nostri: praesertim cum ignoremus quid debeat immolari, donec ad ipsum locum perveniamus.	2020-04-18	Liber_Exodus
+1100000291	induravit autem dominus cor pharaonis, et noluit dimittere eos.	2020-04-18	Liber_Exodus
+1100000292	dixitque pharao ad moysen: recede a me, et cave ne ultra videas faciem meam: quocumque die apparueris mihi, morieris.	2020-04-18	Liber_Exodus
+1100000293	respondit moyses: ita fiet ut locutus es: non videbo ultra faciem tuam.	2020-04-18	Liber_Exodus
+1100000294	caput 11	2020-04-18	Liber_Exodus
+1100000295	et dixit dominus ad moysen: adhuc una plaga tangam pharaonem et aegyptum, et post haec dimittet vos, et exire compellet.	2020-04-18	Liber_Exodus
+1100000296	dices ergo omni plebi ut postulet vir ab amico suo, et mulier a vicina sua, vasa argentea et aurea.	2020-04-18	Liber_Exodus
+1100000297	dabit autem dominus gratiam populo suo coram aegyptiis. 	2020-04-18	Liber_Exodus
+1100000298	fuitque moyses vir magnus valde in terra aegypti coram servis pharaonis et omni populo.	2020-04-18	Liber_Exodus
+1100000299	et ait: haec dicit dominus: media nocte egrediar in aegyptum:et morietur omne primogenitum in terra aegyptiorum, a primogenito pharaonis, qui sedet in solio eius, usque ad primogenitum ancillae quae est ad molam, et omnia primogenita iumentorum.	2020-04-18	Liber_Exodus
+1100000300	eritque clamor magnus in universa terra aegypti, qualis nec ante fuit, nec postea futurus est.	2020-04-18	Liber_Exodus
+1100000301	apud omnes autem filios israel non mutiet canis ab homine usque ad pecus: ut sciatis quanto miraculo dividat dominus aegyptios et israel.	2020-04-18	Liber_Exodus
+1100000302	descendentque omnes servi tui isti ad me, et adorabunt me, dicentes: egredere tu, et omnis populus qui subiectus est tibi: post haec egrediemur.	2020-04-18	Liber_Exodus
+1100000303	et exivit a pharaone iratus nimis. 	2020-04-18	Liber_Exodus
+1100000304	dixit autem dominus ad moysen: non audiet vos pharao ut multa signa fiant in terra aegypti.	2020-04-18	Liber_Exodus
+1100000305	moyses autem et aaron fecerunt omnia ostenta, quae scripta sunt, coram pharaone. 	2020-04-18	Liber_Exodus
+1100000306	et induravit dominus cor pharaonis, nec dimisit filios israel de terra sua.	2020-04-18	Liber_Exodus
+1100000307	caput 12	2020-04-18	Liber_Exodus
+1100000308	dixit quoque dominus ad moysen et aaron in terra aegypti:mensis iste, vobis principium mensium: primus erit in mensibus anni.	2020-04-18	Liber_Exodus
+1100000309	loquimini ad universum coetum filiorum israel, et dicite eis: decima die mensis huius tollat unusquisque agnum per familias et domos suas.	2020-04-18	Liber_Exodus
+1100000310	sin autem minor est numerus ut sufficere possit ad vescendum agnum, assumet vicinum suum qui iunctus est domui suae, iuxta numerum animarum quae sufficere possunt ad esum agni.	2020-04-18	Liber_Exodus
+1100000311	erit autem agnus absque macula, masculus, anniculus: iuxta quem ritum tolletis et haedum.	2020-04-18	Liber_Exodus
+1100000312	et servabitis eum usque ad quartamdecimam diem mensis huius: immolabitque eum universa multitudo filiorum israel ad vesperam.	2020-04-18	Liber_Exodus
+1100000313	et sument de sanguine eius, ac ponent super utrumque postem, et in superliminaribus domorum, in quibus comedent illum.	2020-04-18	Liber_Exodus
+1100000314	et edent carnes nocte illa assas igni, et azymos panes cum lactucis agrestibus.	2020-04-18	Liber_Exodus
+1100000315	non comedetis ex eo crudum quid, nec coctum aqua, sed tantum assum igni: caput cum pedibus eius et intestinis vorabitis.	2020-04-18	Liber_Exodus
+1100000316	nec remanebit quidquam ex eo usque mane; si quid residuum fuerit, igne comburetis.	2020-04-18	Liber_Exodus
+1100000317	sic autem comedetis illum: renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter: est enim phase (id est, transitus) domini.	2020-04-18	Liber_Exodus
+1100000318	et transibo per terram aegypti nocte illa, percutiamque omne primogenitum in terra aegypti ab homine usque ad pecus: et in cunctis diis aegypti faciam iudicia. 	2020-04-18	Liber_Exodus
+1100000319	ego dominus.	2020-04-18	Liber_Exodus
+1100000320	erit autem sanguis vobis in signum in aedibus in quibus eritis: et videbo sanguinem, et transibo vos: nec erit in vobis plaga disperdens quando percussero terram aegypti.	2020-04-18	Liber_Exodus
+1100000321	habebitis autem hunc diem in monimentum: et celebrabitis eam solemnem domino in generationibus vestris cultu sempiterno.	2020-04-18	Liber_Exodus
+1100000322	septem diebus azyma comedetis: in die primo non erit fermentum in domibus vestris: quicumque comederit fermentatum, peribit anima illa de israel, a primo die usque ad diem septimum.	2020-04-18	Liber_Exodus
+1100000323	dies prima erit sancta atque solemnis, et dies septima eadem festivitate venerabilis: nihil operis facietis in eis, exceptis his, quae ad vescendum pertinent.	2020-04-18	Liber_Exodus
+1100000324	et observabitis azyma: in eadem enim ipsa die educam exercitum vestrum de terra aegypti, et custodietis diem istum in generationes vestras ritu perpetuo.	2020-04-18	Liber_Exodus
+1100000325	primo mense, quartadecima die mensis ad vesperam, comedetis azyma usque ad diem vigesimam primam eiusdem mensis ad vesperam.	2020-04-18	Liber_Exodus
+1100000326	septem diebus fermentum non invenietur in domibus vestris: qui comederit fermentatum, peribit anima eius de coetu israel, tam de advenis quam de indigenis terrae.	2020-04-18	Liber_Exodus
+1100000327	omne fermentatum non comedetis: in cunctis habitaculis vestris edetis azyma.	2020-04-18	Liber_Exodus
+1100000328	vocavit autem moyses omnes seniores filiorum israel, et dixit ad eos: ite tollentes animal per familias vestras, et immolate phase.	2020-04-18	Liber_Exodus
+1100000329	fasciculumque hyssopi tingite in sanguine qui est in limine, et aspergite ex eo superliminare, et utrumque postem: nullus vestrum egrediatur ostium domus suae usque mane.	2020-04-18	Liber_Exodus
+1100000330	transibit enim dominus percutiens aegyptios: cumque viderit sanguinem in superliminari, et in utroque poste, transcendet ostium domus, et non sinet percussorem ingredi domos vestras et laedere.	2020-04-18	Liber_Exodus
+1100000331	custodi verbum istud legitimum tibi et filiis tuis usque in aeternum.	2020-04-18	Liber_Exodus
+1100000332	cumque introieritis terram, quam dominus daturus est vobis ut pollicitus est, observabitis caeremonias istas.	2020-04-18	Liber_Exodus
+1100000333	et cum dixerint vobis filii vestri: quae est ista religio?	2020-04-18	Liber_Exodus
+1100000334	dicetis eis: victima transitus domini est, quando transivit super domos filiorum israel in aegypto, percutiens aegyptios, et domos nostras liberans. 	2020-04-18	Liber_Exodus
+1100000335	incurvatusque populus adoravit.	2020-04-18	Liber_Exodus
+1100000336	et egressi filii israel fecerunt sicut praeceperat dominus moysi et aaron.	2020-04-18	Liber_Exodus
+1100000337	factum est autem in noctis medio, percussit dominus omne primogenitum in terra aegypti, a primogenito pharaonis, qui in solio eius sedebat, usque ad primogenitum captivae quae erat in carcere, et omne primogenitum iumentorum.	2020-04-18	Liber_Exodus
+1100000338	surrexitque pharao nocte, et omnes servi eius, cunctaque aegyptus: et ortus est clamor magnus in aegypto: neque enim erat domus in qua non iaceret mortuus.	2020-04-18	Liber_Exodus
+1100000339	vocatisque pharao moyse et aaron nocte, ait: surgite et egredimini a populo meo, vos et filii israel: ite, immolate domino sicut dicitis.	2020-04-18	Liber_Exodus
+1100000340	oves vestras et armenta assumite ut petieratis, et abeuntes benedicite mihi.	2020-04-18	Liber_Exodus
+1100000341	urgebantque aegyptii populum de terra exire velociter, dicentes: omnes moriemur.	2020-04-18	Liber_Exodus
+1100000342	tulit igitur populus conspersam farinam antequam fermentaretur: et ligans in palliis, posuit super humeros suos.	2020-04-18	Liber_Exodus
+1100000343	feceruntque filii israel sicut praeceperat moyses: et petierunt ab aegyptiis vasa argentea et aurea, vestemque plurimam.	2020-04-18	Liber_Exodus
+1100000344	dominus autem dedit gratiam populo coram aegyptiis ut commodarent eis: et spoliaverunt aegyptios.	2020-04-18	Liber_Exodus
+1100000345	profectique sunt filii israel de ramesse in socoth, sexcenta fere millia peditum virorum, absque parvulis.	2020-04-18	Liber_Exodus
+1100000346	sed et vulgus promiscuum innumerabile ascendit cum eis, oves et armenta et animantia diversi generis multa nimis.	2020-04-18	Liber_Exodus
+1100000347	coxeruntque farinam, quam dudum de aegypto conspersam tulerant: et fecerunt subcinericios panes azymos: neque enim poterant fermentari, cogentibus exire aegyptiis, et nullam facere sinentibus moram: nec pulmenti quidquam occurrerat praeparare.	2020-04-18	Liber_Exodus
+1100000348	habitatio autem filiorum israel qua manserunt in aegypto, fuit quadringentorum triginta annorum.	2020-04-18	Liber_Exodus
+1100000349	quibus expletis, eadem die egressus est omnis exercitus domini de terra aegypti.	2020-04-18	Liber_Exodus
+1100000350	nox ista est observabilis domini, quando eduxit eos de terra aegypti: hanc observare debent omnes filii israel in generationibus suis.	2020-04-18	Liber_Exodus
+1100000351	dixitque dominus ad moysen et aaron: haec est religio phase: omnis alienigena non comedet ex eo.	2020-04-18	Liber_Exodus
+1100000352	omnis autem servus emptitius circumcidetur, et sic comedet.	2020-04-18	Liber_Exodus
+1100000353	advena et mercenarius non edent ex eo.	2020-04-18	Liber_Exodus
+1100000354	in una domo comedetur, nec efferetis de carnibus eius foras, nec os illius confringetis.	2020-04-18	Liber_Exodus
+1100000355	omnis coetus filiorum israel faciet illud.	2020-04-18	Liber_Exodus
+1100000356	quod si quis peregrinorum in vestram voluerit transire coloniam, et facere phase domini, circumcidetur prius omne masculinum eius, et tunc rite celebrabit: eritque sicut indigena terrae: si quis autem circumcisus non fuerit, non vescetur ex eo.	2020-04-18	Liber_Exodus
+1100000357	eadem lex erit indigenae et colono qui peregrinatur apud vos.	2020-04-18	Liber_Exodus
+1100000358	feceruntque omnes filii israel sicut praeceperat dominus moysi et aaron.	2020-04-18	Liber_Exodus
+1100000359	et eadem die eduxit dominus filios israel de terra aegypti per turmas suas.	2020-04-18	Liber_Exodus
+1100000360	caput 13	2020-04-18	Liber_Exodus
+1100000361	locutusque est dominus ad moysen, dicens:sanctifica mihi omne primogenitum quod aperit vulvam in filiis israel, tam de hominibus quam de iumentis: mea sunt enim omnia.	2020-04-18	Liber_Exodus
+1100000362	et ait moyses ad populum: mementote diei huius in qua egressi estis de aegypto et de domo servitutis, quoniam in manu forti eduxit vos dominus de loco isto: ut non comedatis fermentatum panem.	2020-04-18	Liber_Exodus
+1100000363	hodie egredimini mense novarum frugum.	2020-04-18	Liber_Exodus
+1100000364	cumque introduxerit te dominus in terram chananaei, et hethaei, et amorrhaei, et hevaei, et iebusaei, quam iuravit patribus tuis ut daret tibi, terram fluentem lacte et melle, celebrabis hunc morem sacrorum mense isto.	2020-04-18	Liber_Exodus
+1100000365	septem diebus vesceris azymis: et in die septimo erit solemnitas domini.	2020-04-18	Liber_Exodus
+1100000366	azyma comedetis septem diebus: non apparebit apud te aliquid fermentatum, nec in cunctis finibus tuis.	2020-04-18	Liber_Exodus
+1100000367	narrabisque filio tuo in die illo, dicens: hoc est quod fecit mihi dominus quando egressus sum de aegypto.	2020-04-18	Liber_Exodus
+1100000368	et erit quasi signum in manu tua, et quasi monimentum ante oculos tuos: et ut lex domini semper sit in ore tuo, in manu enim forti eduxit te dominus de aegypto.	2020-04-18	Liber_Exodus
+1100000369	custodies huiuscemodi cultum statuto tempore a diebus in dies.	2020-04-18	Liber_Exodus
+1100000370	cumque introduxerit te dominus in terram chananaei, sicut iuravit tibi et patribus tuis, et dederit tibi eam:separabis omne quod aperit vulvam domino, et quod primitivum est in pecoribus tuis: quidquid habueris masculini sexus, consecrabis domino.	2020-04-18	Liber_Exodus
+1100000371	primogenitum asini mutabis ove: quod si non redemeris, interficies. 	2020-04-18	Liber_Exodus
+1100000372	omne autem primogenitum hominis de filiis tuis, pretio redimes.	2020-04-18	Liber_Exodus
+1100000373	cumque interrogaverit te filius tuus cras, dicens: quid est hoc? 	2020-04-18	Liber_Exodus
+1100000374	respondebis ei: in manu forti eduxit nos dominus de terra aegypti, de domo servitutis.	2020-04-18	Liber_Exodus
+1100000375	nam cum induratus esset pharao, et nollet nos dimittere, occidit dominus omne primogenitum in terra aegypti, a primogenito hominis usque ad primogenitum iumentorum: idcirco immolo domino omne quod aperit vulvam masculini sexus, et omnia primogenita filiorum meorum redimo.	2020-04-18	Liber_Exodus
+1100000376	erit igitur quasi signum in manu tua, et quasi appensum quid, ob recordationem, inter oculos tuos: eo quod in manu forti eduxit nos dominus de aegypto.	2020-04-18	Liber_Exodus
+1100000377	igitur cum emisisset pharao populum, non eos duxit deus per viam terrae philisthiim quae vicina est: reputans ne forte poeniteret eum, si vidisset adversum se bella consurgere, et reverteretur in aegyptum.	2020-04-18	Liber_Exodus
+1100000378	sed circumduxit per viam deserti, quae est iuxta mare rubrum: et armati ascenderunt filii israel de terra aegypti.	2020-04-18	Liber_Exodus
+1100000379	tulit quoque moyses ossa ioseph secum: eo quod adiurasset filios israel, dicens: visitabit vos deus; efferte ossa mea hinc vobiscum.	2020-04-18	Liber_Exodus
+1100000380	profectique de socoth castrametati sunt in etham, in extremis finibus solitudinis.	2020-04-18	Liber_Exodus
+1100000381	dominus autem praecedebat eos ad ostendendam viam per diem in columna nubis, et per noctem in columna ignis: ut dux esset itineris utroque tempore.	2020-04-18	Liber_Exodus
+1100000382	numquam defuit columna nubis per diem, nec columna ignis per noctem, coram populo.	2020-04-18	Liber_Exodus
+1100000383	caput 14	2020-04-18	Liber_Exodus
+1100000384	locutus est autem dominus ad moysen, dicens:loquere filiis israel: reversi castrametentur e regione phihahiroth, quae est inter magdalum et mare contra beelsephon: in conspectu eius castra ponetis super mare.	2020-04-18	Liber_Exodus
+1100000385	dicturusque est pharao super filiis israel: coarctati sunt in terra; conclusit eos desertum.	2020-04-18	Liber_Exodus
+1100000386	et indurabo cor eius, ac persequetur vos: et glorificabor in pharaone, et in omni exercitu eius; scientque aegyptii quia ego sum dominus. 	2020-04-18	Liber_Exodus
+1100000387	feceruntque ita.	2020-04-18	Liber_Exodus
+1100000388	et nuntiatum est regi aegyptiorum quod fugisset populus: immutatumque est cor pharaonis et servorum eius super populo, et dixerunt: quid voluimus facere ut dimitteremus israel, ne serviret nobis?	2020-04-18	Liber_Exodus
+1100000389	iunxit ergo currum, et omnem populum suum assumpsit secum.	2020-04-18	Liber_Exodus
+1100000390	tulitque sexcentos currus electos, et quidquid in aegypto curruum fuit: et duces totius exercitus.	2020-04-18	Liber_Exodus
+1100000391	induravitque dominus cor pharaonis regis aegypti, et persecutus est filios israel: at illi egressi sunt in manu excelsa.	2020-04-18	Liber_Exodus
+1100000392	cumque persequerentur aegyptii vestigia praecedentium, repererunt eos in castris super mare: omnis equitatus et currus pharaonis, et universus exercitus, erant in phihahiroth contra beelsephon.	2020-04-18	Liber_Exodus
+1100000393	cumque appropinquasset pharao, levantes filii israel oculos, viderunt aegyptios post se, et timuerunt valde: clamaveruntque ad dominum,et dixerunt ad moysen: forsitan non erant sepulchra in aegypto, ideo tulisti nos ut moreremur in solitudine: quid hoc facere voluisti, ut educeres nos ex aegypto?	2020-04-18	Liber_Exodus
+1100000394	nonne iste est sermo, quem loquebamur ad te in aegypto, dicentes: recede a nobis, ut serviamus aegyptiis? 	2020-04-18	Liber_Exodus
+1100000395	multo enim melius erat servire eis, quam mori in solitudine.	2020-04-18	Liber_Exodus
+1100000396	et ait moyses ad populum: nolite timere: state, et videte magnalia domini quae facturus est hodie: aegyptios enim, quos nunc videtis, nequaquam ultra videbitis usque in sempiternum.	2020-04-18	Liber_Exodus
+1100000397	dominus pugnabit pro vobis, et vos tacebitis.	2020-04-18	Liber_Exodus
+1100000398	dixitque dominus ad moysen: quid clamas ad me? 	2020-04-18	Liber_Exodus
+1100000399	loquere filiis israel ut proficiscantur.	2020-04-18	Liber_Exodus
+1100000400	tu autem eleva virgam tuam, et extende manum tuam super mare, et divide illud: ut gradiantur filii israel in medio mari per siccum.	2020-04-18	Liber_Exodus
+1100000401	ego autem indurabo cor aegyptiorum ut persequantur vos: et glorificabor in pharaone, et in omni exercitu eius, et in curribus et in equitibus illius.	2020-04-18	Liber_Exodus
+1100000402	et scient aegyptii quia ego sum dominus cum glorificatus fuero in pharaone, et in curribus atque in equitibus eius.	2020-04-18	Liber_Exodus
+1100000403	tollensque se angelus dei, qui praecedebat castra israel, abiit post eos: et cum eo pariter columna nubis, priora dimittens, post tergumstetit, inter castra aegyptiorum et castra israel: et erat nubes tenebrosa, et illuminans noctem, ita ut ad se invicem toto noctis tempore accedere non valerent.	2020-04-18	Liber_Exodus
+1100000404	cumque extendisset moyses manum super mare, abstulit illud dominus flante vento vehementi et urente tota nocte, et vertit in siccum: divisaque est aqua.	2020-04-18	Liber_Exodus
+1100000405	et ingressi sunt filii israel per medium sicci maris: erat enim aqua quasi murus a dextra eorum et laeva.	2020-04-18	Liber_Exodus
+1100000406	persequentesque aegyptii ingressi sunt post eos, et omnis equitatus pharaonis, currus eius et equites per medium maris.	2020-04-18	Liber_Exodus
+1100000407	iamque advenerat vigilia matutina, et ecce respiciens dominus super castra aegyptiorum per columnam ignis et nubis, interfecit exercitum eorum,et subvertit rotas curruum, ferebanturque in profundum. 	2020-04-18	Liber_Exodus
+1100000408	dixerunt ergo aegyptii: fugiamus israelem: dominus enim pugnat pro eis contra nos.	2020-04-18	Liber_Exodus
+1100000409	et ait dominus ad moysen: extende manum tuam super mare, ut revertantur aquae ad aegyptios super currus et equites eorum.	2020-04-18	Liber_Exodus
+1100000410	cumque extendisset moyses manum contra mare, reversum est primo diluculo ad priorem locum: fugientibusque aegyptiis occurrerunt aquae, et involvit eos dominus in mediis fluctibus.	2020-04-18	Liber_Exodus
+1100000411	reversaeque sunt aquae, et operuerunt currus et equites cuncti exercitus pharaonis, qui sequentes ingressi fuerant mare: nec unus quidem superfuit ex eis.	2020-04-18	Liber_Exodus
+1100000412	filii autem israel perrexerunt per medium sicci maris, et aquae eis erant quasi pro muro a dextris et a sinistris:liberavitque dominus in die illa israel de manu aegyptiorum.	2020-04-18	Liber_Exodus
+1100000413	et viderunt aegyptios mortuos super littus maris, et manum magnam quam exercuerat dominus contra eos: timuitque populus dominum, et crediderunt domino, et moysi servo eius.	2020-04-18	Liber_Exodus
+1100000414	caput 15	2020-04-18	Liber_Exodus
+1100000415	tunc cecinit moyses et filii israel carmen hoc domino, et dixerunt:	2020-04-18	Liber_Exodus
+1100000416	cantemus domino: gloriose enim magnificatus est,	2020-04-18	Liber_Exodus
+1100000417	equum et ascensorem deiecit in mare.	2020-04-18	Liber_Exodus
+1100000418	fortitudo mea, et laus mea dominus,	2020-04-18	Liber_Exodus
+1100000419	et factus est mihi in salutem:	2020-04-18	Liber_Exodus
+1100000420	iste deus meus, et glorificabo eum:	2020-04-18	Liber_Exodus
+1100000421	deus patris mei, et exaltabo eum.	2020-04-18	Liber_Exodus
+1100000422	dominus quasi vir pugnator,	2020-04-18	Liber_Exodus
+1100000423	omnipotens nomen eius,	2020-04-18	Liber_Exodus
+1100000424	currus pharaonis et exercitum eius proiecit in mare:	2020-04-18	Liber_Exodus
+1100000425	electi principes eius submersi sunt in mari rubro.	2020-04-18	Liber_Exodus
+1100000426	abyssi operuerunt eos;	2020-04-18	Liber_Exodus
+1100000427	descenderunt in profundum quasi lapis.	2020-04-18	Liber_Exodus
+1100000428	dextera tua, domine, magnificata est in fortitudine:	2020-04-18	Liber_Exodus
+1100000429	dextera tua, domine, percussit inimicum.	2020-04-18	Liber_Exodus
+1100000430	et in multitudine gloriae tuae deposuisti adversarios tuos:	2020-04-18	Liber_Exodus
+1100000431	misisti iram tuam, quae devoravit eos sicut stipulam.	2020-04-18	Liber_Exodus
+1100000432	et in spiritu furoris tui congregatae sunt aquae:	2020-04-18	Liber_Exodus
+1100000433	stetit unda fluens, congregata sunt abyssi in medio mari.	2020-04-18	Liber_Exodus
+1100000434	dixit inimicus: persequar et comprehendam,	2020-04-18	Liber_Exodus
+1100000435	dividam spolia, implebitur anima mea:	2020-04-18	Liber_Exodus
+1100000436	evaginabo gladium meum, interficiet eos manus mea.	2020-04-18	Liber_Exodus
+1100000437	flavit spiritus tuus, et operuit eos mare:	2020-04-18	Liber_Exodus
+1100000438	submersi sunt quasi plumbum in aquis vehementibus.	2020-04-18	Liber_Exodus
+1100000439	quis similis tui in fortibus, domine?	2020-04-18	Liber_Exodus
+1100000440	quis similis tui, magnificus in sanctitate,	2020-04-18	Liber_Exodus
+1100000441	terribilis atque laudabilis, faciens mirabilia?	2020-04-18	Liber_Exodus
+1100000442	extendisti manum tuam, et devoravit eos terra.	2020-04-18	Liber_Exodus
+1100000443	dux fuisti in misericordia tua populo quem redemisti:	2020-04-18	Liber_Exodus
+1100000444	et portasti eum in fortitudine tua, ad habitaculum sanctum tuum.	2020-04-18	Liber_Exodus
+1100000445	ascenderunt populi, et irati sunt:	2020-04-18	Liber_Exodus
+1100000446	dolores obtinuerunt habitatores philisthiim.	2020-04-18	Liber_Exodus
+1100000447	tunc conturbati sunt principes edom,	2020-04-18	Liber_Exodus
+1100000448	robustos moab obtinuit tremor:	2020-04-18	Liber_Exodus
+1100000449	obriguerunt omnes habitatores chanaan.	2020-04-18	Liber_Exodus
+1100000450	irruat super eos formido et pavor, in magnitudine brachii tui:	2020-04-18	Liber_Exodus
+1100000451	fiant immobiles quasi lapis,	2020-04-18	Liber_Exodus
+1100000452	donec pertranseat populus tuus, domine,	2020-04-18	Liber_Exodus
+1100000453	donec pertranseat populus tuus iste, quem possedisti.	2020-04-18	Liber_Exodus
+1100000454	introduces eos, et plantabis in monte haereditatis tuae,	2020-04-18	Liber_Exodus
+1100000455	firmissimo habitaculo tuo quod operatus es, domine:	2020-04-18	Liber_Exodus
+1100000456	sanctuarium tuum, domine, quod firmaverunt manus tuae.	2020-04-18	Liber_Exodus
+1100000457	dominus regnabit in aeternum et ultra.	2020-04-18	Liber_Exodus
+1100000458	ingressus est enim eques pharao	2020-04-18	Liber_Exodus
+1100000459	cum curribus et equitibus eius in mare:	2020-04-18	Liber_Exodus
+1100000460	et reduxit super eos dominus	2020-04-18	Liber_Exodus
+1100000461	aquas maris:	2020-04-18	Liber_Exodus
+1100000462	filii autem israel ambulaverunt per siccum in medio eius.	2020-04-18	Liber_Exodus
+1100000463	sumpsit ergo maria prophetissa, soror aaron, tympanum in manu sua: egressaeque sunt omnes mulieres post eam cum tympanis et choris,quibus praecinebat, dicens:	2020-04-18	Liber_Exodus
+1100000464	cantemus domino, gloriose enim magnificatus est:	2020-04-18	Liber_Exodus
+1100000465	equum et ascensorem eius deiecit in mare.	2020-04-18	Liber_Exodus
+1100000466	tulit autem moyses israel de mari rubro, et egressi sunt in desertum sur: ambulaveruntque tribus diebus per solitudinem, et non inveniebant aquam.	2020-04-18	Liber_Exodus
+1100000467	et venerunt in mara, nec poterant bibere aquas de mara, eo quod essent amarae: unde et congruum loco nomen imposuit, vocans illum mara, id est, amaritudinem.	2020-04-18	Liber_Exodus
+1100000468	et murmuravit populus contra moysen, dicens: quid bibemus?	2020-04-18	Liber_Exodus
+1100000469	at ille clamavit ad dominum, qui ostendit ei lignum: quod cum misisset in aquas, in dulcedinem versae sunt: ibi constituit ei praecepta, atque iudicia, et ibi tentavit eum,dicens: si audieris vocem domini dei tui, et quod rectum est coram eo feceris, et obedieris mandatis eius, custodierisque omnia praecepta illius, cunctum languorem, quem posui in aegypto, non inducam super te: ego enim dominus sanator tuus.	2020-04-18	Liber_Exodus
+1100000470	venerunt autem in elim filii israel, ubi erant duodecim fontes aquarum, et septuaginta palmae: et castrametati sunt iuxta aquas.	2020-04-18	Liber_Exodus
+1100000471	caput 16	2020-04-18	Liber_Exodus
+1100000472	profectique sunt de elim, et venit omnis multitudo filiorum israel in desertum sin, quod est inter elim et sinai, quintodecimo die mensis secundi, postquam egressi sunt de terra aegypti.	2020-04-18	Liber_Exodus
+1100000473	et murmuravit omnis congregatio filiorum israel contra moysen et aaron in solitudine.	2020-04-18	Liber_Exodus
+1100000474	dixeruntque filii israel ad eos: utinam mortui essemus per manum domini in terra aegypti, quando sedebamus super ollas carnium, et comedebamus panem in saturitate: cur eduxistis nos in desertum istud, ut occideretis omnem multitudinem fame?	2020-04-18	Liber_Exodus
+1100000475	dixit autem dominus ad moysen: ecce ego pluam vobis panes de caelo: egrediatur populus, et colligat quae sufficiunt per singulos dies: ut tentem eum utrum ambulet in lege mea, an non.	2020-04-18	Liber_Exodus
+1100000476	die autem sexto parent quod inferant: et sit duplum quam colligere solebant per singulos dies.	2020-04-18	Liber_Exodus
+1100000477	dixeruntque moyses et aaron ad omnes filios israel: vespere scietis quod dominus eduxerit vos de terra aegypti,et mane videbitis gloriam domini: audivit enim murmur vestrum contra dominum: nos vero quid sumus, quia mussitastis contra nos?	2020-04-18	Liber_Exodus
+1100000478	et ait moyses: dabit vobis dominus vespere carnes edere, et mane panes in saturitate: eo quod audierit murmurationes vestras quibus murmurati estis contra eum: nos enim quid sumus? 	2020-04-18	Liber_Exodus
+1100000479	nec contra nos est murmur vestrum, sed contra dominum.	2020-04-18	Liber_Exodus
+1100000480	dixit quoque moyses ad aaron: dic universae congregationi filiorum israel: accedite coram domino: audivit enim murmur vestrum.	2020-04-18	Liber_Exodus
+1100000481	cumque loqueretur aaron ad omnem coetum filiorum israel, respexerunt ad solitudinem: et ecce gloria domini apparuit in nube.	2020-04-18	Liber_Exodus
+1100000482	locutus est autem dominus ad moysen, dicens:audivi murmurationes filiorum israel. 	2020-04-18	Liber_Exodus
+1100000483	loquere ad eos: vespere comedetis carnes, et mane saturabimini panibus: scietisque quod ego sum dominus deus vester.	2020-04-18	Liber_Exodus
+1100000484	factum est ergo vespere, et ascendens coturnix, cooperuit castra: mane quoque ros iacuit per circuitum castrorum.	2020-04-18	Liber_Exodus
+1100000485	cumque operuisset superficiem terrae, apparuit in solitudine minutum, et quasi pilo tusum in similitudinem pruinae super terram.	2020-04-18	Liber_Exodus
+1100000486	quod cum vidissent filii israel, dixerunt ad invicem: manhu? 	2020-04-18	Liber_Exodus
+1100000487	quod significat: quid est hoc? 	2020-04-18	Liber_Exodus
+1100000488	ignorabant enim quid esset. 	2020-04-18	Liber_Exodus
+1100000489	quibus ait moyses: iste est panis quem dominus dedit vobis ad vescendum.	2020-04-18	Liber_Exodus
+1100000490	hic est sermo, quem praecepit dominus: colligat unusquisque ex eo quantum sufficit ad vescendum: gomor per singula capita, iuxta numerum animarum vestrarum quae habitant in tabernaculo sic tolletis.	2020-04-18	Liber_Exodus
+1100000491	feceruntque ita filii israel: et collegerunt, alius plus, alius minus.	2020-04-18	Liber_Exodus
+1100000492	et mensi sunt ad mensuram gomor: nec qui plus collegerat, habuit amplius: nec qui minus paraverat, reperit minus: sed singuli iuxta id quod edere poterant, congregaverunt.	2020-04-18	Liber_Exodus
+1100000493	dixitque moyses ad eos: nullus relinquat ex eo in mane.	2020-04-18	Liber_Exodus
+1100000494	qui non audierunt eum, sed dimiserunt quidam ex eis usque mane, et scatere coepit vermibus, atque computruit: et iratus est contra eos moyses.	2020-04-18	Liber_Exodus
+1100000495	colligebant autem mane singuli, quantum sufficere poterat ad vescendum: cumque incaluisset sol, liquefiebat.	2020-04-18	Liber_Exodus
+1100000496	in die autem sexta collegerunt cibos duplices, id est, duo gomor per singulos homines: venerunt autem omnes principes multitudinis, et narraverunt moysi.	2020-04-18	Liber_Exodus
+1100000497	qui ait eis: hoc est quod locutus est dominus: requies sabbati sanctificata est domino cras: quodcumque operandum est, facite, et quae coquenda sunt coquite: quidquid autem reliquum fuerit, reponite usque in mane.	2020-04-18	Liber_Exodus
+1100000498	feceruntque ita ut praeceperat moyses, et non computruit, neque vermis inventus est in eo.	2020-04-18	Liber_Exodus
+1100000499	dixitque moyses: comedite illud hodie, quia sabbatum est domini: non invenietur hodie in agro.	2020-04-18	Liber_Exodus
+1100000500	sex diebus colligite: in die autem septimo sabbatum est domini, idcirco non invenietur.	2020-04-18	Liber_Exodus
+1100000501	venitque septima dies: et egressi de populo ut colligerent, non invenerunt.	2020-04-18	Liber_Exodus
+1100000502	dixit autem dominus ad moysen: usquequo non vultis custodire mandata mea et legem meam?	2020-04-18	Liber_Exodus
+1100000503	videte quod dominus dederit vobis sabbatum, et propter hoc die sexta tribuit vobis cibos duplices: maneat unusquisque apud semetipsum; nullus egrediatur de loco suo die septimo.	2020-04-18	Liber_Exodus
+1100000504	et sabbatizavit populus die septimo.	2020-04-18	Liber_Exodus
+1100000505	appellavitque domus israel nomen eius man: quod erat quasi semen coriandri album, gustusque eius quasi similae cum melle.	2020-04-18	Liber_Exodus
+1100000506	dixit autem moyses: iste est sermo, quem praecepit dominus: imple gomor ex eo, et custodiatur in futuras retro generationes: ut noverint panem, quo alui vos in solitudine, quando educti estis de terra aegypti.	2020-04-18	Liber_Exodus
+1100000507	dixitque moyses ad aaron: sume vas unum, et mitte ibi man, quantum potest capere gomor, et repone coram domino ad servandum in generationes vestras,sicut praecepit dominus moysi. 	2020-04-18	Liber_Exodus
+1100000508	posuitque illud aaron in tabernaculo reservandum.	2020-04-18	Liber_Exodus
+1100000509	filii autem israel comederunt man quadraginta annis, donec venirent in terram habitabilem: hoc cibo aliti sunt, usquequo tangerent fines terrae chanaan.	2020-04-18	Liber_Exodus
+1100000510	gomor autem decima pars est ephi.	2020-04-18	Liber_Exodus
+1100000511	caput 17	2020-04-18	Liber_Exodus
+1100000512	igitur profecta omnis multitudo filiorum israel de deserto sin per mansiones suas, iuxta sermonem domini, castrametati sunt in raphidim, ubi non erat aqua ad bibendum populo.	2020-04-18	Liber_Exodus
+1100000513	qui iurgatus contra moysen, ait: da nobis aquam, ut bibamus. 	2020-04-18	Liber_Exodus
+1100000514	quibus respondit moyses: quid iurgamini contra me? 	2020-04-18	Liber_Exodus
+1100000515	cur tentatis dominum?	2020-04-18	Liber_Exodus
+1100000516	sitivit ergo ibi populus prae aquae penuria, et murmuravit contra moysen, dicens: cur fecisti nos exire de aegypto, ut occideres nos, et liberos nostros, ac iumenta siti?	2020-04-18	Liber_Exodus
+1100000517	clamavit autem moyses ad dominum, dicens: quid faciam populo huic? 	2020-04-18	Liber_Exodus
+1100000518	adhuc paululum, et lapidabit me.	2020-04-18	Liber_Exodus
+1100000519	et ait dominus ad moysen: antecede populum, et sume tecum de senioribus israel: et virgam qua percussisti fluvium, tolle in manu tua, et vade.	2020-04-18	Liber_Exodus
+1100000520	en ego stabo ibi coram te, supra petram horeb: percutiesque petram, et exibit ex ea aqua, ut bibat populus. 	2020-04-18	Liber_Exodus
+1100000521	fecit moyses ita coram senioribus israel:et vocavit nomen loci illius, tentatio, propter iurgium filiorum israel, et quia tentaverunt dominum, dicentes: estne dominus in nobis, an non?	2020-04-18	Liber_Exodus
+1100000522	venit autem amalec, et pugnabat contra israel in raphidim.	2020-04-18	Liber_Exodus
+1100000523	dixitque moyses ad iosue: elige viros: et egressus, pugna contra amalec: cras ego stabo in vertice collis, habens virgam dei in manu mea.	2020-04-18	Liber_Exodus
+1100000524	fecit iosue ut locutus erat moyses, et pugnavit contra amalec: moyses autem et aaron et hur ascenderunt super verticem collis.	2020-04-18	Liber_Exodus
+1100000525	cumque levaret moyses manus, vincebat israel: sin autem paululum remisisset, superabat amalec.	2020-04-18	Liber_Exodus
+1100000526	manus autem moysi erant graves: sumentes igitur lapidem, posuerunt subter eum, in quo sedit: aaron autem et hur sustentabant manus eius ex utraque parte. 	2020-04-18	Liber_Exodus
+1100000527	et factum est ut manus illius non lassarentur usque ad occasum solis.	2020-04-18	Liber_Exodus
+1100000528	fugavitque iosue amalec, et populum eius in ore gladii.	2020-04-18	Liber_Exodus
+1100000529	dixit autem dominus ad moysen: scribe hoc ob monimentum in libro, et trade auribus iosue: delebo enim memoriam amalec sub caelo.	2020-04-18	Liber_Exodus
+1100000530	aedificavitque moyses altare: et vocavit nomen eius, dominus exaltatio mea, dicens:quia manus solii domini, et bellum domini erit contra amalec, a generatione in generationem.	2020-04-18	Liber_Exodus
+1100000531	caput 18	2020-04-18	Liber_Exodus
+1100000532	cumque audisset iethro, sacerdos madian, cognatus moysi, omnia quae fecerat deus moysi, et israeli populo suo, et quod eduxisset dominus israel de aegypto,tulit sephoram uxorem moysi quam remiserat,et duos filios eius: quorum unus vocabatur gersam, dicente patre: advena fui in terra aliena;alter vero eliezer: deus enim, ait, patris mei adiutor meus, et eruit me de gladio pharaonis.	2020-04-18	Liber_Exodus
+1100000533	venit ergo iethro cognatus moysi, et filii eius, et uxor eius ad moysen in desertum, ubi erat castrametatus iuxta montem dei.	2020-04-18	Liber_Exodus
+1100000534	et mandavit moysi, dicens: ego iethro cognatus tuus venio ad te, et uxor tua, et duo filii cum ea.	2020-04-18	Liber_Exodus
+1100000535	qui egressus in occursum cognati sui, adoravit, et osculatus est eum: salutaveruntque se mutuo verbis pacificis. 	2020-04-18	Liber_Exodus
+1100000536	cumque intrasset tabernaculum,narravit moyses cognato suo cuncta quae fecerat dominus pharaoni et aegyptiis propter israel: universumque laborem, qui accidisset eis in itinere, et quod liberaverat eos dominus.	2020-04-18	Liber_Exodus
+1100000537	laetatusque est iethro super omnibus bonis, quae fecerat dominus israeli, eo quod eruisset eum de manu aegyptiorum.	2020-04-18	Liber_Exodus
+1100000538	et ait: benedictus dominus, qui liberavit vos de manu aegyptiorum, et de manu pharaonis; qui eruit populum suum de manu aegypti.	2020-04-18	Liber_Exodus
+1100000539	nunc cognovi, quia magnus dominus super omnes deos: eo quod superbe egerint contra illos.	2020-04-18	Liber_Exodus
+1100000540	obtulit ergo iethro cognatus moysi holocausta et hostias deo: veneruntque aaron et omnes seniores israel, ut comederent panem cum eo coram deo.	2020-04-18	Liber_Exodus
+1100000541	altera autem die sedit moyses ut iudicaret populum, qui assistebat moysi a mane usque ad vesperam.	2020-04-18	Liber_Exodus
+1100000542	quod cum vidisset cognatus eius, omnia scilicet quae agebat in populo, ait: quid est hoc quod facis in plebe? 	2020-04-18	Liber_Exodus
+1100000543	cur solus sedes, et omnis populus praestolatur de mane usque ad vesperam?	2020-04-18	Liber_Exodus
+1100000544	cui respondit moyses: venit ad me populus quaerens sententiam dei:cumque acciderit eis aliqua disceptatio, veniunt ad me ut iudicem inter eos, et ostendam praecepta dei, et leges eius.	2020-04-18	Liber_Exodus
+1100000545	at ille: non bonam, inquit, rem facis.	2020-04-18	Liber_Exodus
+1100000546	stulto labore consumeris et tu, et populus iste qui tecum est: ultra vires tuas est negotium; solus illud non poteris sustinere.	2020-04-18	Liber_Exodus
+1100000547	sed audi verba mea atque consilia, et erit deus tecum. 	2020-04-18	Liber_Exodus
+1100000548	esto tu populo in his quae ad deum pertinent, ut referas quae dicuntur ad eum:ostendasque populo caeremonias et ritum colendi, viamque per quam ingredi debeant, et opus quod facere debeant.	2020-04-18	Liber_Exodus
+1100000549	provide autem de omni plebe viros potentes, et timentes deum, in quibus sit veritas, et qui oderint avaritiam, et constitue ex eis tribunos, et centuriones, et quinquagenarios, et decanos,qui iudicent populum omni tempore: quidquid autem maius fuerit, referant ad te, et ipsi minora tantummodo iudicent: leviusque sit tibi, partito in alios onere.	2020-04-18	Liber_Exodus
+1100000550	si hoc feceris, implebis imperium dei, et praecepta eius poteris sustentare: et omnis hic populus revertetur ad loca sua cum pace.	2020-04-18	Liber_Exodus
+1100000551	quibus auditis, moyses fecit omnia quae ille suggesserat.	2020-04-18	Liber_Exodus
+1100000552	et electis viris strenuis de cuncto israel, constituit eos principes populi, tribunos, et centuriones, et quinquagenarios, et decanos.	2020-04-18	Liber_Exodus
+1100000553	qui iudicabant plebem omni tempore: quidquid autem gravius erat, referebant ad eum, faciliora tantummodo iudicantes.	2020-04-18	Liber_Exodus
+1100000554	dimisitque cognatum suum: qui reversus abiit in terram suam.	2020-04-18	Liber_Exodus
+1100000555	caput 19	2020-04-18	Liber_Exodus
+1100000556	mense tertio egressionis israel de terra aegypti, in die hac venerunt in solitudinem sinai.	2020-04-18	Liber_Exodus
+1100000557	nam profecti de raphidim, et pervenientes usque in desertum sinai, castrametati sunt in eodem loco, ibique israel fixit tentoria e regione montis.	2020-04-18	Liber_Exodus
+1100000558	moyses autem ascendit ad deum: vocavitque eum dominus de monte, et ait: haec dices domui iacob, et annuntiabis filiis israel:vos ipsi vidistis quae fecerim aegyptiis, quomodo portaverim vos super alas aquilarum, et assumpserim mihi.	2020-04-18	Liber_Exodus
+1100000559	si ergo audieritis vocem meam, et custodieritis pactum meum, eritis mihi in peculium de cunctis populis: mea est enim omnis terra:et vos eritis mihi in regnum sacerdotale, et gens sancta. 	2020-04-18	Liber_Exodus
+1100000560	haec sunt verba quae loqueris ad filios israel.	2020-04-18	Liber_Exodus
+1100000561	venit moyses: et convocatis maioribus natu populi, exposuit omnes sermones quos mandaverat dominus.	2020-04-18	Liber_Exodus
+1100000562	responditque omnis populus simul: cuncta quae locutus est dominus, faciemus. 	2020-04-18	Liber_Exodus
+1100000563	cumque retulisset moyses verba populi ad dominum,ait ei dominus: iam nunc veniam ad te in caligine nubis, ut audiat me populus loquentem ad te, et credat tibi in perpetuum. 	2020-04-18	Liber_Exodus
+1100000564	nuntiavit ergo moyses verba populi ad dominum.	2020-04-18	Liber_Exodus
+1100000565	qui dixit ei: vade ad populum, et sanctifica illos hodie, et cras, laventque vestimenta sua.	2020-04-18	Liber_Exodus
+1100000566	et sint parati in diem tertium: in die enim tertia descendet dominus coram omni plebe super montem sinai.	2020-04-18	Liber_Exodus
+1100000567	constituesque terminos populo per circuitum, et dices ad eos: cavete ne ascendatis in montem, nec tangatis fines illius: omnis qui tetigerit montem, morte morietur.	2020-04-18	Liber_Exodus
+1100000568	manus non tanget eum, sed lapidibus opprimetur, aut confodietur iaculis: sive iumentum fuerit, sive homo, non vivet: cum coeperit clangere buccina, tunc ascendant in montem.	2020-04-18	Liber_Exodus
+1100000569	descenditque moyses de monte ad populum, et sanctificavit eum. 	2020-04-18	Liber_Exodus
+1100000570	cumque lavissent vestimenta sua,ait ad eos: estote parati in diem tertium, et ne appropinquetis uxoribus vestris.	2020-04-18	Liber_Exodus
+1100000571	iamque advenerat tertius dies, et mane inclaruerat: et ecce coeperunt audiri tonitrua, ac micare fulgura, et nubes densissima operire montem, clangorque buccinae vehementius perstrepebat: et timuit populus qui erat in castris.	2020-04-18	Liber_Exodus
+1100000572	cumque eduxisset eos moyses in occursum dei de loco castrorum, steterunt ad radices montis.	2020-04-18	Liber_Exodus
+1100000573	totus autem mons sinai fumabat, eo quod descendisset dominus super eum in igne: et ascenderet fumus ex eo quasi de fornace, eratque omnis mons terribilis.	2020-04-18	Liber_Exodus
+1100000574	et sonitus buccinae paulatim crescebat in maius, et prolixius tendebatur: moyses loquebatur, et deus respondebat ei.	2020-04-18	Liber_Exodus
+1100000575	descenditque dominus super montem sinai in ipso montis vertice, et vocavit moysen in cacumen eius. 	2020-04-18	Liber_Exodus
+1100000576	quo cum ascendisset,dixit ad eum: descende, et contestare populum: ne forte velit transcendere terminos ad videndum dominum, et pereat ex eis plurima multitudo.	2020-04-18	Liber_Exodus
+1100000577	sacerdotes quoque qui accedunt ad dominum, sanctificentur, ne percutiat eos.	2020-04-18	Liber_Exodus
+1100000578	dixitque moyses ad dominum: non poterit vulgus ascendere in montem sinai: tu enim testificatus es, et iussisti, dicens: pone terminos circa montem, et sanctifica illum.	2020-04-18	Liber_Exodus
+1100000579	cui ait dominus: vade, descende: ascendesque tu, et aaron tecum: sacerdotes autem et populus ne transeant terminos, nec ascendant ad dominum, ne forte interficiat illos.	2020-04-18	Liber_Exodus
+1100000580	descenditque moyses ad populum, et omnia narravit eis.	2020-04-18	Liber_Exodus
+1100000581	caput 20	2020-04-18	Liber_Exodus
+1100000582	locutusque est dominus cunctos sermones hos:ego sum dominus deus tuus, qui eduxi te de terra aegypti, de domo servitutis.	2020-04-18	Liber_Exodus
+1100000583	non habebis deos alienos coram me.	2020-04-18	Liber_Exodus
+1100000584	non facies tibi sculptile, neque omnem similitudinem quae est in caelo desuper, et quae in terra deorsum, nec eorum quae sunt in aquis sub terra.	2020-04-18	Liber_Exodus
+1100000585	non adorabis ea, neque coles: ego sum dominus deus tuus fortis, zelotes, visitans iniquitatem patrum in filios, in tertiam et quartam generationem eorum qui oderunt me:et faciens misericordiam in millia his qui diligunt me, et custodiunt praecepta mea.	2020-04-18	Liber_Exodus
+1100000586	non assumes nomen domini dei tui in vanum: nec enim habebit insontem dominus eum qui assumpserit nomen domini dei sui frustra.	2020-04-18	Liber_Exodus
+1100000587	memento ut diem sabbati sanctifices.	2020-04-18	Liber_Exodus
+1100000588	sex diebus operaberis, et facies omnia opera tua.	2020-04-18	Liber_Exodus
+1100000589	septimo autem die sabbatum domini dei tui est: non facies omne opus in eo, tu, et filius tuus et filia tua, servus tuus et ancilla tua, iumentum tuum, et advena qui est intra portas tuas.	2020-04-18	Liber_Exodus
+1100000590	sex enim diebus fecit dominus caelum et terram, et mare, et omnia quae in eis sunt, et requievit in die septimo: idcirco benedixit dominus diei sabbati, et sanctificavit eum.	2020-04-18	Liber_Exodus
+1100000591	honora patrem tuum et matrem tuam, ut sis longaevus super terram, quam dominus deus tuus dabit tibi.	2020-04-18	Liber_Exodus
+1100000592	non occides.	2020-04-18	Liber_Exodus
+1100000593	non moechaberis.	2020-04-18	Liber_Exodus
+1100000594	non furtum facies.	2020-04-18	Liber_Exodus
+1100000595	non loqueris contra proximum tuum falsum testimonium.	2020-04-18	Liber_Exodus
+1100000596	non concupisces domum proximi tui, nec desiderabis uxorem eius, non servum, non ancillam, non bovem, non asinum, nec omnia quae illius sunt.	2020-04-18	Liber_Exodus
+1100000597	cunctus autem populus videbat voces et lampades, et sonitum buccinae, montemque fumantem: et perterriti ac pavore concussi, steterunt procul,dicentes moysi: loquere tu nobis, et audiemus: non loquatur nobis dominus, ne forte moriamur.	2020-04-18	Liber_Exodus
+1100000598	et ait moyses ad populum: nolite timere: ut enim probaret vos venit deus, et ut terror illius esset in vobis, et non peccaretis.	2020-04-18	Liber_Exodus
+1100000599	stetitque populus de longe. 	2020-04-18	Liber_Exodus
+1100000600	moyses autem accessit ad caliginem in qua erat deus.	2020-04-18	Liber_Exodus
+1100000601	dixit praeterea dominus ad moysen: haec dices filiis israel: vos vidistis quod de caelo locutus sim vobis.	2020-04-18	Liber_Exodus
+1100000602	non facietis deos argenteos, nec deos aureos facietis vobis.	2020-04-18	Liber_Exodus
+1100000603	altare de terra facietis mihi, et offeretis super eo holocausta et pacifica vestra, oves vestras et boves in omni loco in quo memoria fuerit nominis mei: veniam ad te, et benedicam tibi.	2020-04-18	Liber_Exodus
+1100000604	quod si altare lapideum feceris mihi, non aedificabis illud de sectis lapidibus: si enim levaveris cultrum super eo, polluetur.	2020-04-18	Liber_Exodus
+1100000605	non ascendes per gradus ad altare meum, ne reveletur turpitudo tua.	2020-04-18	Liber_Exodus
+1100000606	caput 21	2020-04-18	Liber_Exodus
+1100000607	haec sunt iudicia quae propones eis.	2020-04-18	Liber_Exodus
+1100000608	si emeris servum hebraeum, sex annis serviet tibi: in septimo egredietur liber gratis.	2020-04-18	Liber_Exodus
+1100000609	cum quali veste intraverit, cum tali exeat: si habens uxorem, et uxor egredietur simul.	2020-04-18	Liber_Exodus
+1100000610	sin autem dominus dederit illi uxorem, et pepererit filios et filias: mulier et liberi eius erunt domini sui, ipse vero exibit cum vestitu suo.	2020-04-18	Liber_Exodus
+1100000611	quod si dixerit servus: diligo dominum meum et uxorem ac liberos; non egrediar liber:offeret eum dominus diis, et applicabitur ad ostium et postes, perforabitque aurem eius subula: et erit ei servus in saeculum.	2020-04-18	Liber_Exodus
+1100000612	si quis vendiderit filiam suam in famulam, non egredietur sicut ancillae exire consueverunt.	2020-04-18	Liber_Exodus
+1100000613	si displicuerit oculis domini sui cui tradita fuerat, dimittet eam: populo autem alieno vendendi non habebit potestatem, si spreverit eam.	2020-04-18	Liber_Exodus
+1100000614	sin autem filio suo desponderit eam, iuxta morem filiarum faciet illi.	2020-04-18	Liber_Exodus
+1100000615	quod si alteram ei acceperit, providebit puellae nuptias, et vestimenta, et pretium pudicitiae non negabit.	2020-04-18	Liber_Exodus
+1100000616	si tria ista non fecerit, egredietur gratis absque pecunia.	2020-04-18	Liber_Exodus
+1100000617	qui percusserit hominem volens occidere, morte moriatur.	2020-04-18	Liber_Exodus
+1100000618	qui autem non est insidiatus, sed deus illum tradidit in manus eius, constituam tibi locum in quem fugere debeat.	2020-04-18	Liber_Exodus
+1100000619	si quis per industriam occiderit proximum suum, et per insidias: ab altari meo evelles eum, ut moriatur.	2020-04-18	Liber_Exodus
+1100000620	qui percusserit patrem suum aut matrem, morte moriatur.	2020-04-18	Liber_Exodus
+1100000621	qui furatus fuerit hominem, et vendiderit eum, convictus noxae, morte moriatur.	2020-04-18	Liber_Exodus
+1100000622	qui maledixerit patri suo, vel matri, morte moriatur.	2020-04-18	Liber_Exodus
+1100000623	si rixati fuerint viri, et percusserit alter proximum suum lapide vel pugno, et ille mortuus non fuerit, sed iacuerit in lectulo:si surrexerit, et ambulaverit foris super baculum suum, innocens erit qui percusserit, ita tamen ut operas eius et impensas in medicos restituat.	2020-04-18	Liber_Exodus
+1100000624	qui percusserit servum suum, vel ancillam virga, et mortui fuerint in manibus eius, criminis reus erit.	2020-04-18	Liber_Exodus
+1100000625	sin autem uno die vel duobus supervixerit, non subiacebit poenae, quia pecunia illius est.	2020-04-18	Liber_Exodus
+1100000626	si rixati fuerint viri, et percusserit quis mulierem praegnantem, et abortivum quidem fecerit, sed ipsa vixerit: subiacebit damno quantum maritus mulieris expetierit, et arbitri iudicaverint.	2020-04-18	Liber_Exodus
+1100000627	sin autem mors eius fuerit subsecuta, reddet animam pro anima,oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede,adustionem pro adustione, vulnus pro vulnere, livorem pro livore.	2020-04-18	Liber_Exodus
+1100000628	si percusserit quispiam oculum servi sui aut ancillae, et luscos eos fecerit, dimittet eos liberos pro oculo quem eruit.	2020-04-18	Liber_Exodus
+1100000629	dentem quoque si excusserit servo vel ancillae suae, similiter dimittet eos liberos.	2020-04-18	Liber_Exodus
+1100000630	si bos cornu percusserit virum aut mulierem, et mortui fuerint, lapidibus obruetur: et non comedentur carnes eius, dominus quoque bovis innocens erit.	2020-04-18	Liber_Exodus
+1100000631	quod si bos cornupeta fuerit ab heri et nudiustertius, et contestati sunt dominum eius, nec recluserit eum, occideritque virum aut mulierem: et bos lapidibus obruetur, et dominum eius occident.	2020-04-18	Liber_Exodus
+1100000632	quod si pretium fuerit ei impositum, dabit pro anima sua quidquid fuerit postulatus.	2020-04-18	Liber_Exodus
+1100000633	filium quoque et filiam si cornu percusserit, simili sententiae subiacebit.	2020-04-18	Liber_Exodus
+1100000634	si servum ancillamque invaserit, triginta siclos argenti domino dabit, bos vero lapidibus opprimetur.	2020-04-18	Liber_Exodus
+1100000635	si quis aperuerit cisternam, et foderit, et non operuerit eam, cecideritque bos aut asinus in eam,reddet dominus cisternae pretium iumentorum: quod autem mortuum est, ipsius erit.	2020-04-18	Liber_Exodus
+1100000636	si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit: vendent bovem vivum, et divident pretium, cadaver autem mortui inter se dispertient.	2020-04-18	Liber_Exodus
+1100000637	sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum dominus suus: reddet bovem pro bove, et cadaver integrum accipiet.	2020-04-18	Liber_Exodus
+1100000638	caput 22	2020-04-18	Liber_Exodus
+1100000639	si quis furatus fuerit bovem aut ovem, et occiderit vel vendiderit: quinque boves pro uno bove restituet, et quatuor oves pro una ove.	2020-04-18	Liber_Exodus
+1100000640	si effringens fur domum sive suffodiens fuerit inventus, et accepto vulnere mortuus fuerit, percussor non erit reus sanguinis.	2020-04-18	Liber_Exodus
+1100000641	quod si orto sole hoc fecerit, homicidium perpetravit, et ipse morietur. 	2020-04-18	Liber_Exodus
+1100000642	si non habuerit quod pro furto reddat, ipse venundabitur.	2020-04-18	Liber_Exodus
+1100000643	si inventum fuerit apud eum quod furatus est, vivens: sive bos, sive asinus, sive ovis, duplum restituet.	2020-04-18	Liber_Exodus
+1100000644	si laeserit quispiam agrum vel vineam, et dimiserit iumentum suum ut depascatur aliena: quidquid optimum habuerit in agro suo, vel in vinea, pro damni aestimatione restituet.	2020-04-18	Liber_Exodus
+1100000645	si egressus ignis invenerit spinas, et comprehenderit acervos frugum, sive stantes segetes in agris, reddet damnum qui ignem succenderit.	2020-04-18	Liber_Exodus
+1100000646	si quis commendaverit amico pecuniam aut vas in custodiam, et ab eo, qui susceperat, furto ablata fuerint: si invenitur fur, duplum reddet:si latet fur, dominus domus applicabitur ad deos, et iurabit quod non extenderit manum in rem proximi sui,ad perpetrandam fraudem, tam in bove quam in asino, et ove ac vestimento, et quidquid damnum inferre potest: ad deos utriusque causa perveniet, et si illi iudicaverit, duplum restituet proximo suo.	2020-04-18	Liber_Exodus
+1100000647	si quis commendaverit proximo suo asinum, bovem, ovem, et omne iumentum ad custodiam, et mortuum fuerit, aut debilitatum, vel captum ab hostibus, nullusque hoc viderit:iusiurandum erit in medio, quod non extenderit manum ad rem proximi sui: suscipietque dominus iuramentum, et ille reddere non cogetur.	2020-04-18	Liber_Exodus
+1100000648	quod si furto ablatum fuerit, restituet damnum domino;si comestum a bestia, deferat ad eum quod occisum est, et non restituet.	2020-04-18	Liber_Exodus
+1100000649	qui a proximo suo quidquam horum mutuo postulaverit, et debilitatum aut mortuum fuerit domino non praesente, reddere compelletur.	2020-04-18	Liber_Exodus
+1100000650	quod si impraesentiarum dominus fuerit, non restituet, maxime si conductum venerat pro mercede operis sui.	2020-04-18	Liber_Exodus
+1100000651	si seduxerit quis virginem necdum desponsatam, dormieritque cum ea: dotabit eam, et habebit eam uxorem.	2020-04-18	Liber_Exodus
+1100000652	si pater virginis dare noluerit, reddet pecuniam iuxta modum dotis, quam virgines accipere consueverunt.	2020-04-18	Liber_Exodus
+1100000653	maleficos non patieris vivere.	2020-04-18	Liber_Exodus
+1100000654	qui coierit cum iumento, morte moriatur.	2020-04-18	Liber_Exodus
+1100000655	qui immolat diis, occidetur, praeterquam domino soli.	2020-04-18	Liber_Exodus
+1100000656	advenam non contristabis, neque affliges eum: advenae enim et ipsi fuistis in terra aegypti.	2020-04-18	Liber_Exodus
+1100000657	viduae et pupillo non nocebitis.	2020-04-18	Liber_Exodus
+1100000658	si laeseritis eos, vociferabuntur ad me, et ego audiam clamorem eorum:et indignabitur furor meus, percutiamque vos gladio, et erunt uxores vestrae viduae, et filii vestri pupilli.	2020-04-18	Liber_Exodus
+1100000659	si pecuniam mutuam dederis populo meo pauperi qui habitat tecum, non urgebis eum quasi exactor, nec usuris opprimes.	2020-04-18	Liber_Exodus
+1100000660	si pignus a proximo tuo acceperis vestimentum, ante solis occasum reddes ei.	2020-04-18	Liber_Exodus
+1100000661	ipsum enim est solum, quo operitur, indumentum carnis eius, nec habet aliud in quo dormiat: si clamaverit ad me, exaudiam eum, quia misericors sum.	2020-04-18	Liber_Exodus
+1100000662	diis non detrahes, et principi populi tui non maledices.	2020-04-18	Liber_Exodus
+1100000663	decimas tuas et primitias tuas non tardabis reddere: primogenitum filiorum tuorum dabis mihi.	2020-04-18	Liber_Exodus
+1100000664	de bobus quoque, et ovibus similiter facies: septem diebus sit cum matre sua, die octava reddes illum mihi.	2020-04-18	Liber_Exodus
+1100000665	viri sancti eritis mihi: carnem, quae a bestiis fuerit praegustata, non comedetis, sed proiicietis canibus.	2020-04-18	Liber_Exodus
+1100000666	caput 23	2020-04-18	Liber_Exodus
+1100000667	non suscipies vocem mendacii, nec iunges manum tuam ut pro impio dicas falsum testimonium.	2020-04-18	Liber_Exodus
+1100000668	non sequeris turbam ad faciendum malum: nec in iudicio, plurimorum acquiesces sententiae, ut a vero devies.	2020-04-18	Liber_Exodus
+1100000669	pauperis quoque non misereberis in iudicio.	2020-04-18	Liber_Exodus
+1100000670	si occurreris bovi inimici tui, aut asino erranti, reduc ad eum.	2020-04-18	Liber_Exodus
+1100000671	si videris asinum odientis te iacere sub onere, non pertransibis, sed sublevabis cum eo.	2020-04-18	Liber_Exodus
+1100000672	non declinabis in iudicium pauperis.	2020-04-18	Liber_Exodus
+1100000673	mendacium fugies. 	2020-04-18	Liber_Exodus
+1100000674	insontem et iustum non occides: quia aversor impium.	2020-04-18	Liber_Exodus
+1100000675	nec accipies munera, quae etiam excaecant prudentes, et subvertunt verba iustorum.	2020-04-18	Liber_Exodus
+1100000676	peregrino molestus non eris. 	2020-04-18	Liber_Exodus
+1100000677	scitis enim advenarum animas: quia et ipsi peregrini fuistis in terra aegypti.	2020-04-18	Liber_Exodus
+1100000678	sex annis seminabis terram tuam, et congregabis fruges eius:anno autem septimo dimittes eam, et requiescere facies, ut comedant pauperes populi tui: et quidquid reliquum fuerit, edant bestiae agri: ita facies in vinea et in oliveto tuo.	2020-04-18	Liber_Exodus
+1100000679	sex diebus operaberis: septimo die cessabis, ut requiescat bos et asinus tuus, et refrigeretur filius ancillae tuae, et advena.	2020-04-18	Liber_Exodus
+1100000680	omnia quae dixi vobis, custodite. 	2020-04-18	Liber_Exodus
+1100000681	et per nomen externorum deorum non iurabitis, neque audietur ex ore vestro.	2020-04-18	Liber_Exodus
+1100000682	tribus vicibus per singulos annos mihi festa celebrabitis.	2020-04-18	Liber_Exodus
+1100000683	solemnitatem azymorum custodies. 	2020-04-18	Liber_Exodus
+1100000684	septem diebus comedes azyma, sicut praecepi tibi, tempore mensis novorum, quando egressus es de aegypto: non apparebis in conspectu meo vacuus.	2020-04-18	Liber_Exodus
+1100000685	et solemnitatem messis primitivorum operis tui, quaecumque seminaveris in agro: solemnitatem quoque in exitu anni, quando congregaveris omnes fruges tuas de agro.	2020-04-18	Liber_Exodus
+1100000686	ter in anno apparebit omne masculinum tuum coram domino deo tuo.	2020-04-18	Liber_Exodus
+1100000687	non immolabis super fermento sanguinem victimae meae, nec remanebit adeps solemnitatis meae usque mane.	2020-04-18	Liber_Exodus
+1100000688	primitias frugum terrae tuae deferes in domum domini dei tui. 	2020-04-18	Liber_Exodus
+1100000689	non coques haedum in lacte matris suae.	2020-04-18	Liber_Exodus
+1100000690	ecce ego mittam angelum meum, qui praecedat te, et custodiat in via, et introducat in locum quem paravi.	2020-04-18	Liber_Exodus
+1100000691	observa eum, et audi vocem eius, nec contemnendum putes: quia non dimittet cum peccaveris, et est nomen meum in illo.	2020-04-18	Liber_Exodus
+1100000692	quod si audieris vocem eius, et feceris omnia quae loquor, inimicus ero inimicis tuis, et affligam affligentes te.	2020-04-18	Liber_Exodus
+1100000693	praecedetque te angelus meus, et introducet te ad amorrhaeum, et hethaeum, et pherezaeum, chananaeumque, et hevaeum, et iebusaeum, quos ego conteram.	2020-04-18	Liber_Exodus
+1100000694	non adorabis deos eorum, nec coles eos: non facies opera eorum, sed destrues eos, et confringes statuas eorum.	2020-04-18	Liber_Exodus
+1100000695	servietisque domino deo vestro, ut benedicam panibus tuis et aquis, et auferam infirmitatem de medio tui.	2020-04-18	Liber_Exodus
+1100000696	non erit infoecunda, nec sterilis in terra tua: numerum dierum tuorum implebo.	2020-04-18	Liber_Exodus
+1100000697	terrorem meum mittam in praecursum tuum, et occidam omnem populum, ad quem ingredieris: cunctorumque inimicorum tuorum coram te terga vertam:emittens crabrones prius, qui fugabunt hevaeum, et chananaeum, et hethaeum, antequam introeas.	2020-04-18	Liber_Exodus
+1100000698	non eiiciam eos a facie tua anno uno: ne terra in solitudinem redigatur, et crescant contra te bestiae.	2020-04-18	Liber_Exodus
+1100000699	paulatim expellam eos de conspectu tuo, donec augearis, et possideas terram.	2020-04-18	Liber_Exodus
+1100000700	ponam autem terminos tuos a mari rubro usque ad mare palaestinorum, et a deserto usque ad fluvium: tradam in manibus vestris habitatores terrae, et eiiciam eos de conspectu vestro.	2020-04-18	Liber_Exodus
+1100000701	non inibis cum eis foedus, nec cum diis eorum.	2020-04-18	Liber_Exodus
+1100000702	non habitent in terra tua, ne forte peccare te faciant in me, si servieris diis eorum: quod tibi certe erit in scandalum.	2020-04-18	Liber_Exodus
+1100000703	caput 24	2020-04-18	Liber_Exodus
+1100000704	moysi quoque dixit: ascende ad dominum tu, et aaron, nadab et abiu, et septuaginta senes ex israel, et adorabitis procul.	2020-04-18	Liber_Exodus
+1100000705	solusque moyses ascendet ad dominum, et illi non appropinquabunt: nec populus ascendet cum eo.	2020-04-18	Liber_Exodus
+1100000706	venit ergo moyses et narravit plebi omnia verba domini, atque iudicia: responditque omnis populus una voce: omnia verba domini, quae locutus est, faciemus.	2020-04-18	Liber_Exodus
+1100000707	scripsit autem moyses universos sermones domini: et mane consurgens, aedificavit altare ad radices montis, et duodecim titulos per duodecim tribus israel.	2020-04-18	Liber_Exodus
+1100000708	misitque iuvenes de filiis israel, et obtulerunt holocausta, immolaveruntque victimas pacificas domino, vitulos.	2020-04-18	Liber_Exodus
+1100000709	tulit itaque moyses dimidiam partem sanguinis, et misit in crateras: partem autem residuam fudit super altare.	2020-04-18	Liber_Exodus
+1100000710	assumensque volumen foederis, legit audiente populo: qui dixerunt: omnia quae locutus est dominus, faciemus, et erimus obedientes.	2020-04-18	Liber_Exodus
+1100000711	ille vero sumptum sanguinem respersit in populum, et ait: hic est sanguis foederis quod pepigit dominus vobiscum super cunctis sermonibus his.	2020-04-18	Liber_Exodus
+1100000712	ascenderuntque moyses et aaron, nadab et abiu, et septuaginta de senioribus israel:et viderunt deum israel: et sub pedibus eius quasi opus lapidis sapphirini, et quasi caelum, cum serenum est.	2020-04-18	Liber_Exodus
+1100000713	nec super eos qui procul recesserant de filiis israel, misit manum suam, videruntque deum, et comederunt, ac biberunt.	2020-04-18	Liber_Exodus
+1100000714	dixit autem dominus ad moysen: ascende ad me in montem, et esto ibi: daboque tibi tabulas lapideas, et legem, ac mandata quae scripsi: ut doceas eos.	2020-04-18	Liber_Exodus
+1100000715	surrexerunt moyses et iosue minister eius: ascendensque moyses in montem dei,senioribus ait: expectate hic donec revertamur ad vos. 	2020-04-18	Liber_Exodus
+1100000716	habetis aaron et hur vobiscum: si quid natum fuerit quaestionis, referetis ad eos.	2020-04-18	Liber_Exodus
+1100000717	cumque ascendisset moyses, operuit nubes montem,et habitavit gloria domini super sinai, tegens illum nube sex diebus: septimo autem die vocavit eum de medio caliginis.	2020-04-18	Liber_Exodus
+1100000718	erat autem species gloriae domini quasi ignis ardens super verticem montis in conspectu filiorum israel.	2020-04-18	Liber_Exodus
+1100000719	ingressusque moyses medium nebulae, ascendit in montem: et fuit ibi quadraginta diebus, et quadraginta noctibus.	2020-04-18	Liber_Exodus
+1100000720	caput 25	2020-04-18	Liber_Exodus
+1100000721	locutusque est dominus ad moysen, dicens:loquere filiis israel, ut tollant mihi primitias: ab omni homine qui offeret ultroneus, accipietis eas.	2020-04-18	Liber_Exodus
+1100000722	haec sunt autem quae accipere debeatis: aurum, et argentum, et aes,hyacinthum et purpuram, coccumque bis tinctum, et byssum, pilos caprarum,et pelles arietum rubricatas, pellesque ianthinas, et ligna setim:oleum ad luminaria concinnanda: aromata in unguentum, et thymiamata boni odoris:lapides onychinos, et gemmas ad ornandum ephod, ac rationale.	2020-04-18	Liber_Exodus
+1100000723	facientque mihi sanctuarium, et habitabo in medio eorum:iuxta omnem similitudinem tabernaculi quod ostendam tibi, et omnium vasorum in cultum eius.	2020-04-18	Liber_Exodus
+1100000724	sicque facietis illud:arcam de lignis setim compingite, cuius longitudo habeat duos et semis cubitos: latitudo, cubitum et dimidium: altitudo, cubitum similiter ac semissem.	2020-04-18	Liber_Exodus
+1100000725	et deaurabis eam auro mundissimo intus et foris: faciesque supra, coronam auream per circuitum:et quatuor circulos aureos, quos pones per quatuor arcae angulos: duo circuli sint in latere uno, et duo in altero.	2020-04-18	Liber_Exodus
+1100000726	facies quoque vectes de lignis setim, et operies eos auro.	2020-04-18	Liber_Exodus
+1100000727	inducesque per circulos qui sunt in arcae lateribus, ut portetur in eis:qui semper erunt in circulis, nec umquam extrahentur ab eis.	2020-04-18	Liber_Exodus
+1100000728	ponesque in arca testificationem quam dabo tibi.	2020-04-18	Liber_Exodus
+1100000729	facies et propitiatorium de auro mundissimo: duos cubitos et dimidium tenebit longitudo eius, et cubitum ac semissem latitudo.	2020-04-18	Liber_Exodus
+1100000730	duos quoque cherubim aureos et productiles facies, ex utraque parte oraculi.	2020-04-18	Liber_Exodus
+1100000731	cherub unus sit in latere uno, et alter in altero.	2020-04-18	Liber_Exodus
+1100000732	utrumque latus propitiatorii tegant expandentes alas, et operientes oraculum, respiciantque se mutuo versis vultibus in propitiatorium quo operienda est arca,in qua pones testimonium quod dabo tibi.	2020-04-18	Liber_Exodus
+1100000733	inde praecipiam, et loquar ad te supra propitiatorium, ac de medio duorum cherubim, qui erunt super arcam testimonii, cuncta quae mandabo per te filiis israel.	2020-04-18	Liber_Exodus
+1100000734	facies et mensam de lignis setim, habentem duos cubitos longitudinis, et in latitudine cubitum, et in altitudine cubitum et semissem.	2020-04-18	Liber_Exodus
+1100000735	et inaurabis eam auro purissimo: faciesque illi labium aureum per circuitum,et ipsi labio coronam interrasilem altam quatuor digitis: et super illam, alteram coronam aureolam.	2020-04-18	Liber_Exodus
+1100000736	quatuor quoque circulos aureos praeparabis, et pones eis in quatuor angulis eiusdem mensae per singulos pedes.	2020-04-18	Liber_Exodus
+1100000737	subter coronam erunt circuli aurei, ut mittantur vectes per eos, et possit mensa portari.	2020-04-18	Liber_Exodus
+1100000738	ipsos quoque vectes facies de lignis setim, et circumdabis auro ad subvehendam mensam.	2020-04-18	Liber_Exodus
+1100000739	parabis et acetabula, ac phialas, thuribula, et cyathos, in quibus offerenda sunt libamina, ex auro purissimo.	2020-04-18	Liber_Exodus
+1100000740	et pones super mensam panes propositionis in conspectu meo semper.	2020-04-18	Liber_Exodus
+1100000741	facies et candelabrum ductile de auro mundissimo, hastile eius, et calamos, scyphos, et sphaerulas, ac lilia ex ipso procedentia.	2020-04-18	Liber_Exodus
+1100000742	sex calami egredientur de lateribus, tres ex uno latere, et tres ex altero.	2020-04-18	Liber_Exodus
+1100000743	tres scyphi quasi in nucis modum per calamos singulos, sphaerulaque simul, et lilium: et tres similiter scyphi instar nucis in calamo altero, sphaerulaque simul et lilium. 	2020-04-18	Liber_Exodus
+1100000744	hoc erit opus sex calamorum, qui producendi sunt de hastili:in ipso autem candelabro erunt quatuor scyphi in nucis modum, sphaerulaeque per singulos, et lilia.	2020-04-18	Liber_Exodus
+1100000745	sphaerulae sub duobus calamis per tria loca, qui simul sex fiunt procedentes de hastili uno.	2020-04-18	Liber_Exodus
+1100000746	et sphaerulae igitur et calami ex ipso erunt, universa ductilia de auro purissimo.	2020-04-18	Liber_Exodus
+1100000747	facies et lucernas septem, et pones eas super candelabrum, ut luceant ex adverso.	2020-04-18	Liber_Exodus
+1100000748	emunctoria quoque, et ubi quae emuncta sunt extinguantur, fiant de auro purissimo.	2020-04-18	Liber_Exodus
+1100000749	omne pondus candelabri cum universis vasis suis habebit talentum auri purissimi.	2020-04-18	Liber_Exodus
+1100000750	inspice, et fac secundum exemplar quod tibi in monte monstratum est.	2020-04-18	Liber_Exodus
+1100000751	caput 26	2020-04-18	Liber_Exodus
+1100000752	tabernaculum vero ita facies: decem cortinas de bysso retorta, et hyacintho, ac purpura, coccoque bis tincto, variatas opere plumario facies.	2020-04-18	Liber_Exodus
+1100000753	longitudo cortinae unius habebit viginti octo cubitos: latitudo, quatuor cubitorum erit. 	2020-04-18	Liber_Exodus
+1100000754	unius mensurae fient universa tentoria.	2020-04-18	Liber_Exodus
+1100000755	quinque cortinae sibi iungentur mutuo, et aliae quinque nexu simili cohaerebunt.	2020-04-18	Liber_Exodus
+1100000756	ansulas hyacinthinas in lateribus ac summitatibus facies cortinarum, ut possint invicem copulari.	2020-04-18	Liber_Exodus
+1100000757	quinquagenas ansulas cortina habebit in utraque parte, ita insertas ut ansa contra ansam veniat, et altera alteri possit aptari.	2020-04-18	Liber_Exodus
+1100000758	facies et quinquaginta circulos aureos quibus cortinarum vela iungenda sunt, ut unum tabernaculum fiat.	2020-04-18	Liber_Exodus
+1100000759	facies et saga cilicina undecim, ad operiendum tectum tabernaculi.	2020-04-18	Liber_Exodus
+1100000760	longitudo sagi unius habebit triginta cubitos, et latitudo, quatuor: aequa erit mensura sagorum omnium.	2020-04-18	Liber_Exodus
+1100000761	e quibus quinque iunges seorsum, et sex sibi mutuo copulabis, ita ut sextum sagum in fronte tecti duplices.	2020-04-18	Liber_Exodus
+1100000762	facies et quinquaginta ansas in ora sagi unius, ut coniungi cum altero queat, et quinquaginta ansas in ora sagi alterius, ut cum altero copuletur.	2020-04-18	Liber_Exodus
+1100000763	facies et quinquaginta fibulas aeneas quibus iungantur ansae, ut unum ex omnibus operimentum fiat.	2020-04-18	Liber_Exodus
+1100000764	quod autem superfuerit in sagis quae parantur tecto, id est unum sagum quod amplius est, ex medietate eius operies posteriora tabernaculi.	2020-04-18	Liber_Exodus
+1100000765	et cubitus ex una parte pendebit, et alter ex altera qui plus est in sagorum longitudine, utrumque latus tabernaculi protegens.	2020-04-18	Liber_Exodus
+1100000766	facies et operimentum aliud tecto de pellibus arietum rubricatis: et super hoc rursum aliud operimentum de ianthinis pellibus.	2020-04-18	Liber_Exodus
+1100000767	facies et tabulas stantes tabernaculi de lignis setim,quae singulae denos cubitos in longitudine habeant, et in latitudine singulos ac semissem.	2020-04-18	Liber_Exodus
+1100000768	in lateribus tabulae, duae incastraturae fient, quibus tabula alteri tabulae connectatur: atque in hunc modum cunctae tabulae parabuntur.	2020-04-18	Liber_Exodus
+1100000769	quarum viginti erunt in latere meridiano quod vergit ad austrum.	2020-04-18	Liber_Exodus
+1100000770	quibus quadraginta bases argenteas fundes, ut binae bases singulis tabulis per duos angulos subiiciantur.	2020-04-18	Liber_Exodus
+1100000771	in latere quoque secundo tabernaculi quod vergit ad aquilonem, viginti tabulae erunt,quadraginta habentes bases argenteas, binae bases singulis tabulis supponentur.	2020-04-18	Liber_Exodus
+1100000772	ad occidentalem vero plagam tabernaculi facies sex tabulas,et rursum alias duas quae in angulis erigantur post tergum tabernaculi.	2020-04-18	Liber_Exodus
+1100000773	eruntque coniunctae a deorsum usque sursum, et una omnes compago retinebit. 	2020-04-18	Liber_Exodus
+1100000774	duabus quoque tabulis quae in angulis ponendae sunt, similis iunctura servabitur.	2020-04-18	Liber_Exodus
+1100000775	et erunt simul tabulae octo, bases earum argenteae sedecim, duabus basibus per unam tabulam supputatis.	2020-04-18	Liber_Exodus
+1100000776	facies et vectes de lignis setim quinque ad continendas tabulas in uno latere tabernaculi,et quinque alios in altero, et eiusdem numeri ad occidentalem plagam:qui mittentur per medias tabulas a summo usque ad summum.	2020-04-18	Liber_Exodus
+1100000777	ipsas quoque tabulas deaurabis, et fundes in eis annulos aureos per quos vectes tabulata contineant: quos operies laminis aureis.	2020-04-18	Liber_Exodus
+1100000778	et eriges tabernaculum iuxta exemplar quod tibi in monte monstratum est.	2020-04-18	Liber_Exodus
+1100000779	facies et velum de hyacintho, et purpura, coccoque bis tincto, et bysso retorta, opere plumario et pulchra varietate contextum:quod appendes ante quatuor columnas de lignis setim, quae ipsae quidem deauratae erunt, et habebunt capita aurea, sed bases argenteas.	2020-04-18	Liber_Exodus
+1100000780	inseretur autem velum per circulos, intra quod pones arcam testimonii, quo et sanctuarium, et sanctuarii sanctuaria dividentur.	2020-04-18	Liber_Exodus
+1100000781	pones et propitiatorium super arcam testimonii in sancto sanctorum,mensamque extra velum, et contra mensam candelabrum in latere tabernaculi meridiano: mensa enim stabit in parte aquilonis.	2020-04-18	Liber_Exodus
+1100000782	facies et tentorium in introitu tabernaculi de hyacintho, et purpura, coccoque bis tincto, et bysso retorta, opere plumarii.	2020-04-18	Liber_Exodus
+1100000783	et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium: quarum erunt capita aurea, et bases aeneae.	2020-04-18	Liber_Exodus
+1100000784	caput 27	2020-04-18	Liber_Exodus
+1100000785	facies et altare de lignis setim, quod habebit quinque cubitus in longitudine, et totidem in latitudine, id est, quadrum, et tres cubitos in altitudine.	2020-04-18	Liber_Exodus
+1100000786	cornua autem per quatuor angulos ex ipso erunt: et operies illud aere.	2020-04-18	Liber_Exodus
+1100000787	faciesque in usus eius lebetes ad suscipiendos cineres, et forcipes atque fuscinulas, et ignium receptacula; omnia vasa ex aere fabricabis.	2020-04-18	Liber_Exodus
+1100000788	craticulamque in modum retis aeneam: per cuius quatuor angulos erunt quatuor annuli aenei.	2020-04-18	Liber_Exodus
+1100000789	quos pones subter arulam altaris: eritque craticula usque ad altaris medium.	2020-04-18	Liber_Exodus
+1100000790	facies et vectes altaris de lignis setim duos, quos operies laminis aeneis:et induces per circulos, eruntque ex utroque latere altaris ad portandum.	2020-04-18	Liber_Exodus
+1100000791	non solidum, sed inane et cavum intrinsecus facies illud, sicut tibi in monte monstratum est.	2020-04-18	Liber_Exodus
+1100000792	facies et atrium tabernaculi, in cuius australi plaga contra meridiem erunt tentoria de bysso retorta: centum cubitos unum latus tenebit in longitudine.	2020-04-18	Liber_Exodus
+1100000793	et columnas viginti cum basibus totidem aeneis, quae capita cum caelaturis suis habebunt argentea.	2020-04-18	Liber_Exodus
+1100000794	similiter et in latere aquilonis per longum erunt tentoria centum cubitorum, columnae viginti, et bases aeneae eiusdem numeri, et capita earum cum caelaturis suis argentea.	2020-04-18	Liber_Exodus
+1100000795	in latitudine vero atrii, quod respicit ad occidentem, erunt tentoria per quinquaginta cubitos, et columnae decem, basesque totidem.	2020-04-18	Liber_Exodus
+1100000796	in ea quoque atrii latitudine, quae respicit ad orientem, quinquaginta cubiti erunt.	2020-04-18	Liber_Exodus
+1100000797	in quibus quindecim cubitorum tentoria lateri uno deputabuntur, columnaeque tres et bases totidem:et in latere altero erunt tentoria cubitos obtinentia quindecim, columnae tres, et bases totidem.	2020-04-18	Liber_Exodus
+1100000798	in introitu vero atrii fiet tentorium cubitorum viginti ex hyacintho et purpura, coccoque bis tincto, et bysso retorta, opere plumarii: columnas habebit quatuor, cum basibus totidem.	2020-04-18	Liber_Exodus
+1100000799	omnes columnae atrii per circuitum vestitae erunt argenteis laminis, capitibus argenteis, et basibus aeneis.	2020-04-18	Liber_Exodus
+1100000800	in longitudine occupabit atrium cubitos centum, in latitudine quinquaginta, altitudo quinque cubitorum erit: fietque de bysso retorta, et habebit bases aeneas.	2020-04-18	Liber_Exodus
+1100000801	cuncta vasa tabernaculi in omnes usus et caeremonias, tam paxillos eius quam atrii, ex aere facies.	2020-04-18	Liber_Exodus
+1100000802	praecipe filiis israel ut afferant tibi oleum de arboribus olivarum purissimum, piloque contusum, ut ardeat lucerna semperin tabernaculo testimonii, extra velum quod oppansum est testimonio. 	2020-04-18	Liber_Exodus
+1100000803	et collocabunt eam aaron et filii eius, ut usque mane luceat coram domino. 	2020-04-18	Liber_Exodus
+1100000804	perpetuus erit cultus per successiones eorum a filiis israel.	2020-04-18	Liber_Exodus
+1100000805	caput 28	2020-04-18	Liber_Exodus
+1100000806	applica quoque ad te aaron fratrem tuum cum filiis suis de medio filiorum israel, ut sacerdotio fungantur mihi: aaron, nadab, et abiu, eleazar, et ithamar.	2020-04-18	Liber_Exodus
+1100000807	faciesque vestem sanctam aaron fratri tuo in gloriam et decorem.	2020-04-18	Liber_Exodus
+1100000808	et loqueris cunctis sapientibus corde quos replevi spiritu prudentiae, ut faciant vestes aaron, in quibus sanctificatus ministret mihi.	2020-04-18	Liber_Exodus
+1100000809	haec autem erunt vestimenta quae faciet: rationale et superhumerale, tunicam et lineam strictam, cidarim et balteum. 	2020-04-18	Liber_Exodus
+1100000810	facient vestimenta sancta fratri tuo aaron et filiis eius, ut sacerdotio fungantur mihi.	2020-04-18	Liber_Exodus
+1100000811	accipientque aurum, et hyacinthum, et purpuram, coccumque bis tinctum, et byssum.	2020-04-18	Liber_Exodus
+1100000812	facient autem superhumerale de auro et hyacintho et purpura, coccoque bis tincto, et bysso retorta, opere polymito.	2020-04-18	Liber_Exodus
+1100000813	duas oras iunctas habebit in utroque latere summitatum, ut in unum redeant.	2020-04-18	Liber_Exodus
+1100000814	ipsa quoque textura et cuncta operis varietas erit ex auro et hyacintho, et purpura, coccoque bis tincto, et bysso retorta.	2020-04-18	Liber_Exodus
+1100000815	sumesque duos lapides onychinos, et sculpes in eis nomina filiorum israel:sex nomina in lapide uno, et sex reliqua in altero, iuxta ordinem nativitatis eorum.	2020-04-18	Liber_Exodus
+1100000816	opere sculptoris et caelatura gemmarii, sculpes eos nominibus filiorum israel, inclusos auro atque circumdatos:et pones in utroque latere superhumeralis, memoriale filiis israel. 	2020-04-18	Liber_Exodus
+1100000817	portabitque aaron nomina eorum coram domino super utrumque humerum, ob recordationem.	2020-04-18	Liber_Exodus
+1100000818	facies et uncinos ex auro,et duas catenulas ex auro purissimo sibi invicem cohaerentes, quas inseres uncinis.	2020-04-18	Liber_Exodus
+1100000819	rationale quoque iudicii facies opere polymito iuxta texturam superhumeralis, ex auro, hyacintho, et purpura, coccoque bis tincto, et bysso retorta.	2020-04-18	Liber_Exodus
+1100000820	quadrangulum erit et duplex: mensuram palmi habebit tam in longitudine quam in latitudine.	2020-04-18	Liber_Exodus
+1100000821	ponesque in eo quatuor ordines lapidum: in primo versu erit lapis sardius, et topazius, et smaragdus:in secundo carbunculus, sapphirus, et iaspis:in tertio ligurius, achates, et amethystus:in quarto chrysolithus, onychinus, et beryllus. 	2020-04-18	Liber_Exodus
+1100000822	inclusi auro erunt per ordines suos.	2020-04-18	Liber_Exodus
+1100000823	habebuntque nomina filiorum israel: duodecim nominibus caelabuntur, singuli lapides nominibus singulorum per duodecim tribus.	2020-04-18	Liber_Exodus
+1100000824	facies in rationali catenas sibi invicem cohaerentes ex auro purissimo,et duos annulos aureos, quos pones in utraque rationalis summitate:catenasque aureas iunges annulis, qui sunt in marginibus eius,et ipsarum catenarum extrema duobus copulabis uncinis in utroque latere superhumeralis quod rationale respicit.	2020-04-18	Liber_Exodus
+1100000825	facies et duos annulos aureos, quos pones in summitatibus rationalis, in oris, quae e regione sunt superhumeralis, et posteriora eius aspiciunt.	2020-04-18	Liber_Exodus
+1100000826	necnon et alios duos annulos aureos, qui ponendi sunt in utroque latere superhumeralis deorsum, quod respicit contra faciem iuncturae inferioris, ut aptari possit cum superhumerali,et stringatur rationale annulis suis cum annulis superhumeralis vitta hyacinthina, ut maneat iunctura fabrefacta, et a se invicem rationale et superhumerale nequeant separari.	2020-04-18	Liber_Exodus
+1100000827	portabitque aaron nomina filiorum israel in rationali iudicii super pectus suum, quando ingredietur sanctuarium, memoriale coram domino in aeternum.	2020-04-18	Liber_Exodus
+1100000828	pones autem in rationali iudicii doctrinam et veritatem, quae erunt in pectore aaron, quando ingredietur coram domino: et gestabit iudicium filiorum israel in pectore suo, in conspectu domini semper.	2020-04-18	Liber_Exodus
+1100000829	facies et tunicam superhumeralis totam hyacinthinam,in cuius medio supra erit capitium, et ora per gyrum eius textilis, sicut fieri solet in extremis vestium partibus, ne facile rumpatur.	2020-04-18	Liber_Exodus
+1100000830	deorsum vero, ad pedes eiusdem tunicae, per circuitum, quasi mala punica facies, ex hyacintho, et purpura, et cocco bis tincto, mistis in medio tintinnabulis,ita ut tintinnabulum sit aureum et malum punicum: rursumque tintinnabulum aliud aureum et malum punicum.	2020-04-18	Liber_Exodus
+1100000831	et vestietur ea aaron in officio ministerii, ut audiatur sonitus quando ingreditur et egreditur sanctuarium in conspectu domini, et non moriatur.	2020-04-18	Liber_Exodus
+1100000832	facies et laminam de auro purissimo, in qua sculpes opere caelatoris, sanctum domino.	2020-04-18	Liber_Exodus
+1100000833	ligabisque eam vitta hyacinthina, et erit super tiaram,imminens fronti pontificis. 	2020-04-18	Liber_Exodus
+1100000834	portabitque aaron iniquitates eorum, quae obtulerunt et sanctificaverunt filii israel, in cunctis muneribus et donariis suis. 	2020-04-18	Liber_Exodus
+1100000835	erit autem lamina semper in fronte eius, ut placatus sit eis dominus.	2020-04-18	Liber_Exodus
+1100000836	stringesque tunicam bysso, et tiaram byssinam facies, et balteum opere plumarii.	2020-04-18	Liber_Exodus
+1100000837	porro filiis aaron tunicas lineas parabis et balteos ac tiaras in gloriam et decorem:vestiesque his omnibus aaron fratrem tuum et filios eius cum eo. 	2020-04-18	Liber_Exodus
+1100000838	et cunctorum consecrabis manus, sanctificabisque illos, ut sacerdotio fungantur mihi.	2020-04-18	Liber_Exodus
+1100000839	facies et feminalia linea, ut operiant carnem turpitudinis suae, a renibus usque ad femora:et utentur eis aaron et filii eius quando ingredientur tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in sanctuario, ne iniquitatis rei moriantur. 	2020-04-18	Liber_Exodus
+1100000840	legitimum sempiternum erit aaron, et semini eius post eum.	2020-04-18	Liber_Exodus
+1100000841	caput 29	2020-04-18	Liber_Exodus
+1100000842	sed et hoc facies, ut mihi in sacerdotio consecrentur. 	2020-04-18	Liber_Exodus
+1100000843	tolle vitulum de armento, et arietes duos immaculatos,panesque azymos, et crustulam absque fermento, quae conspersa sit oleo, lagana quoque azyma oleo lita: de simila triticea cuncta facies.	2020-04-18	Liber_Exodus
+1100000844	et posita in canistro offeres: vitulum autem et duos arietes.	2020-04-18	Liber_Exodus
+1100000845	et aaron ac filios eius applicabis ad ostium tabernaculi testimonii. 	2020-04-18	Liber_Exodus
+1100000846	cumque laveris patrem cum filiis suis aqua,indues aaron vestimentis suis, id est, linea et tunica, et superhumerali et rationali, quod constringes balteo.	2020-04-18	Liber_Exodus
+1100000847	et pones tiaram in capite eius, et laminam sanctam super tiaram,et oleum unctionis fundes super caput eius: atque hoc ritu consecrabitur.	2020-04-18	Liber_Exodus
+1100000848	filios quoque illius applicabis, et indues tunicis lineis, cingesque balteo,aaron scilicet et liberos eius, et impones eis mitras: eruntque sacerdotes mihi religione perpetua. 	2020-04-18	Liber_Exodus
+1100000849	postquam initiaveris manus eorum,applicabis et vitulum coram tabernaculo testimonii. 	2020-04-18	Liber_Exodus
+1100000850	imponentque aaron et filii eius manus super caput illius,et mactabis eum in conspectu domini, iuxta ostium tabernaculi testimonii.	2020-04-18	Liber_Exodus
+1100000851	sumptumque de sanguine vituli, pones super cornua altaris digito tuo, reliquum autem sanguinem fundes iuxta basim eius.	2020-04-18	Liber_Exodus
+1100000852	sumes et adipem totum qui operit intestina, et reticulum iecoris, ac duos renes, et adipem qui super eos est, et offeres incensum super altare:carnes vero vituli et corium et fimum combures foris extra castra, eo quod pro peccato sit.	2020-04-18	Liber_Exodus
+1100000853	unum quoque arietem sumes, super cuius caput ponent aaron et filii eius manus.	2020-04-18	Liber_Exodus
+1100000854	quem cum mactaveris, tolles de sanguine eius, et fundes circa altare.	2020-04-18	Liber_Exodus
+1100000855	ipsum autem arietem secabis in frustra: lotaque intestina eius ac pedes, pones super concisas carnes, et super caput illius.	2020-04-18	Liber_Exodus
+1100000856	et offeres totum arietem in incensum super altare: oblatio est domino, odor suavissimus victimae domini.	2020-04-18	Liber_Exodus
+1100000857	tolles quoque arietem alterum, super cuius caput aaron et filii eius ponent manus.	2020-04-18	Liber_Exodus
+1100000858	quem cum immolaveris, sumes de sanguine eius, et pones super extremum auriculae dextrae aaron et filiorum eius, et super pollices manus eorum ac pedis dextri, fundesque sanguinem super altare per circuitum.	2020-04-18	Liber_Exodus
+1100000859	cumque tuleris de sanguine qui est super altare, et de oleo unctionis, asperges aaron et vestes eius, filios et vestimenta eorum. 	2020-04-18	Liber_Exodus
+1100000860	consecratisque ipsis et vestibus,tolles adipem de ariete, et caudam et arvinam, quae operit vitalia, ac reticulum iecoris, et duos renes, atque adipem, qui super eos est, armumque dextrum, eo quod sit aries consecrationis:tortamque panis unius, crustulam conspersam oleo, laganum de canistro azymorum, quod positum est in conspectu domini:ponesque omnia super manus aaron et filiorum eius, et sanctificabis eos elevans coram domino.	2020-04-18	Liber_Exodus
+1100000861	suscipiesque universa de manibus eorum: et incendes super altare in holocaustum, odorem suavissimum in conspectu domini, quia oblatio eius est.	2020-04-18	Liber_Exodus
+1100000862	sumes quoque pectusculum de ariete, quo initiatus est aaron, sanctificabisque illud elevatum coram domino, et cedet in partem tuam.	2020-04-18	Liber_Exodus
+1100000863	sanctificabisque et pectusculum consecratum, et armum quem de ariete separasti,quo initiatus est aaron et filii eius, cedentque in partem aaron et filiorum eius iure perpetuo a filiis israel: quia primitiva sunt et initia de victimis eorum pacificis quae offerunt domino.	2020-04-18	Liber_Exodus
+1100000864	vestem autem sanctam, qua utetur aaron, habebunt filii eius post eum, ut ungantur in ea, et consecrantur manus eorum.	2020-04-18	Liber_Exodus
+1100000865	septem diebus utetur illa qui pontifex pro eo fuerit constitutus de filiis eius, et qui ingredietur tabernaculum testimonii ut ministret in sanctuario.	2020-04-18	Liber_Exodus
+1100000866	arietem autem consecrationis tolles, et coques carnes eius in loco sancto:quibus vescetur aaron et filii eius. 	2020-04-18	Liber_Exodus
+1100000867	panes quoque, qui sunt in canistro, in vestibulo tabernaculi testimonii comedent,ut sit placabile sacrificium, et sanctificentur offerentium manus. 	2020-04-18	Liber_Exodus
+1100000868	alienigena non vescetur ex eis, quia sancti sunt.	2020-04-18	Liber_Exodus
+1100000869	quod si remanserit de carnibus consecratis, sive de panibus usque mane, combures reliquias igni: non comedentur, quia sanctificata sunt.	2020-04-18	Liber_Exodus
+1100000870	omnia, quae praecepi tibi, facies super aaron et filiis eius. 	2020-04-18	Liber_Exodus
+1100000871	septem diebus consecrabis manus eorum:et vitulum pro peccato offeres per singulos dies ad expiandum. 	2020-04-18	Liber_Exodus
+1100000872	mundabisque altare cum immolaveris expiationis hostiam, et unges illud in sanctificationem.	2020-04-18	Liber_Exodus
+1100000873	septem diebus expiabis altare, et sanctificabis, et erit sanctum sanctorum: omnis, qui tetigerit illud, sanctificabitur.	2020-04-18	Liber_Exodus
+1100000874	hoc est quod facies in altari: agnos anniculos duos per singulos dies iugiter,unum agnum mane, et alterum vespere,decimam partem similae conspersae oleo tuso, quod habeat mensuram quartam partem hin, et vinum ad libandum eiusdem mensurae in agno uno.	2020-04-18	Liber_Exodus
+1100000875	alterum vero agnum offeres ad vesperam iuxta ritum matutinae oblationis, et iuxta ea quae diximus, in odorem suavitatis:sacrificium est domino, oblatione perpetua in generationes vestras, ad ostium tabernaculi testimonii coram domino, ubi constituam ut loquar ad te.	2020-04-18	Liber_Exodus
+1100000876	ibique praecipiam filiis israel, et sanctificabitur altare in gloria mea.	2020-04-18	Liber_Exodus
+1100000877	sanctificabo et tabernaculum testimonii cum altari, et aaron cum filiis suis, ut sacerdotio fungantur mihi.	2020-04-18	Liber_Exodus
+1100000878	et habitabo in medio filiorum israel, eroque eis deus,et scient quia ego dominus deus eorum, qui eduxi eos de terra aegypti, ut manerem inter illos, ego dominus deus ipsorum.	2020-04-18	Liber_Exodus
+1100000879	caput 30	2020-04-18	Liber_Exodus
+1100000880	facies quoque altare ad adolendum thymiama, de lignis setim,habens cubitum longitudinis, et alterum latitudinis, id est, quadrangulum, et duos cubitos in altitudine. 	2020-04-18	Liber_Exodus
+1100000881	cornua ex ipso procedent.	2020-04-18	Liber_Exodus
+1100000882	vestiesque illud auro purissimo, tam craticulam eius, quam parietes per circuitum, et cornua. 	2020-04-18	Liber_Exodus
+1100000883	faciesque ei coronam aureolam per gyrum,et duos annulos aureos sub corona per singula latera, ut mittantur in eos vectes, et altare portetur.	2020-04-18	Liber_Exodus
+1100000884	ipsos quoque vectes facies de lignis setim, et inaurabis.	2020-04-18	Liber_Exodus
+1100000885	ponesque altare contra velum, quod ante arcum pendet testimonii coram propitiatorio quo tegitur testimonium, ubi loquar tibi.	2020-04-18	Liber_Exodus
+1100000886	et adolebit incensum super eo aaron, suave fragrans, mane. 	2020-04-18	Liber_Exodus
+1100000887	quando componet lucernas, incendet illud:et quando collocabit eas ad vesperum, uret thymiama sempiternum coram domino in generationes vestras.	2020-04-18	Liber_Exodus
+1100000888	non offeretis super eo thymiama compositionis alterius, nec oblationem, et victimam, nec libabitis libamina.	2020-04-18	Liber_Exodus
+1100000889	et deprecabitur aaron super cornua eius semel per annum, in sanguine quod oblatum est pro peccato, et placabit super eo in generationibus vestris. 	2020-04-18	Liber_Exodus
+1100000890	sanctum sanctorum erit domino.	2020-04-18	Liber_Exodus
+1100000891	locutusque est dominus ad moysen, dicens:quando tuleris summam filiorum israel iuxta numerum, dabunt singuli pretium pro animabus suis domino, et non erit plaga in eis, cum fuerint recensiti.	2020-04-18	Liber_Exodus
+1100000892	hoc autem dabit omnis qui transit ad nomen, dimidium sicli iuxta mensuram templi (siclus viginti obolos habet); media pars sicli offeretur domino.	2020-04-18	Liber_Exodus
+1100000893	qui habetur in numero, a viginti annis et supra, dabit pretium.	2020-04-18	Liber_Exodus
+1100000894	dives non addet ad medium sicli, et pauper nihil minuet.	2020-04-18	Liber_Exodus
+1100000895	susceptamque pecuniam, quae collata est a filiis israel, trades in usus tabernaculi testimonii, ut sit monimentum eorum coram domino, et propitietur animabus eorum.	2020-04-18	Liber_Exodus
+1100000896	locutusque est dominus ad moysen, dicens:facies et labrum aeneum cum basi sua ad lavandum: ponesque illud inter tabernaculum testimonii et altare. 	2020-04-18	Liber_Exodus
+1100000897	et missa aqua,lavabunt in ea aaron et filii eius manus suas ac pedes,quando ingressuri sunt tabernaculum testimonii, et quando accessuri sunt ad altare, ut offerant in eo thymiama domino,ne forte moriantur; legitimum sempiternum erit ipsi, et semini eius per successiones.	2020-04-18	Liber_Exodus
+1100000898	locutusque est dominus ad moysen,dicens: sume tibi aromata, primae myrrhae et electae quingentos siclos, et cinnamomi medium, id est, ducentos quinquaginta siclos, calami similiter ducentos quinquaginta,casiae autem quingentos siclos, in pondere sanctuarii, olei de olivetis mensuram hin:faciesque unctionis oleum sanctum, unguentum compositum opere unguentarii,et unges ex eo tabernaculum testimonii, et arcam testamenti,mensamque cum vasis suis, et candelabrum, et utensilia eius, altaria thymiamatis,et holocausti, et universam supellectilem quae ad cultum eorum pertinet.	2020-04-18	Liber_Exodus
+1100000899	sanctificabisque omnia, et erunt sancta sanctorum; qui tetigerit ea, sanctificabitur.	2020-04-18	Liber_Exodus
+1100000900	aaron et filios eius unges, sanctificabisque eos, ut sacerdotio fungantur mihi.	2020-04-18	Liber_Exodus
+1100000901	filiis quoque israel dices: hoc oleum unctionis sanctum erit mihi in generationes vestras.	2020-04-18	Liber_Exodus
+1100000902	caro hominis non ungetur ex eo, et iuxta compositionem eius non facietis aliud, quia sanctificatum est, et sanctum erit vobis.	2020-04-18	Liber_Exodus
+1100000903	homo quicumque tale composuerit, et dederit ex eo alieno, exterminabitur de populo suo.	2020-04-18	Liber_Exodus
+1100000904	dixitque dominus ad moysen: sume tibi aromata, stacten et onycha, galbanum boni odoris, et thus lucidissimum; aequalis ponderis erunt omnia:faciesque thymiama compositum opere unguentarii, mistum diligenter, et purum, et sanctificatione dignissimum.	2020-04-18	Liber_Exodus
+1100000905	cumque in tenuissimum pulverem universa contuderis, pones ex eo coram tabernaculo testimonii, in quo loco apparebo tibi. 	2020-04-18	Liber_Exodus
+1100000906	sanctum sanctorum erit vobis thymiama.	2020-04-18	Liber_Exodus
+1100000907	talem compositionem non facietis in usus vestros, quia sanctum est domino.	2020-04-18	Liber_Exodus
+1100000908	homo quicumque fecerit simile, ut odore illius perfruatur, peribit de populis suis.	2020-04-18	Liber_Exodus
+1100000909	caput 31	2020-04-18	Liber_Exodus
+1100000910	locutusque est dominus ad moysen, dicens:ecce, vocavi ex nomine beseleel filium uri filii hur de tribu iuda,et implevi spiritu dei, sapientia, et intelligentia et scientia in omni opere,ad excogitandum quidquid fabrefieri potest ex auro, et argento, et aere,marmore, et gemmis, et diversitate lignorum.	2020-04-18	Liber_Exodus
+1100000911	dedique ei socium ooliab filium achisamech de tribu dan. 	2020-04-18	Liber_Exodus
+1100000912	et in corde omnis eruditi posui sapientiam: ut faciant cuncta quae praecepi tibi,tabernaculum foederis, et arcam testimonii, et propitiatorium, quod super eam est, et cuncta vasa tabernaculi,mensamque et vasa eius, candelabrum purissimum cum vasis suis, et altaris thymiamatis,et holocausti, et omnia vasa eorum, labrum cum basi sua,vestes sanctas in ministerio aaron sacerdoti, et filiis eius, ut fungantur officio suo in sacris:oleum unctionis, et thymiama aromatum in sanctuario, omnia quae praecepi tibi, facient.	2020-04-18	Liber_Exodus
+1100000913	et locutus est dominus ad moysen, dicens:loquere filiis israel, et dices ad eos: videte ut sabbatum meum custodiatis: quia signum est inter me et vos in generationibus vestris: ut sciatis quia ego dominus, qui sanctifico vos.	2020-04-18	Liber_Exodus
+1100000914	custodite sabbatum meum, sanctum est enim vobis: qui polluerit illud, morte morietur; qui fecerit in eo opus, peribit anima illius de medio populi sui.	2020-04-18	Liber_Exodus
+1100000915	sex diebus facietis opus: in die septimo sabbatum est, requies sancta domino; omnis qui fecerit opus in hac die, morietur.	2020-04-18	Liber_Exodus
+1100000916	custodiant filii israel sabbatum, et celebrent illud in generationibus suis. 	2020-04-18	Liber_Exodus
+1100000917	pactum est sempiternuminter me et filios israel, signumque perpetuum; sex enim diebus fecit dominus caelum et terram, et in septimo ab opere cessavit.	2020-04-18	Liber_Exodus
+1100000918	deditque dominus moysi, completis huiuscemodi sermonibus in monte sinai, duas tabulas testimonii lapideas, scriptas digito dei.	2020-04-18	Liber_Exodus
+1100000919	caput 32	2020-04-18	Liber_Exodus
+1100000920	videns autem populus quod moram faceret descendendi de monte moyses, congregatus adversus aaron, dixit: surge, fac nobis deos, qui nos praecedant: moysi enim huic viro, qui nos eduxit de terra aegypti, ignoramus quid acciderit.	2020-04-18	Liber_Exodus
+1100000921	dixitque ad eos aaron: tollite inaures aureas de uxorum, filiorumque et filiarum vestrarum auribus, et afferte ad me.	2020-04-18	Liber_Exodus
+1100000922	fecitque populus quae iusserat, deferens inaures ad aaron.	2020-04-18	Liber_Exodus
+1100000923	quas cum ille accepisset, formavit opere fusorio, et fecit ex eis vitulum conflatilem: dixeruntque: hi sunt dii tui israel, qui te eduxerunt de terra aegypti.	2020-04-18	Liber_Exodus
+1100000924	quod cum vidisset aaron, aedificavit altare coram eo, et praeconis voce clamavit dicens: cras solemnitas domini est.	2020-04-18	Liber_Exodus
+1100000925	surgentesque mane, obtulerunt holocausta, et hostias pacificas, et sedit populus manducare, et bibere, et surrexerunt ludere.	2020-04-18	Liber_Exodus
+1100000926	locutus est autem dominus ad moysen, dicens: vade, descende: peccavit populus tuus, quem eduxisti de terra aegypti.	2020-04-18	Liber_Exodus
+1100000927	recesserunt cito de via, quam ostendisti eis: feceruntque sibi vitulum conflatilem, et adoraverunt, atque immolantes ei hostias, dixerunt: isti sunt dii tui israel, qui te eduxerunt de terra aegypti.	2020-04-18	Liber_Exodus
+1100000928	rursumque ait dominus ad moysen: cerno quod populus iste durae cervicis sit:dimitte me, ut irascatur furor meus contra eos, et deleam eos, faciamque te in gentem magnam.	2020-04-18	Liber_Exodus
+1100000929	moyses autem orabat dominum deum suum, dicens: cur, domine, irascitur furor tuus contra populum tuum, quem eduxisti de terra aegypti, in fortitudine magna, et in manu robusta?	2020-04-18	Liber_Exodus
+1100000930	ne quaeso dicant aegyptii: callide eduxit eos, ut interficeret in montibus, et deleret e terra: quiescat ira tua, et esto placabilis super nequitia populi tui.	2020-04-18	Liber_Exodus
+1100000931	recordare abraham, isaac, et israel servorum tuorum, quibus iurasti per temetipsum, dicens: multiplicabo semen vestrum sicut stellas caeli; et universam terram hanc, de qua locutus sum, dabo semini vestro, et possidebitis eam semper.	2020-04-18	Liber_Exodus
+1100000932	placatusque est dominus ne faceret malum quod locutus fuerat adversus populum suum.	2020-04-18	Liber_Exodus
+1100000933	et reversus est moyses de monte, portans duas tabulas testimonii in manu sua, scriptas ex utraque parte,et factas opere dei: scriptura quoque dei erat sculpta in tabulis.	2020-04-18	Liber_Exodus
+1100000934	audiens autem iosue tumultum populi vociferantis, dixit ad moysen: ululatus pugnae auditur in castris.	2020-04-18	Liber_Exodus
+1100000935	qui respondit: non est clamor adhortantium ad pugnam, neque vociferatio compellentium ad fugam: sed vocem cantantium ego audio.	2020-04-18	Liber_Exodus
+1100000936	cumque appropinquasset ad castra, vidit vitulum, et choros: iratusque valde, proiecit de manu tabulas, et confregit eas ad radicem montis:arripiensque vitulum quem fecerant, combussit, et contrivit usque ad pulverem, quem sparsit in aquam, et dedit ex eo potum filiis israel.	2020-04-18	Liber_Exodus
+1100000937	dixitque ad aaron: quid tibi fecit hic populus, ut induceres super eum peccatum maximum?	2020-04-18	Liber_Exodus
+1100000938	cui ille respondit: ne indignetur dominus meus: tu enim nosti populum istum, quod pronus sit ad malum:dixerunt mihi: fac nobis deos, qui nos praecedant: huic enim moysi, qui nos eduxit de terra aegypti, nescimus quid acciderit.	2020-04-18	Liber_Exodus
+1100000939	quibus ego dixi: quis vestrum habet aurum? 	2020-04-18	Liber_Exodus
+1100000940	tulerunt, et dederunt mihi: et proieci illud in ignem, egressusque est hic vitulus.	2020-04-18	Liber_Exodus
+1100000941	videns ergo moyses populum quod esset nudatus (spoliaverat enim eum aaron propter ignominiam sordis, et inter hostes nudum constituerat),et stans in porta castrorum, ait: si quis est domini, iungatur mihi. 	2020-04-18	Liber_Exodus
+1100000942	congregatique sunt ad eum omnes filii levi:quibus ait: haec dicit dominus deus israel: ponat vir gladium super femur suum: ite, et redite de porta usque ad portam per medium castrorum, et occidat unusquisque fratrem, et amicum, et proximum suum.	2020-04-18	Liber_Exodus
+1100000943	feceruntque filii levi iuxta sermonem moysi, cecideruntque in die illa quasi viginti tria millia hominum.	2020-04-18	Liber_Exodus
+1100000944	et ait moyses: consecrastis manus vestras hodie domino, unusquisque in filio, et in fratre suo, ut detur vobis benedictio.	2020-04-18	Liber_Exodus
+1100000945	facto autem altero die, locutus est moyses ad populum: peccastis peccatum maximum: ascendam ad dominum, si quomodo quivero eum deprecari pro scelere vestro.	2020-04-18	Liber_Exodus
+1100000946	reversusque ad dominum, ait: obsecro, peccavit populus iste peccatum maximum, feceruntque sibi deos aureos: aut dimitte eis hanc noxam,aut si non facis, dele me de libro tuo quem scripsisti.	2020-04-18	Liber_Exodus
+1100000947	cui respondit dominus: qui peccaverit mihi, delebo eum de libro meo:tu autem vade, et duc populum istum quo locutus sum tibi: angelus meus praecedet te. 	2020-04-18	Liber_Exodus
+1100000948	ego autem in die ultionis visitabo et hoc peccatum eorum.	2020-04-18	Liber_Exodus
+1100000949	percussit ergo dominus populum pro reatu vituli, quem fecerat aaron.	2020-04-18	Liber_Exodus
+1100000950	caput 33	2020-04-18	Liber_Exodus
+1100000951	locutusque est dominus ad moysen, dicens: vade, ascende de loco isto tu, et populus tuus quem eduxisti de terra aegypti, in terram quam iuravi abraham, isaac et iacob, dicens: semini tuo dabo eam:et mittam praecursorem tui angelum, ut eiiciam chananaeum, et amorrhaeum, et hethaeum, et pherezaeum, et hevaeum, et iebusaeum,et intres in terram fluentem lacte et melle. 	2020-04-18	Liber_Exodus
+1100000952	non enim ascendam tecum, quia populus durae cervicis es: ne forte disperdam te in via.	2020-04-18	Liber_Exodus
+1100000953	audiensque populus sermonem hunc pessimum, luxit: et nullus ex more indutus est cultu suo.	2020-04-18	Liber_Exodus
+1100000954	dixitque dominus ad moysen: loquere filiis israel: populus durae cervicis es: semel ascendam in medio tui, et delebo te. 	2020-04-18	Liber_Exodus
+1100000955	iam nunc depone ornatum tuum, ut sciam quid faciam tibi.	2020-04-18	Liber_Exodus
+1100000956	deposuerunt ergo filii israel ornatum suum a monte horeb.	2020-04-18	Liber_Exodus
+1100000957	moyses quoque tollens tabernaculum, tetendit extra castra procul, vocavitque nomen eius, tabernaculum foederis. 	2020-04-18	Liber_Exodus
+1100000958	et omnis populus, qui habebat aliquam quaestionem, egrediebatur ad tabernaculum foederis, extra castra.	2020-04-18	Liber_Exodus
+1100000959	cumque egrederetur moyses ad tabernaculum, surgebat universa plebs, et stabat unusquisque in ostio papilionis sui, aspiciebantque tergum moysi, donec ingrederetur tentorium.	2020-04-18	Liber_Exodus
+1100000960	ingresso autem illo tabernaculum foederis, descendebat columna nubis, et stabat ad ostium, loquebaturque cum moyse,cernentibus universis quod columna nubis staret ad ostium tabernaculi. 	2020-04-18	Liber_Exodus
+1100000961	stabantque ipsi, et adorabant per fores tabernaculorum suorum.	2020-04-18	Liber_Exodus
+1100000962	loquebatur autem dominus ad moysen facie ad faciem, sicut solet loqui homo ad amicum suum. 	2020-04-18	Liber_Exodus
+1100000963	cumque ille reverteretur in castra, minister eius iosue filius nun, puer, non recedebat de tabernaculo.	2020-04-18	Liber_Exodus
+1100000964	dixit autem moyses ad dominum: praecipis ut educam populum istum: et non indicas mihi quem missurus es mecum, praesertim cum dixeris: novi te ex nomine, et invenisti gratiam coram me.	2020-04-18	Liber_Exodus
+1100000965	si ergo inveni gratiam in conspectu tuo, ostende mihi faciem tuam, ut sciam te, et inveniam gratiam ante oculos tuos: respice populum tuum gentem hanc.	2020-04-18	Liber_Exodus
+1100000966	dixitque dominus: facies mea praecedet te, et requiem dabo tibi.	2020-04-18	Liber_Exodus
+1100000967	et ait moyses: si non tu ipse praecedas, ne educas nos de loco isto.	2020-04-18	Liber_Exodus
+1100000968	in quo enim scire poterimus ego et populus tuus invenisse nos gratiam in conspectu tuo, nisi ambulaveris nobiscum, ut glorificemur ab omnibus populis qui habitant super terram?	2020-04-18	Liber_Exodus
+1100000969	dixit autem dominus ad moysen: et verbum istud, quod locutus es, faciam: invenisti enim gratiam coram me, et teipsum novi ex nomine.	2020-04-18	Liber_Exodus
+1100000970	qui ait: ostende mihi gloriam tuam.	2020-04-18	Liber_Exodus
+1100000971	respondit: ego ostendam omne bonum tibi, et vocabo in nomine domini coram te: et miserebor cui voluero, et clemens ero in quem mihi placuerit.	2020-04-18	Liber_Exodus
+1100000972	rursumque ait: non poteris videre faciem meam: non enim videbit me homo et vivet.	2020-04-18	Liber_Exodus
+1100000973	et iterum: ecce, inquit, est locus apud me, et stabis supra petram.	2020-04-18	Liber_Exodus
+1100000974	cumque transibit gloria mea, ponam te in foramine petrae, et protegam dextera mea, donec transeam:tollamque manum meam, et videbis posteriora mea: faciem autem meam videre non poteris.	2020-04-18	Liber_Exodus
+1100000975	caput 34	2020-04-18	Liber_Exodus
+1100000976	ac deinceps: praecide, ait, tibi duas tabulas lapideas instar priorum, et scribam super eas verba, quae habuerunt tabulae quas fregisti.	2020-04-18	Liber_Exodus
+1100000977	esto paratus mane, ut ascendas statim in montem sinai, stabisque mecum super verticem montis.	2020-04-18	Liber_Exodus
+1100000978	nullus ascendat tecum, nec videatur quispiam per totum montem: boves quoque et oves non pascantur e contra.	2020-04-18	Liber_Exodus
+1100000979	excidit ergo duas tabulas lapideas, quales antea fuerant: et de nocte consurgens ascendit in montem sinai, sicut praeceperat ei dominus, portans secum tabulas.	2020-04-18	Liber_Exodus
+1100000980	cumque descendisset dominus per nubem, stetit moyses cum eo, invocans nomen domini.	2020-04-18	Liber_Exodus
+1100000981	quo transeunte coram eo, ait: dominator domine deus, misericors et clemens, patiens et multae miserationis, ac verax,qui custodis misericordiam in millia; qui aufers iniquitatem, et scelera, atque peccata, nullusque apud te per se innocens est; qui reddis iniquitatem patrum filiis, ac nepotibus in tertiam et quartam progeniem.	2020-04-18	Liber_Exodus
+1100000982	festinusque moyses, curvatus est pronus in terram, et adoransait: si inveni gratiam in conspectu tuo, domine, obsecro ut gradiaris nobiscum (populus enim durae cervicis est) et auferas iniquitates nostras atque peccata, nosque possideas.	2020-04-18	Liber_Exodus
+1100000983	respondit dominus: ego inibo pactum videntibus cunctis: signa faciam quae numquam visa sunt super terram, nec in ullis gentibus, ut cernat populus iste, in cuius es medio, opus domini terribile quod facturus sum.	2020-04-18	Liber_Exodus
+1100000984	observa cuncta quae hodie mando tibi: ego ipse eiiciam ante faciem tuam amorrhaeum, et chananaeum, et hethaeum, pherezaeum quoque, et hevaeum, et iebusaeum.	2020-04-18	Liber_Exodus
+1100000985	cave ne umquam cum habitatoribus terrae illius iungas amicitias, quae sint tibi in ruinam:sed aras eorum destrue, confringe statuas, lucosque succide:noli adorare deum alienum. 	2020-04-18	Liber_Exodus
+1100000986	dominus zelotes nomen eius; deus est aemulator.	2020-04-18	Liber_Exodus
+1100000987	ne ineas pactum cum hominibus illarum regionum: ne, cum fornicati fuerint cum diis suis, et adoraverint simulacra eorum, vocet te quispiam ut comedas de immolatis.	2020-04-18	Liber_Exodus
+1100000988	nec uxorem de filiabus eorum accipies filiis tuis: ne, postquam ipsae fuerint fornicatae, fornicari faciant et filios tuos in deos suos.	2020-04-18	Liber_Exodus
+1100000989	deos conflatiles non facies tibi.	2020-04-18	Liber_Exodus
+1100000990	solemnitatem azymorum custodies. 	2020-04-18	Liber_Exodus
+1100000991	septem diebus vesceris azymis, sicut praecepi tibi, in tempore mensis novorum: mense enim verni temporis egressus es de aegypto.	2020-04-18	Liber_Exodus
+1100000992	omne quod aperit vulvam generis masculini, meum erit. 	2020-04-18	Liber_Exodus
+1100000993	de cunctis animantibus, tam de bobus, quam de ovibus, meum erit.	2020-04-18	Liber_Exodus
+1100000994	primogenitum asini redimes ove: sin autem nec pretium pro eo dederis, occidetur. 	2020-04-18	Liber_Exodus
+1100000995	primogenitum filiorum tuorum redimes: nec apparebis in conspectu meo vacuus.	2020-04-18	Liber_Exodus
+1100000996	sex diebus operaberis; die septimo cessabis arare et metere.	2020-04-18	Liber_Exodus
+1100000997	solemnitatem hebdomadarum facies tibi in primitiis frugum messis tuae triticeae, et solemnitatem, quando redeunte anni tempore cuncta conduntur.	2020-04-18	Liber_Exodus
+1100000998	tribus temporibus anni apparebit omne masculinum tuum in conspectu omnipotentis domini dei israel.	2020-04-18	Liber_Exodus
+1100000999	cum enim tulero gentes a facie tua, et dilatavero terminos tuos, nullus insidiabitur terrae tuae, ascendente te, et apparente in conspectu domini dei tui ter in anno.	2020-04-18	Liber_Exodus
+1100001000	non immolabis super fermento sanguinem hostiae meae: neque residebit mane de victima solemnitatis phase.	2020-04-18	Liber_Exodus
+1100001001	primitias frugum terrae tuae offeres in domo domini dei tui. 	2020-04-18	Liber_Exodus
+1100001002	non coques haedum in lacte matris suae.	2020-04-18	Liber_Exodus
+1100001003	dixitque dominus ad moysen: scribe tibi verba haec, quibus et tecum et cum israel pepigi foedus.	2020-04-18	Liber_Exodus
+1100001004	fuit ergo ibi cum domino quadraginta dies et quadraginta noctes: panem non comedit, et aquam non bibit, et scripsit in tabulis verba foederis decem.	2020-04-18	Liber_Exodus
+1100001005	cumque descenderet moyses de monte sinai, tenebat duas tabulas testimonii, et ignorabat quod cornuta esset facies sua ex consortio sermonis domini.	2020-04-18	Liber_Exodus
+1100001006	videntes autem aaron et filii israel cornutam moysi faciem, timuerunt prope accedere.	2020-04-18	Liber_Exodus
+1100001007	vocatique ab eo, reversi sunt tam aaron, quam principes synagogae. 	2020-04-18	Liber_Exodus
+1100001008	et postquam locutus est ad eos,venerunt ad eum etiam omnes filii israel: quibus praecepit cuncta quae audierat a domino in monte sinai.	2020-04-18	Liber_Exodus
+1100001009	impletisque sermonibus, posuit velamen super faciem suam.	2020-04-18	Liber_Exodus
+1100001010	quod ingressus ad dominum, et loquens cum eo, auferebat donec exiret, et tunc loquebatur ad filios israel omnia quae sibi fuerant imperata.	2020-04-18	Liber_Exodus
+1100001011	qui videbant faciem egredientis moysi esse cornutam, sed operiebat ille rursus faciem suam, siquando loquebatur ad eos.	2020-04-18	Liber_Exodus
+1100001012	caput 35	2020-04-18	Liber_Exodus
+1100001013	igitur congregata omni turba filiorum israel, dixit ad eos: haec sunt quae iussit dominus fieri.	2020-04-18	Liber_Exodus
+1100001014	sex diebus facietis opus: septimus dies erit vobis sanctus, sabbatum, et requies domini: qui fecerit opus in eo, occidetur.	2020-04-18	Liber_Exodus
+1100001015	non succendetis ignem in omnibus habitaculis vestris per diem sabbati.	2020-04-18	Liber_Exodus
+1100001016	et ait moyses ad omnem catervam filiorum israel: iste est sermo quem praecepit dominus, dicens:separate apud vos primitias domino. 	2020-04-18	Liber_Exodus
+1100001017	omnis voluntarius et prono animo offerat eas domino: aurum et argentum, et aes,hyacinthum et purpuram, coccumque bis tinctum, et byssum, pilos caprarum,pellesque arietum rubricatas, et ianthinas, ligna setim,et oleum ad luminaria concinnanda, et ut conficiatur unguentum, et thymiama suavissimum,lapides onychinos, et gemmas ad ornatum superhumeralis et rationalis.	2020-04-18	Liber_Exodus
+1100001018	quisque vestrum sapiens est, veniat, et faciat quod dominus imperavit:tabernaculum scilicet, et tectum eius, atque operimentum, annulos, et tabulata cum vectibus, paxillos, et bases:arcam et vectes, propitiatorium, et velum, quod ante illud oppanditur:mensam cum vectibus et vasis, et propositionis panibus:candelabrum ad luminaria sustentanda, vasa illius et lucernas, et oleum ad nutrimenta ignium:altare thymiamatis, et vectes, et oleum unctionis et thymiama ex aromatibus: tentorium ad ostium tabernaculi:altare holocausti, et craticulam eius aeneam cum vectibus et vasis suis: labrum et basim eius:cortinas atrii cum columnis et basibus, tentorium in foribus vestibuli,paxillos tabernaculi et atrii cum funiculis suis:vestimenta, quorum usus est in ministerio sanctuarii, vestes aaron pontificis ac filiorum eius, ut sacerdotio fungantur mihi.	2020-04-18	Liber_Exodus
+1100001019	egressaque omnis multitudo filiorum israel de conspectu moysi,obtulerunt mente promptissima atque devota primitias domino, ad faciendum opus tabernaculi testimonii. 	2020-04-18	Liber_Exodus
+1100001020	quidquid ad cultum et ad vestes sanctas necessarium erat,viri cum mulieribus praebuerunt, armillas et inaures, annulos et dextralia: omne vas aureum in donaria domini separatum est.	2020-04-18	Liber_Exodus
+1100001021	si quis habebat hyacinthum, et purpuram, coccumque bis tinctum, byssum et pilos caprarum, pelles arietum rubricatas, et ianthinas,argenti, aerisque metalla, obtulerunt domino, lignaque setim in varios usus.	2020-04-18	Liber_Exodus
+1100001022	sed et mulieres doctae, quae neverant, dederunt hyacinthum, purpuram, et vermiculum, ac byssum,et pilos caprarum, sponte propria cuncta tribuentes.	2020-04-18	Liber_Exodus
+1100001023	principes vero obtulerunt lapides onychinos, et gemmas ad superhumerale et rationale,aromataque et oleum ad luminaria concinnanda, et ad praeparandum unguentum, ac thymiama odoris suavissimi componendum.	2020-04-18	Liber_Exodus
+1100001024	omnes viri et mulieres mente devota obtulerunt donaria, ut fierent opera, quae iusserat dominus per manum moysi. 	2020-04-18	Liber_Exodus
+1100001025	cuncti filii israel voluntaria domino dedicaverunt.	2020-04-18	Liber_Exodus
+1100001026	dixitque moyses ad filios israel: ecce, vocavit dominus ex nomine beseleel filium uri, filii hur de tribu iuda,implevitque eum spiritu dei, sapientia et intelligentia, et scientia et omni doctrina,ad excogitandum, et faciendum opus in auro, et argento, et aere,sculpendisque lapidibus, et opere carpentario, quidquid fabre adinveniri potest,dedit in corde eius: ooliab quoque filium achisamech de tribu dan:ambos erudivit sapientia, ut faciant opera abietarii, polymitarii, ac plumarii, de hyacintho ac purpura, coccoque bis tincto, et bysso, et texant omnia, ac nova quaeque reperiant.	2020-04-18	Liber_Exodus
+1100001027	caput 36	2020-04-18	Liber_Exodus
+1100001028	fecit ergo beseleel, et ooliab, et omnis vir sapiens, quibus dedit dominus sapientiam et intellectum, ut scirent fabre operari quae in usus sanctuarii necessaria sunt, et quae praecepit dominus.	2020-04-18	Liber_Exodus
+1100001029	cumque vocasset eos moyses et omnem eruditum virum, cui dederat dominus sapientiam, et qui sponte sua obtulerant se ad faciendum opus,tradidit eis universa donaria filiorum israel. 	2020-04-18	Liber_Exodus
+1100001030	qui cum instarent operi, quotidie mane vota populus offerebat.	2020-04-18	Liber_Exodus
+1100001031	unde artifices venire compulsi,dixerunt moysi: plus offert populus quam necessarium est.	2020-04-18	Liber_Exodus
+1100001032	iussit ergo moyses praeconis voce cantari: nec vir, nec mulier quidquam offerat ultra in opere sanctuarii. 	2020-04-18	Liber_Exodus
+1100001033	sicque cessatum est a muneribus offerendis,eo quod oblata sufficerent et superabundarent.	2020-04-18	Liber_Exodus
+1100001034	feceruntque omnes corde sapientes ad explendum opus tabernaculi, cortinas decem de bysso retorta, et hyacintho, et purpura, coccoque bis tincto, opere vario, et arte polymita:quarum una habebat in longitudine viginti octo cubitos, et in latitudine quatuor; una mensura erat omnium cortinarum.	2020-04-18	Liber_Exodus
+1100001035	coniunxitque cortinas quinque, alteram alteri, et alias quinque sibi invicem copulavit.	2020-04-18	Liber_Exodus
+1100001036	fecit et ansas hyacinthinas in ora cortinae unius ex utroque latere, et in ora cortinae alterius similiter,ut contra se invicem venirent ansae, et mutuo iungerentur.	2020-04-18	Liber_Exodus
+1100001037	unde et quinquaginta fudit circulos aureos, qui morderent cortinarum ansas, et fieret unum tabernaculum.	2020-04-18	Liber_Exodus
+1100001038	fecit et saga undecim de pilis caprarum ad operiendum tectum tabernaculi:unum sagum in longitudine habebat cubitos triginta, et in latitudine cubitos quatuor: unius mensurae erant omnia saga:quorum quinque iunxit seorsum, et sex alia separatim.	2020-04-18	Liber_Exodus
+1100001039	fecitque ansas quinquaginta in ora sagi unius, et quinquaginta in ora sagi alterius, ut sibi invicem iungerentur.	2020-04-18	Liber_Exodus
+1100001040	et fibulas aeneas quinquaginta, quibus necteretur tectum, ut unum pallium ex omnibus sagis fieret.	2020-04-18	Liber_Exodus
+1100001041	fecit et opertorium tabernaculi de pellibus arietum rubricatis: aliudque desuper velamentum de pellibus ianthinis.	2020-04-18	Liber_Exodus
+1100001042	fecit et tabulas tabernaculi de lignis setim stantes.	2020-04-18	Liber_Exodus
+1100001043	decem cubitorum erat longitudo tabulae unius: et unum ac semis cubitum latitudo retinebat.	2020-04-18	Liber_Exodus
+1100001044	binae incastraturae erant per singulas tabulas, ut altera alteri iungeretur. 	2020-04-18	Liber_Exodus
+1100001045	sic fecit in omnibus tabernaculi tabulis.	2020-04-18	Liber_Exodus
+1100001046	e quibus viginti ad plagam meridianam erant contra austrum,cum quadraginta basibus argenteis. 	2020-04-18	Liber_Exodus
+1100001047	duae bases sub una tabula ponebantur ex utraque parte angulorum, ubi incastraturae laterum in angulis terminantur.	2020-04-18	Liber_Exodus
+1100001048	ad plagam quoque tabernaculi, quae respicit ad aquilonem, fecit viginti tabulas,cum quadraginta basibus argenteis, duas bases per singulas tabulas.	2020-04-18	Liber_Exodus
+1100001049	contra occidentem vero, id est, ad eam partem tabernaculi quae mare respicit, fecit sex tabulas,et duas alias per singulos angulos tabernaculi retro:quae iunctae erant a deorsum usque sursum, et in unam compaginem pariter ferebantur. 	2020-04-18	Liber_Exodus
+1100001050	ita fecit ex utraque parte per angulos:ut octo essent simul tabulae, et haberent bases argenteas sedecim, binas scilicet bases sub singulis tabulis.	2020-04-18	Liber_Exodus
+1100001051	fecit et vectes de lignis setim, quinque ad continendas tabulas unius lateris tabernaculi,et quinque alios ad alterius lateris coaptandas tabulas: et extra hos, quinque alios vectes ad occidentalem plagam tabernaculi contra mare.	2020-04-18	Liber_Exodus
+1100001052	fecit quoque vectem alium, qui per medias tabulas ab angulo usque ad angulum perveniret.	2020-04-18	Liber_Exodus
+1100001053	ipsa autem tabulata deauravit, fusis basibus earum argenteis. 	2020-04-18	Liber_Exodus
+1100001054	et circulos eorum fecit aureos, per quos vectes induci possent: quos et ipsos laminis aureis operuit.	2020-04-18	Liber_Exodus
+1100001055	fecit et velum de hyacintho, et purpura, vermiculo, ac bysso retorta, opere polymitario, varium atque distinctum:et quatuor columnas de lignis setim, quas cum capitibus deauravit, fusis basibus earum argenteis.	2020-04-18	Liber_Exodus
+1100001056	fecit et tentorium in introitu tabernaculi ex hyacintho, purpura, vermiculo, byssoque retorta, opere plumarii:et columnas quinque cum capitibus suis, quas operuit auro, basesque earum fudit aeneas.	2020-04-18	Liber_Exodus
+1100001057	caput 37	2020-04-18	Liber_Exodus
+1100001058	fecit autem beseleel et arcam de lignis setim, habentem duos semis cubitos in longitudine, et cubitum ac semissem in latitudine, altitudo quoque unius cubiti fuit et dimidii: vestivitque eam auro purissimo intus ac foris.	2020-04-18	Liber_Exodus
+1100001059	et fecit illi coronam auream per gyrum,conflans quatuor annulos aureos per quatuor angulos eius: duos annulos in latere uno, et duos in altero.	2020-04-18	Liber_Exodus
+1100001060	vectes quoque fecit de lignis setim, quos vestivit auro,et quos misit in annulos, qui erant in lateribus arcae ad portandum eam.	2020-04-18	Liber_Exodus
+1100001061	fecit et propitiatorium, id est, oraculum, de auro mundissimo, duorum cubitorum et dimidii in longitudine, et cubiti ac semis in latitudine.	2020-04-18	Liber_Exodus
+1100001062	duos etiam cherubim ex auro ductili, quos posuit ex utraque parte propitiatorii:cherub unum in summitate unius partis, et cherub alterum in summitate partis alterius: duos cherubim in singulis summitatibus propitiatorii,extendentes alas, et tegentes propitiatorium, seque mutuo et illud respicientes.	2020-04-18	Liber_Exodus
+1100001063	fecit et mensam de lignis setim in longitudine duorum cubitorum, et in latitudine unius cubiti, quae habebat in altitudine cubitum ac semissem.	2020-04-18	Liber_Exodus
+1100001064	circumdeditque eam auro mundissimo, et fecit illi labium aureum per gyrum,ipsique labio coronam auream interrasilem quatuor digitorum, et super eamdem, alteram coronam auream.	2020-04-18	Liber_Exodus
+1100001065	fudit et quatuor circulos aureos, quos posuit in quatuor angulis per singulos pedes mensaecontra coronam: misitque in eos vectes, ut possit mensa portari.	2020-04-18	Liber_Exodus
+1100001066	ipsos quoque vectes fecit de lignis setim, et circumdedit eos auro.	2020-04-18	Liber_Exodus
+1100001067	et vasa ad diversos usus mensae, acetabula, phialas, et cyathos, et thuribula, ex auro puro, in quibus offerenda sunt libamina.	2020-04-18	Liber_Exodus
+1100001068	fecit et candelabrum ductile de auro mundissimo, de cuius vecte calami, scyphi, sphaerulaeque, ac lilia procedebant:sex in utroque latere, tres calami ex parte una, et tres ex altera:tres scyphi in nucis modum per calamos singulos, sphaerulaeque simul et lilia: et tres scyphi instar nucis in calamo altero, sphaerulaeque simul et lilia. 	2020-04-18	Liber_Exodus
+1100001069	aequum erat opus sex calamorum, qui procedebant de stipite candelabri.	2020-04-18	Liber_Exodus
+1100001070	in ipso autem vecte erant quatuor scyphi in nucis modum, sphaerulaeque per singulos simul et lilia:et sphaerulae sub duobus calamis per loca tria, qui simul sex fiunt calami procedentes de vecte uno.	2020-04-18	Liber_Exodus
+1100001071	et sphaerulae igitur, et calami ex ipso erant, universa ductilia ex auro purissimo.	2020-04-18	Liber_Exodus
+1100001072	fecit et lucernas septem cum emunctoriis suis, et vasa ubi ea, quae emuncta sunt, extinguantur, de auro mundissimo.	2020-04-18	Liber_Exodus
+1100001073	talentum auri appendebat candelabrum cum omnibus vasis suis.	2020-04-18	Liber_Exodus
+1100001074	fecit et altare thymiamatis de lignis setim, per quadrum singulos habens cubitos, et in altitudine duos: e cuius angulis procedebant cornua.	2020-04-18	Liber_Exodus
+1100001075	vestivitque illud auro purissimo cum craticula ac parietibus et cornibus.	2020-04-18	Liber_Exodus
+1100001076	fecitque ei coronam aureolam per gyrum, et duos annulos aureos sub corona per singula latera, ut mittantur in eos vectes, et possit altare portari.	2020-04-18	Liber_Exodus
+1100001077	ipsos autem vectes fecit de lignis setim, et operuit laminis aureis.	2020-04-18	Liber_Exodus
+1100001078	composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis opere pigmentarii.	2020-04-18	Liber_Exodus
+1100001079	caput 38	2020-04-18	Liber_Exodus
+1100001080	fecit et altare holocausti de lignis setim, quinque cubitorum per quadrum, et trium in altitudine:cuius cornua de angulis procedebant, operuitque illum laminis aeneis.	2020-04-18	Liber_Exodus
+1100001081	et in usus eius paravit ex aere vasa diversa, lebetes, forcipes, fuscinulas, uncinos, et ignium receptacula.	2020-04-18	Liber_Exodus
+1100001082	craticulamque eius in modum retis fecit aeneam, et subter eam in altaris medio arulam,fusis quatuor annulis per totidem retiaculi summitates, ad immittendos vectes ad portandum:quos et ipsos fecit de lignis setim, et operuit laminis aeneis:induxitque in circulos, qui in lateribus altaris eminebant. 	2020-04-18	Liber_Exodus
+1100001083	ipsum autem altare non erat solidum, sed cavum ex tabulis, et intus vacuum.	2020-04-18	Liber_Exodus
+1100001084	fecit et labrum aeneum cum basi sua de speculis mulierum, quae excubabant in ostio tabernaculi.	2020-04-18	Liber_Exodus
+1100001085	fecit et atrium, in cuius australi plaga erant tentoria de bysso retorta, cubitorum centum,columnae aeneae viginti cum basibus suis, capita columnarum, et tota operis caelatura, argentea.	2020-04-18	Liber_Exodus
+1100001086	aeque ad septentrionalem plagam tentoria columnae, basesque et capita columnarum eiusdem mensurae, et operis ac metalli, erant.	2020-04-18	Liber_Exodus
+1100001087	in ea vero plaga, quae ad occidentem respicit, fuerunt tentoria cubitorum quinquaginta, columnae decem cum basibus suis aeneae, et capita columnarum, et tota operis caelatura, argentea.	2020-04-18	Liber_Exodus
+1100001088	porro contra orientem quinquaginta cubitorum paravit tentoria:e quibus, quindecim cubitos columnarum trium, cum basibus suis, unum tenebat latus:et in parte altera (quia inter utraque introitum tabernaculi fecit) quindecim aeque cubitorum erant tentoria, columnaeque tres, et bases totidem.	2020-04-18	Liber_Exodus
+1100001089	cuncta atrii tentoria byssus retorta texuerat.	2020-04-18	Liber_Exodus
+1100001090	bases columnarum fuere aeneae, capita autem earum cum cunctis caelaturis suis argentea: sed et ipsas columnas atrii vestivit argento.	2020-04-18	Liber_Exodus
+1100001091	et in introitu eius opere plumario fecit tentorium ex hyacintho, purpura, vermiculo, ac bysso retorta, quod habebat viginti cubitos in longitudine, altitudo vero quinque cubitorum erat iuxta mensuram, quam cuncta atrii tentoria habebant.	2020-04-18	Liber_Exodus
+1100001092	columnae autem in ingressu fuere quatuor cum basibus aeneis, capitaque earum et caelaturae argenteae.	2020-04-18	Liber_Exodus
+1100001093	paxillos quoque tabernaculi et atrii per gyrum fecit aeneos.	2020-04-18	Liber_Exodus
+1100001094	haec sunt instrumenta tabernaculi testimonii, quae enumerata sunt iuxta praeceptum moysi in caeremoniis levitarum per manum ithamar filii aaron sacerdotis:quae beseleel filius uri filii hur de tribu iuda, domino per moysen iubente, compleverat,iuncto sibi socio ooliab filio achisamech de tribu dan: qui et ipse artifex lignorum egregius fuit, et polymitarius atque plumarius ex hyacintho, purpura, vermiculo et bysso.	2020-04-18	Liber_Exodus
+1100001095	omne aurum quod expensum est in opere sanctuarii, et quod oblatum est in donariis, viginti novem talentorum fuit, et septingentorum triginta siclorum ad mensuram sanctuarii.	2020-04-18	Liber_Exodus
+1100001096	oblatum est autem ab his qui transierunt ad numerum a viginti annis et supra, de sexcentis tribus millibus et quingentis quinquaginta armatorum.	2020-04-18	Liber_Exodus
+1100001097	fuerunt praeterea centum talenta argenti e quibus conflatae sunt bases sanctuarii, et introitus, ubi velum pendet.	2020-04-18	Liber_Exodus
+1100001098	centum bases factae sunt de talentis centum, singulis talentis per bases singulas supputatis.	2020-04-18	Liber_Exodus
+1100001099	de mille autem septingentis et septuaginta quinque, fecit capita columnarum, quas et ipsas vestivit argento.	2020-04-18	Liber_Exodus
+1100001100	aeris quoque oblata sunt talenta septuaginta duo millia, et quadringenti supra sicli,ex quibus fusae sunt bases in introitu tabernaculi testimonii, et altare aeneum cum craticula sua, omniaque vasa quae ad usum eius pertinent,et bases atrii tam in circuitu quam in ingressu eius, et paxilli tabernaculi atque atrii per gyrum.	2020-04-18	Liber_Exodus
+1100001101	caput 39	2020-04-18	Liber_Exodus
+1100001102	de hyacintho vero et purpura, vermiculo ac bysso, fecit vestes, quibus indueretur aaron quando ministrabat in sanctis, sicut praecepit dominus moysi.	2020-04-18	Liber_Exodus
+1100001103	fecit igitur superhumerale de auro, hyacintho, et purpura, coccoque bis tincto, et bysso retorta,opere polymitario: inciditque bracteas aureas, et extenuavit in fila, ut possent torqueri cum priorum colorum subtegmine,duasque oras sibi invicem copulatas in utroque latere summitatum,et balteum ex eisdem coloribus, sicut praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001104	paravit et duos lapides onychinos, astrictos et inclusos auro, et sculptos arte gemmaria nominibus filiorum israel:posuitque eos in lateribus superhumeralis in monimentum filiorum israel, sicut praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001105	fecit et rationale opere polymito iuxta opus superhumeralis, ex auro, hyacintho, purpura, coccoque bis tincto, et bysso retorta:quadrangulum, duplex, mensurae palmi.	2020-04-18	Liber_Exodus
+1100001106	et posuit in eo gemmarum ordines quatuor. 	2020-04-18	Liber_Exodus
+1100001107	in primo versu erat sardius, topazius, smaragdus.	2020-04-18	Liber_Exodus
+1100001108	in secundo, carbunculus, sapphirus, et iaspis.	2020-04-18	Liber_Exodus
+1100001109	in tertio, ligurius, achates, et amethystus.	2020-04-18	Liber_Exodus
+1100001110	in quarto, chrysolithus, onychinus, et beryllus, circumdati et inclusi auro per ordines suos.	2020-04-18	Liber_Exodus
+1100001111	ipsique lapides duodecim sculpti erant nominibus duodecim tribuum israel, singuli per nomina singulorum.	2020-04-18	Liber_Exodus
+1100001112	fecerunt in rationali et catenulas sibi invicem cohaerentes, de auro purissimo:et duos uncinos, totidemque annulos aureos. 	2020-04-18	Liber_Exodus
+1100001113	porro annulos posuerunt in utroque latere rationalis,e quibus penderent duae catenae aureae, quas inseruerunt uncinis, qui in superhumeralis angulis eminebant.	2020-04-18	Liber_Exodus
+1100001114	haec et ante et retro ita conveniebant sibi, ut superhumerale et rationale mutuo necterentur,stricta ad balteum et annulis fortius copulata, quos iungebat vitta hyacinthina, ne laxa fluerent, et a se invicem moverentur, sicut praecepit dominus moysi.	2020-04-18	Liber_Exodus
+1100001115	feceruntque quoque tunicam superhumeralis totam hyacinthinam,et capitium in superiori parte contra medium, oramque per gyrum capitii textilem:deorsum autem ad pedes mala punica ex hyacintho, purpura, vermiculo, ac bysso retorta:et tintinnabula de auro purissimo, quae posuerunt inter malogranata, in extrema parte tunicae per gyrum:tintinnabulum autem aureum, et malum punicum, quibus ornatus incedebat pontifex quando ministerio fungebatur, sicut praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001116	fecerunt et tunicas byssinas opere textili aaron et filiis eius:et mitras cum coronulis suis ex bysso:feminalia quoque linea, byssina:cingulum vero de bysso retorta, hyacintho, purpura, ac vermiculo bis tincto, arte plumaria, sicut praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001117	fecerunt et laminam sacrae venerationis de auro purissimo, scripseruntque in ea opere gemmario, sanctum domini:et strinxerunt eam cum mitra vitta hyacinthina, sicut praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001118	perfectum est igitur omne opus tabernaculi et tecti testimonii: feceruntque filii israel cuncta quae praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001119	et obtulerunt tabernaculum et tectum et universam supellectilem, annulos, tabulas, vectes, columnas ac bases,opertorium de pellibus arietum rubricatis, et aliud operimentum de ianthinis pellibus,velum; arcam, vectes, propitiatorium,mensam cum vasis suis et propositionis panibus;candelabrum, lucernas, et utensilia earum cum oleo;altare aureum, et unguentum, et thymiama ex aromatibus,et tentorium in introitu tabernaculi;altare aeneum, retiaculum, vectes, et vasa eius omnia; labrum cum basi sua; tentoria atrii, et columnas cum basibus suis;tentorium in introitu atrii, funiculosque illius et paxillos. 	2020-04-18	Liber_Exodus
+1100001120	nihil ex vasis defuit, quae in ministerium tabernaculi, et in tectum foederis iussa sunt fieri.	2020-04-18	Liber_Exodus
+1100001121	vestes quoque, quibus sacerdotes utuntur in sanctuario, aaron scilicet et filii eius,obtulerunt filii israel, sicut praeceperat dominus.	2020-04-18	Liber_Exodus
+1100001122	quae postquam moyses cuncta vidit completa, benedixit eis.	2020-04-18	Liber_Exodus
+1100001123	caput 40	2020-04-18	Liber_Exodus
+1100001124	locutusque est dominus ad moysen, dicens:mense primo, prima die mensis, eriges tabernaculum testimonii,et pones in eo arcam, dimittesque ante illam velum:et illata mensa, pones super eam quae rite praecepta sunt. 	2020-04-18	Liber_Exodus
+1100001125	candelabrum stabit cum lucernis suis,et altare aureum, in quo adoletur incensum, coram arca testimonii. 	2020-04-18	Liber_Exodus
+1100001126	tentorium in introitu tabernaculi pones,et ante illud altare holocausti:labrum inter altare et tabernaculum, quod implebis aqua.	2020-04-18	Liber_Exodus
+1100001127	circumdabisque atrium tentoriis, et ingressum eius.	2020-04-18	Liber_Exodus
+1100001128	et assumpto unctionis oleo unges tabernaculum cum vasis suis, ut sanctificentur:altare holocausti et omnia vasa eius,labrum cum basi sua: omnia unctionis oleo consecrabis, ut sint sancta sanctorum.	2020-04-18	Liber_Exodus
+1100001129	applicabisque aaron et filios eius ad fores tabernaculi testimonii, et lotos aquaindues sanctis vestibus, ut ministrent mihi, et unctio eorum in sacerdotium sempiternum proficiat.	2020-04-18	Liber_Exodus
+1100001130	fecitque moyses omnia quae praeceperat dominus.	2020-04-18	Liber_Exodus
+1100001131	igitur mense primo anni secundi, prima die mensis, collocatum est tabernaculum.	2020-04-18	Liber_Exodus
+1100001132	erexitque moyses illud, et posuit tabulas ac bases et vectes, statuitque columnas,et expandit tectum super tabernaculum, imposito desuper operimento, sicut dominus imperaverat.	2020-04-18	Liber_Exodus
+1100001133	posuit et testimonium in arca, subditis infra vectibus, et oraculum desuper.	2020-04-18	Liber_Exodus
+1100001134	cumque intulisset arcam in tabernaculum, appendit ante eam velum ut expleret domini iussionem.	2020-04-18	Liber_Exodus
+1100001135	posuit et mensam in tabernaculo testimonii ad plagam septentrionalem extra velum,ordinatis coram propositionis panibus, sicut praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001136	posuit et candelabrum in tabernaculo testimonii e regione mensae in parte australi,locatis per ordinem lucernis, iuxta praeceptum domini.	2020-04-18	Liber_Exodus
+1100001137	posuit et altare aureum sub tecto testimonii contra velum,et adolevit super eo incensum aromatum, sicut iusserat dominus moysi.	2020-04-18	Liber_Exodus
+1100001138	posuit et tentorium in introitu tabernaculi testimonii,et altare holocausti in vestibulo testimonii, offerens in eo holocaustum, et sacrificia, ut dominus imperaverat.	2020-04-18	Liber_Exodus
+1100001139	labrum quoque statuit inter tabernaculum testimonii et altare, implens illud aqua.	2020-04-18	Liber_Exodus
+1100001140	laveruntque moyses et aaron ac filii eius manus suas et pedes,cum ingrederentur tectum foederis, et accederent ad altare, sicut praeceperat dominus moysi.	2020-04-18	Liber_Exodus
+1100001141	erexit et atrium per gyrum tabernaculi et altaris, ducto in introitu eius tentorio.	2020-04-18	Liber_Exodus
+1100001142	postquam omnia perfecta sunt,operuit nubes tabernaculum testimonii, et gloria domini implevit illud.	2020-04-18	Liber_Exodus
+1100001143	nec poterat moyses ingredi tectum foederis, nube operiente omnia, et maiestate domini coruscante, quia cuncta nubes operuerat.	2020-04-18	Liber_Exodus
+1100001144	siquando nubes tabernaculum deserebat, proficiscebantur filii israel per turmas suas:si pendebat desuper, manebant in eodem loco.	2020-04-18	Liber_Exodus
+1100001145	nubes quippe domini incubabat per diem tabernaculo, et ignis in nocte, videntibus cunctis populis israel per cunctas mansiones suas.	2020-04-18	Liber_Exodus

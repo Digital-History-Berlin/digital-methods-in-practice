@@ -1,0 +1,84 @@
+1100000001	prophetia abdiae	2020-04-18	Prophetia_Abdiae
+1100000002	caput 1	2020-04-18	Prophetia_Abdiae
+1100000003	visio abdiae.	2020-04-18	Prophetia_Abdiae
+1100000004	haec dicit dominus deus ad edom:	2020-04-18	Prophetia_Abdiae
+1100000005	auditum audivimus a domino,	2020-04-18	Prophetia_Abdiae
+1100000006	et legatum ad gentes misit:	2020-04-18	Prophetia_Abdiae
+1100000007	surgite, et consurgamus adversus eum in praelium.	2020-04-18	Prophetia_Abdiae
+1100000008	ecce parvulum dedi te in gentibus:	2020-04-18	Prophetia_Abdiae
+1100000009	contemptibilis tu es valde.	2020-04-18	Prophetia_Abdiae
+1100000010	superbia cordis tui extulit te,	2020-04-18	Prophetia_Abdiae
+1100000011	habitantem in scissuris petrarum,	2020-04-18	Prophetia_Abdiae
+1100000012	exaltantem solium tuum;	2020-04-18	Prophetia_Abdiae
+1100000013	qui dicis in corde tuo:	2020-04-18	Prophetia_Abdiae
+1100000014	quis detrahet me in terram?	2020-04-18	Prophetia_Abdiae
+1100000015	si exaltatus fueris ut aquila,	2020-04-18	Prophetia_Abdiae
+1100000016	et si inter sidera posueris nidum tuum,	2020-04-18	Prophetia_Abdiae
+1100000017	inde detraham te, dicit dominus.	2020-04-18	Prophetia_Abdiae
+1100000018	si fures introissent ad te,	2020-04-18	Prophetia_Abdiae
+1100000019	si latrones per noctem,	2020-04-18	Prophetia_Abdiae
+1100000020	quomodo conticuisses?	2020-04-18	Prophetia_Abdiae
+1100000021	nonne furati essent sufficientia sibi?	2020-04-18	Prophetia_Abdiae
+1100000022	si vindemiatores introissent ad te,	2020-04-18	Prophetia_Abdiae
+1100000023	numquid saltem racemum reliquissent tibi?	2020-04-18	Prophetia_Abdiae
+1100000024	quomodo scrutati sunt esau;	2020-04-18	Prophetia_Abdiae
+1100000025	investigaverunt abscondita eius?	2020-04-18	Prophetia_Abdiae
+1100000026	usque ad terminum emiserunt te:	2020-04-18	Prophetia_Abdiae
+1100000027	omnes viri foederis tui illuserunt tibi:	2020-04-18	Prophetia_Abdiae
+1100000028	invaluerunt adversum te viri pacis tuae,	2020-04-18	Prophetia_Abdiae
+1100000029	qui comedunt tecum, ponent insidias subter te;	2020-04-18	Prophetia_Abdiae
+1100000030	non est prudentia in eo.	2020-04-18	Prophetia_Abdiae
+1100000031	numquid non in die illa, dicit dominus,	2020-04-18	Prophetia_Abdiae
+1100000032	perdam sapientes de idumaea,	2020-04-18	Prophetia_Abdiae
+1100000033	et prudentiam de monte esau?	2020-04-18	Prophetia_Abdiae
+1100000034	et timebunt fortes tui a meridie,	2020-04-18	Prophetia_Abdiae
+1100000035	ut intereat vir de monte esau.	2020-04-18	Prophetia_Abdiae
+1100000036	propter interfectionem,	2020-04-18	Prophetia_Abdiae
+1100000037	et propter iniquitatem in fratrem tuum iacob,	2020-04-18	Prophetia_Abdiae
+1100000038	operiet te confusio, et peribis in aeternum.	2020-04-18	Prophetia_Abdiae
+1100000039	in die cum stares adversus eum,	2020-04-18	Prophetia_Abdiae
+1100000040	quando capiebant alieni exercitum eius,	2020-04-18	Prophetia_Abdiae
+1100000041	et extranei ingrediebantur portas eius,	2020-04-18	Prophetia_Abdiae
+1100000042	et super ierusalem mittebant sortem,	2020-04-18	Prophetia_Abdiae
+1100000043	tu quoque eras quasi unus ex eis.	2020-04-18	Prophetia_Abdiae
+1100000044	et non despicies in die fratris tui,	2020-04-18	Prophetia_Abdiae
+1100000045	in die peregrinationis eius:	2020-04-18	Prophetia_Abdiae
+1100000046	et non laetaberis super filios iuda	2020-04-18	Prophetia_Abdiae
+1100000047	in die perditionis eorum:	2020-04-18	Prophetia_Abdiae
+1100000048	et non magnificabis os tuum	2020-04-18	Prophetia_Abdiae
+1100000049	in die angustiae.	2020-04-18	Prophetia_Abdiae
+1100000050	neque ingredieris portam populi mei	2020-04-18	Prophetia_Abdiae
+1100000051	in die ruinae eorum;	2020-04-18	Prophetia_Abdiae
+1100000052	neque despicies et tu in malis eius	2020-04-18	Prophetia_Abdiae
+1100000053	in die vastitatis illius.	2020-04-18	Prophetia_Abdiae
+1100000054	et non emitteris adversus exercitum eius	2020-04-18	Prophetia_Abdiae
+1100000055	in die vastitatis illius,	2020-04-18	Prophetia_Abdiae
+1100000056	neque stabis in exitibus	2020-04-18	Prophetia_Abdiae
+1100000057	ut interficias eos qui fugerint,	2020-04-18	Prophetia_Abdiae
+1100000058	et non concludes reliquos eius	2020-04-18	Prophetia_Abdiae
+1100000059	in die tribulationis.	2020-04-18	Prophetia_Abdiae
+1100000060	quoniam iuxta est dies domini super omnes gentes:	2020-04-18	Prophetia_Abdiae
+1100000061	sicut fecisti, fiet tibi;	2020-04-18	Prophetia_Abdiae
+1100000062	retributionem tuam convertet in caput tuum.	2020-04-18	Prophetia_Abdiae
+1100000063	quomodo enim bibistis super montem sanctum meum,	2020-04-18	Prophetia_Abdiae
+1100000064	bibent omnes gentes iugiter:	2020-04-18	Prophetia_Abdiae
+1100000065	et bibent, et absorbebunt,	2020-04-18	Prophetia_Abdiae
+1100000066	et erunt quasi non sint.	2020-04-18	Prophetia_Abdiae
+1100000067	et in monte sion erit salvatio, et erit sanctus;	2020-04-18	Prophetia_Abdiae
+1100000068	et possidebit domus iacob eos qui se possederant.	2020-04-18	Prophetia_Abdiae
+1100000069	et erit domus iacob ignis,	2020-04-18	Prophetia_Abdiae
+1100000070	et domus ioseph flamma,	2020-04-18	Prophetia_Abdiae
+1100000071	et domus esau stipula:	2020-04-18	Prophetia_Abdiae
+1100000072	et succendentur in eis, et devorabunt eos,	2020-04-18	Prophetia_Abdiae
+1100000073	et non erunt reliquiae domus esau,	2020-04-18	Prophetia_Abdiae
+1100000074	quia dominus locutus est.	2020-04-18	Prophetia_Abdiae
+1100000075	et haereditabunt hi, qui ad austrum sunt, montem esau,	2020-04-18	Prophetia_Abdiae
+1100000076	et qui in campestribus, philisthiim:	2020-04-18	Prophetia_Abdiae
+1100000077	et possidebunt regionem ephraim et regionem samariae,	2020-04-18	Prophetia_Abdiae
+1100000078	et beniamin possidebit galaad.	2020-04-18	Prophetia_Abdiae
+1100000079	et transmigratio exercitus huius filiorum israel,	2020-04-18	Prophetia_Abdiae
+1100000080	omnia loca chananaeorum usque ad sareptam:	2020-04-18	Prophetia_Abdiae
+1100000081	et transmigratio ierusalem, quae in bosphoro est,	2020-04-18	Prophetia_Abdiae
+1100000082	possidebit civitates austri.	2020-04-18	Prophetia_Abdiae
+1100000083	et ascendent salvatores in montem sion iudicare montem esau,	2020-04-18	Prophetia_Abdiae
+1100000084	et erit domino regnum.	2020-04-18	Prophetia_Abdiae

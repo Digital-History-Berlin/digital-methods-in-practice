@@ -1,0 +1,386 @@
+1100000001	prophetia michaeae	2020-04-18	Prophetia_Michaeae
+1100000002	caput 1	2020-04-18	Prophetia_Michaeae
+1100000003	verbum domini, quod factum est ad michaeam morasthiten, in diebus ioathan, achaz, et ezechiae, regum iuda, quod vidit super samariam et ierusalem.	2020-04-18	Prophetia_Michaeae
+1100000004	audite, populi omnes,	2020-04-18	Prophetia_Michaeae
+1100000005	et attendat terra, et plenitudo eius:	2020-04-18	Prophetia_Michaeae
+1100000006	et sit dominus deus vobis in testem,	2020-04-18	Prophetia_Michaeae
+1100000007	dominus de templo sancto suo.	2020-04-18	Prophetia_Michaeae
+1100000008	quia ecce dominus egredietur de loco suo,	2020-04-18	Prophetia_Michaeae
+1100000009	et descendet, et calcabit super excelsa terrae.	2020-04-18	Prophetia_Michaeae
+1100000010	et consumentur montes subtus eum,	2020-04-18	Prophetia_Michaeae
+1100000011	et valles scindentur sicut cera a facie ignis,	2020-04-18	Prophetia_Michaeae
+1100000012	et sicut aquae quae decurrunt in praeceps.	2020-04-18	Prophetia_Michaeae
+1100000013	in scelere iacob omne istud,	2020-04-18	Prophetia_Michaeae
+1100000014	et in peccatis domus israel.	2020-04-18	Prophetia_Michaeae
+1100000015	quod scelus iacob? 	2020-04-18	Prophetia_Michaeae
+1100000016	nonne samaria?	2020-04-18	Prophetia_Michaeae
+1100000017	et quae excelsa iudae? 	2020-04-18	Prophetia_Michaeae
+1100000018	nonne ierusalem?	2020-04-18	Prophetia_Michaeae
+1100000019	et ponam samariam quasi acervum lapidum in agro,	2020-04-18	Prophetia_Michaeae
+1100000020	cum plantatur vinea;	2020-04-18	Prophetia_Michaeae
+1100000021	et detraham in vallem lapides eius,	2020-04-18	Prophetia_Michaeae
+1100000022	et fundamenta eius revelabo.	2020-04-18	Prophetia_Michaeae
+1100000023	et omnia sculptilia eius concidentur,	2020-04-18	Prophetia_Michaeae
+1100000024	et omnes mercedes eius comburentur igne,	2020-04-18	Prophetia_Michaeae
+1100000025	et omnia idola eius ponam in perditionem,	2020-04-18	Prophetia_Michaeae
+1100000026	quia de mercedibus meretricis congregata sunt,	2020-04-18	Prophetia_Michaeae
+1100000027	et usque ad mercedem meretricis revertentur.	2020-04-18	Prophetia_Michaeae
+1100000028	super hoc plangam, et ululabo;	2020-04-18	Prophetia_Michaeae
+1100000029	vadam spoliatus, et nudus;	2020-04-18	Prophetia_Michaeae
+1100000030	faciam planctum velut draconum,	2020-04-18	Prophetia_Michaeae
+1100000031	et luctum quasi struthionum:	2020-04-18	Prophetia_Michaeae
+1100000032	quia desperata est plaga eius,	2020-04-18	Prophetia_Michaeae
+1100000033	quia venit usque ad iudam;	2020-04-18	Prophetia_Michaeae
+1100000034	tetigit portam populi mei usque ad ierusalem.	2020-04-18	Prophetia_Michaeae
+1100000035	in geth nolite annuntiare;	2020-04-18	Prophetia_Michaeae
+1100000036	lacrimis ne ploretis;	2020-04-18	Prophetia_Michaeae
+1100000037	in domo pulveris pulvere vos conspergite.	2020-04-18	Prophetia_Michaeae
+1100000038	et transite vobis, habitatio pulchra, confusa ignominia:	2020-04-18	Prophetia_Michaeae
+1100000039	non est egressa quae habitat in exitu:	2020-04-18	Prophetia_Michaeae
+1100000040	planctum domus vicina accipiet ex vobis, quae stetit sibimet.	2020-04-18	Prophetia_Michaeae
+1100000041	quia infirmata est in bonum,	2020-04-18	Prophetia_Michaeae
+1100000042	quae habitat in amaritudinibus;	2020-04-18	Prophetia_Michaeae
+1100000043	quia descendit malum a domino in portam ierusalem.	2020-04-18	Prophetia_Michaeae
+1100000044	tumultus quadrigae stuporis habitanti lachis:	2020-04-18	Prophetia_Michaeae
+1100000045	principium peccati est filiae sion,	2020-04-18	Prophetia_Michaeae
+1100000046	quia in te inventa sunt scelera israel.	2020-04-18	Prophetia_Michaeae
+1100000047	propterea dabit emissarios super haereditatem geth,	2020-04-18	Prophetia_Michaeae
+1100000048	domus mendacii in deceptionem regibus israel.	2020-04-18	Prophetia_Michaeae
+1100000049	adhuc haeredem adducam tibi quae habitas in maresa;	2020-04-18	Prophetia_Michaeae
+1100000050	usque ad odollam veniet gloria israel.	2020-04-18	Prophetia_Michaeae
+1100000051	decalvare, et tondere super filios deliciarum tuarum;	2020-04-18	Prophetia_Michaeae
+1100000052	dilata calvitium tuum sicut aquila,	2020-04-18	Prophetia_Michaeae
+1100000053	quoniam captivi ducti sunt ex te.	2020-04-18	Prophetia_Michaeae
+1100000054	caput 2	2020-04-18	Prophetia_Michaeae
+1100000055	vae qui cogitatis inutile,	2020-04-18	Prophetia_Michaeae
+1100000056	et operamini malum in cubilibus vestris!	2020-04-18	Prophetia_Michaeae
+1100000057	in luce matutina faciunt illud,	2020-04-18	Prophetia_Michaeae
+1100000058	quoniam contra deum est manus eorum.	2020-04-18	Prophetia_Michaeae
+1100000059	et concupierunt agros, et violenter tulerunt:	2020-04-18	Prophetia_Michaeae
+1100000060	et rapuerunt domos,	2020-04-18	Prophetia_Michaeae
+1100000061	et calumniabantur virum, et domum eius:	2020-04-18	Prophetia_Michaeae
+1100000062	virum, et haereditatem eius.	2020-04-18	Prophetia_Michaeae
+1100000063	idcirco haec dicit dominus:	2020-04-18	Prophetia_Michaeae
+1100000064	ecce ego cogito super familiam istam malum,	2020-04-18	Prophetia_Michaeae
+1100000065	unde non auferetis colla vestra,	2020-04-18	Prophetia_Michaeae
+1100000066	et non ambulabitis superbi:	2020-04-18	Prophetia_Michaeae
+1100000067	quoniam tempus pessimum est.	2020-04-18	Prophetia_Michaeae
+1100000068	in die illa sumetur super vos parabola,	2020-04-18	Prophetia_Michaeae
+1100000069	et cantabitur canticum cum suavitate, dicentium:	2020-04-18	Prophetia_Michaeae
+1100000070	depopulatione vastati sumus;	2020-04-18	Prophetia_Michaeae
+1100000071	pars populi mei commutata est:	2020-04-18	Prophetia_Michaeae
+1100000072	quomodo recedet a me, cum revertatur,	2020-04-18	Prophetia_Michaeae
+1100000073	qui regiones nostras dividat?	2020-04-18	Prophetia_Michaeae
+1100000074	propter hoc non erit tibi mittens funiculum sortis in coetu domini.	2020-04-18	Prophetia_Michaeae
+1100000075	ne loquamini loquentes;	2020-04-18	Prophetia_Michaeae
+1100000076	non stillabit super istos, non comprehendet confusio.	2020-04-18	Prophetia_Michaeae
+1100000077	dicit domus iacob:	2020-04-18	Prophetia_Michaeae
+1100000078	numquid abbreviatus est spiritus domini,	2020-04-18	Prophetia_Michaeae
+1100000079	aut tales sunt cogitationes eius?	2020-04-18	Prophetia_Michaeae
+1100000080	nonne verba mea bona sunt cum eo qui recte graditur?	2020-04-18	Prophetia_Michaeae
+1100000081	et e contrario populus meus in adversarium consurrexit.	2020-04-18	Prophetia_Michaeae
+1100000082	desuper tunica pallium sustulistis:	2020-04-18	Prophetia_Michaeae
+1100000083	et eos qui transibant simpliciter convertistis in bellum.	2020-04-18	Prophetia_Michaeae
+1100000084	mulieres populi mei eiecistis de domo deliciarum suarum;	2020-04-18	Prophetia_Michaeae
+1100000085	a parvulis earum tulistis laudem meam in perpetuum.	2020-04-18	Prophetia_Michaeae
+1100000086	surgite, et ite, quia non habetis hic requiem:	2020-04-18	Prophetia_Michaeae
+1100000087	propter immunditiam eius corrumpetur putredine pessima.	2020-04-18	Prophetia_Michaeae
+1100000088	utinam non essem vir habens spiritum,	2020-04-18	Prophetia_Michaeae
+1100000089	et mendacium potius loquerer!	2020-04-18	Prophetia_Michaeae
+1100000090	stillabo tibi in vinum et in ebrietatem;	2020-04-18	Prophetia_Michaeae
+1100000091	et erit super quem stillatur populus iste.	2020-04-18	Prophetia_Michaeae
+1100000092	congregatione congregabo, iacob, totum te;	2020-04-18	Prophetia_Michaeae
+1100000093	in unum conducam reliquias israel:	2020-04-18	Prophetia_Michaeae
+1100000094	pariter ponam illum quasi gregem in ovili,	2020-04-18	Prophetia_Michaeae
+1100000095	quasi pecus in medio caularum:	2020-04-18	Prophetia_Michaeae
+1100000096	tumultuabuntur a multitudine hominum.	2020-04-18	Prophetia_Michaeae
+1100000097	ascendet enim pandens iter ante eos:	2020-04-18	Prophetia_Michaeae
+1100000098	divident, et transibunt portam,	2020-04-18	Prophetia_Michaeae
+1100000099	et ingredientur per eam:	2020-04-18	Prophetia_Michaeae
+1100000100	et transibit rex eorum coram eis,	2020-04-18	Prophetia_Michaeae
+1100000101	et dominus in capite eorum.	2020-04-18	Prophetia_Michaeae
+1100000102	caput 3	2020-04-18	Prophetia_Michaeae
+1100000103	et dixi: audite, princeps iacob,	2020-04-18	Prophetia_Michaeae
+1100000104	et duces domus israel:	2020-04-18	Prophetia_Michaeae
+1100000105	numquid non vestrum est scire iudicium,	2020-04-18	Prophetia_Michaeae
+1100000106	qui odio habetis bonum, et diligitis malum;	2020-04-18	Prophetia_Michaeae
+1100000107	qui violenter tollitis pelles eorum desuper eis,	2020-04-18	Prophetia_Michaeae
+1100000108	et carnem eorum desuper ossibus eorum;	2020-04-18	Prophetia_Michaeae
+1100000109	qui comederunt carnem populi mei,	2020-04-18	Prophetia_Michaeae
+1100000110	et pellem eorum desuper excoriaverunt,	2020-04-18	Prophetia_Michaeae
+1100000111	et ossa eorum confregerunt,	2020-04-18	Prophetia_Michaeae
+1100000112	et conciderunt sicut in lebete,	2020-04-18	Prophetia_Michaeae
+1100000113	et quasi carnem in medio ollae?	2020-04-18	Prophetia_Michaeae
+1100000114	tunc clamabunt ad dominum, et non exaudiet eos,	2020-04-18	Prophetia_Michaeae
+1100000115	et abscondet faciem suam ab eis in tempore illo,	2020-04-18	Prophetia_Michaeae
+1100000116	sicut nequiter egerunt in adinventionibus suis.	2020-04-18	Prophetia_Michaeae
+1100000117	haec dicit dominus super prophetas,	2020-04-18	Prophetia_Michaeae
+1100000118	qui seducunt populum meum:	2020-04-18	Prophetia_Michaeae
+1100000119	qui mordent dentibus suis,	2020-04-18	Prophetia_Michaeae
+1100000120	et praedicant pacem;	2020-04-18	Prophetia_Michaeae
+1100000121	et si quis non dederit in ore eorum quippiam,	2020-04-18	Prophetia_Michaeae
+1100000122	sanctificant super eum praelium.	2020-04-18	Prophetia_Michaeae
+1100000123	propterea nox vobis pro visione erit,	2020-04-18	Prophetia_Michaeae
+1100000124	et tenebrae vobis pro divinatione;	2020-04-18	Prophetia_Michaeae
+1100000125	et occumbet sol super prophetas,	2020-04-18	Prophetia_Michaeae
+1100000126	et obtenebrabitur super eos dies.	2020-04-18	Prophetia_Michaeae
+1100000127	et confundentur qui vident visiones,	2020-04-18	Prophetia_Michaeae
+1100000128	et confundentur divini;	2020-04-18	Prophetia_Michaeae
+1100000129	et operient omnes vultos suos,	2020-04-18	Prophetia_Michaeae
+1100000130	quia non est responsum dei.	2020-04-18	Prophetia_Michaeae
+1100000131	verumtamen ego repletus sum fortitudine spiritus domini,	2020-04-18	Prophetia_Michaeae
+1100000132	iudicio, et virtute,	2020-04-18	Prophetia_Michaeae
+1100000133	ut annuntiem iacob scelus suum,	2020-04-18	Prophetia_Michaeae
+1100000134	et israel peccatum suum.	2020-04-18	Prophetia_Michaeae
+1100000135	audite hoc, principes domus iacob,	2020-04-18	Prophetia_Michaeae
+1100000136	et iudices domus israel,	2020-04-18	Prophetia_Michaeae
+1100000137	qui abominamini iudicium,	2020-04-18	Prophetia_Michaeae
+1100000138	et omnia recta pervertitis:	2020-04-18	Prophetia_Michaeae
+1100000139	qui aedificatis sion in sanguinibus,	2020-04-18	Prophetia_Michaeae
+1100000140	et ierusalem in iniquitate.	2020-04-18	Prophetia_Michaeae
+1100000141	principes eius in muneribus iudicabant,	2020-04-18	Prophetia_Michaeae
+1100000142	et sacerdotes eius in mercede docebant,	2020-04-18	Prophetia_Michaeae
+1100000143	et prophetae eius in pecunia divinabant:	2020-04-18	Prophetia_Michaeae
+1100000144	et super dominum requiescebant, dicentes:	2020-04-18	Prophetia_Michaeae
+1100000145	numquid non dominus in medio nostrum?	2020-04-18	Prophetia_Michaeae
+1100000146	non venient super nos mala.	2020-04-18	Prophetia_Michaeae
+1100000147	propter hoc, causa vestri, sion quasi ager arabitur,	2020-04-18	Prophetia_Michaeae
+1100000148	et ierusalem quasi acervus lapidum erit,	2020-04-18	Prophetia_Michaeae
+1100000149	et mons templi in excelsa silvarum.	2020-04-18	Prophetia_Michaeae
+1100000150	caput 4	2020-04-18	Prophetia_Michaeae
+1100000151	et erit: in novissimo dierum	2020-04-18	Prophetia_Michaeae
+1100000152	erit mons domus domini praeparatus in vertice montium,	2020-04-18	Prophetia_Michaeae
+1100000153	et sublimis super colles:	2020-04-18	Prophetia_Michaeae
+1100000154	et fluent ad eum populi,	2020-04-18	Prophetia_Michaeae
+1100000155	et properabunt gentes multae, et dicent:	2020-04-18	Prophetia_Michaeae
+1100000156	venite, ascendamus ad montem domini,	2020-04-18	Prophetia_Michaeae
+1100000157	et ad domum dei iacob:	2020-04-18	Prophetia_Michaeae
+1100000158	et docebit nos de viis suis,	2020-04-18	Prophetia_Michaeae
+1100000159	et ibimus in semitis eius,	2020-04-18	Prophetia_Michaeae
+1100000160	quia de sion egredietur lex,	2020-04-18	Prophetia_Michaeae
+1100000161	et verbum domini de ierusalem.	2020-04-18	Prophetia_Michaeae
+1100000162	et iudicabit inter populos multos,	2020-04-18	Prophetia_Michaeae
+1100000163	et corripiet gentes fortes usque in longinquum:	2020-04-18	Prophetia_Michaeae
+1100000164	et concident gladios suos in vomeres,	2020-04-18	Prophetia_Michaeae
+1100000165	et hastas suas in ligones:	2020-04-18	Prophetia_Michaeae
+1100000166	non sumet gens adversus gentem gladium,	2020-04-18	Prophetia_Michaeae
+1100000167	et non discent ultra belligerare.	2020-04-18	Prophetia_Michaeae
+1100000168	et sedebit vir subtus vitem suam et subtus ficum suam,	2020-04-18	Prophetia_Michaeae
+1100000169	et non erit qui deterreat,	2020-04-18	Prophetia_Michaeae
+1100000170	quia os domini exercituum locutum est.	2020-04-18	Prophetia_Michaeae
+1100000171	quia omnes populi ambulabunt	2020-04-18	Prophetia_Michaeae
+1100000172	unusquisque in nomine dei sui;	2020-04-18	Prophetia_Michaeae
+1100000173	nos autem ambulabimus	2020-04-18	Prophetia_Michaeae
+1100000174	in nomine domini dei nostri,	2020-04-18	Prophetia_Michaeae
+1100000175	in aeternum et ultra.	2020-04-18	Prophetia_Michaeae
+1100000176	in die illa, dicit dominus,	2020-04-18	Prophetia_Michaeae
+1100000177	congregabo claudicantem,	2020-04-18	Prophetia_Michaeae
+1100000178	et eam quam eieceram colligam,	2020-04-18	Prophetia_Michaeae
+1100000179	et quam afflixeram:	2020-04-18	Prophetia_Michaeae
+1100000180	et ponam claudicantem in reliquias,	2020-04-18	Prophetia_Michaeae
+1100000181	et eam quae laboraverat, in gentem robustam:	2020-04-18	Prophetia_Michaeae
+1100000182	et regnabit dominus super eos in monte sion,	2020-04-18	Prophetia_Michaeae
+1100000183	ex hoc nunc et usque in aeternum.	2020-04-18	Prophetia_Michaeae
+1100000184	et tu, turris gregis nebulosa filiae sion,	2020-04-18	Prophetia_Michaeae
+1100000185	usque ad te veniet,	2020-04-18	Prophetia_Michaeae
+1100000186	et veniet potestas prima,	2020-04-18	Prophetia_Michaeae
+1100000187	regnum filiae ierusalem.	2020-04-18	Prophetia_Michaeae
+1100000188	nunc quare moerore contraheris?	2020-04-18	Prophetia_Michaeae
+1100000189	numquid rex non est tibi,	2020-04-18	Prophetia_Michaeae
+1100000190	aut consiliarius tuus periit,	2020-04-18	Prophetia_Michaeae
+1100000191	quia comprehendit te dolor sicut parturientem?	2020-04-18	Prophetia_Michaeae
+1100000192	dole et satage, filia sion, quasi parturiens,	2020-04-18	Prophetia_Michaeae
+1100000193	quia nunc egredieris de civitate,	2020-04-18	Prophetia_Michaeae
+1100000194	et habitabis in regione,	2020-04-18	Prophetia_Michaeae
+1100000195	et venies usque ad babylonem:	2020-04-18	Prophetia_Michaeae
+1100000196	ibi liberaberis,	2020-04-18	Prophetia_Michaeae
+1100000197	ibi redimet te dominus de manu inimicorum tuorum.	2020-04-18	Prophetia_Michaeae
+1100000198	et nunc congregatae sunt super te gentes multae, quae dicunt:	2020-04-18	Prophetia_Michaeae
+1100000199	lapidetur, et aspiciat in sion oculus noster.	2020-04-18	Prophetia_Michaeae
+1100000200	ipsi autem non cognoverunt cogitationes domini,	2020-04-18	Prophetia_Michaeae
+1100000201	et non intellexerunt consilium eius,	2020-04-18	Prophetia_Michaeae
+1100000202	quia congregavit eos quasi foenum areae.	2020-04-18	Prophetia_Michaeae
+1100000203	surge, et tritura, filia sion,	2020-04-18	Prophetia_Michaeae
+1100000204	quia cornu tuum ponam ferreum,	2020-04-18	Prophetia_Michaeae
+1100000205	et ungulas tuas ponam aereas;	2020-04-18	Prophetia_Michaeae
+1100000206	et comminues populos multos,	2020-04-18	Prophetia_Michaeae
+1100000207	et interficies domino rapinas eorum,	2020-04-18	Prophetia_Michaeae
+1100000208	et fortitudinem eorum domino universae terrae.	2020-04-18	Prophetia_Michaeae
+1100000209	caput 5	2020-04-18	Prophetia_Michaeae
+1100000210	nunc vastaberis, filia latronis.	2020-04-18	Prophetia_Michaeae
+1100000211	obsidionem posuerunt super nos:	2020-04-18	Prophetia_Michaeae
+1100000212	in virga percutient maxillam iudicis israel.	2020-04-18	Prophetia_Michaeae
+1100000213	et tu, bethlehem ephrata,	2020-04-18	Prophetia_Michaeae
+1100000214	parvulus es in millibus iuda;	2020-04-18	Prophetia_Michaeae
+1100000215	ex te mihi egredietur qui sit dominator in israel,	2020-04-18	Prophetia_Michaeae
+1100000216	et egressus eius ab initio,	2020-04-18	Prophetia_Michaeae
+1100000217	a diebus aeternitatis.	2020-04-18	Prophetia_Michaeae
+1100000218	propter hoc dabit eos usque ad tempus in quo parturiens pariet,	2020-04-18	Prophetia_Michaeae
+1100000219	et reliquiae fratrum eius convertentur ad filios israel.	2020-04-18	Prophetia_Michaeae
+1100000220	et stabit, et pascet in fortitudine domini,	2020-04-18	Prophetia_Michaeae
+1100000221	in sublimitate nominis domini dei sui:	2020-04-18	Prophetia_Michaeae
+1100000222	et convertentur,	2020-04-18	Prophetia_Michaeae
+1100000223	quia nunc magnificabitur usque ad terminos terrae.	2020-04-18	Prophetia_Michaeae
+1100000224	et erit iste pax:	2020-04-18	Prophetia_Michaeae
+1100000225	cum venerit assyrius in terram nostram,	2020-04-18	Prophetia_Michaeae
+1100000226	et quando calcaverit domibus nostris,	2020-04-18	Prophetia_Michaeae
+1100000227	et suscitabimus super eum septem pastores	2020-04-18	Prophetia_Michaeae
+1100000228	et octo primates homines;	2020-04-18	Prophetia_Michaeae
+1100000229	et pascent terram assur in gladio,	2020-04-18	Prophetia_Michaeae
+1100000230	et terram nemrod in lanceis eius,	2020-04-18	Prophetia_Michaeae
+1100000231	et liberabit ab assur cum venerit in terram nostram,	2020-04-18	Prophetia_Michaeae
+1100000232	et cum calcaverit in finibus nostris.	2020-04-18	Prophetia_Michaeae
+1100000233	et erunt reliquiae iacob in medio populorum multorum	2020-04-18	Prophetia_Michaeae
+1100000234	quasi ros a domino,	2020-04-18	Prophetia_Michaeae
+1100000235	et quasi stillae super herbam,	2020-04-18	Prophetia_Michaeae
+1100000236	quae non exspectat virum,	2020-04-18	Prophetia_Michaeae
+1100000237	et non praestolatur filios hominum.	2020-04-18	Prophetia_Michaeae
+1100000238	et erunt reliquiae iacob in gentibus,	2020-04-18	Prophetia_Michaeae
+1100000239	in medio populorum multorum,	2020-04-18	Prophetia_Michaeae
+1100000240	quasi leo in iumentis silvarum,	2020-04-18	Prophetia_Michaeae
+1100000241	et quasi catulus leonis in gregibus pecorum,	2020-04-18	Prophetia_Michaeae
+1100000242	qui cum transierit, et conculcaverit, et ceperit,	2020-04-18	Prophetia_Michaeae
+1100000243	non est qui eruat.	2020-04-18	Prophetia_Michaeae
+1100000244	exaltabitur manus tua super hostes tuos,	2020-04-18	Prophetia_Michaeae
+1100000245	et omnes inimici tui interibunt.	2020-04-18	Prophetia_Michaeae
+1100000246	et erit in die illa, dicit dominus:	2020-04-18	Prophetia_Michaeae
+1100000247	auferam equos tuos de medio tui,	2020-04-18	Prophetia_Michaeae
+1100000248	et disperdam quadrigas tuas.	2020-04-18	Prophetia_Michaeae
+1100000249	et perdam civitates terrae tuae,	2020-04-18	Prophetia_Michaeae
+1100000250	et destruam omnes munitiones tuas:	2020-04-18	Prophetia_Michaeae
+1100000251	et auferam maleficia de manu tua,	2020-04-18	Prophetia_Michaeae
+1100000252	et divinationes non erunt in te:	2020-04-18	Prophetia_Michaeae
+1100000253	et perire faciam sculptilia tua et statuas tuas de medio tui,	2020-04-18	Prophetia_Michaeae
+1100000254	et non adorabis ultra opera manuum tuarum:	2020-04-18	Prophetia_Michaeae
+1100000255	et evellam lucos tuos de medio tui,	2020-04-18	Prophetia_Michaeae
+1100000256	et conteram civitates tuas.	2020-04-18	Prophetia_Michaeae
+1100000257	et faciam, in furore et in indignatione, ultionem	2020-04-18	Prophetia_Michaeae
+1100000258	in omnibus gentibus quae non audierunt.	2020-04-18	Prophetia_Michaeae
+1100000259	caput 6	2020-04-18	Prophetia_Michaeae
+1100000260	audite quae dominus loquitur:	2020-04-18	Prophetia_Michaeae
+1100000261	surge, contende iudicio adversum montes,	2020-04-18	Prophetia_Michaeae
+1100000262	et audiant colles vocem tuam.	2020-04-18	Prophetia_Michaeae
+1100000263	audiant montes iudicium domini,	2020-04-18	Prophetia_Michaeae
+1100000264	et fortia fundamenta terrae;	2020-04-18	Prophetia_Michaeae
+1100000265	quia iudicium domini cum populo suo,	2020-04-18	Prophetia_Michaeae
+1100000266	et cum israel diiudicabitur.	2020-04-18	Prophetia_Michaeae
+1100000267	popule meus, quid feci tibi?	2020-04-18	Prophetia_Michaeae
+1100000268	aut quid molestus fui tibi? 	2020-04-18	Prophetia_Michaeae
+1100000269	responde mihi.	2020-04-18	Prophetia_Michaeae
+1100000270	quia eduxi te de terra aegypti,	2020-04-18	Prophetia_Michaeae
+1100000271	et de domo servientium liberavi te,	2020-04-18	Prophetia_Michaeae
+1100000272	et misi ante faciem tuam moysen, et aaron, et mariam.	2020-04-18	Prophetia_Michaeae
+1100000273	popule meus, memento, quaeso,	2020-04-18	Prophetia_Michaeae
+1100000274	quid cogitaverit balach, rex moab,	2020-04-18	Prophetia_Michaeae
+1100000275	et quid responderit ei balaam, filius beor,	2020-04-18	Prophetia_Michaeae
+1100000276	de setim usque ad galgalam,	2020-04-18	Prophetia_Michaeae
+1100000277	ut cognosceres iustitias domini.	2020-04-18	Prophetia_Michaeae
+1100000278	quid dignum offeram domino?	2020-04-18	Prophetia_Michaeae
+1100000279	curvabo genu deo excelso?	2020-04-18	Prophetia_Michaeae
+1100000280	numquid offeram ei holocautomata et vitulos anniculos?	2020-04-18	Prophetia_Michaeae
+1100000281	numquid placari potest dominus in millibus arietum,	2020-04-18	Prophetia_Michaeae
+1100000282	aut in multis millibus hircorum pinguium?	2020-04-18	Prophetia_Michaeae
+1100000283	numquid dabo primogenitum meum pro scelere meo,	2020-04-18	Prophetia_Michaeae
+1100000284	fructum ventris mei pro peccato animae meae?	2020-04-18	Prophetia_Michaeae
+1100000285	indicabo tibi, o homo, quid sit bonum,	2020-04-18	Prophetia_Michaeae
+1100000286	et quid dominus requirat a te:	2020-04-18	Prophetia_Michaeae
+1100000287	utique facere iudicium,	2020-04-18	Prophetia_Michaeae
+1100000288	et diligere misericordiam,	2020-04-18	Prophetia_Michaeae
+1100000289	et sollicitum ambulare cum deo tuo.	2020-04-18	Prophetia_Michaeae
+1100000290	vox domini ad civitatem clamat,	2020-04-18	Prophetia_Michaeae
+1100000291	et salus erit timentibus nomen tuum:	2020-04-18	Prophetia_Michaeae
+1100000292	audite, tribus, et quis approbabit illud?	2020-04-18	Prophetia_Michaeae
+1100000293	adhuc ignis in domo impii thesauri iniquitatis,	2020-04-18	Prophetia_Michaeae
+1100000294	et mensura minor irae plena.	2020-04-18	Prophetia_Michaeae
+1100000295	numquid iustificabo stateram impiam,	2020-04-18	Prophetia_Michaeae
+1100000296	et saccelli pondera dolosa?	2020-04-18	Prophetia_Michaeae
+1100000297	in quibus divites eius repleti sunt iniquitate,	2020-04-18	Prophetia_Michaeae
+1100000298	et habitantes in ea loquebantur mendacium,	2020-04-18	Prophetia_Michaeae
+1100000299	et lingua eorum fraudulenta in ore eorum.	2020-04-18	Prophetia_Michaeae
+1100000300	et ego ergo coepi percutere te perditione super peccatis tuis.	2020-04-18	Prophetia_Michaeae
+1100000301	tu comedes, et non saturaberis,	2020-04-18	Prophetia_Michaeae
+1100000302	et humiliatio tua in medio tui:	2020-04-18	Prophetia_Michaeae
+1100000303	et apprehendes, et non salvabis,	2020-04-18	Prophetia_Michaeae
+1100000304	et quos salvaveris, in gladium dabo.	2020-04-18	Prophetia_Michaeae
+1100000305	tu seminabis, et non metes:	2020-04-18	Prophetia_Michaeae
+1100000306	tu calcabis olivam, et non ungeris oleo;	2020-04-18	Prophetia_Michaeae
+1100000307	et mustum, et non bibes vinum.	2020-04-18	Prophetia_Michaeae
+1100000308	et custodisti praecepta amri,	2020-04-18	Prophetia_Michaeae
+1100000309	et omne opus domus achab,	2020-04-18	Prophetia_Michaeae
+1100000310	et ambulasti in voluntatibus eorum:	2020-04-18	Prophetia_Michaeae
+1100000311	ut darem te in perditionem,	2020-04-18	Prophetia_Michaeae
+1100000312	et habitantes in ea in sibilum,	2020-04-18	Prophetia_Michaeae
+1100000313	et opprobrium populi mei portabitis.	2020-04-18	Prophetia_Michaeae
+1100000314	caput 7	2020-04-18	Prophetia_Michaeae
+1100000315	vae mihi, quia factus sum sicut qui colligit in autumno racemos vindemiae!	2020-04-18	Prophetia_Michaeae
+1100000316	non est botrus ad comedendum,	2020-04-18	Prophetia_Michaeae
+1100000317	praecoquas ficus desideravit anima mea.	2020-04-18	Prophetia_Michaeae
+1100000318	periit sanctus de terra,	2020-04-18	Prophetia_Michaeae
+1100000319	et rectus in hominibus non est:	2020-04-18	Prophetia_Michaeae
+1100000320	omnes in sanguine insidiantur;	2020-04-18	Prophetia_Michaeae
+1100000321	vir fratrem suum ad mortem venatur.	2020-04-18	Prophetia_Michaeae
+1100000322	malum manuum suarum dicunt bonum:	2020-04-18	Prophetia_Michaeae
+1100000323	princeps postulat, et iudex in reddendo est;	2020-04-18	Prophetia_Michaeae
+1100000324	et magnus locutus est desiderium animae suae,	2020-04-18	Prophetia_Michaeae
+1100000325	et conturbaverunt eam.	2020-04-18	Prophetia_Michaeae
+1100000326	qui optimus in eis est, quasi paliurus,	2020-04-18	Prophetia_Michaeae
+1100000327	et qui rectus, quasi spina de sepe.	2020-04-18	Prophetia_Michaeae
+1100000328	dies speculationis tuae, visitatio tua venit:	2020-04-18	Prophetia_Michaeae
+1100000329	nunc erit vastitas eorum.	2020-04-18	Prophetia_Michaeae
+1100000330	nolite credere amico,	2020-04-18	Prophetia_Michaeae
+1100000331	et nolite confidere in duce:	2020-04-18	Prophetia_Michaeae
+1100000332	ab ea quae dormit in sinu tuo custodi claustra oris tui.	2020-04-18	Prophetia_Michaeae
+1100000333	quia filius contumeliam facit patri,	2020-04-18	Prophetia_Michaeae
+1100000334	et filia consurgit adversus matrem suam:	2020-04-18	Prophetia_Michaeae
+1100000335	nurus adversus socrum suam,	2020-04-18	Prophetia_Michaeae
+1100000336	et inimici hominis domestici eius.	2020-04-18	Prophetia_Michaeae
+1100000337	ego autem ad dominum aspiciam;	2020-04-18	Prophetia_Michaeae
+1100000338	exspectabo deum, salvatorem meum:	2020-04-18	Prophetia_Michaeae
+1100000339	audiet me deus meus.	2020-04-18	Prophetia_Michaeae
+1100000340	ne laeteris, inimica mea, super me, quia cecidi:	2020-04-18	Prophetia_Michaeae
+1100000341	consurgam cum sedero in tenebris:	2020-04-18	Prophetia_Michaeae
+1100000342	dominus lux mea est.	2020-04-18	Prophetia_Michaeae
+1100000343	iram domini portabo,	2020-04-18	Prophetia_Michaeae
+1100000344	quoniam peccavi ei,	2020-04-18	Prophetia_Michaeae
+1100000345	donec causam meam iudicet,	2020-04-18	Prophetia_Michaeae
+1100000346	et faciat iudicium meum.	2020-04-18	Prophetia_Michaeae
+1100000347	educet me in lucem:	2020-04-18	Prophetia_Michaeae
+1100000348	videbo iustitiam eius.	2020-04-18	Prophetia_Michaeae
+1100000349	et aspiciet inimica mea,	2020-04-18	Prophetia_Michaeae
+1100000350	et operietur confusione,	2020-04-18	Prophetia_Michaeae
+1100000351	quae dicit ad me: ubi est dominus deus tuus?	2020-04-18	Prophetia_Michaeae
+1100000352	oculi mei videbunt in eam:	2020-04-18	Prophetia_Michaeae
+1100000353	nunc erit in conculcationem ut lutum platearum.	2020-04-18	Prophetia_Michaeae
+1100000354	dies, ut aedificentur maceriae tuae;	2020-04-18	Prophetia_Michaeae
+1100000355	in die illa longe fiet lex.	2020-04-18	Prophetia_Michaeae
+1100000356	in die illa et usque ad te veniet de assur,	2020-04-18	Prophetia_Michaeae
+1100000357	et usque ad civitates munitas,	2020-04-18	Prophetia_Michaeae
+1100000358	et a civitatibus munitis usque ad flumen,	2020-04-18	Prophetia_Michaeae
+1100000359	et ad mare de mari,	2020-04-18	Prophetia_Michaeae
+1100000360	et ad montem de monte.	2020-04-18	Prophetia_Michaeae
+1100000361	et terra erit in desolationem propter habitatores suos,	2020-04-18	Prophetia_Michaeae
+1100000362	et propter fructum cogitationum eorum.	2020-04-18	Prophetia_Michaeae
+1100000363	pasce populum tuum in virga tua,	2020-04-18	Prophetia_Michaeae
+1100000364	gregem haereditatis tuae, habitantes solos, in saltu, in medio carmeli.	2020-04-18	Prophetia_Michaeae
+1100000365	pascentur basan et galaad iuxta dies antiquos.	2020-04-18	Prophetia_Michaeae
+1100000366	secundum dies egressionis tuae de terra aegypti,	2020-04-18	Prophetia_Michaeae
+1100000367	ostendam ei mirabilia.	2020-04-18	Prophetia_Michaeae
+1100000368	videbunt gentes,	2020-04-18	Prophetia_Michaeae
+1100000369	et confundentur super omni fortitudine sua.	2020-04-18	Prophetia_Michaeae
+1100000370	ponent manum super os,	2020-04-18	Prophetia_Michaeae
+1100000371	aures eorum surdae erunt.	2020-04-18	Prophetia_Michaeae
+1100000372	lingent pulverem sicut serpentes;	2020-04-18	Prophetia_Michaeae
+1100000373	velut reptilia terrae perturbabuntur in aedibus suis.	2020-04-18	Prophetia_Michaeae
+1100000374	dominum deum nostrum formidabunt,	2020-04-18	Prophetia_Michaeae
+1100000375	et timebunt te.	2020-04-18	Prophetia_Michaeae
+1100000376	quis, deus, similis tui,	2020-04-18	Prophetia_Michaeae
+1100000377	qui aufers iniquitatem,	2020-04-18	Prophetia_Michaeae
+1100000378	et transis peccatum reliquiarum haereditatis tuae?	2020-04-18	Prophetia_Michaeae
+1100000379	non immittet ultra furorem suum,	2020-04-18	Prophetia_Michaeae
+1100000380	quoniam volens misericordiam est.	2020-04-18	Prophetia_Michaeae
+1100000381	revertetur, et miserebitur nostri;	2020-04-18	Prophetia_Michaeae
+1100000382	deponet iniquitates nostras,	2020-04-18	Prophetia_Michaeae
+1100000383	et proiiciet in profundum maris omnia peccata nostra.	2020-04-18	Prophetia_Michaeae
+1100000384	dabis veritatem iacob,	2020-04-18	Prophetia_Michaeae
+1100000385	misericordiam abraham,	2020-04-18	Prophetia_Michaeae
+1100000386	quae iurasti patribus nostris a diebus antiquis.	2020-04-18	Prophetia_Michaeae

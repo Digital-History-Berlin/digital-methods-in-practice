@@ -1,0 +1,1043 @@
+1100000001	actus apostolorum	2020-04-18	Actus_Apostolorum
+1100000002	caput 1	2020-04-18	Actus_Apostolorum
+1100000003	primum quidem sermonem feci de omnibus, o theophile, quae coepit iesus facere et docereusque in diem qua praecipiens apostolis per spiritum sanctum, quos elegit, assumptus est:quibus et praebuit seipsum vivum post passionem suam in multis argumentis, per dies quadraginta apparens eis, et loquens de regno dei.	2020-04-18	Actus_Apostolorum
+1100000004	et convescens, praecepit eis ab ierosolymis ne discederent, sed exspectarent promissionem patris, quam audistis (inquit) per os meum:quia ioannes quidem baptizavit aqua, vos autem baptizabimini spiritu sancto non post multos hos dies.	2020-04-18	Actus_Apostolorum
+1100000005	igitur qui convenerant, interrogabant eum, dicentes: domine, si in tempore hoc restitues regnum israel?	2020-04-18	Actus_Apostolorum
+1100000006	dixit autem eis: non est vestrum nosse tempora vel momenta quae pater posuit in sua potestate:sed accipietis virtutem supervenientis spiritus sancti in vos, et eritis mihi testes in ierusalem, et in omni iudaea, et samaria, et usque ad ultimum terrae.	2020-04-18	Actus_Apostolorum
+1100000007	et cum haec dixisset, videntibus illis, elevatus est: et nubes suscepit eum ab oculis eorum.	2020-04-18	Actus_Apostolorum
+1100000008	cumque intuerentur in caelum euntem illum, ecce duo viri astiterunt iuxta illos in vestibus albis,qui et dixerunt: viri galilaei, quid statis aspicientes in caelum? 	2020-04-18	Actus_Apostolorum
+1100000009	hic iesus, qui assumptus est a vobis in caelum, sic veniet quemadmodum vidistis eum euntem in caelum.	2020-04-18	Actus_Apostolorum
+1100000010	tunc reversi sunt ierosolymam a monte qui vocatur oliveti, qui est iuxta ierusalem, sabbati habens iter.	2020-04-18	Actus_Apostolorum
+1100000011	et cum introissent in coenaculum, ascenderunt ubi manebant petrus, et ioannes, iacobus, et andreas, philippus, et thomas, bartholomaeus, et matthaeus, iacobus alphaei, et simon zelotes, et iudas iacobi.	2020-04-18	Actus_Apostolorum
+1100000012	hi omnes erant perseverantes unanimiter in oratione cum mulieribus, et maria matre iesu, et fratribus eius.	2020-04-18	Actus_Apostolorum
+1100000013	in diebus illis, exsurgens petrus in medio fratrum, dixit (erat autem turba hominum simul, fere centum viginti):viri fratres, oportet impleri scripturam quam praedixit spiritus sanctus per os david de iuda, qui fuit dux eorum qui comprehenderunt iesum:qui connumeratus erat in nobis, et sortitus est sortem ministerii huius.	2020-04-18	Actus_Apostolorum
+1100000014	et hic quidem possedit agrum de mercede iniquitatis, et suspensus crepuit medius: et diffusa sunt omnia viscera eius.	2020-04-18	Actus_Apostolorum
+1100000015	et notum factum est omnibus habitantibus ierusalem, ita ut appellaretur ager ille, lingua eorum, haceldama, hoc est, ager sanguinis.	2020-04-18	Actus_Apostolorum
+1100000016	scriptum est enim in libro psalmorum: fiat commoratio eorum deserta, et non sit qui inhabitet in ea: et episcopatum eius accipiat alter.	2020-04-18	Actus_Apostolorum
+1100000017	oportet ergo ex his viris qui nobiscum sunt congregati in omni tempore quo intravit et exivit inter nos dominus iesus,incipiens a baptismate ioannis usque in diem qua assumptus est a nobis, testem resurrectionis eius nobiscum fieri unum ex istis.	2020-04-18	Actus_Apostolorum
+1100000018	et statuerunt duos, ioseph, qui vocabatur barsabas, qui cognominatus est iustus, et mathiam.	2020-04-18	Actus_Apostolorum
+1100000019	et orantes dixerunt: tu domine, qui corda nosti omnium, ostende quem elegeris ex his duobus unum,accipere locum ministerii huius et apostolatus, de quo praevaricatus est iudas ut abiret in locum suum.	2020-04-18	Actus_Apostolorum
+1100000020	et dederunt sortes eis, et cecidit sors super mathiam: et annumeratus est cum undecim apostolis.	2020-04-18	Actus_Apostolorum
+1100000021	caput 2	2020-04-18	Actus_Apostolorum
+1100000022	et cum complerentur dies pentecostes, erant omnes pariter in eodem loco:et factus est repente de caelo sonus, tamquam advenientis spiritus vehementis, et replevit totam domum ubi erant sedentes.	2020-04-18	Actus_Apostolorum
+1100000023	et apparuerunt illis dispertitae linguae tamquam ignis, seditque supra singulos eorum:et repleti sunt omnes spiritu sancto, et coeperunt loqui variis linguis, prout spiritus sanctus dabat eloqui illis.	2020-04-18	Actus_Apostolorum
+1100000024	erant autem in ierusalem habitantes iudaei, viri religiosi ex omni natione quae sub caelo est.	2020-04-18	Actus_Apostolorum
+1100000025	facta autem hac voce, convenit multitudo, et mente confusa est, quoniam audiebat unusquisque lingua sua illos loquentes.	2020-04-18	Actus_Apostolorum
+1100000026	stupebant autem omnes, et mirabantur, dicentes: nonne ecce omnes isti qui loquuntur, galilaei sunt?	2020-04-18	Actus_Apostolorum
+1100000027	et quomodo nos audivimus unusquisque linguam nostram in qua nati sumus?	2020-04-18	Actus_Apostolorum
+1100000028	parthi, et medi, et aelamitae, et qui habitant mespotamiam, iudaeam, et cappadociam, pontum, et asiam,phrygiam, et pamphyliam, aegyptum, et partes libyae quae est circa cyrenen: et advenae romani,iudaei quoque, et proselyti, cretes, et arabes: audivimus eos loquentes nostris linguis magnalia dei.	2020-04-18	Actus_Apostolorum
+1100000029	stupebant autem omnes, et mirabantur ad invicem, dicentes: quidnam vult hoc esse?	2020-04-18	Actus_Apostolorum
+1100000030	alii autem irridentes dicebant: quia musto pleni sunt isti.	2020-04-18	Actus_Apostolorum
+1100000031	stans autem petrus cum undecim, levavit vocem suam, et locutus est eis: viri iudaei, et qui habitatis ierusalem universi, hoc vobis notum sit, et auribus percipite verba mea.	2020-04-18	Actus_Apostolorum
+1100000032	non enim, sicut vos aestimatis, hi ebrii sunt, cum sit hora diei tertia:sed hoc est quod dictum est per prophetam ioel:	2020-04-18	Actus_Apostolorum
+1100000033	et erit in novissimis diebus, dicit dominus,	2020-04-18	Actus_Apostolorum
+1100000034	effundam de spiritu meo super omnem carnem:	2020-04-18	Actus_Apostolorum
+1100000035	et prophetabunt filii vestri et filiae vestrae,	2020-04-18	Actus_Apostolorum
+1100000036	et iuvenes vestri visiones videbunt,	2020-04-18	Actus_Apostolorum
+1100000037	et seniores vestri somnia somniabunt.	2020-04-18	Actus_Apostolorum
+1100000038	et quidem super servos meos, et super ancillas meas,	2020-04-18	Actus_Apostolorum
+1100000039	in diebus illis effundam de spiritu meo,	2020-04-18	Actus_Apostolorum
+1100000040	et prophetabunt:	2020-04-18	Actus_Apostolorum
+1100000041	et dabo prodigia in caelo sursum,	2020-04-18	Actus_Apostolorum
+1100000042	et signa in terra deorsum, sanguinem, et ignem, et vaporem fumi:	2020-04-18	Actus_Apostolorum
+1100000043	sol convertetur in tenebras,	2020-04-18	Actus_Apostolorum
+1100000044	et luna in sanguinem,	2020-04-18	Actus_Apostolorum
+1100000045	antequam veniat dies domini magnus et manifestus.	2020-04-18	Actus_Apostolorum
+1100000046	et erit: omnis quicumque invocaverit nomen domini, salvus erit.	2020-04-18	Actus_Apostolorum
+1100000047	viri israelitae, audite verba haec: iesum nazarenum, virum approbatum a deo in vobis, virtutibus, et prodigiis, et signis, quae fecit deus per illum in medio vestri, sicut et vos scitis:hunc, definito consilio et praescientia dei traditum, per manus iniquorum affligentes interemistis:quem deus suscitavit, solutis doloribus inferni, iuxta quod impossibile erat teneri illum ab eo.	2020-04-18	Actus_Apostolorum
+1100000048	david enim dicit in eum:	2020-04-18	Actus_Apostolorum
+1100000049	providebam dominum in conspectu meo semper:	2020-04-18	Actus_Apostolorum
+1100000050	quoniam a dextris est mihi, ne commovear:	2020-04-18	Actus_Apostolorum
+1100000051	propter hoc laetatum est cor meum, et exsultavit lingua mea,	2020-04-18	Actus_Apostolorum
+1100000052	insuper et caro mea requiescet in spe:	2020-04-18	Actus_Apostolorum
+1100000053	quoniam non derelinques animam meam in inferno,	2020-04-18	Actus_Apostolorum
+1100000054	nec dabis sanctum tuum videre corruptionem.	2020-04-18	Actus_Apostolorum
+1100000055	notas mihi fecisti vias vitae:	2020-04-18	Actus_Apostolorum
+1100000056	et replebis me iucunditate cum facie tua.	2020-04-18	Actus_Apostolorum
+1100000057	viri fratres, liceat audenter dicere ad vos de patriarcha david, quoniam defunctus est, et sepultus: et sepulchrum eius est apud nos usque in hodiernum diem.	2020-04-18	Actus_Apostolorum
+1100000058	propheta igitur cum esset, et sciret quia iureiurando iurasset illi deus de fructu lumbi eius sedere super sedem eius:providens locutus est de resurrectione christi, quia neque derelictus est in inferno, neque caro eius vidit corruptionem.	2020-04-18	Actus_Apostolorum
+1100000059	hunc iesum resuscitavit deus, cuius omnes nos testes sumus.	2020-04-18	Actus_Apostolorum
+1100000060	dextera igitur dei exaltatus, et promissione spiritus sancti accepta a patre, effudit hunc, quem vos videtis et auditis.	2020-04-18	Actus_Apostolorum
+1100000061	non enim david ascendit in caelum: dixit autem ipse:	2020-04-18	Actus_Apostolorum
+1100000062	dixit dominus domino meo:	2020-04-18	Actus_Apostolorum
+1100000063	sede a dextris meis,	2020-04-18	Actus_Apostolorum
+1100000064	donec ponam inimicos tuos	2020-04-18	Actus_Apostolorum
+1100000065	scabellum pedum tuorum.	2020-04-18	Actus_Apostolorum
+1100000066	certissime sciat ergo omnis domus israel, quia et dominum eum et christum fecit deus hunc iesum, quem vos crucifixistis.	2020-04-18	Actus_Apostolorum
+1100000067	his autem auditis, compuncti sunt corde, et dixerunt ad petrum et ad reliquos apostolos: quid faciemus, viri fratres?	2020-04-18	Actus_Apostolorum
+1100000068	petrus vero ad illos: poenitentiam, inquit, agite, et baptizetur unusquisque vestrum in nomine iesu christi in remissionem peccatorum vestrorum: et accipietis donum spiritus sancti.	2020-04-18	Actus_Apostolorum
+1100000069	vobis enim est repromissio, et filiis vestris, et omnibus qui longe sunt, quoscumque advocaverit dominus deus noster.	2020-04-18	Actus_Apostolorum
+1100000070	aliis etiam verbis plurimis testificatus est, et exhortabatur eos, dicens: salvamini a generatione ista prava.	2020-04-18	Actus_Apostolorum
+1100000071	qui ergo receperunt sermonem eius, baptizati sunt: et appositae sunt in die illa animae circiter tria millia.	2020-04-18	Actus_Apostolorum
+1100000072	erant autem perseverantes in doctrina apostolorum, et communicatione fractionis panis, et orationibus.	2020-04-18	Actus_Apostolorum
+1100000073	fiebat autem omni animae timor: multa quoque prodigia et signa per apostolos in ierusalem fiebant, et metus erat magnus in universis.	2020-04-18	Actus_Apostolorum
+1100000074	omnes etiam qui credebant, erant pariter, et habebant omnia communia.	2020-04-18	Actus_Apostolorum
+1100000075	possessiones et substantias vendebant, et dividebant illa omnibus, prout cuique opus erat.	2020-04-18	Actus_Apostolorum
+1100000076	quotidie quoque perdurantes unanimiter in templo, et frangentes circa domos panem, sumebant cibum cum exsultatione et simplicitate cordis,collaudantes deum et habentes gratiam ad omnem plebem. 	2020-04-18	Actus_Apostolorum
+1100000077	dominus autem augebat qui salvi fierent quotidie in idipsum.	2020-04-18	Actus_Apostolorum
+1100000078	caput 3	2020-04-18	Actus_Apostolorum
+1100000079	petrus autem et ioannes ascendebant in templum ad horam orationis nonam.	2020-04-18	Actus_Apostolorum
+1100000080	et quidam vir, qui erat claudus ex utero matris suae, baiulabatur: quem ponebant quotidie ad portam templi, quae dicitur speciosa, ut peteret eleemosynam ab introeuntibus in templum.	2020-04-18	Actus_Apostolorum
+1100000081	is cum vidisset petrum et ioannem incipientes introire in templum, rogabat ut eleemosynam acciperet.	2020-04-18	Actus_Apostolorum
+1100000082	intuens autem in eum petrus cum ioanne, dixit: respice in nos.	2020-04-18	Actus_Apostolorum
+1100000083	at ille intendebat in eos, sperans se aliquid accepturum ab eis.	2020-04-18	Actus_Apostolorum
+1100000084	petrus autem dixit: argentum et aurum non est mihi: quod autem habeo, hoc tibi do: in nomine iesu christi nazareni surge, et ambula.	2020-04-18	Actus_Apostolorum
+1100000085	et apprehensa manu eius dextera, allevavit eum, et protinus consolidatae sunt bases eius et plantae.	2020-04-18	Actus_Apostolorum
+1100000086	et exiliens stetit, et ambulabat: et intravit cum illis in templum ambulans, et exiliens, et laudans deum.	2020-04-18	Actus_Apostolorum
+1100000087	et vidit omnis populus eum ambulantem et laudantem deum.	2020-04-18	Actus_Apostolorum
+1100000088	cognoscebant autem illum, quod ipse erat qui ad eleemosynam sedebat ad speciosam portam templi: et impleti sunt stupore et extasi in eo quod contigerat illi.	2020-04-18	Actus_Apostolorum
+1100000089	cum teneret autem petrum et ioannem, cucurrit omnis populus ad eos ad porticum quae appellatur salomonis, stupentes.	2020-04-18	Actus_Apostolorum
+1100000090	videns autem petrus, respondit ad populum: viri israelitae, quid miramini in hoc, aut nos quid intuemini, quasi nostra virtute aut potestate fecerimus hunc ambulare?	2020-04-18	Actus_Apostolorum
+1100000091	deus abraham, et deus isaac, et deus iacob, deus patrum nostrorum glorificavit filium suum iesum, quem vos quidem tradidistis, et negastis ante faciem pilati, iudicante illo dimitti.	2020-04-18	Actus_Apostolorum
+1100000092	vos autem sanctum et iustum negastis, et petistis virum homicidam donari vobis:auctorem vero vitae interfecistis, quem deus suscitavit a mortuis, cuius nos testes sumus.	2020-04-18	Actus_Apostolorum
+1100000093	et in fide nominis eius, hunc quem vos vidistis et nostis, confirmavit nomen eius: et fides, quae per eum est, dedit integram sanitatem istam in conspectu omnium vestrum.	2020-04-18	Actus_Apostolorum
+1100000094	et nunc, fratres, scio quia per ignorantiam fecistis, sicut et principes vestri.	2020-04-18	Actus_Apostolorum
+1100000095	deus autem, quae praenuntiavit per os omnium prophetarum, pati christum suum, sic implevit.	2020-04-18	Actus_Apostolorum
+1100000096	poenitemini igitur et convertimini, ut deleantur peccata vestra:ut cum venerint tempora refrigerii a conspectu domini, et miserit eum qui praedicatus est vobis, iesum christum,quem oportet quidem caelum suscipere usque in tempora restitutionis omnium quae locutus est deus per os sanctorum suorum a saeculo prophetarum.	2020-04-18	Actus_Apostolorum
+1100000097	moyses quidem dixit: quoniam prophetam suscitabit vobis dominus deus vester de fratribus vestris, tamquam me: ipsum audietis iuxta omnia quaecumque locutus fuerit vobis.	2020-04-18	Actus_Apostolorum
+1100000098	erit autem: omnis anima quae non audierit prophetam illum, exterminabitur de plebe.	2020-04-18	Actus_Apostolorum
+1100000099	et omnes prophetae, a samuel et deinceps, qui locuti sunt, annuntiaverunt dies istos.	2020-04-18	Actus_Apostolorum
+1100000100	vos estis filii prophetarum, et testamenti quod disposuit deus ad patres nostros, dicens ad abraham: et in semine tuo benedicentur omnes familiae terrae.	2020-04-18	Actus_Apostolorum
+1100000101	vobis primum deus suscitans filium suum, misit eum benedicentem vobis: ut convertat se unusquisque a nequitia sua.	2020-04-18	Actus_Apostolorum
+1100000102	caput 4	2020-04-18	Actus_Apostolorum
+1100000103	loquentibus autem illis ad populum, supervenerunt sacerdotes, et magistratus templi, et sadducaei,dolentes quod docerent populum, et annuntiarent in iesu resurrectionem ex mortuis:et iniecerunt in eos manus, et posuerunt eos in custodiam in crastinum: erat enim iam vespera.	2020-04-18	Actus_Apostolorum
+1100000104	multi autem eorum qui audierant verbum, crediderunt: et factus est numerus virorum quinque millia.	2020-04-18	Actus_Apostolorum
+1100000105	factum est autem in crastinum, ut congregarentur principes eorum, et seniores, et scribae, in ierusalem:et annas princeps sacerdotum, et caiphas, et ioannes, et alexander, et quotquot erant de genere sacerdotali.	2020-04-18	Actus_Apostolorum
+1100000106	et statuentes eos in medio, interrogabant: in qua virtute, aut in quo nomine fecistis hoc vos?	2020-04-18	Actus_Apostolorum
+1100000107	tunc repletus spiritu sancto petrus, dixit ad eos: principes populi, et seniores, audite:si nos hodie diiudicamur in benefacto hominis infirmi, in quo iste salvus factus est,notum sit omnibus vobis, et omni plebi israel, quia in nomine domini nostri iesu christi nazareni, quem vos crucifixistis, quem deus suscitavit a mortuis, in hoc iste astat coram vobis sanus.	2020-04-18	Actus_Apostolorum
+1100000108	hic est lapis qui reprobatus est a vobis aedificantibus, qui factus est in caput anguli:et non est in alio aliquo salus. 	2020-04-18	Actus_Apostolorum
+1100000109	nec enim aliud nomen est sub caelo datum hominibus, in quo oporteat nos salvos fieri.	2020-04-18	Actus_Apostolorum
+1100000110	videntes autem petri constantiam, et ioannis, comperto quod homines essent sine litteris, et idiotae, admirabantur, et cognoscebant eos quoniam cum iesu fuerant:hominem quoque videntes stantem cum eis, qui curatus fuerat, nihil poterant contradicere.	2020-04-18	Actus_Apostolorum
+1100000111	iusserunt autem eos foras extra concilium secedere: et conferebant ad invicem,dicentes: quid faciemus hominibus istis? 	2020-04-18	Actus_Apostolorum
+1100000112	quoniam quidem notum signum factum est per eos omnibus habitantibus ierusalem: manifestum est, et non possumus negare.	2020-04-18	Actus_Apostolorum
+1100000113	sed ne amplius divulgetur in populum, comminemur eis ne ultra loquantur in nomine hoc ulli hominum.	2020-04-18	Actus_Apostolorum
+1100000114	et vocantes eos, denuntiaverunt ne omnino loquerentur neque docerent in nomine iesu.	2020-04-18	Actus_Apostolorum
+1100000115	petrus vero et ioannes respondentes, dixerunt ad eos: si iustum est in conspectu dei vos potius audire quam deum, iudicate.	2020-04-18	Actus_Apostolorum
+1100000116	non enim possumus quae vidimus et audivimus non loqui.	2020-04-18	Actus_Apostolorum
+1100000117	at illi comminantes dimiserunt eos, non invenientes quomodo punirent eos propter populum: quia omnes clarificabant id quod factum fuerat in eo quod acciderat.	2020-04-18	Actus_Apostolorum
+1100000118	annorum enim erat amplius quadraginta homo, in quo factum fuerat signum istud sanitatis.	2020-04-18	Actus_Apostolorum
+1100000119	dimissi autem venerunt ad suos, et annuntiaverunt eis quanta ad eos principes sacerdotum et seniores dixissent.	2020-04-18	Actus_Apostolorum
+1100000120	qui cum audissent, unanimiter levaverunt vocem ad deum, et dixerunt: domine, tu es qui fecisti caelum et terram, mare et omnia quae in eis sunt:qui spiritu sancto per os patris nostri david pueri tui dixisti:	2020-04-18	Actus_Apostolorum
+1100000121	quare fremuerunt gentes,	2020-04-18	Actus_Apostolorum
+1100000122	et populi meditati sunt inania?	2020-04-18	Actus_Apostolorum
+1100000123	astiterunt reges terrae,	2020-04-18	Actus_Apostolorum
+1100000124	et principes convenerunt in unum	2020-04-18	Actus_Apostolorum
+1100000125	adversus dominum, et adversus christum eius.	2020-04-18	Actus_Apostolorum
+1100000126	convenerunt enim vere in civitate ista adversus sanctum puerum tuum iesum, quem unxisti, herodes et pontius pilatus, cum gentibus et populis israel,facere quae manus tua et consilium tuum decreverunt fieri.	2020-04-18	Actus_Apostolorum
+1100000127	et nunc, domine, respice in minas eorum, et da servis tuis cum omni fiducia loqui verbum tuum,in eo quod manum tuam extendas ad sanitates, et signa, et prodigia fieri per nomen sancti filii tui iesu.	2020-04-18	Actus_Apostolorum
+1100000128	et cum orassent, motus est locus in quo erant congregati: et repleti sunt omnes spiritu sancto, et loquebantur verbum dei cum fiducia.	2020-04-18	Actus_Apostolorum
+1100000129	multitudinis autem credentium erat cor unum et anima una: nec quisquam eorum quae possidebat, aliquid suum esse dicebat, sed erant illis omnia communia.	2020-04-18	Actus_Apostolorum
+1100000130	et virtute magna reddebant apostoli testimonium resurrectionis iesu christi domini nostri: et gratia magna erat in omnibus illis.	2020-04-18	Actus_Apostolorum
+1100000131	neque enim quisquam egens erat inter illos. 	2020-04-18	Actus_Apostolorum
+1100000132	quotquot enim possessores agrorum aut domorum erant, vendentes afferebant pretia eorum quae vendebant,et ponebant ante pedes apostolorum. 	2020-04-18	Actus_Apostolorum
+1100000133	dividebatur autem singulis prout cuique opus erat.	2020-04-18	Actus_Apostolorum
+1100000134	ioseph autem, qui cognominatus est barnabas ab apostolis (quod est interpretatum, filius consolationis), levites, cyprius genere,cum haberet agrum, vendidit eum, et attulit pretium, et posuit ante pedes apostolorum.	2020-04-18	Actus_Apostolorum
+1100000135	caput 5	2020-04-18	Actus_Apostolorum
+1100000136	vir autem quidam nomine ananias, cum saphira uxore suo vendidit agrum,et fraudavit de pretio agri, conscia uxore sua: et afferens partem quamdam, ad pedes apostolorum posuit.	2020-04-18	Actus_Apostolorum
+1100000137	dixit autem petrus: anania, cur tentavit satanas cor tuum, mentiri te spiritui sancto, et fraudare de pretio agri?	2020-04-18	Actus_Apostolorum
+1100000138	nonne manens tibi manebat, et venundatum in tua erat potestate? 	2020-04-18	Actus_Apostolorum
+1100000139	quare posuisti in corde tuo hanc rem? 	2020-04-18	Actus_Apostolorum
+1100000140	non es mentitus hominibus, sed deo.	2020-04-18	Actus_Apostolorum
+1100000141	audiens autem ananias haec verba, cecidit, et expiravit. 	2020-04-18	Actus_Apostolorum
+1100000142	et factus est timor magnus super omnes qui audierunt.	2020-04-18	Actus_Apostolorum
+1100000143	surgentes autem iuvenes amoverunt eum, et efferentes sepelierunt.	2020-04-18	Actus_Apostolorum
+1100000144	factum est autem quasi horarum trium spatium, et uxor ipsius, nesciens quod factum fuerat, introivit.	2020-04-18	Actus_Apostolorum
+1100000145	dixit autem ei petrus: dic mihi mulier, si tanti agrum vendidistis? 	2020-04-18	Actus_Apostolorum
+1100000146	at illa dixit: etiam tanti.	2020-04-18	Actus_Apostolorum
+1100000147	petrus autem ad eam: quid utique convenit vobis tentare spiritum domini? 	2020-04-18	Actus_Apostolorum
+1100000148	ecce pedes eorum qui sepelierunt virum tuum ad ostium, et efferent te.	2020-04-18	Actus_Apostolorum
+1100000149	confestim cecidit ante pedes eius, et expiravit. 	2020-04-18	Actus_Apostolorum
+1100000150	intrantes autem iuvenes invenerunt illam mortuam: et extulerunt, et sepelierunt ad virum suum.	2020-04-18	Actus_Apostolorum
+1100000151	et factus est timor magnus in universa ecclesia, et in omnes qui audierunt haec.	2020-04-18	Actus_Apostolorum
+1100000152	per manus autem apostolorum fiebant signa et prodigia multa in plebe. 	2020-04-18	Actus_Apostolorum
+1100000153	et erant unanimiter omnes in porticu salomonis.	2020-04-18	Actus_Apostolorum
+1100000154	ceterorum autem nemo audebat se coniungere illis: sed magnificabat eos populus.	2020-04-18	Actus_Apostolorum
+1100000155	magis autem augebatur credentium in domino multitudo virorum ac mulierum,ita ut in plateas eiicerent infirmos, et ponerent in lectulis et grabatis, ut, veniente petro, saltem umbra illius obumbraret quemquam illorum, et liberarentur ab infirmitatibus suis.	2020-04-18	Actus_Apostolorum
+1100000156	concurrebat autem et multitudo vicinarum civitatum ierusalem, afferentes aegros, et vexatos a spiritibus immundis: qui curabantur omnes.	2020-04-18	Actus_Apostolorum
+1100000157	exsurgens autem princeps sacerdotum, et omnes qui cum illo erant (quae est haeresis sadducaeorum), repleti sunt zelo:et iniecerunt manus in apostolos, et posuerunt eos in custodia publica.	2020-04-18	Actus_Apostolorum
+1100000158	angelus autem domini per noctem aperiens ianuas carceris, et educens eos, dixit:ite, et stantes loquimini in templo plebi omnia verba vitae huius.	2020-04-18	Actus_Apostolorum
+1100000159	qui cum audissent, intraverunt diluculo in templum, et docebant. 	2020-04-18	Actus_Apostolorum
+1100000160	adveniens autem princeps sacerdotum, et qui cum eo erant, convocaverunt concilium, et omnes seniores filiorum israel: et miserunt ad carcerem ut adducerentur.	2020-04-18	Actus_Apostolorum
+1100000161	cum autem venissent ministri, et aperto carcere non invenissent illos, reversi nuntiaverunt,dicentes: carcerem quidem invenimus clausum cum omni diligentia, et custodes stantes ante ianuas: aperientes autem neminem intus invenimus.	2020-04-18	Actus_Apostolorum
+1100000162	ut autem audierunt hos sermones magistratus templi et principes sacerdotum, ambigebant de illis quidnam fieret.	2020-04-18	Actus_Apostolorum
+1100000163	adveniens autem quidam, nuntiavit eis: quia ecce viri quos posuistis in carcerem, sunt in templo, stantes et docentes populum.	2020-04-18	Actus_Apostolorum
+1100000164	tunc abiit magistratus cum ministris, et adduxit illos sine vi: timebant enim populum ne lapidarentur.	2020-04-18	Actus_Apostolorum
+1100000165	et cum adduxissent illos, statuerunt in concilio: et interrogavit eos princeps sacerdotum,dicens: praecipiendo praecepimus vobis ne doceretis in nomine isto, et ecce replestis ierusalem doctrina vestra: et vultis inducere super nos sanguinem hominis istius.	2020-04-18	Actus_Apostolorum
+1100000166	respondens autem petrus et apostoli, dixerunt: obedire oportet deo magis quam hominibus.	2020-04-18	Actus_Apostolorum
+1100000167	deus patrum nostrorum suscitavit iesum, quem vos interemistis, suspendentes in ligno.	2020-04-18	Actus_Apostolorum
+1100000168	hunc principem et salvatorem deus exaltavit dextera sua ad dandam poenitentiam israeli, et remissionem peccatorum:et nos sumus testes horum verborum, et spiritus sanctus, quem dedit deus omnibus obedientibus sibi.	2020-04-18	Actus_Apostolorum
+1100000169	haec cum audissent, dissecabantur, et cogitabant interficere illos.	2020-04-18	Actus_Apostolorum
+1100000170	surgens autem quidam in concilio pharisaeus, nomine gamaliel, legis doctor, honorabilis universae plebi, iussit foras ad breve homines fieri,dixitque ad illos: viri israelitae, attendite vobis super hominibus istis quid acturi sitis.	2020-04-18	Actus_Apostolorum
+1100000171	ante hos enim dies extitit theodas, dicens se esse aliquem, cui consensit numerus virorum circiter quadringentorum: qui occisus est, et omnes qui credebant ei, dissipati sunt, et redacti ad nihilum.	2020-04-18	Actus_Apostolorum
+1100000172	post hunc extitit iudas galilaeus in diebus professionis, et avertit populum post se: et ipse periit, et omnes quotquot consenserunt ei, dispersi sunt.	2020-04-18	Actus_Apostolorum
+1100000173	et nunc itaque dico vobis, discedite ab hominibus istis, et sinite illos: quoniam si est ex hominibus consilium hoc aut opus, dissolvetur:si vero ex deo est, non poteritis dissolvere illud, ne forte et deo repugnare inveniamini. 	2020-04-18	Actus_Apostolorum
+1100000174	consenserunt autem illi.	2020-04-18	Actus_Apostolorum
+1100000175	et convocantes apostolos, caesis denuntiaverunt ne omnino loquerentur in nomine iesu, et dimiserunt eos.	2020-04-18	Actus_Apostolorum
+1100000176	et illi quidem ibant gaudentes a conspectu concilii, quoniam digni habiti sunt pro nomine iesu contumeliam pati.	2020-04-18	Actus_Apostolorum
+1100000177	omni autem die non cessabant in templo et circa domos, docentes et evangelizantes christum iesum.	2020-04-18	Actus_Apostolorum
+1100000178	caput 6	2020-04-18	Actus_Apostolorum
+1100000179	in diebus illis, crescente numero discipulorum, factum est murmur graecorum adversus hebraeos, eo quod despicerentur in ministerio quotidiano viduae eorum.	2020-04-18	Actus_Apostolorum
+1100000180	convocantes autem duodecim multitudinem discipulorum, dixerunt: non est aequum nos derelinquere verbum dei, et ministrare mensis.	2020-04-18	Actus_Apostolorum
+1100000181	considerate ergo, fratres, viros ex vobis boni testimonii septem, plenos spiritu sancto et sapientia, quos constituamus super hoc opus.	2020-04-18	Actus_Apostolorum
+1100000182	nos vero orationi et ministerio verbi instantes erimus.	2020-04-18	Actus_Apostolorum
+1100000183	et placuit sermo coram omni multitudine. 	2020-04-18	Actus_Apostolorum
+1100000184	et elegerunt stephanum, virum plenum fide et spiritu sancto, et philippum, et prochorum, et nicanorem, et timonem, et parmenam, et nicolaum advenam antiochenum.	2020-04-18	Actus_Apostolorum
+1100000185	hos statuerunt ante conspectum apostolorum: et orantes imposuerunt eis manus.	2020-04-18	Actus_Apostolorum
+1100000186	et verbum domini crescebat, et multiplicabatur numerus discipulorum in ierusalem valde: multa etiam turba sacerdotum obediebat fidei.	2020-04-18	Actus_Apostolorum
+1100000187	stephanus autem plenus gratia et fortitudine, faciebat prodigia et signa magna in populo.	2020-04-18	Actus_Apostolorum
+1100000188	surrexerunt autem quidam de synagoga quae appellatur libertinorum, et cyrenensium, et alexandrinorum, et eorum qui erant a cilicia, et asia, disputantes cum stephano:et non poterant resistere sapientiae, et spiritui qui loquebatur.	2020-04-18	Actus_Apostolorum
+1100000189	tunc summiserunt viros, qui dicerent se audivisse eum dicentem verba blasphemiae in moysen et in deum.	2020-04-18	Actus_Apostolorum
+1100000190	commoverunt itaque plebem, et seniores, et scribas: et concurrentes rapuerunt eum, et adduxerunt in concilium,et statuerunt falsos testes, qui dicerent: homo iste non cessat loqui verba adversus locum sanctum, et legem:audivimus enim eum dicentem quoniam iesus nazarenus hic destruet locum istum, et mutabit traditiones quas tradidit nobis moyses.	2020-04-18	Actus_Apostolorum
+1100000191	et intuentes eum omnes qui sedebant in concilio, viderunt faciem eius tamquam faciem angeli.	2020-04-18	Actus_Apostolorum
+1100000192	caput 7	2020-04-18	Actus_Apostolorum
+1100000193	dixit autem princeps sacerdotum: si haec ita se habent?	2020-04-18	Actus_Apostolorum
+1100000194	qui ait: viri fratres et patres, audite: deus gloriae apparuit patri nostro abrahae cum esset in mesopotamia, priusquam moraretur in charan,et dixit ad illum: exi de terra tua, et de cognatione tua, et veni in terram quam monstravero tibi.	2020-04-18	Actus_Apostolorum
+1100000195	tunc exiit de terra chaldaeorum, et habitavit in charan. 	2020-04-18	Actus_Apostolorum
+1100000196	et inde, postquam mortuus est pater eius, transtulit illum in terram istam, in qua nunc vos habitatis.	2020-04-18	Actus_Apostolorum
+1100000197	et non dedit illi haereditatem in ea, nec passum pedis: sed repromisit dare illi eam in possessionem, et semini eius post ipsum, cum non haberet filium.	2020-04-18	Actus_Apostolorum
+1100000198	locutus est autem ei deus: quia erit semen eius accola in terra aliena, et servituti eos subiicient, et male tractabunt eos annis quadringentis:et gentem cui servierint, iudicabo ego, dixit dominus: et post haec exibunt, et servient mihi in loco isto.	2020-04-18	Actus_Apostolorum
+1100000199	et dedit illi testamentum circumcisionis: et sic genuit isaac, et circumcidit eum die octavo: et isaac, iacob: et iacob, duodecim patriarchas.	2020-04-18	Actus_Apostolorum
+1100000200	et patriarchae aemulantes, ioseph vendiderunt in aegyptum: et erat deus cum eo,et eripuit eum ex omnibus tribulationibus eius, et dedit ei gratiam et sapientiam in conspectu pharaonis regis aegypti: et constituit eum praepositum super aegyptum, et super omnem domum suam.	2020-04-18	Actus_Apostolorum
+1100000201	venit autem fames in universam aegyptum et chanaan, et tribulatio magna: et non inveniebant cibos patres nostri.	2020-04-18	Actus_Apostolorum
+1100000202	cum audisset autem iacob esse frumentum in aegypto, misit patres nostros primum:et in secundo cognitus est ioseph a fratribus suis, et manifestatum est pharaoni genus eius.	2020-04-18	Actus_Apostolorum
+1100000203	mittens autem ioseph, accersivit iacob patrem suum et omnem cognationem suam, in animabus septuaginta quinque.	2020-04-18	Actus_Apostolorum
+1100000204	et descendit iacob in aegyptum: et defunctus est ipse, et patres nostri.	2020-04-18	Actus_Apostolorum
+1100000205	et translati sunt in sichem, et positi sunt in sepulchro, quod emit abraham pretio argenti a filiis hemor filii sichem.	2020-04-18	Actus_Apostolorum
+1100000206	cum autem appropinquaret tempus promissionis quam confessus erat deus abrahae, crevit populus, et multiplicatus est in aegypto,quoadusque surrexit alius rex in aegypto, qui non sciebat ioseph.	2020-04-18	Actus_Apostolorum
+1100000207	hic circumveniens genus nostrum, afflixit patres nostros ut exponerent infantes suos, ne vivificarentur.	2020-04-18	Actus_Apostolorum
+1100000208	eodem tempore natus est moyses, et fuit gratus deo: qui nutritus est tribus mensibus in domo patris sui.	2020-04-18	Actus_Apostolorum
+1100000209	exposito autem illo, sustulit eum filia pharaonis, et nutrivit eum sibi in filium.	2020-04-18	Actus_Apostolorum
+1100000210	et eruditus est moyses omni sapientia aegyptiorum, et erat potens in verbis et in operibus suis.	2020-04-18	Actus_Apostolorum
+1100000211	cum autem impleretur ei quadraginta annorum tempus, ascendit in cor eius ut visitaret fratres suos filios israel.	2020-04-18	Actus_Apostolorum
+1100000212	et cum vidisset quemdam iniuriam patientem, vindicavit illum, et fecit ultionem ei qui iniuriam sustinebat, percusso aegyptio.	2020-04-18	Actus_Apostolorum
+1100000213	existimabat autem intelligere fratres, quoniam deus per manum ipsius daret salutem illis: at illi non intellexerunt.	2020-04-18	Actus_Apostolorum
+1100000214	sequenti vero die apparuit illis litigantibus: et reconciliabat eos in pace, dicens: viri, fratres estis: ut quid nocetis alterutrum?	2020-04-18	Actus_Apostolorum
+1100000215	qui autem iniuriam faciebat proximo, repulit eum, dicens: quis te constituit principem et iudicem super nos?	2020-04-18	Actus_Apostolorum
+1100000216	numquid interficere me tu vis, quemadmodum interfecisti heri aegyptium?	2020-04-18	Actus_Apostolorum
+1100000217	fugit autem moyses in verbo isto: et factus est advena in terra madian, ubi generavit filios duos.	2020-04-18	Actus_Apostolorum
+1100000218	et expletis annis quadraginta, apparuit illi in deserto montis sina angelus in igne flammae rubi.	2020-04-18	Actus_Apostolorum
+1100000219	moyses autem videns, admiratus est visum. 	2020-04-18	Actus_Apostolorum
+1100000220	et accedente illo ut consideraret, facta est ad eum vox domini, dicens:ego sum deus patrum tuorum, deus abraham, deus isaac, et deus iacob. 	2020-04-18	Actus_Apostolorum
+1100000221	tremefactus autem moyses, non audebat considerare.	2020-04-18	Actus_Apostolorum
+1100000222	dixit autem illi dominus: solve calceamentum pedum tuorum: locus enim in quo stas, terra sancta est.	2020-04-18	Actus_Apostolorum
+1100000223	videns vidi afflictionem populi mei qui est in aegypto, et gemitum eorum audivi, et descendi liberare eos. 	2020-04-18	Actus_Apostolorum
+1100000224	et nunc veni, et mittam te in aegyptum.	2020-04-18	Actus_Apostolorum
+1100000225	hunc moysen, quem negaverunt, dicentes: quis te constituit principem et iudicem? 	2020-04-18	Actus_Apostolorum
+1100000226	hunc deus principem et redemptorem misit, cum manu angeli qui apparuit illi in rubo.	2020-04-18	Actus_Apostolorum
+1100000227	hic eduxit illos faciens prodigia et signa in terra aegypti, et in rubro mari, et in deserto annis quadraginta.	2020-04-18	Actus_Apostolorum
+1100000228	hic est moyses, qui dixit filiis israel: prophetam suscitabit vobis deus de fratribus vestris, tamquam me: ipsum audietis.	2020-04-18	Actus_Apostolorum
+1100000229	hic est qui fuit in ecclesia in solitudine cum angelo, qui loquebatur ei in monte sina, et cum patribus nostris: qui accepit verba vitae dare nobis.	2020-04-18	Actus_Apostolorum
+1100000230	cui noluerunt obedire patres nostri: sed repulerunt, et aversi sunt cordibus suis in aegyptum,dicentes ad aaron: fac nobis deos qui praecedant nos: moyses enim hic, qui eduxit nos de terra aegypti, nescimus quid factum sit ei.	2020-04-18	Actus_Apostolorum
+1100000231	et vitulum fecerunt in diebus illis, et obtulerunt hostiam simulacro, et laetabantur in operibus manuum suarum.	2020-04-18	Actus_Apostolorum
+1100000232	convertit autem deus, et tradidit eos servire militiae caeli, sicut scriptum est in libro prophetarum:	2020-04-18	Actus_Apostolorum
+1100000233	numquid victimas et hostias obtulistis mihi	2020-04-18	Actus_Apostolorum
+1100000234	annis quadraginta in deserto, domus israel?	2020-04-18	Actus_Apostolorum
+1100000235	et suscepistis tabernaculum moloch,	2020-04-18	Actus_Apostolorum
+1100000236	et sidus dei vestri rempham,	2020-04-18	Actus_Apostolorum
+1100000237	figuras quas fecistis adorare eas:	2020-04-18	Actus_Apostolorum
+1100000238	et transferam vos trans babylonem.	2020-04-18	Actus_Apostolorum
+1100000239	tabernaculum testimonii fuit cum patribus nostris in deserto, sicut disposuit illis deus loquens ad moysen, ut faceret illud secundum formam quam viderat.	2020-04-18	Actus_Apostolorum
+1100000240	quod et induxerunt, suscipientes patres nostri cum iesu in possessionem gentium quas expulit deus a facie patrum nostrorum, usque in diebus david,qui invenit gratiam ante deum, et petiit ut inveniret tabernaculum deo iacob.	2020-04-18	Actus_Apostolorum
+1100000241	salomon autem aedificavit illi domum.	2020-04-18	Actus_Apostolorum
+1100000242	sed non excelsus in manufactis habitat, sicut propheta dicit:	2020-04-18	Actus_Apostolorum
+1100000243	caelum mihi sedes est:	2020-04-18	Actus_Apostolorum
+1100000244	terra autem scabellum pedum meorum.	2020-04-18	Actus_Apostolorum
+1100000245	quam domum aedificabitis mihi? 	2020-04-18	Actus_Apostolorum
+1100000246	dicit dominus:	2020-04-18	Actus_Apostolorum
+1100000247	aut quis locus requietionis meae est?	2020-04-18	Actus_Apostolorum
+1100000248	nonne manus mea fecit haec omnia?	2020-04-18	Actus_Apostolorum
+1100000249	dura cervice, et incircumcisis cordibus et auribus, vos semper spiritui sancto resistitis: sicut patres vestri, ita et vos.	2020-04-18	Actus_Apostolorum
+1100000250	quem prophetarum non sunt persecuti patres vestri? 	2020-04-18	Actus_Apostolorum
+1100000251	et occiderunt eos qui praenuntiabant de adventu iusti, cuius vos nunc proditores et homicidae fuistis:qui accepistis legem in dispositione angelorum, et non custodistis.	2020-04-18	Actus_Apostolorum
+1100000252	audientes autem haec, dissecabantur cordibus suis, et stridebant dentibus in eum.	2020-04-18	Actus_Apostolorum
+1100000253	cum autem esset plenus spiritu sancto, intendens in caelum, vidit gloriam dei, et iesum stantem a dextris dei. 	2020-04-18	Actus_Apostolorum
+1100000254	et ait: ecce video caelos apertos, et filium hominis stantem a dextris dei.	2020-04-18	Actus_Apostolorum
+1100000255	exclamantes autem voce magna continuerunt aures suas, et impetum fecerunt unanimiter in eum.	2020-04-18	Actus_Apostolorum
+1100000256	et eiicientes eum extra civitatem, lapidabant: et testes deposuerunt vestimenta sua secus pedes adolescentis qui vocabatur saulus.	2020-04-18	Actus_Apostolorum
+1100000257	et lapidabant stephanum invocantem, et dicentem: domine iesu, suscipe spiritum meum.	2020-04-18	Actus_Apostolorum
+1100000258	positis autem genibus, clamavit voce magna, dicens: domine, ne statuas illis hoc peccatum. 	2020-04-18	Actus_Apostolorum
+1100000259	et cum hoc dixisset, obdormivit in domino. 	2020-04-18	Actus_Apostolorum
+1100000260	saulus autem erat consentiens neci eius.	2020-04-18	Actus_Apostolorum
+1100000261	caput 8	2020-04-18	Actus_Apostolorum
+1100000262	facta est autem in illa die persecutio magna in ecclesia quae erat ierosolymis, et omnes dispersi sunt per regiones iudaeae et samariae praeter apostolos.	2020-04-18	Actus_Apostolorum
+1100000263	curaverunt autem stephanum viri timorati, et fecerunt planctum magnum super eum.	2020-04-18	Actus_Apostolorum
+1100000264	saulus autem devastabat ecclesiam per domos intrans, et trahens viros ac mulieres, tradebat in custodiam.	2020-04-18	Actus_Apostolorum
+1100000265	igitur qui dispersi erant pertransibant, evangelizantes verbum dei.	2020-04-18	Actus_Apostolorum
+1100000266	philippus autem descendens in civitatem samariae, praedicabant illis christum.	2020-04-18	Actus_Apostolorum
+1100000267	intendebant autem turbae his quae a philippo dicebantur, unanimiter audientes, et videntes signa quae faciebat.	2020-04-18	Actus_Apostolorum
+1100000268	multi enim eorum qui habebant spiritus immundos, clamantes voce magna exibant. 	2020-04-18	Actus_Apostolorum
+1100000269	multi autem paralytici et claudi curati sunt.	2020-04-18	Actus_Apostolorum
+1100000270	factum est ergo gaudium magnum in illa civitate.	2020-04-18	Actus_Apostolorum
+1100000271	vir autem quidam nomine simon, qui ante fuerat in civitate magus, seducens gentem samariae, dicens se esse aliquem magnum:cui auscultabant omnes a minimo usque ad maximum, dicentes: hic est virtus dei, quae vocatur magna.	2020-04-18	Actus_Apostolorum
+1100000272	attendebant autem eum: propter quod multo tempore magiis suis dementasset eos.	2020-04-18	Actus_Apostolorum
+1100000273	cum vero credidissent philippo evangelizanti de regno dei, in nomine iesu christi baptizabantur viri ac mulieres.	2020-04-18	Actus_Apostolorum
+1100000274	tunc simon et ipse credidit: et cum baptizatus esset, adhaerebat philippo. 	2020-04-18	Actus_Apostolorum
+1100000275	videns etiam signa et virtutes maximas fieri, stupens admirabatur.	2020-04-18	Actus_Apostolorum
+1100000276	cum autem audissent apostoli qui erant ierosolymis, quod recepisset samaria verbum dei, miserunt ad eos petrum et ioannem.	2020-04-18	Actus_Apostolorum
+1100000277	qui cum venissent, oraverunt pro ipsis ut acciperent spiritum sanctum:nondum enim in quemquam illorum venerat, sed baptizati tantum erant in nomine domini iesu.	2020-04-18	Actus_Apostolorum
+1100000278	tunc imponebant manus super illos, et accipiebant spiritum sanctum.	2020-04-18	Actus_Apostolorum
+1100000279	cum vidisset autem simon quia per impositionem manus apostolorum daretur spiritus sanctus, obtulit eis pecuniam,dicens: date et mihi hanc potestatem, ut cuicumque imposuero manus, accipiat spiritum sanctum. 	2020-04-18	Actus_Apostolorum
+1100000280	petrus autem dixit ad eum:pecunia tua tecum sit in perditionem: quoniam donum dei existimasti pecunia possideri.	2020-04-18	Actus_Apostolorum
+1100000281	non est tibi pars neque sors in sermone isto: cor enim tuum non est rectum coram deo.	2020-04-18	Actus_Apostolorum
+1100000282	poenitentiam itaque age ab hac nequitia tua: et roga deum, si forte remittatur tibi haec cogitatio cordis tui.	2020-04-18	Actus_Apostolorum
+1100000283	in felle enim amaritudinis, et obligatione iniquitatis, video te esse.	2020-04-18	Actus_Apostolorum
+1100000284	respondens autem simon, dixit: precamini vos pro me ad dominum, ut nihil veniat super me horum quae dixistis.	2020-04-18	Actus_Apostolorum
+1100000285	et illi quidem testificati, et locuti verbum domini, redibant ierosolymam, et multis regionibus samaritanorum evangelizabant.	2020-04-18	Actus_Apostolorum
+1100000286	angelus autem domini locutus est ad philippum, dicens: surge, et vade contra meridianum, ad viam quae descendit ab ierusalem in gazam: haec est deserta.	2020-04-18	Actus_Apostolorum
+1100000287	et surgens abiit. 	2020-04-18	Actus_Apostolorum
+1100000288	et ecce vir aethiops, eunuchus, potens candacis reginae aethiopum, qui erat super omnes gazas eius, venerat adorare in ierusalem:et revertebatur sedens super currum suum, legensque isaiam prophetam.	2020-04-18	Actus_Apostolorum
+1100000289	dixit autem spiritus philippo: accede, et adiunge te ad currum istum.	2020-04-18	Actus_Apostolorum
+1100000290	accurrens autem philippus, audivit eum legentem isaiam prophetam, et dixit: putasne intelligis quae legis?	2020-04-18	Actus_Apostolorum
+1100000291	qui ait: et quomodo possum, si non aliquis ostenderit mihi? 	2020-04-18	Actus_Apostolorum
+1100000292	rogavitque philippum ut ascenderet, et sederet secum.	2020-04-18	Actus_Apostolorum
+1100000293	locus autem scripturae quem legebat, erat hic:	2020-04-18	Actus_Apostolorum
+1100000294	tamquam ovis ad occisionem ductus est:	2020-04-18	Actus_Apostolorum
+1100000295	et sicut agnus coram tondente se, sine voce,	2020-04-18	Actus_Apostolorum
+1100000296	sic non aperuit os suum.	2020-04-18	Actus_Apostolorum
+1100000297	in humilitate iudicium eius sublatum est.	2020-04-18	Actus_Apostolorum
+1100000298	generationem eius quis enarrabit?	2020-04-18	Actus_Apostolorum
+1100000299	quoniam tolletur de terra vita eius.	2020-04-18	Actus_Apostolorum
+1100000300	respondens autem eunuchus philippo, dixit: obsecro te, de quo propheta dicit hoc? 	2020-04-18	Actus_Apostolorum
+1100000301	de se, an de alio aliquo?	2020-04-18	Actus_Apostolorum
+1100000302	aperiens autem philippus os suum, et incipiens a scriptura ista, evangelizavit illi iesum.	2020-04-18	Actus_Apostolorum
+1100000303	et dum irent per viam, venerunt ad quamdam aquam: et ait eunuchus: ecce aqua: quid prohibet me baptizari?	2020-04-18	Actus_Apostolorum
+1100000304	dixit autem philippus: si credis ex toto corde, licet. 	2020-04-18	Actus_Apostolorum
+1100000305	et respondens ait: credo filium dei esse iesum christum.	2020-04-18	Actus_Apostolorum
+1100000306	et iussit stare currum: et descenderunt uterque in aquam, philippus et eunuchus, et baptizavit eum.	2020-04-18	Actus_Apostolorum
+1100000307	cum autem ascendissent de aqua, spiritus domini rapuit philippum, et amplius non vidit eum eunuchus. 	2020-04-18	Actus_Apostolorum
+1100000308	ibat autem per viam suam gaudens.	2020-04-18	Actus_Apostolorum
+1100000309	philippus autem inventus est in azoto, et pertransiens evangelizabat civitatibus cunctis, donec veniret caesaream.	2020-04-18	Actus_Apostolorum
+1100000310	caput 9	2020-04-18	Actus_Apostolorum
+1100000311	saulus autem adhuc spirans minarum et caedis in discipulos domini, accessit ad principem sacerdotum,et petiit ab eo epistolas in damascum ad synagogas: ut si quos invenisset huius viae viros ac mulieres, vinctos perduceret in ierusalem.	2020-04-18	Actus_Apostolorum
+1100000312	et cum iter faceret, contigit ut appropinquaret damasco: et subito circumfulsit eum lux de caelo.	2020-04-18	Actus_Apostolorum
+1100000313	et cadens in terram audivit vocem dicentem sibi: saule, saule, quid me persequeris?	2020-04-18	Actus_Apostolorum
+1100000314	qui dixit: quis es, domine? 	2020-04-18	Actus_Apostolorum
+1100000315	et ille: ego sum iesus, quem tu persequeris: durum est tibi contra stimulum calcitrare.	2020-04-18	Actus_Apostolorum
+1100000316	et tremens ac stupens dixit: domine, quid me vis facere?	2020-04-18	Actus_Apostolorum
+1100000317	et dominus ad eum: surge, et ingredere civitatem, et ibi dicetur tibi quid te oporteat facere. 	2020-04-18	Actus_Apostolorum
+1100000318	viri autem illi qui comitabantur cum eo, stabant stupefacti, audientes quidem vocem, neminem autem videntes.	2020-04-18	Actus_Apostolorum
+1100000319	surrexit autem saulus de terra, apertisque oculis nihil videbat. 	2020-04-18	Actus_Apostolorum
+1100000320	ad manus autem illum trahentes, introduxerunt damascum.	2020-04-18	Actus_Apostolorum
+1100000321	et erat ibi tribus diebus non videns, et non manducavit, neque bibit.	2020-04-18	Actus_Apostolorum
+1100000322	erat autem quidam discipulus damasci, nomine ananias: et dixit ad illum in visu dominus: anania. 	2020-04-18	Actus_Apostolorum
+1100000323	at ille ait: ecce ego, domine.	2020-04-18	Actus_Apostolorum
+1100000324	et dominus ad eum: surge, et vade in vicum qui vocatur rectus: et quaere in domo iudae saulum nomine tarsensem: ecce enim orat.(	2020-04-18	Actus_Apostolorum
+1100000325	et vidit virum ananiam nomine, introeuntem, et imponentem sibi manus ut visum recipiat.)	2020-04-18	Actus_Apostolorum
+1100000326	respondit autem ananias: domine, audivi a multis de viro hoc, quanta mala fecerit sanctis tuis in ierusalem:et hic habet potestatem a principibus sacerdotum alligandi omnes qui invocant nomen tuum.	2020-04-18	Actus_Apostolorum
+1100000327	dixit autem ad eum dominus: vade, quoniam vas electionis est mihi iste, ut portet nomen meum coram gentibus, et regibus, et filiis israel.	2020-04-18	Actus_Apostolorum
+1100000328	ego enim ostendam illi quanta oporteat eum pro nomine meo pati.	2020-04-18	Actus_Apostolorum
+1100000329	et abiit ananias, et introivit in domum: et imponens ei manus, dixit: saule frater, dominus misit me iesus, qui apparuit tibi in via qua veniebas, ut videas, et implearis spiritu sancto.	2020-04-18	Actus_Apostolorum
+1100000330	et confestim ceciderunt ab oculis eius tamquam squamae, et visum recepit: et surgens baptizatus est.	2020-04-18	Actus_Apostolorum
+1100000331	et cum accepisset cibum, confortatus est.	2020-04-18	Actus_Apostolorum
+1100000332	fuit autem cum discipulis qui erant damasci per dies aliquot.	2020-04-18	Actus_Apostolorum
+1100000333	et continuo in synagogis praedicabat iesum, quoniam hic est filius dei.	2020-04-18	Actus_Apostolorum
+1100000334	stupebant autem omnes qui audiebant, et dicebant: nonne hic est qui expugnabat in ierusalem eos qui invocabant nomen istud: et huc ad hoc venit, ut vinctos illos duceret ad principes sacerdotum?	2020-04-18	Actus_Apostolorum
+1100000335	saulus autem multo magis convalescebat, et confundebat iudaeos qui habitabant damasci, affirmans quoniam hic est christus.	2020-04-18	Actus_Apostolorum
+1100000336	cum autem implerentur dies multi, consilium fecerunt in unum iudaei ut eum interficerent.	2020-04-18	Actus_Apostolorum
+1100000337	notae autem factae sunt saulo insidiae eorum. 	2020-04-18	Actus_Apostolorum
+1100000338	custodiebant autem et portas die ac nocte, ut eum interficerent.	2020-04-18	Actus_Apostolorum
+1100000339	accipientes autem eum discipuli nocte, per murum dimiserunt eum, submittentes in sporta.	2020-04-18	Actus_Apostolorum
+1100000340	cum autem venisset in ierusalem, tentabat se iungere discipulis, et omnes timebant eum, non credentes quod esset discipulus.	2020-04-18	Actus_Apostolorum
+1100000341	barnabas autem apprehensum illum duxit ad apostolos: et narravit illis quomodo in via vidisset dominum, et quia locutus est ei, et quomodo in damasco fiducialiter egerit in nomine iesu.	2020-04-18	Actus_Apostolorum
+1100000342	et erat cum illis intrans et exiens in ierusalem, et fiducialiter agens in nomine domini.	2020-04-18	Actus_Apostolorum
+1100000343	loquebatur quoque gentibus, et disputabat cum graecis: illi autem quaerebant occidere eum.	2020-04-18	Actus_Apostolorum
+1100000344	quod cum cognovissent fratres, deduxerunt eum caesaream, et dimiserunt tarsum.	2020-04-18	Actus_Apostolorum
+1100000345	ecclesia quidem per totam iudaeam, et galilaeam, et samariam habebat pacem, et aedificabatur ambulans in timore domini, et consolatione sancti spiritus replebatur.	2020-04-18	Actus_Apostolorum
+1100000346	factum est autem, ut petrus dum pertransiret universos, deveniret ad sanctos qui habitabant lyddae.	2020-04-18	Actus_Apostolorum
+1100000347	invenit autem ibi hominem quemdam, nomine aeneam, ab annis octo iacentem in grabato, qui erat paralyticus.	2020-04-18	Actus_Apostolorum
+1100000348	et ait illi petrus: aenea, sanat te dominus iesus christus: surge, et sterne tibi. 	2020-04-18	Actus_Apostolorum
+1100000349	et continuo surrexit.	2020-04-18	Actus_Apostolorum
+1100000350	et viderunt eum omnes qui habitabant lyddae et saronae: qui conversi sunt ad dominum.	2020-04-18	Actus_Apostolorum
+1100000351	in ioppe autem fuit quaedam discipula, nomine tabitha, quae interpretata dicitur dorcas. 	2020-04-18	Actus_Apostolorum
+1100000352	haec erat plena operibus bonis et eleemosynis quas faciebat.	2020-04-18	Actus_Apostolorum
+1100000353	factum est autem in diebus illis ut infirmata moreretur. 	2020-04-18	Actus_Apostolorum
+1100000354	quam cum lavissent, posuerunt eam in coenaculo.	2020-04-18	Actus_Apostolorum
+1100000355	cum autem prope esset lydda ad ioppen, discipuli, audientes quia petrus esset in ea, miserunt duos viros ad eum, rogantes: ne pigriteris venire ad nos.	2020-04-18	Actus_Apostolorum
+1100000356	exsurgens autem petrus, venit cum illis. 	2020-04-18	Actus_Apostolorum
+1100000357	et cum advenisset, duxerunt illum in coenaculum: et circumsteterunt illum omnes viduae flentes, et ostendentes ei tunicas et vestes quas faciebat illis dorcas.	2020-04-18	Actus_Apostolorum
+1100000358	eiectis autem omnibus foras, petrus ponens genua oravit: et conversus ad corpus, dixit: tabitha, surge. 	2020-04-18	Actus_Apostolorum
+1100000359	at illa aperuit oculos suos: et viso petro, resedit.	2020-04-18	Actus_Apostolorum
+1100000360	dans autem illi manum, erexit eam. 	2020-04-18	Actus_Apostolorum
+1100000361	et cum vocasset sanctos et viduas, assignavit eam vivam.	2020-04-18	Actus_Apostolorum
+1100000362	notum autem factum est per universam ioppen: et crediderunt multi in domino.	2020-04-18	Actus_Apostolorum
+1100000363	factum est autem ut dies multos moraretur in ioppe, apud simonem quemdam coriarium.	2020-04-18	Actus_Apostolorum
+1100000364	caput 10	2020-04-18	Actus_Apostolorum
+1100000365	vir autem quidam erat in caesarea, nomine cornelius, centurio cohortis quae dicitur italica,religiosus, ac timens deum cum omni domo sua, faciens eleemosynas multas plebi, et deprecans deum semper.	2020-04-18	Actus_Apostolorum
+1100000366	is vidit in visu manifeste, quasi hora diei nona, angelum dei introeuntem ad se, et dicentem sibi: corneli.	2020-04-18	Actus_Apostolorum
+1100000367	at ille intuens eum, timore correptus, dixit: quid est, domine? 	2020-04-18	Actus_Apostolorum
+1100000368	dixit autem illi: orationes tuae et eleemosynae tuae ascenderunt in memoriam in conspectu dei.	2020-04-18	Actus_Apostolorum
+1100000369	et nunc mitte viros in ioppen, et accersi simonem quemdam, qui cognominatur petrus:hic hospitatur apud simonem quemdam coriarium, cuius est domus iuxta mare: hic dicet tibi quid te oporteat facere.	2020-04-18	Actus_Apostolorum
+1100000370	et cum discessisset angelus qui loquebatur illi, vocavit duos domesticos suos, et militem metuentem dominum ex his qui illi parebant.	2020-04-18	Actus_Apostolorum
+1100000371	quibus cum narrasset omnia, misit illos in ioppen.	2020-04-18	Actus_Apostolorum
+1100000372	postera autem die, iter illis facientibus, et appropinquantibus civitati, ascendit petrus in superiora ut oraret circa horam sextam.	2020-04-18	Actus_Apostolorum
+1100000373	et cum esuriret, voluit gustare. 	2020-04-18	Actus_Apostolorum
+1100000374	parantibus autem illis, cecidit super eum mentis excessus:et vidit caelum apertum, et descendens vas quoddam, velut linteum magnum, quatuor initiis submitti de caelo in terram,in quo erant omnia quadrupedia, et serpentia terrae, et volatilia caeli.	2020-04-18	Actus_Apostolorum
+1100000375	et facta est vox ad eum: surge, petre: occide, et manduca.	2020-04-18	Actus_Apostolorum
+1100000376	ait autem petrus: absit domine, quia numquam manducavi omne commune et immundum.	2020-04-18	Actus_Apostolorum
+1100000377	et vox iterum secundo ad eum: quod deus purificavit, tu commune ne dixeris.	2020-04-18	Actus_Apostolorum
+1100000378	hoc autem factum est per ter: et statim receptum est vas in caelum.	2020-04-18	Actus_Apostolorum
+1100000379	et dum intra se haesitaret petrus quidnam esset visio quam vidisset, ecce viri qui missi erant a cornelio, inquirentes domum simonis astiterunt ad ianuam.	2020-04-18	Actus_Apostolorum
+1100000380	et cum vocassent, interrogabant, si simon qui cognominatur petrus illic haberet hospitium.	2020-04-18	Actus_Apostolorum
+1100000381	petro autem cogitante de visione, dixit spiritus ei: ecce viri tres quaerunt te.	2020-04-18	Actus_Apostolorum
+1100000382	surge itaque, descende, et vade cum eis nihil dubitans: quia ego misi illos.	2020-04-18	Actus_Apostolorum
+1100000383	descendens autem petrus ad viros, dixit: ecce ego sum, quem quaeritis: quae causa est, propter quam venistis?	2020-04-18	Actus_Apostolorum
+1100000384	qui dixerunt: cornelius centurio, vir iustus et timens deum, et testimonium habens ab universa gente iudaeorum, responsum accepit ab angelo sancto accersire te in domum suam, et audire verba abs te.	2020-04-18	Actus_Apostolorum
+1100000385	introducens ergo eos, recepit hospitio. 	2020-04-18	Actus_Apostolorum
+1100000386	sequenti autem die, surgens profectus est cum illis, et quidam ex fratribus ab ioppe comitati sunt eum.	2020-04-18	Actus_Apostolorum
+1100000387	altera autem die introivit caesaream. 	2020-04-18	Actus_Apostolorum
+1100000388	cornelius vero exspectabat illos, convocatis cognatis suis et necessariis amicis.	2020-04-18	Actus_Apostolorum
+1100000389	et factum est cum introisset petrus, obvius venit ei cornelius, et procidens ad pedes eius adoravit.	2020-04-18	Actus_Apostolorum
+1100000390	petrus vero elevavit eum, dicens: surge: et ego ipse homo sum.	2020-04-18	Actus_Apostolorum
+1100000391	et loquens cum illo intravit, et invenit multos qui convenerant:dixitque ad illos: vos scitis quomodo abominatum sit viro iudaeo coniungi aut accedere ad alienigenam: sed mihi ostendit deus neminem communem aut immundum dicere hominem.	2020-04-18	Actus_Apostolorum
+1100000392	propter quod sine dubitatione veni accersitus. 	2020-04-18	Actus_Apostolorum
+1100000393	interrogo ergo, quam ob causam accersistis me?	2020-04-18	Actus_Apostolorum
+1100000394	et cornelius ait: a nudiusquarta die usque ad hanc horam, orans eram hora nona in domo mea, et ecce vir stetit ante me in veste candida, et ait:corneli, exaudita est oratio tua, et eleemosynae tuae commemoratae sunt in conspectu dei.	2020-04-18	Actus_Apostolorum
+1100000395	mitte ergo in ioppen, et accersi simonem qui cognominatur petrus: hic hospitatur in domo simonis coriarii iuxta mare.	2020-04-18	Actus_Apostolorum
+1100000396	confestim ergo misi ad te: et tu benefecisti veniendo. 	2020-04-18	Actus_Apostolorum
+1100000397	nunc ergo omnes nos in conspectu tuo adsumus audire omnia quaecumque tibi praecepta sunt a domino.	2020-04-18	Actus_Apostolorum
+1100000398	aperiens autem petrus os suum, dixit: in veritate comperi quia non est personarum acceptor deus;sed in omni gente qui timet eum, et operatur iustitiam, acceptus est illi.	2020-04-18	Actus_Apostolorum
+1100000399	verbum misit deus filiis israel, annuntians pacem per iesum christum (hic est omnium dominus).	2020-04-18	Actus_Apostolorum
+1100000400	vos scitis quod factum est verbum per universam iudaeam: incipiens enim a galilaea post baptismum quod praedicavit ioannes,iesum a nazareth: quomodo unxit eum deus spiritu sancto, et virtute, qui pertransiit benefaciendo, et sanando omnes oppressos a diabolo, quoniam deus erat cum illo.	2020-04-18	Actus_Apostolorum
+1100000401	et nos testes sumus omnium quae fecit in regione iudaeorum, et ierusalem, quem occiderunt suspendentes in ligno.	2020-04-18	Actus_Apostolorum
+1100000402	hunc deus suscitavit tertia die, et dedit eum manifestum fieri,non omni populo, sed testibus praeordinatis a deo: nobis, qui manducavimus et bibimus cum illo postquam resurrexit a mortuis.	2020-04-18	Actus_Apostolorum
+1100000403	et praecepit nobis praedicare populo, et testificari, quia ipse est qui constitutus est a deo iudex vivorum et mortuorum.	2020-04-18	Actus_Apostolorum
+1100000404	huic omnes prophetae testimonium perhibent remissionem peccatorum accipere per nomen eius omnes qui credunt in eum.	2020-04-18	Actus_Apostolorum
+1100000405	adhuc loquente petro verba haec, cecidit spiritus sanctus super omnes qui audiebant verbum.	2020-04-18	Actus_Apostolorum
+1100000406	et obstupuerunt ex circumcisione fideles qui venerant cum petro, quia et in nationes gratia spiritus sancti effusa est.	2020-04-18	Actus_Apostolorum
+1100000407	audiebant enim illos loquentes linguis, et magnificantes deum.	2020-04-18	Actus_Apostolorum
+1100000408	tunc respondit petrus: numquid aquam quis prohibere potest ut non baptizentur hi qui spiritum sanctum acceperunt sicut et nos?	2020-04-18	Actus_Apostolorum
+1100000409	et iussit eos baptizari in nomine domini iesu christi. 	2020-04-18	Actus_Apostolorum
+1100000410	tunc rogaverunt eum ut maneret apud eos aliquot diebus.	2020-04-18	Actus_Apostolorum
+1100000411	caput 11	2020-04-18	Actus_Apostolorum
+1100000412	audierunt autem apostoli et fratres qui erant in iudaea, quoniam et gentes receperunt verbum dei.	2020-04-18	Actus_Apostolorum
+1100000413	cum autem ascendisset petrus ierosolymam, disceptabant adversus illum qui erant ex circumcisione,dicentes: quare introisti ad viros praeputium habentes, et manducasti cum illis?	2020-04-18	Actus_Apostolorum
+1100000414	incipiens autem petrus exponebat illis ordinem, dicens:ego eram in civitate ioppe orans, et vidi in excessu mentis visionem, descendens vas quoddam velut linteum magnum quatuor initiis summitti de caelo, et venit usque ad me.	2020-04-18	Actus_Apostolorum
+1100000415	in quod intuens considerabam, et vidi quadrupedia terrae, et bestias, et reptilia, et volatilia caeli.	2020-04-18	Actus_Apostolorum
+1100000416	audivi autem et vocem dicentem mihi: surge, petre: occide, et manduca.	2020-04-18	Actus_Apostolorum
+1100000417	dixi autem: nequaquam domine: quia commune aut immundum numquam introivit in os meum.	2020-04-18	Actus_Apostolorum
+1100000418	respondit autem vox secundo de caelo: quae deus mundavit, tu ne commune dixeris.	2020-04-18	Actus_Apostolorum
+1100000419	hoc autem factum est per ter: et recepta sunt omnia rursum in caelum.	2020-04-18	Actus_Apostolorum
+1100000420	et ecce viri tres confestim astiterunt in domo in qua eram, missi a caesarea ad me.	2020-04-18	Actus_Apostolorum
+1100000421	dixit autem spiritus mihi ut irem cum illis, nihil haesitans. 	2020-04-18	Actus_Apostolorum
+1100000422	venerunt autem mecum et sex fratres isti, et ingressi sumus in domum viri.	2020-04-18	Actus_Apostolorum
+1100000423	narravit autem nobis quomodo vidisset angelum in domo sua, stantem et dicentem sibi: mitte in ioppen, et accersi simonem qui cognominatur petrus,qui loquetur tibi verba in quibus salvus eris tu, et universa domus tua.	2020-04-18	Actus_Apostolorum
+1100000424	cum autem coepissem loqui, cecidit spiritus sanctus super eos, sicut et in nos in initio.	2020-04-18	Actus_Apostolorum
+1100000425	recordatus sum autem verbi domini, sicut dicebat: ioannes quidem baptizavit aqua, vos autem baptizabimini spiritu sancto.	2020-04-18	Actus_Apostolorum
+1100000426	si ergo eamdem gratiam dedit illis deus, sicut et nobis qui credidimus in dominum iesum christum: ego quis eram, qui possem prohibere deum?	2020-04-18	Actus_Apostolorum
+1100000427	his auditis, tacuerunt: et glorificaverunt deum, dicentes: ergo et gentibus poenitentiam dedit deus ad vitam.	2020-04-18	Actus_Apostolorum
+1100000428	et illi quidem qui dispersi fuerant a tribulatione quae facta fuerat sub stephano, perambulaverunt usque phoenicen, et cyprum, et antiochiam, nemini loquentes verbum, nisi solis iudaeis.	2020-04-18	Actus_Apostolorum
+1100000429	erant autem quidam ex eis viri cyprii et cyrenaei, qui cum introissent antiochiam, loquebantur et ad graecos, annuntiantes dominum iesum.	2020-04-18	Actus_Apostolorum
+1100000430	et erat manus domini cum eis: multusque numerus credentium conversus est ad dominum.	2020-04-18	Actus_Apostolorum
+1100000431	pervenit autem sermo ad aures ecclesiae quae erat ierosolymis super istis: et miserunt barnabam usque ad antiochiam.	2020-04-18	Actus_Apostolorum
+1100000432	qui cum pervenisset, et vidisset gratiam dei, gavisus est: et hortabatur omnes in proposito cordis permanere in domino:quia erat vir bonus, et plenus spiritu sancto, et fide. 	2020-04-18	Actus_Apostolorum
+1100000433	et apposita est multa turba domino.	2020-04-18	Actus_Apostolorum
+1100000434	profectus est autem barnabas tarsum, ut quaereret saulum: quem cum invenisset, perduxit antiochiam.	2020-04-18	Actus_Apostolorum
+1100000435	et annum totum conversati sunt ibi in ecclesia: et docuerunt turbam multam, ita ut cognominarentur primum antiochiae discipuli, christiani.	2020-04-18	Actus_Apostolorum
+1100000436	in his autem diebus supervenerunt ab ierosolymis prophetae antiochiam:et surgens unus ex eis nomine agabus, significabat per spiritum famem magnam futuram in universo orbe terrarum, quae facta est sub claudio.	2020-04-18	Actus_Apostolorum
+1100000437	discipuli autem, prout quis habebat, proposuerunt singuli in ministerium mittere habitantibus in iudaea fratribus:quod et fecerunt, mittentes ad seniores per manus barnabae et sauli.	2020-04-18	Actus_Apostolorum
+1100000438	caput 12	2020-04-18	Actus_Apostolorum
+1100000439	eodem autem tempore misit herodes rex manus, ut affligeret quosdam de ecclesia.	2020-04-18	Actus_Apostolorum
+1100000440	occidit autem iacobum fratrem ioannis gladio.	2020-04-18	Actus_Apostolorum
+1100000441	videns autem quia placeret iudaeis, apposuit ut apprehenderet et petrum. 	2020-04-18	Actus_Apostolorum
+1100000442	erant autem dies azymorum.	2020-04-18	Actus_Apostolorum
+1100000443	quem cum apprehendisset, misit in carcerem, tradens quatuor quaternionibus militum custodiendum, volens post pascha producere eum populo.	2020-04-18	Actus_Apostolorum
+1100000444	et petrus quidem servabatur in carcere. 	2020-04-18	Actus_Apostolorum
+1100000445	oratio autem fiebat sine intermissione ab ecclesia ad deum pro eo.	2020-04-18	Actus_Apostolorum
+1100000446	cum autem producturus eum esset herodes, in ipsa nocte erat petrus dormiens inter duos milites, vinctus catenis duabus: et custodes ante ostium custodiebant carcerem.	2020-04-18	Actus_Apostolorum
+1100000447	et ecce angelus domini astitit, et lumen refulsit in habitaculo: percussoque latere petri, excitavit eum, dicens: surge velociter. 	2020-04-18	Actus_Apostolorum
+1100000448	et ceciderunt catenae de manibus eius.	2020-04-18	Actus_Apostolorum
+1100000449	dixit autem angelus ad eum: praecingere, et calcea te caligas tuas. 	2020-04-18	Actus_Apostolorum
+1100000450	et fecit sic. 	2020-04-18	Actus_Apostolorum
+1100000451	et dixit illi: circumda tibi vestimentum tuum, et sequere me.	2020-04-18	Actus_Apostolorum
+1100000452	et exiens sequebatur eum, et nesciebat quia verum est, quod fiebat per angelum: existimabat autem se visum videre.	2020-04-18	Actus_Apostolorum
+1100000453	transeuntes autem primam et secundam custodiam, venerunt ad portam ferream, quae ducit ad civitatem: quae ultro aperta est eis. 	2020-04-18	Actus_Apostolorum
+1100000454	et exeuntes processerunt vicum unum: et continuo discessit angelus ab eo.	2020-04-18	Actus_Apostolorum
+1100000455	et petrus ad se reversus, dixit: nunc scio vere quia misit dominus angelum suum, et eripuit me de manu herodis, et de omni exspectatione plebis iudaeorum.	2020-04-18	Actus_Apostolorum
+1100000456	consideransque venit ad domum mariae matris ioannis, qui cognominatus est marcus, ubi erant multi congregati, et orantes.	2020-04-18	Actus_Apostolorum
+1100000457	pulsante autem eo ostium ianuae, processit puella ad audiendum, nomine rhode.	2020-04-18	Actus_Apostolorum
+1100000458	et ut cognovit vocem petri, prae gaudio non aperuit ianuam, sed intro currens nuntiavit stare petrum ante ianuam.	2020-04-18	Actus_Apostolorum
+1100000459	at illi dixerunt ad eam: insanis. 	2020-04-18	Actus_Apostolorum
+1100000460	illa autem affirmabat sic se habere. 	2020-04-18	Actus_Apostolorum
+1100000461	illi autem dicebant: angelus eius est.	2020-04-18	Actus_Apostolorum
+1100000462	petrus autem perseverabat pulsans. 	2020-04-18	Actus_Apostolorum
+1100000463	cum autem aperuissent, viderunt eum, et obstupuerunt.	2020-04-18	Actus_Apostolorum
+1100000464	annuens autem eis manu ut tacerent, narravit quomodo dominus eduxisset eum de carcere, dixitque: nuntiate iacobo et fratribus haec. 	2020-04-18	Actus_Apostolorum
+1100000465	et egressus abiit in alium locum.	2020-04-18	Actus_Apostolorum
+1100000466	facta autem die, erat non parva turbatio inter milites, quidnam factum esset de petro.	2020-04-18	Actus_Apostolorum
+1100000467	herodes autem cum requisisset eum et non invenisset, inquisitione facta de custodibus, iussit eos duci: descendensque a iudaea in caesaream, ibi commoratus est.	2020-04-18	Actus_Apostolorum
+1100000468	erat autem iratus tyriis et sidoniis. 	2020-04-18	Actus_Apostolorum
+1100000469	at illi unanimes venerunt ad eum, et persuaso blasto, qui erat super cubiculum regis, postulabant pacem, eo quod alerentur regiones eorum ab illo.	2020-04-18	Actus_Apostolorum
+1100000470	statuto autem die herodes vestitus veste regia sedit pro tribunali, et concionabatur ad eos.	2020-04-18	Actus_Apostolorum
+1100000471	populus autem acclamabat: dei voces, et non hominis.	2020-04-18	Actus_Apostolorum
+1100000472	confestim autem percussit eum angelus domini, eo quod non dedisset honorem deo: et consumptus a vermibus, expiravit.	2020-04-18	Actus_Apostolorum
+1100000473	verbum autem domini crescebat, et multiplicabatur.	2020-04-18	Actus_Apostolorum
+1100000474	barnabas autem et saulus reversi sunt ab ierosolymis expleto ministerio assumpto ioanne, qui cognominatus est marcus.	2020-04-18	Actus_Apostolorum
+1100000475	caput 13	2020-04-18	Actus_Apostolorum
+1100000476	erant autem in ecclesia quae erat antiochiae, prophetae et doctores, in quibus barnabas, et simon qui vocabatur niger, et lucius cyrenensis, et manahen, qui erat herodis tetrarchae collactaneus, et saulus.	2020-04-18	Actus_Apostolorum
+1100000477	ministrantibus autem illis domino, et ieiunantibus, dixit illis spiritus sanctus: segregate mihi saulum et barnabam in opus ad quod assumpsi eos.	2020-04-18	Actus_Apostolorum
+1100000478	tunc ieiunantes et orantes, imponentesque eis manus, dimiserunt illos.	2020-04-18	Actus_Apostolorum
+1100000479	et ipsi quidem missi a spiritu sancto abierunt seleuciam: et inde navigaverunt cyprum.	2020-04-18	Actus_Apostolorum
+1100000480	et cum venissent salaminam, praedicabant verbum dei in synagogis iudaeorum. 	2020-04-18	Actus_Apostolorum
+1100000481	habebant autem et ioannem in ministerio.	2020-04-18	Actus_Apostolorum
+1100000482	et cum perambulassent universam insulam usque paphum, invenerunt quemdam virum magum pseudoprophetam, iudaeum, cui nomen erat bariesu,qui erat cum proconsule sergio paulo viro prudente. 	2020-04-18	Actus_Apostolorum
+1100000483	hic, accersitis barnaba et saulo, desiderabat audire verbum dei.	2020-04-18	Actus_Apostolorum
+1100000484	resistebat autem illis elymas magus (sic enim interpretatur nomen eius), quaerens avertere proconsulem a fide.	2020-04-18	Actus_Apostolorum
+1100000485	saulus autem, qui et paulus, repletus spiritu sancto, intuens in eum,dixit: o plene omni dolo et omni fallacia, fili diaboli, inimice omnis iustitiae, non desinis subvertere vias domini rectas.	2020-04-18	Actus_Apostolorum
+1100000486	et nunc ecce manus domini super te, et eris caecus, non videns solem usque ad tempus. 	2020-04-18	Actus_Apostolorum
+1100000487	et confestim cecidit in eum caligo et tenebrae: et circuiens quaerebat qui ei manum daret.	2020-04-18	Actus_Apostolorum
+1100000488	tunc proconsul cum vidisset factum, credidit admirans super doctrina domini.	2020-04-18	Actus_Apostolorum
+1100000489	et cum a papho navigassent paulus et qui cum eo erant, venerunt pergen pamphyliae. 	2020-04-18	Actus_Apostolorum
+1100000490	ioannes autem discedens ab eis, reversus est ierosolymam.	2020-04-18	Actus_Apostolorum
+1100000491	illi vero pertranseuntes pergen, venerunt antiochiam pisidiae: et ingressi synagogam die sabbatorum, sederunt.	2020-04-18	Actus_Apostolorum
+1100000492	post lectionem autem legis et prophetarum, miserunt principes synagogae ad eos, dicentes: viri fratres, si quis est in vobis sermo exhortationis ad plebem, dicite.	2020-04-18	Actus_Apostolorum
+1100000493	surgens autem paulus, et manu silentium indicens, ait: viri israelitae, et qui timetis deum, audite:deus plebis israel elegit patres nostros, et plebem exaltavit cum essent incolae in terra aegypti, et in brachio excelso eduxit eos ex ea,et per quadraginta annorum tempus mores eorum sustinuit in deserto.	2020-04-18	Actus_Apostolorum
+1100000494	et destruens gentes septem in terra chanaan, sorte distribuit eis terram eorum,quasi post quadringentos et quinquaginta annos: et post haec dedit iudices, usque ad samuel prophetam.	2020-04-18	Actus_Apostolorum
+1100000495	et exinde postulaverunt regem: et dedit illis deus saul filium cis, virum de tribu beniamin, annis quadraginta:et amoto illo, suscitavit illis david regem: cui testimonium perhibens, dixit: inveni david filium iesse, virum secundum cor meum, qui faciet omnes voluntates meas.	2020-04-18	Actus_Apostolorum
+1100000496	huius deus ex semine secundum promissionem eduxit israel salvatorem iesum,praedicante ioanne ante faciem adventus eius baptismum poenitentiae omni populo israel.	2020-04-18	Actus_Apostolorum
+1100000497	cum impleret autem ioannes cursum suum, dicebat: quem me arbitramini esse, non sum ego: sed ecce venit post me, cuius non sum dignus calceamenta pedum solvere.	2020-04-18	Actus_Apostolorum
+1100000498	viri fratres, filii generis abraham, et qui in vobis timent deum, vobis verbum salutis huius missum est.	2020-04-18	Actus_Apostolorum
+1100000499	qui enim habitabant ierusalem, et principes eius hunc ignorantes, et voces prophetarum quae per omne sabbatum leguntur, iudicantes impleverunt,et nullam causam mortis invenientes in eo, petierunt a pilato ut interficerent eum.	2020-04-18	Actus_Apostolorum
+1100000500	cumque consummassent omnia quae de eo scripta erant, deponentes eum de ligno, posuerunt eum in monumento.	2020-04-18	Actus_Apostolorum
+1100000501	deus vero suscitavit eum a mortuis tertia die: qui visus est per dies multos hisqui simul ascenderant cum eo de galilaea in ierusalem: qui usque nunc sunt testes eius ad plebem.	2020-04-18	Actus_Apostolorum
+1100000502	et nos vobis annuntiamus eam, quae ad patres nostros repromissio facta est:quoniam hanc deus adimplevit filiis nostris resuscitans iesum, sicut et in psalmo secundo scriptum est: filius meus es tu, ego hodie genui te.	2020-04-18	Actus_Apostolorum
+1100000503	quod autem suscitavit eum a mortuis, amplius iam non reversurum in corruptionem, ita dixit: quia dabo vobis sancta david fidelia.	2020-04-18	Actus_Apostolorum
+1100000504	ideoque et alias dicit: non dabis sanctum tuum videre corruptionem.	2020-04-18	Actus_Apostolorum
+1100000505	david enim in sua generatione cum administrasset, voluntati dei dormivit: et appositus est ad patres suos, et vidit corruptionem.	2020-04-18	Actus_Apostolorum
+1100000506	quem vero deus suscitavit a mortuis, non vidit corruptionem.	2020-04-18	Actus_Apostolorum
+1100000507	notum igitur sit vobis, viri fratres, quia per hunc vobis remissio peccatorum annuntiatur, et ab omnibus quibus non potuistis in lege moysi iustificari,in hoc omnis qui credit, iustificatur.	2020-04-18	Actus_Apostolorum
+1100000508	videte ergo ne superveniat vobis quod dictum est in prophetis:	2020-04-18	Actus_Apostolorum
+1100000509	videte contemptores, et admiramini, et disperdimini:	2020-04-18	Actus_Apostolorum
+1100000510	quia opus operor ego in diebus vestris,	2020-04-18	Actus_Apostolorum
+1100000511	opus quod non credetis, si quis enarraverit vobis.	2020-04-18	Actus_Apostolorum
+1100000512	exeuntibus autem illis rogabant ut sequenti sabbato loquerentur sibi verba haec.	2020-04-18	Actus_Apostolorum
+1100000513	cumque dimissa esset synagoga, secuti sunt multi iudaeorum, et colentium advenarum, paulum et barnabam: qui loquentes suadebant eis ut permanerent in gratia dei.	2020-04-18	Actus_Apostolorum
+1100000514	sequenti vero sabbato pene universa civitas convenit audire verbum dei.	2020-04-18	Actus_Apostolorum
+1100000515	videntes autem turbas iudaei, repleti sunt zelo, et contradicebant his quae a paulo dicebantur, blasphemantes.	2020-04-18	Actus_Apostolorum
+1100000516	tunc constanter paulus et barnabas dixerunt: vobis oportebat primum loqui verbum dei: sed quoniam repellitis illud, et indignos vos iudicatis aeternae vitae, ecce convertimur ad gentes.	2020-04-18	Actus_Apostolorum
+1100000517	sic enim praecepit nobis dominus: posui te in lucem gentium, ut sis in salutem usque ad extremum terrae.	2020-04-18	Actus_Apostolorum
+1100000518	audientes autem gentes, gavisae sunt, et glorificabant verbum domini: et crediderunt quotquot erant praeordinati ad vitam aeternam.	2020-04-18	Actus_Apostolorum
+1100000519	disseminabatur autem verbum domini per universam regionem.	2020-04-18	Actus_Apostolorum
+1100000520	iudaei autem concitaverunt mulieres religiosas et honestas, et primos civitatis, et excitaverunt persecutionem in paulum et barnabam: et eiecerunt eos de finibus suis.	2020-04-18	Actus_Apostolorum
+1100000521	at illi excusso pulvere pedum in eos, venerunt iconium.	2020-04-18	Actus_Apostolorum
+1100000522	discipuli quoque replebantur gaudio, et spiritu sancto.	2020-04-18	Actus_Apostolorum
+1100000523	caput 14	2020-04-18	Actus_Apostolorum
+1100000524	factum est autem iconii, ut simul introirent in synagogam iudaeorum, et loquerentur, ita ut crederet iudaeorum et graecorum copiosa multitudo.	2020-04-18	Actus_Apostolorum
+1100000525	qui vero increduli fuerunt iudaei, suscitaverunt et ad iracundiam concitaverunt animas gentium adversus fratres.	2020-04-18	Actus_Apostolorum
+1100000526	multo igitur tempore demorati sunt, fiducialiter agentes in domino, testimonium perhibente verbo gratiae suae, dante signa et prodigia fieri per manus eorum.	2020-04-18	Actus_Apostolorum
+1100000527	divisa est autem multitudo civitatis: et quidam quidem erant cum iudaeis, quidam vero cum apostolis.	2020-04-18	Actus_Apostolorum
+1100000528	cum autem factus esset impetus gentilium et iudaeorum cum principibus suis, ut contumeliis afficerent, et lapidarent eos,intelligentes confugerunt ad civitates lycaoniae lystram et derben, et universam in circuitu regionem, et ibi evangelizantes erant.	2020-04-18	Actus_Apostolorum
+1100000529	et quidam vir lystris infirmus pedibus sedebat, claudus ex utero matris suae, qui numquam ambulaverat.	2020-04-18	Actus_Apostolorum
+1100000530	hic audivit paulum loquentem. 	2020-04-18	Actus_Apostolorum
+1100000531	qui intuitus eum, et videns quia fidem haberet ut salvus fieret,dixit magna voce: surge super pedes tuos rectus. 	2020-04-18	Actus_Apostolorum
+1100000532	et exilivit, et ambulabat.	2020-04-18	Actus_Apostolorum
+1100000533	turbae autem cum vidissent quod fecerat paulus, levaverunt vocem suam lycaonice, dicentes: dii similes facti hominibus descenderunt ad nos.	2020-04-18	Actus_Apostolorum
+1100000534	et vocabant barnabam iovem, paulum vero mercurium: quoniam ipse erat dux verbi.	2020-04-18	Actus_Apostolorum
+1100000535	sacerdos quoque iovis, qui erat ante civitatem, tauros et coronas ante ianuas afferens, cum populis volebat sacrificare.	2020-04-18	Actus_Apostolorum
+1100000536	quod ubi audierunt apostoli, barnabas et paulus, conscissis tunicis suis exilierunt in turbas, clamanteset dicentes: viri, quid haec facitis? 	2020-04-18	Actus_Apostolorum
+1100000537	et nos mortales sumus, similes vobis homines, annuntiantes vobis ab his vanis converti ad deum vivum, qui fecit caelum, et terram, et mare, et omnia quae in eis sunt:qui in praeteritis generationibus dimisit omnes gentes ingredi vias suas.	2020-04-18	Actus_Apostolorum
+1100000538	et quidem non sine testimonio semetipsum reliquit benefaciens de caelo, dans pluvias et tempora fructifera, implens cibo et laetitia corda nostra.	2020-04-18	Actus_Apostolorum
+1100000539	et haec dicentes, vix sedaverunt turbas ne sibi immolarent.	2020-04-18	Actus_Apostolorum
+1100000540	supervenerunt autem quidam ab antiochia et iconio iudaei: et persuasis turbis, lapidantesque paulum, traxerunt extra civitatem, existimantes eum mortuum esse.	2020-04-18	Actus_Apostolorum
+1100000541	circumdantibus autem eum discipulis, surgens intravit civitatem, et postera die profectus est cum barnaba in derben.	2020-04-18	Actus_Apostolorum
+1100000542	cumque evangelizassent civitati illi, et docuissent multos, reversi sunt lystram, et iconium, et antiochiam,confirmantes animas discipulorum, exhortantesque ut permanerent in fide: et quoniam per multas tribulationes oportet nos intrare in regnum dei.	2020-04-18	Actus_Apostolorum
+1100000543	et cum constituissent illis per singulas ecclesias presbyteros, et orassent cum ieiunationibus, commendaverunt eos domino, in quem crediderunt.	2020-04-18	Actus_Apostolorum
+1100000544	transeuntesque pisidiam, venerunt in pamphyliam,et loquentes verbum domini in perge, descenderunt in attaliam:et inde navigaverunt antiochiam, unde erant traditi gratiae dei in opus quod compleverunt.	2020-04-18	Actus_Apostolorum
+1100000545	cum autem venissent, et congregassent ecclesiam, retulerunt quanta fecisset deus cum illis, et quia aperuisset gentibus ostium fidei.	2020-04-18	Actus_Apostolorum
+1100000546	morati sunt autem tempus non modicum cum discipulis.	2020-04-18	Actus_Apostolorum
+1100000547	caput 15	2020-04-18	Actus_Apostolorum
+1100000548	et quidam descendentes de iudaea docebant fratres: quia nisi circumcidamini secundum morem moysi, non potestis salvari.	2020-04-18	Actus_Apostolorum
+1100000549	facta ergo seditione non minima paulo et barnabae adversus illos, statuerunt ut ascenderent paulus et barnabas, et quidam alii ex aliis ad apostolos et presbyteros in ierusalem super hac quaestione.	2020-04-18	Actus_Apostolorum
+1100000550	illi ergo deducti ab ecclesia pertransibant phoenicen et samariam, narrantes conversionem gentium: et faciebant gaudium magnum omnibus fratribus.	2020-04-18	Actus_Apostolorum
+1100000551	cum autem venissent ierosolymam, suscepti sunt ab ecclesia, et ab apostolis et senioribus, annuntiantes quanta deus fecisset cum illis.	2020-04-18	Actus_Apostolorum
+1100000552	surrexerunt autem quidam de haeresi pharisaeorum, qui crediderunt, dicentes quia oportet circumcidi eos, praecipere quoque servare legem moysi.	2020-04-18	Actus_Apostolorum
+1100000553	conveneruntque apostoli et seniores videre de verbo hoc.	2020-04-18	Actus_Apostolorum
+1100000554	cum autem magna conquisitio fieret, surgens petrus dixit ad eos: viri fratres, vos scitis quoniam ab antiquis diebus deus in nobis elegit, per os meum audire gentes verbum evangelii et credere.	2020-04-18	Actus_Apostolorum
+1100000555	et qui novit corda deus, testimonium perhibuit, dans illis spiritum sanctum, sicut et nobis,et nihil discrevit inter nos et illos, fide purificans corda eorum.	2020-04-18	Actus_Apostolorum
+1100000556	nunc ergo quid tentatis deum, imponere iugum super cervices discipulorum quod neque patres nostri, neque nos portare potuimus?	2020-04-18	Actus_Apostolorum
+1100000557	sed per gratiam domini iesu christi credimus salvari, quemadmodum et illi.	2020-04-18	Actus_Apostolorum
+1100000558	tacuit autem omnis multitudo: et audiebant barnabam et paulum narrantes quanta deus fecisset signa et prodigia in gentibus per eos.	2020-04-18	Actus_Apostolorum
+1100000559	et postquam tacuerunt, respondit iacobus, dicens: viri fratres, audite me.	2020-04-18	Actus_Apostolorum
+1100000560	simon narravit quemadmodum primum deus visitavit sumere ex gentibus populum nomini suo.	2020-04-18	Actus_Apostolorum
+1100000561	et huic concordant verba prophetarum: sicut scriptum est:	2020-04-18	Actus_Apostolorum
+1100000562	post haec revertar,	2020-04-18	Actus_Apostolorum
+1100000563	et reaedificabo tabernaculum david quod decidit:	2020-04-18	Actus_Apostolorum
+1100000564	et diruta eius reaedificabo,	2020-04-18	Actus_Apostolorum
+1100000565	et erigam illud:	2020-04-18	Actus_Apostolorum
+1100000566	ut requirant ceteri hominum dominum,	2020-04-18	Actus_Apostolorum
+1100000567	et omnes gentes super quas invocatum est nomen meum,	2020-04-18	Actus_Apostolorum
+1100000568	dicit dominus faciens haec.	2020-04-18	Actus_Apostolorum
+1100000569	notum a saeculo est domino opus suum.	2020-04-18	Actus_Apostolorum
+1100000570	propter quod ego iudico non inquietari eos qui ex gentibus convertuntur ad deum,sed scribere ad eos ut abstineant se a contaminationibus simulacrorum, et fornicatione, et suffocatis, et sanguine.	2020-04-18	Actus_Apostolorum
+1100000571	moyses enim a temporibus antiquis habet in singulis civitatibus qui eum praedicent in synagogis, ubi per omne sabbatum legitur.	2020-04-18	Actus_Apostolorum
+1100000572	tunc placuit apostolis et senioribus cum omni ecclesia eligere viros ex eis, et mittere antiochiam cum paulo et barnaba: iudam, qui cognominabatur barsabas, et silam, viros primos in fratribus:scribentes per manus eorum: apostoli et seniores fratres, his qui sunt antiochiae, et syriae, et ciliciae, fratribus ex gentibus, salutem.	2020-04-18	Actus_Apostolorum
+1100000573	quoniam audivimus quia quidam ex nobis exeuntes, turbaverunt vos verbis, evertentes animas vestras, quibus non mandavimus,placuit nobis collectis in unum eligere viros, et mittere ad vos cum carissimis nostris barnaba et paulo,hominibus qui tradiderunt animas suas pro nomine domini nostri iesu christi.	2020-04-18	Actus_Apostolorum
+1100000574	misimus ergo iudam et silam, qui et ipsi vobis verbis referent eadem.	2020-04-18	Actus_Apostolorum
+1100000575	visum est enim spiritui sancto et nobis nihil ultra imponere vobis oneris quam haec necessaria:ut abstineatis vos ab immolatis simulacrorum, et sanguine, et suffocato, et fornicatione: a quibus custodientes vos, bene agetis. 	2020-04-18	Actus_Apostolorum
+1100000576	valete.	2020-04-18	Actus_Apostolorum
+1100000577	illi ergo dimissi, descenderunt antiochiam: et congregata multitudine tradiderunt epistolam.	2020-04-18	Actus_Apostolorum
+1100000578	quam cum legissent, gavisi sunt super consolatione.	2020-04-18	Actus_Apostolorum
+1100000579	iudas autem et silas, et ipsi cum essent prophetae, verbo plurimo consolati sunt fratres, et confirmaverunt.	2020-04-18	Actus_Apostolorum
+1100000580	facto autem ibi aliquanto tempore, dimissi sunt cum pace a fratribus ad eos qui miserant illos.	2020-04-18	Actus_Apostolorum
+1100000581	visum est autem silae ibi remanere: iudas autem solus abiit ierusalem.	2020-04-18	Actus_Apostolorum
+1100000582	paulus autem et barnabas demorabantur antiochiae, docentes et evangelizantes cum aliis pluribus verbum domini.	2020-04-18	Actus_Apostolorum
+1100000583	post aliquot autem dies, dixit ad barnabam paulus: revertentes visitemus fratres per universas civitates in quibus praedicavimus verbum domini, quomodo se habeant.	2020-04-18	Actus_Apostolorum
+1100000584	barnabas autem volebat secum assumere et ioannem, qui cognominabatur marcus.	2020-04-18	Actus_Apostolorum
+1100000585	paulus autem rogabat eum (ut qui discessisset ab eis de pamphylia, et non isset cum eis in opus) non debere recipi.	2020-04-18	Actus_Apostolorum
+1100000586	facta est autem dissensio, ita ut discederent ab invicem, et barnabas quidem, assumpto marco, navigaret cyprum.	2020-04-18	Actus_Apostolorum
+1100000587	paulus vero, electo sila, profectus est, traditus gratiae dei a fratribus.	2020-04-18	Actus_Apostolorum
+1100000588	perambulabat autem syriam et ciliciam, confirmans ecclesias: praecipiens custodire praecepta apostolorum et seniorum.	2020-04-18	Actus_Apostolorum
+1100000589	caput 16	2020-04-18	Actus_Apostolorum
+1100000590	pervenit autem derben et lystram. 	2020-04-18	Actus_Apostolorum
+1100000591	et ecce discipulus quidam erat ibi nomine timotheus, filius mulieris iudaeae fidelis, patre gentili.	2020-04-18	Actus_Apostolorum
+1100000592	huic testimonium bonum reddebant qui in lystris erant et iconio fratres.	2020-04-18	Actus_Apostolorum
+1100000593	hunc voluit paulus secum proficisci: et assumens circumcidit eum propter iudaeos qui erant in illis locis. 	2020-04-18	Actus_Apostolorum
+1100000594	sciebant enim omnes quod pater eius erat gentilis.	2020-04-18	Actus_Apostolorum
+1100000595	cum autem pertransirent civitates, tradebant eis custodiri dogmata quae erant decreta ab apostolis et senioribus qui erant ierosolymis.	2020-04-18	Actus_Apostolorum
+1100000596	et ecclesiae quidem confirmabantur fide, et abundabunt numero quotidie.	2020-04-18	Actus_Apostolorum
+1100000597	transeuntes autem phrygiam et galatiae regionem, vetati sunt a spiritu sancto loqui verbum dei in asia.	2020-04-18	Actus_Apostolorum
+1100000598	cum venissent autem in mysiam, tentabant ire in bithyniam: et non permisit eos spiritus iesu.	2020-04-18	Actus_Apostolorum
+1100000599	cum autem pertransissent mysiam, descenderunt troadem:et visio per noctem paulo ostensa est: vir macedo quidam erat stans et deprecans eum, et dicens: transiens in macedoniam, adiuva nos.	2020-04-18	Actus_Apostolorum
+1100000600	ut autem visum vidit, statim quaesivimus proficisci in macedoniam, certi facti quod vocasset nos deus evangelizare eis.	2020-04-18	Actus_Apostolorum
+1100000601	navigantes autem a troade, recto cursu venimus samothraciam, et sequenti die neapolim:et inde philippos, quae est prima partis macedoniae civitas, colonia. 	2020-04-18	Actus_Apostolorum
+1100000602	eramus autem in hac urbe diebus aliquot, conferentes.	2020-04-18	Actus_Apostolorum
+1100000603	die autem sabbatorum egressi sumus foras portam iuxta flumen, ubi videbatur oratio esse: et sedentes loquebamur mulieribus quae convenerant.	2020-04-18	Actus_Apostolorum
+1100000604	et quaedam mulier nomine lydia, purpuraria civitatis thyatirenorum, colens deum, audivit: cuius dominus aperuit cor intendere his quae dicebantur a paulo.	2020-04-18	Actus_Apostolorum
+1100000605	cum autem baptizata esset, et domus eius, deprecata est, dicens: si iudicastis me fidelem domino esse, introite in domum meam, et manete. 	2020-04-18	Actus_Apostolorum
+1100000606	et coegit nos.	2020-04-18	Actus_Apostolorum
+1100000607	factum est autem euntibus nobis ad orationem, puellam quamdam habentem spiritum pythonem obviare nobis, quae quaestum magnum praestabat dominis suis divinando.	2020-04-18	Actus_Apostolorum
+1100000608	haec subsecuta paulum et nos, clamabat dicens: isti homines servi dei excelsi sunt, qui annuntiant vobis viam salutis.	2020-04-18	Actus_Apostolorum
+1100000609	hoc autem faciebat multis diebus. 	2020-04-18	Actus_Apostolorum
+1100000610	dolens autem paulus, et conversus, spiritui dixit: praecipio tibi in nomine iesu christi exire ab ea. 	2020-04-18	Actus_Apostolorum
+1100000611	et exiit eadem hora.	2020-04-18	Actus_Apostolorum
+1100000612	videntes autem domini eius quia exivit spes quaestus eorum, apprehendentes paulum et silam, perduxerunt in forum ad principes:et offerentes eos magistratibus, dixerunt: hi homines conturbant civitatem nostram, cum sint iudaei:et annuntiant morem quem non licet nobis suscipere neque facere, cum simus romani.	2020-04-18	Actus_Apostolorum
+1100000613	et cucurrit plebs adversus eos: et magistratus, scissis tunicis eorum, iusserunt eos virgis caedi.	2020-04-18	Actus_Apostolorum
+1100000614	et cum multas plagas eis imposuissent, miserunt eos in carcerem, praecipientes custodi ut diligenter custodiret eos.	2020-04-18	Actus_Apostolorum
+1100000615	qui cum tale praeceptum accepisset, misit eos in interiorem carcerem, et pedes eorum strinxit ligno.	2020-04-18	Actus_Apostolorum
+1100000616	media autem nocte paulus et silas orantes, laudabant deum: et audiebant eos qui in custodia erant.	2020-04-18	Actus_Apostolorum
+1100000617	subito vero terraemotus factus est magnus, ita ut moverentur fundamenta carceris. 	2020-04-18	Actus_Apostolorum
+1100000618	et statim aperta sunt omnia ostia: et universorum vincula soluta sunt.	2020-04-18	Actus_Apostolorum
+1100000619	expergefactus autem custos carceris, et videns ianuas apertas carceris, evaginato gladio volebat se interficere, aestimans fugisse vinctos.	2020-04-18	Actus_Apostolorum
+1100000620	clamavit autem paulus voce magna, dicens: nihil tibi mali feceris: universi enim hic sumus.	2020-04-18	Actus_Apostolorum
+1100000621	petitoque lumine, introgressus est: et tremefactus procidit paulo et silae ad pedes:et producens eos foras, ait: domini, quid me oportet facere, ut salvus fiam?	2020-04-18	Actus_Apostolorum
+1100000622	at illi dixerunt: crede in dominum iesum, et salvus eris tu, et domus tua.	2020-04-18	Actus_Apostolorum
+1100000623	et locuti sunt ei verbum domini cum omnibus qui erant in domo eius.	2020-04-18	Actus_Apostolorum
+1100000624	et tollens eos in illa hora noctis, lavit plagas eorum: et baptizatus est ipse, et omnis domus eius continuo.	2020-04-18	Actus_Apostolorum
+1100000625	cumque perduxisset eos in domum suam, apposuit eis mensam, et laetatus est cum omni domo sua credens deo.	2020-04-18	Actus_Apostolorum
+1100000626	et cum dies factus esset, miserunt magistratus lictores, dicentes: dimitte homines illos.	2020-04-18	Actus_Apostolorum
+1100000627	nuntiavit autem custos carceris verba haec paulo: quia miserunt magistratus ut dimittamini: nunc igitur exeuntes, ite in pace.	2020-04-18	Actus_Apostolorum
+1100000628	paulus autem dixit eis: caesos nos publice, indemnatos homines romanos, miserunt in carcerem: et nunc occulte nos eiiciunt? 	2020-04-18	Actus_Apostolorum
+1100000629	non ita: sed veniant,et ipsi nos eiiciant. 	2020-04-18	Actus_Apostolorum
+1100000630	nuntiaverunt autem magistratibus lictores verba haec. 	2020-04-18	Actus_Apostolorum
+1100000631	timueruntque audito quod romani essent:et venientes deprecati sunt eos, et educentes rogabant ut egrederentur de urbe.	2020-04-18	Actus_Apostolorum
+1100000632	exeuntes autem de carcere, introierunt ad lydiam: et visis fratribus consolati sunt eos, et profecti sunt.	2020-04-18	Actus_Apostolorum
+1100000633	caput 17	2020-04-18	Actus_Apostolorum
+1100000634	cum autem perambulassent amphipolim et apolloniam, venerunt thessalonicam, ubi erat synagoga iudaeorum.	2020-04-18	Actus_Apostolorum
+1100000635	secundum consuetudinem autem paulus introivit ad eos, et per sabbata tria disserebat eis de scripturis,adaperiens et insinuans quia christum oportuit pati, et resurgere a mortuis: et quia hic est iesus christus, quem ego annuntio vobis.	2020-04-18	Actus_Apostolorum
+1100000636	et quidam ex eis crediderunt et adiuncti sunt paulo et silae: et de colentibus gentilibusque multitudo magna, et mulieres nobiles non paucae.	2020-04-18	Actus_Apostolorum
+1100000637	zelantes autem iudaei, assumentesque de vulgo viros quosdam malos, et turba facta, concitaverunt civitatem: et assistentes domui iasonis quaerebant eos producere in populum.	2020-04-18	Actus_Apostolorum
+1100000638	et cum non invenissent eos, trahebant iasonem et quosdam fratres ad principes civitatis, clamantes: quoniam hi qui urbem concitant, et huc venerunt,quos suscepit iason, et hi omnes contra decreta caesaris faciunt, regem alium dicentes esse, iesum.	2020-04-18	Actus_Apostolorum
+1100000639	concitaverunt autem plebem et principes civitatis audientes haec.	2020-04-18	Actus_Apostolorum
+1100000640	et accepta satisfactione a iasone et a ceteris, dimiserunt eos.	2020-04-18	Actus_Apostolorum
+1100000641	fratres vero confestim per noctem dimiserunt paulum et silam in beroeam. 	2020-04-18	Actus_Apostolorum
+1100000642	qui cum venissent, in synagogam iudaeorum introierunt.	2020-04-18	Actus_Apostolorum
+1100000643	hi autem erant nobiliores eorum qui sunt thessalonicae, qui susceperunt verbum cum omni aviditate, quotidie scrutantes scripturas, si haec ita se haberent.	2020-04-18	Actus_Apostolorum
+1100000644	et multi quidem crediderunt ex eis, et mulierum gentilium honestarum, et viri non pauci.	2020-04-18	Actus_Apostolorum
+1100000645	cum autem cognovissent in thessalonica iudaei quia et beroeae praedicatum est a paulo verbum dei, venerunt et illuc commoventes, et turbantes multitudinem.	2020-04-18	Actus_Apostolorum
+1100000646	statimque tunc paulum dimiserunt fratres, ut iret usque ad mare: silas autem et timotheus remanserunt ibi.	2020-04-18	Actus_Apostolorum
+1100000647	qui autem deducebant paulum, perduxerunt eum usque athenas, et accepto mandato ab eo ad silam et timotheum ut quam celeriter venirent ad illum, profecti sunt.	2020-04-18	Actus_Apostolorum
+1100000648	paulus autem cum athenis eos exspectaret, incitabatur spiritus eius in ipso, videns idololatriae deditam civitatem.	2020-04-18	Actus_Apostolorum
+1100000649	disputabat igitur in synagoga cum iudaeis et colentibus, et in foro, per omnes dies ad eos qui aderant.	2020-04-18	Actus_Apostolorum
+1100000650	quidam autem epicurei et stoici philosophi disserebant cum eo, et quidam dicebant: quid vult seminiverbius hic dicere? 	2020-04-18	Actus_Apostolorum
+1100000651	alii vero: novorum daemoniorum videtur annuntiator esse: quia iesum et resurrectionem annuntiabat eis.	2020-04-18	Actus_Apostolorum
+1100000652	et apprehensum eum ad areopagum duxerunt, dicentes: possumus scire quae est haec nova, quae a te dicitur, doctrina?	2020-04-18	Actus_Apostolorum
+1100000653	nova enim quaedam infers auribus nostris: volumus ergo scire quidnam velint haec esse.(	2020-04-18	Actus_Apostolorum
+1100000654	athenienses autem omnes, et advenae hospites, ad nihil aliud vacabant nisi aut dicere aut audire aliquid novi.)	2020-04-18	Actus_Apostolorum
+1100000655	stans autem paulus in medio areopagi, ait: viri athenienses, per omnia quasi superstitiosiores vos video.	2020-04-18	Actus_Apostolorum
+1100000656	praeteriens enim, et videns simulacra vestra, inveni et aram in qua scriptum erat: ignoto deo. 	2020-04-18	Actus_Apostolorum
+1100000657	quod ergo ignorantes colitis, hoc ego annuntio vobis.	2020-04-18	Actus_Apostolorum
+1100000658	deus, qui fecit mundum, et omnia quae in eo sunt, hic caeli et terrae cum sit dominus, non in manufactis templis habitat,nec manibus humanis colitur indigens aliquo, cum ipse det omnibus vitam, et inspirationem, et omnia:fecitque ex uno omne genus hominum inhabitare super universam faciem terrae, definiens statuta tempora, et terminos habitationis eorum,quaerere deum si forte attrectent eum, aut inveniant, quamvis non longe sit ab unoquoque nostrum.	2020-04-18	Actus_Apostolorum
+1100000659	in ipso enim vivimus, et movemur, et sumus: sicut et quidam vestrorum poetarum dixerunt: ipsius enim et genus sumus.	2020-04-18	Actus_Apostolorum
+1100000660	genus ergo cum simus dei, non debemus aestimare auro, aut argento, aut lapidi, sculpturae artis, et cogitationis hominis, divinum esse simile.	2020-04-18	Actus_Apostolorum
+1100000661	et tempora quidem huius ignorantiae despiciens deus, nunc annuntiat hominibus ut omnes ubique poenitentiam agant,eo quod statuit diem in quo iudicaturus est orbem in aequitate, in viro in quo statuit, fidem praebens omnibus, suscitans eum a mortuis.	2020-04-18	Actus_Apostolorum
+1100000662	cum audissent autem resurrectionem mortuorum, quidam quidem irridebant, quidam vero dixerunt: audiemus te de hoc iterum.	2020-04-18	Actus_Apostolorum
+1100000663	sic paulus exivit de medio eorum.	2020-04-18	Actus_Apostolorum
+1100000664	quidam vero viri adhaerentes ei, crediderunt: in quibus et dionysius areopagita, et mulier nomine damaris, et alii cum eis.	2020-04-18	Actus_Apostolorum
+1100000665	caput 18	2020-04-18	Actus_Apostolorum
+1100000666	post haec egressus ab athenis, venit corinthum:et inveniens quemdam iudaeum nomine aquilam, ponticum genere, qui nuper venerat ab italia, et priscillam uxorem eius (eo quod praecepisset claudius discedere omnes iudaeos a roma), accessit ad eos.	2020-04-18	Actus_Apostolorum
+1100000667	et quia eiusdem erat artis, manebat apud eos, et operabatur. (	2020-04-18	Actus_Apostolorum
+1100000668	erant autem scenofactoriae artis.)	2020-04-18	Actus_Apostolorum
+1100000669	et disputabat in synagoga per omne sabbatum, interponens nomen domini iesu: suadebatque iudaeis et graecis.	2020-04-18	Actus_Apostolorum
+1100000670	cum venissent autem de macedonia silas et timotheus, instabat verbo paulus, testificans iudaeis esse christum iesum.	2020-04-18	Actus_Apostolorum
+1100000671	contradicentibus autem eis, et blasphemantibus, excutiens vestimenta sua, dixit ad eos: sanguis vester super caput vestrum: mundus ego: ex hoc ad gentes vadam.	2020-04-18	Actus_Apostolorum
+1100000672	et migrans inde, intravit in domum cuiusdam, nomine titi iusti, colentis deum, cuius domus erat coniuncta synagogae.	2020-04-18	Actus_Apostolorum
+1100000673	crispus autem archisynagogus credidit domino cum omni domo sua: et multi corinthiorum audientes credebant, et baptizabantur.	2020-04-18	Actus_Apostolorum
+1100000674	dixit autem dominus nocte per visionem paulo: noli timere, sed loquere, et ne taceas:propter quod ego sum tecum, et nemo apponetur tibi ut noceat te: quoniam populus est mihi multus in hac civitate.	2020-04-18	Actus_Apostolorum
+1100000675	sedit autem ibi annum et sex menses, docens apud eos verbum dei.	2020-04-18	Actus_Apostolorum
+1100000676	gallione autem proconsule achaiae, insurrexerunt uno animo iudaei in paulum, et adduxerunt eum ad tribunal,dicentes: quia contra legem hic persuadet hominibus colere deum.	2020-04-18	Actus_Apostolorum
+1100000677	incipiente autem paulo aperire os, dixit gallio ad iudaeos: si quidem esset iniquum aliquid aut facinus pessimum, o viri iudaei, recte vos sustinerem.	2020-04-18	Actus_Apostolorum
+1100000678	si vero quaestiones sunt de verbo, et nominibus, et lege vestra, vos ipsi videritis: iudex ego horum nolo esse.	2020-04-18	Actus_Apostolorum
+1100000679	et minavit eos a tribunali.	2020-04-18	Actus_Apostolorum
+1100000680	apprehendentes autem omnes sosthenem principem synagogae, percutiebant eum ante tribunal: et nihil eorum gallioni curae erat.	2020-04-18	Actus_Apostolorum
+1100000681	paulus vero cum adhuc sustinuisset dies multos fratribus valefaciens, navigavit in syriam (et cum eo priscilla et aquila), qui sibi totonderat in cenchris caput: habebat enim votum.	2020-04-18	Actus_Apostolorum
+1100000682	devenitque ephesum, et illos ibi reliquit. 	2020-04-18	Actus_Apostolorum
+1100000683	ipse vero ingressus synagogam, disputabat cum iudaeis.	2020-04-18	Actus_Apostolorum
+1100000684	rogantibus autem eis ut ampliori tempore maneret, non consensit,sed valefaciens, et dicens: iterum revertar ad vos, deo volente: profectus est ab epheso.	2020-04-18	Actus_Apostolorum
+1100000685	et descendens caesaream, ascendit, et salutavit ecclesiam, et descendit antiochiam.	2020-04-18	Actus_Apostolorum
+1100000686	et facto ibi aliquanto tempore profectus est, perambulans ex ordine galaticam regionem, et phrygiam, confirmans omnes discipulos.	2020-04-18	Actus_Apostolorum
+1100000687	iudaeus autem quidam, apollo nomine, alexandrinus genere, vir eloquens, devenit ephesum, potens in scripturis.	2020-04-18	Actus_Apostolorum
+1100000688	hic erat edoctus viam domini: et fervens spiritu loquebatur, et docebat diligenter ea quae sunt iesu, sciens tantum baptisma ioannis.	2020-04-18	Actus_Apostolorum
+1100000689	hic ergo coepit fiducialiter agere in synagoga. 	2020-04-18	Actus_Apostolorum
+1100000690	quem cum audissent priscilla et aquila, assumpserunt eum, et diligentius exposuerunt ei viam domini.	2020-04-18	Actus_Apostolorum
+1100000691	cum autem vellet ire achaiam, exhortati fratres, scripserunt discipulis ut susciperent eum. 	2020-04-18	Actus_Apostolorum
+1100000692	qui cum venisset, contulit multum his qui crediderant.	2020-04-18	Actus_Apostolorum
+1100000693	vehementer enim iudaeos revincebat publice, ostendens per scripturas esse christum iesum.	2020-04-18	Actus_Apostolorum
+1100000694	caput 19	2020-04-18	Actus_Apostolorum
+1100000695	factum est autem cum apollo esset corinthi, ut paulus peragratis superioribus partibus veniret ephesum, et inveniret quosdam discipulos:dixitque ad eos: si spiritum sanctum accepistis credentes? 	2020-04-18	Actus_Apostolorum
+1100000696	at illi dixerunt ad eum: sed neque si spiritus sanctus est, audivimus.	2020-04-18	Actus_Apostolorum
+1100000697	ille vero ait: in quo ergo baptizati estis? 	2020-04-18	Actus_Apostolorum
+1100000698	qui dixerunt: in ioannis baptismate.	2020-04-18	Actus_Apostolorum
+1100000699	dixit autem paulus: ioannes baptizavit baptismo poenitentiae populum, dicens in eum qui venturus esset post ipsum ut crederent, hoc est, in iesum.	2020-04-18	Actus_Apostolorum
+1100000700	his auditis, baptizati sunt in nomine domini iesu.	2020-04-18	Actus_Apostolorum
+1100000701	et cum imposuisset illis manus paulus, venit spiritus sanctus super eos, et loquebantur linguis, et prophetabant.	2020-04-18	Actus_Apostolorum
+1100000702	erant autem omnes viri fere duodecim.	2020-04-18	Actus_Apostolorum
+1100000703	introgressus autem synagogam, cum fiducia loquebatur per tres menses, disputans et suadens de regno dei.	2020-04-18	Actus_Apostolorum
+1100000704	cum autem quidam indurarentur, et non crederent, maledicentes viam domini coram multitudine, discedens ab eis, segregavit discipulos, quotidie disputans in schola tyranni cuiusdam.	2020-04-18	Actus_Apostolorum
+1100000705	hoc autem factum est per biennium, ita ut omnes qui habitabant in asia audirent verbum domini, iudaei atque gentiles.	2020-04-18	Actus_Apostolorum
+1100000706	virtutesque non quaslibet faciebat deus per manum pauli,ita ut etiam super languidos deferrentur a corpore eius sudaria et semicinctia, et recedebant ab eis languores, et spiritus nequam egrediebantur.	2020-04-18	Actus_Apostolorum
+1100000707	tentaverunt autem quidam et de circumeuntibus iudaeis exorcistis invocare super eos qui habebant spiritus malos nomen domini iesu, dicentes: adiuro vos per iesum, quem paulus praedicat.	2020-04-18	Actus_Apostolorum
+1100000708	erant autem quidam iudaei, scevae principis sacerdotum septem filii, qui hoc faciebant.	2020-04-18	Actus_Apostolorum
+1100000709	respondens autem spiritus nequam dixit eis: iesum novi, et paulum scio: vos autem qui estis?	2020-04-18	Actus_Apostolorum
+1100000710	et insiliens in eos homo, in quo erat daemonium pessimum, et dominatus amborum, invaluit contra eos, ita ut nudi et vulnerati effugerent de domo illa.	2020-04-18	Actus_Apostolorum
+1100000711	hoc autem notum factum est omnibus iudaeis, atque gentilibus qui habitabant ephesi: et cecidit timor super omnes illos, et magnificabatur nomen domini iesu.	2020-04-18	Actus_Apostolorum
+1100000712	multique credentium veniebant, confitentes et annuntiantes actus suos.	2020-04-18	Actus_Apostolorum
+1100000713	multi autem ex eis, qui fuerant curiosa sectati, contulerunt libros, et combusserunt coram omnibus: et computatis pretiis illorum, invenerunt pecuniam denariorum quinquaginta millium.	2020-04-18	Actus_Apostolorum
+1100000714	ita fortiter crescebat verbum dei, et confirmabatur.	2020-04-18	Actus_Apostolorum
+1100000715	his autem expletis, proposuit paulus in spiritu, transita macedonia et achaia, ire ierosolymam, dicens: quoniam postquam fuero ibi, oportet me et romam videre.	2020-04-18	Actus_Apostolorum
+1100000716	mittens autem in macedoniam duos ex ministrantibus sibi, timotheum et erastum, ipse remansit ad tempus in asia.	2020-04-18	Actus_Apostolorum
+1100000717	facta est autem illo tempore turbatio non minima de via domini.	2020-04-18	Actus_Apostolorum
+1100000718	demetrius enim quidam nomine, argentarius, faciens aedes argenteas dianae, praestabat artificibus non modicum quaestum:quos convocans, et eos qui huiusmodi erant opifices, dixit: viri, scitis quia de hoc artificio est nobis acquisitio:et videtis et auditis quia non solum ephesi, sed pene totius asiae, paulus hic suadens avertit multam turbam, dicens: quoniam non sunt dii, qui manibus fiunt.	2020-04-18	Actus_Apostolorum
+1100000719	non solum autem haec periclitabitur nobis pars in redargutionem venire, sed et magnae dianae templum in nihilum reputabitur, sed et destrui incipiet maiestas eius, quam tota asia et orbis colit.	2020-04-18	Actus_Apostolorum
+1100000720	his auditis, repleti sunt ira, et exclamaverunt dicentes: magna diana ephesiorum.	2020-04-18	Actus_Apostolorum
+1100000721	et impleta est civitas confusione, et impetum fecerunt uno animo in theatrum, rapto gaio et aristarcho macedonibus, comitibus pauli.	2020-04-18	Actus_Apostolorum
+1100000722	paulo autem volente intrare in populum, non permiserunt discipuli.	2020-04-18	Actus_Apostolorum
+1100000723	quidam autem et de asiae principibus, qui erant amici eius, miserunt ad eum rogantes ne se daret in theatrum:alii autem aliud clamabant. 	2020-04-18	Actus_Apostolorum
+1100000724	erat enim ecclesia confusa: et plures nesciebant qua ex causa convenissent.	2020-04-18	Actus_Apostolorum
+1100000725	de turba autem detraxerunt alexandrum, propellentibus eum iudaeis. 	2020-04-18	Actus_Apostolorum
+1100000726	alexander autem manu silentio postulato, volebat reddere rationem populo.	2020-04-18	Actus_Apostolorum
+1100000727	quem ut cognoverunt iudaeum esse, vox facta una est omnium, quasi per horas duas clamantium: magna diana ephesiorum.	2020-04-18	Actus_Apostolorum
+1100000728	et cum sedasset scriba turbas, dixit: viri ephesii, quis enim est hominum, qui nesciat ephesiorum civitatem cultricem esse magnae dianae, iovisque prolis?	2020-04-18	Actus_Apostolorum
+1100000729	cum ergo his contradici non possit, oportet vos sedatos esse, et nihil temere agere.	2020-04-18	Actus_Apostolorum
+1100000730	adduxistis enim homines istos, neque sacrilegos, neque blasphemantes deam vestram.	2020-04-18	Actus_Apostolorum
+1100000731	quod si demetrius et qui cum eo sunt artifices, habent adversus aliquem causam, conventus forenses aguntur, et proconsules sunt: accusent invicem.	2020-04-18	Actus_Apostolorum
+1100000732	si quid autem alterius rei quaeritis, in legitima ecclesia poterit absolvi.	2020-04-18	Actus_Apostolorum
+1100000733	nam et periclitamur argui seditionis hodiernae, cum nullus obnoxius sit de quo possimus reddere rationem concursus istius. 	2020-04-18	Actus_Apostolorum
+1100000734	et cum haec dixisset, dimisit ecclesiam.	2020-04-18	Actus_Apostolorum
+1100000735	caput 20	2020-04-18	Actus_Apostolorum
+1100000736	postquam autem cessavit tumultus, vocatis paulus discipulis, et exhortatus eos, valedixit, et profectus est ut iret in macedoniam.	2020-04-18	Actus_Apostolorum
+1100000737	cum autem perambulasset partes illas, et exhortatus eos fuisset multo sermone, venit ad graeciam:ubi cum fecisset menses tres, factae sunt illi insidiae a iudaeis navigaturo in syriam: habuitque consilium ut reverteretur per macedoniam.	2020-04-18	Actus_Apostolorum
+1100000738	comitatus est autem eum sopater pyrrhi beroeensis, thessalonicensium vero aristarchus, et secundus, et gaius derbeus, et timotheus: asiani vero tychicus et trophimus.	2020-04-18	Actus_Apostolorum
+1100000739	hi cum praecessissent, sustinuerunt nos troade:nos vero navigavimus post dies azymorum a philippis, et venimus ad eos troadem in diebus quinque, ubi demorati sumus diebus septem.	2020-04-18	Actus_Apostolorum
+1100000740	una autem sabbati cum convenissemus ad frangendum panem, paulus disputabat cum eis profecturus in crastinum, protraxitque sermonem usque in mediam noctem.	2020-04-18	Actus_Apostolorum
+1100000741	erant autem lampades copiosae in coenaculo, ubi eramus congregati.	2020-04-18	Actus_Apostolorum
+1100000742	sedens autem quidam adolescens nomine eutychus super fenestram, cum mergeretur somno gravi, disputante diu paulo, ductus somno cecidit de tertio coenaculo deorsum, et sublatus est mortuus.	2020-04-18	Actus_Apostolorum
+1100000743	ad quem cum descendisset paulus, incubuit super eum: et complexus dixit: nolite turbari, anima enim ipsius in ipso est.	2020-04-18	Actus_Apostolorum
+1100000744	ascendens autem, frangensque panem, et gustans, satisque allocutus usque in lucem, sic profectus est.	2020-04-18	Actus_Apostolorum
+1100000745	adduxerunt autem puerum viventem, et consolati sunt non minime.	2020-04-18	Actus_Apostolorum
+1100000746	nos autem ascendentes navem, navigavimus in asson, inde suscepturi paulum: sic enim disposuerat ipse per terram iter facturus.	2020-04-18	Actus_Apostolorum
+1100000747	cum autem convenisset nos in asson, assumpto eo, venimus mitylenen.	2020-04-18	Actus_Apostolorum
+1100000748	et inde navigantes, sequenti die venimus contra chium, et alia applicuimus samum, et sequenti die venimus miletum.	2020-04-18	Actus_Apostolorum
+1100000749	proposuerat enim paulus transnavigare ephesum, ne qua mora illi fieret in asia. 	2020-04-18	Actus_Apostolorum
+1100000750	festinabat enim, si possibile sibi esset, ut diem pentecostes faceret ierosolymis.	2020-04-18	Actus_Apostolorum
+1100000751	a mileto autem mittens ephesum, vocavit maiores natu ecclesiae.	2020-04-18	Actus_Apostolorum
+1100000752	qui cum venissent ad eum, et simul essent, dixit eis: vos scitis a prima die qua ingressus sum in asiam, qualiter vobiscum per omne tempus fuerim,serviens domino cum omni humilitate, et lacrimis, et tentationibus, quae mihi acciderunt ex insidiis iudaeorum:quomodo nihil subtraxerim utilium, quominus annuntiarem vobis et docerem vos, publice et per domos,testificans iudaeis atque gentilibus in deum poenitentiam, et fidem in dominum nostrum iesum christum.	2020-04-18	Actus_Apostolorum
+1100000753	et nunc ecce alligatus ego spiritu, vado in ierusalem: quae in ea ventura sint mihi, ignorans:nisi quod spiritus sanctus per omnes civitates mihi protestatur, dicens quoniam vincula et tribulationes ierosolymis me manent.	2020-04-18	Actus_Apostolorum
+1100000754	sed nihil horum vereor: nec facio animam meam pretiosiorem quam me, dummodo consummem cursum meum, et ministerium verbi quod accepi a domino iesu, testificari evangelium gratiae dei.	2020-04-18	Actus_Apostolorum
+1100000755	et nunc ecce ego scio quia amplius non videbitis faciem meam vos omnes, per quos transivi praedicans regnum dei.	2020-04-18	Actus_Apostolorum
+1100000756	quapropter contestor vos hodierna die, quia mundus sum a sanguine omnium.	2020-04-18	Actus_Apostolorum
+1100000757	non enim subterfugi, quominus annuntiarem omne consilium dei vobis.	2020-04-18	Actus_Apostolorum
+1100000758	attendite vobis, et universo gregi, in quo vos spiritus sanctus posuit episcopos regere ecclesiam dei, quam acquisivit sanguine suo.	2020-04-18	Actus_Apostolorum
+1100000759	ego scio quoniam intrabunt post discessionem meam lupi rapaces in vos, non parcentes gregi.	2020-04-18	Actus_Apostolorum
+1100000760	et ex vobisipsis exsurgent viri loquentes perversa, ut abducant discipulos post se.	2020-04-18	Actus_Apostolorum
+1100000761	propter quod vigilate, memoria retinentes quoniam per triennium nocte et die non cessavi, cum lacrimis monens unumquemque vestrum.	2020-04-18	Actus_Apostolorum
+1100000762	et nunc commendo vos deo, et verbo gratiae ipsius, qui potens est aedificare, et dare haereditatem in sanctificatis omnibus.	2020-04-18	Actus_Apostolorum
+1100000763	argentum, et aurum, aut vestem nullius concupivi, sicutipsi scitis: quoniam ad ea quae mihi opus erant, et his qui mecum sunt, ministraverunt manus istae.	2020-04-18	Actus_Apostolorum
+1100000764	omnia ostendi vobis, quoniam sic laborantes, oportet suscipere infirmos ac meminisse verbi domini iesu: quoniam ipse dixit: beatius est magis dare, quam accipere.	2020-04-18	Actus_Apostolorum
+1100000765	et cum haec dixisset, positis genibus suis oravit cum omnibus illis.	2020-04-18	Actus_Apostolorum
+1100000766	magnus autem fletus factus est omnium: et procumbentes super collum pauli, osculabantur eum,dolentes maxime in verbo quod dixerat, quoniam amplius faciem eius non essent visuri. 	2020-04-18	Actus_Apostolorum
+1100000767	et deducebant eum ad navem.	2020-04-18	Actus_Apostolorum
+1100000768	caput 21	2020-04-18	Actus_Apostolorum
+1100000769	cum autem factum esset ut navigaremus abstracti ab eis, recto cursu venimus coum, et sequenti die rhodum, et inde pataram.	2020-04-18	Actus_Apostolorum
+1100000770	et cum invenissemus navem transfretantem in phoenicen, ascendentes navigavimus.	2020-04-18	Actus_Apostolorum
+1100000771	cum apparuissemus autem cypro, relinquentes eam ad sinistram, navigavimus in syriam, et venimus tyrum: ibi enim navis expositura erat onus.	2020-04-18	Actus_Apostolorum
+1100000772	inventis autem discipulis, mansimus ibi diebus septem: qui paulo dicebant per spiritum ne ascenderet ierosolymam.	2020-04-18	Actus_Apostolorum
+1100000773	et expletis diebus, profecti ibamus, deducentibus nos omnibus cum uxoribus et filiis usque foras civitatem: et positis genibus in littore, oravimus.	2020-04-18	Actus_Apostolorum
+1100000774	et cum valefecissemus invicem, ascendimus navem: illi autem redierunt in sua.	2020-04-18	Actus_Apostolorum
+1100000775	nos vero navigatione expleta a tyro descendimus ptolemaidam: et salutatis fratribus, mansimus die una apud illos.	2020-04-18	Actus_Apostolorum
+1100000776	alia autem die profecti, venimus caesaream. 	2020-04-18	Actus_Apostolorum
+1100000777	et intrantes domum philippi evangelistae, qui erat unus de septem, mansimus apud eum.	2020-04-18	Actus_Apostolorum
+1100000778	huic autem erant quatuor filiae virgines prophetantes.	2020-04-18	Actus_Apostolorum
+1100000779	et cum moraremur per dies aliquot, supervenit quidam a iudaea propheta, nomine agabus.	2020-04-18	Actus_Apostolorum
+1100000780	is cum venisset ad nos, tulit zonam pauli: et alligans sibi pedes et manus, dixit: haec dicit spiritus sanctus: virum, cuius est zona haec, sic alligabunt in ierusalem iudaei, et tradent in manus gentium.	2020-04-18	Actus_Apostolorum
+1100000781	quod cum audissemus, rogabamus nos, et qui loci illius erant, ne ascenderet ierosolymam.	2020-04-18	Actus_Apostolorum
+1100000782	tunc respondit paulus, et dixit: quid facitis flentes, et affligentes cor meum? 	2020-04-18	Actus_Apostolorum
+1100000783	ego enim non solum alligari, sed et mori in ierusalem paratus sum propter nomen domini iesu.	2020-04-18	Actus_Apostolorum
+1100000784	et cum ei suadere non possemus, quievimus, dicentes: domini voluntas fiat.	2020-04-18	Actus_Apostolorum
+1100000785	post dies autem istos, praeparati ascendebamus in ierusalem.	2020-04-18	Actus_Apostolorum
+1100000786	venerunt autem et ex discipulis a caesarea nobiscum, adducentes secum apud quem hospitaremur mnasonem quemdam cyprium, antiquum discipulum.	2020-04-18	Actus_Apostolorum
+1100000787	et cum venissemus ierosolymam, libenter exceperunt nos fratres.	2020-04-18	Actus_Apostolorum
+1100000788	sequenti autem die introibat paulus nobiscum ad iacobum, omnesque collecti sunt seniores.	2020-04-18	Actus_Apostolorum
+1100000789	quos cum salutasset, narrabat per singula quae deus fecisset in gentibus per ministerium ipsius.	2020-04-18	Actus_Apostolorum
+1100000790	at illi cum audissent, magnificabant deum, dixeruntque ei: vides, frater, quot millia sunt in iudaeis qui crediderunt, et omnes aemulatores sunt legis.	2020-04-18	Actus_Apostolorum
+1100000791	audierunt autem de te quia discessionem doceas a moyse eorum qui per gentes sunt iudaeorum, dicens non debere eos circumcidere filios suos, neque secundum consuetudinem ingredi.	2020-04-18	Actus_Apostolorum
+1100000792	quid ergo est? 	2020-04-18	Actus_Apostolorum
+1100000793	utique oportet convenire multitudinem: audient enim te supervenisse.	2020-04-18	Actus_Apostolorum
+1100000794	hoc ergo fac quod tibi dicimus. 	2020-04-18	Actus_Apostolorum
+1100000795	sunt nobis viri quatuor, votum habentes super se.	2020-04-18	Actus_Apostolorum
+1100000796	his assumptis, sanctifica te cum illis, et impende in illis ut radant capita: et scient omnes quia quae de te audierunt, falsa sunt, sed ambulas et ipse custodiens legem.	2020-04-18	Actus_Apostolorum
+1100000797	de his autem qui crediderunt ex gentibus, nos scripsimus iudicantes ut abstineant se ab idolis immolato, et sanguine, et suffocato, et fornicatione.	2020-04-18	Actus_Apostolorum
+1100000798	tunc paulus, assumptis viris, postera die purificatus cum illis intravit in templum, annuntians expletionem dierum purificationis, donec offerretur pro unoquoque eorum oblatio.	2020-04-18	Actus_Apostolorum
+1100000799	dum autem septem dies consummarentur, hi qui de asia erant iudaei, cum vidissent eum in templo, concitaverunt omnem populum, et iniecerunt ei manus, clamantes:viri israelitae, adiuvate: hic est homo qui adversus populum, et legem, et locum hunc, omnes ubique docens, insuper et gentiles induxit in templum, et violavit sanctum locum istum.	2020-04-18	Actus_Apostolorum
+1100000800	viderant enim trophimum ephesium in civitate cum ipso, quem aestimaverunt quoniam in templum introduxisset paulus.	2020-04-18	Actus_Apostolorum
+1100000801	commotaque est civitas tota, et facta est concursio populi. 	2020-04-18	Actus_Apostolorum
+1100000802	et apprehendentes paulum, trahebant eum extra templum: et statim clausae sunt ianuae.	2020-04-18	Actus_Apostolorum
+1100000803	quaerentibus autem eum occidere, nuntiatum est tribuno cohortis quia tota confunditur ierusalem.	2020-04-18	Actus_Apostolorum
+1100000804	qui statim, assumptis militibus et centurionibus, decurrit ad illos. 	2020-04-18	Actus_Apostolorum
+1100000805	qui cum vidissent tribunum et milites, cessaverunt percutere paulum.	2020-04-18	Actus_Apostolorum
+1100000806	tunc accedens tribunus apprehendit eum, et iussit eum alligari catenis duabus: et interrogabat quis esset, et quid fecisset.	2020-04-18	Actus_Apostolorum
+1100000807	alii autem aliud clamabant in turba. 	2020-04-18	Actus_Apostolorum
+1100000808	et cum non posset certum cognoscere prae tumultu, iussit duci eum in castra.	2020-04-18	Actus_Apostolorum
+1100000809	et cum venisset ad gradus, contigit ut portaretur a militibus propter vim populi.	2020-04-18	Actus_Apostolorum
+1100000810	sequebatur enim multitudo populi, clamans: tolle eum.	2020-04-18	Actus_Apostolorum
+1100000811	et cum coepisset induci in castra paulus, dicit tribuno: si licet mihi loqui aliquid ad te? 	2020-04-18	Actus_Apostolorum
+1100000812	qui dixit: graece nosti?	2020-04-18	Actus_Apostolorum
+1100000813	nonne tu es aegyptius, qui ante hos dies tumultum concitasti, et eduxisti in desertum quatuor millia virorum sicariorum?	2020-04-18	Actus_Apostolorum
+1100000814	et dixit ad eum paulus: ego homo sum quidem iudaeus a tarso ciliciae, non ignotae civitatis municeps. 	2020-04-18	Actus_Apostolorum
+1100000815	rogo autem te, permitte mihi loqui ad populum.	2020-04-18	Actus_Apostolorum
+1100000816	et cum ille permisisset, paulus stans in gradibus annuit manu ad plebem, et magno silentio facto, allocutus est lingua hebraea, dicens:	2020-04-18	Actus_Apostolorum
+1100000817	caput 22	2020-04-18	Actus_Apostolorum
+1100000818	viri fratres, et patres, audite quam ad vos nunc reddo rationem.	2020-04-18	Actus_Apostolorum
+1100000819	cum audissent autem quia hebraea lingua loqueretur ad illos, magis praestiterunt silentium.	2020-04-18	Actus_Apostolorum
+1100000820	et dicit: ego sum vir iudaeus, natus in tarso ciliciae, nutritus autem in ista civitate, secus pedes gamaliel eruditus iuxta veritatem paternae legis, aemulator legis, sicut et vos omnes estis hodie:qui hanc viam persecutus sum usque ad mortem, alligans et tradens in custodias viros ac mulieres,sicut princeps sacerdotum mihi testimonium reddit, et omnes maiores natu: a quibus et epistolas accipiens, ad fratres damascum pergebam, ut adducerem inde vinctos in ierusalem ut punirentur.	2020-04-18	Actus_Apostolorum
+1100000821	factum est autem, eunte me, et appropinquante damasco media die, subito de caelo circumfulsit me lux copiosa:et decidens in terram, audivi vocem dicentem mihi: saule, saule, quid me persequeris?	2020-04-18	Actus_Apostolorum
+1100000822	ego autem respondi: quis es, domine? 	2020-04-18	Actus_Apostolorum
+1100000823	dixitque ad me: ego sum iesus nazarenus, quem tu persequeris.	2020-04-18	Actus_Apostolorum
+1100000824	et qui mecum erant, lumen quidem viderunt, vocem autem non audierunt eius qui loquebatur mecum.	2020-04-18	Actus_Apostolorum
+1100000825	et dixi: quid faciam, domine? 	2020-04-18	Actus_Apostolorum
+1100000826	dominus autem dixit ad me: surgens vade damascum: et ibi tibi dicetur de omnibus quae te oporteat facere.	2020-04-18	Actus_Apostolorum
+1100000827	et cum non viderem prae claritate luminis illius, ad manum deductus a comitibus, veni damascum.	2020-04-18	Actus_Apostolorum
+1100000828	ananias autem quidam vir secundum legem, testimonium habens ab omnibus cohabitantibus iudaeis,veniens ad me et astans, dixit mihi: saule frater, respice. 	2020-04-18	Actus_Apostolorum
+1100000829	et ego eadem hora respexi in eum.	2020-04-18	Actus_Apostolorum
+1100000830	at ille dixit: deus patrum nostrorum praeordinavit te, ut cognosceres voluntatem eius, et videres iustum, et audires vocem ex ore eius:quia eris testis illius ad omnes homines eorum quae vidisti et audisti.	2020-04-18	Actus_Apostolorum
+1100000831	et nunc quid moraris? 	2020-04-18	Actus_Apostolorum
+1100000832	exsurge, et baptizare, et ablue peccata tua, invocato nomine ipsius.	2020-04-18	Actus_Apostolorum
+1100000833	factum est autem revertenti mihi in ierusalem, et oranti in templo, fieri me in stupore mentis,et videre illum dicentem mihi: festina, et exi velociter ex ierusalem: quoniam non recipient testimonium tuum de me.	2020-04-18	Actus_Apostolorum
+1100000834	et ego dixi: domine, ipsi sciunt quia ego eram concludens in carcerem, et caedens per synagogas eos qui credebant in te:et cum funderetur sanguis stephani testis tui, ego astabam, et consentiebam, et custodiebam vestimenta interficientium illum.	2020-04-18	Actus_Apostolorum
+1100000835	et dixit ad me: vade, quoniam ego in nationes longe mittam te.	2020-04-18	Actus_Apostolorum
+1100000836	audiebant autem eum usque ad hoc verbum, et levaverunt vocem suam, dicentes: tolle de terra huiusmodi: non enim fas est eum vivere.	2020-04-18	Actus_Apostolorum
+1100000837	vociferantibus autem eis, et proiicientibus vestimenta sua, et pulverem iactantibus in aerem,iussit tribunus induci eum in castra, et flagellis caedi, et torqueri eum, ut sciret propter quam causam sic acclamarent ei.	2020-04-18	Actus_Apostolorum
+1100000838	et cum astrinxissent eum loris, dicit astanti sibi centurioni paulus: si hominem romanum et indemnatum licet vobis flagellare?	2020-04-18	Actus_Apostolorum
+1100000839	quo audito, centurio accessit ad tribunum, et nuntiavit ei, dicens: quid acturus es? 	2020-04-18	Actus_Apostolorum
+1100000840	hic enim homo civis romanus est.	2020-04-18	Actus_Apostolorum
+1100000841	accedens autem tribunus, dixit illi: dic mihi si tu romanus es? 	2020-04-18	Actus_Apostolorum
+1100000842	at ille dixit: etiam.	2020-04-18	Actus_Apostolorum
+1100000843	et respondit tribunus: ego multa summa civilitatem hanc consecutus sum. 	2020-04-18	Actus_Apostolorum
+1100000844	et paulus ait: ego autem et natus sum.	2020-04-18	Actus_Apostolorum
+1100000845	protinus ergo discesserunt ab illo qui eum torturi erant. 	2020-04-18	Actus_Apostolorum
+1100000846	tribunus quoque timuit postquam rescivit, quia civis romanus esset, et quia alligasset eum.	2020-04-18	Actus_Apostolorum
+1100000847	postera autem die volens scire diligentius qua ex causa accusaretur a iudaeis, solvit eum, et iussit sacerdotes convenire, et omne concilium: et producens paulum, statuit inter illos.	2020-04-18	Actus_Apostolorum
+1100000848	caput 23	2020-04-18	Actus_Apostolorum
+1100000849	intendens autem in concilium paulus, ait: viri fratres, ego omni conscientia bona conversatus sum ante deum usque in hodiernum diem.	2020-04-18	Actus_Apostolorum
+1100000850	princeps autem sacerdotum ananias praecepit astantibus sibi percutere os eius.	2020-04-18	Actus_Apostolorum
+1100000851	tunc paulus dixit ad eum: percutiet te deus, paries dealbate. 	2020-04-18	Actus_Apostolorum
+1100000852	et tu sedens iudicas me secundum legem, et contra legem iubes me percuti?	2020-04-18	Actus_Apostolorum
+1100000853	et qui astabant dixerunt: summum sacerdotem dei maledicis.	2020-04-18	Actus_Apostolorum
+1100000854	dixit autem paulus: nesciebam, fratres, quia princeps est sacerdotum. 	2020-04-18	Actus_Apostolorum
+1100000855	scriptum est enim: principem populi tui non maledices.	2020-04-18	Actus_Apostolorum
+1100000856	sciens autem paulus quia una pars esset sadducaeorum, et altera pharisaeorum, exclamavit in concilio: viri fratres, ego pharisaeus sum, filius pharisaeorum: de spe et resurrectione mortuorum ego iudicor.	2020-04-18	Actus_Apostolorum
+1100000857	et cum haec dixisset, facta est dissensio inter pharisaeos et sadducaeos, et soluta est multitudo.	2020-04-18	Actus_Apostolorum
+1100000858	sadducaei enim dicunt non esse resurrectionem, neque angelum, neque spiritum: pharisaei autem utraque confitentur.	2020-04-18	Actus_Apostolorum
+1100000859	factus est autem clamor magnus. 	2020-04-18	Actus_Apostolorum
+1100000860	et surgentes quidam pharisaeorum, pugnabant, dicentes: nihil mali invenimus in homine isto: quid si spiritus locutus est ei, aut angelus?	2020-04-18	Actus_Apostolorum
+1100000861	et cum magna dissensio facta esset, timens tribunus ne discerperetur paulus ab ipsis, iussit milites descendere, et rapere eum de medio eorum, ac deducere eum in castra.	2020-04-18	Actus_Apostolorum
+1100000862	sequenti autem nocte assistens ei dominus, ait: constans esto: sicut enim testificatus es de me in ierusalem, sic te oportet et romae testificari.	2020-04-18	Actus_Apostolorum
+1100000863	facta autem die collegerunt se quidam ex iudaeis, et devoverunt, se dicentes neque manducaturos, neque bibituros donec occiderent paulum.	2020-04-18	Actus_Apostolorum
+1100000864	erant autem plus quam quadraginta viri qui hanc coniurationem fecerant:qui accesserunt ad principes sacerdotum et seniores, et dixerunt: devotione devovimus nos nihil gustaturos, donec occidamus paulum.	2020-04-18	Actus_Apostolorum
+1100000865	nunc ergo vos notum facite tribuno cum concilio, ut producat illum ad vos, tamquam aliquid certius cognituri de eo. 	2020-04-18	Actus_Apostolorum
+1100000866	nos vero priusquam appropiet, parati sumus interficere illum.	2020-04-18	Actus_Apostolorum
+1100000867	quod cum audisset filius sororis pauli insidias, venit, et intravit in castra, nuntiavitque paulo.	2020-04-18	Actus_Apostolorum
+1100000868	vocans autem paulus ad se unum ex centurionibus, ait: adolescentem hunc perduc ad tribunum, habet enim aliquid indicare illi.	2020-04-18	Actus_Apostolorum
+1100000869	et ille quidem assumens eum duxit ad tribunum, et ait: vinctus paulus rogavit me hunc adolescentem perducere ad te, habentem aliquid loqui tibi.	2020-04-18	Actus_Apostolorum
+1100000870	apprehendens autem tribunus manum illius, secessit cum eo seorsum, et interrogavit illum: quid est quod habes indicare mihi?	2020-04-18	Actus_Apostolorum
+1100000871	ille autem dixit: iudaeis convenit rogare te ut crastina die producas paulum in concilium, quasi aliquid certius inquisituri sint de illo:tu vero ne credideris illis: insidiantur enim ei ex eis viri amplius quam quadraginta, qui se devoverunt non manducare, neque bibere donec interficiant eum: et nunc parati sunt, exspectantes promissum tuum.	2020-04-18	Actus_Apostolorum
+1100000872	tribunus igitur dimisit adolescentem, praecipiens ne cui loqueretur quoniam haec nota sibi fecisset.	2020-04-18	Actus_Apostolorum
+1100000873	et vocatis duobus centurionibus, dixit illis: parate milites ducentos ut eant usque caesaream, et equites septuaginta, et lancearios ducentos a tertia hora noctis,et iumenta praeparate ut imponentes paulum, salvum perducerent ad felicem praesidem.(	2020-04-18	Actus_Apostolorum
+1100000874	timuit enim ne forte raperent eum iudaei, et occiderent, et ipse postea calumniam sustineret, tamquam accepturus pecuniam.)	2020-04-18	Actus_Apostolorum
+1100000875	scribens epistolam continentem haec: claudius lysias optimo praesidi felici, salutem.	2020-04-18	Actus_Apostolorum
+1100000876	virum hunc comprehensum a iudaeis, et incipientem interfici ab eis, superveniens cum exercitu eripui, cognito quia romanus est.	2020-04-18	Actus_Apostolorum
+1100000877	volensque scire causam quam obiiciebant illi, deduxi eum in concilium eorum.	2020-04-18	Actus_Apostolorum
+1100000878	quem inveni accusari de quaestionibus legis ipsorum, nihil vero dignum morte aut vinculis habentem criminis.	2020-04-18	Actus_Apostolorum
+1100000879	et cum mihi perlatum esset de insidiis quas paraverant illi, misi eum ad te, denuntians et accusatoribus ut dicant apud te. 	2020-04-18	Actus_Apostolorum
+1100000880	vale.	2020-04-18	Actus_Apostolorum
+1100000881	milites ergo secundum praeceptum sibi assumentes paulum, duxerunt per noctem in antipatridem.	2020-04-18	Actus_Apostolorum
+1100000882	et postera die dimissis equitibus ut cum eo irent, reversi sunt ad castra.	2020-04-18	Actus_Apostolorum
+1100000883	qui cum venissent caesaream, et tradidissent epistolam praesidi, statuerunt ante illum et paulum.	2020-04-18	Actus_Apostolorum
+1100000884	cum legisset autem, et interrogasset de qua provincia esset, et cognoscens quia de cilicia:audiam te, inquit, cum accusatores tui venerint. 	2020-04-18	Actus_Apostolorum
+1100000885	iussitque in praetorio herodis custodiri eum.	2020-04-18	Actus_Apostolorum
+1100000886	caput 24	2020-04-18	Actus_Apostolorum
+1100000887	post quinque autem dies descendit princeps sacerdotum ananias, cum senioribus quibusdam, et tertullo quodam oratore, qui adierunt praesidem adversus paulum.	2020-04-18	Actus_Apostolorum
+1100000888	et citato paulo coepit accusare tertullus, dicens: cum in multa pace agamus per te, et multa corrigantur per tuam providentiam,semper et ubique suscipimus, optime felix, cum omni gratiarum actione.	2020-04-18	Actus_Apostolorum
+1100000889	ne diutius autem te protraham, oro, breviter audias nos pro tua clementia.	2020-04-18	Actus_Apostolorum
+1100000890	invenimus hunc hominem pestiferum, et concitantem seditiones omnibus iudaeis in universo orbe, et auctorem seditionis sectae nazarenorum:qui etiam templum violare conatus est, quem et apprehensum voluimus secundum legem nostram iudicare.	2020-04-18	Actus_Apostolorum
+1100000891	superveniens autem tribunus lysias, cum vi magna eripuit eum de manibus nostris,iubens accusatores eius ad te venire: a quo poteris ipse iudicans, de omnibus istis cognoscere, de quibus nos accusamus eum.	2020-04-18	Actus_Apostolorum
+1100000892	adiecerunt autem et iudaei, dicentes haec ita se habere.	2020-04-18	Actus_Apostolorum
+1100000893	respondit autem paulus (annuente sibi praeside dicere): ex multis annis te esse iudicem genti huic sciens, bono animo pro me satisfaciam.	2020-04-18	Actus_Apostolorum
+1100000894	potes enim cognoscere quia non plus sunt mihi dies quam duodecim, ex quo ascendi adorare in ierusalem:et neque in templo invenerunt me cum aliquo disputantem, aut concursum facientem turbae, neque in synagogis, neque in civitate:neque probare possunt tibi de quibus nunc me accusant.	2020-04-18	Actus_Apostolorum
+1100000895	confiteor autem hoc tibi, quod secundum sectam quam dicunt haeresim, sic deservio patri et deo meo, credens omnibus quae in lege et prophetis scripta sunt:spem habens in deum, quam et hi ipsi exspectant, resurrectionem futuram iustorum et iniquorum.	2020-04-18	Actus_Apostolorum
+1100000896	in hoc et ipse studeo sine offendiculo conscientiam habere ad deum et ad homines semper.	2020-04-18	Actus_Apostolorum
+1100000897	post annos autem plures eleemosynas facturus in gentem meam, veni, et oblationes, et vota,in quibus invenerunt me purificatum in templo: non cum turba, neque cum tumultu.	2020-04-18	Actus_Apostolorum
+1100000898	quidam autem ex asia iudaei, quos oportebat apud te praesto esse, et accusare si quid haberent adversum me:aut hi ipsi dicant si quid invenerunt in me iniquitatis cum stem in concilio,nisi de una hac solummodo voce qua clamavi inter eos stans: quoniam de resurrectione mortuorum ego iudicor hodie a vobis.	2020-04-18	Actus_Apostolorum
+1100000899	distulit autem illos felix, certissime sciens de via hac, dicens: cum tribunus lysias descenderit, audiam vos.	2020-04-18	Actus_Apostolorum
+1100000900	iussitque centurioni custodire eum, et habere requiem, nec quemquam de suis prohibere ministrare ei.	2020-04-18	Actus_Apostolorum
+1100000901	post aliquot autem dies veniens felix cum drusilla uxore sua, quae erat iudaea, vocavit paulum, et audivit ab eo fidem quae est in christum iesum.	2020-04-18	Actus_Apostolorum
+1100000902	disputante autem illo de iustitia, et castitate, et de iudicio futuro, tremefactus felix, respondit: quod nunc attinet, vade: tempore autem opportuno accersam te:simul et sperans quod pecunia ei daretur a paulo, propter quod et frequenter accersens eum, loquebatur cum eo.	2020-04-18	Actus_Apostolorum
+1100000903	biennio autem expleto, accepit successorem felix portium festum. 	2020-04-18	Actus_Apostolorum
+1100000904	volens autem gratiam praestare iudaeis felix, reliquit paulum vinctum.	2020-04-18	Actus_Apostolorum
+1100000905	caput 25	2020-04-18	Actus_Apostolorum
+1100000906	festus ergo cum venisset in provinciam, post triduum ascendit ierosolymam a caesarea.	2020-04-18	Actus_Apostolorum
+1100000907	adieruntque eum principes sacerdotum et primi iudaeorum adversus paulum: et rogabant eum,postulantes gratiam adversus eum, ut iuberet perduci eum in ierusalem, insidias tendentes ut interficerent eum in via.	2020-04-18	Actus_Apostolorum
+1100000908	festus autem respondit servari paulum in caesarea: se autem maturius profecturum.	2020-04-18	Actus_Apostolorum
+1100000909	qui ergo in vobis, ait, potentes sunt, descendentes simul, si quod est in viro crimen, accusent eum.	2020-04-18	Actus_Apostolorum
+1100000910	demoratus autem inter eos dies non amplius quam octo aut decem, descendit caesaream, et altera die sedit pro tribunali, et iussit paulum adduci.	2020-04-18	Actus_Apostolorum
+1100000911	qui cum perductus esset, circumsteterunt eum, qui ab ierosolyma descenderant iudaei, multas et graves causas obiicientes, quas non poterant probare:paulo rationem reddente: quoniam neque in legem iudaeorum, neque in templum, neque in caesarem quidquam peccavi.	2020-04-18	Actus_Apostolorum
+1100000912	festus autem volens gratiam praestare iudaeis, respondens paulo, dixit: vis ierosolymam ascendere, et ibi de his iudicari apud me?	2020-04-18	Actus_Apostolorum
+1100000913	dixit autem paulus: ad tribunal caesaris sto: ibi me oportet iudicari: iudaeis non nocui, sicut tu melius nosti.	2020-04-18	Actus_Apostolorum
+1100000914	si enim nocui, aut dignum morte aliquid feci, non recuso mori: si vero nihil est eorum quae hi accusant me, nemo potest me illis donare. 	2020-04-18	Actus_Apostolorum
+1100000915	caesarem appello.	2020-04-18	Actus_Apostolorum
+1100000916	tunc festus cum concilio locutus, respondit: caesarem appellasti? 	2020-04-18	Actus_Apostolorum
+1100000917	ad caesarem ibis.	2020-04-18	Actus_Apostolorum
+1100000918	et cum dies aliquot transacti essent, agrippa rex et bernice descenderunt caesaream ad salutandum festum.	2020-04-18	Actus_Apostolorum
+1100000919	et cum dies plures ibi demorarentur, festus regi indicavit de paulo, dicens: vir quidam est derelictus a felice vinctus,de quo cum essem ierosolymis, adierunt me principes sacerdotum et seniores iudaeorum, postulantes adversus illum damnationem.	2020-04-18	Actus_Apostolorum
+1100000920	ad quos respondi: quia non est romanis consuetudo damnare aliquem hominem priusquam is qui accusatur praesentes habeat accusatores, locumque defendendi accipiat ad abluenda crimina.	2020-04-18	Actus_Apostolorum
+1100000921	cum ergo huc convenissent sine ulla dilatione, sequenti die sedens pro tribunali, iussi adduci virum.	2020-04-18	Actus_Apostolorum
+1100000922	de quo, cum stetissent accusatores, nullam causam deferebant, de quibus ego suspicabar malum.	2020-04-18	Actus_Apostolorum
+1100000923	quaestiones vero quasdam de sua superstitione habebant adversus eum, et de quodam iesu defuncto, quem affirmabat paulus vivere.	2020-04-18	Actus_Apostolorum
+1100000924	haesitans autem ego de huiusmodi quaestione, dicebam si vellet ire ierosolymam, et ibi iudicari de istis.	2020-04-18	Actus_Apostolorum
+1100000925	paulo autem appellante ut servaretur ad augusti cognitionem, iussi servari eum, donec mittam eum ad caesarem.	2020-04-18	Actus_Apostolorum
+1100000926	agrippa autem dixit ad festum: volebam et ipse hominem audire. 	2020-04-18	Actus_Apostolorum
+1100000927	cras, inquit, audies eum.	2020-04-18	Actus_Apostolorum
+1100000928	altera autem die cum venisset agrippa et bernice cum multa ambitione, et introissent in auditorium cum tribunis et viris principalibus civitatis, iubente festo, adductus est paulus.	2020-04-18	Actus_Apostolorum
+1100000929	et dicit festus: agrippa rex, et omnes qui simul adestis nobiscum viri, videtis hunc de quo omnis multitudo iudaeorum interpellavit me ierosolymis, petentes et acclamantes non oportere eum vivere amplius.	2020-04-18	Actus_Apostolorum
+1100000930	ego vere comperi nihil dignum morte eum admisisse. 	2020-04-18	Actus_Apostolorum
+1100000931	ipso autem hoc appellante ad augustum, iudicavi mittere.	2020-04-18	Actus_Apostolorum
+1100000932	de quo quid certum scribam domino, non habeo. 	2020-04-18	Actus_Apostolorum
+1100000933	propter quod produxi eum ad vos, et maxime ad te, rex agrippa, ut interrogatione facta habeam quid scribam.	2020-04-18	Actus_Apostolorum
+1100000934	sine ratione enim mihi videtur mittere vinctum, et causas eius non significare.	2020-04-18	Actus_Apostolorum
+1100000935	caput 26	2020-04-18	Actus_Apostolorum
+1100000936	agrippa vero ad paulum ait: permittitur tibi loqui pro temetipso. 	2020-04-18	Actus_Apostolorum
+1100000937	tunc paulus extenta manu coepit rationem reddere:de omnibus quibus accusor a iudaeis, rex agrippa, aestimo me beatum apud te cum sim defensurus me hodie,maxime te sciente omnia, et quae apud iudaeos sunt consuetudines et quaestiones: propter quod obsecro patienter me audias.	2020-04-18	Actus_Apostolorum
+1100000938	et quidem vitam meam a iuventute, quae ab initio fuit in gente mea in ierosolymis, noverunt omnes iudaei:praescientes me ab initio (si velint testimonium perhibere) quoniam secundum certissimam sectam nostrae religionis vixi pharisaeus.	2020-04-18	Actus_Apostolorum
+1100000939	et nunc, in spe quae ad patres nostros repromissionis facta est a deo, sto iudicio subiectus:in quam duodecim tribus nostrae nocte ac die deservientes, sperant devenire. 	2020-04-18	Actus_Apostolorum
+1100000940	de qua spe accusor a iudaeis, rex.	2020-04-18	Actus_Apostolorum
+1100000941	quid incredibile iudicatur apud vos, si deus mortuos suscitat?	2020-04-18	Actus_Apostolorum
+1100000942	et ego quidem existimaveram me adversus nomen iesu nazareni debere multa contraria agere,quod et feci ierosolymis, et multos sanctorum ego in carceribus inclusi, a principibus sacerdotum potestate accepta: et cum occiderentur, detuli sententiam.	2020-04-18	Actus_Apostolorum
+1100000943	et per omnes synagogas frequenter puniens eos, compellebam blasphemare: et amplius insaniens in eos, persequebar usque in exteras civitates.	2020-04-18	Actus_Apostolorum
+1100000944	in quibus dum irem damascum cum potestate et permissu principum sacerdotum,die media in via vidi, rex, de caelo supra splendorem solis circumfulsisse me lumen, et eos qui mecum simul erant.	2020-04-18	Actus_Apostolorum
+1100000945	omnesque nos cum decidissemus in terram, audivi vocem loquentem mihi hebraica lingua: saule, saule, quid me persequeris? 	2020-04-18	Actus_Apostolorum
+1100000946	durum est tibi contra stimulum calcitrare.	2020-04-18	Actus_Apostolorum
+1100000947	ego autem dixi: quis es, domine? 	2020-04-18	Actus_Apostolorum
+1100000948	dominus autem dixit: ego sum iesus, quem tu persequeris.	2020-04-18	Actus_Apostolorum
+1100000949	sed exsurge, et sta super pedes tuos: ad hoc enim apparui tibi, ut constituam te ministrum, et testem eorum quae vidisti, et eorum quibus apparebo tibi,eripiens te de populo et gentibus, in quas nunc ego mitto te,aperire oculos eorum, ut convertantur a tenebris ad lucem, et de potestate satanae ad deum, ut accipiant remissionem peccatorum, et sortem inter sanctos, per fidem quae est in me.	2020-04-18	Actus_Apostolorum
+1100000950	unde, rex agrippa, non fui incredulus caelesti visioni:sed his qui sunt damasci primum, et ierosolymis, et in omnem regionem iudaeae, et gentibus, annuntiabam, ut poenitentiam agerent, et converterentur ad deum, digna poenitentiae opera facientes.	2020-04-18	Actus_Apostolorum
+1100000951	hac ex causa me iudaei, cum essem in templo, comprehensum tentabant interficere.	2020-04-18	Actus_Apostolorum
+1100000952	auxilio autem adiutus dei usque in hodiernum diem, sto, testificans minori atque maiori, nihil extra dicens quam ea quae prophetae locuti sunt futura esse, et moyses,si passibilis christus, si primus ex resurrectione mortuorum, lumen annuntiaturus est populo et gentibus.	2020-04-18	Actus_Apostolorum
+1100000953	haec loquente eo, et rationem reddente, festus magna voce dixit: insanis, paule: multae te litterae ad insaniam convertunt.	2020-04-18	Actus_Apostolorum
+1100000954	et paulus: non insanio, inquit, optime feste, sed veritatis et sobrietatis verba loquor.	2020-04-18	Actus_Apostolorum
+1100000955	scit enim de his rex, ad quem et constanter loquor: latere enim eum nihil horum arbitror. 	2020-04-18	Actus_Apostolorum
+1100000956	neque enim in angulo quidquam horum gestum est.	2020-04-18	Actus_Apostolorum
+1100000957	credis, rex agrippa, prophetis? 	2020-04-18	Actus_Apostolorum
+1100000958	scio quia credis.	2020-04-18	Actus_Apostolorum
+1100000959	agrippa autem ad paulum: in modico suades me christianum fieri.	2020-04-18	Actus_Apostolorum
+1100000960	et paulus: opto apud deum, et in modico et in magno, non tantum te, sed etiam omnes qui audiunt hodie fieri tales, qualis et ego sum, exceptis vinculis his.	2020-04-18	Actus_Apostolorum
+1100000961	et exsurrexit rex, et praeses, et bernice, et qui assidebant eis.	2020-04-18	Actus_Apostolorum
+1100000962	et cum secessissent, loquebantur ad invicem, dicentes: quia nihil morte aut vinculis dignum quid fecit homo iste.	2020-04-18	Actus_Apostolorum
+1100000963	agrippa autem festo dixit: dimitti poterat homo hic, si non appellasset caesarem.	2020-04-18	Actus_Apostolorum
+1100000964	caput 27	2020-04-18	Actus_Apostolorum
+1100000965	ut autem iudicatum est navigare eum in italiam, et tradi paulum cum reliquis custodiis centurioni nomine iulio cohortis augustae,ascendentes navem adrumetinam, incipientes navigare circa asiae loca, sustulimus, perseverante nobiscum aristarcho macedone thessalonicensi.	2020-04-18	Actus_Apostolorum
+1100000966	sequenti autem die devenimus sidonem. 	2020-04-18	Actus_Apostolorum
+1100000967	humane autem tractans iulius paulum, permisit ad amicos ire, et curam sui agere.	2020-04-18	Actus_Apostolorum
+1100000968	et inde cum sustulissemus, subnavigavimus cyprum, propterea quod essent venti contrarii.	2020-04-18	Actus_Apostolorum
+1100000969	et pelagus ciliciae et pamphyliae navigantes, venimus lystram, quae est lyciae:et ibi inveniens centurio navem alexandrinam navigantem in italiam, transposuit nos in eam.	2020-04-18	Actus_Apostolorum
+1100000970	et cum multis diebus tarde navigaremus, et vix devenissemus contra gnidum, prohibente nos vento, adnavigavimus cretae iuxta salmonem:et vix iuxta navigantes, venimus in locum quemdam qui vocatur boniportus, cui iuxta erat civitas thalassa.	2020-04-18	Actus_Apostolorum
+1100000971	multo autem tempore peracto, et cum iam non esset tuta navigatio eo quod et ieiunium iam praeteriisset, consolabatur eos paulus,dicens eis: viri, video quoniam cum iniuria et multo damno non solum oneris, et navis, sed etiam animarum nostrarum incipit esse navigatio.	2020-04-18	Actus_Apostolorum
+1100000972	centurio autem gubernatori et nauclero magis credebat, quam his quae a paulo dicebantur.	2020-04-18	Actus_Apostolorum
+1100000973	et cum aptus portus non esset ad hiemandum, plurimi statuerunt consilium navigare inde, si quomodo possent, devenientes phoenicen hiemare, portum cretae respicientem ad africum et ad corum.	2020-04-18	Actus_Apostolorum
+1100000974	aspirante autem austro, aestimantes propositum se tenere, cum sustulissent de asson, legebant cretam.	2020-04-18	Actus_Apostolorum
+1100000975	non post multum autem misit se contra ipsam ventus typhonicus, qui vocatur euroaquilo.	2020-04-18	Actus_Apostolorum
+1100000976	cumque arrepta esset navis, et non posset conari in ventum, data nave flatibus, ferebamur.	2020-04-18	Actus_Apostolorum
+1100000977	in insulam autem quamdam decurrentes, quae vocatur cauda, potuimus vix obtinere scapham.	2020-04-18	Actus_Apostolorum
+1100000978	qua sublata, adiutoriis utebantur, accingentes navem, timentes ne in syrtim inciderent, summisso vase sic ferebantur.	2020-04-18	Actus_Apostolorum
+1100000979	valida autem nobis tempestate iactatis, sequenti die iactum fecerunt:et tertia die suis manibus armamenta navis proiecerunt.	2020-04-18	Actus_Apostolorum
+1100000980	neque autem sole, neque sideribus apparentibus per plures dies, et tempestate non exigua imminente, iam ablata erat spes omnis salutis nostrae.	2020-04-18	Actus_Apostolorum
+1100000981	et cum multa ieiunatio fuisset, tunc stans paulus in medio eorum, dixit: oportebat quidem, o viri, audito me, non tollere a creta, lucrique facere iniuriam hanc et iacturam.	2020-04-18	Actus_Apostolorum
+1100000982	et nunc suadeo vobis bono animo esse: amissio enim nullius animae erit ex vobis, praeterquam navis.	2020-04-18	Actus_Apostolorum
+1100000983	astitit enim mihi hac nocte angelus dei, cuius sum ego, et cui deservio,dicens: ne timeas, paule: caesari te oportet assistere: et ecce donavit tibi deus omnes qui navigant tecum.	2020-04-18	Actus_Apostolorum
+1100000984	propter quod bono animo estote, viri: credo enim deo quia sic erit, quemadmodum dictum est mihi.	2020-04-18	Actus_Apostolorum
+1100000985	in insulam autem quamdam oportet nos devenire.	2020-04-18	Actus_Apostolorum
+1100000986	sed posteaquam quartadecima nox supervenit, navigantibus nobis in adria circa mediam noctem, suspicabantur nautae apparere sibi aliquam regionem.	2020-04-18	Actus_Apostolorum
+1100000987	qui et summittentes bolidem, invenerunt passus viginti: et pusillum inde separati, invenerunt passus quindecim.	2020-04-18	Actus_Apostolorum
+1100000988	timentes autem ne in aspera loca incideremus, de puppi mittentes anchoras quatuor, optabant diem fieri.	2020-04-18	Actus_Apostolorum
+1100000989	nautis vero quaerentibus fugere de navi, cum misissent scapham in mare, sub obtentu quasi inciperent a prora anchoras extendere,dixit paulus centurioni et militibus: nisi hi in navi manserint, vos salvi fieri non potestis.	2020-04-18	Actus_Apostolorum
+1100000990	tunc absciderunt milites funes scaphae, et passi sunt eam excidere.	2020-04-18	Actus_Apostolorum
+1100000991	et cum lux inciperet fieri, rogabat paulus omnes sumere cibum, dicens: quartadecima die hodie exspectantes ieiuni permanetis, nihil accipientes.	2020-04-18	Actus_Apostolorum
+1100000992	propter quod rogo vos accipere cibum pro salute vestra: quia nullius vestrum capillus de capite peribit.	2020-04-18	Actus_Apostolorum
+1100000993	et cum haec dixisset, sumens panem, gratias egit deo in conspectu omnium: et cum fregisset, coepit manducare.	2020-04-18	Actus_Apostolorum
+1100000994	animaequiores autem facti omnes, et ipsi sumpserunt cibum.	2020-04-18	Actus_Apostolorum
+1100000995	eramus vero universae animae in navi ducentae septuaginta sex.	2020-04-18	Actus_Apostolorum
+1100000996	et satiati cibo alleviabant navem, iactantes triticum in mare.	2020-04-18	Actus_Apostolorum
+1100000997	cum autem dies factus esset, terram non agnoscebant: sinum vero quemdam considerabant habentem littus, in quem cogitabant si possent eiicere navem.	2020-04-18	Actus_Apostolorum
+1100000998	et cum anchoras sustulissent, committebant se mari, simul laxantes iuncturas gubernaculorum: et levato artemone secundum aurae flatum, tendebant ad littus.	2020-04-18	Actus_Apostolorum
+1100000999	et cum incidissemus in locum dithalassum, impegerunt navem: et prora quidem fixa manebat immobilis, puppis vero solvebatur a vi maris.	2020-04-18	Actus_Apostolorum
+1100001000	militum autem consilium fuit ut custodias occiderent, ne quis cum enatasset, effugeret.	2020-04-18	Actus_Apostolorum
+1100001001	centurio autem volens servare paulum, prohibuit fieri: iussitque eos qui possent natare, emittere se primos, et evadere, et ad terram exire:et ceteros, alios in tabulis ferebant, quosdam super ea quae de navi erant. 	2020-04-18	Actus_Apostolorum
+1100001002	et sic factum est, ut omnes animae evaderent ad terram.	2020-04-18	Actus_Apostolorum
+1100001003	caput 28	2020-04-18	Actus_Apostolorum
+1100001004	et cum evasissemus, tunc cognovimus quia melita insula vocabatur. 	2020-04-18	Actus_Apostolorum
+1100001005	barbari vero praestabant non modicam humanitatem nobis.	2020-04-18	Actus_Apostolorum
+1100001006	accensa enim pyra, reficiebant nos omnes propter imbrem qui imminebat, et frigus.	2020-04-18	Actus_Apostolorum
+1100001007	cum congregasset autem paulus sarmentorum aliquantam multitudinem, et imposuisset super ignem, vipera a calore cum processisset, invasit manum eius.	2020-04-18	Actus_Apostolorum
+1100001008	ut vero viderunt barbari pendentem bestiam de manu eius, ad invicem dicebant: utique homicida est homo hic, qui cum evaserit de mari, ultio non sinit eum vivere.	2020-04-18	Actus_Apostolorum
+1100001009	et ille quidem excutiens bestiam in ignem, nihil mali passus est.	2020-04-18	Actus_Apostolorum
+1100001010	at illi existimabant eum in tumorem convertendum, et subito casurum et mori. 	2020-04-18	Actus_Apostolorum
+1100001011	diu autem illis exspectantibus, et videntibus nihil mali in eo fieri, convertentes se, dicebant eum esse deum.	2020-04-18	Actus_Apostolorum
+1100001012	in locis autem illis erant praedia principis insulae, nomine publii, qui nos suscipiens, triduo benigne exhibuit.	2020-04-18	Actus_Apostolorum
+1100001013	contigit autem patrem publii febribus et dysenteria vexatum iacere. 	2020-04-18	Actus_Apostolorum
+1100001014	ad quem paulus intravit: et cum orasset, et imposuisset ei manus, salvavit eum.	2020-04-18	Actus_Apostolorum
+1100001015	quo facto, omnes qui in insula habebant infirmitates, accedebant, et curabantur:qui etiam multis honoribus nos honoraverunt, et navigantibus imposuerunt quae necessaria erant.	2020-04-18	Actus_Apostolorum
+1100001016	post menses autem tres navigavimus in navi alexandrina, quae in insula hiemaverat, cui erat insigne castorum.	2020-04-18	Actus_Apostolorum
+1100001017	et cum venissemus syracusam, mansimus ibi triduo.	2020-04-18	Actus_Apostolorum
+1100001018	inde circumlegentes devenimus rhegium: et post unum diem, flante austro, secunda die venimus puteolos:ubi inventis fratribus rogati sumus manere apud eos dies septem: et sic venimus romam.	2020-04-18	Actus_Apostolorum
+1100001019	et inde cum audissent fratres, occurrerunt nobis usque ad appii forum, ac tres tabernas. 	2020-04-18	Actus_Apostolorum
+1100001020	quos cum vidisset paulus, gratias agens deo, accepit fiduciam.	2020-04-18	Actus_Apostolorum
+1100001021	cum autem venissemus romam, permissum est paulo manere sibimet cum custodiente se milite.	2020-04-18	Actus_Apostolorum
+1100001022	post tertium autem diem convocavit primos iudaeorum. 	2020-04-18	Actus_Apostolorum
+1100001023	cumque convenissent, dicebat eis: ego, viri fratres, nihil adversus plebem faciens, aut morem paternum, vinctus ab ierosolymis traditus sum in manus romanorum,qui cum interrogationem de me habuissent, voluerunt me dimittere, eo quod nulla esset causa mortis in me.	2020-04-18	Actus_Apostolorum
+1100001024	contradicentibus autem iudaeis, coactus sum appellare caesarem, non quasi gentem meam habens aliquid accusare.	2020-04-18	Actus_Apostolorum
+1100001025	propter hanc igitur causam rogavi vos videre, et alloqui. 	2020-04-18	Actus_Apostolorum
+1100001026	propter spem enim israel catena hac circumdatus sum.	2020-04-18	Actus_Apostolorum
+1100001027	at illi dixerunt ad eum: nos neque litteras accepimus de te a iudaea, neque adveniens aliquis fratrum nuntiavit, aut locutus est quid de te malum.	2020-04-18	Actus_Apostolorum
+1100001028	rogamus autem a te audire quae sentis: nam de secta hac notum est nobis quia ubique ei contradicitur.	2020-04-18	Actus_Apostolorum
+1100001029	cum constituissent autem illi diem, venerunt ad eum in hospitium plurimi, quibus exponebat testificans regnum dei, suadensque eis de iesu ex lege moysi et prophetis a mane usque ad vesperam.	2020-04-18	Actus_Apostolorum
+1100001030	et quidam credebant his quae dicebantur: quidam vero non credebant.	2020-04-18	Actus_Apostolorum
+1100001031	cumque invicem non essent consentientes, discedebant, dicente paulo unum verbum: quia bene spiritus sanctus locutus est per isaiam prophetam ad patres nostros,dicens: vade ad populum istum, et dic ad eos:	2020-04-18	Actus_Apostolorum
+1100001032	aure audietis, et non intelligetis,	2020-04-18	Actus_Apostolorum
+1100001033	et videntes videbitis, et non perspicietis.	2020-04-18	Actus_Apostolorum
+1100001034	incrassatum est enim cor populi huius,	2020-04-18	Actus_Apostolorum
+1100001035	et auribus graviter audierunt,	2020-04-18	Actus_Apostolorum
+1100001036	et oculos suos compresserunt:	2020-04-18	Actus_Apostolorum
+1100001037	ne forte videant oculis,	2020-04-18	Actus_Apostolorum
+1100001038	et auribus audiant,	2020-04-18	Actus_Apostolorum
+1100001039	et corde intelligant, et convertantur,	2020-04-18	Actus_Apostolorum
+1100001040	et sanem eos.	2020-04-18	Actus_Apostolorum
+1100001041	notum ergo sit vobis, quoniam gentibus missum est hoc salutare dei, et ipsi audient.	2020-04-18	Actus_Apostolorum
+1100001042	et cum haec dixisset, exierunt ab eo iudaei, multam habentes inter se quaestionem.	2020-04-18	Actus_Apostolorum
+1100001043	mansit autem biennio toto in suo conducto: et suscipiebat omnes qui ingrediebantur ad eum,praedicans regnum dei, et docens quae sunt de domino iesu christo cum omni fiducia, sine prohibitione.	2020-04-18	Actus_Apostolorum

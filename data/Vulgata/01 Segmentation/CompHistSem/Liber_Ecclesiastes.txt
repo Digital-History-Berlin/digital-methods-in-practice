@@ -1,0 +1,687 @@
+1100000001	liber ecclesiastes	2020-04-18	Liber_Ecclesiastes
+1100000002	caput 1	2020-04-18	Liber_Ecclesiastes
+1100000003	verba ecclesiastae, filii david, regis ierusalem.	2020-04-18	Liber_Ecclesiastes
+1100000004	vanitas vanitatum, dixit ecclesiastes;	2020-04-18	Liber_Ecclesiastes
+1100000005	vanitas vanitatum, et omnia vanitas.	2020-04-18	Liber_Ecclesiastes
+1100000006	quid habet amplius homo	2020-04-18	Liber_Ecclesiastes
+1100000007	de universo labore suo quo laborat sub sole?	2020-04-18	Liber_Ecclesiastes
+1100000008	generatio praeterit, et generatio advenit;	2020-04-18	Liber_Ecclesiastes
+1100000009	terra autem in aeternum stat.	2020-04-18	Liber_Ecclesiastes
+1100000010	oritur sol et occidit,	2020-04-18	Liber_Ecclesiastes
+1100000011	et ad locum suum revertitur;	2020-04-18	Liber_Ecclesiastes
+1100000012	ibique renascens,gyrat per meridiem, et flectitur ad aquilonem.	2020-04-18	Liber_Ecclesiastes
+1100000013	lustrans universa in circuitu pergit spiritus,	2020-04-18	Liber_Ecclesiastes
+1100000014	et in circulos suos revertitur.	2020-04-18	Liber_Ecclesiastes
+1100000015	omnia flumina intrant in mare,	2020-04-18	Liber_Ecclesiastes
+1100000016	et mare non redundat;	2020-04-18	Liber_Ecclesiastes
+1100000017	ad locum unde exeunt flumina	2020-04-18	Liber_Ecclesiastes
+1100000018	revertuntur ut iterum fluant.	2020-04-18	Liber_Ecclesiastes
+1100000019	cunctae res difficiles;	2020-04-18	Liber_Ecclesiastes
+1100000020	non potest eas homo explicare sermone.	2020-04-18	Liber_Ecclesiastes
+1100000021	non saturatur oculus visu,	2020-04-18	Liber_Ecclesiastes
+1100000022	nec auris auditu impletur.	2020-04-18	Liber_Ecclesiastes
+1100000023	quid est quod fuit? 	2020-04-18	Liber_Ecclesiastes
+1100000024	ipsum quod futurum est.	2020-04-18	Liber_Ecclesiastes
+1100000025	quid est quod factum est? 	2020-04-18	Liber_Ecclesiastes
+1100000026	ipsum quod faciendum est.	2020-04-18	Liber_Ecclesiastes
+1100000027	nihil sub sole novum,	2020-04-18	Liber_Ecclesiastes
+1100000028	nec valet quisquam dicere: ecce hoc recens est:	2020-04-18	Liber_Ecclesiastes
+1100000029	iam enim praecessit in saeculis quae fuerunt ante nos.	2020-04-18	Liber_Ecclesiastes
+1100000030	non est priorum memoria;	2020-04-18	Liber_Ecclesiastes
+1100000031	sed nec eorum quidem quae postea futura sunt	2020-04-18	Liber_Ecclesiastes
+1100000032	erit recordatio apud eos qui futuri sunt in novissimo.	2020-04-18	Liber_Ecclesiastes
+1100000033	ego ecclesiastes fui rex israel in ierusalem;	2020-04-18	Liber_Ecclesiastes
+1100000034	et proposui in animo meo quaerere et investigare sapienter	2020-04-18	Liber_Ecclesiastes
+1100000035	de omnibus quae fiunt sub sole.	2020-04-18	Liber_Ecclesiastes
+1100000036	hanc occupationem pessimam	2020-04-18	Liber_Ecclesiastes
+1100000037	dedit deus filiis hominum, ut occuparentur in ea.	2020-04-18	Liber_Ecclesiastes
+1100000038	vidi cuncta quae fiunt sub sole,	2020-04-18	Liber_Ecclesiastes
+1100000039	et ecce universa vanitas et afflictio spiritus.	2020-04-18	Liber_Ecclesiastes
+1100000040	perversi difficile corriguntur,	2020-04-18	Liber_Ecclesiastes
+1100000041	et stultorum infinitus est numerus.	2020-04-18	Liber_Ecclesiastes
+1100000042	locutus sum in corde meo, dicens:	2020-04-18	Liber_Ecclesiastes
+1100000043	ecce magnus effectus sum, et praecessi omnes sapientia	2020-04-18	Liber_Ecclesiastes
+1100000044	qui fuerunt ante me in ierusalem;	2020-04-18	Liber_Ecclesiastes
+1100000045	et mens mea contemplata est multa sapienter, et didici.	2020-04-18	Liber_Ecclesiastes
+1100000046	dedique cor meum ut scirem prudentiam atque doctrinam,	2020-04-18	Liber_Ecclesiastes
+1100000047	erroresque et stultitiam;	2020-04-18	Liber_Ecclesiastes
+1100000048	et agnovi quod in his quoque esset labor et afflictio spiritus:	2020-04-18	Liber_Ecclesiastes
+1100000049	eo quod in multa sapientia multa sit indignatio;	2020-04-18	Liber_Ecclesiastes
+1100000050	et qui addit scientiam, addit et laborem.	2020-04-18	Liber_Ecclesiastes
+1100000051	caput 2	2020-04-18	Liber_Ecclesiastes
+1100000052	dixi ego in corde meo: vadam,	2020-04-18	Liber_Ecclesiastes
+1100000053	et affluam deliciis, et fruar bonis;	2020-04-18	Liber_Ecclesiastes
+1100000054	et vidi quod hoc quoque esset vanitas.	2020-04-18	Liber_Ecclesiastes
+1100000055	risum reputavi errorem,	2020-04-18	Liber_Ecclesiastes
+1100000056	et gaudio dixi: quid frustra deciperis?	2020-04-18	Liber_Ecclesiastes
+1100000057	cogitavi in corde meo abstrahere a vino carnem meam,	2020-04-18	Liber_Ecclesiastes
+1100000058	ut animam meam transferrem ad sapientiam,	2020-04-18	Liber_Ecclesiastes
+1100000059	devitaremque stultitiam,	2020-04-18	Liber_Ecclesiastes
+1100000060	donec viderem quid esset utile filiis hominum,	2020-04-18	Liber_Ecclesiastes
+1100000061	quo facto opus est sub sole numero dierum vitae suae.	2020-04-18	Liber_Ecclesiastes
+1100000062	magnificavi opera mea,	2020-04-18	Liber_Ecclesiastes
+1100000063	aedificavi mihi domos,	2020-04-18	Liber_Ecclesiastes
+1100000064	et plantavi vineas;	2020-04-18	Liber_Ecclesiastes
+1100000065	feci hortos et pomaria,	2020-04-18	Liber_Ecclesiastes
+1100000066	et consevi ea cuncti generis arboribus;	2020-04-18	Liber_Ecclesiastes
+1100000067	et exstruxi mihi piscinas aquarum,	2020-04-18	Liber_Ecclesiastes
+1100000068	ut irrigarem silvam lignorum germinantium.	2020-04-18	Liber_Ecclesiastes
+1100000069	possedi servos et ancillas,	2020-04-18	Liber_Ecclesiastes
+1100000070	multamque familiam habui:	2020-04-18	Liber_Ecclesiastes
+1100000071	armenta quoque, et magnos ovium greges,	2020-04-18	Liber_Ecclesiastes
+1100000072	ultra omnes qui fuerunt ante me in ierusalem;	2020-04-18	Liber_Ecclesiastes
+1100000073	coacervavi mihi argentum et aurum,	2020-04-18	Liber_Ecclesiastes
+1100000074	et substantias regum ac provinciarum;	2020-04-18	Liber_Ecclesiastes
+1100000075	feci mihi cantores et cantatrices,	2020-04-18	Liber_Ecclesiastes
+1100000076	et delicias filiorum hominum,	2020-04-18	Liber_Ecclesiastes
+1100000077	scyphos, et urceos in ministerio ad vina fundenda;	2020-04-18	Liber_Ecclesiastes
+1100000078	et supergressus sum opibus	2020-04-18	Liber_Ecclesiastes
+1100000079	omnes qui ante me fuerunt in ierusalem:	2020-04-18	Liber_Ecclesiastes
+1100000080	sapientia quoque perseveravit mecum.	2020-04-18	Liber_Ecclesiastes
+1100000081	et omnia quae desideraverunt oculi mei	2020-04-18	Liber_Ecclesiastes
+1100000082	non negavi eis,	2020-04-18	Liber_Ecclesiastes
+1100000083	nec prohibui cor meum quin omni voluptate frueretur,	2020-04-18	Liber_Ecclesiastes
+1100000084	et oblectaret se in his quae praeparaveram;	2020-04-18	Liber_Ecclesiastes
+1100000085	et hanc ratus sum partem meam si uterer labore meo.	2020-04-18	Liber_Ecclesiastes
+1100000086	cumque me convertissem ad universa opera quae fecerant manus meae,	2020-04-18	Liber_Ecclesiastes
+1100000087	et ad labores in quibus frustra sudaveram,	2020-04-18	Liber_Ecclesiastes
+1100000088	vidi in omnibus vanitatem et afflictionem animi,	2020-04-18	Liber_Ecclesiastes
+1100000089	et nihil permanere sub sole.	2020-04-18	Liber_Ecclesiastes
+1100000090	transivi ad contemplandam sapientiam,	2020-04-18	Liber_Ecclesiastes
+1100000091	erroresque, et stultitiam.	2020-04-18	Liber_Ecclesiastes
+1100000092	(quid est, inquam, homo,	2020-04-18	Liber_Ecclesiastes
+1100000093	ut sequi possit regem, factorem suum?)	2020-04-18	Liber_Ecclesiastes
+1100000094	et vidi quod tantum praecederet sapientia stultitiam,	2020-04-18	Liber_Ecclesiastes
+1100000095	quantum differt lux a tenebris.	2020-04-18	Liber_Ecclesiastes
+1100000096	sapientis oculi in capite eius;	2020-04-18	Liber_Ecclesiastes
+1100000097	stultus in tenebris ambulat:	2020-04-18	Liber_Ecclesiastes
+1100000098	et didici quod unus utriusque esset interitus.	2020-04-18	Liber_Ecclesiastes
+1100000099	et dixi in corde meo:	2020-04-18	Liber_Ecclesiastes
+1100000100	si unus et stulti et meus occasus erit,	2020-04-18	Liber_Ecclesiastes
+1100000101	quid mihi prodest quod maiorem sapientiae dedi operam?	2020-04-18	Liber_Ecclesiastes
+1100000102	locutusque cum mente mea,	2020-04-18	Liber_Ecclesiastes
+1100000103	animadverti quod hoc quoque esset vanitas.	2020-04-18	Liber_Ecclesiastes
+1100000104	non enim erit memoria sapientis similiter ut stulti in perpetuum,	2020-04-18	Liber_Ecclesiastes
+1100000105	et futura tempora oblivione cuncta pariter operient:	2020-04-18	Liber_Ecclesiastes
+1100000106	moritur doctus similiter ut indoctus.	2020-04-18	Liber_Ecclesiastes
+1100000107	et idcirco taeduit me vitae meae,	2020-04-18	Liber_Ecclesiastes
+1100000108	videntem mala universa esse sub sole,	2020-04-18	Liber_Ecclesiastes
+1100000109	et cuncta vanitatem et afflictionem spiritus.	2020-04-18	Liber_Ecclesiastes
+1100000110	rursus detestatus sum omnem industriam meam,	2020-04-18	Liber_Ecclesiastes
+1100000111	qua sub sole studiosissime laboravi,	2020-04-18	Liber_Ecclesiastes
+1100000112	habiturus haeredem post me,	2020-04-18	Liber_Ecclesiastes
+1100000113	quem ignoro utrum sapiens an stultus futurus sit,	2020-04-18	Liber_Ecclesiastes
+1100000114	et dominabitur in laboribus meis,	2020-04-18	Liber_Ecclesiastes
+1100000115	quibus desudavi et sollicitus fui:	2020-04-18	Liber_Ecclesiastes
+1100000116	et est quidquam tam vanum?	2020-04-18	Liber_Ecclesiastes
+1100000117	unde cessavi,	2020-04-18	Liber_Ecclesiastes
+1100000118	renuntiavitque cor meum ultra laborare sub sole.	2020-04-18	Liber_Ecclesiastes
+1100000119	nam cum alius laboret in sapientia,	2020-04-18	Liber_Ecclesiastes
+1100000120	et doctrina, et sollicitudine,	2020-04-18	Liber_Ecclesiastes
+1100000121	homini otioso quaesita dimittit;	2020-04-18	Liber_Ecclesiastes
+1100000122	et hoc ergo vanitas et magnum malum.	2020-04-18	Liber_Ecclesiastes
+1100000123	quid enim proderit homini de universo labore suo,	2020-04-18	Liber_Ecclesiastes
+1100000124	et afflictione spiritus,	2020-04-18	Liber_Ecclesiastes
+1100000125	qua sub sole cruciatus est?	2020-04-18	Liber_Ecclesiastes
+1100000126	cuncti dies eius doloribus et aerumnis pleni sunt,	2020-04-18	Liber_Ecclesiastes
+1100000127	nec per noctem mente requiescit.	2020-04-18	Liber_Ecclesiastes
+1100000128	et hoc nonne vanitas est?	2020-04-18	Liber_Ecclesiastes
+1100000129	nonne melius est comedere et bibere,	2020-04-18	Liber_Ecclesiastes
+1100000130	et ostendere animae suae bona de laboribus suis?	2020-04-18	Liber_Ecclesiastes
+1100000131	et hoc de manu dei est.	2020-04-18	Liber_Ecclesiastes
+1100000132	quis ita devorabit et deliciis affluet ut ego?	2020-04-18	Liber_Ecclesiastes
+1100000133	homini bono in conspectu suo	2020-04-18	Liber_Ecclesiastes
+1100000134	dedit deus sapientiam, et scientiam, et laetitiam;	2020-04-18	Liber_Ecclesiastes
+1100000135	peccatori autem dedit afflictionem et curam superfluam,	2020-04-18	Liber_Ecclesiastes
+1100000136	ut addat, et congreget,	2020-04-18	Liber_Ecclesiastes
+1100000137	et tradat ei qui placuit deo;	2020-04-18	Liber_Ecclesiastes
+1100000138	sed et hoc vanitas est, et cassa sollicitudo mentis.	2020-04-18	Liber_Ecclesiastes
+1100000139	caput 3	2020-04-18	Liber_Ecclesiastes
+1100000140	omnia tempus habent,	2020-04-18	Liber_Ecclesiastes
+1100000141	et suis spatiis transeunt universa sub caelo.	2020-04-18	Liber_Ecclesiastes
+1100000142	tempus nascendi, et tempus moriendi;	2020-04-18	Liber_Ecclesiastes
+1100000143	tempus plantandi, et tempus evellendi quod plantatum est.	2020-04-18	Liber_Ecclesiastes
+1100000144	tempus occidendi, et tempus sanandi;	2020-04-18	Liber_Ecclesiastes
+1100000145	tempus destruendi, et tempus aedificandi.	2020-04-18	Liber_Ecclesiastes
+1100000146	tempus flendi, et tempus ridendi;	2020-04-18	Liber_Ecclesiastes
+1100000147	tempus plangendi, et tempus saltandi.	2020-04-18	Liber_Ecclesiastes
+1100000148	tempus spargendi lapides, et tempus colligendi,	2020-04-18	Liber_Ecclesiastes
+1100000149	tempus amplexandi, et tempus longe fieri ab amplexibus.	2020-04-18	Liber_Ecclesiastes
+1100000150	tempus acquirendi, et tempus perdendi;	2020-04-18	Liber_Ecclesiastes
+1100000151	tempus custodiendi, et tempus abiiciendi.	2020-04-18	Liber_Ecclesiastes
+1100000152	tempus scindendi, et tempus consuendi;	2020-04-18	Liber_Ecclesiastes
+1100000153	tempus tacendi, et tempus loquendi.	2020-04-18	Liber_Ecclesiastes
+1100000154	tempus dilectionis, et tempus odii;	2020-04-18	Liber_Ecclesiastes
+1100000155	tempus belli, et tempus pacis.	2020-04-18	Liber_Ecclesiastes
+1100000156	quid habet amplius homo de labore suo?	2020-04-18	Liber_Ecclesiastes
+1100000157	vidi afflictionem quam dedit deus filiis hominum,	2020-04-18	Liber_Ecclesiastes
+1100000158	ut distendantur in ea.	2020-04-18	Liber_Ecclesiastes
+1100000159	cuncta fecit bona in tempore suo,	2020-04-18	Liber_Ecclesiastes
+1100000160	et mundum tradidit disputationi eorum,	2020-04-18	Liber_Ecclesiastes
+1100000161	ut non inveniat homo opus	2020-04-18	Liber_Ecclesiastes
+1100000162	quod operatus est deus ab initio usque ad finem.	2020-04-18	Liber_Ecclesiastes
+1100000163	et cognovi quod non esset melius nisi laetari,	2020-04-18	Liber_Ecclesiastes
+1100000164	et facere bene in vita sua;	2020-04-18	Liber_Ecclesiastes
+1100000165	omnis enim homo qui comedit et bibit,	2020-04-18	Liber_Ecclesiastes
+1100000166	et videt bonum de labore suo,	2020-04-18	Liber_Ecclesiastes
+1100000167	hoc donum dei est.	2020-04-18	Liber_Ecclesiastes
+1100000168	didici quod omnia opera quae fecit deus perseverent in perpetuum;	2020-04-18	Liber_Ecclesiastes
+1100000169	non possumus eis quidquam addere, nec auferre,	2020-04-18	Liber_Ecclesiastes
+1100000170	quae fecit deus ut timeatur.	2020-04-18	Liber_Ecclesiastes
+1100000171	quod factum est, ipsum permanet;	2020-04-18	Liber_Ecclesiastes
+1100000172	quae futura sunt iam fuerunt,	2020-04-18	Liber_Ecclesiastes
+1100000173	et deus instaurat quod abiit.	2020-04-18	Liber_Ecclesiastes
+1100000174	vidi sub sole in loco iudicii impietatem,	2020-04-18	Liber_Ecclesiastes
+1100000175	et in loco iustitiae iniquitatem:	2020-04-18	Liber_Ecclesiastes
+1100000176	et dixi in corde meo:	2020-04-18	Liber_Ecclesiastes
+1100000177	iustum et impium iudicabit deus,	2020-04-18	Liber_Ecclesiastes
+1100000178	et tempus omnis rei tunc erit.	2020-04-18	Liber_Ecclesiastes
+1100000179	dixi in corde meo de filiis hominum,	2020-04-18	Liber_Ecclesiastes
+1100000180	ut probaret eos deus,	2020-04-18	Liber_Ecclesiastes
+1100000181	et ostenderet similes esse bestiis.	2020-04-18	Liber_Ecclesiastes
+1100000182	idcirco unus interitus est hominis et iumentorum,	2020-04-18	Liber_Ecclesiastes
+1100000183	et aequa utriusque conditio.	2020-04-18	Liber_Ecclesiastes
+1100000184	sicut moritur homo,	2020-04-18	Liber_Ecclesiastes
+1100000185	sic et illa moriuntur.	2020-04-18	Liber_Ecclesiastes
+1100000186	similiter spirant omnia,	2020-04-18	Liber_Ecclesiastes
+1100000187	et nihil habet homo iumento amplius:	2020-04-18	Liber_Ecclesiastes
+1100000188	cuncta subiacent vanitati,	2020-04-18	Liber_Ecclesiastes
+1100000189	et omnia pergunt ad unum locum.	2020-04-18	Liber_Ecclesiastes
+1100000190	de terra facta sunt,	2020-04-18	Liber_Ecclesiastes
+1100000191	et in terram pariter revertuntur.	2020-04-18	Liber_Ecclesiastes
+1100000192	quis novit si spiritus filiorum adam ascendat sursum,	2020-04-18	Liber_Ecclesiastes
+1100000193	et si spiritus iumentorum descendat deorsum?	2020-04-18	Liber_Ecclesiastes
+1100000194	et deprehendi nihil esse melius	2020-04-18	Liber_Ecclesiastes
+1100000195	quam laetari hominem in opere suo,	2020-04-18	Liber_Ecclesiastes
+1100000196	et hanc esse partem illius.	2020-04-18	Liber_Ecclesiastes
+1100000197	quis enim eum adducet ut post se futura cognoscat?	2020-04-18	Liber_Ecclesiastes
+1100000198	caput 4	2020-04-18	Liber_Ecclesiastes
+1100000199	verti me ad alia, et vidi calumnias	2020-04-18	Liber_Ecclesiastes
+1100000200	quae sub sole geruntur,	2020-04-18	Liber_Ecclesiastes
+1100000201	et lacrimas innocentium,	2020-04-18	Liber_Ecclesiastes
+1100000202	et neminem consolatorem,	2020-04-18	Liber_Ecclesiastes
+1100000203	nec posse resistere eorum violentiae,	2020-04-18	Liber_Ecclesiastes
+1100000204	cunctorum auxilio destitutos,	2020-04-18	Liber_Ecclesiastes
+1100000205	et laudavi magis mortuos quam viventes;	2020-04-18	Liber_Ecclesiastes
+1100000206	et feliciorem utroque iudicavi	2020-04-18	Liber_Ecclesiastes
+1100000207	qui necdum natus est,	2020-04-18	Liber_Ecclesiastes
+1100000208	nec vidit mala quae sub sole fiunt.	2020-04-18	Liber_Ecclesiastes
+1100000209	rursum contemplatus sum omnes labores hominum,	2020-04-18	Liber_Ecclesiastes
+1100000210	et industrias animadverti patere invidiae proximi;	2020-04-18	Liber_Ecclesiastes
+1100000211	et in hoc ergo vanitas et cura superflua est.	2020-04-18	Liber_Ecclesiastes
+1100000212	stultus complicat manus suas,	2020-04-18	Liber_Ecclesiastes
+1100000213	et comedit carnes suas, dicens:	2020-04-18	Liber_Ecclesiastes
+1100000214	melior est pugillus cum requie,	2020-04-18	Liber_Ecclesiastes
+1100000215	quam plena utraque manus cum labore et afflictione animi.	2020-04-18	Liber_Ecclesiastes
+1100000216	considerans, reperi et aliam vanitatem sub sole.	2020-04-18	Liber_Ecclesiastes
+1100000217	unus est, et secundum non habet,	2020-04-18	Liber_Ecclesiastes
+1100000218	non filium, non fratrem,	2020-04-18	Liber_Ecclesiastes
+1100000219	et tamen laborare non cessat,	2020-04-18	Liber_Ecclesiastes
+1100000220	nec satiantur oculi eius divitiis;	2020-04-18	Liber_Ecclesiastes
+1100000221	nec recogitat, dicens:	2020-04-18	Liber_Ecclesiastes
+1100000222	cui laboro, et fraudo animam meam bonis?	2020-04-18	Liber_Ecclesiastes
+1100000223	in hoc quoque vanitas est et afflictio pessima.	2020-04-18	Liber_Ecclesiastes
+1100000224	melius est ergo duos esse simul quam unum;	2020-04-18	Liber_Ecclesiastes
+1100000225	habent enim emolumentum societatis suae.	2020-04-18	Liber_Ecclesiastes
+1100000226	si unus ceciderit, ab altero fulcietur.	2020-04-18	Liber_Ecclesiastes
+1100000227	vae soli, quia cum ceciderit, non habet sublevantem se.	2020-04-18	Liber_Ecclesiastes
+1100000228	et si dormierint duo, fovebuntur mutuo;	2020-04-18	Liber_Ecclesiastes
+1100000229	unus quomodo calefiet?	2020-04-18	Liber_Ecclesiastes
+1100000230	et si quispiam praevaluerit contra unum,	2020-04-18	Liber_Ecclesiastes
+1100000231	duo resistunt ei;	2020-04-18	Liber_Ecclesiastes
+1100000232	funiculus triplex difficile rumpitur.	2020-04-18	Liber_Ecclesiastes
+1100000233	melior est puer pauper et sapiens,	2020-04-18	Liber_Ecclesiastes
+1100000234	rege sene et stulto,	2020-04-18	Liber_Ecclesiastes
+1100000235	qui nescit praevidere in posterum.	2020-04-18	Liber_Ecclesiastes
+1100000236	quod de carcere catenisque interdum quis egrediatur ad regnum;	2020-04-18	Liber_Ecclesiastes
+1100000237	et alius, natus in regno, inopia consumatur.	2020-04-18	Liber_Ecclesiastes
+1100000238	vidi cunctos viventes qui ambulant sub sole	2020-04-18	Liber_Ecclesiastes
+1100000239	cum adolescente secundo, qui consurget pro eo.	2020-04-18	Liber_Ecclesiastes
+1100000240	infinitus numerus est populi	2020-04-18	Liber_Ecclesiastes
+1100000241	omnium qui fuerunt ante eum,	2020-04-18	Liber_Ecclesiastes
+1100000242	et qui postea futuri sunt non laetabuntur in eo;	2020-04-18	Liber_Ecclesiastes
+1100000243	sed et hoc vanitas et afflictio spiritus.	2020-04-18	Liber_Ecclesiastes
+1100000244	custodi pedem tuum ingrediens domum dei,	2020-04-18	Liber_Ecclesiastes
+1100000245	et appropinqua ut audias.	2020-04-18	Liber_Ecclesiastes
+1100000246	multo enim melior est obedientia quam stultorum victimae,	2020-04-18	Liber_Ecclesiastes
+1100000247	qui nesciunt quid faciunt mali.	2020-04-18	Liber_Ecclesiastes
+1100000248	caput 5	2020-04-18	Liber_Ecclesiastes
+1100000249	ne temere quid loquaris,	2020-04-18	Liber_Ecclesiastes
+1100000250	neque cor tuum sit velox ad proferendum sermonem coram deo.	2020-04-18	Liber_Ecclesiastes
+1100000251	deus enim in caelo, et tu super terram;	2020-04-18	Liber_Ecclesiastes
+1100000252	idcirco sint pauci sermones tui.	2020-04-18	Liber_Ecclesiastes
+1100000253	multas curas sequuntur somnia,	2020-04-18	Liber_Ecclesiastes
+1100000254	et in multis sermonibus invenietur stultitia.	2020-04-18	Liber_Ecclesiastes
+1100000255	si quid vovisti deo,	2020-04-18	Liber_Ecclesiastes
+1100000256	ne moreris reddere:	2020-04-18	Liber_Ecclesiastes
+1100000257	displicet enim ei infidelis et stulta promissio,	2020-04-18	Liber_Ecclesiastes
+1100000258	sed quodcumque voveris redde:	2020-04-18	Liber_Ecclesiastes
+1100000259	multoque melius est non vovere,	2020-04-18	Liber_Ecclesiastes
+1100000260	quam post votum promissa non reddere.	2020-04-18	Liber_Ecclesiastes
+1100000261	ne dederis os tuum ut peccare facias carnem tuam,	2020-04-18	Liber_Ecclesiastes
+1100000262	neque dicas coram angelo:	2020-04-18	Liber_Ecclesiastes
+1100000263	non est providentia:	2020-04-18	Liber_Ecclesiastes
+1100000264	ne forte iratus deus contra sermones tuos	2020-04-18	Liber_Ecclesiastes
+1100000265	dissipet cuncta opera manuum tuarum.	2020-04-18	Liber_Ecclesiastes
+1100000266	ubi multa sunt somnia,	2020-04-18	Liber_Ecclesiastes
+1100000267	plurimae sunt vanitates, et sermones innumeri;	2020-04-18	Liber_Ecclesiastes
+1100000268	tu vero deum time.	2020-04-18	Liber_Ecclesiastes
+1100000269	si videris calumnias egenorum, et violenta iudicia,	2020-04-18	Liber_Ecclesiastes
+1100000270	et subverti iustitiam in provincia,	2020-04-18	Liber_Ecclesiastes
+1100000271	non mireris super hoc negotio:	2020-04-18	Liber_Ecclesiastes
+1100000272	quia excelso excelsior est alius,	2020-04-18	Liber_Ecclesiastes
+1100000273	et super hos quoque eminentiores sunt alii;	2020-04-18	Liber_Ecclesiastes
+1100000274	et insuper universae terrae rex imperat servienti.	2020-04-18	Liber_Ecclesiastes
+1100000275	avarus non implebitur pecunia,	2020-04-18	Liber_Ecclesiastes
+1100000276	et qui amat divitias fructum non capiet ex eis;	2020-04-18	Liber_Ecclesiastes
+1100000277	et hoc ergo vanitas.	2020-04-18	Liber_Ecclesiastes
+1100000278	ubi multae sunt opes,	2020-04-18	Liber_Ecclesiastes
+1100000279	multi et qui comedunt eas.	2020-04-18	Liber_Ecclesiastes
+1100000280	et quid prodest possessori,	2020-04-18	Liber_Ecclesiastes
+1100000281	nisi quod cernit divitias oculis suis?	2020-04-18	Liber_Ecclesiastes
+1100000282	dulcis est somnus operanti,	2020-04-18	Liber_Ecclesiastes
+1100000283	sive parum sive multum comedat;	2020-04-18	Liber_Ecclesiastes
+1100000284	saturitas autem divitis non sinit eum dormire.	2020-04-18	Liber_Ecclesiastes
+1100000285	est et alia infirmitas pessima quam vidi sub sole:	2020-04-18	Liber_Ecclesiastes
+1100000286	divitiae conservatae in malum domini sui.	2020-04-18	Liber_Ecclesiastes
+1100000287	pereunt enim in afflictione pessima:	2020-04-18	Liber_Ecclesiastes
+1100000288	generavit filium qui in summa egestate erit.	2020-04-18	Liber_Ecclesiastes
+1100000289	sicut egressus est nudus de utero matris suae, sic revertetur,	2020-04-18	Liber_Ecclesiastes
+1100000290	et nihil auferet secum de labore suo.	2020-04-18	Liber_Ecclesiastes
+1100000291	miserabilis prorsus infirmitas:	2020-04-18	Liber_Ecclesiastes
+1100000292	quomodo venit, sic revertetur.	2020-04-18	Liber_Ecclesiastes
+1100000293	quid ergo prodest ei quod laboravit in ventum?	2020-04-18	Liber_Ecclesiastes
+1100000294	cunctis diebus vitae suae comedit in tenebris,	2020-04-18	Liber_Ecclesiastes
+1100000295	et in curis multis, et in aerumna atque tristitia.	2020-04-18	Liber_Ecclesiastes
+1100000296	hoc itaque visum est mihi bonum,	2020-04-18	Liber_Ecclesiastes
+1100000297	ut comedat quis et bibat,	2020-04-18	Liber_Ecclesiastes
+1100000298	et fruatur laetitia ex labore suo	2020-04-18	Liber_Ecclesiastes
+1100000299	quo laboravit ipse sub sole,	2020-04-18	Liber_Ecclesiastes
+1100000300	numero dierum vitae suae	2020-04-18	Liber_Ecclesiastes
+1100000301	quos dedit ei deus;	2020-04-18	Liber_Ecclesiastes
+1100000302	et haec est pars illius.	2020-04-18	Liber_Ecclesiastes
+1100000303	et omni homini cui dedit deus divitias atque substantiam,	2020-04-18	Liber_Ecclesiastes
+1100000304	potestatemque ei tribuit ut comedat ex eis,	2020-04-18	Liber_Ecclesiastes
+1100000305	et fruatur parte sua, et laetetur de labore suo:	2020-04-18	Liber_Ecclesiastes
+1100000306	hoc est donum dei.	2020-04-18	Liber_Ecclesiastes
+1100000307	non enim satis recordabitur dierum vitae suae,	2020-04-18	Liber_Ecclesiastes
+1100000308	eo quod deus occupet deliciis cor eius.	2020-04-18	Liber_Ecclesiastes
+1100000309	caput 6	2020-04-18	Liber_Ecclesiastes
+1100000310	est et aliud malum quod vidi sub sole,	2020-04-18	Liber_Ecclesiastes
+1100000311	et quidem frequens apud homines:	2020-04-18	Liber_Ecclesiastes
+1100000312	vir cui dedit deus divitias,	2020-04-18	Liber_Ecclesiastes
+1100000313	et substantiam, et honorem,	2020-04-18	Liber_Ecclesiastes
+1100000314	et nihil deest animae suae ex omnibus quae desiderat;	2020-04-18	Liber_Ecclesiastes
+1100000315	nec tribuit ei potestatem deus ut comedat ex eo,	2020-04-18	Liber_Ecclesiastes
+1100000316	sed homo extraneus vorabit illud:	2020-04-18	Liber_Ecclesiastes
+1100000317	hoc vanitas et miseria magna est.	2020-04-18	Liber_Ecclesiastes
+1100000318	si genuerit quispiam centum liberos,	2020-04-18	Liber_Ecclesiastes
+1100000319	et vixerit multos annos,	2020-04-18	Liber_Ecclesiastes
+1100000320	et plures dies aetatis habuerit,	2020-04-18	Liber_Ecclesiastes
+1100000321	et anima illius non utatur bonis substantiae suae,	2020-04-18	Liber_Ecclesiastes
+1100000322	sepulturaque careat:	2020-04-18	Liber_Ecclesiastes
+1100000323	de hoc ergo pronuntio quod melior illo sit abortivus.	2020-04-18	Liber_Ecclesiastes
+1100000324	frustra enim venit,	2020-04-18	Liber_Ecclesiastes
+1100000325	et pergit ad tenebras,	2020-04-18	Liber_Ecclesiastes
+1100000326	et oblivione delebitur nomen eius.	2020-04-18	Liber_Ecclesiastes
+1100000327	non vidit solem,	2020-04-18	Liber_Ecclesiastes
+1100000328	neque cognovit distantiam boni et mali.	2020-04-18	Liber_Ecclesiastes
+1100000329	etiam si duobus millibus annis vixerit,	2020-04-18	Liber_Ecclesiastes
+1100000330	et non fuerit perfruitus bonis,	2020-04-18	Liber_Ecclesiastes
+1100000331	nonne ad unum locum properant omnia?	2020-04-18	Liber_Ecclesiastes
+1100000332	omnis labor hominis in ore eius;	2020-04-18	Liber_Ecclesiastes
+1100000333	sed anima eius non implebitur.	2020-04-18	Liber_Ecclesiastes
+1100000334	quid habet amplius sapiens a stulto?	2020-04-18	Liber_Ecclesiastes
+1100000335	et quid pauper, nisi ut pergat illuc ubi est vita?	2020-04-18	Liber_Ecclesiastes
+1100000336	melius est videre quod cupias,	2020-04-18	Liber_Ecclesiastes
+1100000337	quam desiderare quod nescias.	2020-04-18	Liber_Ecclesiastes
+1100000338	sed et hoc vanitas est, et praesumptio spiritus.	2020-04-18	Liber_Ecclesiastes
+1100000339	qui futurus est, iam vocatum est nomen eius;	2020-04-18	Liber_Ecclesiastes
+1100000340	et scitur quod homo sit,	2020-04-18	Liber_Ecclesiastes
+1100000341	et non possit contra fortiorem se in iudicio contendere.	2020-04-18	Liber_Ecclesiastes
+1100000342	verba sunt plurima,	2020-04-18	Liber_Ecclesiastes
+1100000343	multamque in disputando habentia vanitatem.	2020-04-18	Liber_Ecclesiastes
+1100000344	caput 7	2020-04-18	Liber_Ecclesiastes
+1100000345	quid necesse est homini maiora se quaerere,	2020-04-18	Liber_Ecclesiastes
+1100000346	cum ignoret quid conducat sibi in vita sua,	2020-04-18	Liber_Ecclesiastes
+1100000347	numero dierum peregrinationis suae,	2020-04-18	Liber_Ecclesiastes
+1100000348	et tempore quod velut umbra praeterit?	2020-04-18	Liber_Ecclesiastes
+1100000349	aut quis ei poterit indicare	2020-04-18	Liber_Ecclesiastes
+1100000350	quod post eum futurum sub sole sit?	2020-04-18	Liber_Ecclesiastes
+1100000351	melius est nomen bonum quam unguenta pretiosa,	2020-04-18	Liber_Ecclesiastes
+1100000352	et dies mortis die nativitatis.	2020-04-18	Liber_Ecclesiastes
+1100000353	melius est ire ad domum luctus	2020-04-18	Liber_Ecclesiastes
+1100000354	quam ad domum convivii;	2020-04-18	Liber_Ecclesiastes
+1100000355	in illa enim finis cunctorum admonetur hominum,	2020-04-18	Liber_Ecclesiastes
+1100000356	et vivens cogitat quid futurum sit.	2020-04-18	Liber_Ecclesiastes
+1100000357	melior est ira risu,	2020-04-18	Liber_Ecclesiastes
+1100000358	quia per tristitiam vultus corrigitur animus delinquentis.	2020-04-18	Liber_Ecclesiastes
+1100000359	cor sapientium ubi tristitia est,	2020-04-18	Liber_Ecclesiastes
+1100000360	et cor stultorum ubi laetitia.	2020-04-18	Liber_Ecclesiastes
+1100000361	melius est a sapiente corripi,	2020-04-18	Liber_Ecclesiastes
+1100000362	quam stultorum adulatione decipi;	2020-04-18	Liber_Ecclesiastes
+1100000363	quia sicut sonitus spinarum ardentium sub olla,	2020-04-18	Liber_Ecclesiastes
+1100000364	sic risus stulti.	2020-04-18	Liber_Ecclesiastes
+1100000365	sed et hoc vanitas.	2020-04-18	Liber_Ecclesiastes
+1100000366	calumnia conturbat sapientem,	2020-04-18	Liber_Ecclesiastes
+1100000367	et perdet robur cordis illius.	2020-04-18	Liber_Ecclesiastes
+1100000368	melior est finis orationis quam principium.	2020-04-18	Liber_Ecclesiastes
+1100000369	melior est patiens arrogante.	2020-04-18	Liber_Ecclesiastes
+1100000370	ne sis velox ad irascendum,	2020-04-18	Liber_Ecclesiastes
+1100000371	quia ira in sinu stulti requiescit.	2020-04-18	Liber_Ecclesiastes
+1100000372	ne dicas: quid putas causae est	2020-04-18	Liber_Ecclesiastes
+1100000373	quod priora tempora meliora fuere quam nunc sunt?	2020-04-18	Liber_Ecclesiastes
+1100000374	stulta enim est huiuscemodi interrogatio.	2020-04-18	Liber_Ecclesiastes
+1100000375	utilior est sapientia cum divitiis,	2020-04-18	Liber_Ecclesiastes
+1100000376	et magis prodest videntibus solem.	2020-04-18	Liber_Ecclesiastes
+1100000377	sicut enim protegit sapientia, sic protegit pecunia;	2020-04-18	Liber_Ecclesiastes
+1100000378	hoc autem plus habet eruditio et sapientia,	2020-04-18	Liber_Ecclesiastes
+1100000379	quod vitam tribuunt possessori suo.	2020-04-18	Liber_Ecclesiastes
+1100000380	considera opera dei,	2020-04-18	Liber_Ecclesiastes
+1100000381	quod nemo possit corrigere quem ille despexerit.	2020-04-18	Liber_Ecclesiastes
+1100000382	in die bona fruere bonis,	2020-04-18	Liber_Ecclesiastes
+1100000383	et malam diem praecave;	2020-04-18	Liber_Ecclesiastes
+1100000384	sicut enim hanc, sic et illam fecit deus,	2020-04-18	Liber_Ecclesiastes
+1100000385	ut non inveniat homo contra eum iustas querimonias.	2020-04-18	Liber_Ecclesiastes
+1100000386	haec quoque vidi in diebus vanitatis meae:	2020-04-18	Liber_Ecclesiastes
+1100000387	iustus perit in iustitia sua,	2020-04-18	Liber_Ecclesiastes
+1100000388	et impius multo vivit tempore in malitia sua.	2020-04-18	Liber_Ecclesiastes
+1100000389	noli esse iustus multum,	2020-04-18	Liber_Ecclesiastes
+1100000390	neque plus sapias quam necesse est,	2020-04-18	Liber_Ecclesiastes
+1100000391	ne obstupescas.	2020-04-18	Liber_Ecclesiastes
+1100000392	ne impie agas multum,	2020-04-18	Liber_Ecclesiastes
+1100000393	et noli esse stultus,	2020-04-18	Liber_Ecclesiastes
+1100000394	ne moriaris in tempore non tuo.	2020-04-18	Liber_Ecclesiastes
+1100000395	bonum est te sustentare iustum:	2020-04-18	Liber_Ecclesiastes
+1100000396	sed et ab illo ne subtrahas manum tuam;	2020-04-18	Liber_Ecclesiastes
+1100000397	quia qui timet deum nihil negligit.	2020-04-18	Liber_Ecclesiastes
+1100000398	sapientia confortavit sapientem	2020-04-18	Liber_Ecclesiastes
+1100000399	super decem principes civitatis;	2020-04-18	Liber_Ecclesiastes
+1100000400	non est enim homo iustus in terra	2020-04-18	Liber_Ecclesiastes
+1100000401	qui faciat bonum et non peccet.	2020-04-18	Liber_Ecclesiastes
+1100000402	sed et cunctis sermonibus qui dicuntur	2020-04-18	Liber_Ecclesiastes
+1100000403	ne accomodes cor tuum,	2020-04-18	Liber_Ecclesiastes
+1100000404	ne forte audias servum tuum maledicentem tibi;	2020-04-18	Liber_Ecclesiastes
+1100000405	scit enim conscientia tua	2020-04-18	Liber_Ecclesiastes
+1100000406	quia et tu crebro maledixisti aliis.	2020-04-18	Liber_Ecclesiastes
+1100000407	cuncta tentavi in sapientia.	2020-04-18	Liber_Ecclesiastes
+1100000408	dixi: sapiens efficiar:	2020-04-18	Liber_Ecclesiastes
+1100000409	et ipsa longius recessit a me,	2020-04-18	Liber_Ecclesiastes
+1100000410	multo magis quam erat.	2020-04-18	Liber_Ecclesiastes
+1100000411	et alta profunditas, quis inveniet eam?	2020-04-18	Liber_Ecclesiastes
+1100000412	lustravi universa animo meo,	2020-04-18	Liber_Ecclesiastes
+1100000413	ut scirem et considerarem,	2020-04-18	Liber_Ecclesiastes
+1100000414	et quaererem sapientiam, et rationem,	2020-04-18	Liber_Ecclesiastes
+1100000415	et ut cognoscerem impietatem stulti,	2020-04-18	Liber_Ecclesiastes
+1100000416	et errorem imprudentium:	2020-04-18	Liber_Ecclesiastes
+1100000417	et inveni amariorem morte mulierem,	2020-04-18	Liber_Ecclesiastes
+1100000418	quae laqueus venatorum est,	2020-04-18	Liber_Ecclesiastes
+1100000419	et sagena cor eius;	2020-04-18	Liber_Ecclesiastes
+1100000420	vincula sunt manus illius.	2020-04-18	Liber_Ecclesiastes
+1100000421	qui placet deo effugiet illam;	2020-04-18	Liber_Ecclesiastes
+1100000422	qui autem peccator est capietur ab illa.	2020-04-18	Liber_Ecclesiastes
+1100000423	ecce hoc inveni, dixit ecclesiastes,	2020-04-18	Liber_Ecclesiastes
+1100000424	unum et alterum ut invenirem rationem,	2020-04-18	Liber_Ecclesiastes
+1100000425	quam adhuc quaerit anima mea,	2020-04-18	Liber_Ecclesiastes
+1100000426	et non inveni.	2020-04-18	Liber_Ecclesiastes
+1100000427	virum de mille unum reperi;	2020-04-18	Liber_Ecclesiastes
+1100000428	mulierem ex omnibus non inveni.	2020-04-18	Liber_Ecclesiastes
+1100000429	solummodo hoc inveni,	2020-04-18	Liber_Ecclesiastes
+1100000430	quod fecerit deus hominem rectum,	2020-04-18	Liber_Ecclesiastes
+1100000431	et ipse se infinitis miscuerit quaestionibus.	2020-04-18	Liber_Ecclesiastes
+1100000432	quis talis ut sapiens est?	2020-04-18	Liber_Ecclesiastes
+1100000433	et quis cognovit solutionem verbi?	2020-04-18	Liber_Ecclesiastes
+1100000434	caput 8	2020-04-18	Liber_Ecclesiastes
+1100000435	sapientia hominis lucet in vultu eius,	2020-04-18	Liber_Ecclesiastes
+1100000436	et potentissimus faciem illius commutabit.	2020-04-18	Liber_Ecclesiastes
+1100000437	ego os regis observo,	2020-04-18	Liber_Ecclesiastes
+1100000438	et praecepta iuramenti dei.	2020-04-18	Liber_Ecclesiastes
+1100000439	ne festines recedere a facie eius,	2020-04-18	Liber_Ecclesiastes
+1100000440	neque permaneas in opere malo:	2020-04-18	Liber_Ecclesiastes
+1100000441	quia omne quod voluerit faciet.	2020-04-18	Liber_Ecclesiastes
+1100000442	et sermo illius potestate plenus est,	2020-04-18	Liber_Ecclesiastes
+1100000443	nec dicere ei quisquam potest: quare ita facis?	2020-04-18	Liber_Ecclesiastes
+1100000444	qui custodit praeceptum non experietur quidquam mali.	2020-04-18	Liber_Ecclesiastes
+1100000445	tempus et responsionem cor sapientis intelligit.	2020-04-18	Liber_Ecclesiastes
+1100000446	omni negotio tempus est, et opportunitas:	2020-04-18	Liber_Ecclesiastes
+1100000447	et multa hominis afflictio,	2020-04-18	Liber_Ecclesiastes
+1100000448	quia ignorat praeterita,	2020-04-18	Liber_Ecclesiastes
+1100000449	et futura nullo scire potest nuntio.	2020-04-18	Liber_Ecclesiastes
+1100000450	non est in hominis potestate prohibere spiritum,	2020-04-18	Liber_Ecclesiastes
+1100000451	nec habet potestatem in die mortis:	2020-04-18	Liber_Ecclesiastes
+1100000452	nec sinitur quiescere ingruente bello,	2020-04-18	Liber_Ecclesiastes
+1100000453	neque salvabit impietas impium.	2020-04-18	Liber_Ecclesiastes
+1100000454	omnia haec consideravi,	2020-04-18	Liber_Ecclesiastes
+1100000455	et dedi cor meum in cunctis operibus quae fiunt sub sole.	2020-04-18	Liber_Ecclesiastes
+1100000456	interdum dominatur homo homini in malum suum.	2020-04-18	Liber_Ecclesiastes
+1100000457	vidi impios sepultos,	2020-04-18	Liber_Ecclesiastes
+1100000458	qui etiam cum adhuc viverent	2020-04-18	Liber_Ecclesiastes
+1100000459	in loco sancto erant,	2020-04-18	Liber_Ecclesiastes
+1100000460	et laudabantur in civitate	2020-04-18	Liber_Ecclesiastes
+1100000461	quasi iustorum operum.	2020-04-18	Liber_Ecclesiastes
+1100000462	sed et hoc vanitas est.	2020-04-18	Liber_Ecclesiastes
+1100000463	etenim quia non profertur cito contra malos sententia,	2020-04-18	Liber_Ecclesiastes
+1100000464	absque timore ullo	2020-04-18	Liber_Ecclesiastes
+1100000465	filii hominum perpetrant mala.	2020-04-18	Liber_Ecclesiastes
+1100000466	attamen peccator ex eo quod centies facit malum,	2020-04-18	Liber_Ecclesiastes
+1100000467	et per patientiam sustentatur;	2020-04-18	Liber_Ecclesiastes
+1100000468	ego cognovi quod erit bonum timentibus deum,	2020-04-18	Liber_Ecclesiastes
+1100000469	qui verentur faciem eius.	2020-04-18	Liber_Ecclesiastes
+1100000470	non sit bonum impio,	2020-04-18	Liber_Ecclesiastes
+1100000471	nec prolongentur dies eius,	2020-04-18	Liber_Ecclesiastes
+1100000472	sed quasi umbra transeant qui non timent faciem domini.	2020-04-18	Liber_Ecclesiastes
+1100000473	est et alia vanitas quae fit super terram:	2020-04-18	Liber_Ecclesiastes
+1100000474	sunt iusti quibus mala proveniunt	2020-04-18	Liber_Ecclesiastes
+1100000475	quasi opera egerint impiorum:	2020-04-18	Liber_Ecclesiastes
+1100000476	et sunt impii qui ita securi sunt	2020-04-18	Liber_Ecclesiastes
+1100000477	quasi iustorum facta habeant.	2020-04-18	Liber_Ecclesiastes
+1100000478	sed et hoc vanissimum iudico.	2020-04-18	Liber_Ecclesiastes
+1100000479	laudavi igitur laetitiam;	2020-04-18	Liber_Ecclesiastes
+1100000480	quod non esset homini bonum sub sole,	2020-04-18	Liber_Ecclesiastes
+1100000481	nisi quod comederet, et biberet, atque gauderet,	2020-04-18	Liber_Ecclesiastes
+1100000482	et hoc solum secum auferret de labore suo,	2020-04-18	Liber_Ecclesiastes
+1100000483	in diebus vitae suae quos dedit ei deus sub sole.	2020-04-18	Liber_Ecclesiastes
+1100000484	et apposui cor meum ut scirem sapientiam,	2020-04-18	Liber_Ecclesiastes
+1100000485	et intelligerem distentionem quae versatur in terra.	2020-04-18	Liber_Ecclesiastes
+1100000486	est homo qui diebus et noctibus somnum non capit oculis.	2020-04-18	Liber_Ecclesiastes
+1100000487	et intellexi quod omnium operum dei	2020-04-18	Liber_Ecclesiastes
+1100000488	nullam possit homo invenire rationem	2020-04-18	Liber_Ecclesiastes
+1100000489	eorum quae fiunt sub sole;	2020-04-18	Liber_Ecclesiastes
+1100000490	et quanto plus laboraverit ad quaerendum,	2020-04-18	Liber_Ecclesiastes
+1100000491	tanto minus inveniat:	2020-04-18	Liber_Ecclesiastes
+1100000492	etiam si dixerit sapiens se nosse, non poterit reperire.	2020-04-18	Liber_Ecclesiastes
+1100000493	caput 9	2020-04-18	Liber_Ecclesiastes
+1100000494	omnia haec tractavi in corde meo,	2020-04-18	Liber_Ecclesiastes
+1100000495	ut curiose intelligerem.	2020-04-18	Liber_Ecclesiastes
+1100000496	sunt iusti atque sapientes,	2020-04-18	Liber_Ecclesiastes
+1100000497	et opera eorum in manu dei;	2020-04-18	Liber_Ecclesiastes
+1100000498	et tamen nescit homo utrum amore an odio dignus sit.	2020-04-18	Liber_Ecclesiastes
+1100000499	sed omnia in futurum servantur incerta,	2020-04-18	Liber_Ecclesiastes
+1100000500	eo quod universa aeque eveniant iusto et impio,	2020-04-18	Liber_Ecclesiastes
+1100000501	bono et malo, mundo et immundo,	2020-04-18	Liber_Ecclesiastes
+1100000502	immolanti victimas et sacrificia contemnenti.	2020-04-18	Liber_Ecclesiastes
+1100000503	sicut bonus, sic et peccator;	2020-04-18	Liber_Ecclesiastes
+1100000504	ut periurus, ita et ille qui verum deierat.	2020-04-18	Liber_Ecclesiastes
+1100000505	hoc est pessimum inter omnia quae sub sole fiunt:	2020-04-18	Liber_Ecclesiastes
+1100000506	quia eadem cunctis eveniunt.	2020-04-18	Liber_Ecclesiastes
+1100000507	unde et corda filiorum hominum implentur malitia	2020-04-18	Liber_Ecclesiastes
+1100000508	et contemptu in vita sua,	2020-04-18	Liber_Ecclesiastes
+1100000509	et post haec ad inferos deducentur.	2020-04-18	Liber_Ecclesiastes
+1100000510	nemo est qui semper vivat, et qui huius rei habeat fiduciam;	2020-04-18	Liber_Ecclesiastes
+1100000511	melior est canis vivus leone mortuo.	2020-04-18	Liber_Ecclesiastes
+1100000512	viventes enim sciunt se esse morituros;	2020-04-18	Liber_Ecclesiastes
+1100000513	mortui vero nihil noverunt amplius,	2020-04-18	Liber_Ecclesiastes
+1100000514	nec habent ultra mercedem,	2020-04-18	Liber_Ecclesiastes
+1100000515	quia oblivioni tradita est memoria eorum.	2020-04-18	Liber_Ecclesiastes
+1100000516	amor quoque, et odium, et invidiae simul perierunt;	2020-04-18	Liber_Ecclesiastes
+1100000517	nec habent partem in hoc saeculo,	2020-04-18	Liber_Ecclesiastes
+1100000518	et in opere quod sub sole geritur.	2020-04-18	Liber_Ecclesiastes
+1100000519	vade ergo, et comede in laetitia panem tuum,	2020-04-18	Liber_Ecclesiastes
+1100000520	et bibe cum gaudio vinum tuum,	2020-04-18	Liber_Ecclesiastes
+1100000521	quia deo placent opera tua.	2020-04-18	Liber_Ecclesiastes
+1100000522	omni tempore sint vestimenta tua candida,	2020-04-18	Liber_Ecclesiastes
+1100000523	et oleum de capite tuo non deficiat.	2020-04-18	Liber_Ecclesiastes
+1100000524	perfruere vita cum uxore quam diligis,	2020-04-18	Liber_Ecclesiastes
+1100000525	cunctis diebus vitae instabilitatis tuae,	2020-04-18	Liber_Ecclesiastes
+1100000526	qui dati sunt tibi sub sole omni tempore vanitatis tuae:	2020-04-18	Liber_Ecclesiastes
+1100000527	haec est enim pars in vita	2020-04-18	Liber_Ecclesiastes
+1100000528	et in labore tuo quo laboras sub sole.	2020-04-18	Liber_Ecclesiastes
+1100000529	quodcumque facere potest manus tua,	2020-04-18	Liber_Ecclesiastes
+1100000530	instanter operare,	2020-04-18	Liber_Ecclesiastes
+1100000531	quia nec opus, nec ratio, nec sapientia, nec scientia	2020-04-18	Liber_Ecclesiastes
+1100000532	erunt apud inferos, quo tu properas.	2020-04-18	Liber_Ecclesiastes
+1100000533	verti me ad aliud, et vidi sub sole	2020-04-18	Liber_Ecclesiastes
+1100000534	nec velocium esse cursum,	2020-04-18	Liber_Ecclesiastes
+1100000535	nec fortium bellum,	2020-04-18	Liber_Ecclesiastes
+1100000536	nec sapientium panem,	2020-04-18	Liber_Ecclesiastes
+1100000537	nec doctorum divitias,	2020-04-18	Liber_Ecclesiastes
+1100000538	nec artificum gratiam;	2020-04-18	Liber_Ecclesiastes
+1100000539	sed tempus casumque in omnibus.	2020-04-18	Liber_Ecclesiastes
+1100000540	nescit homo finem suum;	2020-04-18	Liber_Ecclesiastes
+1100000541	sed sicut pisces capiuntur hamo,	2020-04-18	Liber_Ecclesiastes
+1100000542	et sicut aves laqueo comprehenduntur,	2020-04-18	Liber_Ecclesiastes
+1100000543	sic capiuntur homines in tempore malo,	2020-04-18	Liber_Ecclesiastes
+1100000544	cum eis extemplo supervenerit.	2020-04-18	Liber_Ecclesiastes
+1100000545	hanc quoque sub sole vidi sapientiam,	2020-04-18	Liber_Ecclesiastes
+1100000546	et probavi maximam:	2020-04-18	Liber_Ecclesiastes
+1100000547	civitas parva, et pauci in ea viri;	2020-04-18	Liber_Ecclesiastes
+1100000548	venit contra eam rex magnus, et vallavit eam,	2020-04-18	Liber_Ecclesiastes
+1100000549	exstruxitque munitiones per gyrum, et perfecta est obsidio.	2020-04-18	Liber_Ecclesiastes
+1100000550	inventusque est in ea vir pauper et sapiens,	2020-04-18	Liber_Ecclesiastes
+1100000551	et liberavit urbem per sapientiam suam;	2020-04-18	Liber_Ecclesiastes
+1100000552	et nullus deinceps recordatus est hominis illius pauperis.	2020-04-18	Liber_Ecclesiastes
+1100000553	et dicebam ego meliorem esse sapientiam fortitudine.	2020-04-18	Liber_Ecclesiastes
+1100000554	quomodo ergo sapientia pauperis contempta est,	2020-04-18	Liber_Ecclesiastes
+1100000555	et verba eius non sunt audita?	2020-04-18	Liber_Ecclesiastes
+1100000556	verba sapientium audiuntur in silentio,	2020-04-18	Liber_Ecclesiastes
+1100000557	plus quam clamor principis inter stultos.	2020-04-18	Liber_Ecclesiastes
+1100000558	melior est sapientia quam arma bellica;	2020-04-18	Liber_Ecclesiastes
+1100000559	et qui in uno peccaverit, multa bona perdet.	2020-04-18	Liber_Ecclesiastes
+1100000560	caput 10	2020-04-18	Liber_Ecclesiastes
+1100000561	muscae morientes perdunt suavitatem unguenti.	2020-04-18	Liber_Ecclesiastes
+1100000562	pretiosior est sapientia et gloria,	2020-04-18	Liber_Ecclesiastes
+1100000563	parva et ad tempus stultitia.	2020-04-18	Liber_Ecclesiastes
+1100000564	cor sapientis in dextera eius,	2020-04-18	Liber_Ecclesiastes
+1100000565	et cor stulti in sinistra illius.	2020-04-18	Liber_Ecclesiastes
+1100000566	sed et in via stultus ambulans,	2020-04-18	Liber_Ecclesiastes
+1100000567	cum ipse insipiens sit,	2020-04-18	Liber_Ecclesiastes
+1100000568	omnes stultos aestimat.	2020-04-18	Liber_Ecclesiastes
+1100000569	si spiritus potestatem habentis ascenderit super te,	2020-04-18	Liber_Ecclesiastes
+1100000570	locum tuum ne demiseris,	2020-04-18	Liber_Ecclesiastes
+1100000571	quia curatio faciet cessare peccata maxima.	2020-04-18	Liber_Ecclesiastes
+1100000572	est malum quod vidi sub sole,	2020-04-18	Liber_Ecclesiastes
+1100000573	quasi per errorem egrediens a facie principis:	2020-04-18	Liber_Ecclesiastes
+1100000574	positum stultum in dignitate sublimi,	2020-04-18	Liber_Ecclesiastes
+1100000575	et divites sedere deorsum.	2020-04-18	Liber_Ecclesiastes
+1100000576	vidi servos in equis,	2020-04-18	Liber_Ecclesiastes
+1100000577	et principes ambulantes super terram quasi servos.	2020-04-18	Liber_Ecclesiastes
+1100000578	qui fodit foveam incidet in eam,	2020-04-18	Liber_Ecclesiastes
+1100000579	et qui dissipat sepem mordebit eum coluber.	2020-04-18	Liber_Ecclesiastes
+1100000580	qui transfert lapides affligetur in eis,	2020-04-18	Liber_Ecclesiastes
+1100000581	et qui scindit ligna vulnerabitur ab eis.	2020-04-18	Liber_Ecclesiastes
+1100000582	si retusum fuerit ferrum,	2020-04-18	Liber_Ecclesiastes
+1100000583	et hoc non ut prius, sed hebetatum fuerit,	2020-04-18	Liber_Ecclesiastes
+1100000584	multo labore exacuetur,	2020-04-18	Liber_Ecclesiastes
+1100000585	et post industriam sequetur sapientia.	2020-04-18	Liber_Ecclesiastes
+1100000586	si mordeat serpens in silentio,	2020-04-18	Liber_Ecclesiastes
+1100000587	nihil eo minus habet qui occulte detrahit.	2020-04-18	Liber_Ecclesiastes
+1100000588	verba oris sapientis gratia,	2020-04-18	Liber_Ecclesiastes
+1100000589	et labia insipientis praecipitabunt eum;	2020-04-18	Liber_Ecclesiastes
+1100000590	initium verborum eius stultitia,	2020-04-18	Liber_Ecclesiastes
+1100000591	et novissimum oris illius error pessimus.	2020-04-18	Liber_Ecclesiastes
+1100000592	stultus verba multiplicat.	2020-04-18	Liber_Ecclesiastes
+1100000593	ignorat homo quid ante se fuerit;	2020-04-18	Liber_Ecclesiastes
+1100000594	et quid post se futurum sit, quis ei poterit indicare?	2020-04-18	Liber_Ecclesiastes
+1100000595	labor stultorum affliget eos,	2020-04-18	Liber_Ecclesiastes
+1100000596	qui nesciunt in urbem pergere.	2020-04-18	Liber_Ecclesiastes
+1100000597	vae tibi, terra, cuius rex puer est,	2020-04-18	Liber_Ecclesiastes
+1100000598	et cuius principes mane comedunt.	2020-04-18	Liber_Ecclesiastes
+1100000599	beata terra cuius rex nobilis est,	2020-04-18	Liber_Ecclesiastes
+1100000600	et cuius principes vescuntur in tempore suo,	2020-04-18	Liber_Ecclesiastes
+1100000601	ad reficiendum, et non ad luxuriam.	2020-04-18	Liber_Ecclesiastes
+1100000602	in pigritiis humiliabitur contignatio,	2020-04-18	Liber_Ecclesiastes
+1100000603	et in infirmitate manuum perstillabit domus.	2020-04-18	Liber_Ecclesiastes
+1100000604	in risum faciunt panem et vinum	2020-04-18	Liber_Ecclesiastes
+1100000605	ut epulentur viventes;	2020-04-18	Liber_Ecclesiastes
+1100000606	et pecuniae obediunt omnia.	2020-04-18	Liber_Ecclesiastes
+1100000607	in cogitatione tua regi ne detrahas,	2020-04-18	Liber_Ecclesiastes
+1100000608	et in secreto cubiculi tui ne maledixeris diviti:	2020-04-18	Liber_Ecclesiastes
+1100000609	quia et aves caeli portabunt vocem tuam,	2020-04-18	Liber_Ecclesiastes
+1100000610	et qui habet pennas annuntiabit sententiam.	2020-04-18	Liber_Ecclesiastes
+1100000611	caput 11	2020-04-18	Liber_Ecclesiastes
+1100000612	mitte panem tuum super transeuntes aquas,	2020-04-18	Liber_Ecclesiastes
+1100000613	quia post tempora multa invenies illum.	2020-04-18	Liber_Ecclesiastes
+1100000614	da partem septem necnon et octo,	2020-04-18	Liber_Ecclesiastes
+1100000615	quia ignoras quid futurum sit mali super terram.	2020-04-18	Liber_Ecclesiastes
+1100000616	si repletae fuerint nubes,	2020-04-18	Liber_Ecclesiastes
+1100000617	imbrem super terram effundent.	2020-04-18	Liber_Ecclesiastes
+1100000618	si ceciderit lignum ad austrum aut ad aquilonem,	2020-04-18	Liber_Ecclesiastes
+1100000619	in quocumque loco ceciderit, ibi erit.	2020-04-18	Liber_Ecclesiastes
+1100000620	qui observat ventum non seminat;	2020-04-18	Liber_Ecclesiastes
+1100000621	et qui considerat nubes numquam metet.	2020-04-18	Liber_Ecclesiastes
+1100000622	quomodo ignoras quae sit via spiritus,	2020-04-18	Liber_Ecclesiastes
+1100000623	et qua ratione compingantur ossa in ventre praegnantis,	2020-04-18	Liber_Ecclesiastes
+1100000624	sic nescis opera dei,	2020-04-18	Liber_Ecclesiastes
+1100000625	qui fabricator est omnium.	2020-04-18	Liber_Ecclesiastes
+1100000626	mane semina semen tuum,	2020-04-18	Liber_Ecclesiastes
+1100000627	et vespere ne cesset manus tua:	2020-04-18	Liber_Ecclesiastes
+1100000628	quia nescis quid magis oriatur, hoc aut illud;	2020-04-18	Liber_Ecclesiastes
+1100000629	et si utrumque simul, melius erit.	2020-04-18	Liber_Ecclesiastes
+1100000630	dulce lumen,	2020-04-18	Liber_Ecclesiastes
+1100000631	et delectabile est oculis videre solem.	2020-04-18	Liber_Ecclesiastes
+1100000632	si annis multis vixerit homo,	2020-04-18	Liber_Ecclesiastes
+1100000633	et in his omnibus laetatus fuerit,	2020-04-18	Liber_Ecclesiastes
+1100000634	meminisse debet tenebrosi temporis, et dierum multorum,	2020-04-18	Liber_Ecclesiastes
+1100000635	qui cum venerint, vanitatis arguentur praeterita.	2020-04-18	Liber_Ecclesiastes
+1100000636	laetare ergo, iuvenis, in adolescentia tua,	2020-04-18	Liber_Ecclesiastes
+1100000637	et in bono sit cor tuum in diebus iuventutis tuae:	2020-04-18	Liber_Ecclesiastes
+1100000638	et ambula in viis cordis tui,	2020-04-18	Liber_Ecclesiastes
+1100000639	et in intuitu oculorum tuorum,	2020-04-18	Liber_Ecclesiastes
+1100000640	et scito quod pro omnibus his adducet te deus in iudicium.	2020-04-18	Liber_Ecclesiastes
+1100000641	aufer iram a corde tuo,	2020-04-18	Liber_Ecclesiastes
+1100000642	et amove malitiam a carne tua:	2020-04-18	Liber_Ecclesiastes
+1100000643	adolescentia enim et voluptas vana sunt.	2020-04-18	Liber_Ecclesiastes
+1100000644	caput 12	2020-04-18	Liber_Ecclesiastes
+1100000645	memento creatoris tui in diebus iuventutis tuae,	2020-04-18	Liber_Ecclesiastes
+1100000646	antequam veniat tempus afflictionis,	2020-04-18	Liber_Ecclesiastes
+1100000647	et appropinquent anni de quibus dicas:	2020-04-18	Liber_Ecclesiastes
+1100000648	non mihi placent;	2020-04-18	Liber_Ecclesiastes
+1100000649	antequam tenebrescat sol, et lumen, et luna, et stellae,	2020-04-18	Liber_Ecclesiastes
+1100000650	et revertantur nubes post pluviam;	2020-04-18	Liber_Ecclesiastes
+1100000651	quando commovebuntur custodes domus,	2020-04-18	Liber_Ecclesiastes
+1100000652	et nutabunt viri fortissimi,	2020-04-18	Liber_Ecclesiastes
+1100000653	et otiosae erunt molentes in minuto numero,	2020-04-18	Liber_Ecclesiastes
+1100000654	et tenebrescent videntes per foramina;	2020-04-18	Liber_Ecclesiastes
+1100000655	et claudent ostia in platea,	2020-04-18	Liber_Ecclesiastes
+1100000656	in humilitate vocis molentis,	2020-04-18	Liber_Ecclesiastes
+1100000657	et consurgent ad vocem volucris,	2020-04-18	Liber_Ecclesiastes
+1100000658	et obsurdescent omnes filiae carminis:	2020-04-18	Liber_Ecclesiastes
+1100000659	excelsa quoque timebunt, et formidabunt in via.	2020-04-18	Liber_Ecclesiastes
+1100000660	florebit amygdalus, impinguabitur locusta,	2020-04-18	Liber_Ecclesiastes
+1100000661	et dissipabitur capparis,	2020-04-18	Liber_Ecclesiastes
+1100000662	quoniam ibit homo in domum aeternitatis suae,	2020-04-18	Liber_Ecclesiastes
+1100000663	et circuibunt in platea plangentes.	2020-04-18	Liber_Ecclesiastes
+1100000664	antequam rumpatur funiculus argenteus,	2020-04-18	Liber_Ecclesiastes
+1100000665	et recurrat vitta aurea,	2020-04-18	Liber_Ecclesiastes
+1100000666	et conteratur hydria super fontem,	2020-04-18	Liber_Ecclesiastes
+1100000667	et confringatur rota super cisternam,	2020-04-18	Liber_Ecclesiastes
+1100000668	et revertatur pulvis in terram suam unde erat,	2020-04-18	Liber_Ecclesiastes
+1100000669	et spiritus redeat ad deum, qui dedit illum.	2020-04-18	Liber_Ecclesiastes
+1100000670	vanitas vanitatum, dixit ecclesiastes,	2020-04-18	Liber_Ecclesiastes
+1100000671	et omnia vanitas.	2020-04-18	Liber_Ecclesiastes
+1100000672	cumque esset sapientissimus ecclesiastes,	2020-04-18	Liber_Ecclesiastes
+1100000673	docuit populum, et enarravit quae fecerat;	2020-04-18	Liber_Ecclesiastes
+1100000674	et investigans composuit parabolas multas.	2020-04-18	Liber_Ecclesiastes
+1100000675	quaesivit verba utilia,	2020-04-18	Liber_Ecclesiastes
+1100000676	et conscripsit sermones rectissimos ac veritate plenos.	2020-04-18	Liber_Ecclesiastes
+1100000677	verba sapientium sicut stimuli,	2020-04-18	Liber_Ecclesiastes
+1100000678	et quasi clavi in altum defixi,	2020-04-18	Liber_Ecclesiastes
+1100000679	quae per magistrorum consilium data sunt a pastore uno.	2020-04-18	Liber_Ecclesiastes
+1100000680	his amplius, fili mi, ne requiras.	2020-04-18	Liber_Ecclesiastes
+1100000681	faciendi plures libros nullus est finis;	2020-04-18	Liber_Ecclesiastes
+1100000682	frequensque meditatio, carnis afflictio est.	2020-04-18	Liber_Ecclesiastes
+1100000683	finem loquendi pariter omnes audiamus.	2020-04-18	Liber_Ecclesiastes
+1100000684	deum time, et mandata eius observa:	2020-04-18	Liber_Ecclesiastes
+1100000685	hoc est enim omnis homo,	2020-04-18	Liber_Ecclesiastes
+1100000686	et cuncta quae fiunt adducet deus in iudicium	2020-04-18	Liber_Ecclesiastes
+1100000687	pro omni errato, sive bonum, sive malum illud sit.	2020-04-18	Liber_Ecclesiastes

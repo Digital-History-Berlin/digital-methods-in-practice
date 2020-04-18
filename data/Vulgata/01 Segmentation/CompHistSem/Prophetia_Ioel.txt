@@ -1,0 +1,252 @@
+1100000001	prophetia ioel	2020-04-18	Prophetia_Ioel
+1100000002	caput 1	2020-04-18	Prophetia_Ioel
+1100000003	verbum domini, quod factum est ad ioel, filium phatuel.	2020-04-18	Prophetia_Ioel
+1100000004	audite hoc, senes,	2020-04-18	Prophetia_Ioel
+1100000005	et auribus percipite, omnes habitatores terrae:	2020-04-18	Prophetia_Ioel
+1100000006	si factum est istud in diebus vestris,	2020-04-18	Prophetia_Ioel
+1100000007	aut in diebus patrum vestrorum?	2020-04-18	Prophetia_Ioel
+1100000008	super hoc filiis vestris narrate,	2020-04-18	Prophetia_Ioel
+1100000009	et filii vestri filiis suis,	2020-04-18	Prophetia_Ioel
+1100000010	et filii eorum generationi alterae.	2020-04-18	Prophetia_Ioel
+1100000011	residuum erucae comedit locusta,	2020-04-18	Prophetia_Ioel
+1100000012	et residuum locustae comedit bruchus,	2020-04-18	Prophetia_Ioel
+1100000013	et residuum bruchi comedit rubigo.	2020-04-18	Prophetia_Ioel
+1100000014	expergiscimini, ebrii,	2020-04-18	Prophetia_Ioel
+1100000015	et flete et ululate, omnes qui bibitis vinum in dulcedine,	2020-04-18	Prophetia_Ioel
+1100000016	quoniam periit ab ore vestro.	2020-04-18	Prophetia_Ioel
+1100000017	gens enim ascendit super terram meam,	2020-04-18	Prophetia_Ioel
+1100000018	fortis et innumerabilis:	2020-04-18	Prophetia_Ioel
+1100000019	dentes eius ut dentes leonis,	2020-04-18	Prophetia_Ioel
+1100000020	et molares eius ut catuli leonis.	2020-04-18	Prophetia_Ioel
+1100000021	posuit vineam meam in desertum,	2020-04-18	Prophetia_Ioel
+1100000022	et ficum meam decorticavit;	2020-04-18	Prophetia_Ioel
+1100000023	nudans spoliavit eam, et proiecit:	2020-04-18	Prophetia_Ioel
+1100000024	albi facti sunt rami eius.	2020-04-18	Prophetia_Ioel
+1100000025	plange quasi virgo accincta sacco super virum pubertatis suae.	2020-04-18	Prophetia_Ioel
+1100000026	periit sacrificium et libatio de domo domini;	2020-04-18	Prophetia_Ioel
+1100000027	luxerunt sacerdotes, ministri domini.	2020-04-18	Prophetia_Ioel
+1100000028	depopulata est regio,	2020-04-18	Prophetia_Ioel
+1100000029	luxit humus,	2020-04-18	Prophetia_Ioel
+1100000030	quoniam devastatum est triticum,	2020-04-18	Prophetia_Ioel
+1100000031	confusum est vinum,	2020-04-18	Prophetia_Ioel
+1100000032	elanguit oleum.	2020-04-18	Prophetia_Ioel
+1100000033	confusi sunt agricolae,	2020-04-18	Prophetia_Ioel
+1100000034	ululaverunt vinitores	2020-04-18	Prophetia_Ioel
+1100000035	super frumento et hordeo,	2020-04-18	Prophetia_Ioel
+1100000036	quia periit messis agri.	2020-04-18	Prophetia_Ioel
+1100000037	vinea confusa est,	2020-04-18	Prophetia_Ioel
+1100000038	et ficus elanguit;	2020-04-18	Prophetia_Ioel
+1100000039	malogranatum, et palma, et malum,	2020-04-18	Prophetia_Ioel
+1100000040	et omnia ligna agri aruerunt,	2020-04-18	Prophetia_Ioel
+1100000041	quia confusum est gaudium a filiis hominum.	2020-04-18	Prophetia_Ioel
+1100000042	accingite vos, et plangite, sacerdotes:	2020-04-18	Prophetia_Ioel
+1100000043	ululate, ministri altaris;	2020-04-18	Prophetia_Ioel
+1100000044	ingredimini, cubate in sacco, ministri dei mei,	2020-04-18	Prophetia_Ioel
+1100000045	quoniam interiit de domo dei vestri sacrificium et libatio.	2020-04-18	Prophetia_Ioel
+1100000046	sanctificate ieiunium, vocate coetum,	2020-04-18	Prophetia_Ioel
+1100000047	congregate senes, omnes habitatores terrae	2020-04-18	Prophetia_Ioel
+1100000048	in domum dei vestri,	2020-04-18	Prophetia_Ioel
+1100000049	et clamate ad dominum:	2020-04-18	Prophetia_Ioel
+1100000050	a, a, a, diei!	2020-04-18	Prophetia_Ioel
+1100000051	quia prope est dies domini,	2020-04-18	Prophetia_Ioel
+1100000052	et quasi vastitas a potente veniet.	2020-04-18	Prophetia_Ioel
+1100000053	numquid non coram oculis vestris alimenta perierunt	2020-04-18	Prophetia_Ioel
+1100000054	de domo dei nostri, laetitia et exsultatio?	2020-04-18	Prophetia_Ioel
+1100000055	computruerunt iumenta in stercore suo,	2020-04-18	Prophetia_Ioel
+1100000056	demolita sunt horrea,	2020-04-18	Prophetia_Ioel
+1100000057	dissipatae sunt apothecae,	2020-04-18	Prophetia_Ioel
+1100000058	quoniam confusum est triticum.	2020-04-18	Prophetia_Ioel
+1100000059	quid ingemuit animal,	2020-04-18	Prophetia_Ioel
+1100000060	mugierunt greges armenti?	2020-04-18	Prophetia_Ioel
+1100000061	quia non est pascua eis;	2020-04-18	Prophetia_Ioel
+1100000062	sed et greges pecorum disperierunt.	2020-04-18	Prophetia_Ioel
+1100000063	ad te, domine, clamabo,	2020-04-18	Prophetia_Ioel
+1100000064	quia ignis comedit speciosa deserti,	2020-04-18	Prophetia_Ioel
+1100000065	et flamma succendit omnia ligna regionis.	2020-04-18	Prophetia_Ioel
+1100000066	sed et bestiae agri, quasi area sitiens imbrem, suspexerunt ad te,	2020-04-18	Prophetia_Ioel
+1100000067	quoniam exsiccati sunt fontes aquarum,	2020-04-18	Prophetia_Ioel
+1100000068	et ignis devoravit speciosa deserti.	2020-04-18	Prophetia_Ioel
+1100000069	caput 2	2020-04-18	Prophetia_Ioel
+1100000070	canite tuba in sion,	2020-04-18	Prophetia_Ioel
+1100000071	ululate in monte sancto meo,	2020-04-18	Prophetia_Ioel
+1100000072	conturbentur omnes habitatores terrae:	2020-04-18	Prophetia_Ioel
+1100000073	quia venit dies domini, quia prope est.	2020-04-18	Prophetia_Ioel
+1100000074	dies tenebrarum et caliginis,	2020-04-18	Prophetia_Ioel
+1100000075	dies nubis et turbinis;	2020-04-18	Prophetia_Ioel
+1100000076	quasi mane expansum super montes	2020-04-18	Prophetia_Ioel
+1100000077	populus multus et fortis:	2020-04-18	Prophetia_Ioel
+1100000078	similis ei non fuit a principio,	2020-04-18	Prophetia_Ioel
+1100000079	et post eum non erit	2020-04-18	Prophetia_Ioel
+1100000080	usque in annos generationis et generationis.	2020-04-18	Prophetia_Ioel
+1100000081	ante faciem eius ignis vorans,	2020-04-18	Prophetia_Ioel
+1100000082	et post eum exurens flamma.	2020-04-18	Prophetia_Ioel
+1100000083	quasi hortus voluptatis terra coram eo,	2020-04-18	Prophetia_Ioel
+1100000084	et post eum solitudo deserti,	2020-04-18	Prophetia_Ioel
+1100000085	neque est qui effugiat eum.	2020-04-18	Prophetia_Ioel
+1100000086	quasi aspectus equorum, aspectus eorum;	2020-04-18	Prophetia_Ioel
+1100000087	et quasi equites, sic current.	2020-04-18	Prophetia_Ioel
+1100000088	sicut sonitus quadrigarum super capita montium exilient,	2020-04-18	Prophetia_Ioel
+1100000089	sicut sonitus flammae ignis devorantis stipulam,	2020-04-18	Prophetia_Ioel
+1100000090	velut populus fortis praeparatus ad praelium.	2020-04-18	Prophetia_Ioel
+1100000091	a facie eius cruciabuntur populi;	2020-04-18	Prophetia_Ioel
+1100000092	omnes vultus redigentur in ollam.	2020-04-18	Prophetia_Ioel
+1100000093	sicut fortes current;	2020-04-18	Prophetia_Ioel
+1100000094	quasi viri bellatores ascendent murum:	2020-04-18	Prophetia_Ioel
+1100000095	viri in viis suis gradientur,	2020-04-18	Prophetia_Ioel
+1100000096	et non declinabunt a semitis suis.	2020-04-18	Prophetia_Ioel
+1100000097	unusquisque fratrem suum non coarctabit,	2020-04-18	Prophetia_Ioel
+1100000098	singuli in calle suo ambulabunt;	2020-04-18	Prophetia_Ioel
+1100000099	sed et per fenestras cadent, et non demolientur.	2020-04-18	Prophetia_Ioel
+1100000100	urbem ingredientur, in muro current,	2020-04-18	Prophetia_Ioel
+1100000101	domos conscendent, per fenestras intrabunt quasi fur.	2020-04-18	Prophetia_Ioel
+1100000102	a facie eius contremuit terra,	2020-04-18	Prophetia_Ioel
+1100000103	moti sunt caeli,	2020-04-18	Prophetia_Ioel
+1100000104	sol et luna obtenebrati sunt,	2020-04-18	Prophetia_Ioel
+1100000105	et stellae retraxerunt splendorem suum.	2020-04-18	Prophetia_Ioel
+1100000106	et dominus dedit vocem suam ante faciem exercitus sui,	2020-04-18	Prophetia_Ioel
+1100000107	quia multa sunt nimis castra eius,	2020-04-18	Prophetia_Ioel
+1100000108	quia fortia et facientia verbum eius:	2020-04-18	Prophetia_Ioel
+1100000109	magnus enim dies domini, et terribilis valde,	2020-04-18	Prophetia_Ioel
+1100000110	et quis sustinebit eum?	2020-04-18	Prophetia_Ioel
+1100000111	nunc ergo, dicit dominus,	2020-04-18	Prophetia_Ioel
+1100000112	convertimini ad me in toto corde vestro,	2020-04-18	Prophetia_Ioel
+1100000113	in ieiunio, et in fletu, et in planctu.	2020-04-18	Prophetia_Ioel
+1100000114	et scindite corda vestra, et non vestimenta vestra;	2020-04-18	Prophetia_Ioel
+1100000115	et convertimini ad dominum deum vestrum,	2020-04-18	Prophetia_Ioel
+1100000116	quia benignus et misericors est,	2020-04-18	Prophetia_Ioel
+1100000117	patiens et multae misericordiae,	2020-04-18	Prophetia_Ioel
+1100000118	et praestabilis super malitia.	2020-04-18	Prophetia_Ioel
+1100000119	quis scit si convertatur, et ignoscat,	2020-04-18	Prophetia_Ioel
+1100000120	et relinquat post se benedictionem, sacrificium et libamen domino deo vestro?	2020-04-18	Prophetia_Ioel
+1100000121	canite tuba in sion,	2020-04-18	Prophetia_Ioel
+1100000122	sanctificate ieiunium, vocate coetum:	2020-04-18	Prophetia_Ioel
+1100000123	congregate populum, sanctificate ecclesiam,	2020-04-18	Prophetia_Ioel
+1100000124	coadunate senes, congregate parvulos, et sugentes ubera;	2020-04-18	Prophetia_Ioel
+1100000125	egrediatur sponsus de cubili suo,	2020-04-18	Prophetia_Ioel
+1100000126	et sponsa de thalamo suo.	2020-04-18	Prophetia_Ioel
+1100000127	inter vestibulum et altare plorabunt sacerdotes, ministri domini,	2020-04-18	Prophetia_Ioel
+1100000128	et dicent: parce, domine, parce populo tuo;	2020-04-18	Prophetia_Ioel
+1100000129	et ne des haereditatem tuam in opprobrium,	2020-04-18	Prophetia_Ioel
+1100000130	ut dominentur eis nationes.	2020-04-18	Prophetia_Ioel
+1100000131	quare dicunt in populis: ubi est deus eorum?	2020-04-18	Prophetia_Ioel
+1100000132	zelatus est dominus terram suam,	2020-04-18	Prophetia_Ioel
+1100000133	et pepercit populo suo.	2020-04-18	Prophetia_Ioel
+1100000134	et respondit dominus, et dixit populo suo:	2020-04-18	Prophetia_Ioel
+1100000135	ecce ego mittam vobis frumentum, et vinum, et oleum,	2020-04-18	Prophetia_Ioel
+1100000136	et replebimini eis;	2020-04-18	Prophetia_Ioel
+1100000137	et non dabo vos ultra opprobrium in gentibus.	2020-04-18	Prophetia_Ioel
+1100000138	et eum qui ab aquilone est procul faciam a vobis,	2020-04-18	Prophetia_Ioel
+1100000139	et expellam eum in terram inviam et desertam:	2020-04-18	Prophetia_Ioel
+1100000140	faciem eius contra mare orientale,	2020-04-18	Prophetia_Ioel
+1100000141	et extremum eius ad mare novissimum:	2020-04-18	Prophetia_Ioel
+1100000142	et ascendet foetor eius,	2020-04-18	Prophetia_Ioel
+1100000143	et ascendet putredo eius,	2020-04-18	Prophetia_Ioel
+1100000144	quia superbe egit.	2020-04-18	Prophetia_Ioel
+1100000145	noli timere, terra:	2020-04-18	Prophetia_Ioel
+1100000146	exsulta, et laetare,	2020-04-18	Prophetia_Ioel
+1100000147	quoniam magnificavit dominus ut faceret.	2020-04-18	Prophetia_Ioel
+1100000148	nolite timere, animalia regionis,	2020-04-18	Prophetia_Ioel
+1100000149	quia germinaverunt speciosa deserti;	2020-04-18	Prophetia_Ioel
+1100000150	quia lignum attulit fructum suum,	2020-04-18	Prophetia_Ioel
+1100000151	ficus et vinea dederunt virtutem suam.	2020-04-18	Prophetia_Ioel
+1100000152	et, filii sion, exsultate,	2020-04-18	Prophetia_Ioel
+1100000153	et laetamini in domino deo vestro,	2020-04-18	Prophetia_Ioel
+1100000154	quia dedit vobis doctorem iustitiae,	2020-04-18	Prophetia_Ioel
+1100000155	et descendere faciet ad vos imbrem matutinum et serotinum,	2020-04-18	Prophetia_Ioel
+1100000156	sicut in principio.	2020-04-18	Prophetia_Ioel
+1100000157	et implebuntur areae frumento,	2020-04-18	Prophetia_Ioel
+1100000158	et redundabunt torcularia vino et oleo.	2020-04-18	Prophetia_Ioel
+1100000159	et reddam vobis annos, quos comedit locusta,	2020-04-18	Prophetia_Ioel
+1100000160	bruchus, et rubigo, et eruca:	2020-04-18	Prophetia_Ioel
+1100000161	fortitudo mea magna quam misi in vos.	2020-04-18	Prophetia_Ioel
+1100000162	et comedetis vescentes, et saturabimini;	2020-04-18	Prophetia_Ioel
+1100000163	et laudabitis nomen domini dei vestri,	2020-04-18	Prophetia_Ioel
+1100000164	qui fecit mirabilia vobiscum;	2020-04-18	Prophetia_Ioel
+1100000165	et non confundetur populus meus in sempiternum.	2020-04-18	Prophetia_Ioel
+1100000166	et scietis quia in medio israel ego sum,	2020-04-18	Prophetia_Ioel
+1100000167	et ego dominus deus vester, et non est amplius;	2020-04-18	Prophetia_Ioel
+1100000168	et non confundetur populus meus in aeternum.	2020-04-18	Prophetia_Ioel
+1100000169	et erit post haec:	2020-04-18	Prophetia_Ioel
+1100000170	effundam spiritum meum super omnem carnem,	2020-04-18	Prophetia_Ioel
+1100000171	et prophetabunt filii vestri et filiae vestrae:	2020-04-18	Prophetia_Ioel
+1100000172	senes vestri somnia somniabunt,	2020-04-18	Prophetia_Ioel
+1100000173	et iuvenes vestri visiones videbunt.	2020-04-18	Prophetia_Ioel
+1100000174	sed et super servos meos et ancillas	2020-04-18	Prophetia_Ioel
+1100000175	in diebus illis effundam spiritum meum.	2020-04-18	Prophetia_Ioel
+1100000176	et dabo prodigia in caelo et in terra,	2020-04-18	Prophetia_Ioel
+1100000177	sanguinem, et ignem, et vaporem fumi.	2020-04-18	Prophetia_Ioel
+1100000178	sol convertetur in tenebras,	2020-04-18	Prophetia_Ioel
+1100000179	et luna in sanguinem,	2020-04-18	Prophetia_Ioel
+1100000180	antequam veniat dies domini magnus et horribilis.	2020-04-18	Prophetia_Ioel
+1100000181	et erit: omnis qui invocaverit nomen domini, salvus erit:	2020-04-18	Prophetia_Ioel
+1100000182	quia in monte sion et in ierusalem	2020-04-18	Prophetia_Ioel
+1100000183	erit salvatio, sicut dixit dominus,	2020-04-18	Prophetia_Ioel
+1100000184	et in residuis quos dominus vocaverit.	2020-04-18	Prophetia_Ioel
+1100000185	caput 3	2020-04-18	Prophetia_Ioel
+1100000186	quia ecce in diebus illis, et in tempore illo,	2020-04-18	Prophetia_Ioel
+1100000187	cum convertero captivitatem iuda et ierusalem,	2020-04-18	Prophetia_Ioel
+1100000188	congregabo omnes gentes,	2020-04-18	Prophetia_Ioel
+1100000189	et deducam eas in vallem iosaphat;	2020-04-18	Prophetia_Ioel
+1100000190	et disceptabo cum eis ibi super populo meo,	2020-04-18	Prophetia_Ioel
+1100000191	et haereditate mea israel,	2020-04-18	Prophetia_Ioel
+1100000192	quos disperserunt in nationibus,	2020-04-18	Prophetia_Ioel
+1100000193	et terram meam diviserunt.	2020-04-18	Prophetia_Ioel
+1100000194	et super populum meum miserunt sortem;	2020-04-18	Prophetia_Ioel
+1100000195	et posuerunt puerum in prostibulo,	2020-04-18	Prophetia_Ioel
+1100000196	et puellam vendiderunt pro vino ut biberent.	2020-04-18	Prophetia_Ioel
+1100000197	verum quid mihi et vobis, tyrus et sidon,	2020-04-18	Prophetia_Ioel
+1100000198	et omnis terminus palaestinorum?	2020-04-18	Prophetia_Ioel
+1100000199	numquid ultionem vos reddetis mihi?	2020-04-18	Prophetia_Ioel
+1100000200	et si ulciscimini vos contra me,	2020-04-18	Prophetia_Ioel
+1100000201	cito velociter reddam vicissitudinem vobis super caput vestrum.	2020-04-18	Prophetia_Ioel
+1100000202	argentum enim meum et aurum tulistis,	2020-04-18	Prophetia_Ioel
+1100000203	et desiderabilia mea et pulcherrima intulistis in delubra vestra.	2020-04-18	Prophetia_Ioel
+1100000204	et filios iuda et filios ierusalem vendidistis filiis graecorum,	2020-04-18	Prophetia_Ioel
+1100000205	ut longe faceretis eos de finibus suis.	2020-04-18	Prophetia_Ioel
+1100000206	ecce ego suscitabo eos de loco in quo vendidistis eos,	2020-04-18	Prophetia_Ioel
+1100000207	et convertam retributionem vestram in caput vestrum.	2020-04-18	Prophetia_Ioel
+1100000208	et vendam filios vestros et filias vestras in manibus filiorum iuda,	2020-04-18	Prophetia_Ioel
+1100000209	et venundabunt eos sabaeis, genti longinquae,	2020-04-18	Prophetia_Ioel
+1100000210	quia dominus locutus est.	2020-04-18	Prophetia_Ioel
+1100000211	clamate hoc in gentibus,	2020-04-18	Prophetia_Ioel
+1100000212	sanctificate bellum,	2020-04-18	Prophetia_Ioel
+1100000213	suscitate robustos:	2020-04-18	Prophetia_Ioel
+1100000214	accedant, ascendant omnes viri bellatores.	2020-04-18	Prophetia_Ioel
+1100000215	concidite aratra vestra in gladios,	2020-04-18	Prophetia_Ioel
+1100000216	et ligones vestros in lanceas.	2020-04-18	Prophetia_Ioel
+1100000217	infirmus dicat: quia fortis ego sum.	2020-04-18	Prophetia_Ioel
+1100000218	erumpite, et venite, omnes gentes de circuitu,	2020-04-18	Prophetia_Ioel
+1100000219	et congregamini;	2020-04-18	Prophetia_Ioel
+1100000220	ibi occumbere faciet dominus robustos tuos.	2020-04-18	Prophetia_Ioel
+1100000221	consurgant, et ascendant gentes in vallem iosaphat,	2020-04-18	Prophetia_Ioel
+1100000222	quia ibi sedebo ut iudicem omnes gentes in circuitu.	2020-04-18	Prophetia_Ioel
+1100000223	mittite falces, quoniam maturavit messis;	2020-04-18	Prophetia_Ioel
+1100000224	venite, et descendite,	2020-04-18	Prophetia_Ioel
+1100000225	quia plenum est torcular, exuberant torcularia:	2020-04-18	Prophetia_Ioel
+1100000226	quia multiplicata est malitia eorum.	2020-04-18	Prophetia_Ioel
+1100000227	populi, populi, in valle concisionis,	2020-04-18	Prophetia_Ioel
+1100000228	quia iuxta est dies domini in valle concisionis.	2020-04-18	Prophetia_Ioel
+1100000229	sol et luna obtenebrati sunt,	2020-04-18	Prophetia_Ioel
+1100000230	et stellae retraxerunt splendorem suum.	2020-04-18	Prophetia_Ioel
+1100000231	et dominus de sion rugiet,	2020-04-18	Prophetia_Ioel
+1100000232	et de ierusalem dabit vocem suam,	2020-04-18	Prophetia_Ioel
+1100000233	et movebuntur caeli et terra;	2020-04-18	Prophetia_Ioel
+1100000234	et dominus spes populi sui,	2020-04-18	Prophetia_Ioel
+1100000235	et fortitudo filiorum israel.	2020-04-18	Prophetia_Ioel
+1100000236	et scietis quia ego dominus deus vester,	2020-04-18	Prophetia_Ioel
+1100000237	habitans in sion monte sancto meo;	2020-04-18	Prophetia_Ioel
+1100000238	et erit ierusalem sancta,	2020-04-18	Prophetia_Ioel
+1100000239	et alieni non transibunt per eam amplius.	2020-04-18	Prophetia_Ioel
+1100000240	et erit in die illa: stillabunt montes dulcedinem,	2020-04-18	Prophetia_Ioel
+1100000241	et colles fluent lacte,	2020-04-18	Prophetia_Ioel
+1100000242	et per omnes rivos iuda ibunt aquae;	2020-04-18	Prophetia_Ioel
+1100000243	et fons de domo domini egredietur,	2020-04-18	Prophetia_Ioel
+1100000244	et irrigabit torrentem spinarum.	2020-04-18	Prophetia_Ioel
+1100000245	aegyptus in desolationem erit,	2020-04-18	Prophetia_Ioel
+1100000246	et idumaea in desertum perditionis,	2020-04-18	Prophetia_Ioel
+1100000247	pro eo quod inique egerint in filios iuda,	2020-04-18	Prophetia_Ioel
+1100000248	et effuderint sanguinem innocentem in terra sua.	2020-04-18	Prophetia_Ioel
+1100000249	et iudaea in aeternum habitabitur,	2020-04-18	Prophetia_Ioel
+1100000250	et ierusalem in generationem et generationem.	2020-04-18	Prophetia_Ioel
+1100000251	et mundabo sanguinem eorum, quem non mundaveram;	2020-04-18	Prophetia_Ioel
+1100000252	et dominus commorabitur in sion.	2020-04-18	Prophetia_Ioel

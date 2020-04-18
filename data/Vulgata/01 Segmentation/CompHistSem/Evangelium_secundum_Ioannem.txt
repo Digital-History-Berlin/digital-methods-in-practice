@@ -1,0 +1,1073 @@
+1100000001	evangelium secundum ioannem	2020-04-18	Evangelium_secundum_Ioannem
+1100000002	caput 1	2020-04-18	Evangelium_secundum_Ioannem
+1100000003	in principio erat verbum,	2020-04-18	Evangelium_secundum_Ioannem
+1100000004	et verbum erat apud deum,	2020-04-18	Evangelium_secundum_Ioannem
+1100000005	et deus erat verbum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000006	hoc erat in principio apud deum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000007	omnia per ipsum facta sunt:	2020-04-18	Evangelium_secundum_Ioannem
+1100000008	et sine ipso factum est nihil, quod factum est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000009	in ipso vita erat,	2020-04-18	Evangelium_secundum_Ioannem
+1100000010	et vita erat lux hominum:	2020-04-18	Evangelium_secundum_Ioannem
+1100000011	et lux in tenebris lucet,	2020-04-18	Evangelium_secundum_Ioannem
+1100000012	et tenebrae eam non comprehenderunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000013	fuit homo	2020-04-18	Evangelium_secundum_Ioannem
+1100000014	missus a deo,	2020-04-18	Evangelium_secundum_Ioannem
+1100000015	cui nomen erat ioannes.	2020-04-18	Evangelium_secundum_Ioannem
+1100000016	hic venit in testimonium	2020-04-18	Evangelium_secundum_Ioannem
+1100000017	ut testimonium perhiberet de lumine,	2020-04-18	Evangelium_secundum_Ioannem
+1100000018	ut omnes crederent per illum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000019	non erat ille lux,	2020-04-18	Evangelium_secundum_Ioannem
+1100000020	sed ut testimonium perhiberet de lumine.	2020-04-18	Evangelium_secundum_Ioannem
+1100000021	erat lux vera,	2020-04-18	Evangelium_secundum_Ioannem
+1100000022	quae illuminat omnem hominem	2020-04-18	Evangelium_secundum_Ioannem
+1100000023	venientem in hunc mundum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000024	in mundo erat,	2020-04-18	Evangelium_secundum_Ioannem
+1100000025	et mundus per ipsum factus est,	2020-04-18	Evangelium_secundum_Ioannem
+1100000026	et mundus eum non cognovit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000027	in propria venit,	2020-04-18	Evangelium_secundum_Ioannem
+1100000028	et sui eum non receperunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000029	quotquot autem receperunt eum,	2020-04-18	Evangelium_secundum_Ioannem
+1100000030	dedit eis potestatem filios dei fieri,	2020-04-18	Evangelium_secundum_Ioannem
+1100000031	his qui credunt in nomine eius:	2020-04-18	Evangelium_secundum_Ioannem
+1100000032	qui non ex sanguinibus,	2020-04-18	Evangelium_secundum_Ioannem
+1100000033	neque ex voluntate carnis,	2020-04-18	Evangelium_secundum_Ioannem
+1100000034	neque ex voluntate viri,	2020-04-18	Evangelium_secundum_Ioannem
+1100000035	sed ex deo nati sunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000036	et verbum caro factum est,	2020-04-18	Evangelium_secundum_Ioannem
+1100000037	et habitavit in nobis:	2020-04-18	Evangelium_secundum_Ioannem
+1100000038	et vidimus gloriam eius,	2020-04-18	Evangelium_secundum_Ioannem
+1100000039	gloriam quasi unigeniti a patre	2020-04-18	Evangelium_secundum_Ioannem
+1100000040	plenum gratiae et veritatis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000041	ioannes testimonium perhibet de ipso,	2020-04-18	Evangelium_secundum_Ioannem
+1100000042	et clamat dicens:	2020-04-18	Evangelium_secundum_Ioannem
+1100000043	hic erat quem dixi:	2020-04-18	Evangelium_secundum_Ioannem
+1100000044	qui post me venturus est,	2020-04-18	Evangelium_secundum_Ioannem
+1100000045	ante me factus est:	2020-04-18	Evangelium_secundum_Ioannem
+1100000046	quia prior me erat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000047	et de plenitudine eius	2020-04-18	Evangelium_secundum_Ioannem
+1100000048	nos omnes accepimus, et gratiam pro gratia:	2020-04-18	Evangelium_secundum_Ioannem
+1100000049	quia lex per moysen data est,	2020-04-18	Evangelium_secundum_Ioannem
+1100000050	gratia et veritas per iesum christum facta est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000051	deum nemo vidit umquam:	2020-04-18	Evangelium_secundum_Ioannem
+1100000052	unigenitus filius, qui est in sinu patris,	2020-04-18	Evangelium_secundum_Ioannem
+1100000053	ipse enarravit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000054	et hoc est testimonium ioannis, quando miserunt iudaei ab ierosolymis sacerdotes et levitas ad eum ut interrogarent eum: tu quis es?	2020-04-18	Evangelium_secundum_Ioannem
+1100000055	et confessus est, et non negavit, et confessus est: quia non sum ego christus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000056	et interrogaverunt eum: quid ergo? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000057	elias es tu? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000058	et dixit: non sum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000059	propheta es tu? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000060	et respondit: non.	2020-04-18	Evangelium_secundum_Ioannem
+1100000061	dixerunt ergo ei: quis es ut responsum demus his qui miserunt nos? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000062	quid dicis de teipso?	2020-04-18	Evangelium_secundum_Ioannem
+1100000063	ait: ego vox clamantis in deserto: dirigite viam domini, sicut dixit isaias propheta.	2020-04-18	Evangelium_secundum_Ioannem
+1100000064	et qui missi fuerant, erant ex pharisaeis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000065	et interrogaverunt eum, et dixerunt ei: quid ergo baptizas, si tu non es christus, neque elias, neque propheta?	2020-04-18	Evangelium_secundum_Ioannem
+1100000066	respondit eis ioannes, dicens: ego baptizo in aqua: medius autem vestrum stetit, quem vos nescitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000067	ipse est qui post me venturus est, qui ante me factus est: cuius ego non sum dignus ut solvam eius corrigiam calceamenti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000068	haec in bethania facta sunt trans iordanem, ubi erat ioannes baptizans.	2020-04-18	Evangelium_secundum_Ioannem
+1100000069	altera die vidit ioannes iesum venientem ad se, et ait: ecce agnus dei, ecce qui tollit peccatum mundi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000070	hic est de quo dixi: post me venit vir qui ante me factus est: quia prior me erat:et ego nesciebam eum, sed ut manifestetur in israel, propterea veni ego in aqua baptizans.	2020-04-18	Evangelium_secundum_Ioannem
+1100000071	et testimonium perhibuit ioannes, dicens: quia vidi spiritum descendentem quasi columbam de caelo, et mansit super eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000072	et ego nesciebam eum: sed qui misit me baptizare in aqua, ille mihi dixit: super quem videris spiritum descendentem, et manentem super eum, hic est qui baptizat in spiritu sancto.	2020-04-18	Evangelium_secundum_Ioannem
+1100000073	et ego vidi: et testimonium perhibui quia hic est filius dei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000074	altera die iterum stabat ioannes, et ex discipulis eius duo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000075	et respiciens iesum ambulantem, dicit: ecce agnus dei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000076	et audierunt eum duo discipuli loquentem, et secuti sunt iesum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000077	conversus autem iesus, et videns eos sequentes se, dicit eis: quid quaeritis? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000078	qui dixerunt ei: rabbi (quod dicitur interpretatum magister), ubi habitas?	2020-04-18	Evangelium_secundum_Ioannem
+1100000079	dicit eis: venite et videte. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000080	venerunt, et viderunt ubi maneret, et apud eum manserunt die illo: hora autem erat quasi decima.	2020-04-18	Evangelium_secundum_Ioannem
+1100000081	erat autem andreas, frater simonis petri, unus ex duobus qui audierant a ioanne, et secuti fuerant eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000082	invenit hic primum fratrem suum simonem, et dicit ei: invenimus messiam (quod est interpretatum christus).	2020-04-18	Evangelium_secundum_Ioannem
+1100000083	et adduxit eum ad iesum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000084	intuitus autem eum iesus, dixit: tu es simon, filius iona; tu vocaberis cephas, quod interpretatur petrus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000085	in crastinum voluit exire in galilaeam, et invenit philippum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000086	et dicit ei iesus: sequere me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000087	erat autem philippus a bethsaida, civitate andreae et petri.	2020-04-18	Evangelium_secundum_Ioannem
+1100000088	invenit philippus nathanael, et dicit ei: quem scripsit moyses in lege, et prophetae, invenimus iesum filium ioseph a nazareth.	2020-04-18	Evangelium_secundum_Ioannem
+1100000089	et dixit ei nathanael: a nazareth potest aliquid boni esse? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000090	dicit ei philippus: veni et vide.	2020-04-18	Evangelium_secundum_Ioannem
+1100000091	vidit iesus nathanael venientem ad se, et dicit de eo: ecce vere israelita, in quo dolus non est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000092	dicit ei nathanael: unde me nosti? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000093	respondit iesus, et dixit ei: priusquam te philippus vocavit, cum esses sub ficu, vidi te.	2020-04-18	Evangelium_secundum_Ioannem
+1100000094	respondit ei nathanael, et ait: rabbi, tu es filius dei, tu es rex israel.	2020-04-18	Evangelium_secundum_Ioannem
+1100000095	respondit iesus, et dixit ei: quia dixi tibi: vidi te sub ficu, credis; maius his videbis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000096	et dicit ei: amen, amen dico vobis, videbitis caelum apertum, et angelos dei ascendentes, et descendentes supra filium hominis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000097	caput 2	2020-04-18	Evangelium_secundum_Ioannem
+1100000098	et die tertia nuptiae factae sunt in cana galilaeae, et erat mater iesu ibi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000099	vocatus est autem et iesus, et discipuli eius, ad nuptias.	2020-04-18	Evangelium_secundum_Ioannem
+1100000100	et deficiente vino, dicit mater iesu ad eum: vinum non habent.	2020-04-18	Evangelium_secundum_Ioannem
+1100000101	et dicit ei iesus: quid mihi et tibi est, mulier? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000102	nondum venit hora mea.	2020-04-18	Evangelium_secundum_Ioannem
+1100000103	dicit mater eius ministris: quodcumque dixerit vobis, facite.	2020-04-18	Evangelium_secundum_Ioannem
+1100000104	erant autem ibi lapideae hydriae sex positae secundum purificationem iudaeorum, capientes singulae metretas binas vel ternas.	2020-04-18	Evangelium_secundum_Ioannem
+1100000105	dicit eis iesus: implete hydrias aqua. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000106	et impleverunt eas usque ad summum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000107	et dicit eis iesus: haurite nunc, et ferte architriclino. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000108	et tulerunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000109	ut autem gustavit architriclinus aquam vinum factam, et non sciebat unde esset, ministri autem sciebant, qui hauserant aquam: vocat sponsum architriclinus,et dicit ei: omnis homo primum bonum vinum ponit et cum inebriati fuerint, tunc id, quod deterius est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000110	tu autem servasti bonum vinum usque adhuc.	2020-04-18	Evangelium_secundum_Ioannem
+1100000111	hoc fecit initium signorum iesus in cana galilaeae; et manifestavit gloriam suam, et crediderunt in eum discipuli eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000112	post hoc descendit capharnaum ipse, et mater eius, et fratres eius, et discipuli eius: et ibi manserunt non multis diebus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000113	et prope erat pascha iudaeorum, et ascendit iesus ierosolymam:et invenit in templo vendentes boves, et oves, et columbas, et numularios sedentes.	2020-04-18	Evangelium_secundum_Ioannem
+1100000114	et cum fecisset quasi flagellum de funiculis, omnes eiecit de templo, oves quoque, et boves, et numulariorum effudit aes, et mensas subvertit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000115	et his qui columbas vendebant, dixit: auferte ista hinc, et nolite facere domum patris mei, domum negotiationis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000116	recordati sunt vero discipuli eius quia scriptum est: zelus domus tuae comedit me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000117	responderunt ergo iudaei, et dixerunt ei: quod signum ostendis nobis, quia haec facis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000118	respondit iesus, et dixit eis: solvite templum hoc, et in tribus diebus excitabo illud.	2020-04-18	Evangelium_secundum_Ioannem
+1100000119	dixerunt ergo iudaei: quadraginta et sex annis aedificatum est templum hoc, et tu in tribus diebus excitabis illud?	2020-04-18	Evangelium_secundum_Ioannem
+1100000120	ille autem dicebat de templo corporis sui.	2020-04-18	Evangelium_secundum_Ioannem
+1100000121	cum ergo resurrexisset a mortuis, recordati sunt discipuli eius, quia hoc dicebat, et crediderunt scripturae et sermoni quem dixit iesus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000122	cum autem esset ierosolymis in pascha in die festo, multi crediderunt in nomine eius, videntes signa eius, quae faciebat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000123	ipse autem iesus non credebat semetipsum eis, eo quod ipse nosset omnes,et quia opus ei non erat ut quis testimonium perhiberet de homine: ipse enim sciebat quid esset in homine.	2020-04-18	Evangelium_secundum_Ioannem
+1100000124	caput 3	2020-04-18	Evangelium_secundum_Ioannem
+1100000125	erat autem homo ex pharisaeis, nicodemus nomine, princeps iudaeorum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000126	hic venit ad iesum nocte, et dixit ei: rabbi, scimus quia a deo venisti magister, nemo enim potest haec signa facere, quae tu facis, nisi fuerit deus cum eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000127	respondit iesus, et dixit ei: amen, amen dico tibi, nisi quis renatus fuerit denuo, non potest videre regnum dei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000128	dicit ad eum nicodemus: quomodo potest homo nasci, cum sit senex? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000129	numquid potest in ventrem matris suae iterato introire et renasci?	2020-04-18	Evangelium_secundum_Ioannem
+1100000130	respondit iesus: amen, amen dico tibi, nisi quis renatus fuerit ex aqua, et spiritu sancto, non potest introire in regnum dei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000131	quod natum est ex carne, caro est: et quod natum est ex spiritu, spiritus est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000132	non mireris quia dixi tibi: oportet vos nasci denuo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000133	spiritus ubi vult spirat, et vocem eius audis, sed nescis unde veniat, aut quo vadat: sic est omnis qui natus est ex spiritu.	2020-04-18	Evangelium_secundum_Ioannem
+1100000134	respondit nicodemus, et dixit ei: quomodo possunt haec fieri?	2020-04-18	Evangelium_secundum_Ioannem
+1100000135	respondit iesus, et dixit ei: tu es magister in israel, et haec ignoras?	2020-04-18	Evangelium_secundum_Ioannem
+1100000136	amen, amen dico tibi, quia quod scimus loquimur, et quod vidimus testamur, et testimonium nostrum non accipitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000137	si terrena dixi vobis, et non creditis: quomodo, si dixero vobis caelestia, credetis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000138	et nemo ascendit in caelum, nisi qui descendit de caelo, filius hominis, qui est in caelo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000139	et sicut moyses exaltavit serpentem in deserto, ita exaltari oportet filium hominis:ut omnis qui credit in ipsum, non pereat, sed habeat vitam aeternam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000140	sic enim deus dilexit mundum, ut filium suum unigenitum daret: ut omnis qui credit in eum, non pereat, sed habeat vitam aeternam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000141	non enim misit deus filium suum in mundum, ut iudicet mundum, sed ut salvetur mundus per ipsum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000142	qui credit in eum, non iudicatur; qui autem non credit, iam iudicatus est: quia non credit in nomine unigeniti filii dei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000143	hoc est autem iudicium: quia lux venit in mundum, et dilexerunt homines magis tenebras quam lucem: erant enim eorum mala opera.	2020-04-18	Evangelium_secundum_Ioannem
+1100000144	omnis enim qui male agit, odit lucem, et non venit ad lucem, ut non arguantur opera eius:qui autem facit veritatem, venit ad lucem, ut manifestentur opera eius, quia in deo sunt facta.	2020-04-18	Evangelium_secundum_Ioannem
+1100000145	post haec venit iesus et discipuli eius in terram iudaeam: et illic demorabatur cum eis, et baptizabat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000146	erat autem et ioannes baptizans, in aennon, iuxta salim: quia aquae multae erant illic, et veniebant et baptizabantur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000147	nondum enim missus fuerat ioannes in carcerem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000148	facta est autem quaestio ex discipulis ioannis cum iudaeis de purificatione.	2020-04-18	Evangelium_secundum_Ioannem
+1100000149	et venerunt ad ioannem, et dixerunt ei: rabbi, qui erat tecum trans iordanem, cui tu testimonium perhibuisti, ecce hic baptizat, et omnes veniunt ad eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000150	respondit ioannes, et dixit: non potest homo accipere quidquam, nisi fuerit ei datum de caelo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000151	ipsi vos mihi testimonium perhibetis, quod dixerim: non sum ego christus: sed quia missus sum ante illum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000152	qui habet sponsam, sponsus est: amicus autem sponsi, qui stat, et audit eum, gaudio gaudet propter vocem sponsi. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000153	hoc ergo gaudium meum impletum est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000154	illum oportet crescere, me autem minui.	2020-04-18	Evangelium_secundum_Ioannem
+1100000155	qui desursum venit, super omnes est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000156	qui est de terra, de terra est, et de terra loquitur. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000157	qui de caelo venit, super omnes est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000158	et quod vidit, et audivit, hoc testatur: et testimonium eius nemo accipit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000159	qui accepit eius testimonium signavit, quia deus verax est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000160	quem enim misit deus, verba dei loquitur: non enim ad mensuram dat deus spiritum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000161	pater diligit filium et omnia dedit in manu eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000162	qui credit in filium, habet vitam aeternam; qui autem incredulus est filio, non videbit vitam, sed ira dei manet super eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000163	caput 4	2020-04-18	Evangelium_secundum_Ioannem
+1100000164	ut ergo cognovit iesus quia audierunt pharisaei quod iesus plures discipulos facit, et baptizat, quam ioannes(quamquam iesus non baptizaret, sed discipuli eius),reliquit iudaeam, et abiit iterum in galilaeam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000165	oportebat autem eum transire per samariam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000166	venit ergo in civitatem samariae, quae dicitur sichar, iuxta praedium quod dedit iacob ioseph filio suo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000167	erat autem ibi fons iacob. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000168	iesus ergo fatigatus ex itinere, sedebat sic supra fontem. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000169	hora erat quasi sexta.	2020-04-18	Evangelium_secundum_Ioannem
+1100000170	venit mulier de samaria haurire aquam. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000171	dicit ei iesus: da mihi bibere.(	2020-04-18	Evangelium_secundum_Ioannem
+1100000172	discipuli enim eius abierant in civitatem ut cibos emerent.)	2020-04-18	Evangelium_secundum_Ioannem
+1100000173	dicit ergo ei mulier illa samaritana: quomodo tu, iudaeus cum sis, bibere a me poscis, quae sum mulier samaritana? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000174	non enim coutuntur iudaei samaritanis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000175	respondit iesus, et dixit ei: si scires donum dei, et quis est qui dicit tibi: da mihi bibere, tu forsitan petisses ab eo, et dedisset tibi aquam vivam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000176	dicit ei mulier: domine, neque in quo haurias habes, et puteus altus est: unde ergo habes aquam vivam?	2020-04-18	Evangelium_secundum_Ioannem
+1100000177	numquid tu maior es patre nostro iacob, qui dedit nobis puteum, et ipse ex eo bibit, et filii eius, et pecora eius?	2020-04-18	Evangelium_secundum_Ioannem
+1100000178	respondit iesus, et dixit ei: omnis qui bibit ex aqua hac, sitiet iterum; qui autem biberit ex aqua quam ego dabo ei, non sitiet in aeternum:sed aqua quam ego dabo ei, fiet in eo fons aquae salientis in vitam aeternam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000179	dicit ad eum mulier: domine, da mihi hanc aquam, ut non sitiam, neque veniam huc haurire.	2020-04-18	Evangelium_secundum_Ioannem
+1100000180	dicit ei iesus: vade, voca virum tuum, et veni huc.	2020-04-18	Evangelium_secundum_Ioannem
+1100000181	respondit mulier, et dixit: non habeo virum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000182	dicit ei iesus: bene dixisti, quia non habeo virum;quinque enim viros habuisti, et nunc, quem habes, non est tuus vir: hoc vere dixisti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000183	dicit ei mulier: domine, video quia propheta es tu.	2020-04-18	Evangelium_secundum_Ioannem
+1100000184	patres nostri in monte hoc adoraverunt, et vos dicitis, quia ierosolymis est locus ubi adorare oportet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000185	dicit ei iesus: mulier, crede mihi, quia venit hora, quando neque in monte hoc, neque in ierosolymis adorabitis patrem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000186	vos adoratis quod nescitis: nos adoramus quod scimus, quia salus ex iudaeis est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000187	sed venit hora, et nunc est, quando veri adoratores adorabunt patrem in spiritu et veritate. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000188	nam et pater tales quaerit, qui adorent eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000189	spiritus est deus: et eos qui adorant eum, in spiritu et veritate oportet adorare.	2020-04-18	Evangelium_secundum_Ioannem
+1100000190	dicit ei mulier: scio quia messias venit (qui dicitur christus): cum ergo venerit ille, nobis annuntiabit omnia.	2020-04-18	Evangelium_secundum_Ioannem
+1100000191	dicit ei iesus: ego sum, qui loquor tecum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000192	et continuo venerunt discipuli eius, et mirabantur quia cum muliere loquebatur. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000193	nemo tamen dixit: quid quaeris? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000194	aut, quid loqueris cum ea?	2020-04-18	Evangelium_secundum_Ioannem
+1100000195	reliquit ergo hydriam suam mulier, et abiit in civitatem, et dicit illis hominibus:venite, et videte hominem qui dixit mihi omnia quaecumque feci: numquid ipse est christus?	2020-04-18	Evangelium_secundum_Ioannem
+1100000196	exierunt ergo de civitate et veniebant ad eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000197	interea rogabant eum discipuli, dicentes: rabbi, manduca.	2020-04-18	Evangelium_secundum_Ioannem
+1100000198	ille autem dicit eis: ego cibum habeo manducare, quem vos nescitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000199	dicebant ergo discipuli ad invicem: numquid aliquis attulit ei manducare?	2020-04-18	Evangelium_secundum_Ioannem
+1100000200	dicit eis iesus: meus cibus est ut faciam voluntatem eius qui misit me, ut perficiam opus eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000201	nonne vos dicitis quod adhuc quatuor menses sunt, et messis venit? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000202	ecce dico vobis: levate oculos vestros, et videte regiones, quia albae sunt iam ad messem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000203	et qui metit, mercedem accipit, et congregat fructum in vitam aeternam: ut et qui seminat, simul gaudeat, et qui metit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000204	in hoc enim est verbum verum: quia alius est qui seminat, et alius est qui metit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000205	ego misi vos metere quod vos non laborastis: alii laboraverunt, et vos in labores eorum introistis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000206	ex civitate autem illa multi crediderunt in eum samaritanorum, propter verbum mulieris testimonium perhibentis: quia dixit mihi omnia quaecumque feci.	2020-04-18	Evangelium_secundum_Ioannem
+1100000207	cum venissent ergo ad illum samaritani, rogaverunt eum ut ibi maneret. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000208	et mansit ibi duos dies.	2020-04-18	Evangelium_secundum_Ioannem
+1100000209	et multo plures crediderunt in eum propter sermonem eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000210	et mulieri dicebant: quia iam non propter tuam loquelam credimus: ipsi enim audivimus, et scimus quia hic est vere salvator mundi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000211	post duos autem dies exiit inde, et abiit in galilaeam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000212	ipse enim iesus testimonium perhibuit, quia propheta in sua patria honorem non habet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000213	cum ergo venisset in galilaeam, exceperunt eum galilaei, cum omnia vidissent quae fecerat ierosolymis in die festo: et ipsi enim venerant ad diem festum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000214	venit ergo iterum in cana galilaeae, ubi fecit aquam vinum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000215	et erat quidam regulus, cuius filius infirmabatur capharnaum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000216	hic cum audisset quia iesus adveniret a iudaea in galilaeam, abiit ad eum, et rogabat eum ut descenderet, et sanaret filium eius: incipiebat enim mori.	2020-04-18	Evangelium_secundum_Ioannem
+1100000217	dixit ergo iesus ad eum: nisi signa et prodigia videritis, non creditis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000218	dicit ad eum regulus: domine, descende priusquam moriatur filius meus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000219	dicit ei iesus: vade, filius tuus vivit. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000220	credidit homo sermoni quem dixit ei iesus, et ibat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000221	iam autem eo descendente, servi occurrerunt ei, et nuntiaverunt dicentes quia filius eius viveret.	2020-04-18	Evangelium_secundum_Ioannem
+1100000222	interrogabat ergo horam ab eis in qua melius habuerit. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000223	et dixerunt ei: quia heri hora septima reliquit eum febris.	2020-04-18	Evangelium_secundum_Ioannem
+1100000224	cognovit ergo pater, quia illa hora erat in qua dixit ei iesus: filius tuus vivit; et credidit ipse et domus eius tota.	2020-04-18	Evangelium_secundum_Ioannem
+1100000225	hoc iterum secundum signum fecit iesus, cum venisset a iudaea in galilaeam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000226	caput 5	2020-04-18	Evangelium_secundum_Ioannem
+1100000227	post haec erat dies festus iudaeorum, et ascendit iesus ierosolymam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000228	est autem ierosolymis probatica piscina, quae cognominatur hebraice bethsaida, quinque porticus habens.	2020-04-18	Evangelium_secundum_Ioannem
+1100000229	in his iacebat multitudo magna languentium, caecorum, claudorum, aridorum, exspectantium aquae motum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000230	angelus autem domini descendebat secundum tempus in piscinam, et movebatur aqua. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000231	et qui prior descendisset in piscinam post motionem aquae, sanus fiebat a quacumque detinebatur infirmitate.	2020-04-18	Evangelium_secundum_Ioannem
+1100000232	erat autem quidam homo ibi triginta et octo annos habens in infirmitate sua.	2020-04-18	Evangelium_secundum_Ioannem
+1100000233	hunc autem cum vidisset iesus iacentem, et cognovisset quia iam multum tempus haberet, dicit ei: vis sanus fieri?	2020-04-18	Evangelium_secundum_Ioannem
+1100000234	respondit ei languidus: domine, hominem non habeo, ut, cum turbata fuerit aqua, mittat me in piscinam: dum venio enim ego, alius ante me descendit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000235	dicit ei iesus: surge, tolle grabatum tuum et ambula.	2020-04-18	Evangelium_secundum_Ioannem
+1100000236	et statim sanus factus est homo ille: et sustulit grabatum suum, et ambulabat. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000237	erat autem sabbatum in die illo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000238	dicebant ergo iudaei illi qui sanatus fuerat: sabbatum est, non licet tibi tollere grabatum tuum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000239	respondit eis: qui me sanum fecit, ille mihi dixit: tolle grabatum tuum et ambula.	2020-04-18	Evangelium_secundum_Ioannem
+1100000240	interrogaverunt ergo eum: quis est ille homo qui dixit tibi: tolle grabatum tuum et ambula?	2020-04-18	Evangelium_secundum_Ioannem
+1100000241	is autem qui sanus fuerat effectus, nesciebat quis esset. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000242	iesus enim declinavit a turba constituta in loco.	2020-04-18	Evangelium_secundum_Ioannem
+1100000243	postea invenit eum iesus in templo, et dixit illi: ecce sanus factus es; iam noli peccare, ne deterius tibi aliquid contingat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000244	abiit ille homo, et nuntiavit iudaeis quia iesus esset, qui fecit eum sanum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000245	propterea persequebantur iudaei iesum, quia haec faciebat in sabbato.	2020-04-18	Evangelium_secundum_Ioannem
+1100000246	iesus autem respondit eis: pater meus usque modo operatur, et ego operor.	2020-04-18	Evangelium_secundum_Ioannem
+1100000247	propterea ergo magis quaerebant eum iudaei interficere: quia non solum solvebat sabbatum, sed et patrem suum dicebat deum, aequalem se faciens deo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000248	respondit itaque iesus, et dixit eis:amen, amen dico vobis: non potest filius a se facere quidquam, nisi quod viderit patrem facientem: quaecumque enim ille fecerit, haec et filius similiter facit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000249	pater enim diligit filium, et omnia demonstrat ei quae ipse facit: et maiora his demonstrabit ei opera, ut vos miremini.	2020-04-18	Evangelium_secundum_Ioannem
+1100000250	sicut enim pater suscitat mortuos, et vivificat, sic et filius, quos vult, vivificat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000251	neque enim pater iudicat quemquam: sed omne iudicium dedit filio,ut omnes honorificent filium, sicut honorificant patrem; qui non honorificat filium, non honorificat patrem, qui misit illum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000252	amen, amen dico vobis, quia qui verbum meum audit, et credit ei qui misit me, habet vitam aeternam, et in iudicium non venit, sed transiit a morte in vitam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000253	amen, amen dico vobis, quia venit hora, et nunc est, quando mortui audient vocem filii dei: et qui audierint, vivent.	2020-04-18	Evangelium_secundum_Ioannem
+1100000254	sicut enim pater habet vitam in semetipso, sic dedit et filio habere vitam in semetipso:et potestatem dedit ei iudicium facere, quia filius hominis est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000255	nolite mirari hoc, quia venit hora in qua omnes qui in monumentis sunt audient vocem filii dei:et procedent qui bona fecerunt, in resurrectionem vitae; qui vero mala egerunt, in resurrectionem iudicii.	2020-04-18	Evangelium_secundum_Ioannem
+1100000256	non possum ego a meipso facere quidquam. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000257	sicut audio, iudico: et iudicium meum iustum est, quia non quaero voluntatem meam, sed voluntatem eius qui misit me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000258	si ego testimonium perhibeo de meipso, testimonium meum non est verum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000259	alius est qui testimonium perhibet de me: et scio quia verum est testimonium, quod perhibet de me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000260	vos misistis ad ioannem, et testimonium perhibuit veritati.	2020-04-18	Evangelium_secundum_Ioannem
+1100000261	ego autem non ab homine testimonium accipio: sed haec dico ut vos salvi sitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000262	ille erat lucerna ardens et lucens: vos autem voluistis ad horam exsultare in luce eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000263	ego autem habeo testimonium maius ioanne. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000264	opera enim quae dedit mihi pater ut perficiam ea: ipsa opera, quae ego facio, testimonium perhibent de me, quia pater misit me:et qui misit me pater, ipse testimonium perhibuit de me: neque vocem eius umquam audistis, neque speciem eius vidistis:et verbum eius non habetis in vobis manens: quia quem misit ille, huic vos non creditis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000265	scrutamini scripturas, quia vos putatis in ipsis vitam aeternam habere: et illae sunt quae testimonium perhibent de me:et non vultis venire ad me ut vitam habeatis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000266	claritatem ab hominibus non accipio.	2020-04-18	Evangelium_secundum_Ioannem
+1100000267	sed cognovi vos, quia dilectionem dei non habetis in vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000268	ego veni in nomine patris mei, et non accipitis me; si alius venerit in nomine suo, illum accipietis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000269	quomodo vos potestis credere, qui gloriam ab invicem accipitis, et gloriam quae a solo deo est, non quaeritis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000270	nolite putare quia ego accusaturus sim vos apud patrem: est qui accusat vos moyses, in quo vos speratis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000271	si enim crederetis moysi, crederetis forsitan et mihi: de me enim ille scripsit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000272	si autem illius litteris non creditis, quomodo verbis meis credetis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000273	caput 6	2020-04-18	Evangelium_secundum_Ioannem
+1100000274	post haec abiit iesus trans mare galilaeae, quod est tiberiadis:et sequebatur eum multitudo magna, quia videbant signa quae faciebat super his qui infirmabantur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000275	subiit ergo in montem iesus et ibi sedebat cum discipulis suis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000276	erat autem proximum pascha dies festus iudaeorum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000277	cum sublevasset ergo oculos iesus, et vidisset quia multitudo maxima venit ad eum, dixit ad philippum: unde ememus panes, ut manducent hi?	2020-04-18	Evangelium_secundum_Ioannem
+1100000278	hoc autem dicebat tentans eum: ipse enim sciebat quid esset facturus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000279	respondit ei philippus: ducentorum denariorum panes non sufficiunt eis, ut unusquisque modicum quid accipiat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000280	dicit ei unus ex discipulis eius, andreas, frater simonis petri:est puer unus hic qui habet quinque panes hordeaceos et duos pisces: sed haec quid sunt inter tantos?	2020-04-18	Evangelium_secundum_Ioannem
+1100000281	dixit ergo iesus: facite homines discumbere. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000282	erat autem foenum multum in loco. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000283	discubuerunt ergo viri, numero quasi quinque millia.	2020-04-18	Evangelium_secundum_Ioannem
+1100000284	accepit ergo iesus panes: et cum gratias egisset, distribuit discumbentibus: similiter et ex piscibus quantum volebant.	2020-04-18	Evangelium_secundum_Ioannem
+1100000285	ut autem impleti sunt, dixit discipulis suis: colligite quae superaverunt fragmenta, ne pereant.	2020-04-18	Evangelium_secundum_Ioannem
+1100000286	collegerunt ergo, et impleverunt duodecim cophinos fragmentorum ex quinque panibus hordeaceis, quae superfuerunt his qui manducaverant.	2020-04-18	Evangelium_secundum_Ioannem
+1100000287	illi ergo homines cum vidissent quod iesus fecerat signum, dicebant: quia hic est vere propheta, qui venturus est in mundum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000288	iesus ergo cum cognovisset quia venturi essent ut raperent eum, et facerent eum regem, fugit iterum in montem ipse solus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000289	ut autem sero factum est, descenderunt discipuli eius ad mare.	2020-04-18	Evangelium_secundum_Ioannem
+1100000290	et cum ascendissent navim, venerunt trans mare in capharnaum: et tenebrae iam factae erant et non venerat ad eos iesus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000291	mare autem, vento magno flante, exsurgebat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000292	cum remigassent ergo quasi stadia viginti quinque aut triginta, vident iesum ambulantem supra mare, et proximum navi fieri, et timuerunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000293	ille autem dicit eis: ego sum, nolite timere.	2020-04-18	Evangelium_secundum_Ioannem
+1100000294	voluerunt ergo accipere eum in navim et statim navis fuit ad terram, in quam ibant.	2020-04-18	Evangelium_secundum_Ioannem
+1100000295	altera die, turba, quae stabat trans mare, vidit quia navicula alia non erat ibi nisi una, et quia non introisset cum discipulis suis iesus in navim, sed soli discipuli eius abiissent:aliae vero supervenerunt naves a tiberiade iuxta locum ubi manducaverunt panem, gratias agente domino.	2020-04-18	Evangelium_secundum_Ioannem
+1100000296	cum ergo vidisset turba quia iesus non esset ibi, neque discipuli eius, ascenderunt in naviculas, et venerunt capharnaum quaerentes iesum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000297	et cum invenissent eum trans mare, dixerunt ei: rabbi, quando huc venisti?	2020-04-18	Evangelium_secundum_Ioannem
+1100000298	respondit eis iesus, et dixit: amen, amen dico vobis: quaeritis me non quia vidistis signa, sed quia manducastis ex panibus et saturati estis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000299	operamini non cibum, qui perit, sed qui permanet in vitam aeternam, quem filius hominis dabit vobis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000300	hunc enim pater signavit deus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000301	dixerunt ergo ad eum: quid faciemus ut operemur opera dei?	2020-04-18	Evangelium_secundum_Ioannem
+1100000302	respondit iesus, et dixit eis: hoc est opus dei, ut credatis in eum quem misit ille.	2020-04-18	Evangelium_secundum_Ioannem
+1100000303	dixerunt ergo ei: quod ergo tu facis signum ut videamus et credamus tibi? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000304	quid operaris?	2020-04-18	Evangelium_secundum_Ioannem
+1100000305	patres nostri manducaverunt manna in deserto, sicut scriptum est: panem de caelo dedit eis manducare.	2020-04-18	Evangelium_secundum_Ioannem
+1100000306	dixit ergo eis iesus: amen, amen dico vobis: non moyses dedit vobis panem de caelo, sed pater meus dat vobis panem de caelo verum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000307	panis enim dei est, qui de caelo descendit, et dat vitam mundo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000308	dixerunt ergo ad eum: domine, semper da nobis panem hunc.	2020-04-18	Evangelium_secundum_Ioannem
+1100000309	dixit autem eis iesus: ego sum panis vitae: qui venit ad me, non esuriet, et qui credit in me, non sitiet umquam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000310	sed dixi vobis quia et vidistis me, et non creditis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000311	omne quod dat mihi pater, ad me veniet: et eum qui venit ad me, non eiiciam foras:quia descendi de caelo, non ut faciam voluntatem meam, sed voluntatem eius qui misit me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000312	haec est autem voluntas eius qui misit me, patris: ut omne quod dedit mihi, non perdam ex eo, sed resuscitem illud in novissimo die.	2020-04-18	Evangelium_secundum_Ioannem
+1100000313	haec est autem voluntas patris mei, qui misit me: ut omnis qui videt filium et credit in eum, habeat vitam aeternam, et ego resuscitabo eum in novissimo die.	2020-04-18	Evangelium_secundum_Ioannem
+1100000314	murmurabant ergo iudaei de illo, quia dixisset: ego sum panis vivus, qui de caelo descendi,et dicebant: nonne hic est iesus filius ioseph, cuius nos novimus patrem et matrem? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000315	quomodo ergo dicit hic: quia de caelo descendi?	2020-04-18	Evangelium_secundum_Ioannem
+1100000316	respondit ergo iesus, et dixit eis: nolite murmurare in invicem:nemo potest venire ad me, nisi pater, qui misit me, traxerit eum; et ego resuscitabo eum in novissimo die.	2020-04-18	Evangelium_secundum_Ioannem
+1100000317	est scriptum in prophetis: et erunt omnes docibiles dei. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000318	omnis qui audivit a patre, et didicit, venit ad me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000319	non quia patrem vidit quisquam, nisi is, qui est a deo, hic vidit patrem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000320	amen, amen dico vobis: qui credit in me, habet vitam aeternam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000321	ego sum panis vitae.	2020-04-18	Evangelium_secundum_Ioannem
+1100000322	patres vestri manducaverunt manna in deserto, et mortui sunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000323	hic est panis de caelo descendens: ut si quis ex ipso manducaverit, non moriatur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000324	ego sum panis vivus, qui de caelo descendi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000325	si quis manducaverit ex hoc pane, vivet in aeternum: et panis quem ego dabo, caro mea est pro mundi vita.	2020-04-18	Evangelium_secundum_Ioannem
+1100000326	litigabant ergo iudaei ad invicem, dicentes: quomodo potest hic nobis carnem suam dare ad manducandum?	2020-04-18	Evangelium_secundum_Ioannem
+1100000327	dixit ergo eis iesus: amen, amen dico vobis: nisi manducaveritis carnem filii hominis, et biberitis eius sanguinem, non habebitis vitam in vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000328	qui manducat meam carnem, et bibit meum sanguinem, habet vitam aeternam: et ego resuscitabo eum in novissimo die.	2020-04-18	Evangelium_secundum_Ioannem
+1100000329	caro enim mea vere est cibus: et sanguis meus, vere est potus;qui manducat meam carnem et bibit meum sanguinem, in me manet, et ego in illo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000330	sicut misit me vivens pater, et ego vivo propter patrem: et qui manducat me, et ipse vivet propter me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000331	hic est panis qui de caelo descendit. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000332	non sicut manducaverunt patres vestri manna, et mortui sunt. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000333	qui manducat hunc panem, vivet in aeternum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000334	haec dixit in synagoga docens, in capharnaum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000335	multi ergo audientes ex discipulis eius, dixerunt: durus est hic sermo, et quis potest eum audire?	2020-04-18	Evangelium_secundum_Ioannem
+1100000336	sciens autem iesus apud semetipsum quia murmurarent de hoc discipuli eius, dixit eis: hoc vos scandalizat?	2020-04-18	Evangelium_secundum_Ioannem
+1100000337	si ergo videritis filium hominis ascendentem ubi erat prius?	2020-04-18	Evangelium_secundum_Ioannem
+1100000338	spiritus est qui vivificat: caro non prodest quidquam: verba quae ego locutus sum vobis, spiritus et vita sunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000339	sed sunt quidam ex vobis qui non credunt. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000340	sciebat enim ab initio iesus qui essent non credentes, et quis traditurus esset eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000341	et dicebat: propterea dixi vobis, quia nemo potest venire ad me, nisi fuerit ei datum a patre meo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000342	ex hoc multi discipulorum eius abierunt retro: et iam non cum illo ambulabant.	2020-04-18	Evangelium_secundum_Ioannem
+1100000343	dixit ergo iesus ad duodecim: numquid et vos vultis abire?	2020-04-18	Evangelium_secundum_Ioannem
+1100000344	respondit ergo ei simon petrus: domine, ad quem ibimus? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000345	verba vitae aeternae habes:et nos credidimus, et cognovimus quia tu es christus filius dei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000346	respondit eis iesus: nonne ego vos duodecim elegi: et ex vobis unus diabolus est?	2020-04-18	Evangelium_secundum_Ioannem
+1100000347	dicebat autem iudam simonis iscariotem: hic enim erat traditurus eum, cum esset unus ex duodecim.	2020-04-18	Evangelium_secundum_Ioannem
+1100000348	caput 7	2020-04-18	Evangelium_secundum_Ioannem
+1100000349	post haec autem ambulabat iesus in galilaeam: non enim volebat in iudaeam ambulare, quia quaerebant eum iudaei interficere.	2020-04-18	Evangelium_secundum_Ioannem
+1100000350	erat autem in proximo dies festus iudaeorum, scenopegia.	2020-04-18	Evangelium_secundum_Ioannem
+1100000351	dixerunt autem ad eum fratres eius: transi hinc, et vade in iudaeam, ut et discipuli tui videant opera tua, quae facis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000352	nemo quippe in occulto quid facit, et quaerit ipse in palam esse: si haec facis, manifesta teipsum mundo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000353	neque enim fratres eius credebant in eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000354	dicit ergo eis iesus: tempus meum nondum advenit: tempus autem vestrum semper est paratum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000355	non potest mundus odisse vos: me autem odit, quia ego testimonium perhibeo de illo quod opera eius mala sunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000356	vos ascendite ad diem festum hunc, ego autem non ascendo ad diem festum istum: quia meum tempus nondum impletum est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000357	haec cum dixisset, ipse mansit in galilaea.	2020-04-18	Evangelium_secundum_Ioannem
+1100000358	ut autem ascenderunt fratres eius, tunc et ipse ascendit ad diem festum non manifeste, sed quasi in occulto.	2020-04-18	Evangelium_secundum_Ioannem
+1100000359	iudaei ergo quaerebant eum in die festo, et dicebant: ubi est ille?	2020-04-18	Evangelium_secundum_Ioannem
+1100000360	et murmur multum erat in turba de eo. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000361	quidam enim dicebant: quia bonus est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000362	alii autem dicebant: non, sed seducit turbas.	2020-04-18	Evangelium_secundum_Ioannem
+1100000363	nemo tamen palam loquebatur de illo propter metum iudaeorum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000364	iam autem die festo mediante, ascendit iesus in templum, et docebat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000365	et mirabantur iudaei, dicentes: quomodo hic litteras scit, cum non didicerit?	2020-04-18	Evangelium_secundum_Ioannem
+1100000366	respondit eis iesus, et dixit: mea doctrina non est mea, sed eius qui misit me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000367	si quis voluerit voluntatem eius facere, cognoscet de doctrina, utrum ex deo sit, an ego a meipso loquar.	2020-04-18	Evangelium_secundum_Ioannem
+1100000368	qui a semetipso loquitur, gloriam propriam quaerit; qui autem quaerit gloriam eius qui misit eum, hic verax est, et iniustitia in illo non est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000369	nonne moyses dedit vobis legem: et nemo ex vobis facit legem?	2020-04-18	Evangelium_secundum_Ioannem
+1100000370	quid me quaeritis interficere? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000371	respondit turba, et dixit: daemonium habes: quis te quaerit interficere?	2020-04-18	Evangelium_secundum_Ioannem
+1100000372	respondit iesus et dixit eis: unum opus feci, et omnes miramini:propterea moyses dedit vobis circumcisionem (non quia ex moyse est, sed ex patribus), et in sabbato circumciditis hominem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000373	si circumcisionem accipit homo in sabbato, ut non solvatur lex moysi: mihi indignamini quia totum hominem sanum feci in sabbato?	2020-04-18	Evangelium_secundum_Ioannem
+1100000374	nolite iudicare secundum faciem, sed iustum iudicium iudicate.	2020-04-18	Evangelium_secundum_Ioannem
+1100000375	dicebant ergo quidam ex ierosolymis: nonne hic est, quem quaerunt interficere?	2020-04-18	Evangelium_secundum_Ioannem
+1100000376	et ecce palam loquitur, et nihil ei dicunt. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000377	numquid vere cognoverunt principes quia hic est christus?	2020-04-18	Evangelium_secundum_Ioannem
+1100000378	sed hunc scimus unde sit: christus autem cum venerit, nemo scit unde sit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000379	clamabat ergo iesus in templo docens, et dicens: et me scitis, et unde sim scitis: et a meipso non veni, sed est verus qui misit me, quem vos nescitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000380	ego scio eum: quia ab ipso sum, et ipse me misit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000381	quaerebant ergo eum apprehendere: et nemo misit in illum manus, quia nondum venerat hora eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000382	de turba autem multi crediderunt in eum, et dicebant: christus cum venerit, numquid plura signa faciet quam quae hic facit?	2020-04-18	Evangelium_secundum_Ioannem
+1100000383	audierunt pharisaei turbam murmurantem de illo haec: et miserunt principes et pharisaei ministros ut apprehenderent eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000384	dixit ergo eis iesus: adhuc modicum tempus vobiscum sum: et vado ad eum qui me misit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000385	quaeretis me, et non invenietis: et ubi ego sum, vos non potestis venire.	2020-04-18	Evangelium_secundum_Ioannem
+1100000386	dixerunt ergo iudaei ad semetipsos: quo hic iturus est, quia non inveniemus eum? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000387	numquid in dispersionem gentium iturus est, et docturus gentes?	2020-04-18	Evangelium_secundum_Ioannem
+1100000388	quis est hic sermo, quem dixit: quaeretis me, et non invenietis: et ubi sum ego, vos non potestis venire?	2020-04-18	Evangelium_secundum_Ioannem
+1100000389	in novissimo autem die magno festivitatis stabat iesus, et clamabat dicens: si quis sitit, veniat ad me et bibat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000390	qui credit in me, sicut dicit scriptura, flumina de ventre eius fluent aquae vivae.	2020-04-18	Evangelium_secundum_Ioannem
+1100000391	hoc autem dixit de spiritu, quem accepturi erant credentes in eum: nondum enim erat spiritus datus, quia iesus nondum erat glorificatus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000392	ex illa ergo turba cum audissent hos sermones eius, dicebant: hic est vere propheta.	2020-04-18	Evangelium_secundum_Ioannem
+1100000393	alii dicebant: hic est christus. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000394	quidam autem dicebant: numquid a galilaea venit christus?	2020-04-18	Evangelium_secundum_Ioannem
+1100000395	nonne scriptura dicit: quia ex semine david, et de bethlehem castello, ubi erat david, venit christus?	2020-04-18	Evangelium_secundum_Ioannem
+1100000396	dissensio itaque facta est in turba propter eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000397	quidam autem ex ipsis volebant apprehendere eum: sed nemo misit super eum manus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000398	venerunt ergo ministri ad pontifices et pharisaeos. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000399	et dixerunt eis illi: quare non adduxistis illum?	2020-04-18	Evangelium_secundum_Ioannem
+1100000400	responderunt ministri: numquam sic locutus est homo, sicut hic homo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000401	responderunt ergo eis pharisaei: numquid et vos seducti estis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000402	numquid ex principibus aliquis credidit in eum, aut ex pharisaeis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000403	sed turba haec, quae non novit legem, maledicti sunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000404	dixit nicodemus ad eos, ille qui venit ad eum nocte, qui unus erat ex ipsis:numquid lex nostra iudicat hominem, nisi prius audierit ab ipso, et cognoverit quid faciat?	2020-04-18	Evangelium_secundum_Ioannem
+1100000405	responderunt, et dixerunt ei: numquid et tu galilaeus es? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000406	scrutare scripturas, et vide quia a galilaea propheta non surgit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000407	et reversi sunt unusquisque in domum suam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000408	caput 8	2020-04-18	Evangelium_secundum_Ioannem
+1100000409	iesus autem perrexit in montem oliveti:et diluculo iterum venit in templum, et omnis populus venit ad eum, et sedens docebat eos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000410	adducunt autem scribae et pharisaei mulierem in adulterio deprehensam: et statuerunt eam in medio,et dixerunt ei: magister, haec mulier modo deprehensa est in adulterio.	2020-04-18	Evangelium_secundum_Ioannem
+1100000411	in lege autem moyses mandavit nobis huiusmodi lapidare. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000412	tu ergo quid dicis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000413	hoc autem dicebant tentantes eum, ut possent accusare eum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000414	iesus autem inclinans se deorsum, digito scribebat in terra.	2020-04-18	Evangelium_secundum_Ioannem
+1100000415	cum ergo perseverarent interrogantes eum, erexit se, et dixit eis: qui sine peccato est vestrum, primus in illam lapidem mittat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000416	et iterum se inclinans, scribebat in terra.	2020-04-18	Evangelium_secundum_Ioannem
+1100000417	audientes autem unus post unum exibant, incipientes a senioribus: et remansit solus iesus, et mulier in medio stans.	2020-04-18	Evangelium_secundum_Ioannem
+1100000418	erigens autem se iesus, dixit ei: mulier, ubi sunt qui te accusabant? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000419	nemo te condemnavit?	2020-04-18	Evangelium_secundum_Ioannem
+1100000420	quae dixit: nemo, domine. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000421	dixit autem iesus: nec ego te condemnabo: vade, et iam amplius noli peccare.	2020-04-18	Evangelium_secundum_Ioannem
+1100000422	iterum ergo locutus est eis iesus, dicens: ego sum lux mundi: qui sequitur me, non ambulat in tenebris, sed habebit lumen vitae.	2020-04-18	Evangelium_secundum_Ioannem
+1100000423	dixerunt ergo ei pharisaei: tu de teipso testimonium perhibes; testimonium tuum non est verum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000424	respondit iesus, et dixit eis: et si ego testimonium perhibeo de meipso, verum est testimonium meum: quia scio unde veni et quo vado; vos autem nescitis unde venio aut quo vado.	2020-04-18	Evangelium_secundum_Ioannem
+1100000425	vos secundum carnem iudicatis: ego non iudico quemquam;et si iudico ego, iudicium meum verum est, quia solus non sum: sed ego et qui misit me, pater.	2020-04-18	Evangelium_secundum_Ioannem
+1100000426	et in lege vestra scriptum est, quia duorum hominum testimonium verum est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000427	ego sum qui testimonium perhibeo de meipso, et testimonium perhibet de me qui misit me, pater.	2020-04-18	Evangelium_secundum_Ioannem
+1100000428	dicebant ergo ei: ubi est pater tuus? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000429	respondit iesus: neque me scitis, neque patrem meum: si me sciretis, forsitan et patrem meum sciretis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000430	haec verba locutus est iesus in gazophylacio, docens in templo: et nemo apprehendit eum, quia necdum venerat hora eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000431	dixit ergo iterum eis iesus: ego vado, et quaeretis me, et in peccato vestro moriemini. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000432	quo ego vado, vos non potestis venire.	2020-04-18	Evangelium_secundum_Ioannem
+1100000433	dicebant ergo iudaei: numquid interficiet semetipsum, quia dixit: quo ego vado, vos non potestis venire?	2020-04-18	Evangelium_secundum_Ioannem
+1100000434	et dicebat eis: vos de deorsum estis, ego de supernis sum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000435	vos de mundo hoc estis, ego non sum de hoc mundo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000436	dixi ergo vobis quia moriemini in peccatis vestris: si enim non credideritis quia ego sum, moriemini in peccato vestro.	2020-04-18	Evangelium_secundum_Ioannem
+1100000437	dicebant ergo ei: tu quis es? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000438	dixit eis iesus: principium, qui et loquor vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000439	multa habeo de vobis loqui, et iudicare; sed qui me misit, verax est; et ego quae audivi ab eo, haec loquor in mundo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000440	et non cognoverunt quia patrem eius dicebat deum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000441	dixit ergo eis iesus: cum exaltaveritis filium hominis, tunc cognoscetis quia ego sum, et a meipso facio nihil, sed sicut docuit me pater, haec loquor:et qui me misit, mecum est, et non reliquit me solum: quia ego quae placita sunt ei, facio semper.	2020-04-18	Evangelium_secundum_Ioannem
+1100000442	haec illo loquente, multi crediderunt in eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000443	dicebat ergo iesus ad eos, qui crediderunt ei, iudaeos: si vos manseritis in sermone meo, vere discipuli mei eritis,et cognoscetis veritatem, et veritas liberabit vos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000444	responderunt ei: semen abrahae sumus, et nemini servivimus umquam: quomodo tu dicis: liberi eritis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000445	respondit eis iesus: amen, amen dico vobis: quia omnis qui facit peccatum, servus est peccati.	2020-04-18	Evangelium_secundum_Ioannem
+1100000446	servus autem non manet in domo in aeternum: filius autem manet in aeternum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000447	si ergo vos filius liberaverit, vere liberi eritis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000448	scio quia filii abrahae estis: sed quaeritis me interficere, quia sermo meus non capit in vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000449	ego quod vidi apud patrem meum, loquor: et vos quae vidistis apud patrem vestrum, facitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000450	responderunt, et dixerunt ei: pater noster abraham est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000451	dicit eis iesus: si filii abrahae estis, opera abrahae facite.	2020-04-18	Evangelium_secundum_Ioannem
+1100000452	nunc autem quaeritis me interficere, hominem, qui veritatem vobis locutus sum, quam audivi a deo: hoc abraham non fecit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000453	vos facitis opera patris vestri. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000454	dixerunt itaque ei: nos ex fornicatione non sumus nati: unum patrem habemus deum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000455	dixit ergo eis iesus: si deus pater vester esset, diligeretis utique et me; ego enim ex deo processi, et veni: neque enim a meipso veni, sed ille me misit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000456	quare loquelam meam non cognoscitis? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000457	quia non potestis audire sermonem meum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000458	vos ex patre diabolo estis: et desideria patris vestri vultis facere. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000459	ille homicida erat ab initio, et in veritate non stetit: quia non est veritas in eo: cum loquitur mendacium, ex propriis loquitur, quia mendax est, et pater eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000460	ego autem si veritatem dico, non creditis mihi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000461	quis ex vobis arguet me de peccato? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000462	si veritatem dico vobis, quare non creditis mihi?	2020-04-18	Evangelium_secundum_Ioannem
+1100000463	qui ex deo est, verba dei audit. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000464	propterea vos non auditis, quia ex deo non estis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000465	responderunt ergo iudaei, et dixerunt ei: nonne bene dicimus nos quia samaritanus es tu, et daemonium habes?	2020-04-18	Evangelium_secundum_Ioannem
+1100000466	respondit iesus: ego daemonium non habeo: sed honorifico patrem meum, et vos inhonorastis me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000467	ego autem non quaero gloriam meam: est qui quaerat, et iudicet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000468	amen, amen dico vobis: si quis sermonem meum servaverit, mortem non videbit in aeternum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000469	dixerunt ergo iudaei: nunc cognovimus quia daemonium habes. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000470	abraham mortuus est, et prophetae; et tu dicis: si quis sermonem meum servaverit, non gustabit mortem in aeternum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000471	numquid tu maior es patre nostro abraham, qui mortuus est? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000472	et prophetae mortui sunt. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000473	quem teipsum facis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000474	respondit iesus: si ego glorifico meipsum, gloria mea nihil est: est pater meus, qui glorificat me, quem vos dicitis quia deus vester est,et non cognovistis eum: ego autem novi eum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000475	et si dixero quia non scio eum, ero similis vobis, mendax. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000476	sed scio eum, et sermonem eius servo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000477	abraham pater vester exsultavit ut videret diem meum: vidit, et gavisus est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000478	dixerunt ergo iudaei ad eum: quinquaginta annos nondum habes, et abraham vidisti?	2020-04-18	Evangelium_secundum_Ioannem
+1100000479	dixit eis iesus: amen, amen dico vobis, antequam abraham fieret, ego sum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000480	tulerunt ergo lapides, ut iacerent in eum: iesus autem abscondit se, et exivit de templo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000481	caput 9	2020-04-18	Evangelium_secundum_Ioannem
+1100000482	et praeteriens iesus vidit hominem caecum a nativitate:et interrogaverunt eum discipuli eius: rabbi, quis peccavit, hic, aut parentes eius, ut caecus nasceretur?	2020-04-18	Evangelium_secundum_Ioannem
+1100000483	respondit iesus: neque hic peccavit, neque parentes eius: sed ut manifestentur opera dei in illo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000484	me oportet operari opera eius qui misit me, donec dies est: venit nox, quando nemo potest operari:quamdiu sum in mundo, lux sum mundi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000485	haec cum dixisset, exspuit in terram, et fecit lutum ex sputo, et linivit lutum super oculos eius,et dixit ei: vade, lava in natatoria siloe (quod interpretatur missus). 	2020-04-18	Evangelium_secundum_Ioannem
+1100000486	abiit ergo, et lavit, et venit videns.	2020-04-18	Evangelium_secundum_Ioannem
+1100000487	itaque vicini, et qui viderant eum prius quia mendicus erat, dicebant: nonne hic est qui sedebat, et mendicabat? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000488	alii dicebant: quia hic est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000489	alii autem: nequaquam, sed similis est ei. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000490	ille vero dicebat: quia ego sum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000491	dicebant ergo ei: quomodo aperti sunt tibi oculi?	2020-04-18	Evangelium_secundum_Ioannem
+1100000492	respondit: ille homo qui dicitur iesus, lutum fecit: et unxit oculos meos, et dixit mihi: vade ad natatoria siloe, et lava. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000493	et abii, et lavi, et video.	2020-04-18	Evangelium_secundum_Ioannem
+1100000494	et dixerunt ei: ubi est ille? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000495	ait: nescio.	2020-04-18	Evangelium_secundum_Ioannem
+1100000496	adducunt eum ad pharisaeos, qui caecus fuerat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000497	erat autem sabbatum quando lutum fecit iesus, et aperuit oculos eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000498	iterum ergo interrogabant eum pharisaei quomodo vidisset. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000499	ille autem dixit eis: lutum mihi posuit super oculos, et lavi, et video.	2020-04-18	Evangelium_secundum_Ioannem
+1100000500	dicebant ergo ex pharisaeis quidam: non est hic homo a deo, qui sabbatum non custodit. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000501	alii autem dicebant: quomodo potest homo peccator haec signa facere? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000502	et schisma erat inter eos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000503	dicunt ergo caeco iterum: tu quid dicis de illo qui aperuit oculos tuos? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000504	ille autem dixit: quia propheta est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000505	non crediderunt ergo iudaei de illo, quia caecus fuisset et vidisset, donec vocaverunt parentes eius, qui viderat:et interrogaverunt eos, dicentes: hic est filius vester, quem vos dicitis quia caecus natus est? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000506	quomodo ergo nunc videt?	2020-04-18	Evangelium_secundum_Ioannem
+1100000507	responderunt eis parentes eius, et dixerunt: scimus quia hic est filius noster, et quia caecus natus est:quomodo autem nunc videat, nescimus: aut quis eius aperuit oculos, nos nescimus; ipsum interrogate: aetatem habet, ipse de se loquatur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000508	haec dixerunt parentes eius, quoniam timebant iudaeos: iam enim conspiraverunt iudaei, ut si quis eum confiteretur esse christum, extra synagogam fieret.	2020-04-18	Evangelium_secundum_Ioannem
+1100000509	propterea parentes eius dixerunt: quia aetatem habet, ipsum interrogate.	2020-04-18	Evangelium_secundum_Ioannem
+1100000510	vocaverunt ergo rursum hominem qui fuerat caecus, et dixerunt ei: da gloriam deo: nos scimus quia hic homo peccator est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000511	dixit ergo eis ille: si peccator est, nescio; unum scio, quia caecus cum essem, modo video.	2020-04-18	Evangelium_secundum_Ioannem
+1100000512	dixerunt ergo illi: quid fecit tibi? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000513	quomodo aperuit tibi oculos?	2020-04-18	Evangelium_secundum_Ioannem
+1100000514	respondit eis: dixi vobis iam, et audistis: quod iterum vultis audire? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000515	numquid et vos vultis discipuli eius fieri?	2020-04-18	Evangelium_secundum_Ioannem
+1100000516	maledixerunt ergo ei, et dixerunt: tu discipulus illius sis: nos autem moysi discipuli sumus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000517	nos scimus quia moysi locutus est deus; hunc autem nescimus unde sit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000518	respondit ille homo, et dixit eis: in hoc enim mirabile est quia vos nescitis unde sit, et aperuit meos oculos:scimus autem quia peccatores deus non audit: sed si quis dei cultor est, et voluntatem eius facit, hunc exaudit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000519	a saeculo non est auditum quia quis aperuit oculos caeci nati.	2020-04-18	Evangelium_secundum_Ioannem
+1100000520	nisi esset hic a deo, non poterat facere quidquam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000521	responderunt, et dixerunt ei: in peccatis natus es totus, et tu doces nos? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000522	et eiecerunt eum foras.	2020-04-18	Evangelium_secundum_Ioannem
+1100000523	audivit iesus quia eiecerunt eum foras: et cum invenisset eum, dixit ei: tu credis in filium dei?	2020-04-18	Evangelium_secundum_Ioannem
+1100000524	respondit ille, et dixit: quis est, domine, ut credam in eum?	2020-04-18	Evangelium_secundum_Ioannem
+1100000525	et dixit ei iesus: et vidisti eum, et qui loquitur tecum, ipse est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000526	at ille ait: credo, domine. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000527	et procidens adoravit eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000528	et dixit iesus: in iudicium ego in hunc mundum veni: ut qui non vident videant, et qui vident caeci fiant.	2020-04-18	Evangelium_secundum_Ioannem
+1100000529	et audierunt quidam ex pharisaeis qui cum ipso erant, et dixerunt ei: numquid et nos caeci sumus?	2020-04-18	Evangelium_secundum_Ioannem
+1100000530	dixit eis iesus: si caeci essetis, non haberetis peccatum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000531	nunc vero dicitis, quia videmus: peccatum vestrum manet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000532	caput 10	2020-04-18	Evangelium_secundum_Ioannem
+1100000533	amen, amen dico vobis: qui non intrat per ostium in ovile ovium, sed ascendit aliunde, ille fur est et latro.	2020-04-18	Evangelium_secundum_Ioannem
+1100000534	qui autem intrat per ostium, pastor est ovium.	2020-04-18	Evangelium_secundum_Ioannem
+1100000535	huic ostiarius aperit, et oves vocem eius audiunt, et proprias oves vocat nominatim, et educit eas.	2020-04-18	Evangelium_secundum_Ioannem
+1100000536	et cum proprias oves emiserit, ante eas vadit: et oves illum sequuntur, quia sciunt vocem eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000537	alienum autem non sequuntur, sed fugiunt ab eo: quia non noverunt vocem alienorum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000538	hoc proverbium dixit eis iesus: illi autem non cognoverunt quid loqueretur eis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000539	dixit ergo eis iterum iesus: amen, amen dico vobis, quia ego sum ostium ovium.	2020-04-18	Evangelium_secundum_Ioannem
+1100000540	omnes quotquot venerunt, fures sunt, et latrones, et non audierunt eos oves.	2020-04-18	Evangelium_secundum_Ioannem
+1100000541	ego sum ostium. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000542	per me si quis introierit, salvabitur: et ingredietur, et egredietur, et pascua inveniet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000543	fur non venit nisi ut furetur, et mactet, et perdat. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000544	ego veni ut vitam habeant, et abundantius habeant.	2020-04-18	Evangelium_secundum_Ioannem
+1100000545	ego sum pastor bonus. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000546	bonus pastor animam suam dat pro ovibus suis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000547	mercenarius autem, et qui non est pastor, cuius non sunt oves propriae, videt lupum venientem, et dimittit oves, et fugit: et lupus rapit, et dispergit oves;mercenarius autem fugit, quia mercenarius est, et non pertinet ad eum de ovibus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000548	ego sum pastor bonus: et cognosco meas, et cognoscunt me meae.	2020-04-18	Evangelium_secundum_Ioannem
+1100000549	sicut novit me pater, et ego agnosco patrem: et animam meam pono pro ovibus meis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000550	et alias oves habeo, quae non sunt ex hoc ovili: et illas oportet me adducere, et vocem meam audient, et fiet unum ovile et unus pastor.	2020-04-18	Evangelium_secundum_Ioannem
+1100000551	propterea me diligit pater: quia ego pono animam meam, ut iterum sumam eam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000552	nemo tollit eam a me: sed ego pono eam a meipso, et potestatem habeo ponendi eam, et potestatem habeo iterum sumendi eam. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000553	hoc mandatum accepi a patre meo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000554	dissensio iterum facta est inter iudaeos propter sermones hos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000555	dicebant autem multi ex ipsis: daemonium habet, et insanit: quid eum auditis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000556	alii dicebant: haec verba non sunt daemonium habentis: numquid daemonium potest caecorum oculos aperire?	2020-04-18	Evangelium_secundum_Ioannem
+1100000557	facta sunt autem encaenia in ierosolymis, et hiems erat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000558	et ambulabat iesus in templo, in porticu salomonis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000559	circumdederunt ergo eum iudaei, et dicebant ei: quousque animam nostram tollis? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000560	si tu es christus, dic nobis palam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000561	respondit eis iesus: loquor vobis, et non creditis: opera quae ego facio in nomine patris mei, haec testimonium perhibent de me:sed vos non creditis, quia non estis ex ovibus meis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000562	oves meae vocem meam audiunt, et ego cognosco eas, et sequuntur me:et ego vitam aeternam do eis, et non peribunt in aeternum, et non rapiet eas quisquam de manu mea.	2020-04-18	Evangelium_secundum_Ioannem
+1100000563	pater meus quod dedit mihi, maius omnibus est: et nemo potest rapere de manu patris mei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000564	ego et pater unum sumus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000565	sustulerunt ergo lapides iudaei, ut lapidarent eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000566	respondit eis iesus: multa bona opera ostendi vobis ex patre meo: propter quod eorum opus me lapidatis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000567	responderunt ei iudaei: de bono opere non lapidamus te, sed de blasphemia; et quia tu homo cum sis, facis teipsum deum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000568	respondit eis iesus: nonne scriptum est in lege vestra, quia ego dixi: dii estis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000569	si illos dixit deos, ad quos sermo dei factus est, et non potest solvi scriptura:quem pater sanctificavit, et misit in mundum vos dicitis: quia blasphemas, quia dixi: filius dei sum?	2020-04-18	Evangelium_secundum_Ioannem
+1100000570	si non facio opera patris mei, nolite credere mihi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000571	si autem facio: etsi mihi non vultis credere, operibus credite, ut cognoscatis, et credatis quia pater in me est, et ego in patre.	2020-04-18	Evangelium_secundum_Ioannem
+1100000572	quaerebant ergo eum apprehendere: et exivit de manibus eorum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000573	et abiit iterum trans iordanem, in eum locum ubi erat ioannes baptizans primum, et mansit illic;et multi venerunt ad eum, et dicebant: quia ioannes quidem signum fecit nullum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000574	omnia autem quaecumque dixit ioannes de hoc, vera erant. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000575	et multi crediderunt in eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000576	caput 11	2020-04-18	Evangelium_secundum_Ioannem
+1100000577	erat autem quidam languens lazarus a bethania, de castello mariae et marthae sororis eius.(	2020-04-18	Evangelium_secundum_Ioannem
+1100000578	maria autem erat quae unxit dominum unguento, et extersit pedes eius capillis suis: cuius frater lazarus infirmabatur.)	2020-04-18	Evangelium_secundum_Ioannem
+1100000579	miserunt ergo sorores eius ad eum dicentes: domine, ecce quem amas infirmatur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000580	audiens autem iesus dixit eis: infirmitas haec non est ad mortem, sed pro gloria dei, ut glorificetur filius dei per eam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000581	diligebat autem iesus martham, et sororem eius mariam, et lazarum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000582	ut ergo audivit quia infirmabatur, tunc quidem mansit in eodem loco duobus diebus;deinde post haec dixit discipulis suis: eamus in iudaeam iterum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000583	dicunt ei discipuli: rabbi, nunc quaerebant te iudaei lapidare, et iterum vadis illuc?	2020-04-18	Evangelium_secundum_Ioannem
+1100000584	respondit iesus: nonne duodecim sunt horae diei? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000585	si quis ambulaverit in die, non offendit, quia lucem huius mundi videt:si autem ambulaverit in nocte, offendit, quia lux non est in eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000586	haec ait, et post haec dixit eis: lazarus amicus noster dormit: sed vado ut a somno excitem eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000587	dixerunt ergo discipuli eius: domine, si dormit, salvus erit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000588	dixerat autem iesus de morte eius: illi autem putaverunt quia de dormitione somni diceret.	2020-04-18	Evangelium_secundum_Ioannem
+1100000589	tunc ergo iesus dixit eis manifeste: lazarus mortuus est:et gaudeo propter vos, ut credatis, quoniam non eram ibi, sed eamus ad eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000590	dixit ergo thomas, qui dicitur didymus, ad condiscipulos: eamus et nos, ut moriamur cum eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000591	venit itaque iesus: et invenit eum quatuor dies iam in monumento habentem.(	2020-04-18	Evangelium_secundum_Ioannem
+1100000592	erat autem bethania iuxta ierosolymam quasi stadiis quindecim.)	2020-04-18	Evangelium_secundum_Ioannem
+1100000593	multi autem ex iudaeis venerant ad martham et mariam, ut consolarentur eas de fratre suo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000594	martha ergo ut audivit quia iesus venit, occurrit illi: maria autem domi sedebat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000595	dixit ergo martha ad iesum: domine, si fuisses hic, frater meus non fuisset mortuus:sed et nunc scio quia quaecumque poposceris a deo, dabit tibi deus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000596	dicit illi iesus: resurget frater tuus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000597	dicit ei martha: scio quia resurget in resurrectione in novissimo die.	2020-04-18	Evangelium_secundum_Ioannem
+1100000598	dixit ei iesus: ego sum resurrectio et vita: qui credit in me, etiam si mortuus fuerit, vivet:et omnis qui vivit et credit in me, non morietur in aeternum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000599	credis hoc?	2020-04-18	Evangelium_secundum_Ioannem
+1100000600	ait illi: utique domine, ego credidi quia tu es christus, filius dei vivi, qui in hunc mundum venisti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000601	et cum haec dixisset, abiit, et vocavit mariam sororem suam silentio, dicens: magister adest, et vocat te.	2020-04-18	Evangelium_secundum_Ioannem
+1100000602	illa ut audivit, surgit cito, et venit ad eum;nondum enim venerat iesus in castellum: sed erat adhuc in illo loco, ubi occurrerat ei martha.	2020-04-18	Evangelium_secundum_Ioannem
+1100000603	iudaei ergo, qui erant cum ea in domo, et consolabantur eam, cum vidissent mariam quia cito surrexit, et exiit, secuti sunt eam dicentes: quia vadit ad monumentum, ut ploret ibi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000604	maria ergo, cum venisset ubi erat iesus, videns eum, cecidit ad pedes eius, et dicit ei: domine, si fuisses hic, non esset mortuus frater meus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000605	iesus ergo, ut vidit eam plorantem, et iudaeos, qui venerant cum ea, plorantes, infremuit spiritu, et turbavit seipsum,et dixit: ubi posuistis eum? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000606	dicunt ei: domine, veni, et vide.	2020-04-18	Evangelium_secundum_Ioannem
+1100000607	et lacrimatus est iesus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000608	dixerunt ergo iudaei: ecce quomodo amabat eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000609	quidam autem ex ipsis dixerunt: non poterat hic, qui aperuit oculos caeci nati, facere ut hic non moreretur?	2020-04-18	Evangelium_secundum_Ioannem
+1100000610	iesus ergo rursum fremens in semetipso, venit ad monumentum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000611	erat autem spelunca, et lapis superpositus erat ei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000612	ait iesus: tollite lapidem. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000613	dicit ei martha, soror eius qui mortuus fuerat: domine, iam foetet, quatriduanus est enim.	2020-04-18	Evangelium_secundum_Ioannem
+1100000614	dicit ei iesus: nonne dixi tibi quoniam si credideris, videbis gloriam dei?	2020-04-18	Evangelium_secundum_Ioannem
+1100000615	tulerunt ergo lapidem: iesus autem, elevatis sursum oculis, dixit: pater, gratias ago tibi quoniam audisti me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000616	ego autem sciebam quia semper me audis, sed propter populum qui circumstat, dixi: ut credant quia tu me misisti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000617	haec cum dixisset, voce magna clamavit: lazare, veni foras.	2020-04-18	Evangelium_secundum_Ioannem
+1100000618	et statim prodiit qui fuerat mortuus, ligatus pedes, et manus institis, et facies illius sudario erat ligata. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000619	dixit eis iesus: solvite eum et sinite abire.	2020-04-18	Evangelium_secundum_Ioannem
+1100000620	multi ergo ex iudaeis, qui venerant ad mariam, et martham, et viderant quae fecit iesus, crediderunt in eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000621	quidam autem ex ipsis abierunt ad pharisaeos, et dixerunt eis quae fecit iesus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000622	collegerunt ergo pontifices et pharisaei concilium, et dicebant: quid facimus, quia hic homo multa signa facit?	2020-04-18	Evangelium_secundum_Ioannem
+1100000623	si dimittimus eum sic, omnes credent in eum, et venient romani, et tollent nostrum locum, et gentem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000624	unus autem ex ipsis, caiphas nomine, cum esset pontifex anni illius, dixit eis: vos nescitis quidquam,nec cogitatis quia expedit vobis ut unus moriatur homo pro populo, et non tota gens pereat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000625	hoc autem a semetipso non dixit: sed cum esset pontifex anni illius, prophetavit, quod iesus moriturus erat pro gente,et non tantum pro gente, sed ut filios dei, qui erant dispersi, congregaret in unum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000626	ab illo ergo die cogitaverunt ut interficerent eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000627	iesus ergo iam non in palam ambulabat apud iudaeos, sed abiit in regionem iuxta desertum, in civitatem quae dicitur ephrem, et ibi morabatur cum discipulis suis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000628	proximum autem erat pascha iudaeorum, et ascenderunt multi ierosolymam de regione ante pascha, ut sanctificarent seipsos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000629	quaerebant ergo iesum, et colloquebantur ad invicem, in templo stantes: quid putatis, quia non venit ad diem festum? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000630	dederant autem pontifices et pharisaei mandatum ut si quis cognoverit ubi sit, indicet, ut apprehendant eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000631	caput 12	2020-04-18	Evangelium_secundum_Ioannem
+1100000632	iesus ergo ante sex dies paschae venit bethaniam, ubi lazarus fuerat mortuus, quem suscitavit iesus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000633	fecerunt autem ei coenam ibi, et martha ministrabat, lazarus vero unus erat ex discumbentibus cum eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000634	maria ergo accepit libram unguenti nardi pistici pretiosi, et unxit pedes iesu, et extersit pedes eius capillis suis: et domus impleta est ex odore unguenti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000635	dixit ergo unus ex discipulis eius, iudas iscariotes, qui erat eum traditurus:quare hoc unguentum non veniit trecentis denariis, et datum est egenis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000636	dixit autem hoc, non quia de egenis pertinebat ad eum, sed quia fur erat, et loculos habens, ea quae mittebantur, portabat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000637	dixit ergo iesus: sinite illam ut in diem sepulturae meae servet illud.	2020-04-18	Evangelium_secundum_Ioannem
+1100000638	pauperes enim semper habetis vobiscum: me autem non semper habetis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000639	cognovit ergo turba multa ex iudaeis quia illic est, et venerunt, non propter iesum tantum, sed ut lazarum viderent, quem suscitavit a mortuis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000640	cogitaverunt autem principes sacerdotum ut et lazarum interficerent:quia multi propter illum abibant ex iudaeis, et credebant in iesum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000641	in crastinum autem, turba multa quae venerat ad diem festum, cum audissent quia venit iesus ierosolymam,acceperunt ramos palmarum, et processerunt obviam ei, et clamabant: hosanna, benedictus qui venit in nomine domini, rex israel.	2020-04-18	Evangelium_secundum_Ioannem
+1100000642	et invenit iesus asellum, et sedit super eum, sicut scriptum est:noli timere, filia sion: ecce rex tuus venit sedens super pullum asinae.	2020-04-18	Evangelium_secundum_Ioannem
+1100000643	haec non cognoverunt discipuli eius primum: sed quando glorificatus est iesus, tunc recordati sunt quia haec erant scripta de eo, et haec fecerunt ei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000644	testimonium ergo perhibebat turba, quae erat cum eo quando lazarum vocavit de monumento, et suscitavit eum a mortuis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000645	propterea et obviam venit ei turba: quia audierunt fecisse hoc signum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000646	pharisaei ergo dixerunt ad semetipsos: videtis quia nihil proficimus? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000647	ecce mundus totus post eum abiit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000648	erant autem quidam gentiles, ex his qui ascenderant ut adorarent in die festo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000649	hi ergo accesserunt ad philippum, qui erat a bethsaida galilaeae, et rogabant eum, dicentes: domine, volumus iesum videre.	2020-04-18	Evangelium_secundum_Ioannem
+1100000650	venit philippus, et dicit andreae; andreas rursum et philippus dixerunt iesu.	2020-04-18	Evangelium_secundum_Ioannem
+1100000651	iesus autem respondit eis, dicens: venit hora, ut clarificetur filius hominis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000652	amen, amen dico vobis, nisi granum frumenti cadens in terram, mortuum fuerit,ipsum solum manet: si autem mortuum fuerit, multum fructum affert. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000653	qui amat animam suam, perdet eam; et qui odit animam suam in hoc mundo, in vitam aeternam custodit eam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000654	si quis mihi ministrat, me sequatur, et ubi sum ego, illic et minister meus erit. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000655	si quis mihi ministraverit, honorificabit eum pater meus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000656	nunc anima mea turbata est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000657	et quid dicam? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000658	pater, salvifica me ex hac hora. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000659	sed propterea veni in horam hanc:pater, clarifica nomen tuum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000660	venit ergo vox de caelo: et clarificavi, et iterum clarificabo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000661	turba ergo, quae stabat, et audierat, dicebat tonitruum esse factum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000662	alii dicebant: angelus ei locutus est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000663	respondit iesus, et dixit: non propter me haec vox venit, sed propter vos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000664	nunc iudicium est mundi: nunc princeps huius mundi eiicietur foras.	2020-04-18	Evangelium_secundum_Ioannem
+1100000665	et ego, si exaltatus fuero a terra, omnia traham ad meipsum.(	2020-04-18	Evangelium_secundum_Ioannem
+1100000666	hoc autem dicebat, significans qua morte esset moriturus.)	2020-04-18	Evangelium_secundum_Ioannem
+1100000667	respondit ei turba: nos audivimus ex lege, quia christus manet in aeternum: et quomodo tu dicis: oportet exaltari filium hominis? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000668	quis est iste filius hominis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000669	dixit ergo eis iesus: adhuc modicum, lumen in vobis est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000670	ambulate dum lucem habetis, ut non vos tenebrae comprehendant; et qui ambulat in tenebris, nescit quo vadat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000671	dum lucem habetis, credite in lucem, ut filii lucis sitis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000672	haec locutus est iesus, et abiit et abscondit se ab eis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000673	cum autem tanta signa fecisset coram eis, non credebant in eum;ut sermo isaiae prophetae impleretur, quem dixit:	2020-04-18	Evangelium_secundum_Ioannem
+1100000674	domine, quis credidit auditui nostro?	2020-04-18	Evangelium_secundum_Ioannem
+1100000675	et brachium domini cui revelatum est?	2020-04-18	Evangelium_secundum_Ioannem
+1100000676	propterea non poterant credere, quia iterum dixit isaias:	2020-04-18	Evangelium_secundum_Ioannem
+1100000677	excaecavit oculos eorum, et induravit cor eorum	2020-04-18	Evangelium_secundum_Ioannem
+1100000678	ut non videant oculis, et non intelligant corde,	2020-04-18	Evangelium_secundum_Ioannem
+1100000679	et convertantur, et sanem eos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000680	haec dixit isaias, quando vidit gloriam eius, et locutus est de eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000681	verumtamen et ex principibus multi crediderunt in eum: sed propter pharisaeos non confitebantur, ut e synagoga non eiicerentur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000682	dilexerunt enim gloriam hominum magis quam gloriam dei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000683	iesus autem clamavit, et dixit: qui credit in me, non credit in me, sed in eum qui misit me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000684	et qui videt me, videt eum qui misit me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000685	ego lux in mundum veni, ut omnis qui credit in me, in tenebris non maneat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000686	et si quis audierit verba mea, et non custodierit, ego non iudico eum; non enim veni ut iudicem mundum, sed ut salvificem mundum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000687	qui spernit me et non accipit verba mea, habet qui iudicet eum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000688	sermo quem locutus sum, ille iudicabit eum in novissimo die.	2020-04-18	Evangelium_secundum_Ioannem
+1100000689	quia ego ex meipso non sum locutus, sed qui misit me, pater, ipse mihi mandatum dedit quid dicam et quid loquar.	2020-04-18	Evangelium_secundum_Ioannem
+1100000690	et scio quia mandatum eius vita aeterna est: quae ergo ego loquor, sicut dixit mihi pater, sic loquor.	2020-04-18	Evangelium_secundum_Ioannem
+1100000691	caput 13	2020-04-18	Evangelium_secundum_Ioannem
+1100000692	ante diem festum paschae, sciens iesus quia venit hora eius ut transeat ex hoc mundo ad patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000693	et coena facta, cum diabolus iam misisset in cor ut traderet eum iudas simonis iscariotae:sciens quia omnia dedit ei pater in manus, et quia a deo exivit, et ad deum vadit:surgit a coena, et ponit vestimenta sua, et cum accepisset linteum, praecinxit se.	2020-04-18	Evangelium_secundum_Ioannem
+1100000694	deinde mittit aquam in pelvim, et coepit lavare pedes discipulorum, et extergere linteo, quo erat praecinctus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000695	venit ergo ad simonem petrum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000696	et dicit ei petrus: domine, tu mihi lavas pedes?	2020-04-18	Evangelium_secundum_Ioannem
+1100000697	respondit iesus, et dixit ei: quod ego facio, tu nescis modo: scies autem postea.	2020-04-18	Evangelium_secundum_Ioannem
+1100000698	dicit ei petrus: non lavabis mihi pedes in aeternum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000699	respondit ei iesus: si non lavero te, non habebis partem mecum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000700	dicit ei simon petrus: domine, non tantum pedes meos, sed et manus, et caput.	2020-04-18	Evangelium_secundum_Ioannem
+1100000701	dicit ei iesus: qui lotus est, non indiget nisi ut pedes lavet, sed est mundus totus. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000702	et vos mundi estis, sed non omnes.	2020-04-18	Evangelium_secundum_Ioannem
+1100000703	sciebat enim quisnam esset qui traderet eum; propterea dixit: non estis mundi omnes.	2020-04-18	Evangelium_secundum_Ioannem
+1100000704	postquam ergo lavit pedes eorum, et accepit vestimenta sua, cum recubuisset iterum, dixit eis: scitis quid fecerim vobis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000705	vos vocatis me magister et domine, et bene dicitis: sum etenim.	2020-04-18	Evangelium_secundum_Ioannem
+1100000706	si ergo ego lavi pedes vestros, dominus et magister, et vos debetis alter alterius lavare pedes.	2020-04-18	Evangelium_secundum_Ioannem
+1100000707	exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000708	amen, amen dico vobis: non est servus maior domino suo: neque apostolus maior est eo qui misit illum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000709	si haec scitis, beati eritis si feceritis ea.	2020-04-18	Evangelium_secundum_Ioannem
+1100000710	non de omnibus vobis dico: ego scio quos elegerim; sed ut adimpleatur scriptura: qui manducat mecum panem, levabit contra me calcaneum suum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000711	amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis quia ego sum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000712	amen, amen dico vobis: qui accipit si quem misero, me accipit; qui autem me accipit, accipit eum qui me misit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000713	cum haec dixisset iesus, turbatus est spiritu: et protestatus est, et dixit: amen, amen dico vobis, quia unus ex vobis tradet me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000714	aspiciebant ergo ad invicem discipuli, haesitantes de quo diceret.	2020-04-18	Evangelium_secundum_Ioannem
+1100000715	erat ergo recumbens unus ex discipulis eius in sinu iesu, quem diligebat iesus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000716	innuit ergo huic simon petrus, et dixit ei: quis est, de quo dicit?	2020-04-18	Evangelium_secundum_Ioannem
+1100000717	itaque cum recubuisset ille supra pectus iesu, dicit ei: domine, quis est?	2020-04-18	Evangelium_secundum_Ioannem
+1100000718	respondit iesus: ille est cui ego intinctum panem porrexero. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000719	et cum intinxisset panem, dedit iudae simonis iscariotae.	2020-04-18	Evangelium_secundum_Ioannem
+1100000720	et post buccellam, introivit in eum satanas. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000721	et dixit ei iesus: quod facis, fac citius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000722	hoc autem nemo scivit discumbentium ad quid dixerit ei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000723	quidam enim putabant, quia loculos habebat iudas, quod dixisset ei iesus: eme ea quae opus sunt nobis ad diem festum: aut egenis ut aliquid daret.	2020-04-18	Evangelium_secundum_Ioannem
+1100000724	cum ergo accepisset ille buccellam, exivit continuo. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000725	erat autem nox.	2020-04-18	Evangelium_secundum_Ioannem
+1100000726	cum ergo exisset, dixit iesus: nunc clarificatus est filius hominis, et deus clarificatus est in eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000727	si deus clarificatus est in eo, et deus clarificabit eum in semetipso: et continuo clarificabit eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000728	filioli, adhuc modicum vobiscum sum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000729	quaeretis me; et sicut dixi iudaeis, quo ego vado, vos non potestis venire: et vobis dico modo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000730	mandatum novum do vobis: ut diligatis invicem: sicut dilexi vos, ut et vos diligatis invicem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000731	in hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000732	dicit ei simon petrus: domine, quo vadis? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000733	respondit iesus: quo ego vado non potes me modo sequi: sequeris autem postea.	2020-04-18	Evangelium_secundum_Ioannem
+1100000734	dicit ei petrus: quare non possum te sequi modo? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000735	animam meam pro te ponam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000736	respondit ei iesus: animam tuam pro me pones? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000737	amen, amen dico tibi: non cantabit gallus, donec ter me neges.	2020-04-18	Evangelium_secundum_Ioannem
+1100000738	caput 14	2020-04-18	Evangelium_secundum_Ioannem
+1100000739	non turbetur cor vestrum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000740	creditis in deum, et in me credite.	2020-04-18	Evangelium_secundum_Ioannem
+1100000741	in domo patris mei mansiones multae sunt; si quominus dixissem vobis: quia vado parare vobis locum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000742	et si abiero, et praeparavero vobis locum, iterum venio, et accipiam vos ad meipsum: ut ubi sum ego, et vos sitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000743	et quo ego vado scitis, et viam scitis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000744	dicit ei thomas: domine, nescimus quo vadis: et quomodo possumus viam scire?	2020-04-18	Evangelium_secundum_Ioannem
+1100000745	dicit ei iesus: ego sum via, et veritas, et vita. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000746	nemo venit ad patrem, nisi per me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000747	si cognovissetis me, et patrem meum utique cognovissetis: et amodo cognoscetis eum, et vidistis eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000748	dicit ei philippus: domine, ostende nobis patrem, et sufficit nobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000749	dicit ei iesus: tanto tempore vobiscum sum, et non cognovistis me? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000750	philippe, qui videt me, videt et patrem. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000751	quomodo tu dicis: ostende nobis patrem?	2020-04-18	Evangelium_secundum_Ioannem
+1100000752	non creditis quia ego in patre, et pater in me est? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000753	verba quae ego loquor vobis, a meipso non loquor. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000754	pater autem in me manens, ipse fecit opera.	2020-04-18	Evangelium_secundum_Ioannem
+1100000755	non creditis quia ego in patre, et pater in me est?	2020-04-18	Evangelium_secundum_Ioannem
+1100000756	alioquin propter opera ipsa credite. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000757	amen, amen dico vobis, qui credit in me, opera quae ego facio, et ipse faciet, et maiora horum faciet: quia ego ad patrem vado.	2020-04-18	Evangelium_secundum_Ioannem
+1100000758	et quodcumque petieritis patrem in nomine meo, hoc faciam: ut glorificetur pater in filio.	2020-04-18	Evangelium_secundum_Ioannem
+1100000759	si quid petieritis me in nomine meo, hoc faciam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000760	si diligitis me, mandata mea servate:et ego rogabo patrem, et alium paraclitum dabit vobis, ut maneat vobiscum in aeternum,spiritum veritatis, quem mundus non potest accipere, quia non videt eum, nec scit eum: vos autem cognoscetis eum, quia apud vos manebit, et in vobis erit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000761	non relinquam vos orphanos: veniam ad vos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000762	adhuc modicum, et mundus me iam non videt. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000763	vos autem videtis me: quia ego vivo, et vos vivetis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000764	in illo die vos cognoscetis quia ego sum in patre meo, et vos in me, et ego in vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000765	qui habet mandata mea, et servat ea: ille est qui diligit me. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000766	qui autem diligit me, diligetur a patre meo: et ego diligam eum, et manifestabo ei meipsum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000767	dicit ei iudas, non ille iscariotes: domine, quid factum est, quia manifestaturus es nobis teipsum, et non mundo?	2020-04-18	Evangelium_secundum_Ioannem
+1100000768	respondit iesus, et dixit ei: si quis diligit me, sermonem meum servabit, et pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus;qui non diligit me, sermones meos non servat. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000769	et sermonem, quem audistis, non est meus: sed eius qui misit me, patris.	2020-04-18	Evangelium_secundum_Ioannem
+1100000770	haec locutus sum vobis apud vos manens.	2020-04-18	Evangelium_secundum_Ioannem
+1100000771	paraclitus autem spiritus sanctus, quem mittet pater in nomine meo, ille vos docebit omnia, et suggeret vobis omnia quaecumque dixero vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000772	pacem relinquo vobis, pacem meam do vobis: non quomodo mundus dat, ego do vobis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000773	non turbetur cor vestrum, neque formidet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000774	audistis quia ego dixi vobis: vado, et venio ad vos. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000775	si diligeretis me, gauderetis utique, quia vado ad patrem: quia pater maior me est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000776	et nunc dixi vobis priusquam fiat: ut cum factum fuerit, credatis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000777	iam non multa loquar vobiscum: venit enim princeps mundi huius, et in me non habet quidquam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000778	sed ut cognoscat mundus quia diligo patrem, et sicut mandatum dedit mihi pater, sic facio. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000779	surgite, eamus hinc.	2020-04-18	Evangelium_secundum_Ioannem
+1100000780	caput 15	2020-04-18	Evangelium_secundum_Ioannem
+1100000781	ego sum vitis vera, et pater meus agricola est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000782	omnem palmitem in me non ferentem fructum, tollet eum, et omnem qui fert fructum, purgabit eum, ut fructum plus afferat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000783	iam vos mundi estis propter sermonem quem locutus sum vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000784	manete in me, et ego in vobis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000785	sicut palmes non potest ferre fructum a semetipso, nisi manserit in vite, sic nec vos, nisi in me manseritis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000786	ego sum vitis, vos palmites: qui manet in me, et ego in eo, hic fert fructum multum, quia sine me nihil potestis facere.	2020-04-18	Evangelium_secundum_Ioannem
+1100000787	si quis in me non manserit, mittetur foras sicut palmes, et arescet, et colligent eum, et in ignem mittent, et ardet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000788	si manseritis in me, et verba mea in vobis manserint, quodcumque volueritis petetis, et fiet vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000789	in hoc clarificatus est pater meus, ut fructum plurimum afferatis, et efficiamini mei discipuli.	2020-04-18	Evangelium_secundum_Ioannem
+1100000790	sicut dilexit me pater, et ego dilexi vos. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000791	manete in dilectione mea.	2020-04-18	Evangelium_secundum_Ioannem
+1100000792	si praecepta mea servaveritis, manebitis in dilectione mea, sicut et ego patris mei praecepta servavi, et maneo in eius dilectione.	2020-04-18	Evangelium_secundum_Ioannem
+1100000793	haec locutus sum vobis: ut gaudium meum in vobis sit, et gaudium vestrum impleatur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000794	hoc est praeceptum meum, ut diligatis invicem, sicut dilexi vos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000795	maiorem hac dilectionem nemo habet, ut animam suam ponat qui pro amicis suis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000796	vos amici mei estis, si feceritis quae ego praecipio vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000797	iam non dicam vos servos: quia servus nescit quid faciat dominus eius. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000798	vos autem dixi amicos: quia omnia quaecumque audivi a patre meo, nota feci vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000799	non vos me elegistis, sed ego elegi vos, et posui vos ut eatis, et fructum afferatis, et fructus vester maneat: ut quodcumque petieritis patrem in nomine meo, det vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000800	haec mando vobis: ut diligatis invicem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000801	si mundus vos odit, scitote quia me priorem vobis odio habuit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000802	si de mundo fuissetis, mundus quod suum erat diligeret: quia vero de mundo non estis, sed ego elegi vos de mundo, propterea odit vos mundus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000803	mementote sermonis mei, quem ego dixi vobis: non est servus maior domino suo. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000804	si me persecuti sunt, et vos persequentur; si sermonem meum servaverunt, et vestrum servabunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000805	sed haec omnia facient vobis propter nomen meum: quia nesciunt eum qui misit me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000806	si non venissem, et locutus fuissem eis, peccatum non haberent: nunc autem excusationem non habent de peccato suo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000807	qui me odit, et patrem meum odit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000808	si opera non fecissem in eis quae nemo alius fecit, peccatum non haberent: nunc autem et viderunt, et oderunt et me, et patrem meum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000809	sed ut adimpleatur sermo, qui in lege eorum scriptus est: quia odio habuerunt me gratis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000810	cum autem venerit paraclitus, quem ego mittam vobis a patre, spiritum veritatis, qui a patre procedit, ille testimonium perhibebit de me;et vos testimonium perhibebitis, quia ab initio mecum estis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000811	caput 16	2020-04-18	Evangelium_secundum_Ioannem
+1100000812	haec locutus sum vobis, ut non scandalizemini.	2020-04-18	Evangelium_secundum_Ioannem
+1100000813	absque synagogis facient vos: sed venit hora, ut omnis qui interficit vos arbitretur obsequium se praestare deo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000814	et haec facient vobis, quia non noverunt patrem, neque me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000815	sed haec locutus sum vobis, ut cum venerit hora eorum, reminiscamini quia ego dixi vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000816	haec autem vobis ab initio non dixi, quia vobiscum eram. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000817	et nunc vado ad eum qui misit me; et nemo ex vobis interrogat me: quo vadis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000818	sed quia haec locutus sum vobis, tristitia implevit cor vestrum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000819	sed ego veritatem dico vobis: expedit vobis ut ego vadam: si enim non abiero, paraclitus non veniet ad vos; si autem abiero, mittam eum ad vos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000820	et cum venerit ille, arguet mundum de peccato, et de iustitia, et de iudicio.	2020-04-18	Evangelium_secundum_Ioannem
+1100000821	de peccato quidem, quia non crediderunt in me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000822	de iustitia vero, quia ad patrem vado, et iam non videbitis me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000823	de iudicio autem, quia princeps huius mundi iam iudicatus est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000824	adhuc multa habeo vobis dicere, sed non potestis portare modo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000825	cum autem venerit ille spiritus veritatis, docebit vos omnem veritatem: non enim loquetur a semetipso, sed quaecumque audiet loquetur, et quae ventura sunt annuntiabit vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000826	ille me clarificabit, quia de meo accipiet, et annuntiabit vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000827	omnia quaecumque habet pater, mea sunt. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000828	propterea dixi: quia de meo accipiet, et annuntiabit vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000829	modicum, et iam non videbitis me; et iterum modicum, et videbitis me: quia vado ad patrem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000830	dixerunt ergo ex discipulis eius ad invicem: quid est hoc quod dicit nobis: modicum, et non videbitis me; et iterum modicum, et videbitis me, et quia vado ad patrem?	2020-04-18	Evangelium_secundum_Ioannem
+1100000831	dicebant ergo: quid est hoc quod dicit: modicum? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000832	nescimus quid loquitur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000833	cognovit autem iesus, quia volebant eum interrogare, et dixit eis: de hoc quaeritis inter vos quia dixi: modicum, et non videbitis me; et iterum modicum, et videbitis me.	2020-04-18	Evangelium_secundum_Ioannem
+1100000834	amen, amen dico vobis: quia plorabitis, et flebitis vos, mundus autem gaudebit; vos autem contristabimini, sed tristitia vestra vertetur in gaudium.	2020-04-18	Evangelium_secundum_Ioannem
+1100000835	mulier cum parit, tristitiam habet, quia venit hora eius; cum autem pepererit puerum, iam non meminit pressurae propter gaudium, quia natus est homo in mundum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000836	et vos igitur nunc quidem tristitiam habetis, iterum autem videbo vos, et gaudebit cor vestrum: et gaudium vestrum nemo tollet a vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000837	et in illo die me non rogabitis quidquam. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000838	amen, amen dico vobis: si quid petieritis patrem in nomine meo, dabit vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000839	usque modo non petistis quidquam in nomine meo: petite, et accipietis, ut gaudium vestrum sit plenum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000840	haec in proverbiis locutus sum vobis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000841	venit hora cum iam non in proverbiis loquar vobis, sed palam de patre annuntiabo vobis:in illo die in nomine meo petetis: et non dico vobis quia ego rogabo patrem de vobis:ipse enim pater amat vos, quia vos me amastis, et credidistis, quia ego a deo exivi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000842	exivi a patre, et veni in mundum: iterum relinquo mundum, et vado ad patrem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000843	dicunt ei discipuli eius: ecce nunc palam loqueris, et proverbium nullum dicis:nunc scimus quia scis omnia, et non opus est tibi ut quis te interroget: in hoc credimus quia a deo existi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000844	respondit eis iesus: modo creditis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000845	ecce venit hora, et iam venit, ut dispergamini unusquisque in propria, et me solum relinquatis: et non sum solus, quia pater mecum est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000846	haec locutus sum vobis, ut in me pacem habeatis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000847	in mundo pressuram habebitis: sed confidite, ego vici mundum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000848	caput 17	2020-04-18	Evangelium_secundum_Ioannem
+1100000849	haec locutus est iesus: et sublevatis oculis in caelum, dixit: pater, venit hora: clarifica filium tuum, ut filius tuus clarificet te:sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti ei, det eis vitam aeternam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000850	haec est autem vita aeterna: ut cognoscant te, solum deum verum, et quem misisti iesum christum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000851	ego te clarificavi super terram: opus consummavi, quod dedisti mihi ut faciam:et nunc clarifica me tu, pater, apud temetipsum, claritate quam habui, priusquam mundus esset, apud te.	2020-04-18	Evangelium_secundum_Ioannem
+1100000852	manifestavi nomen tuum hominibus, quos dedisti mihi de mundo: tui erant, et mihi eos dedisti: et sermonem tuum servaverunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000853	nunc cognoverunt quia omnia quae dedisti mihi, abs te sunt:quia verba quae dedisti mihi, dedi eis: et ipsi acceperunt, et cognoverunt vere quia a te exivi, et crediderunt quia tu me misisti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000854	ego pro eis rogo; non pro mundo rogo, sed pro his quos dedisti mihi: quia tui sunt:et mea omnia tua sunt, et tua mea sunt: et clarificatus sum in eis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000855	et iam non sum in mundo, et hi in mundo sunt, et ego ad te venio. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000856	pater sancte, serva eos in nomine tuo, quos dedisti mihi: ut sint unum, sicut et nos.	2020-04-18	Evangelium_secundum_Ioannem
+1100000857	cum essem cum eis, ego servabam eos in nomine tuo. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000858	quos dedisti mihi, custodivi: et nemo ex eis periit, nisi filius perditionis, ut scriptura impleatur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000859	nunc autem ad te venio: et haec loquor in mundo, ut habeant gaudium meum impletum in semetipsis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000860	ego dedi eis sermonem tuum, et mundus eos odio habuit, quia non sunt de mundo, sicut et ego non sum de mundo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000861	non rogo ut tollas eos de mundo, sed ut serves eos a malo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000862	de mundo non sunt, sicut et ego non sum de mundo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000863	sanctifica eos in veritate. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000864	sermo tuus veritas est.	2020-04-18	Evangelium_secundum_Ioannem
+1100000865	sicut tu me misisti in mundum, et ego misi eos in mundum:et pro eis ego sanctifico meipsum: ut sint et ipsi sanctificati in veritate.	2020-04-18	Evangelium_secundum_Ioannem
+1100000866	non pro eis autem rogo tantum, sed et pro eis qui credituri sunt per verbum eorum in me:ut omnes unum sint, sicut tu pater in me, et ego in te, ut et ipsi in nobis unum sint: ut credat mundus, quia tu me misisti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000867	et ego claritatem, quam dedisti mihi, dedi eis: ut sint unum, sicut et nos unum sumus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000868	ego in eis, et tu in me: ut sint consummati in unum: et cognoscat mundus quia tu me misisti, et dilexisti eos, sicut et me dilexisti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000869	pater, quos dedisti mihi, volo ut ubi sum ego, et illi sint mecum: ut videant claritatem meam, quam dedisti mihi: quia dilexisti me ante constitutionem mundi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000870	pater iuste, mundus te non cognovit, ego autem te cognovi: et hi cognoverunt, quia tu me misisti.	2020-04-18	Evangelium_secundum_Ioannem
+1100000871	et notum feci eis nomen tuum, et notum faciam: ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000872	caput 18	2020-04-18	Evangelium_secundum_Ioannem
+1100000873	haec cum dixisset iesus, egressus est cum discipulis suis trans torrentem cedron, ubi erat hortus, in quem introivit ipse, et discipuli eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000874	sciebat autem et iudas, qui tradebat eum, locum: quia frequenter iesus convenerat illuc cum discipulis suis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000875	iudas ergo cum accepisset cohortem, et a pontificibus et pharisaeis ministros, venit illuc cum laternis, et facibus, et armis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000876	iesus itaque sciens omnia quae ventura erant super eum, processit, et dixit eis: quem quaeritis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000877	responderunt ei: iesum nazarenum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000878	dicit eis iesus: ego sum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000879	stabat autem et iudas, qui tradebat eum, cum ipsis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000880	ut ergo dixit eis: ego sum: abierunt retrorsum, et ceciderunt in terram.	2020-04-18	Evangelium_secundum_Ioannem
+1100000881	iterum ergo interrogavit eos: quem quaeritis? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000882	illi autem dixerunt: iesum nazarenum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000883	respondit iesus: dixi vobis, quia ego sum: si ergo me quaeritis, sinite hos abire.	2020-04-18	Evangelium_secundum_Ioannem
+1100000884	ut impleretur sermo, quem dixit: quia quos dedisti mihi, non perdidi ex eis quemquam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000885	simon ergo petrus habens gladium eduxit eum: et percussit pontificis servum, et abscidit auriculam eius dexteram. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000886	erat autem nomen servo malchus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000887	dixit ergo iesus petro: mitte gladium tuum in vaginam. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000888	calicem, quem dedit mihi pater, non bibam illum?	2020-04-18	Evangelium_secundum_Ioannem
+1100000889	cohors ergo, et tribunus, et ministri iudaeorum comprehenderunt iesum, et ligaverunt eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000890	et adduxerunt eum ad annam primum: erat enim socer caiphae, qui erat pontifex anni illius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000891	erat autem caiphas, qui consilium dederat iudaeis: quia expedit unum hominem mori pro populo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000892	sequebatur autem iesum simon petrus, et alius discipulus. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000893	discipulus autem ille erat notus pontifici, et introivit cum iesu in atrium pontificis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000894	petrus autem stabat ad ostium foris. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000895	exivit ergo discipulus alius, qui erat notus pontifici, et dixit ostiariae: et introduxit petrum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000896	dicit ergo petro ancilla ostiaria: numquid et tu ex discipulis es hominis istius? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000897	dicit ille: non sum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000898	stabant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant se: erat autem cum eis et petrus stans, et calefaciens se.	2020-04-18	Evangelium_secundum_Ioannem
+1100000899	pontifex ergo interrogavit iesum de discipulis suis, et de doctrina eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000900	respondit ei iesus: ego palam locutus sum mundo: ego semper docui in synagoga, et in templo, quo omnes iudaei conveniunt, et in occulto locutus sum nihil.	2020-04-18	Evangelium_secundum_Ioannem
+1100000901	quid me interrogas? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000902	interroga eos qui audierunt quid locutus sim ipsis: ecce hi sciunt quae dixerim ego.	2020-04-18	Evangelium_secundum_Ioannem
+1100000903	haec autem cum dixisset, unus assistens ministrorum dedit alapam iesu, dicens: sic respondes pontifici?	2020-04-18	Evangelium_secundum_Ioannem
+1100000904	respondit ei iesus: si male locutus sum, testimonium perhibe de malo: si autem bene, quid me caedis?	2020-04-18	Evangelium_secundum_Ioannem
+1100000905	et misit eum annas ligatum ad caipham pontificem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000906	erat autem simon petrus stans, et calefaciens se. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000907	dixerunt ergo ei: numquid et tu ex discipulis eius es? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000908	negavit ille, et dixit: non sum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000909	dicit ei unus ex servis pontificis, cognatus eius, cuius abscidit petrus auriculam: nonne ego te vidi in horto cum illo?	2020-04-18	Evangelium_secundum_Ioannem
+1100000910	iterum ergo negavit petrus: et statim gallus cantavit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000911	adducunt ergo iesum a caipha in praetorium. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000912	erat autem mane: et ipsi non introierunt in praetorium, ut non contaminarentur, sed ut manducarent pascha.	2020-04-18	Evangelium_secundum_Ioannem
+1100000913	exivit ergo pilatus ad eos foras, et dixit: quam accusationem affertis adversus hominem hunc?	2020-04-18	Evangelium_secundum_Ioannem
+1100000914	responderunt, et dixerunt ei: si non esset hic malefactor, non tibi tradidissemus eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000915	dixit ergo eis pilatus: accipite eum vos, et secundum legem vestram iudicate eum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000916	dixerunt ergo ei iudaei: nobis non licet interficere quemquam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000917	ut sermo iesu impleretur, quem dixit, significans qua morte esset moriturus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000918	introivit ergo iterum in praetorium pilatus: et vocavit iesum, et dixit ei: tu es rex iudaeorum?	2020-04-18	Evangelium_secundum_Ioannem
+1100000919	respondit iesus: a temetipso hoc dicis, an alii dixerunt tibi de me?	2020-04-18	Evangelium_secundum_Ioannem
+1100000920	respondit pilatus: numquid ego iudaeus sum? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000921	gens tua et pontifices tradiderunt te mihi: quid fecisti?	2020-04-18	Evangelium_secundum_Ioannem
+1100000922	respondit iesus: regnum meum non est de hoc mundo. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000923	si ex hoc mundo esset regnum meum, ministri mei utique decertarent ut non traderer iudaeis: nunc autem regnum meum non est hinc.	2020-04-18	Evangelium_secundum_Ioannem
+1100000924	dixit itaque ei pilatus: ergo rex es tu? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000925	respondit iesus: tu dicis quia rex sum ego. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000926	ego in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati: omnis qui est ex veritate, audit vocem meam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000927	dicit ei pilatus: quid est veritas? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000928	et cum hoc dixisset, iterum exivit ad iudaeos, et dicit eis: ego nullam invenio in eo causam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000929	est autem consuetudo vobis ut unum dimittam vobis in pascha: vultis ergo dimittam vobis regem iudaeorum?	2020-04-18	Evangelium_secundum_Ioannem
+1100000930	clamaverunt ergo rursum omnes, dicentes: non hunc, sed barabbam. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000931	erat autem barabbas latro.	2020-04-18	Evangelium_secundum_Ioannem
+1100000932	caput 19	2020-04-18	Evangelium_secundum_Ioannem
+1100000933	tunc ergo apprehendit pilatus iesum, et flagellavit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000934	et milites plectentes coronam de spinis, imposuerunt capiti eius: et veste purpurea circumdederunt eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000935	et veniebant ad eum, et dicebant: ave, rex iudaeorum: et dabant ei alapas.	2020-04-18	Evangelium_secundum_Ioannem
+1100000936	exivit ergo iterum pilatus foras, et dicit eis: ecce adduco vobis eum foras, ut cognoscatis quia nullam invenio in eo causam.(	2020-04-18	Evangelium_secundum_Ioannem
+1100000937	exivit ergo iesus portans coronam spineam, et purpureum vestimentum.) 	2020-04-18	Evangelium_secundum_Ioannem
+1100000938	et dicit eis: ecce homo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000939	cum ergo vidissent eum pontifices et ministri, clamabant, dicentes: crucifige, crucifige eum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000940	dicit eis pilatus: accipite eum vos, et crucifigite: ego enim non invenio in eo causam.	2020-04-18	Evangelium_secundum_Ioannem
+1100000941	responderunt ei iudaei: nos legem habemus, et secundum legem debet mori, quia filium dei se fecit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000942	cum ergo audisset pilatus hunc sermonem, magis timuit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000943	et ingressus est praetorium iterum: et dixit ad iesum: unde es tu? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000944	iesus autem responsum non dedit ei.	2020-04-18	Evangelium_secundum_Ioannem
+1100000945	dicit ergo ei pilatus: mihi non loqueris? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000946	nescis quia potestatem habeo crucifigere te, et potestatem habeo dimittere te?	2020-04-18	Evangelium_secundum_Ioannem
+1100000947	respondit iesus: non haberes potestatem adversum me ullam, nisi tibi datum esset desuper. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000948	propterea qui me tradidit tibi, maius peccatum habet.	2020-04-18	Evangelium_secundum_Ioannem
+1100000949	et exinde quaerebat pilatus dimittere eum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000950	iudaei autem clamabant dicentes: si hunc dimittis, non es amicus caesaris. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000951	omnis enim qui se regem facit, contradicit caesari.	2020-04-18	Evangelium_secundum_Ioannem
+1100000952	pilatus autem cum audisset hos sermones, adduxit foras iesum: et sedit pro tribunali, in loco qui dicitur lithostrotos, hebraice autem gabbatha.	2020-04-18	Evangelium_secundum_Ioannem
+1100000953	erat autem parasceve paschae, hora quasi sexta, et dicit iudaeis: ecce rex vester.	2020-04-18	Evangelium_secundum_Ioannem
+1100000954	illi autem clamabant: tolle, tolle, crucifige eum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000955	dicit eis pilatus: regem vestrum crucifigam? 	2020-04-18	Evangelium_secundum_Ioannem
+1100000956	responderunt pontifices: non habemus regem, nisi caesarem.	2020-04-18	Evangelium_secundum_Ioannem
+1100000957	tunc ergo tradidit eis illum ut crucifigeretur. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000958	susceperunt autem iesum, et eduxerunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000959	et baiulans sibi crucem exivit in eum, qui dicitur calvariae locum, hebraice autem golgotha:ubi crucifixerunt eum, et cum eo alios duos hinc et hinc, medium autem iesum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000960	scripsit autem et titulum pilatus, et posuit super crucem. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000961	erat autem scriptum: iesus nazarenus, rex iudaeorum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000962	hunc ergo titulum multi iudaeorum legerunt: quia prope civitatem erat locus, ubi crucifixus est iesus, et erat scriptum hebraice, graece, et latine.	2020-04-18	Evangelium_secundum_Ioannem
+1100000963	dicebant ergo pilato pontifices iudaeorum: noli scribere: rex iudaeorum: sed quia ipse dixit: rex sum iudaeorum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000964	respondit pilatus: quod scripsi, scripsi.	2020-04-18	Evangelium_secundum_Ioannem
+1100000965	milites ergo cum crucifixissent eum, acceperunt vestimenta eius (et fecerunt quatuor partes, unicuique militi partem) et tunicam. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000966	erat autem tunica inconsutilis, desuper contexta per totum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000967	dixerunt ergo ad invicem: non scindamus eam, sed sortiamur de illa cuius sit. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000968	ut scriptura impleretur, dicens: partiti sunt vestimenta mea sibi: et in vestem meam miserunt sortem. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000969	et milites quidem haec fecerunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000970	stabant autem iuxta crucem iesu mater eius, et soror matris eius, maria cleophae, et maria magdalene.	2020-04-18	Evangelium_secundum_Ioannem
+1100000971	cum vidisset ergo iesus matrem, et discipulum stantem, quem diligebat, dicit matri suae: mulier, ecce filius tuus.	2020-04-18	Evangelium_secundum_Ioannem
+1100000972	deinde dicit discipulo: ecce mater tua. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000973	et ex illa hora accepit eam discipulus in sua.	2020-04-18	Evangelium_secundum_Ioannem
+1100000974	postea sciens iesus quia omnia consummata sunt, ut consummaretur scriptura, dixit: sitio.	2020-04-18	Evangelium_secundum_Ioannem
+1100000975	vas ergo erat positum aceto plenum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000976	illi autem spongiam plenam aceto, hyssopo circumponentes, obtulerunt ori eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100000977	cum ergo accepisset iesus acetum, dixit: consummatum est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000978	et inclinato capite tradidit spiritum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000979	iudaei ergo (quoniam parasceve erat) ut non remanerent in cruce corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt pilatum ut frangerentur eorum crura, et tollerentur.	2020-04-18	Evangelium_secundum_Ioannem
+1100000980	venerunt ergo milites: et primi quidem fregerunt crura, et alterius, qui crucifixus est cum eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000981	ad iesum autem cum venissent, ut viderunt eum iam mortuum, non fregerunt eius crura,sed unus militum lancea latus eius aperuit, et continuo exivit sanguis et aqua.	2020-04-18	Evangelium_secundum_Ioannem
+1100000982	et qui vidit, testimonium perhibuit: et verum est testimonium eius. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000983	et ille scit quia vera dicit: ut et vos credatis.	2020-04-18	Evangelium_secundum_Ioannem
+1100000984	facta sunt enim haec ut scriptura impleretur: os non comminuetis ex eo.	2020-04-18	Evangelium_secundum_Ioannem
+1100000985	et iterum alia scriptura dicit: videbunt in quem transfixerunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100000986	post haec autem rogavit pilatum ioseph ab arimathaea (eo quod esset discipulus iesu, occultus autem propter metum iudaeorum), ut tolleret corpus iesu. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000987	et permisit pilatus. 	2020-04-18	Evangelium_secundum_Ioannem
+1100000988	venit ergo, et tulit corpus iesu.	2020-04-18	Evangelium_secundum_Ioannem
+1100000989	venit autem et nicodemus, qui venerat ad iesum nocte primum, ferens mixturam myrrhae et aloes, quasi libras centum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000990	acceperunt ergo corpus iesu, et ligaverunt illud linteis cum aromatibus, sicut mos est iudaeis sepelire.	2020-04-18	Evangelium_secundum_Ioannem
+1100000991	erat autem in loco, ubi crucifixus est, hortus: et in horto monumentum novum, in quo nondum quisquam positus erat.	2020-04-18	Evangelium_secundum_Ioannem
+1100000992	ibi ergo propter parasceven iudaeorum, quia iuxta erat monumentum, posuerunt iesum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000993	caput 20	2020-04-18	Evangelium_secundum_Ioannem
+1100000994	una autem sabbati, maria magdalene venit mane, cum adhuc tenebrae essent, ad monumentum: et vidit lapidem sublatum a monumento.	2020-04-18	Evangelium_secundum_Ioannem
+1100000995	cucurrit ergo, et venit ad simonem petrum, et ad alium discipulum, quem amabat iesus, et dicit illis: tulerunt dominum de monumento, et nescimus ubi posuerunt eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000996	exiit ergo petrus, et ille alius discipulus, et venerunt ad monumentum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000997	currebant autem duo simul, et ille alius discipulus praecucurrit citius petro, et venit primus ad monumentum.	2020-04-18	Evangelium_secundum_Ioannem
+1100000998	et cum se inclinasset, vidit posita linteamina: non tamen introivit.	2020-04-18	Evangelium_secundum_Ioannem
+1100000999	venit ergo simon petrus sequens eum, et introivit in monumentum, et vidit linteamina posita,et sudarium, quod fuerat super caput eius, non cum linteaminibus positum, sed separatim involutum in unum locum.	2020-04-18	Evangelium_secundum_Ioannem
+1100001000	tunc ergo introivit et ille discipulus qui venerat primus ad monumentum: et vidit, et credidit:nondum enim sciebant scripturam, quia oportebat eum a mortuis resurgere.	2020-04-18	Evangelium_secundum_Ioannem
+1100001001	abierunt ergo iterum discipuli ad semetipsos.	2020-04-18	Evangelium_secundum_Ioannem
+1100001002	maria autem stabat ad monumentum foris, plorans. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001003	dum ergo fleret, inclinavit se, et prospexit in monumentum:et vidit duos angelos in albis sedentes, unum ad caput, et unum ad pedes, ubi positum fuerat corpus iesu.	2020-04-18	Evangelium_secundum_Ioannem
+1100001004	dicunt ei illi: mulier, quid ploras? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001005	dicit eis: quia tulerunt dominum meum: et nescio ubi posuerunt eum.	2020-04-18	Evangelium_secundum_Ioannem
+1100001006	haec cum dixisset, conversa est retrorsum, et vidit iesum stantem: et non sciebat quia iesus est.	2020-04-18	Evangelium_secundum_Ioannem
+1100001007	dicit ei iesus: mulier, quid ploras? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001008	quem quaeris? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001009	illa existimans quia hortulanus esset, dicit ei: domine, si tu sustulisti eum, dicito mihi ubi posuisti eum, et ego eum tollam.	2020-04-18	Evangelium_secundum_Ioannem
+1100001010	dicit ei iesus: maria. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001011	conversa illa, dicit ei: rabboni (quod dicitur magister).	2020-04-18	Evangelium_secundum_Ioannem
+1100001012	dicit ei iesus: noli me tangere, nondum enim ascendi ad patrem meum: vade autem ad fratres meos, et dic eis: ascendo ad patrem meum, et patrem vestrum, deum meum, et deum vestrum.	2020-04-18	Evangelium_secundum_Ioannem
+1100001013	venit maria magdalene annuntians discipulis: quia vidi dominum, et haec dixit mihi.	2020-04-18	Evangelium_secundum_Ioannem
+1100001014	cum ergo sero esset die illo, una sabbatorum, et fores essent clausae, ubi erant discipuli congregati propter metum iudaeorum: venit iesus, et stetit in medio, et dixit eis: pax vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100001015	et cum hoc dixisset, ostendit eis manus et latus. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001016	gavisi sunt ergo discipuli, viso domino.	2020-04-18	Evangelium_secundum_Ioannem
+1100001017	dixit ergo eis iterum: pax vobis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001018	sicut misit me pater, et ego mitto vos.	2020-04-18	Evangelium_secundum_Ioannem
+1100001019	haec cum dixisset, insufflavit, et dixit eis: accipite spiritum sanctum:quorum remiseritis peccata, remittuntur eis: et quorum retinueritis, retenta sunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100001020	thomas autem unus ex duodecim, qui dicitur didymus, non erat cum eis quando venit iesus.	2020-04-18	Evangelium_secundum_Ioannem
+1100001021	dixerunt ergo ei alii discipuli: vidimus dominum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001022	ille autem dixit eis: nisi videro in manibus eius fixuram clavorum, et mittam digitum meum in locum clavorum, et mittam manum meam in latus eius, non credam.	2020-04-18	Evangelium_secundum_Ioannem
+1100001023	et post dies octo, iterum erant discipuli eius intus, et thomas cum eis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001024	venit iesus ianuis clausis, et stetit in medio, et dixit: pax vobis.	2020-04-18	Evangelium_secundum_Ioannem
+1100001025	deinde dicit thomae: infer digitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incredulus, sed fidelis.	2020-04-18	Evangelium_secundum_Ioannem
+1100001026	respondit thomas, et dixit ei: dominus meus et deus meus.	2020-04-18	Evangelium_secundum_Ioannem
+1100001027	dixit ei iesus: quia vidisti me, thoma, credidisti: beati qui non viderunt, et crediderunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100001028	multa quidem et alia signa fecit iesus in conspectu discipulorum suorum, quae non sunt scripta in libro hoc.	2020-04-18	Evangelium_secundum_Ioannem
+1100001029	haec autem scripta sunt ut credatis, quia iesus est christus filius dei: et ut credentes, vitam habeatis in nomine eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100001030	caput 21	2020-04-18	Evangelium_secundum_Ioannem
+1100001031	postea manifestavit se iterum iesus discipulis ad mare tiberiadis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001032	manifestavit autem sic:erant simul simon petrus, et thomas, qui dicitur didymus, et nathanael, qui erat a cana galilaeae, et filii zebedaei, et alii ex discipulis eius duo.	2020-04-18	Evangelium_secundum_Ioannem
+1100001033	dicit eis simon petrus: vado piscari. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001034	dicunt ei: venimus et nos tecum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001035	et exierunt, et ascenderunt in navim: et illa nocte nihil prendiderunt.	2020-04-18	Evangelium_secundum_Ioannem
+1100001036	mane autem facto stetit iesus in littore: non tamen cognoverunt discipuli quia iesus est.	2020-04-18	Evangelium_secundum_Ioannem
+1100001037	dixit ergo eis iesus: pueri, numquid pulmentarium habetis? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001038	responderunt ei: non.	2020-04-18	Evangelium_secundum_Ioannem
+1100001039	dicit eis: mittite in dexteram navigii rete, et invenietis. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001040	miserunt ergo: et iam non valebant illud trahere prae multitudine piscium.	2020-04-18	Evangelium_secundum_Ioannem
+1100001041	dixit ergo discipulus ille, quem diligebat iesus, petro: dominus est. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001042	simon petrus cum audisset quia dominus est, tunica succinxit se (erat enim nudus) et misit se in mare.	2020-04-18	Evangelium_secundum_Ioannem
+1100001043	alii autem discipuli navigio venerunt (non enim longe erant a terra, sed quasi cubitis ducentis), trahentes rete piscium.	2020-04-18	Evangelium_secundum_Ioannem
+1100001044	ut ergo descenderunt in terram, viderunt prunas positas, et piscem superpositum, et panem.	2020-04-18	Evangelium_secundum_Ioannem
+1100001045	dicit eis iesus: afferte de piscibus, quos prendidistis nunc.	2020-04-18	Evangelium_secundum_Ioannem
+1100001046	ascendit simon petrus et traxit rete in terram, plenum magnis piscibus centum quinquaginta tribus. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001047	et cum tanti essent, non est scissum rete.	2020-04-18	Evangelium_secundum_Ioannem
+1100001048	dicit eis iesus: venite, prandete. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001049	et nemo audebat discumbentium interrogare eum: tu quis es? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001050	scientes, quia dominus est.	2020-04-18	Evangelium_secundum_Ioannem
+1100001051	et venit iesus, et accipit panem, et dat eis, et piscem similiter.	2020-04-18	Evangelium_secundum_Ioannem
+1100001052	hoc iam tertio manifestatus est iesus discipulis suis cum resurrexisset a mortuis.	2020-04-18	Evangelium_secundum_Ioannem
+1100001053	cum ergo prandissent, dicit simoni petro iesus: simon ioannis, diligis me plus his? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001054	dicit ei: etiam domine, tu scis quia amo te. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001055	dicit ei: pasce agnos meos.	2020-04-18	Evangelium_secundum_Ioannem
+1100001056	dicit ei iterum: simon ioannis, diligis me? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001057	ait illi: etiam domine, tu scis quia amo te. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001058	dicit ei: pasce agnos meos.	2020-04-18	Evangelium_secundum_Ioannem
+1100001059	dicit ei tertio: simon ioannis, amas me? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001060	contristatus est petrus, quia dixit ei tertio: amas me? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001061	et dixit ei: domine, tu omnia nosti, tu scis quia amo te. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001062	dixit ei: pasce oves meas.	2020-04-18	Evangelium_secundum_Ioannem
+1100001063	amen, amen dico tibi: cum esses iunior, cingebas te, et ambulabas ubi volebas: cum autem senueris, extendes manus tuas, et alius te cinget, et ducet quo tu non vis.	2020-04-18	Evangelium_secundum_Ioannem
+1100001064	hoc autem dixit significans qua morte clarificaturus esset deum. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001065	et cum hoc dixisset, dicit ei: sequere me.	2020-04-18	Evangelium_secundum_Ioannem
+1100001066	conversus petrus vidit illum discipulum, quem diligebat iesus, sequentem, qui et recubuit in coena super pectus eius, et dixit: domine, quis est qui tradet te?	2020-04-18	Evangelium_secundum_Ioannem
+1100001067	hunc ergo cum vidisset petrus, dixit iesu: domine, hic autem quid?	2020-04-18	Evangelium_secundum_Ioannem
+1100001068	dicit ei iesus: sic eum volo manere donec veniam, quid ad te? 	2020-04-18	Evangelium_secundum_Ioannem
+1100001069	tu me sequere.	2020-04-18	Evangelium_secundum_Ioannem
+1100001070	exiit ergo sermo iste inter fratres quia discipulus ille non moritur. 	2020-04-18	Evangelium_secundum_Ioannem
+1100001071	et non dixit ei iesus: non moritur, sed: sic eum volo manere donec veniam, quid ad te?	2020-04-18	Evangelium_secundum_Ioannem
+1100001072	hic est discipulus ille qui testimonium perhibet de his, et scripsit haec: et scimus quia verum est testimonium eius.	2020-04-18	Evangelium_secundum_Ioannem
+1100001073	sunt autem et alia multa quae fecit iesus: quae si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.	2020-04-18	Evangelium_secundum_Ioannem

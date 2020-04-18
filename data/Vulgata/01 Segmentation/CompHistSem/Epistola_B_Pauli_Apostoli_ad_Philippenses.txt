@@ -1,0 +1,80 @@
+1100000001	epistola b. pauli apostoli ad philippenses	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000003	paulus et timotheus, servi iesu christi, omnibus sanctis in christo iesu, qui sunt philippis, cum episcopis et diaconibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000004	gratia vobis, et pax a deo patre nostro, et domino iesu christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000005	gratias ago deo meo in omni memoria vestri,semper in cunctis orationibus meis pro omnibus vobis, cum gaudio deprecationem faciens,super communicatione vestra in evangelio christi a prima die usque nunc.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000006	confidens hoc ipsum, quia qui coepit in vobis opus bonum, perficiet usque in diem christi iesu:sicut est mihi iustum hoc sentire pro omnibus vobis: eo quod habeam vos in corde, et in vinculis meis, et in defensione, et confirmatione evangelii, socios gaudii mei omnes vos esse.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000007	testis enim mihi est deus, quomodo cupiam omnes vos in visceribus iesu christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000008	et hoc oro, ut caritas vestra magis ac magis abundet in scientia, et in omni sensu:ut probetis potiora, ut sitis sinceri, et sine offensa in diem christi,repleti fructu iustitiae per iesum christum, in gloriam et laudem dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000009	scire autem vos volo fratres, quia quae circa me sunt, magis ad profectum venerunt evangelii:ita ut vincula mea manifesta fierent in christo in omni praetorio, et in ceteris omnibus,et plures e fratribus in domino confidentes vinculis meis, abundantius auderent sine timore verbum dei loqui.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000010	quidam quidem et propter invidiam et contentionem: quidam autem et propter bonam voluntatem christum praedicant:quidam ex caritate, scientes quoniam in defensionem evangelii positus sum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000011	quidam autem ex contentione christum annuntiant non sincere, existimantes pressuram se suscitare vinculis meis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000012	quid enim? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000013	dum omni modo sive per occasionem, sive per veritatem, christus annuntietur: et in hoc gaudeo, sed et gaudebo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000014	scio enim quia hoc mihi proveniet ad salutem, per vestram orationem, et subministrationem spiritus iesu christi,secundum exspectationem et spem meam, quia in nullo confundar: sed in omni fiducia sicut semper, et nunc magnificabitur christus in corpore meo, sive per vitam, sive per mortem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000015	mihi enim vivere christus est, et mori lucrum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000016	quod si vivere in carne, hic mihi fructus operis est, et quid eligam ignoro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000017	coarctor autem e duobus: desiderium habens dissolvi, et esse cum christo, multo magis melius:permanere autem in carne, necessarium propter vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000018	et hoc confidens scio quia manebo, et permanebo omnibus vobis ad profectum vestrum, et gaudium fidei:ut gratulatio vestra abundet in christo iesu in me, per meum adventum iterum ad vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000019	tantum digne evangelio christi conversamini: ut sive cum venero, et videro vos, sive absens audiam de vobis, quia statis in uno spiritu unanimes, collaborantes fidei evangelii:et in nullo terreamini ab adversariis: quae illis est causa perditionis, vobis autem salutis, et hoc a deo:quia vobis donatum est pro christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini:idem certamen habentes, quale et vidistis in me, et nunc audistis de me.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000020	caput 2	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000021	si qua ergo consolatio in christo, si quod solatium caritatis, si qua societas spiritus, si qua viscera miserationis:implete gaudium meum ut idem sapiatis, eamdem caritatem habentes, unanimes, idipsum sentientes,nihil per contentionem, neque per inanem gloriam: sed in humilitate superiores sibi invicem arbitrantes,non quae sua sunt singuli considerantes, sed ea quae aliorum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000022	hoc enim sentite in vobis, quod et in christo iesu:qui cum in forma dei esset, non rapinam arbitratus est esse se aequalem deo:sed semetipsum exinanivit, formam servi accipiens, in similitudinem hominum factus, et habitu inventus ut homo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000023	humiliavit semetipsum factus obediens usque ad mortem, mortem autem crucis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000024	propter quod et deus exaltavit illum, et donavit illi nomen, quod est super omne nomen:ut in nomine iesu omne genu flectatur caelestium, terrestrium et infernorum,et omnis lingua confiteatur, quia dominus iesus christus in gloria est dei patris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000025	itaque carissimi mei (sicut semper obedistis), non ut in praesentia mei tantum, sed multo magis nunc in absentia mea, cum metu et tremore vestram salutem operamini.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000026	deus est enim, qui operatur in vobis et velle, et perficere pro bona voluntate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000027	omnia autem facite sine murmurationibus et haesitationibus:ut sitis sine querela, et simplices filii dei, sine reprehensione in medio nationis pravae et perversae: inter quos lucetis sicut luminaria in mundo,verbum vitae continentes ad gloriam meam in die christi, quia non in vacuum cucurri, neque in vacuum laboravi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000028	sed et si immolor supra sacrificium, et obsequium fidei vestrae, gaudeo, et congratulor omnibus vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000029	idipsum autem et vos gaudete, et congratulamini mihi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000030	spero autem in domino iesu, timotheum me cito mittere ad vos: ut et ego bono animo sim, cognitis quae circa vos sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000031	neminem enim habeo tam unanimem, qui sincera affectione pro vobis sollicitus sit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000032	omnes enim quae sua sunt quaerunt, non quae sunt iesu christi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000033	experimentum autem eius cognoscite, quia sicut patri filius, mecum servivit in evangelio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000034	hunc igitur spero me mittere ad vos, mox ut videro quae circa me sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000035	confido autem in domino quoniam et ipse veniam ad vos cito.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000036	necessarium autem existimavi epaphroditum fratrem, et cooperatorem, et commilitonem meum, vestrum autem apostolum, et ministrum necessitatis meae, mittere ad vos:quoniam quidem omnes vos desiderabat: et moestus erat, propterea quod audieratis illum infirmatum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000037	nam et infirmatus est usque ad mortem: sed deus misertus est eius: non solum autem eius, verum etiam et mei, ne tristitiam super tristitiam haberem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000038	festinantius ergo misi illum, ut viso eo iterum gaudeatis, et ego sine tristitia sim.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000039	excipite itaque illum cum omni gaudio in domino, et eiusmodi cum honore habetote;quoniam propter opus christi usque ad mortem accessit, tradens animam suam ut impleret id quod ex vobis deerat erga meum obsequium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000040	caput 3	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000041	de cetero, fratres mei, gaudete in domino. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000042	eadem vobis scribere, mihi quidem non pigrum, vobis autem necessarium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000043	videte canes, videte malos operarios, videte concisionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000044	nos enim sumus circumcisio, qui spiritu servimus deo, et gloriamur in christo iesu, et non in carne fiduciam habentes,quamquam ego habeam confidentiam et in carne. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000045	si quis alius videtur confidere in carne, ego magis,circumcisus octavo die, ex genere israel, de tribu beniamin, hebraeus ex hebraeis, secundum legem pharisaeus,secundum aemulationem persequens ecclesiam dei, secundum iustitiam, quae in lege est, conversatus sine querela.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000046	sed quae mihi fuerunt lucra, haec arbitratus sum propter christum detrimenta.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000047	verumtamen existimo omnia detrimentum esse propter eminentem scientiam iesu christi domini mei: propter quem omnia detrimentum feci, et arbitror ut stercora, ut christum lucrifaciam,et inveniar in illo non habens meam iustitiam, quae ex lege est, sed illam, quae ex fide est christi iesu: quae ex deo est iustitia in fide,ad cognoscendum illum, et virtutem resurrectionis eius, et societatem passionum illius: configuratus morti eius:si quo modo occurram ad resurrectionem, quae est ex mortuis:non quod iam acceperim, aut iam perfectus sim: sequor autem, si quomodo comprehendam in quo et comprehensus sum a christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000048	fratres, ego me non arbitror comprehendisse. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000049	unum autem, quae quidem retro sunt obliviscens, ad ea vero quae sunt priora, extendens meipsum,ad destinatum persequor, ad bravium supernae vocationis dei in christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000050	quicumque ergo perfecti sumus, hoc sentiamus: et si quid aliter sapitis, et hoc vobis deus revelabit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000051	verumtamen ad quod pervenimus ut idem sapiamus, et in eadem permaneamus regula.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000052	imitatores mei estote, fratres, et observate eos qui ita ambulant, sicut habetis formam nostram.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000053	multi enim ambulant, quos saepe dicebam vobis (nunc autem et flens dico) inimicos crucis christi:quorum finis interitus: quorum deus venter est: et gloria in confusione ipsorum, qui terrena sapiunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000054	nostra autem conversatio in caelis est: unde etiam salvatorem exspectamus dominum nostrum iesum christum,qui reformabit corpus humilitatis nostrae, configuratum corpori claritatis suae, secundum operationem, qua etiam possit subiicere sibi omnia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000055	caput 4	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000056	itaque fratres mei carissimi, et desideratissimi, gaudium meum, et corona mea: sic state in domino, carissimi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000057	evodiam rogo, et syntychen deprecor, idipsum sapere in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000058	etiam rogo et te, germane compar, adiuva illas, quae mecum laboraverunt in evangelio cum clemente, et ceteris adiutoribus meis, quorum nomina sunt in libro vitae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000059	gaudete in domino semper: iterum dico gaudete.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000060	modestia vestra nota sit omnibus hominibus: dominus prope est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000061	nihil solliciti sitis: sed in omni oratione, et obsecratione, cum gratiarum actione petitiones vestrae innotescant apud deum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000062	et pax dei, quae exuperat omnem sensum, custodiat corda vestra, et intelligentias vestras in christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000063	de cetero fratres, quaecumque sunt vera, quaecumque pudica, quaecumque iusta, quaecumque sancta, quaecumque amabilia, quaecumque bonae famae, siqua virtus, siqua laus disciplinae, haec cogitate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000064	quae et didicistis, et accepistis, et audistis, et vidistis in me, haec agite: et deus pacis erit vobiscum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000065	gavisus sum autem in domino vehementer, quoniam tandem aliquando refloruistis pro me sentire, sicut et sentiebatis: occupati autem eratis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000066	non quasi propter penuriam dico: ego enim didici, in quibus sum, sufficiens esse.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000067	scio et humiliari, scio et abundare (ubique et in omnibus institutus sum): et satiari, et esurire, et abundare, et penuriam pati.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000068	omnia possum in eo qui me confortat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000069	verumtamen bene fecistis, communicantes tribulationi meae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000070	scitis autem et vos philippenses, quod in principio evangelii, quando profectus sum a macedonia, nulla mihi ecclesia communicavit in ratione dati et accepti, nisi vos soli:quia et thessalonicam semel et bis in usum mihi misistis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000071	non quia quaero datum, sed requiro fructum abundantem in ratione vestra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000072	habeo autem omnia, et abundo: repletus sum, acceptis ab epaphrodito quae misistis odorem suavitatis, hostiam acceptam, placentem deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000073	deus autem meus impleat omne desiderium vestrum secundum divitias suas in gloria in christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000074	deo autem et patri nostro gloria in saecula saeculorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000075	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000076	salutate omnem sanctum in christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000077	salutant vos, qui mecum sunt, fratres. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000078	salutant vos omnes sancti, maxime autem qui de caesaris domo sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000079	gratia domini nostri iesu christi cum spiritu vestro. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses
+1100000080	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philippenses

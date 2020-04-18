@@ -1,0 +1,364 @@
+1100000001	canticum canticorum	2020-04-18	Canticum_Canticorum
+1100000002	caput 1	2020-04-18	Canticum_Canticorum
+1100000003	‹sponsa› osculetur me osculo oris sui;	2020-04-18	Canticum_Canticorum
+1100000004	quia meliora sunt ubera tua vino,	2020-04-18	Canticum_Canticorum
+1100000005	fragrantia unguentis optimis.	2020-04-18	Canticum_Canticorum
+1100000006	oleum effusum nomen tuum;	2020-04-18	Canticum_Canticorum
+1100000007	ideo adolescentulae dilexerunt te.	2020-04-18	Canticum_Canticorum
+1100000008	‹chorus adolescentularum› trahe me, post te curremus	2020-04-18	Canticum_Canticorum
+1100000009	in odorem unguentorum tuorum.	2020-04-18	Canticum_Canticorum
+1100000010	introduxit me rex in cellaria sua;	2020-04-18	Canticum_Canticorum
+1100000011	exsultabimus et laetabimur in te,	2020-04-18	Canticum_Canticorum
+1100000012	memores uberum tuorum super vinum.	2020-04-18	Canticum_Canticorum
+1100000013	recti diligunt te.	2020-04-18	Canticum_Canticorum
+1100000014	‹sponsa› nigra sum, sed formosa, filiae ierusalem,	2020-04-18	Canticum_Canticorum
+1100000015	sicut tabernacula cedar, sicut pelles salomonis.	2020-04-18	Canticum_Canticorum
+1100000016	nolite me considerare quod fusca sim,	2020-04-18	Canticum_Canticorum
+1100000017	quia decoloravit me sol.	2020-04-18	Canticum_Canticorum
+1100000018	filii matris meae pugnaverunt contra me;	2020-04-18	Canticum_Canticorum
+1100000019	posuerunt me custodem in vineis:	2020-04-18	Canticum_Canticorum
+1100000020	vineam meam non custodivi.	2020-04-18	Canticum_Canticorum
+1100000021	indica mihi, quem diligit anima mea, ubi pascas,	2020-04-18	Canticum_Canticorum
+1100000022	ubi cubes in meridie,	2020-04-18	Canticum_Canticorum
+1100000023	ne vagari incipiam post greges sodalium tuorum.	2020-04-18	Canticum_Canticorum
+1100000024	‹sponsus› si ignoras te, o pulcherrima inter mulieres,	2020-04-18	Canticum_Canticorum
+1100000025	egredere, et abi post vestigia gregum,	2020-04-18	Canticum_Canticorum
+1100000026	et pasce haedos tuos iuxta tabernacula pastorum.	2020-04-18	Canticum_Canticorum
+1100000027	equitatui meo in curribus pharaonis	2020-04-18	Canticum_Canticorum
+1100000028	assimilavi te, amica mea.	2020-04-18	Canticum_Canticorum
+1100000029	pulchrae sunt genae tuae sicut turturis;	2020-04-18	Canticum_Canticorum
+1100000030	collum tuum sicut monilia.	2020-04-18	Canticum_Canticorum
+1100000031	murenulas aureas faciemus tibi,	2020-04-18	Canticum_Canticorum
+1100000032	vermiculatas argento.	2020-04-18	Canticum_Canticorum
+1100000033	‹sponsa› dum esset rex in accubitu suo,	2020-04-18	Canticum_Canticorum
+1100000034	nardus mea dedit odorem suum.	2020-04-18	Canticum_Canticorum
+1100000035	fasciculus myrrhae dilectus meus mihi;	2020-04-18	Canticum_Canticorum
+1100000036	inter ubera mea commorabitur.	2020-04-18	Canticum_Canticorum
+1100000037	botrus cypri dilectus meus mihi	2020-04-18	Canticum_Canticorum
+1100000038	in vineis engaddi.	2020-04-18	Canticum_Canticorum
+1100000039	‹sponsus› ecce tu pulchra es, amica mea! 	2020-04-18	Canticum_Canticorum
+1100000040	ecce tu pulchra es!	2020-04-18	Canticum_Canticorum
+1100000041	oculi tui columbarum.	2020-04-18	Canticum_Canticorum
+1100000042	‹sponsa› ecce tu pulcher es, dilecte mi, et decorus!	2020-04-18	Canticum_Canticorum
+1100000043	lectulus noster floridus.	2020-04-18	Canticum_Canticorum
+1100000044	tigna domorum nostrarum cedrina,	2020-04-18	Canticum_Canticorum
+1100000045	laquearia nostra cypressina.	2020-04-18	Canticum_Canticorum
+1100000046	caput 2	2020-04-18	Canticum_Canticorum
+1100000047	ego flos campi,	2020-04-18	Canticum_Canticorum
+1100000048	et lilium convallium.	2020-04-18	Canticum_Canticorum
+1100000049	‹sponsus› sicut lilium inter spinas,	2020-04-18	Canticum_Canticorum
+1100000050	sic amica mea inter filias.	2020-04-18	Canticum_Canticorum
+1100000051	‹sponsa› sicut malus inter ligna silvarum,	2020-04-18	Canticum_Canticorum
+1100000052	sic dilectus meus inter filios.	2020-04-18	Canticum_Canticorum
+1100000053	sub umbra illius quem desideraveram sedi,	2020-04-18	Canticum_Canticorum
+1100000054	et fructus eius dulcis gutturi meo.	2020-04-18	Canticum_Canticorum
+1100000055	introduxit me in cellam vinariam;	2020-04-18	Canticum_Canticorum
+1100000056	ordinavit in me caritatem.	2020-04-18	Canticum_Canticorum
+1100000057	fulcite me floribus,	2020-04-18	Canticum_Canticorum
+1100000058	stipate me malis,	2020-04-18	Canticum_Canticorum
+1100000059	quia amore langueo.	2020-04-18	Canticum_Canticorum
+1100000060	laeva eius sub capite meo,	2020-04-18	Canticum_Canticorum
+1100000061	et dextera illius amplexabitur me.	2020-04-18	Canticum_Canticorum
+1100000062	‹sponsus› adiuro vos, filiae ierusalem,	2020-04-18	Canticum_Canticorum
+1100000063	per capreas cervosque camporum,	2020-04-18	Canticum_Canticorum
+1100000064	ne suscitetis, neque evigilare faciatis dilectam,	2020-04-18	Canticum_Canticorum
+1100000065	quoadusque ipsa velit.	2020-04-18	Canticum_Canticorum
+1100000066	‹sponsa› vox dilecti mei; ecce iste venit,	2020-04-18	Canticum_Canticorum
+1100000067	saliens in montibus, transiliens colles.	2020-04-18	Canticum_Canticorum
+1100000068	similis est dilectus meus capreae,	2020-04-18	Canticum_Canticorum
+1100000069	hinnuloque cervorum.	2020-04-18	Canticum_Canticorum
+1100000070	en ipse stat post parietem nostrum,	2020-04-18	Canticum_Canticorum
+1100000071	respiciens per fenestras,	2020-04-18	Canticum_Canticorum
+1100000072	prospiciens per cancellos.	2020-04-18	Canticum_Canticorum
+1100000073	en dilectus meus loquitur mihi.	2020-04-18	Canticum_Canticorum
+1100000074	‹sponsus› surge, propera, amica mea,	2020-04-18	Canticum_Canticorum
+1100000075	columba mea, formosa mea, et veni:	2020-04-18	Canticum_Canticorum
+1100000076	iam enim hiems transiit;	2020-04-18	Canticum_Canticorum
+1100000077	imber abiit, et recessit.	2020-04-18	Canticum_Canticorum
+1100000078	flores apparuerunt in terra nostra;	2020-04-18	Canticum_Canticorum
+1100000079	tempus putationis advenit:	2020-04-18	Canticum_Canticorum
+1100000080	vox turturis audita est in terra nostra;	2020-04-18	Canticum_Canticorum
+1100000081	ficus protulit grossos suos;	2020-04-18	Canticum_Canticorum
+1100000082	vineae florentes dederunt odorem suum.	2020-04-18	Canticum_Canticorum
+1100000083	surge, amica mea, speciosa mea, et veni:	2020-04-18	Canticum_Canticorum
+1100000084	columba mea, in foraminibus petrae, in caverna maceriae,	2020-04-18	Canticum_Canticorum
+1100000085	ostende mihi faciem tuam,	2020-04-18	Canticum_Canticorum
+1100000086	sonet vox tua in auribus meis:	2020-04-18	Canticum_Canticorum
+1100000087	vox enim tua dulcis, et facies tua decora.	2020-04-18	Canticum_Canticorum
+1100000088	‹sponsa› capite nobis vulpes parvulas	2020-04-18	Canticum_Canticorum
+1100000089	quae demoliuntur vineas:	2020-04-18	Canticum_Canticorum
+1100000090	nam vinea nostra floruit.	2020-04-18	Canticum_Canticorum
+1100000091	dilectus meus mihi, et ego illi,	2020-04-18	Canticum_Canticorum
+1100000092	qui pascitur inter lilia,	2020-04-18	Canticum_Canticorum
+1100000093	donec aspiret dies, et inclinentur umbrae.	2020-04-18	Canticum_Canticorum
+1100000094	revertere; similis esto, dilecte mi, capreae,	2020-04-18	Canticum_Canticorum
+1100000095	hinnuloque cervorum super montes bether.	2020-04-18	Canticum_Canticorum
+1100000096	caput 3	2020-04-18	Canticum_Canticorum
+1100000097	in lectulo meo, per noctes,	2020-04-18	Canticum_Canticorum
+1100000098	quaesivi quem diligit anima mea:	2020-04-18	Canticum_Canticorum
+1100000099	quaesivi illum, et non inveni.	2020-04-18	Canticum_Canticorum
+1100000100	surgam, et circuibo civitatem:	2020-04-18	Canticum_Canticorum
+1100000101	per vicos et plateas	2020-04-18	Canticum_Canticorum
+1100000102	quaeram quem diligit anima mea:	2020-04-18	Canticum_Canticorum
+1100000103	quaesivi illum, et non inveni.	2020-04-18	Canticum_Canticorum
+1100000104	invenerunt me vigiles qui custodiunt civitatem:	2020-04-18	Canticum_Canticorum
+1100000105	num quem diligit anima mea vidistis?	2020-04-18	Canticum_Canticorum
+1100000106	paululum cum pertransissem eos,	2020-04-18	Canticum_Canticorum
+1100000107	inveni quem diligit anima mea:	2020-04-18	Canticum_Canticorum
+1100000108	tenui eum, nec dimittam,	2020-04-18	Canticum_Canticorum
+1100000109	donec introducam illum in domum matris meae,	2020-04-18	Canticum_Canticorum
+1100000110	et in cubiculum genetricis meae.	2020-04-18	Canticum_Canticorum
+1100000111	‹sponsus› adiuro vos, filiae ierusalem,	2020-04-18	Canticum_Canticorum
+1100000112	per capreas cervosque camporum,	2020-04-18	Canticum_Canticorum
+1100000113	ne suscitetis, neque evigilare faciatis dilectam,	2020-04-18	Canticum_Canticorum
+1100000114	donec ipsa velit.	2020-04-18	Canticum_Canticorum
+1100000115	‹chorus› quae est ista quae ascendit per desertum	2020-04-18	Canticum_Canticorum
+1100000116	sicut virgula fumi ex aromatibus myrrhae,	2020-04-18	Canticum_Canticorum
+1100000117	et thuris, et universi pulveris pigmentarii?	2020-04-18	Canticum_Canticorum
+1100000118	en lectulum salomonis sexaginta fortes ambiunt	2020-04-18	Canticum_Canticorum
+1100000119	ex fortissimis israel,	2020-04-18	Canticum_Canticorum
+1100000120	omnes tenentes gladios, et ad bella doctissimi:	2020-04-18	Canticum_Canticorum
+1100000121	uniuscuiusque ensis super femur suum	2020-04-18	Canticum_Canticorum
+1100000122	propter timores nocturnos.	2020-04-18	Canticum_Canticorum
+1100000123	ferculum fecit sibi rex salomon	2020-04-18	Canticum_Canticorum
+1100000124	de lignis libani;	2020-04-18	Canticum_Canticorum
+1100000125	columnas eius fecit argenteas,	2020-04-18	Canticum_Canticorum
+1100000126	reclinatorium aureum, ascensum purpureum;	2020-04-18	Canticum_Canticorum
+1100000127	media caritate constravit,	2020-04-18	Canticum_Canticorum
+1100000128	propter filias ierusalem.	2020-04-18	Canticum_Canticorum
+1100000129	egredimini et videte, filiae sion,	2020-04-18	Canticum_Canticorum
+1100000130	regem salomonem in diademate quo coronavit illum mater sua	2020-04-18	Canticum_Canticorum
+1100000131	in die desponsationis illius,	2020-04-18	Canticum_Canticorum
+1100000132	et in die laetitiae cordis eius.	2020-04-18	Canticum_Canticorum
+1100000133	caput 4	2020-04-18	Canticum_Canticorum
+1100000134	‹sponsus› quam pulchra es, amica mea! 	2020-04-18	Canticum_Canticorum
+1100000135	quam pulchra es!	2020-04-18	Canticum_Canticorum
+1100000136	oculi tui columbarum,	2020-04-18	Canticum_Canticorum
+1100000137	absque eo quod intrinsecus latet.	2020-04-18	Canticum_Canticorum
+1100000138	capilli tui sicut greges caprarum	2020-04-18	Canticum_Canticorum
+1100000139	quae ascenderunt de monte galaad.	2020-04-18	Canticum_Canticorum
+1100000140	dentes tui sicut greges tonsarum	2020-04-18	Canticum_Canticorum
+1100000141	quae ascenderunt de lavacro;	2020-04-18	Canticum_Canticorum
+1100000142	omnes gemellis foetibus,	2020-04-18	Canticum_Canticorum
+1100000143	et sterilis non est inter eas.	2020-04-18	Canticum_Canticorum
+1100000144	sicut vitta coccinea labia tua,	2020-04-18	Canticum_Canticorum
+1100000145	et eloquium tuum dulce.	2020-04-18	Canticum_Canticorum
+1100000146	sicut fragmen mali punici, ita genae tuae,	2020-04-18	Canticum_Canticorum
+1100000147	absque eo quod intrinsecus latet.	2020-04-18	Canticum_Canticorum
+1100000148	sicut turris david collum tuum,	2020-04-18	Canticum_Canticorum
+1100000149	quae aedificata est cum propugnaculis;	2020-04-18	Canticum_Canticorum
+1100000150	mille clypei pendent ex ea,	2020-04-18	Canticum_Canticorum
+1100000151	omnis armatura fortium.	2020-04-18	Canticum_Canticorum
+1100000152	duo ubera tua sicut duo hinnuli,	2020-04-18	Canticum_Canticorum
+1100000153	capreae gemelli, qui pascuntur in liliis.	2020-04-18	Canticum_Canticorum
+1100000154	donec aspiret dies, et inclinentur umbrae,	2020-04-18	Canticum_Canticorum
+1100000155	vadam ad montem myrrhae, et ad collem thuris.	2020-04-18	Canticum_Canticorum
+1100000156	tota pulchra es, amica mea,	2020-04-18	Canticum_Canticorum
+1100000157	et macula non est in te.	2020-04-18	Canticum_Canticorum
+1100000158	veni de libano, sponsa mea:	2020-04-18	Canticum_Canticorum
+1100000159	veni de libano, veni, coronaberis:	2020-04-18	Canticum_Canticorum
+1100000160	de capite amana, de vertice sanir et hermon,	2020-04-18	Canticum_Canticorum
+1100000161	de cubilibus leonum, de montibus pardorum.	2020-04-18	Canticum_Canticorum
+1100000162	vulnerasti cor meum, soror mea, sponsa;	2020-04-18	Canticum_Canticorum
+1100000163	vulnerasti cor meum in uno oculorum tuorum,	2020-04-18	Canticum_Canticorum
+1100000164	et in uno crine colli tui.	2020-04-18	Canticum_Canticorum
+1100000165	quam pulchrae sunt mammae tuae, soror mea sponsa!	2020-04-18	Canticum_Canticorum
+1100000166	pulchriora sunt ubera tua vino,	2020-04-18	Canticum_Canticorum
+1100000167	et odor unguentorum tuorum super omnia aromata.	2020-04-18	Canticum_Canticorum
+1100000168	favus distillans labia tua, sponsa;	2020-04-18	Canticum_Canticorum
+1100000169	mel et lac sub lingua tua:	2020-04-18	Canticum_Canticorum
+1100000170	et odor vestimentorum tuorum sicut odor thuris.	2020-04-18	Canticum_Canticorum
+1100000171	hortus conclusus soror mea, sponsa,	2020-04-18	Canticum_Canticorum
+1100000172	hortus conclusus, fons signatus.	2020-04-18	Canticum_Canticorum
+1100000173	emissiones tuae paradisus malorum punicorum,	2020-04-18	Canticum_Canticorum
+1100000174	cum pomorum fructibus, cypri cum nardo.	2020-04-18	Canticum_Canticorum
+1100000175	nardus et crocus, fistula et cinnamomum,	2020-04-18	Canticum_Canticorum
+1100000176	cum universis lignis libani;	2020-04-18	Canticum_Canticorum
+1100000177	myrrha et aloe, cum omnibus primis unguentis.	2020-04-18	Canticum_Canticorum
+1100000178	fons hortorum, puteus aquarum viventium,	2020-04-18	Canticum_Canticorum
+1100000179	quae fluunt impetu de libano.	2020-04-18	Canticum_Canticorum
+1100000180	‹sponsa› surge, aquilo, et veni, auster:	2020-04-18	Canticum_Canticorum
+1100000181	perfla hortum meum, et fluant aromata illius.	2020-04-18	Canticum_Canticorum
+1100000182	caput 5	2020-04-18	Canticum_Canticorum
+1100000183	veniat dilectus meus in hortum suum,	2020-04-18	Canticum_Canticorum
+1100000184	et comedat fructum pomorum suorum.	2020-04-18	Canticum_Canticorum
+1100000185	‹sponsus› veni in hortum meum, soror mea, sponsa;	2020-04-18	Canticum_Canticorum
+1100000186	messui myrrham meam cum aromatibus meis;	2020-04-18	Canticum_Canticorum
+1100000187	comedi favum cum melle meo;	2020-04-18	Canticum_Canticorum
+1100000188	bibi vinum meum cum lacte meo;	2020-04-18	Canticum_Canticorum
+1100000189	comedite, amici, et bibite,	2020-04-18	Canticum_Canticorum
+1100000190	et inebriamini, carissimi.	2020-04-18	Canticum_Canticorum
+1100000191	‹sponsa› ego dormio, et cor meum vigilat.	2020-04-18	Canticum_Canticorum
+1100000192	vox dilecti mei pulsantis:	2020-04-18	Canticum_Canticorum
+1100000193	‹sponsus› aperi mihi, soror mea, amica mea,	2020-04-18	Canticum_Canticorum
+1100000194	columba mea, immaculata mea,	2020-04-18	Canticum_Canticorum
+1100000195	quia caput meum plenum est rore,	2020-04-18	Canticum_Canticorum
+1100000196	et cincinni mei guttis noctium.	2020-04-18	Canticum_Canticorum
+1100000197	‹sponsa› expoliavi me tunica mea: quomodo induar illa?	2020-04-18	Canticum_Canticorum
+1100000198	lavi pedes meos: quomodo inquinabo illos?	2020-04-18	Canticum_Canticorum
+1100000199	dilectus meus misit manum suam per foramen,	2020-04-18	Canticum_Canticorum
+1100000200	et venter meus intremuit ad tactum eius.	2020-04-18	Canticum_Canticorum
+1100000201	surrexi ut aperirem dilecto meo;	2020-04-18	Canticum_Canticorum
+1100000202	manus meae stillaverunt myrrham,	2020-04-18	Canticum_Canticorum
+1100000203	et digiti mei pleni myrrha probatissima.	2020-04-18	Canticum_Canticorum
+1100000204	pessulum ostii mei aperui dilecto meo,	2020-04-18	Canticum_Canticorum
+1100000205	at ille declinaverat, atque transierat.	2020-04-18	Canticum_Canticorum
+1100000206	anima mea liquefacta est, ut locutus est;	2020-04-18	Canticum_Canticorum
+1100000207	quaesivi, et non inveni illum;	2020-04-18	Canticum_Canticorum
+1100000208	vocavi, et non respondit mihi.	2020-04-18	Canticum_Canticorum
+1100000209	invenerunt me custodes qui circumeunt civitatem;	2020-04-18	Canticum_Canticorum
+1100000210	percusserunt me, et vulneraverunt me.	2020-04-18	Canticum_Canticorum
+1100000211	tulerunt pallium meum mihi custodes murorum.	2020-04-18	Canticum_Canticorum
+1100000212	adiuro vos, filiae ierusalem,	2020-04-18	Canticum_Canticorum
+1100000213	si inveneritis dilectum meum,	2020-04-18	Canticum_Canticorum
+1100000214	ut nuntietis ei quia amore langueo.	2020-04-18	Canticum_Canticorum
+1100000215	‹chorus› qualis est dilectus tuus ex dilecto, o pulcherrima mulierum?	2020-04-18	Canticum_Canticorum
+1100000216	qualis est dilectus tuus ex dilecto, quia sic adiurasti nos?	2020-04-18	Canticum_Canticorum
+1100000217	‹sponsa› dilectus meus candidus et rubicundus;	2020-04-18	Canticum_Canticorum
+1100000218	electus ex millibus.	2020-04-18	Canticum_Canticorum
+1100000219	caput eius aurum optimum;	2020-04-18	Canticum_Canticorum
+1100000220	comae eius sicut elatae palmarum, nigrae quasi corvus.	2020-04-18	Canticum_Canticorum
+1100000221	oculi eius sicut columbae super rivulos aquarum,	2020-04-18	Canticum_Canticorum
+1100000222	quae lacte sunt lotae, et resident iuxta fluenta plenissima.	2020-04-18	Canticum_Canticorum
+1100000223	genae illius sicut areolae aromatum,	2020-04-18	Canticum_Canticorum
+1100000224	consitae a pigmentariis.	2020-04-18	Canticum_Canticorum
+1100000225	labia eius lilia,	2020-04-18	Canticum_Canticorum
+1100000226	distillantia myrrham primam.	2020-04-18	Canticum_Canticorum
+1100000227	manus illius tornatiles, aureae,	2020-04-18	Canticum_Canticorum
+1100000228	plenae hyacinthis.	2020-04-18	Canticum_Canticorum
+1100000229	venter eius eburneus,	2020-04-18	Canticum_Canticorum
+1100000230	distinctus sapphiris.	2020-04-18	Canticum_Canticorum
+1100000231	crura illius columnae marmoreae	2020-04-18	Canticum_Canticorum
+1100000232	quae fundatae sunt super bases aureas.	2020-04-18	Canticum_Canticorum
+1100000233	species eius ut libani,	2020-04-18	Canticum_Canticorum
+1100000234	electus ut cedri.	2020-04-18	Canticum_Canticorum
+1100000235	guttur illius suavissimum,	2020-04-18	Canticum_Canticorum
+1100000236	et totus desiderabilis.	2020-04-18	Canticum_Canticorum
+1100000237	talis est dilectus meus,	2020-04-18	Canticum_Canticorum
+1100000238	et ipse est amicus meus, filiae ierusalem.	2020-04-18	Canticum_Canticorum
+1100000239	‹chorus› quo abiit dilectus tuus, o pulcherrima mulierum?	2020-04-18	Canticum_Canticorum
+1100000240	quo declinavit dilectus tuus?	2020-04-18	Canticum_Canticorum
+1100000241	et quaeremus eum tecum.	2020-04-18	Canticum_Canticorum
+1100000242	caput 6	2020-04-18	Canticum_Canticorum
+1100000243	‹sponsa› dilectus meus descendit in hortum suum ad areolam aromatum,	2020-04-18	Canticum_Canticorum
+1100000244	ut pascatur in hortis, et lilia colligat.	2020-04-18	Canticum_Canticorum
+1100000245	ego dilecto meo, et dilectus meus mihi,	2020-04-18	Canticum_Canticorum
+1100000246	qui pascitur inter lilia.	2020-04-18	Canticum_Canticorum
+1100000247	‹sponsus› pulchra es, amica mea;	2020-04-18	Canticum_Canticorum
+1100000248	suavis, et decora sicut ierusalem;	2020-04-18	Canticum_Canticorum
+1100000249	terribilis ut castrorum acies ordinata.	2020-04-18	Canticum_Canticorum
+1100000250	averte oculos tuos a me,	2020-04-18	Canticum_Canticorum
+1100000251	quia ipsi me avolare fecerunt.	2020-04-18	Canticum_Canticorum
+1100000252	capilli tui sicut grex caprarum	2020-04-18	Canticum_Canticorum
+1100000253	quae apparuerunt de galaad.	2020-04-18	Canticum_Canticorum
+1100000254	dentes tui sicut grex ovium	2020-04-18	Canticum_Canticorum
+1100000255	quae ascenderunt de lavacro:	2020-04-18	Canticum_Canticorum
+1100000256	omnes gemellis foetibus,	2020-04-18	Canticum_Canticorum
+1100000257	et sterilis non est in eis.	2020-04-18	Canticum_Canticorum
+1100000258	sicut cortex mali punici, sic genae tuae,	2020-04-18	Canticum_Canticorum
+1100000259	absque occultis tuis.	2020-04-18	Canticum_Canticorum
+1100000260	sexaginta sunt reginae, et octoginta concubinae,	2020-04-18	Canticum_Canticorum
+1100000261	et adolescentularum non est numerus.	2020-04-18	Canticum_Canticorum
+1100000262	una est columba mea, perfecta mea,	2020-04-18	Canticum_Canticorum
+1100000263	una est matris suae, electa genetrici suae.	2020-04-18	Canticum_Canticorum
+1100000264	viderunt eam filiae, et beatissimam praedicaverunt;	2020-04-18	Canticum_Canticorum
+1100000265	reginae et concubinae, et laudaverunt eam.	2020-04-18	Canticum_Canticorum
+1100000266	quae est ista quae progreditur quasi aurora consurgens,	2020-04-18	Canticum_Canticorum
+1100000267	pulchra ut luna, electa ut sol,	2020-04-18	Canticum_Canticorum
+1100000268	terribilis ut castrorum acies ordinata?	2020-04-18	Canticum_Canticorum
+1100000269	‹sponsa› descendi in hortum nucum,	2020-04-18	Canticum_Canticorum
+1100000270	ut viderem poma convallium,	2020-04-18	Canticum_Canticorum
+1100000271	et inspicerem si floruisset vinea,	2020-04-18	Canticum_Canticorum
+1100000272	et germinassent mala punica.	2020-04-18	Canticum_Canticorum
+1100000273	nescivi: anima mea conturbavit me,	2020-04-18	Canticum_Canticorum
+1100000274	propter quadrigas aminadab.	2020-04-18	Canticum_Canticorum
+1100000275	‹chorus› revertere, revertere, sulamitis!	2020-04-18	Canticum_Canticorum
+1100000276	revertere, revertere ut intueamur te.	2020-04-18	Canticum_Canticorum
+1100000277	caput 7	2020-04-18	Canticum_Canticorum
+1100000278	‹sponsa› quid videbis in sulamite, nisi choros castrorum?	2020-04-18	Canticum_Canticorum
+1100000279	‹chorus› quam pulchri sunt gressus tui in calceamentis, filia principis!	2020-04-18	Canticum_Canticorum
+1100000280	iuncturae femorum tuorum sicut monilia	2020-04-18	Canticum_Canticorum
+1100000281	quae fabricata sunt manu artificis.	2020-04-18	Canticum_Canticorum
+1100000282	umbilicus tuus crater tornatilis,	2020-04-18	Canticum_Canticorum
+1100000283	numquam indigens poculis.	2020-04-18	Canticum_Canticorum
+1100000284	venter tuus sicut acervus tritici vallatus liliis.	2020-04-18	Canticum_Canticorum
+1100000285	duo ubera tua sicut duo hinnuli,	2020-04-18	Canticum_Canticorum
+1100000286	gemelli capreae.	2020-04-18	Canticum_Canticorum
+1100000287	collum tuum sicut turris eburnea;	2020-04-18	Canticum_Canticorum
+1100000288	oculi tui sicut piscinae in hesebon	2020-04-18	Canticum_Canticorum
+1100000289	quae sunt in porta filiae multitudinis.	2020-04-18	Canticum_Canticorum
+1100000290	nasus tuus sicut turris libani,	2020-04-18	Canticum_Canticorum
+1100000291	quae respicit contra damascum.	2020-04-18	Canticum_Canticorum
+1100000292	caput tuum ut carmelus;	2020-04-18	Canticum_Canticorum
+1100000293	et comae capitis tui sicut purpura regis	2020-04-18	Canticum_Canticorum
+1100000294	vincta canalibus.	2020-04-18	Canticum_Canticorum
+1100000295	‹sponsus› quam pulchra es, et quam decora,	2020-04-18	Canticum_Canticorum
+1100000296	carissima, in deliciis!	2020-04-18	Canticum_Canticorum
+1100000297	statura tua assimilata est palmae,	2020-04-18	Canticum_Canticorum
+1100000298	et ubera tua botris.	2020-04-18	Canticum_Canticorum
+1100000299	dixi: ascendam in palmam,	2020-04-18	Canticum_Canticorum
+1100000300	et apprehendam fructus eius;	2020-04-18	Canticum_Canticorum
+1100000301	et erunt ubera tua sicut botri vineae,	2020-04-18	Canticum_Canticorum
+1100000302	et odor oris tui sicut malorum.	2020-04-18	Canticum_Canticorum
+1100000303	guttur tuum sicut vinum optimum,	2020-04-18	Canticum_Canticorum
+1100000304	dignum dilecto meo ad potandum,	2020-04-18	Canticum_Canticorum
+1100000305	labiisque et dentibus illius ad ruminandum.	2020-04-18	Canticum_Canticorum
+1100000306	‹sponsa› ego dilecto meo,	2020-04-18	Canticum_Canticorum
+1100000307	et ad me conversio eius.	2020-04-18	Canticum_Canticorum
+1100000308	veni, dilecte mi, egrediamur in agrum,	2020-04-18	Canticum_Canticorum
+1100000309	commoremur in villis.	2020-04-18	Canticum_Canticorum
+1100000310	mane surgamus ad vineas:	2020-04-18	Canticum_Canticorum
+1100000311	videamus si floruit vinea,	2020-04-18	Canticum_Canticorum
+1100000312	si flores fructus parturiunt,	2020-04-18	Canticum_Canticorum
+1100000313	si floruerunt mala punica;	2020-04-18	Canticum_Canticorum
+1100000314	ibi dabo tibi ubera mea.	2020-04-18	Canticum_Canticorum
+1100000315	mandragorae dederunt odorem	2020-04-18	Canticum_Canticorum
+1100000316	in portis nostris omnia poma:	2020-04-18	Canticum_Canticorum
+1100000317	nova et vetera, dilecte mi, servavi tibi.	2020-04-18	Canticum_Canticorum
+1100000318	caput 8	2020-04-18	Canticum_Canticorum
+1100000319	quis mihi det te fratrem meum,	2020-04-18	Canticum_Canticorum
+1100000320	sugentem ubera matris meae,	2020-04-18	Canticum_Canticorum
+1100000321	ut inveniam te foris, et deosculer te,	2020-04-18	Canticum_Canticorum
+1100000322	et iam me nemo despiciat?	2020-04-18	Canticum_Canticorum
+1100000323	apprehendam te, et ducam in domum matris meae:	2020-04-18	Canticum_Canticorum
+1100000324	ibi me docebis,	2020-04-18	Canticum_Canticorum
+1100000325	et dabo tibi poculum ex vino condito,	2020-04-18	Canticum_Canticorum
+1100000326	et mustum malorum granatorum meorum.	2020-04-18	Canticum_Canticorum
+1100000327	laeva eius sub capite meo,	2020-04-18	Canticum_Canticorum
+1100000328	et dextera illius amplexabitur me.	2020-04-18	Canticum_Canticorum
+1100000329	‹sponsus› adiuro vos, filiae ierusalem,	2020-04-18	Canticum_Canticorum
+1100000330	ne suscitetis, neque evigilare faciatis dilectam,	2020-04-18	Canticum_Canticorum
+1100000331	donec ipsa velit.	2020-04-18	Canticum_Canticorum
+1100000332	‹chorus› quae est ista quae ascendit de deserto, deliciis affluens,	2020-04-18	Canticum_Canticorum
+1100000333	innixa super dilectum suum?	2020-04-18	Canticum_Canticorum
+1100000334	‹sponsus› sub arbore malo suscitavi te;	2020-04-18	Canticum_Canticorum
+1100000335	ibi corrupta est mater tua,	2020-04-18	Canticum_Canticorum
+1100000336	ibi violata est genitrix tua.	2020-04-18	Canticum_Canticorum
+1100000337	‹sponsa› pone me ut signaculum super cor tuum,	2020-04-18	Canticum_Canticorum
+1100000338	ut signaculum super brachium tuum,	2020-04-18	Canticum_Canticorum
+1100000339	quia fortis est ut mors dilectio,	2020-04-18	Canticum_Canticorum
+1100000340	dura sicut infernus aemulatio:	2020-04-18	Canticum_Canticorum
+1100000341	lampades eius lampades ignis atque flammarum.	2020-04-18	Canticum_Canticorum
+1100000342	aquae multae non potuerunt extinguere caritatem,	2020-04-18	Canticum_Canticorum
+1100000343	nec flumina obruent illam.	2020-04-18	Canticum_Canticorum
+1100000344	si dederit homo omnem substantiam domus suae pro dilectione,	2020-04-18	Canticum_Canticorum
+1100000345	quasi nihil despiciet eam.	2020-04-18	Canticum_Canticorum
+1100000346	‹chorus fratrum› soror nostra parva,	2020-04-18	Canticum_Canticorum
+1100000347	et ubera non habet;	2020-04-18	Canticum_Canticorum
+1100000348	quid faciemus sorori nostrae	2020-04-18	Canticum_Canticorum
+1100000349	in die quando alloquenda est?	2020-04-18	Canticum_Canticorum
+1100000350	si murus est,	2020-04-18	Canticum_Canticorum
+1100000351	aedificemus super eum propugnacula argentea;	2020-04-18	Canticum_Canticorum
+1100000352	si ostium est, compingamus illud tabulis cedrinis.	2020-04-18	Canticum_Canticorum
+1100000353	‹sponsa› ego murus, et ubera mea sicut turris,	2020-04-18	Canticum_Canticorum
+1100000354	ex quo facta sum coram eo, quasi pacem reperiens.	2020-04-18	Canticum_Canticorum
+1100000355	‹chorus fratrum› vinea fuit pacifico in ea quae habet populos:	2020-04-18	Canticum_Canticorum
+1100000356	tradidit eam custodibus;	2020-04-18	Canticum_Canticorum
+1100000357	vir affert pro fructu eius mille argenteos.	2020-04-18	Canticum_Canticorum
+1100000358	‹sponsa› vinea mea coram me est.	2020-04-18	Canticum_Canticorum
+1100000359	mille tui pacifici,	2020-04-18	Canticum_Canticorum
+1100000360	et ducenti his qui custodiunt fructus eius.	2020-04-18	Canticum_Canticorum
+1100000361	‹sponsus› quae habitas in hortis, amici auscultant;	2020-04-18	Canticum_Canticorum
+1100000362	fac me audire vocem tuam.	2020-04-18	Canticum_Canticorum
+1100000363	‹sponsa› fuge, dilecte mi, et assimilare capreae,	2020-04-18	Canticum_Canticorum
+1100000364	hinnuloque cervorum super montes aromatum.	2020-04-18	Canticum_Canticorum

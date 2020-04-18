@@ -1,0 +1,248 @@
+1100000001	epistola b. pauli apostoli ad hebraeos	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000003	multifariam, multisque modis olim deus loquens patribus in prophetis:novissime, diebus istis locutus est nobis in filio, quem constituit haeredem universorum, per quem fecit et saecula:qui cum sit splendor gloriae, et figura substantiae eius, portansque omnia verbo virtutis suae, purgationem peccatorum faciens, sedet ad dexteram maiestatis in excelsis:tanto melior angelis effectus, quanto differentius prae illis nomen haereditavit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000004	cui enim dixit aliquando angelorum: filius meus es tu, ego hodie genui te? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000005	et rursum: ego ero illi in patrem, et ipse erit mihi in filium?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000006	et cum iterum introducit primogenitum in orbem terrae, dicit: et adorent eum omnes angeli dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000007	et ad angelos quidem dicit: qui facit angelos suos spiritus, et ministros suos flammam ignis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000008	ad filium autem: thronus tuus deus in saeculum saeculi: virga aequitatis, virga regni tui.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000009	dilexisti iustitiam, et odisti iniquitatem: propterea unxit te deus, deus tuus, oleo exultationis prae participibus tuis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000010	et: tu in principio, domine, terram fundasti: et opera manuum tuarum sunt caeli.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000011	ipsi peribunt, tu autem permanebis, et omnes ut vestimentum veterascent:et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui non deficient.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000012	ad quem autem angelorum dixit aliquando: sede a dextris meis, quoadusque ponam inimicos tuos scabellum pedum tuorum?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000013	nonne omnes sunt administratorii spiritus, in ministerium missi propter eos, qui haereditatem capient salutis?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000014	caput 2	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000015	propterea abundantius oportet observare nos ea quae audivimus, ne forte pereffluamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000016	si enim qui per angelos dictus est sermo, factus est firmus, et omnis praevaricatio, et inobedientia accepit iustam mercedis retributionem:quomodo nos effugiemus si tantam neglexerimus salutem? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000017	quae cum initium accepisset enarrari per dominum ab eis, qui audierunt, in nos confirmata est,contestante deo signis et portentis, et variis virtutibus, et spiritus sancti distributionibus secundum suam voluntatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000018	non enim angelis subiecit deus orbem terrae futurum, de quo loquimur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000019	testatus est autem in quodam loco quis, dicens: quid est homo quod memor es eius, aut filius hominis quoniam visitas eum?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000020	minuisti eum paulo minus ab angelis: gloria et honore coronasti eum: et constituisti eum super opera manuum tuarum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000021	omnia subiecisti sub pedibus eius. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000022	in eo enim quod omnia ei subiecit, nihil dimisit non subiectum ei. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000023	nunc autem necdum videmus omnia subiecta ei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000024	eum autem, qui modico quam angeli minoratus est, videmus iesum propter passionem mortis, gloria et honore coronatum: ut, gratia dei, pro omnibus gustaret mortem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000025	decebat enim eum, propter quem omnia, et per quem omnia, qui multos filios in gloriam adduxerat, auctorem salutis eorum per passionem consummare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000026	qui enim sanctificat, et qui sanctificantur, ex uno omnes. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000027	propter quam causam non confunditur fratres eos vocare, dicens:nuntiabo nomen tuum fratribus meis: in medio ecclesiae laudabo te.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000028	et iterum: ego ero fidens in eum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000029	et iterum: ecce ego, et pueri mei, quos dedit mihi deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000030	quia ergo pueri communicaverunt carni, et sanguini, et ipse similiter participavit eisdem: ut per mortem destrueret eum qui habebat mortis imperium, id est, diabolum:et liberaret eos qui timore mortis per totam vitam obnoxii erant servituti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000031	nusquam enim angelos apprehendit, sed semen abrahae apprehendit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000032	unde debuit per omnia fratribus similari, ut misericors fieret, et fidelis pontifex ad deum, ut repropitiaret delicta populi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000033	in eo enim, in quo passus est ipse et tentatus, potens est et eis, qui tentantur, auxiliari.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000034	caput 3	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000035	unde, fratres sancti, vocationis caelestis participes, considerate apostolum, et pontificem confessionis nostrae iesum:qui fidelis est ei, qui fecit illum, sicut et moyses in omni domo eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000036	amplioris enim gloriae iste prae moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000037	omnis namque domus fabricatur ab aliquo: qui autem omnia creavit, deus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000038	et moyses quidem fidelis erat in tota domo eius tamquam famulus, in testimonium eorum, quae dicenda erant:christus vero tamquam filius in domo sua: quae domus sumus nos, si fiduciam, et gloriam spei usque ad finem, firmam retineamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000039	quapropter sicut dicit spiritus sanctus: hodie si vocem eius audieritis,nolite obdurare corda vestra, sicut in exacerbatione secundum diem tentationis in deserto,ubi tentaverunt me patres vestri: probaverunt, et viderunt opera meaquadraginta annis: propter quod infensus fui generationi huic, et dixi: semper errant corde. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000040	ipsi autem non cognoverunt vias meas,sicut iuravi in ira mea: si introibunt in requiem meam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000041	videte fratres, ne forte sit in aliquo vestrum cor malum incredulitatis, discedendi a deo vivo:sed adhortamini vosmetipsos per singulos dies, donec hodie cognominatur, ut non obduretur quis ex vobis fallacia peccati.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000042	participes enim christi effecti sumus, si tamen initium substantiae eius usque ad finem firmum retineamus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000043	dum dicitur: hodie si vocem eius audieritis, nolite obdurare corda vestra, quemadmodum in illa exacerbatione.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000044	quidam enim audientes exacerbaverunt: sed non universi qui profecti sunt ex aegypto per moysen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000045	quibus autem infensus est quadraginta annis? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000046	nonne illis qui peccaverunt, quorum cadavera prostrata sunt in deserto?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000047	quibus autem iuravit non introire in requiem ipsius, nisi illis qui increduli fuerunt?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000048	et videmus, quia non potuerunt introire propter incredulitatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000049	caput 4	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000050	timeamus ergo ne forte relicta pollicitatione introeundi in requiem eius, existimetur aliquis ex vobis deesse.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000051	etenim et nobis nuntiatum est, quemadmodum et illis: sed non profuit illis sermo auditus, non admistus fidei ex iis quae audierunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000052	ingrediemur enim in requiem, qui credidimus: quemadmodum dixit: sicut iuravi in ira mea: si introibunt in requiem meam: et quidem operibus ab institutione mundi perfectis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000053	dixit enim in quodam loco de die septima sic: et requievit deus die septima ab omnibus operibus suis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000054	et in isto rursum: si introibunt in requiem meam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000055	quoniam ergo superest introire quosdam in illam, et ii, quibus prioribus annuntiatum est, non introierunt propter incredulitatem:iterum terminat diem quemdam, hodie, in david dicendo, post tantum temporis, sicut supra dictum est: hodie si vocem eius audieritis, nolite obdurare corda vestra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000056	nam si eis iesus requiem praestitisset, numquam de alia loqueretur, posthac, die.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000057	itaque relinquitur sabbatismus populo dei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000058	qui enim ingressus est in requiem eius, etiam ipse requievit ab operibus suis, sicut a suis deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000059	festinemus ergo ingredi in illam requiem: ut ne in idipsum quis incidat incredulitatis exemplum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000060	vivus est enim sermo dei, et efficax et penetrabilior omni gladio ancipiti: et pertingens usque ad divisionem animae ac spiritus: compagum quoque ac medullarum, et discretor cogitationum et intentionum cordis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000061	et non est ulla creatura invisibilis in conspectu eius: omnia autem nuda et aperta sunt oculis eius, ad quem nobis sermo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000062	habentes ergo pontificem magnum qui penetravit caelos, iesum filium dei, teneamus confessionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000063	non enim habemus pontificem qui non possit compati infirmitatibus nostris: tentatum autem per omnia pro similitudine absque peccato.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000064	adeamus ergo cum fiducia ad thronum gratiae: ut misericordiam consequamur, et gratiam inveniamus in auxilio opportuno.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000065	caput 5	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000066	omnis namque pontifex ex hominibus assumptus, pro hominibus constituitur in iis quae sunt ad deum, ut offerat dona, et sacrificia pro peccatis:qui condolere possit iis qui ignorant et errant: quoniam et ipse circumdatus est infirmitate:et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000067	nec quisquam sumit sibi honorem, sed qui vocatur a deo, tamquam aaron.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000068	sic et christus non semetipsum clarificavit ut pontifex fieret: sed qui locutus est ad eum: filius meus es tu, ego hodie genui te.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000069	quemadmodum et in alio loco dicit: tu es sacerdos in aeternum, secundum ordinem melchisedech.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000070	qui in diebus carnis suae preces, supplicationesque ad eum qui possit illum salvum facere a morte cum clamore valido, et lacrimis offerens, exauditus est pro sua reverentia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000071	et quidem cum esset filius dei, didicit ex iis, quae passus est, obedientiam:et consummatus, factus est omnibus obtemperantibus sibi, causa salutis aeternae,appellatus a deo pontifex iuxta ordinem melchisedech.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000072	de quo nobis grandis sermo, et ininterpretabilis ad dicendum: quoniam imbecilles facti estis ad audiendum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000073	etenim cum deberetis magistri esse propter tempus, rursum indigetis ut vos doceamini quae sint elementa exordii sermonum dei: et facti estis quibus lacte opus sit, non solido cibo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000074	omnis enim, qui lactis est particeps, expers est sermonis iustitiae: parvulus enim est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000075	perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000076	caput 6	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000077	quapropter intermittentes inchoationis christi sermonem, ad perfectiora feramur, non rursum iacientes fundamentum poenitentiae ab operibus mortuis, et fidei ad deum,baptismatum doctrinae, impositionis quoque manuum, ac resurrectionis mortuorum, et iudicii aeterni.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000078	et hoc faciemus, si quidem permiserit deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000079	impossibile est enim eos qui semel sunt illuminati, gustaverunt etiam donum caeleste, et participes facti sunt spiritus sancti,gustaverunt nihilominus bonum dei verbum, virtutesque saeculi venturi,et prolapsi sunt; rursus renovari ad poenitentiam, rursum crucifigentes sibimetipsis filium dei, et ostentui habentes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000080	terra enim saepe venientem super se bibens imbrem, et generans herbam opportunam illis, a quibus colitur, accipit benedictionem a deo:proferens autem spinas ac tribulos, reproba est, et maledicto proxima: cuius consummatio in combustionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000081	confidimus autem de vobis dilectissimi meliora, et viciniora saluti: tametsi ita loquimur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000082	non enim iniustus deus, ut obliviscatur operis vestri, et dilectionis, quam ostendistis in nomine ipsius, qui ministrastis sanctis, et ministratis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000083	cupimus autem unumquemque vestrum eamdem ostentare sollicitudinem ad expletionem spei usque in finem:ut non segnes efficiamini, verum imitatores eorum, qui fide, et patientia haereditabunt promissiones.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000084	abrahae namque promittens deus, quoniam neminem habuit, per quem iuraret, maiorem, iuravit per semetipsum,dicens: nisi benedicens benedicam te, et multiplicans multiplicabo te.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000085	et sic longanimiter ferens, adeptus est repromissionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000086	homines enim per maiorem sui iurant: et omnis controversiae eorum finis, ad confirmationem, est iuramentum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000087	in quo abundantius volens deus ostendere pollicitationis haeredibus, immobilitatem consilii sui, interposuit iusiurandum:ut per duas res immobiles, quibus impossibile est mentiri deum, fortissimum solatium habeamus, qui confugimus ad tenendam propositam spem,quam sicut anchoram habemus animae tutam ac firmam, et incedentem usque ad interiora velaminis,ubi praecursor pro nobis introivit iesus, secundum ordinem melchisedech pontifex factus in aeternum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000088	caput 7	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000089	hic enim melchisedech, rex salem, sacerdos dei summi, qui obviavit abrahae regresso a caede regum, et benedixit ei:cui et decimas omnium divisit abraham: primum quidem qui interpretatur rex iustitiae: deinde autem et rex salem, quod est, rex pacis,sine patre, sine matre, sine genealogia, neque initium dierum, neque finem vitae habens, assimilatus autem filio dei, manet sacerdos in perpetuum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000090	intuemini autem quantus sit hic, cui et decimas dedit de praecipuis abraham patriarcha.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000091	et quidem de filiis levi sacerdotium accipientes, mandatum habent decimas sumere a populo secundum legem, id est, a fratribus suis: quamquam et ipsi exierint de lumbis abrahae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000092	cuius autem generatio non annumeratur in eis, decimas sumpsit ab abraham, et hunc, qui habebat repromissiones, benedixit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000093	sine ulla autem contradictione, quod minus est, a meliore benedicitur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000094	et hic quidem, decimas morientes homines accipiunt: ibi autem contestatur, quia vivit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000095	et (ut ita dictum sit) per abraham, et levi, qui decimas accepit, decimatus est:adhuc enim in lumbis patris erat, quando obviavit ei melchisedech.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000096	si ergo consummatio per sacerdotium leviticum erat (populus enim sub ipso legem accepit) quid adhuc necessarium fuit secundum ordinem melchisedech, alium surgere sacerdotem, et non secundum ordinem aaron dici?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000097	translato enim sacerdotio, necesse est ut et legis translatio fiat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000098	in quo enim haec dicuntur, de alia tribu est, de qua nullus altari praesto fuit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000099	manifestum est enim quod ex iuda ortus sit dominus noster: in qua tribu nihil de sacerdotibus moyses locutus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000100	et amplius adhuc manifestum est: si secundum similitudinem melchisedech exsurgat alius sacerdos,qui non secundum legem mandati carnalis factus est, sed secundum virtutem vitae insolubilis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000101	contestatur enim: quoniam tu es sacerdos in aeternum, secundum ordinem melchisedech.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000102	reprobatio quidem fit praecedentis mandati, propter infirmitatem eius, et inutilitatem:nihil enim ad perfectum adduxit lex: introductio vero melioris spei, per quam proximamus ad deum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000103	et quantum est non sine iureiurando (alii quidem sine iureiurando sacerdotes facti sunt,hic autem cum iureiurando per eum, qui dixit ad illum: iuravit dominus, et non poenitebit eum: tu es sacerdos in aeternum):in tantum melioris testamenti sponsor factus est iesus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000104	et alii quidem plures facti sunt sacerdotes, idcirco quod morte prohiberentur permanere:hic autem eo quod maneat in aeternum, sempiternum habet sacerdotium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000105	unde et salvare in perpetuum potest accedentes per semetipsum ad deum: semper vivens ad interpellandum pro nobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000106	talis enim decebat ut nobis esset pontifex, sanctus, innocens, impollutus, segregatus a peccatoribus, et excelsior caelis factus:qui non habet necessitatem quotidie, quemadmodum sacerdotes, prius pro suis delictis hostias offerre, deinde pro populi: hoc enim fecit semel, seipsum offerendo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000107	lex enim homines constituit sacerdotes infirmitatem habentes: sermo autem iurisiurandi, qui post legem est, filium in aeternum perfectum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000108	caput 8	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000109	capitulum autem super ea quae dicuntur: talem habemus pontificem, qui consedit in dextera sedis magnitudinis in caelis,sanctorum minister, et tabernaculi veri, quod fixit dominus, et non homo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000110	omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000111	si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,qui exemplari, et umbrae deserviunt caelestium. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000112	sicut responsum est moysi, cum consummaret tabernaculum: vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000113	nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000114	nam si illud prius culpa vacasset, non utique secundi locus inquireretur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000115	vituperans enim eos dicit: ecce dies venient, dicit dominus: et consummabo super domum israel, et super domum iuda, testamentum novum,non secundum testamentum quod feci patribus eorum in die qua apprehendi manum eorum ut educerem illos de terra aegypti: quoniam ipsi non permanserunt in testamento meo: et ego neglexi eos, dicit dominus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000116	quia hoc est testamentum quod disponam domui israel post dies illos, dicit dominus: dando leges meas in mentem eorum, et in corde eorum superscribam eas: et ero eis in deum, et ipsi erunt mihi in populum:et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens: cognosce dominum: quoniam omnes scient me a minore usque ad maiorem eorum:quia propitius ero iniquitatibus eorum, et peccatorum eorum iam non memorabor.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000117	dicendo autem novum: veteravit prius. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000118	quod autem antiquatur, et senescit, prope interitum est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000119	caput 9	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000120	habuit quidem et prius iustificationes culturae, et sanctum saeculare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000121	tabernaculum enim factum est primum, in quo erant candelabra, et mensa, et propositio panum, quae dicitur sancta.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000122	post velamentum autem secundum, tabernaculum, quod dicitur sancta sanctorum:aureum habens thuribulum, et arcam testamenti circumtectam ex omni parte auro, in qua urna aurea habens manna, et virga aaron, quae fronduerat, et tabulae testamenti,superque eam erant cherubim gloriae obumbrantia propitiatorium: de quibus non est modo dicendum per singula.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000123	his vero ita compositis, in priori quidem tabernaculo semper introibant sacerdotes, sacrificiorum officia consummantes:in secundo autem semel in anno solus pontifex non sine sanguine, quem offert pro sua et populi ignorantia:hoc significante spiritu sancto, nondum propalatam esse sanctorum viam, adhuc priore tabernaculo habente statum:quae parabola est temporis instantis: iuxta quam munera, et hostiae offeruntur, quae non possunt iuxta conscientiam perfectum facere servientem, solummodo in cibis, et in potibus,et variis baptismatibus, et iustitiis carnis usque ad tempus correctionis impositis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000124	christus autem assistens pontifex futurorum bonorum, per amplius et perfectius tabernaculum, non manufactum, id est, non huius creationis:neque per sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in sancta, aeterna redemptione inventa.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000125	si enim sanguis hircorum et taurorum, et cinis vitulae aspersus inquinatos sanctificat ad emundationem carnis:quanto magis sanguis christi, qui per spiritum sanctum semetipsum obtulit immaculatum deo, emundabit conscientiam nostram ab operibus mortuis, ad serviendum deo viventi?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000126	et ideo novi testamenti mediator est: ut morte intercedente, in redemptionem earum praevaricationum, quae erant sub priori testamento, repromissionem accipiant qui vocati sunt aeternae haereditatis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000127	ubi enim testamentum est, mors necesse est intercedat testatoris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000128	testamentum enim in mortuis confirmatum est: alioquin nondum valet, dum vivit qui testatus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000129	unde nec primum quidem sine sanguine dedicatum est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000130	lecto enim omni mandato legis a moyse universo populo, accipiens sanguinem vitulorum et hircorum cum aqua, et lana coccinea, et hyssopo, ipsum quoque librum, et omnem populum aspersit,dicens: hic sanguis testamenti, quod mandavit ad vos deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000131	etiam tabernaculum et omnia vasa ministerii sanguine similiter aspersit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000132	et omnia pene in sanguine secundum legem mundantur: et sine sanguinis effusione non fit remissio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000133	necesse est ergo exemplaria quidem caelestium his mundari: ipsa autem caelestia melioribus hostiis quam istis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000134	non enim in manufacta sancta iesus introivit exemplaria verorum: sed in ipsum caelum, ut appareat nunc vultui dei pro nobis:neque ut saepe offerat semetipsum, quemadmodum pontifex intrat in sancta per singulos annos in sanguine alieno:alioquin oportebat eum frequenter pati ab origine mundi: nunc autem semel in consummatione saeculorum, ad destitutionem peccati, per hostiam suam apparuit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000135	et quemadmodum statutum est hominibus semel mori, post hoc autem iudicium:sic et christus semel oblatus est ad multorum exhaurienda peccata: secundo sine peccato apparebit exspectantibus se, in salutem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000136	caput 10	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000137	umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum: per singulos annos, eisdem ipsis hostiis quas offerunt indesinenter, numquam potest accedentes perfectos facere:alioquin cessassent offerri: ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati:sed in ipsis commemoratio peccatorum per singulos annos fit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000138	impossibile enim est sanguine taurorum et hircorum auferri peccata.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000139	ideo ingrediens mundum dicit: hostiam et oblationem noluisti: corpus autem aptasti mihi:holocautomata pro peccato non tibi placuerunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000140	tunc dixi: ecce venio: in capite libri scriptum est de me: ut faciam, deus, voluntatem tuam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000141	superius dicens: quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quae secundum legem offeruntur,tunc dixi: ecce venio, ut faciam, deus, voluntatem tuam: aufert primum, ut sequens statuat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000142	in qua voluntate sanctificati sumus per oblationem corporis iesu christi semel.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000143	et omnis quidem sacerdos praesto est quotidie ministrans, et easdem saepe offerens hostias, quae numquam possunt auferre peccata:hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera dei,de cetero exspectans donec ponantur inimici eius scabellum pedum eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000144	una enim oblatione, consummavit in sempiternum sanctificatos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000145	contestatur autem nos et spiritus sanctus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000146	postquam enim dixit:hoc autem testamentum, quod testabor ad illos post dies illos, dicit dominus, dando leges meas in cordibus eorum, et in mentibus eorum superscribam eas:et peccatorum, et iniquitatum eorum iam non recordabor amplius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000147	ubi autem horum remissio: iam non est oblatio pro peccato.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000148	habentes itaque, fratres, fiduciam in introitu sanctorum in sanguine christi,quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,et sacerdotem magnum super domum dei:accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,teneamus spei nostrae confessionem indeclinabilem (fidelis enim est qui repromisit),et consideremus invicem in provocationem caritatis, et bonorum operum:non deserentes collectionem nostram, sicut consuetudinis est quibusdam, sed consolantes, et tanto magis quanto videritis appropinquantem diem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000149	voluntarie enim peccantibus nobis post acceptam notitiam veritatis, iam non relinquitur pro peccatis hostia,terribilis autem quaedam exspectatio iudicii, et ignis aemulatio, quae consumptura est adversarios.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000150	irritam quis faciens legem moysi, sine ulla miseratione duobus vel tribus testibus moritur:quanto magis putatis deteriora mereri supplicia qui filium dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiae contumeliam fecerit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000151	scimus enim qui dixit: mihi vindicta, et ego retribuam. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000152	et iterum: quia iudicabit dominus populum suum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000153	horrendum est incidere in manus dei viventis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000154	rememoramini autem pristinos dies, in quibus illuminati, magnum certamen sustinuistis passionum:et in altero quidem opprobriis et tribulationibus spectaculum facti: in altero autem socii taliter conversantium effecti.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000155	nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem et manentem substantiam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000156	nolite itaque amittere confidentiam vestram, quae magnam habet remunerationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000157	patientia enim vobis necessaria est: ut voluntatem dei facientes, reportetis promissionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000158	adhuc enim modicum aliquantulum, qui venturus est, veniet, et non tardabit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000159	iustus autem meus ex fide vivit: quod si subtraxerit se, non placebit animae meae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000160	nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000161	caput 11	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000162	est autem fides sperandarum substantia rerum, argumentum non apparentium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000163	in hac enim testimonium consecuti sunt senes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000164	fide intelligimus aptata esse saecula verbo dei: ut ex invisibilibus visibilia fierent.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000165	fide plurimam hostiam abel, quam cain, obtulit deo, per quam testimonium consecutus est esse iustus, testimonium perhibente muneribus eius deo, et per illam defunctus adhuc loquitur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000166	fide henoch translatus est ne videret mortem, et non inveniebatur, quia transtulit illum deus: ante translationem enim testimonium habuit placuisse deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000167	sine fide autem impossibile est placere deo. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000168	credere enim oportet accedentem ad deum quia est, et inquirentibus se remunerator sit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000169	fide noe responso accepto de iis quae adhuc non videbantur, metuens aptavit arcam in salutem domus suae, per quam damnavit mundum: et iustitiae, quae per fidem est, haeres est institutus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000170	fide qui vocatur abraham obedivit in locum exire, quem accepturus erat in haereditatem: et exiit, nesciens quo iret.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000171	fide demoratus est in terra repromissionis, tamquam in aliena, in casulis habitando cum isaac et iacob cohaeredibus repromissionis eiusdem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000172	exspectabat enim fundamenta habentem civitatem: cuius artifex et conditor deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000173	fide et ipsa sara sterilis virtutem in conceptionem seminis accepit, etiam praeter tempus aetatis: quoniam fidelem credidit esse eum qui repromiserat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000174	propter quod et ab uno orti sunt (et hoc emortuo) tamquam sidera caeli in multitudinem, et sicut arena, quae est ad oram maris, innumerabilis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000175	iuxta fidem defuncti sunt omnes isti, non acceptis repromissionibus, sed a longe eas aspicientes, et salutantes, et confitentes quia peregrini et hospites sunt super terram.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000176	qui enim haec dicunt, significant se patriam inquirere.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000177	et si quidem ipsius meminissent de qua exierunt, habebant utique tempus revertendi:nunc autem meliorem appetunt, id est, caelestem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000178	ideo non confunditur deus vocari deus eorum: paravit enim illis civitatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000179	fide obtulit abraham isaac, cum tentaretur, et unigenitum offerebat, qui susceperat repromissiones:ad quem dictum est: quia in isaac vocabitur tibi semen:arbitrans quia et a mortuis suscitare potens est deus: unde eum et in parabolam accepit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000180	fide et de futuris benedixit isaac iacob et esau.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000181	fide iacob, moriens, singulos filiorum ioseph benedixit: et adoravit fastigium virgae eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000182	fide ioseph, moriens, de profectione filiorum israel memoratus est, et de ossibus suis mandavit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000183	fide moyses, natus, occultatus est mensibus tribus a parentibus suis, eo quod vidissent elegantem infantem, et non timuerunt regis edictum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000184	fide moyses grandis factus negavit se esse filium filiae pharaonis,magis eligens affligi cum populo dei, quam temporalis peccati habere iucunditatem,maiores divitias aestimans thesauro aegyptiorum, improperium christi: aspiciebat enim in remunerationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000185	fide reliquit aegyptum, non veritus animositatem regis: invisibilem enim tamquam videns sustinuit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000186	fide celebravit pascha, et sanguinis effusionem: ne qui vastabat primitiva, tangeret eos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000187	fide transierunt mare rubrum tamquam per aridam terram: quod experti aegyptii, devorati sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000188	fide muri iericho corruerunt, circuitu dierum septem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000189	fide rahab meretrix non periit cum incredulis, excipiens exploratores cum pace.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000190	et quid adhuc dicam? 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000191	deficiet enim me tempus enarrantem de gedeon, barac, samson, iephte, david, samuel, et prophetis:qui per fidem vicerunt regna, operati sunt iustitiam, adepti sunt repromissiones, obturaverunt ora leonum,extinxerunt impetum ignis, effugerunt aciem gladii, convaluerunt de infirmitate, fortes facti sunt in bello, castra verterunt exterorum:acceperunt mulieres de resurrectione mortuos suos: alii autem distenti sunt non suscipientes redemptionem ut meliorem invenirent resurrectionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000192	alii vero ludibria, et verbera experti, insuper et vincula, et carceres:lapidati sunt, secti sunt, tentati sunt, in occisione gladii mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti:quibus dignus non erat mundus: in solitudinibus errantes, in montibus, in speluncis, et in cavernis terrae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000193	et hi omnes testimonio fidei probati, non acceperunt repromissionem,deo pro nobis melius aliquid providente, ut non sine nobis consummarentur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000194	caput 12	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000195	ideoque et nos tantam habentes impositam nubem testium, deponentes omne pondus, et circumstans nos peccatum, per patientiam curramus ad propositum nobis certamen:aspicientes in auctorem fidei, et consummatorem iesum, qui proposito sibi gaudio sustinuit crucem, confusione contempta, atque in dextera sedis dei sedet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000196	recogitate enim eum qui talem sustinuit a peccatoribus adversum semetipsum contradictionem: ut ne fatigemini, animis vestris deficientes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000197	nondum enim usque ad sanguinem restitistis, adversus peccatum repugnantes:et obliti estis consolationis, quae vobis tamquam filiis loquitur, dicens: fili mi, noli negligere disciplinam domini: neque fatigeris dum ab eo argueris.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000198	quem enim diligit dominus, castigat: flagellat autem omnem filium, quem recipit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000199	in disciplina perseverate. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000200	tamquam filiis vobis offert se deus: quis enim filius, quem non corripit pater?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000201	quod si extra disciplinam estis, cuius participes facti sunt omnes: ergo adulteri, et non filii estis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000202	deinde patres quidem carnis nostrae, eruditores habuimus, et reverebamur eos, non multo magis obtemperabimus patri spirituum, et vivemus?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000203	et illi quidem in tempore paucorum dierum, secundum voluntatem suam erudiebant nos: hic autem ad id quod utile est in recipiendo sanctificationem eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000204	omnis autem disciplina in praesenti quidem videtur non esse gaudii, sed moeroris: postea autem fructum pacatissimum exercitatis per eam, reddet iustitiae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000205	propter quod remissas manus, et soluta genua erigite,et gressus rectos facite pedibus vestris: ut non claudicans quis erret, magis autem sanetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000206	pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit deum:contemplantes nequis desit gratiae dei: ne qua radix amaritudinis sursum germinans impediat, et per illam inquinentur multi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000207	ne quis fornicator, aut profanus ut esau: qui propter unam escam vendidit primitiva sua:scitote enim quoniam et postea cupiens haereditare benedictionem, reprobatus est: non enim invenit poenitentiae locum, quamquam cum lacrimis inquisisset eam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000208	non enim accessistis ad tractabilem montem, et accensibilem ignem, et turbinem, et caliginem, et procellam,et tubae sonum, et vocem verborum, quam qui audierunt, excusaverunt se, ne eis fieret verbum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000209	non enim portabant quod dicebatur: et si bestia tetigerit montem, lapidabitur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000210	et ita terribile erat quod videbatur. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000211	moyses dixit: exterritus sum, et tremebundus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000212	sed accessistis ad sion montem, et civitatem dei viventis, ierusalem caelestem, et multorum millium angelorum frequentiam,et ecclesiam primitivorum, qui conscripti sunt in caelis, et iudicem omnium deum, et spiritus iustorum perfectorum,et testamenti novi mediatorem iesum, et sanguinis aspersionem melius loquentem quam abel.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000213	videte ne recusetis loquentem. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000214	si enim illi non effugerunt, recusantes eum, qui super terram loquebatur: multo magis nos, qui de caelis loquentem nobis avertimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000215	cuius vox movit terram tunc: nunc autem repromittit, dicens: adhuc semel, et ego movebo non solum terram, sed et caelum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000216	quod autem, adhuc semel, dicit: declarat mobilium translationem tamquam factorum, ut maneant ea quae sunt immobilia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000217	itaque regnum immobile suscipientes, habemus gratiam: per quam serviamus placentes deo, cum metu et reverentia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000218	etenim deus noster ignis consumens est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000219	caput 13	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000220	caritas fraternitatis maneat in vobis,et hospitalitatem nolite oblivisci: per hanc enim latuerunt quidam, angelis hospitio receptis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000221	mementote vinctorum, tamquam simul vincti: et laborantium, tamquam et ipsi in corpore morantes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000222	honorabile connubium in omnibus, et thorus immaculatus. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000223	fornicatores enim, et adulteros iudicabit deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000224	sint mores sine avaritia, contenti praesentibus: ipse enim dixit: non te deseram, neque derelinquam:ita ut confidenter dicamus: dominus mihi adiutor: non timebo quid faciat mihi homo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000225	mementote praepositorum vestrorum, qui vobis locuti sunt verbum dei: quorum intuentes exitum conversationis, imitamini fidem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000226	iesus christus heri, et hodie: ipse et in saecula.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000227	doctrinis variis et peregrinis nolite abduci. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000228	optimum est enim gratia stabilire cor, non escis: quae non profuerunt ambulantibus in eis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000229	habemus altare, de quo edere non habent potestatem, qui tabernaculo deserviunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000230	quorum enim animalium infertur sanguis pro peccato in sancta per pontificem, horum corpora cremantur extra castra.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000231	propter quod et iesus, ut sanctificaret per suum sanguinem populum, extra portam passus est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000232	exeamus igitur ad eum extra castra, improperium eius portantes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000233	non enim habemus hic manentem civitatem, sed futuram inquirimus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000234	per ipsum ergo offeramus hostiam laudis semper deo, id est, fructum labiorum confitentium nomini eius.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000235	beneficentiae autem et communionis nolite oblivisci: talibus enim hostiis promeretur deus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000236	obedite praepositis vestris, et subiacete eis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000237	ipsi enim pervigilant quasi rationem pro animabus vestris reddituri, ut cum gaudio hoc faciant, et non gementes: hoc enim non expedit vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000238	orate pro nobis: confidimus enim quia bonam conscientiam habemus in omnibus bene volentes conversari.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000239	amplius autem deprecor vos hoc facere, quo celerius restituar vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000240	deus autem pacis, qui eduxit de mortuis pastorem magnum ovium, in sanguine testamenti aeterni, dominum nostrum iesum christum,aptet vos in omni bono, ut faciatis eius voluntatem: faciens in vobis quod placeat coram se per iesum christum: cui est gloria in saecula saeculorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000241	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000242	rogo autem vos fratres, ut sufferatis verbum solatii. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000243	etenim perpaucis scripsi vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000244	cognoscite fratrem nostrum timotheum dimissum: cum quo (si celerius venerit) videbo vos.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000245	salutate omnes praepositos vestros, et omnes sanctos. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000246	salutant vos de italia fratres.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000247	gratia cum omnibus vobis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos
+1100000248	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Hebraeos

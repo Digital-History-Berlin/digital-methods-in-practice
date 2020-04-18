@@ -1,0 +1,1204 @@
+1100000001	evangelium secundum lucam	2020-04-18	Evangelium_secundum_Lucam
+1100000002	caput 1	2020-04-18	Evangelium_secundum_Lucam
+1100000003	quoniam quidem multi conati sunt ordinare narrationem, quae in nobis completae sunt, rerum:sicut tradiderunt nobis, qui ab initio ipsi viderunt, et ministri fuerunt sermonis:visum est et mihi, assecuto omnia a principio diligenter, ex ordine tibi scribere, optime theophile,ut cognoscas eorum verborum, de quibus eruditus es, veritatem.	2020-04-18	Evangelium_secundum_Lucam
+1100000004	fuit in diebus herodis, regis iudaeae, sacerdos quidam nomine zacharias de vice abia, et uxor illius de filiabus aaron, et nomen eius elisabeth.	2020-04-18	Evangelium_secundum_Lucam
+1100000005	erant autem iusti ambo ante deum, incedentes in omnibus mandatis et iustificationibus domini sine querela.	2020-04-18	Evangelium_secundum_Lucam
+1100000006	et non erat illis filius, eo quod esset elisabeth sterilis, et ambo processissent in diebus suis.	2020-04-18	Evangelium_secundum_Lucam
+1100000007	factum est autem, cum sacerdotio fungeretur in ordine vicis suae ante deum,secundum consuetudinem sacerdotii, sorte exiit ut incensum poneret, ingressus in templum domini:et omnis multitudo populi erat orans foris hora incensi.	2020-04-18	Evangelium_secundum_Lucam
+1100000008	apparuit autem illi angelus domini, stans a dextris altaris incensi.	2020-04-18	Evangelium_secundum_Lucam
+1100000009	et zacharias turbatus est videns, et timor irruit super eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000010	ait autem ad illum angelus: ne timeas, zacharia, quoniam exaudita est deprecatio tua: et uxor tua elisabeth pariet tibi filium, et vocabis nomen eius ioannem:et erit gaudium tibi, et exsultatio, et multi in nativitate eius gaudebunt:erit enim magnus coram domino: et vinum et siceram non bibet, et spiritu sancto replebitur adhuc ex utero matris suae:et multos filiorum israel convertet ad dominum deum ipsorum:et ipse praecedet ante illum in spiritu et virtute eliae: ut convertat corda patrum in filios, et incredulos ad prudentiam iustorum, parare domino plebem perfectam.	2020-04-18	Evangelium_secundum_Lucam
+1100000011	et dixit zacharias ad angelum: unde hoc sciam? 	2020-04-18	Evangelium_secundum_Lucam
+1100000012	ego enim sum senex, et uxor mea processit in diebus suis.	2020-04-18	Evangelium_secundum_Lucam
+1100000013	et respondens angelus dixit ei: ego sum gabriel, qui asto ante deum: et missus sum loqui ad te, et haec tibi evangelizare.	2020-04-18	Evangelium_secundum_Lucam
+1100000014	et ecce eris tacens, et non poteris loqui usque in diem quo haec fiant, pro eo quod non credidisti verbis meis, quae implebuntur in tempore suo.	2020-04-18	Evangelium_secundum_Lucam
+1100000015	et erat plebs exspectans zachariam: et mirabantur quod tardaret ipse in templo.	2020-04-18	Evangelium_secundum_Lucam
+1100000016	egressus autem non poterat loqui ad illos, et cognoverunt quod visionem vidisset in templo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000017	et ipse erat innuens illis, et permansit mutus.	2020-04-18	Evangelium_secundum_Lucam
+1100000018	et factum est, ut impleti sunt dies officii eius, abiit in domum suam:post hos autem dies concepit elisabeth uxor eius, et occultabat se mensibus quinque, dicens:quia sic fecit mihi dominus in diebus, quibus respexit auferre opprobrium meum inter homines.	2020-04-18	Evangelium_secundum_Lucam
+1100000019	in mense autem sexto, missus est angelus gabriel a deo in civitatem galilaeae, cui nomen nazareth,ad virginem desponsatam viro, cui nomen erat ioseph, de domo david: et nomen virginis maria.	2020-04-18	Evangelium_secundum_Lucam
+1100000020	et ingressus angelus ad eam dixit: ave gratia plena: dominus tecum: benedicta tu in mulieribus.	2020-04-18	Evangelium_secundum_Lucam
+1100000021	quae cum audisset, turbata est in sermone eius, et cogitabat qualis esset ista salutatio.	2020-04-18	Evangelium_secundum_Lucam
+1100000022	et ait angelus ei: ne timeas, maria: invenisti enim gratiam apud deum.	2020-04-18	Evangelium_secundum_Lucam
+1100000023	ecce concipies in utero, et paries filium, et vocabis nomen eius iesum:hic erit magnus, et filius altissimi vocabitur, et dabit illi dominus deus sedem david patris eius: et regnabit in domo iacob in aeternum,et regni eius non erit finis.	2020-04-18	Evangelium_secundum_Lucam
+1100000024	dixit autem maria ad angelum: quomodo fiet istud, quoniam virum non cognosco?	2020-04-18	Evangelium_secundum_Lucam
+1100000025	et respondens angelus dixit ei: spiritus sanctus superveniet in te, et virtus altissimi obumbrabit tibi. 	2020-04-18	Evangelium_secundum_Lucam
+1100000026	ideoque et quod nascetur ex te sanctum, vocabitur filius dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000027	et ecce elisabeth cognata tua, et ipsa concepit filium in senectute sua: et hic mensis sextus est illi, quae vocatur sterilis:quia non erit impossibile apud deum omne verbum.	2020-04-18	Evangelium_secundum_Lucam
+1100000028	dixit autem maria: ecce ancilla domini: fiat mihi secundum verbum tuum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000029	et discessit ab illa angelus.	2020-04-18	Evangelium_secundum_Lucam
+1100000030	exsurgens autem maria in diebus illis, abiit in montana cum festinatione, in civitatem iuda:et intravit in domum zachariae, et salutavit elisabeth.	2020-04-18	Evangelium_secundum_Lucam
+1100000031	et factum est, ut audivit salutationem mariae elisabeth, exsultavit infans in utero eius: et repleta est spiritu sancto elisabeth:et exclamavit voce magna, et dixit: benedicta tu inter mulieres, et benedictus fructus ventris tui.	2020-04-18	Evangelium_secundum_Lucam
+1100000032	et unde hoc mihi, ut veniat mater domini mei ad me?	2020-04-18	Evangelium_secundum_Lucam
+1100000033	ecce enim ut facta est vox salutationis tuae in auribus meis, exsultavit in gaudio infans in utero meo.	2020-04-18	Evangelium_secundum_Lucam
+1100000034	et beata, quae credidisti, quoniam perficientur ea, quae dicta sunt tibi a domino.	2020-04-18	Evangelium_secundum_Lucam
+1100000035	et ait maria:	2020-04-18	Evangelium_secundum_Lucam
+1100000036	magnificat anima mea dominum:	2020-04-18	Evangelium_secundum_Lucam
+1100000037	et exsultavit spiritus meus in deo salutari meo.	2020-04-18	Evangelium_secundum_Lucam
+1100000038	quia respexit humilitatem ancillae suae:	2020-04-18	Evangelium_secundum_Lucam
+1100000039	ecce enim ex hoc beatam me dicent omnes generationes,	2020-04-18	Evangelium_secundum_Lucam
+1100000040	quia fecit mihi magna qui potens est:	2020-04-18	Evangelium_secundum_Lucam
+1100000041	et sanctum nomen eius,	2020-04-18	Evangelium_secundum_Lucam
+1100000042	et misericordia eius a progenie in progenies	2020-04-18	Evangelium_secundum_Lucam
+1100000043	timentibus eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000044	fecit potentiam in brachio suo:	2020-04-18	Evangelium_secundum_Lucam
+1100000045	dispersit superbos mente cordis sui.	2020-04-18	Evangelium_secundum_Lucam
+1100000046	deposuit potentes de sede,	2020-04-18	Evangelium_secundum_Lucam
+1100000047	et exaltavit humiles.	2020-04-18	Evangelium_secundum_Lucam
+1100000048	esurientes implevit bonis:	2020-04-18	Evangelium_secundum_Lucam
+1100000049	et divites dimisit inanes.	2020-04-18	Evangelium_secundum_Lucam
+1100000050	suscepit israel puerum suum,	2020-04-18	Evangelium_secundum_Lucam
+1100000051	recordatus misericordiae suae:	2020-04-18	Evangelium_secundum_Lucam
+1100000052	sicut locutus est ad patres nostros,	2020-04-18	Evangelium_secundum_Lucam
+1100000053	abraham et semini eius in saecula.	2020-04-18	Evangelium_secundum_Lucam
+1100000054	mansit autem maria cum illa quasi mensibus tribus: et reversa est in domum suam.	2020-04-18	Evangelium_secundum_Lucam
+1100000055	elisabeth autem impletum est tempus pariendi, et peperit filium.	2020-04-18	Evangelium_secundum_Lucam
+1100000056	et audierunt vicini et cognati eius quia magnificavit dominus misericordiam suam cum illa, et congratulabantur ei.	2020-04-18	Evangelium_secundum_Lucam
+1100000057	et factum est in die octavo, venerunt circumcidere puerum, et vocabant eum nomine patris sui zachariam.	2020-04-18	Evangelium_secundum_Lucam
+1100000058	et respondens mater eius, dixit: nequaquam, sed vocabitur ioannes.	2020-04-18	Evangelium_secundum_Lucam
+1100000059	et dixerunt ad illam: quia nemo est in cognatione tua, qui vocetur hoc nomine.	2020-04-18	Evangelium_secundum_Lucam
+1100000060	innuebant autem patri eius, quem vellet vocari eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000061	et postulans pugillarem scripsit, dicens: ioannes est nomen eius. 	2020-04-18	Evangelium_secundum_Lucam
+1100000062	et mirati sunt universi.	2020-04-18	Evangelium_secundum_Lucam
+1100000063	apertum est autem illico os eius, et lingua eius, et loquebatur benedicens deum.	2020-04-18	Evangelium_secundum_Lucam
+1100000064	et factus est timor super omnes vicinos eorum: et super omnia montana iudaeae divulgabantur omnia verba haec:et posuerunt omnes qui audierant in corde suo, dicentes: quis, putas, puer iste erit? 	2020-04-18	Evangelium_secundum_Lucam
+1100000065	etenim manus domini erat cum illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000066	et zacharias pater eius repletus est spiritu sancto: et prophetavit, dicens:	2020-04-18	Evangelium_secundum_Lucam
+1100000067	benedictus dominus deus israel,	2020-04-18	Evangelium_secundum_Lucam
+1100000068	quia visitavit, et fecit redemptionem plebis suae:	2020-04-18	Evangelium_secundum_Lucam
+1100000069	et erexit cornu salutis nobis	2020-04-18	Evangelium_secundum_Lucam
+1100000070	in domo david pueri sui,	2020-04-18	Evangelium_secundum_Lucam
+1100000071	sicut locutum est per os sanctorum,	2020-04-18	Evangelium_secundum_Lucam
+1100000072	qui a saeculo sunt, prophetarum eius:	2020-04-18	Evangelium_secundum_Lucam
+1100000073	salutem ex inimicis nostris,	2020-04-18	Evangelium_secundum_Lucam
+1100000074	et de manu omnium qui oderunt nos:	2020-04-18	Evangelium_secundum_Lucam
+1100000075	ad faciendam misericordiam cum patribus nostris:	2020-04-18	Evangelium_secundum_Lucam
+1100000076	et memorari testamenti sui sancti:	2020-04-18	Evangelium_secundum_Lucam
+1100000077	iusiurandum, quod iuravit ad abraham patrem nostrum,	2020-04-18	Evangelium_secundum_Lucam
+1100000078	daturum se nobis	2020-04-18	Evangelium_secundum_Lucam
+1100000079	ut sine timore, de manu inimicorum nostrorum liberati,	2020-04-18	Evangelium_secundum_Lucam
+1100000080	serviamus illi	2020-04-18	Evangelium_secundum_Lucam
+1100000081	in sanctitate et iustitia coram ipso,	2020-04-18	Evangelium_secundum_Lucam
+1100000082	omnibus diebus nostris.	2020-04-18	Evangelium_secundum_Lucam
+1100000083	et tu puer, propheta altissimi vocaberis:	2020-04-18	Evangelium_secundum_Lucam
+1100000084	praeibis enim ante faciem domini parare vias eius,	2020-04-18	Evangelium_secundum_Lucam
+1100000085	ad dandam scientiam salutis plebi eius	2020-04-18	Evangelium_secundum_Lucam
+1100000086	in remissionem peccatorum eorum	2020-04-18	Evangelium_secundum_Lucam
+1100000087	per viscera misericordiae dei nostri,	2020-04-18	Evangelium_secundum_Lucam
+1100000088	in quibus visitavit nos, oriens ex alto:	2020-04-18	Evangelium_secundum_Lucam
+1100000089	illuminare his qui in tenebris et in umbra mortis sedent:	2020-04-18	Evangelium_secundum_Lucam
+1100000090	ad dirigendos pedes nostros in viam pacis.	2020-04-18	Evangelium_secundum_Lucam
+1100000091	puer autem crescebat, et confortabatur spiritu: et erat in desertis usque in diem ostensionis suae ad israel.	2020-04-18	Evangelium_secundum_Lucam
+1100000092	caput 2	2020-04-18	Evangelium_secundum_Lucam
+1100000093	factum est autem in diebus illis, exiit edictum a caesare augusto ut describeretur universus orbis.	2020-04-18	Evangelium_secundum_Lucam
+1100000094	haec descriptio prima facta est a praeside syriae cyrino:et ibant omnes ut profiterentur singuli in suam civitatem.	2020-04-18	Evangelium_secundum_Lucam
+1100000095	ascendit autem et ioseph a galilaea de civitate nazareth in iudaeam, in civitatem david, quae vocatur bethlehem: eo quod esset de domo et familia david,ut profiteretur cum maria desponsata sibi uxore praegnante.	2020-04-18	Evangelium_secundum_Lucam
+1100000096	factum est autem, cum essent ibi, impleti sunt dies ut pareret.	2020-04-18	Evangelium_secundum_Lucam
+1100000097	et peperit filium suum primogenitum, et pannis eum involvit, et reclinavit eum in praesepio: quia non erat eis locus in diversorio.	2020-04-18	Evangelium_secundum_Lucam
+1100000098	et pastores erant in regione eadem vigilantes, et custodientes vigilias noctis super gregem suum.	2020-04-18	Evangelium_secundum_Lucam
+1100000099	et ecce angelus domini stetit iuxta illos, et claritas dei circumfulsit illos, et timuerunt timore magno.	2020-04-18	Evangelium_secundum_Lucam
+1100000100	et dixit illis angelus: nolite timere: ecce enim evangelizo vobis gaudium magnum, quod erit omni populo:quia natus est vobis hodie salvator, qui est christus dominus, in civitate david.	2020-04-18	Evangelium_secundum_Lucam
+1100000101	et hoc vobis signum: invenietis infantem pannis involutum, et positum in praesepio.	2020-04-18	Evangelium_secundum_Lucam
+1100000102	et subito facta est cum angelo multitudo militiae caelestis laudantium deum, et dicentium:	2020-04-18	Evangelium_secundum_Lucam
+1100000103	gloria in altissimis deo,	2020-04-18	Evangelium_secundum_Lucam
+1100000104	et in terra pax hominibus bonae voluntatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000105	et factum est, ut discesserunt ab eis angeli in caelum: pastores loquebantur ad invicem: transeamus usque bethlehem, et videamus hoc verbum, quod factum est, quod dominus ostendit nobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000106	et venerunt festinantes: et invenerunt mariam, et ioseph, et infantem positum in praesepio.	2020-04-18	Evangelium_secundum_Lucam
+1100000107	videntes autem cognoverunt de verbo, quod dictum erat illis de puero hoc.	2020-04-18	Evangelium_secundum_Lucam
+1100000108	et omnes qui audierunt, mirati sunt: et de his quae dicta erant a pastoribus ad ipsos.	2020-04-18	Evangelium_secundum_Lucam
+1100000109	maria autem conservabat omnia verba haec, conferens in corde suo.	2020-04-18	Evangelium_secundum_Lucam
+1100000110	et reversi sunt pastores glorificantes et laudantes deum in omnibus quae audierant et viderant, sicut dictum est ad illos.	2020-04-18	Evangelium_secundum_Lucam
+1100000111	et postquam consummati sunt dies octo, ut circumcideretur puer, vocatum est nomen eius iesus, quod vocatum est ab angelo priusquam in utero conciperetur.	2020-04-18	Evangelium_secundum_Lucam
+1100000112	et postquam impleti sunt dies purgationis eius secundum legem moysi, tulerunt illum in ierusalem, ut sisterent eum domino,sicut scriptum est in lege domini: quia omne masculinum adaperiens vulvam, sanctum domino vocabitur:et ut darent hostiam secundum quod dictum est in lege domini, par turturum, aut duos pullos columbarum.	2020-04-18	Evangelium_secundum_Lucam
+1100000113	et ecce homo erat in ierusalem, cui nomen simeon, et homo iste iustus, et timoratus, exspectans consolationem israel: et spiritus sanctus erat in eo.	2020-04-18	Evangelium_secundum_Lucam
+1100000114	et responsum acceperat a spiritu sancto, non visurum se mortem, nisi prius videret christum domini.	2020-04-18	Evangelium_secundum_Lucam
+1100000115	et venit in spiritu in templum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000116	et cum inducerent puerum iesum parentes eius, ut facerent secundum consuetudinem legis pro eo,et ipse accepit eum in ulnas suas: et benedixit deum, et dixit:	2020-04-18	Evangelium_secundum_Lucam
+1100000117	nunc dimittis servum tuum domine,	2020-04-18	Evangelium_secundum_Lucam
+1100000118	secundum verbum tuum in pace:	2020-04-18	Evangelium_secundum_Lucam
+1100000119	quia viderunt oculi mei salutare tuum,	2020-04-18	Evangelium_secundum_Lucam
+1100000120	quod parasti ante faciem omnium populorum:	2020-04-18	Evangelium_secundum_Lucam
+1100000121	lumen ad revelationem gentium,	2020-04-18	Evangelium_secundum_Lucam
+1100000122	et gloriam plebis tuae israel.	2020-04-18	Evangelium_secundum_Lucam
+1100000123	et erat pater eius et mater mirantes super his quae dicebantur de illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000124	et benedixit illis simeon, et dixit ad mariam matrem eius: ecce positus est hic in ruinam et in resurrectionem multorum in israel, et in signum cui contradicetur:et tuam ipsius animam pertransibit gladius ut revelentur ex multis cordibus cogitationes.	2020-04-18	Evangelium_secundum_Lucam
+1100000125	et erat anna prophetissa, filia phanuel, de tribu aser: haec processerat in diebus multis, et vixerat cum viro suo annis septem a virginitate sua.	2020-04-18	Evangelium_secundum_Lucam
+1100000126	et haec vidua usque ad annos octoginta quatuor: quae non discedebat de templo, ieiuniis et obsecrationibus serviens nocte ac die.	2020-04-18	Evangelium_secundum_Lucam
+1100000127	et haec, ipsa hora superveniens, confitebatur domino: et loquebatur de illo omnibus, qui exspectabant redemptionem israel.	2020-04-18	Evangelium_secundum_Lucam
+1100000128	et ut perfecerunt omnia secundum legem domini, reversi sunt in galilaeam in civitatem suam nazareth.	2020-04-18	Evangelium_secundum_Lucam
+1100000129	puer autem crescebat, et confortabatur plenus sapientia: et gratia dei erat in illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000130	et ibant parentes eius per omnes annos in ierusalem, in die solemni paschae.	2020-04-18	Evangelium_secundum_Lucam
+1100000131	et cum factus esset annorum duodecim, ascendentibus illis ierosolymam secundum consuetudinem diei festi,consummatisque diebus, cum redirent, remansit puer iesus in ierusalem, et non cognoverunt parentes eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000132	existimantes autem illum esse in comitatu, venerunt iter diei, et requirebant eum inter cognatos et notos.	2020-04-18	Evangelium_secundum_Lucam
+1100000133	et non invenientes, regressi sunt in ierusalem, requirentes eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000134	et factum est, post triduum invenerunt illum in templo sedentem in medio doctorum, audientem illos, et interrogantem eos.	2020-04-18	Evangelium_secundum_Lucam
+1100000135	stupebant autem omnes qui eum audiebant, super prudentia et responsis eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000136	et videntes admirati sunt. 	2020-04-18	Evangelium_secundum_Lucam
+1100000137	et dixit mater eius ad illum: fili, quid fecisti nobis sic? 	2020-04-18	Evangelium_secundum_Lucam
+1100000138	ecce pater tuus et ego dolentes quaerebamus te.	2020-04-18	Evangelium_secundum_Lucam
+1100000139	et ait ad illos: quid est quod me quaerebatis? 	2020-04-18	Evangelium_secundum_Lucam
+1100000140	nesciebatis quia in his quae patris mei sunt, oportet me esse?	2020-04-18	Evangelium_secundum_Lucam
+1100000141	et ipsi non intellexerunt verbum quod locutus est ad eos.	2020-04-18	Evangelium_secundum_Lucam
+1100000142	et descendit cum eis, et venit nazareth: et erat subditus illis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000143	et mater eius conservabat omnia verba haec in corde suo.	2020-04-18	Evangelium_secundum_Lucam
+1100000144	et iesus proficiebat sapientia, et aetate, et gratia apud deum et homines.	2020-04-18	Evangelium_secundum_Lucam
+1100000145	caput 3	2020-04-18	Evangelium_secundum_Lucam
+1100000146	anno autem quintodecimo imperii tiberii caesaris, procurante pontio pilato iudaeam, tetrarcha autem galiaeae herode, philippo autem fratre eius tetrarcha ituraeae, et trachonitidis regionis, et lysania abilinae tetrarcha,sub principibus sacerdotum anna et caipha: factum est verbum domini super ioannem, zachariae filium, in deserto.	2020-04-18	Evangelium_secundum_Lucam
+1100000147	et venit in omnem regionem iordanis, praedicans baptismum poenitentiae in remissionem peccatorum,sicut scriptum est in libro sermonum isaiae prophetae:	2020-04-18	Evangelium_secundum_Lucam
+1100000148	vox clamantis in deserto:	2020-04-18	Evangelium_secundum_Lucam
+1100000149	parate viam domini; rectas facite semitas eius:	2020-04-18	Evangelium_secundum_Lucam
+1100000150	omnis vallis implebitur,	2020-04-18	Evangelium_secundum_Lucam
+1100000151	et omnis mons, et collis humiliabitur:	2020-04-18	Evangelium_secundum_Lucam
+1100000152	et erunt prava in directa, et aspera in vias planas:	2020-04-18	Evangelium_secundum_Lucam
+1100000153	et videbit omnis caro salutare dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000154	dicebat ergo ad turbas quae exibant ut baptizarentur ab ipso: genimina viperarum, quis ostendit vobis fugere a ventura ira?	2020-04-18	Evangelium_secundum_Lucam
+1100000155	facite ergo fructus dignos poenitentiae, et ne coeperitis dicere: patrem habemus abraham. 	2020-04-18	Evangelium_secundum_Lucam
+1100000156	dico enim vobis quia potens est deus de lapidibus istis suscitare filios abrahae.	2020-04-18	Evangelium_secundum_Lucam
+1100000157	iam enim securis ad radicem arborum posita est. 	2020-04-18	Evangelium_secundum_Lucam
+1100000158	omnis ergo arbor non faciens fructum bonum, excidetur, et in ignem mittetur.	2020-04-18	Evangelium_secundum_Lucam
+1100000159	et interrogabant eum turbae, dicentes: quid ergo faciemus?	2020-04-18	Evangelium_secundum_Lucam
+1100000160	respondens autem dicebat illis: qui habet duas tunicas, det non habenti: et qui habet escas, similiter faciat.	2020-04-18	Evangelium_secundum_Lucam
+1100000161	venerunt autem et publicani ut baptizarentur, et dixerunt ad illum: magister, quid faciemus?	2020-04-18	Evangelium_secundum_Lucam
+1100000162	at ille dixit ad eos: nihil amplius, quam quod constitutum est vobis, faciatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000163	interrogabant autem eum et milites, dicentes: quid faciemus et nos? 	2020-04-18	Evangelium_secundum_Lucam
+1100000164	et ait illis: neminem concutiatis, neque calumniam faciatis: et contenti estote stipendiis vestris.	2020-04-18	Evangelium_secundum_Lucam
+1100000165	existimante autem populo, et cogitantibus omnibus in cordibus suis de ioanne, ne forte ipse esset christus,respondit ioannes, dicens omnibus: ego quidem aqua baptizo vos: veniet autem fortior me, cuius non sum dignus solvere corrigiam calceamentorum eius: ipse vos baptizabit in spiritu sancto et igni:cuius ventilabrum in manu eius, et purgabit aream suam, et congregabit triticum in horreum suum, paleas autem comburet igni inextinguibili.	2020-04-18	Evangelium_secundum_Lucam
+1100000166	multa quidem et alia exhortans evangelizabat populo.	2020-04-18	Evangelium_secundum_Lucam
+1100000167	herodes autem tetrarcha cum corriperetur ab illo de herodiade uxore fratris sui, et de omnibus malis quae fecit herodes,adiecit et hoc super omnia, et inclusit ioannem in carcere.	2020-04-18	Evangelium_secundum_Lucam
+1100000168	factum est autem cum baptizaretur omnis populus, et iesu baptizato, et orante, apertum est caelum:et descendit spiritus sanctus corporali specie sicut columba in ipsum: et vox de caelo facta est: tu es filius meus dilectus, in te complacui mihi.	2020-04-18	Evangelium_secundum_Lucam
+1100000169	et ipse iesus erat incipiens quasi annorum triginta, ut putabatur, filius ioseph, qui fuit heli, qui fuit mathat,qui fuit levi, qui fuit melchi, qui fuit ianne, qui fuit ioseph,qui fuit mathathiae, qui fuit amos, qui fuit nahum, qui fuit hesli, qui fuit nagge,qui fuit mahath, qui fuit mathathiae, qui fuit semei, qui fuit ioseph, qui fuit iuda,qui fuit ioanna, qui fuit resa, qui fuit zorobabel, qui fuit salatheil, qui fuit neri,qui fuit melchi, qui fuit addi, qui fuit cosan, qui fuit elmadan, qui fuit her,qui fuit iesu, qui fuit eliezer, qui fuit iorim, qui fuit mathat, qui fuit levi,qui fuit simeon, qui fuit iuda, qui fuit ioseph, qui fuit iona, qui fuit eliakim,qui fuit melea, qui fuit menna, qui fuit mathatha, qui fuit natham, qui fuit david,qui fuit iesse, qui fuit obed, qui fuit booz, qui fuit salmon, qui fuit naasson,qui fuit aminadab, qui fuit aram, qui fuit esron, qui fuit phares, qui fuit iudae,qui fuit iacob, qui fuit isaac, qui fuit abrahae, qui fuit thare, qui fuit nachor,qui fuit sarug, qui fuit ragau, qui fuit phaleg, qui fuit heber, qui fuit sale,qui fuit cainan, qui fuit arphaxad, qui fuit sem, qui fuit noe, qui fuit lamech,qui fuit methusale, qui fuit henoch, qui fuit iared, qui fuit malaleel, qui fuit cainan,qui fuit henos, qui fuit seth, qui fuit adam, qui fuit dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000170	caput 4	2020-04-18	Evangelium_secundum_Lucam
+1100000171	iesus autem plenus spiritu sancto regressus est a iordane: et agebatur a spiritu in desertumdiebus quadraginta, et tentabatur a diabolo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000172	et nihil manducavit in diebus illis: et consummatis illis esuriit.	2020-04-18	Evangelium_secundum_Lucam
+1100000173	dixit autem illi diabolus: si filius dei es, dic lapidi huic ut panis fiat.	2020-04-18	Evangelium_secundum_Lucam
+1100000174	et respondit ad illum iesus: scriptum est: quia non in solo pane vivit homo, sed in omni verbo dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000175	et duxit illum diabolus in montem excelsum, et ostendit illi omnia regna orbis terrae in momento temporis,et ait illi: tibi dabo potestatem hanc universam, et gloriam illorum: quia mihi tradita sunt, et cui volo do illa.	2020-04-18	Evangelium_secundum_Lucam
+1100000176	tu ergo si adoraveris coram me, erunt tua omnia.	2020-04-18	Evangelium_secundum_Lucam
+1100000177	et respondens iesus, dixit illi: scriptum est: dominum deum tuum adorabis, et illi soli servies.	2020-04-18	Evangelium_secundum_Lucam
+1100000178	et duxit illum in ierusalem, et statuit eum super pinnam templi, et dixit illi: si filius dei es, mitte te hinc deorsum.	2020-04-18	Evangelium_secundum_Lucam
+1100000179	scriptum est enim quod angelis suis mandavit de te, ut conservent te:et quia in manibus tollent te, ne forte offendas ad lapidem pedem tuum.	2020-04-18	Evangelium_secundum_Lucam
+1100000180	et respondens iesus, ait illi: dictum est: non tentabis dominum deum tuum.	2020-04-18	Evangelium_secundum_Lucam
+1100000181	et consummata omni tentatione, diabolus recessit ab illo, usque ad tempus.	2020-04-18	Evangelium_secundum_Lucam
+1100000182	et regressus est iesus in virtute spiritus in galilaeam, et fama exiit per universam regionem de illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000183	et ipse docebat in synagogis eorum, et magnificabatur ab omnibus.	2020-04-18	Evangelium_secundum_Lucam
+1100000184	et venit nazareth, ubi erat nutritus, et intravit secundum consuetudinem suam die sabbati in synagogam, et surrexit legere.	2020-04-18	Evangelium_secundum_Lucam
+1100000185	et traditus est illi liber isaiae prophetae. 	2020-04-18	Evangelium_secundum_Lucam
+1100000186	et ut revolvit librum, invenit locum ubi scriptum erat:spiritus domini super me: propter quod unxit me, evangelizare pauperibus misit me, sanare contritos corde,praedicare captivis remissionem, et caecis visum, dimittere confractos in remissionem, praedicare annum domini acceptum et diem retributionis.	2020-04-18	Evangelium_secundum_Lucam
+1100000187	et cum plicuisset librum, reddit ministro, et sedit. 	2020-04-18	Evangelium_secundum_Lucam
+1100000188	et omnium in synagoga oculi erant intendentes in eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000189	coepit autem dicere ad illos: quia hodie impleta est haec scriptura in auribus vestris.	2020-04-18	Evangelium_secundum_Lucam
+1100000190	et omnes testimonium illi dabant: et mirabantur in verbis gratiae, quae procedebant de ore ipsius, et dicebant: nonne hic est filius ioseph?	2020-04-18	Evangelium_secundum_Lucam
+1100000191	et ait illis: utique dicetis mihi hanc similitudinem: medice cura teipsum: quanta audivimus facta in capharnaum, fac et hic in patria tua.	2020-04-18	Evangelium_secundum_Lucam
+1100000192	ait autem: amen dico vobis, quia nemo propheta acceptus est in patria sua.	2020-04-18	Evangelium_secundum_Lucam
+1100000193	in veritate dico vobis, multae viduae erant in diebus eliae in israel, quando clausum est caelum annis tribus et mensibus sex, cum facta esset fames magna in omni terra:et ad nullam illarum missus est elias, nisi in sarepta sidoniae, ad mulierem viduam.	2020-04-18	Evangelium_secundum_Lucam
+1100000194	et multi leprosi erant in israel sub eliseo propheta: et nemo eorum mundatus est nisi naaman syrus.	2020-04-18	Evangelium_secundum_Lucam
+1100000195	et repleti sunt omnes in synagoga ira, haec audientes.	2020-04-18	Evangelium_secundum_Lucam
+1100000196	et surrexerunt, et eiecerunt illum extra civitatem: et duxerunt illum usque ad supercilium montis, super quem civitas illorum erat aedificata, ut praecipitarent eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000197	ipse autem transiens per medium illorum, ibat.	2020-04-18	Evangelium_secundum_Lucam
+1100000198	et descendit in capharnaum civitatem galilaeae, ibique docebat illos sabbatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000199	et stupebant in doctrina eius, quia in potestate erat sermo ipsius.	2020-04-18	Evangelium_secundum_Lucam
+1100000200	et in synagoga erat homo habens daemonium immundum, et exclamavit voce magna,dicens: sine, quid nobis et tibi, iesu nazarene? 	2020-04-18	Evangelium_secundum_Lucam
+1100000201	venisti perdere nos? 	2020-04-18	Evangelium_secundum_Lucam
+1100000202	scio te quis sis, sanctus dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000203	et increpavit illum iesus, dicens: obmutesce, et exi ab eo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000204	et cum proiecisset illum daemonium in medium, exiit ab illo, nihilque illum nocuit.	2020-04-18	Evangelium_secundum_Lucam
+1100000205	et factus est pavor in omnibus, et colloquebantur ad invicem, dicentes: quod est hoc verbum, quia in potestate et virtute imperat immundis spiritibus, et exeunt?	2020-04-18	Evangelium_secundum_Lucam
+1100000206	et divulgabatur fama de illo in omnem locum regionis.	2020-04-18	Evangelium_secundum_Lucam
+1100000207	surgens autem iesus de synagoga, introivit in domum simonis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000208	socrus autem simonis tenebatur magnis febribus: et rogaverunt illum pro ea.	2020-04-18	Evangelium_secundum_Lucam
+1100000209	et stans super illam imperavit febri: et dimisit illam. 	2020-04-18	Evangelium_secundum_Lucam
+1100000210	et continuo surgens, ministrabat illis.	2020-04-18	Evangelium_secundum_Lucam
+1100000211	cum autem sol occidisset, omnes qui habebant infirmos variis languoribus, ducebant illos ad eum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000212	at ille singulis manus imponens, curabat eos.	2020-04-18	Evangelium_secundum_Lucam
+1100000213	exibant autem daemonia a multis clamantia, et dicentia: quia tu es filius dei: et increpans non sinebat ea loqui: quia sciebant ipsum esse christum.	2020-04-18	Evangelium_secundum_Lucam
+1100000214	facta autem die egressus ibat in desertum locum, et turbae requirebant eum, et venerunt usque ad ipsum: et detinebant illum ne discederet ab eis.	2020-04-18	Evangelium_secundum_Lucam
+1100000215	quibus ille ait: quia et aliis civitatibus oportet me evangelizare regnum dei: quia ideo missus sum.	2020-04-18	Evangelium_secundum_Lucam
+1100000216	et erat praedicans in synagogis galilaeae.	2020-04-18	Evangelium_secundum_Lucam
+1100000217	caput 5	2020-04-18	Evangelium_secundum_Lucam
+1100000218	factum est autem, cum turbae irruerunt in eum ut audirent verbum dei, et ipse stabat secus stagnum genesareth.	2020-04-18	Evangelium_secundum_Lucam
+1100000219	et vidit duas naves stantes secus stagnum: piscatores autem descenderant, et lavabant retia.	2020-04-18	Evangelium_secundum_Lucam
+1100000220	ascendens autem in unam navim, quae erat simonis, rogavit eum a terra reducere pusillum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000221	et sedens docebat de navicula turbas.	2020-04-18	Evangelium_secundum_Lucam
+1100000222	ut cessavit autem loqui, dixit ad simonem: duc in altum, et laxate retia vestra in capturam.	2020-04-18	Evangelium_secundum_Lucam
+1100000223	et respondens simon, dixit illi: praeceptor, per totam noctem laborantes nihil cepimus: in verbo autem tuo laxabo rete.	2020-04-18	Evangelium_secundum_Lucam
+1100000224	et cum hoc fecissent, concluserunt piscium multitudinem copiosam: rumpebatur autem rete eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000225	et annuerunt sociis, qui erant in alia navi, ut venirent, et adiuvarent eos. 	2020-04-18	Evangelium_secundum_Lucam
+1100000226	et venerunt, et impleverunt ambas naviculas, ita ut pene mergerentur.	2020-04-18	Evangelium_secundum_Lucam
+1100000227	quod cum videret simon petrus, procidit ad genua iesu, dicens: exi a me, quia homo peccator sum, domine.	2020-04-18	Evangelium_secundum_Lucam
+1100000228	stupor enim circumdederat eum, et omnes qui cum illo erant, in captura piscium, quam ceperant:similiter autem iacobum et ioannem, filios zebedaei, qui erant socii simonis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000229	et ait ad simonem iesus: noli timere: ex hoc iam homines eris capiens.	2020-04-18	Evangelium_secundum_Lucam
+1100000230	et subductis ad terram navibus, relictis omnibus, secuti sunt eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000231	et factum est, cum esset in una civitatum, et ecce vir plenus lepra, et videns iesum, et procidens in faciem, rogavit eum, dicens: domine, si vis, potes me mundare.	2020-04-18	Evangelium_secundum_Lucam
+1100000232	et extendens manum, tetigit eum dicens: volo: mundare. 	2020-04-18	Evangelium_secundum_Lucam
+1100000233	et confestim lepra discessit ab illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000234	et ipse praecepit illi ut nemini diceret: sed, vade, ostende te sacerdoti, et offer pro emundatione tua, sicut praecepit moyses, in testimonium illis.	2020-04-18	Evangelium_secundum_Lucam
+1100000235	perambulabat autem magis sermo de illo: et conveniebant turbae multae ut audirent, et curarentur ab infirmitatibus suis.	2020-04-18	Evangelium_secundum_Lucam
+1100000236	ipse autem secedebat in desertum, et orabat.	2020-04-18	Evangelium_secundum_Lucam
+1100000237	et factum est in una dierum, et ipse sedebat docens. 	2020-04-18	Evangelium_secundum_Lucam
+1100000238	et erant pharisaei sedentes, et legis doctores, qui venerant ex omni castello galilaeae, et iudaeae, et ierusalem: et virtus domini erat ad sanandum eos.	2020-04-18	Evangelium_secundum_Lucam
+1100000239	et ecce viri portantes in lecto hominem, qui erat paralyticus: et quaerebant eum inferre, et ponere ante eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000240	et non invenientes qua parte illum inferrent prae turba, ascenderunt supra tectum, et per tegulas summiserunt eum cum lecto in medium ante iesum.	2020-04-18	Evangelium_secundum_Lucam
+1100000241	quorum fidem ut vidit, dixit: homo, remittuntur tibi peccata tua.	2020-04-18	Evangelium_secundum_Lucam
+1100000242	et coeperunt cogitare scribae et pharisaei, dicentes: quis est hic, qui loquitur blasphemias? 	2020-04-18	Evangelium_secundum_Lucam
+1100000243	quis potest dimittere peccata, nisi solus deus?	2020-04-18	Evangelium_secundum_Lucam
+1100000244	ut cognovit autem iesus cogitationes eorum, respondens, dixit ad illos: quid cogitatis in cordibus vestris?	2020-04-18	Evangelium_secundum_Lucam
+1100000245	quid est facilius dicere: dimittuntur tibi peccata: an dicere: surge, et ambula?	2020-04-18	Evangelium_secundum_Lucam
+1100000246	ut autem sciatis quia filius hominis habet potestatem in terra dimittendi peccata, (ait paralytico) tibi dico, surge, tolle lectum tuum, et vade in domum tuam.	2020-04-18	Evangelium_secundum_Lucam
+1100000247	et confestim consurgens coram illis, tulit lectum in quo iacebat: et abiit in domum suam, magnificans deum.	2020-04-18	Evangelium_secundum_Lucam
+1100000248	et stupor apprehendit omnes, et magnificabant deum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000249	et repleti sunt timore, dicentes: quia vidimus mirabilia hodie.	2020-04-18	Evangelium_secundum_Lucam
+1100000250	et post haec exiit, et vidit publicanum nomine levi, sedentem ad telonium, et ait illi: sequere me.	2020-04-18	Evangelium_secundum_Lucam
+1100000251	et relictis omnibus, surgens secutus est eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000252	et fecit ei convivium magnum levi in domo sua: et erat turba multa publicanorum, et aliorum qui cum illis erant discumbentes.	2020-04-18	Evangelium_secundum_Lucam
+1100000253	et murmurabant pharisaei et scribae eorum, dicentes ad discipulos eius: quare cum publicanis et peccatoribus manducatis et bibitis?	2020-04-18	Evangelium_secundum_Lucam
+1100000254	et respondens iesus, dixit ad illos: non egent qui sani sunt medico, sed qui male habent.	2020-04-18	Evangelium_secundum_Lucam
+1100000255	non veni vocare iustos, sed peccatores ad poenitentiam.	2020-04-18	Evangelium_secundum_Lucam
+1100000256	at illi dixerunt ad eum: quare discipuli ioannis ieiunant frequenter, et obsecrationes faciunt, similiter et pharisaeorum: tui autem edunt et bibunt?	2020-04-18	Evangelium_secundum_Lucam
+1100000257	quibus ipse ait: numquid potestis filios sponsi, dum cum illis est sponsus, facere ieiunare?	2020-04-18	Evangelium_secundum_Lucam
+1100000258	venient autem dies, cum ablatus fuerit ab illis sponsus: tunc ieiunabunt in illis diebus.	2020-04-18	Evangelium_secundum_Lucam
+1100000259	dicebat autem et similitudinem ad illos: quia nemo commissuram a novo vestimento immittit in vestimentum vetus: alioquin et novum rumpit, et veteri non convenit commissura a novo.	2020-04-18	Evangelium_secundum_Lucam
+1100000260	et nemo mittit vinum novum in utres veteres: alioquin rumpet vinum novum utres, et ipsum effundetur, et utres peribunt:sed vinum novum in utres novos mittendum est, et utraque conservantur.	2020-04-18	Evangelium_secundum_Lucam
+1100000261	et nemo bibens vetus, statim vult novum: dicit enim: vetus melius est.	2020-04-18	Evangelium_secundum_Lucam
+1100000262	caput 6	2020-04-18	Evangelium_secundum_Lucam
+1100000263	factum est autem in sabbato secundo, primo, cum transiret per sata, vellebant discipuli eius spicas, et manducabant confricantes manibus.	2020-04-18	Evangelium_secundum_Lucam
+1100000264	quidam autem pharisaeorum, dicebant illis: quid facitis quod non licet in sabbatis?	2020-04-18	Evangelium_secundum_Lucam
+1100000265	et respondens iesus ad eos, dixit: nec hoc legistis quod fecit david, cum esurisset ipse, et qui cum illo erant?	2020-04-18	Evangelium_secundum_Lucam
+1100000266	quomodo intravit in domum dei, et panes propositionis sumpsit, et manducavit, et dedit his qui cum ipso erant: quos non licet manducare nisi tantum sacerdotibus?	2020-04-18	Evangelium_secundum_Lucam
+1100000267	et dicebat illis: quia dominus est filius hominis etiam sabbati.	2020-04-18	Evangelium_secundum_Lucam
+1100000268	factum est autem in alio sabbato, ut intraret in synagogam, et doceret. 	2020-04-18	Evangelium_secundum_Lucam
+1100000269	et erat ibi homo, et manus eius dextra erat arida.	2020-04-18	Evangelium_secundum_Lucam
+1100000270	observabant autem scribae et pharisaei si in sabbato curaret, ut invenirent unde accusarent eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000271	ipse vero sciebat cogitationes eorum: et ait homini qui habebat manum aridam: surge, et sta in medium. 	2020-04-18	Evangelium_secundum_Lucam
+1100000272	et surgens stetit.	2020-04-18	Evangelium_secundum_Lucam
+1100000273	ait autem ad illos iesus: interrogo vos si licet sabbatis benefacere, an male: animam salvam facere, an perdere?	2020-04-18	Evangelium_secundum_Lucam
+1100000274	et circumspectis omnibus dixit homini: extende manum tuam. 	2020-04-18	Evangelium_secundum_Lucam
+1100000275	et extendit: et restituta est manus eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000276	ipsi autem repleti sunt insipientia, et colloquebantur ad invicem, quidnam facerent iesu.	2020-04-18	Evangelium_secundum_Lucam
+1100000277	factum est autem in illis diebus, exiit in montem orare, et erat pernoctans in oratione dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000278	et cum dies factus esset, vocavit discipulos suos: et elegit duodecim ex ipsis (quos et apostolos nominavit):simonem, quem cognominavit petrum, et andream fratrem eius, iacobum, et ioannem, philippum, et bartholomaeum,matthaeum, et thomam, iacobum alphaei, et simonem, qui vocatur zelotes,et iudam iacobi, et iudam iscariotem, qui fuit proditor.	2020-04-18	Evangelium_secundum_Lucam
+1100000279	et descendens cum illis, stetit in loco campestri, et turba discipulorum eius, et multitudo copiosa plebis ab omni iudaea, et ierusalem, et maritima, et tyri, et sidonis,qui venerant ut audirent eum, et sanarentur a languoribus suis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000280	et qui vexabantur a spiritibus immundis, curabantur.	2020-04-18	Evangelium_secundum_Lucam
+1100000281	et omnis turba quaerebat eum tangere: quia virtus de illo exibat, et sanabat omnes.	2020-04-18	Evangelium_secundum_Lucam
+1100000282	et ipse elevatis oculis in discipulis suis, dicebat: beati pauperes, quia vestrum est regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000283	beati qui nunc esuritis, quia saturabimini. 	2020-04-18	Evangelium_secundum_Lucam
+1100000284	beati qui nunc fletis, quia ridebitis.	2020-04-18	Evangelium_secundum_Lucam
+1100000285	beati eritis cum vos oderint homines, et cum separaverint vos, et exprobraverint, et eiicerint nomen vestrum tamquam malum propter filium hominis.	2020-04-18	Evangelium_secundum_Lucam
+1100000286	gaudete in illa die, et exsultate: ecce enim merces vestra multa est in caelo: secundum haec enim faciebant prophetis patres eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000287	verumtamen vae vobis divitibus, quia habetis consolationem vestram.	2020-04-18	Evangelium_secundum_Lucam
+1100000288	vae vobis, qui saturati estis: quia esurietis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000289	vae vobis, qui ridetis nunc: quia lugebitis et flebitis.	2020-04-18	Evangelium_secundum_Lucam
+1100000290	vae cum benedixerint vobis homines: secundum haec enim faciebant pseudoprophetis patres eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000291	sed vobis dico, qui auditis: diligite inimicos vestros, benefacite his qui oderunt vos.	2020-04-18	Evangelium_secundum_Lucam
+1100000292	benedicite maledicentibus vobis, et orate pro calumniantibus vos.	2020-04-18	Evangelium_secundum_Lucam
+1100000293	et qui te percutit in maxillam, praebe et alteram. 	2020-04-18	Evangelium_secundum_Lucam
+1100000294	et ab eo qui aufert tibi vestimentum, etiam tunicam noli prohibere.	2020-04-18	Evangelium_secundum_Lucam
+1100000295	omni autem petenti te, tribue: et qui aufert quae tua sunt, ne repetas.	2020-04-18	Evangelium_secundum_Lucam
+1100000296	et prout vultis ut faciant vobis homines, et vos facite illis similiter.	2020-04-18	Evangelium_secundum_Lucam
+1100000297	et si diligitis eos qui vos diligunt, quae vobis est gratia? 	2020-04-18	Evangelium_secundum_Lucam
+1100000298	nam et peccatores diligentes se diligunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000299	et si benefeceritis his qui vobis benefaciunt, quae vobis est gratia? 	2020-04-18	Evangelium_secundum_Lucam
+1100000300	siquidem et peccatores hoc faciunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000301	et si mutuum dederitis his a quibus speratis recipere, quae gratia est vobis? 	2020-04-18	Evangelium_secundum_Lucam
+1100000302	nam et peccatores peccatoribus foenerantur, ut recipiant aequalia.	2020-04-18	Evangelium_secundum_Lucam
+1100000303	verumtamen diligite inimicos vestros: benefacite, et mutuum date, nihil inde sperantes: et erit merces vestra multa, et eritis filii altissimi, quia ipse benignus est super ingratos et malos.	2020-04-18	Evangelium_secundum_Lucam
+1100000304	estote ergo misericordes sicut et pater vester misericors est.	2020-04-18	Evangelium_secundum_Lucam
+1100000305	nolite iudicare, et non iudicabimini: nolite condemnare, et non condemnabimini. 	2020-04-18	Evangelium_secundum_Lucam
+1100000306	dimitte, et dimittemini.	2020-04-18	Evangelium_secundum_Lucam
+1100000307	date, et dabitur vobis: mensuram bonam, et confertam, et coagitatam, et supereffluentem dabunt in sinum vestrum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000308	eadem quippe mensura, qua mensi fueritis, remetietur vobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000309	dicebat autem illis et similitudinem: numquid potest caecus caecum ducere? 	2020-04-18	Evangelium_secundum_Lucam
+1100000310	nonne ambo in foveam cadunt?	2020-04-18	Evangelium_secundum_Lucam
+1100000311	non est discipulus super magistrum: perfectus autem omnis erit, si sit sicut magister eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000312	quid autem vides festucam in oculo fratris tui, trabem autem, quae in oculo tuo est, non consideras?	2020-04-18	Evangelium_secundum_Lucam
+1100000313	aut quomodo potes dicere fratri tuo: frater, sine eiiciam festucam de oculo tuo: ipse in oculo tuo trabem non videns? 	2020-04-18	Evangelium_secundum_Lucam
+1100000314	hypocrita, eiice primum trabem de oculo tuo: et tunc perspicies ut educas festucam de oculo fratris tui.	2020-04-18	Evangelium_secundum_Lucam
+1100000315	non est enim arbor bona, quae facit fructus malos: neque arbor mala, faciens fructum bonum.	2020-04-18	Evangelium_secundum_Lucam
+1100000316	unaquaeque enim arbor de fructu suo cognoscitur. 	2020-04-18	Evangelium_secundum_Lucam
+1100000317	neque enim de spinis colligunt ficus: neque de rubo vindemiant uvam.	2020-04-18	Evangelium_secundum_Lucam
+1100000318	bonus homo de bono thesauro cordis sui profert bonum: et malus homo de malo thesauro profert malum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000319	ex abundantia enim cordis os loquitur.	2020-04-18	Evangelium_secundum_Lucam
+1100000320	quid autem vocatis me domine, domine: et non facitis quae dico?	2020-04-18	Evangelium_secundum_Lucam
+1100000321	omnis qui venit ad me, et audit sermones meos, et facit eos, ostendam vobis cui similis sit:similis est homini aedificanti domum, qui fodit in altum, et posuit fundamentum super petram: inundatione autem facta, illisum est flumen domui illi, et non potuit eam movere: fundata enim erat super petram.	2020-04-18	Evangelium_secundum_Lucam
+1100000322	qui autem audit, et non facit, similis est homini aedificanti domum suam super terram sine fundamento: in quam illisus est fluvius, et continuo cecidit: et facta est ruina domus illius magna.	2020-04-18	Evangelium_secundum_Lucam
+1100000323	caput 7	2020-04-18	Evangelium_secundum_Lucam
+1100000324	cum autem implesset omnia verba sua in aures plebis, intravit capharnaum.	2020-04-18	Evangelium_secundum_Lucam
+1100000325	centurionis autem cuiusdam servus male habens, erat moriturus: qui illi erat pretiosus.	2020-04-18	Evangelium_secundum_Lucam
+1100000326	et cum audisset de iesu, misit ad eum seniores iudaeorum, rogans eum ut veniret et salvaret servum eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000327	at illi cum venissent ad iesum, rogabant eum sollicite, dicentes ei: quia dignus est ut hoc illi praestes:diligit enim gentem nostram, et synagogam ipse aedificavit nobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000328	iesus autem ibat cum illis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000329	et cum iam non longe esset a domo, misit ad eum centurio amicos, dicens: domine, noli vexari: non enim sum dignus ut sub tectum meum intres:propter quod et meipsum non sum dignum arbitratus ut venirem ad te: sed dic verbo, et sanabitur puer meus.	2020-04-18	Evangelium_secundum_Lucam
+1100000330	nam et ego homo sum sub potestate constitutus, habens sub me milites: et dico huic, vade, et vadit: et alii, veni, et venit: et servo meo, fac hoc, et facit.	2020-04-18	Evangelium_secundum_Lucam
+1100000331	quo audito iesus miratus est: et conversus sequentibus se turbis, dixit: amen dico vobis, nec in israel tantam fidem inveni.	2020-04-18	Evangelium_secundum_Lucam
+1100000332	et reversi, qui missi fuerant, domum, invenerunt servum, qui languerat, sanum.	2020-04-18	Evangelium_secundum_Lucam
+1100000333	et factum est: deinceps ibat in civitatem quae vocatur naim: et ibant cum eo discipuli eius et turba copiosa.	2020-04-18	Evangelium_secundum_Lucam
+1100000334	cum autem appropinquaret portae civitatis, ecce defunctus efferebatur filius unicus matris suae: et haec vidua erat: et turba civitatis multa cum illa.	2020-04-18	Evangelium_secundum_Lucam
+1100000335	quam cum vidisset dominus, misericordia motus super eam, dixit illi: noli flere.	2020-04-18	Evangelium_secundum_Lucam
+1100000336	et accessit, et tetigit loculum. (	2020-04-18	Evangelium_secundum_Lucam
+1100000337	hi autem qui portabant, steterunt.) 	2020-04-18	Evangelium_secundum_Lucam
+1100000338	et ait: adolescens, tibi dico, surge.	2020-04-18	Evangelium_secundum_Lucam
+1100000339	et resedit qui erat mortuus, et coepit loqui. 	2020-04-18	Evangelium_secundum_Lucam
+1100000340	et dedit illum matri suae.	2020-04-18	Evangelium_secundum_Lucam
+1100000341	accepit autem omnes timor: et magnificabant deum, dicentes: quia propheta magnus surrexit in nobis: et quia deus visitavit plebem suam.	2020-04-18	Evangelium_secundum_Lucam
+1100000342	et exiit hic sermo in universam iudaeam de eo, et in omnem circa regionem.	2020-04-18	Evangelium_secundum_Lucam
+1100000343	et nuntiaverunt ioanni discipuli eius de omnibus his.	2020-04-18	Evangelium_secundum_Lucam
+1100000344	et convocavit duos de discipulis suis ioannes, et misit ad iesum, dicens: tu es qui venturus es, an alium exspectamus?	2020-04-18	Evangelium_secundum_Lucam
+1100000345	cum autem venissent ad eum viri, dixerunt: ioannes baptista misit nos ad te dicens: tu es qui venturus es, an alium exspectamus?(	2020-04-18	Evangelium_secundum_Lucam
+1100000346	in ipsa autem hora multos curavit a languoribus, et plagis, et spiritibus malis, et caecis multis donavit visum.)	2020-04-18	Evangelium_secundum_Lucam
+1100000347	et respondens, dixit illis: euntes renuntiate ioanni quae audistis et vidistis: quia caeci vident, claudi ambulant, leprosi mundantur, surdi audiunt, mortui resurgunt, pauperes evangelizantur:et beatus est quicumque non fuerit scandalizatus in me.	2020-04-18	Evangelium_secundum_Lucam
+1100000348	et cum discessissent nuntii ioannis, coepit de ioanne dicere ad turbas: quid existis in desertum videre? 	2020-04-18	Evangelium_secundum_Lucam
+1100000349	arundinem vento agitatam?	2020-04-18	Evangelium_secundum_Lucam
+1100000350	sed quid existis videre? 	2020-04-18	Evangelium_secundum_Lucam
+1100000351	hominem mollibus vestibus indutum? 	2020-04-18	Evangelium_secundum_Lucam
+1100000352	ecce qui in veste pretiosa sunt et deliciis, in domibus regum sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000353	sed quid existis videre? 	2020-04-18	Evangelium_secundum_Lucam
+1100000354	prophetam? 	2020-04-18	Evangelium_secundum_Lucam
+1100000355	utique dico vobis, et plus quam prophetam:hic est, de quo scriptum est: ecce mitto angelum meum ante faciem tuam, qui praeparabit viam tuam ante te.	2020-04-18	Evangelium_secundum_Lucam
+1100000356	dico enim vobis: maior inter natos mulierum propheta ioanne baptista nemo est: qui autem minor est in regno dei, maior est illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000357	et omnis populus audiens et publicani, iustificaverunt deum, baptizati baptismo ioannis.	2020-04-18	Evangelium_secundum_Lucam
+1100000358	pharisaei autem et legisperiti consilium dei spreverunt in semetipsos, non baptizati ab eo.	2020-04-18	Evangelium_secundum_Lucam
+1100000359	ait autem dominus: cui ergo similes dicam homines generationis huius? 	2020-04-18	Evangelium_secundum_Lucam
+1100000360	et cui similes sunt?	2020-04-18	Evangelium_secundum_Lucam
+1100000361	similes sunt pueris sedentibus in foro, et loquentibus ad invicem, et dicentibus: cantavimus vobis tibiis, et non saltastis: lamentavimus, et non plorastis.	2020-04-18	Evangelium_secundum_Lucam
+1100000362	venit enim ioannes baptista, neque manducans panem, neque bibens vinum, et dicitis: daemonium habet.	2020-04-18	Evangelium_secundum_Lucam
+1100000363	venit filius hominis manducans, et bibens, et dicitis: ecce homo devorator, et bibens vinum, amicus publicanorum et peccatorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000364	et iustificata est sapientia ab omnibus filiis suis.	2020-04-18	Evangelium_secundum_Lucam
+1100000365	rogabat autem illum quidam de pharisaeis ut manducaret cum illo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000366	et ingressus domum pharisaei discubuit.	2020-04-18	Evangelium_secundum_Lucam
+1100000367	et ecce mulier, quae erat in civitate peccatrix, ut cognovit quod accubuisset in domo pharisaei, attulit alabastrum unguenti:et stans retro secus pedes eius, lacrimis coepit rigare pedes eius, et capillis capitis sui tergebat, et osculabatur pedes eius, et unguento ungebat.	2020-04-18	Evangelium_secundum_Lucam
+1100000368	videns autem pharisaeus, qui vocaverat eum, ait intra se dicens: hic si esset propheta, sciret utique quae et qualis est mulier, quae tangit eum: quia peccatrix est.	2020-04-18	Evangelium_secundum_Lucam
+1100000369	et respondens iesus, dixit ad illum: simon, habeo tibi aliquid dicere. 	2020-04-18	Evangelium_secundum_Lucam
+1100000370	at ille ait: magister, dic.	2020-04-18	Evangelium_secundum_Lucam
+1100000371	duo debitores erant cuidam foeneratori: unus debebat denarios quingentos, et alius quinquaginta.	2020-04-18	Evangelium_secundum_Lucam
+1100000372	non habentibus illis unde redderent, donavit utrisque. 	2020-04-18	Evangelium_secundum_Lucam
+1100000373	quis ergo eum plus diligit?	2020-04-18	Evangelium_secundum_Lucam
+1100000374	respondens simon dixit: aestimo quia is cui plus donavit. 	2020-04-18	Evangelium_secundum_Lucam
+1100000375	at ille dixit ei: recte iudicasti.	2020-04-18	Evangelium_secundum_Lucam
+1100000376	et conversus ad mulierem, dixit simoni: vides hanc mulierem? 	2020-04-18	Evangelium_secundum_Lucam
+1100000377	intravi in domum tuam, aquam pedibus meis non dedisti: haec autem lacrimis rigavit pedes meos, et capillis suis tersit.	2020-04-18	Evangelium_secundum_Lucam
+1100000378	osculum mihi non dedisti: haec autem ex quo intravit, non cessavit osculari pedes meos.	2020-04-18	Evangelium_secundum_Lucam
+1100000379	oleo caput meum non unxisti: haec autem unguento unxit pedes meos.	2020-04-18	Evangelium_secundum_Lucam
+1100000380	propter quod dico tibi: remittuntur ei peccata multa, quoniam dilexit multum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000381	cui autem minus dimittitur, minus diligit.	2020-04-18	Evangelium_secundum_Lucam
+1100000382	dixit autem ad illam: remittuntur tibi peccata.	2020-04-18	Evangelium_secundum_Lucam
+1100000383	et coeperunt qui simul accumbebant, dicere intra se: quis est hic qui etiam peccata dimittit?	2020-04-18	Evangelium_secundum_Lucam
+1100000384	dixit autem ad mulierem: fides tua te salvam fecit: vade in pace.	2020-04-18	Evangelium_secundum_Lucam
+1100000385	caput 8	2020-04-18	Evangelium_secundum_Lucam
+1100000386	et factum est deinceps, et ipse iter faciebat per civitates, et castella praedicans, et evangelizans regnum dei: et duodecim cum illo,et mulieres aliquae, quae erant curatae a spiritibus malignis et infirmatibus: maria, quae vocatur magdalene, de qua septem daemonia exierant,et ioanna uxor chusae procuratoris herodis, et susanna, et aliae multae, quae ministrabant ei de facultatibus suis.	2020-04-18	Evangelium_secundum_Lucam
+1100000387	cum autem turba plurima convenirent, et de civitatibus properarent ad eum, dixit per similitudinem:exiit qui seminat, seminare semen suum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000388	et dum seminat, aliud cecidit secus viam, et conculcatum est, et volucres caeli comederunt illud.	2020-04-18	Evangelium_secundum_Lucam
+1100000389	et aliud cecidit supra petram: et natum aruit, quia non habebat humorem.	2020-04-18	Evangelium_secundum_Lucam
+1100000390	et aliud cecidit inter spinas, et simul exortae spinae suffocaverunt illud.	2020-04-18	Evangelium_secundum_Lucam
+1100000391	et aliud cecidit in terram bonam: et ortum fecit fructum centuplum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000392	haec dicens clamabat: qui habet aures audiendi, audiat.	2020-04-18	Evangelium_secundum_Lucam
+1100000393	interrogabant autem eum discipuli eius, quae esset haec parabola.	2020-04-18	Evangelium_secundum_Lucam
+1100000394	quibus ipse dixit: vobis datum est nosse mysterium regni dei, ceteris autem in parabolis: ut videntes non videant, et audientes non intelligant.	2020-04-18	Evangelium_secundum_Lucam
+1100000395	est autem haec parabola: semen est verbum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000396	qui autem secus viam, hi sunt qui audiunt: deinde venit diabolus, et tollit verbum de corde eorum, ne credentes salvi fiant.	2020-04-18	Evangelium_secundum_Lucam
+1100000397	nam qui supra petram, qui cum audierint, cum gaudio suscipiunt verbum: et hi radices non habent: qui ad tempus credunt, et in tempore tentationis recedunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000398	quod autem in spinas cecidit: hi sunt qui audierunt, et a sollicitudinibus, et divitiis, et voluptatibus vitae euntes, suffocantur, et non referunt fructum.	2020-04-18	Evangelium_secundum_Lucam
+1100000399	quod autem in bonam terram: hi sunt qui in corde bono et optimo audientes verbum retinent, et fructum afferunt in patientia.	2020-04-18	Evangelium_secundum_Lucam
+1100000400	nemo autem lucernam accendens, operit eam vase, aut subtus lectum ponit: sed supra candelabrum ponit, ut intrantes videant lumen.	2020-04-18	Evangelium_secundum_Lucam
+1100000401	non est enim occultum, quod non manifestetur: nec absconditum, quod non cognoscatur, et in palam veniat.	2020-04-18	Evangelium_secundum_Lucam
+1100000402	videte ergo quomodo audiatis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000403	qui enim habet, dabitur illi: et quicumque non habet, etiam quod putat se habere, auferetur ab illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000404	venerunt autem ad illum mater et fratres eius, et non poterant adire eum prae turba.	2020-04-18	Evangelium_secundum_Lucam
+1100000405	et nuntiatum est illi: mater tua et fratres tui stant foris, volentes te videre.	2020-04-18	Evangelium_secundum_Lucam
+1100000406	qui respondens, dixit ad eos: mater mea et fratres mei hi sunt, qui verbum dei audiunt et faciunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000407	factum est autem in una dierum: et ipse ascendit in naviculam, et discipuli eius, et ait ad illos: transfretemus trans stagnum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000408	et ascenderunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000409	et navigantibus illis, obdormivit, et descendit procella venti in stagnum, et complebantur, et periclitabantur.	2020-04-18	Evangelium_secundum_Lucam
+1100000410	accedentes autem suscitaverunt eum, dicentes: praeceptor, perimus. 	2020-04-18	Evangelium_secundum_Lucam
+1100000411	at ille surgens, increpavit ventum, et tempestatem aquae, et cessavit: et facta est tranquillitas.	2020-04-18	Evangelium_secundum_Lucam
+1100000412	dixit autem illis: ubi est fides vestra? 	2020-04-18	Evangelium_secundum_Lucam
+1100000413	qui timentes, mirati sunt ad invicem, dicentes: quis putas hic est, quia et ventis, et mari imperat, et obediunt ei?	2020-04-18	Evangelium_secundum_Lucam
+1100000414	et navigaverunt ad regionem gerasenorum, quae est contra galilaeam.	2020-04-18	Evangelium_secundum_Lucam
+1100000415	et cum egressus esset ad terram, occurrit illi vir quidam, qui habebat daemonium iam temporibus multis, et vestimento non induebatur, neque in domo manebat, sed in monumentis.	2020-04-18	Evangelium_secundum_Lucam
+1100000416	is, ut vidit iesum, procidit ante illum: et exclamans voce magna, dixit: quid mihi et tibi est, iesu fili dei altissimi? 	2020-04-18	Evangelium_secundum_Lucam
+1100000417	obsecro te, ne me torqueas.	2020-04-18	Evangelium_secundum_Lucam
+1100000418	praecipiebat enim spiritui immundo ut exiret ab homine. 	2020-04-18	Evangelium_secundum_Lucam
+1100000419	multis enim temporibus arripiebat illum, et vinciebatur catenis, et compedibus custoditus. 	2020-04-18	Evangelium_secundum_Lucam
+1100000420	et ruptis vinculis agebatur a daemonio in deserta.	2020-04-18	Evangelium_secundum_Lucam
+1100000421	interrogavit autem illum iesus, dicens: quod tibi nomen est? 	2020-04-18	Evangelium_secundum_Lucam
+1100000422	at ille dixit: legio: quia intraverant daemonia multa in eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000423	et rogabant illum ne imperaret illis ut in abyssum irent.	2020-04-18	Evangelium_secundum_Lucam
+1100000424	erat autem ibi grex porcorum multorum pascentium in monte: et rogabant eum, ut permitteret eis in illos ingredi. 	2020-04-18	Evangelium_secundum_Lucam
+1100000425	et permisit illis.	2020-04-18	Evangelium_secundum_Lucam
+1100000426	exierunt ergo daemonia ab homine, et intraverunt in porcos: et impetu abiit grex per praeceps in stagnum, et suffocatus est.	2020-04-18	Evangelium_secundum_Lucam
+1100000427	quod ut viderunt factum qui pascebant, fugerunt, et nuntiaverunt in civitatem et in villas.	2020-04-18	Evangelium_secundum_Lucam
+1100000428	exierunt autem videre quod factum est, et venerunt ad iesum, et invenerunt hominem sedentem, a quo daemonia exierant, vestitum ac sana mente, ad pedes eius, et timuerunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000429	nuntiaverunt autem illis et qui viderant, quomodo sanus factus esset a legione:et rogaverunt illum omnis multitudo regionis gerasenorum ut discederet ab ipsis: quia magno timore tenebantur. 	2020-04-18	Evangelium_secundum_Lucam
+1100000430	ipse autem ascendens navim, reversus est.	2020-04-18	Evangelium_secundum_Lucam
+1100000431	et rogabat illum vir, a quo daemonia exierant, ut cum eo esset. 	2020-04-18	Evangelium_secundum_Lucam
+1100000432	dimisit autem eum iesus, dicens:redi in domum tuam, et narra quanta tibi fecit deus. 	2020-04-18	Evangelium_secundum_Lucam
+1100000433	et abiit per universam civitatem, praedicans quanta illi fecisset iesus.	2020-04-18	Evangelium_secundum_Lucam
+1100000434	factum est autem cum rediisset iesus, excepit illum turba: erunt enim omnes exspectantes eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000435	et ecce venit vir, cui nomen iairus, et ipse princeps synagogae erat: et cecidit ad pedes iesu, rogans eum ut intraret in domum eius,quia unica filia erat ei fere annorum duodecim, et haec moriebatur. 	2020-04-18	Evangelium_secundum_Lucam
+1100000436	et contigit, dum iret, a turba comprimebatur.	2020-04-18	Evangelium_secundum_Lucam
+1100000437	et mulier quaedam erat in fluxu sanguinis ab annis duodecim, quae in medicos erogaverat omnem substantiam suam, nec ab ullo potuit curari:accessit retro, et tetigit fimbriam vestimenti eius: et confestim stetit fluxus sanguinis eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000438	et ait iesus: quis est, qui me tetigit? 	2020-04-18	Evangelium_secundum_Lucam
+1100000439	negantibus autem omnibus, dixit petrus, et qui cum illo erant: praeceptor, turbae te comprimunt, et affligunt, et dicis: quis me tetigit?	2020-04-18	Evangelium_secundum_Lucam
+1100000440	et dicit iesus: tetigit me aliquis: nam ego novi virtutem de me exiisse.	2020-04-18	Evangelium_secundum_Lucam
+1100000441	videns autem mulier, quia non latuit, tremens venit, et procidit ante pedes eius: et ob quam causam tetigerit eum, indicavit coram omni populo: et quemadmodum confestim sanata sit.	2020-04-18	Evangelium_secundum_Lucam
+1100000442	at ipse dixit ei: filia, fides tua salvam te fecit: vade in pace.	2020-04-18	Evangelium_secundum_Lucam
+1100000443	adhuc illo loquente, venit quidam ad principem synagogae, dicens ei: quia mortua est filia tua, noli vexare illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000444	iesus autem, audito hoc verbo, respondit patri puellae: noli timere, crede tantum, et salva erit.	2020-04-18	Evangelium_secundum_Lucam
+1100000445	et cum venisset domum, non permisit intrare secum quemquam, nisi petrum, et iacobum, et ioannem, et patrem, et matrem puellae.	2020-04-18	Evangelium_secundum_Lucam
+1100000446	flebant autem omnes, et plangebant illam. 	2020-04-18	Evangelium_secundum_Lucam
+1100000447	at ille dixit: nolite flere: non est mortua puella, sed dormit.	2020-04-18	Evangelium_secundum_Lucam
+1100000448	et deridebant eum, scientes quod mortua esset.	2020-04-18	Evangelium_secundum_Lucam
+1100000449	ipse autem tenens manum eius clamavit, dicens: puella, surge.	2020-04-18	Evangelium_secundum_Lucam
+1100000450	et reversus est spiritus eius, et surrexit continuo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000451	et iussit illi dari manducare.	2020-04-18	Evangelium_secundum_Lucam
+1100000452	et stupuerunt parentes eius, quibus praecepit ne alicui dicerent quod factum erat.	2020-04-18	Evangelium_secundum_Lucam
+1100000453	caput 9	2020-04-18	Evangelium_secundum_Lucam
+1100000454	convocatis autem duodecim apostolis, dedit illis virtutem et potestatem super omnia daemonia, et ut languores curarent.	2020-04-18	Evangelium_secundum_Lucam
+1100000455	et misit illos praedicare regnum dei, et sanare infirmos.	2020-04-18	Evangelium_secundum_Lucam
+1100000456	et ait ad illos: nihil tuleritis in via, neque virgam, neque peram, neque panem, neque pecuniam, neque duas tunicas habeatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000457	et in quamcumque domum intraveritis, ibi manete, et inde ne exeatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000458	et quicumque non receperint vos: exeuntes de civitate illa, etiam pulverem pedum vestrorum excutite in testimonium supra illos.	2020-04-18	Evangelium_secundum_Lucam
+1100000459	egressi autem circuibant per castella evangelizantes, et curantes ubique.	2020-04-18	Evangelium_secundum_Lucam
+1100000460	audivit autem herodes tetrarcha omnia quae fiebant ab eo, et haesitabat eo quod diceretura quibusdam: quia ioannes surrexit a mortuis: a quibusdam vero: quia elias apparuit: ab aliis autem: quia propheta unus de antiquis surrexit.	2020-04-18	Evangelium_secundum_Lucam
+1100000461	et ait herodes: ioannem ego decollavi: quis est autem iste, de quo ego talia audio? 	2020-04-18	Evangelium_secundum_Lucam
+1100000462	et quaerebat videre eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000463	et reversi apostoli, narraverunt illi quaecumque fecerunt: et assumptis illis secessit seorsum in locum desertum, qui est bethsaidae.	2020-04-18	Evangelium_secundum_Lucam
+1100000464	quod cum cognovissent turbae, secutae sunt illum: et excepit eos, et loquebatur illis de regno dei, et eos, qui cura indigebant, sanabat.	2020-04-18	Evangelium_secundum_Lucam
+1100000465	dies autem coeperat declinare, et accedentes duodecim dixerunt illi: dimitte turbas, ut euntes in castella villasque quae circa sunt, divertant, et inveniant escas: quia hic in loco deserto sumus.	2020-04-18	Evangelium_secundum_Lucam
+1100000466	ait autem ad illos: vos date illis manducare. 	2020-04-18	Evangelium_secundum_Lucam
+1100000467	at illi dixerunt: non sunt nobis plus quam quinque panes et duo pisces: nisi forte nos eamus, et emamus in omnem hanc turbam escas.	2020-04-18	Evangelium_secundum_Lucam
+1100000468	erant autem fere viri quinque millia. 	2020-04-18	Evangelium_secundum_Lucam
+1100000469	ait autem ad discipulos suos: facite illos discumbere per convivia quinquagenos.	2020-04-18	Evangelium_secundum_Lucam
+1100000470	et ita fecerunt: et discumbere fecerunt omnes.	2020-04-18	Evangelium_secundum_Lucam
+1100000471	acceptis autem quinque panibus et duobus piscibus, respexit in caelum, et benedixit illis: et fregit, et distribuit discipulis suis, ut ponerent ante turbas.	2020-04-18	Evangelium_secundum_Lucam
+1100000472	et manducaverunt omnes, et saturati sunt. 	2020-04-18	Evangelium_secundum_Lucam
+1100000473	et sublatum est quod superfuit illis, fragmentorum cophini duodecim.	2020-04-18	Evangelium_secundum_Lucam
+1100000474	et factum est cum solus esset orans, erant cum illo et discipuli: et interrogavit illos, dicens: quem me dicunt esse turbae?	2020-04-18	Evangelium_secundum_Lucam
+1100000475	at illi responderunt, et dixerunt: ioannem baptistam, alii autem eliam, alii vero quia unus propheta de prioribus surrexit.	2020-04-18	Evangelium_secundum_Lucam
+1100000476	dixit autem illis: vos autem quem me esse dicitis? 	2020-04-18	Evangelium_secundum_Lucam
+1100000477	respondens simon petrus, dixit: christum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000478	at ille increpans illos, praecepit ne cui dicerent hoc,dicens: quia oportet filium hominis multa pati, et reprobari a senioribus, et principibus sacerdotum, et scribis, et occidi, et tertia die resurgere.	2020-04-18	Evangelium_secundum_Lucam
+1100000479	dicebat autem ad omnes: si quis vult post me venire, abneget semetipsum, et tollat crucem suam quotidie, et sequatur me.	2020-04-18	Evangelium_secundum_Lucam
+1100000480	qui enim voluerit animam suam salvam facere, perdet illam: nam qui perdiderit animam suam propter me, salvam faciet illam.	2020-04-18	Evangelium_secundum_Lucam
+1100000481	quid enim proficit homo, si lucretur universum mundum, se autem ipsum perdat, et detrimentum sui faciat?	2020-04-18	Evangelium_secundum_Lucam
+1100000482	nam qui me erubuerit, et meos sermones: hunc filius hominis erubescet cum venerit in maiestate sua, et patris, et sanctorum angelorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000483	dico autem vobis vere: sunt aliqui hic stantes, qui non gustabunt mortem donec videant regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000484	factum est autem post haec verba fere dies octo, et assumpsit petrum, et iacobum, et ioannem, et ascendit in montem ut oraret.	2020-04-18	Evangelium_secundum_Lucam
+1100000485	et facta est, dum oraret, species vultus eius altera: et vestitus eius albus et refulgens.	2020-04-18	Evangelium_secundum_Lucam
+1100000486	et ecce duo viri loquebantur cum illo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000487	erant autem moyses et elias,visi in maiestate: et dicebant excessum eius, quem completurus erat in ierusalem.	2020-04-18	Evangelium_secundum_Lucam
+1100000488	petrus vero, et qui cum illo erant, gravati erant somno. 	2020-04-18	Evangelium_secundum_Lucam
+1100000489	et evigilantes viderunt maiestatem eius, et duos viros qui stabant cum illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000490	et factum est cum discederent ab illo, ait petrus ad iesum: praeceptor, bonum est nos hic esse: et faciamus tria tabernacula, unum tibi, et unum moysi, et unum eliae: nesciens quid diceret.	2020-04-18	Evangelium_secundum_Lucam
+1100000491	haec autem illo loquente, facta est nubes, et obumbravit eos: et timuerunt, intrantibus illis in nubem.	2020-04-18	Evangelium_secundum_Lucam
+1100000492	et vox facta est de nube, dicens: hic est filius meus dilectus, ipsum audite.	2020-04-18	Evangelium_secundum_Lucam
+1100000493	et dum fieret vox, inventus est iesus solus. 	2020-04-18	Evangelium_secundum_Lucam
+1100000494	et ipsi tacuerunt, et nemini dixerunt in illis diebus quidquam ex his quae viderant.	2020-04-18	Evangelium_secundum_Lucam
+1100000495	factum est autem in sequenti die, descendentibus illis de monte, occurrit illis turba multa.	2020-04-18	Evangelium_secundum_Lucam
+1100000496	et ecce vir de turba exclamavit, dicens: magister, obsecro te, respice in filium meum quia unicus est mihi:et ecce spiritus apprehendit eum, et subito clamat, et elidit, et dissipat eum cum spuma, et vix discedit dilanians eum:et rogavi discipulos tuos ut eiicerent illum, et non potuerunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000497	respondens autem iesus, dixit: o generatio infidelis, et perversa, usquequo ero apud vos, et patiar vos? 	2020-04-18	Evangelium_secundum_Lucam
+1100000498	adduc huc filium tuum.	2020-04-18	Evangelium_secundum_Lucam
+1100000499	et cum accederet, elisit illum daemonium, et dissipavit.	2020-04-18	Evangelium_secundum_Lucam
+1100000500	et increpavit iesus spiritum immundum, et sanavit puerum, et reddidit illum patri eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000501	stupebant autem omnes in magnitudine dei: omnibusque mirantibus in omnibus quae faciebat, dixit ad discipulos suos: ponite vos in cordibus vestris sermones istos: filius enim hominis futurum est ut tradatur in manus hominum.	2020-04-18	Evangelium_secundum_Lucam
+1100000502	at illi ignorabant verbum istud, et erat velatum ante eos ut non sentirent illud: et timebant eum interrogare de hoc verbo.	2020-04-18	Evangelium_secundum_Lucam
+1100000503	intravit autem cogitatio in eos quis eorum maior esset.	2020-04-18	Evangelium_secundum_Lucam
+1100000504	at iesus videns cogitationes cordis illorum, apprehendit puerum, et statuit illum secus se,et ait illis: quicumque susceperit puerum istum in nomine meo, me recipit: et quicumque me receperit, recipit eum qui me misit. 	2020-04-18	Evangelium_secundum_Lucam
+1100000505	nam qui minor est inter vos omnes, hic maior est.	2020-04-18	Evangelium_secundum_Lucam
+1100000506	respondens autem ioannes dixit: praeceptor, vidimus quemdam in nomine tuo eiicientem daemonia, et prohibuimus eum: quia non sequitur nobiscum.	2020-04-18	Evangelium_secundum_Lucam
+1100000507	et ait ad illum iesus: nolite prohibere: qui enim non est adversum vos, pro vobis est.	2020-04-18	Evangelium_secundum_Lucam
+1100000508	factum est autem dum complerentur dies assumptionis eius, et ipse faciem suam firmavit ut iret in ierusalem.	2020-04-18	Evangelium_secundum_Lucam
+1100000509	et misit nuntios ante conspectum suum: et euntes intraverunt in civitatem samaritanorum ut parerent illi.	2020-04-18	Evangelium_secundum_Lucam
+1100000510	et non receperunt eum, quia facies eius erat euntis in ierusalem.	2020-04-18	Evangelium_secundum_Lucam
+1100000511	cum vidissent autem discipuli eius iacobus et ioannes, dixerunt: domine, vis dicimus ut ignis descendat de caelo, et consumat illos?	2020-04-18	Evangelium_secundum_Lucam
+1100000512	et conversus increpavit illos, dicens: nescitis cuius spiritus estis.	2020-04-18	Evangelium_secundum_Lucam
+1100000513	filius hominis non venit animas perdere, sed salvare. 	2020-04-18	Evangelium_secundum_Lucam
+1100000514	et abierunt in aliud castellum.	2020-04-18	Evangelium_secundum_Lucam
+1100000515	factum est autem: ambulantibus illis in via, dixit quidam ad illum: sequar te quocumque ieris.	2020-04-18	Evangelium_secundum_Lucam
+1100000516	dixit illi iesus: vulpes foveas habent, et volucres caeli nidos: filius autem hominis non habet ubi caput reclinet.	2020-04-18	Evangelium_secundum_Lucam
+1100000517	ait autem ad alterum: sequere me: ille autem dixit: domine, permitte mihi primum ire, et sepelire patrem meum.	2020-04-18	Evangelium_secundum_Lucam
+1100000518	dixitque ei iesus: sine ut mortui sepeliant mortuos suos: tu autem vade, et annuntia regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000519	et ait alter: sequar te domine, sed permitte mihi primum renuntiare his quae domi sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000520	ait ad illum iesus: nemo mittens manum suam ad aratrum, et respiciens retro, aptus est regno dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000521	caput 10	2020-04-18	Evangelium_secundum_Lucam
+1100000522	post haec autem designavit dominus et alios septuaginta duos: et misit illos binos ante faciem suam in omnem civitatem et locum, quo erat ipse venturus.	2020-04-18	Evangelium_secundum_Lucam
+1100000523	et dicebat illis: messis quidem multa, operarii autem pauci. 	2020-04-18	Evangelium_secundum_Lucam
+1100000524	rogate ergo dominum messis ut mittat operarios in messem suam.	2020-04-18	Evangelium_secundum_Lucam
+1100000525	ite: ecce ego mitto vos sicut agnos inter lupos.	2020-04-18	Evangelium_secundum_Lucam
+1100000526	nolite portare sacculum, neque peram, neque calceamenta, et neminem per viam salutaveritis.	2020-04-18	Evangelium_secundum_Lucam
+1100000527	in quamcumque domum intraveritis, primum dicite: pax huic domui:et si ibi fuerit filius pacis, requiescet super illum pax vestra: sin autem, ad vos revertetur.	2020-04-18	Evangelium_secundum_Lucam
+1100000528	in eadem autem domo manete, edentes et bibentes quae apud illos sunt: dignus est enim operarius mercede sua. 	2020-04-18	Evangelium_secundum_Lucam
+1100000529	nolite transire de domo in domum.	2020-04-18	Evangelium_secundum_Lucam
+1100000530	et in quamcumque civitatem intraveritis, et susceperint vos, manducate quae apponuntur vobis:et curate infirmos, qui in illa sunt, et dicite illis: appropinquavit in vos regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000531	in quamcumque autem civitatem intraveritis, et non susceperint vos, exeuntes in plateas eius, dicite:etiam pulverem, qui adhaesit nobis de civitate vestra, extergimus in vos: tamen hoc scitote, quia appropinquavit regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000532	dico vobis, quia sodomis in die illa remissius erit, quam illi civitati.	2020-04-18	Evangelium_secundum_Lucam
+1100000533	vae tibi corozain! 	2020-04-18	Evangelium_secundum_Lucam
+1100000534	vae tibi bethsaida! 	2020-04-18	Evangelium_secundum_Lucam
+1100000535	quia si in tyro et sidone factae fuissent virtutes quae factae sunt in vobis, olim in cilicio et cinere sedentes poeniterent.	2020-04-18	Evangelium_secundum_Lucam
+1100000536	verumtamen tyro et sidoni remissius erit in iudicio, quam vobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000537	et tu capharnaum, usque ad caelum exaltata, usque ad infernum demergeris.	2020-04-18	Evangelium_secundum_Lucam
+1100000538	qui vos audit, me audit: et qui vos spernit, me spernit. 	2020-04-18	Evangelium_secundum_Lucam
+1100000539	qui autem me spernit, spernit eum qui misit me.	2020-04-18	Evangelium_secundum_Lucam
+1100000540	reversi sunt autem septuaginta duo cum gaudio, dicentes: domine, etiam daemonia subiiciuntur nobis in nomine tuo.	2020-04-18	Evangelium_secundum_Lucam
+1100000541	et ait illis: videbam satanam sicut fulgor de caelo cadentem.	2020-04-18	Evangelium_secundum_Lucam
+1100000542	ecce dedi vobis potestatem calcandi supra serpentes, et scorpiones, et super omnem virtutem inimici: et nihil vobis nocebit.	2020-04-18	Evangelium_secundum_Lucam
+1100000543	verumtamen in hoc nolite gaudere quia spiritus vobis subiiciuntur: gaudete autem, quod nomina vestra scripta sunt in caelis.	2020-04-18	Evangelium_secundum_Lucam
+1100000544	in ipsa hora exsultavit spiritu sancto, et dixit: confiteor tibi pater, domine caeli et terrae, quod abscondisti haec a sapientibus et prudentibus, et revelasti ea parvulis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000545	etiam pater: quoniam sic placuit ante te.	2020-04-18	Evangelium_secundum_Lucam
+1100000546	omnia mihi tradita sunt a patre meo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000547	et nemo scit quis sit filius, nisi pater: et quis sit pater, nisi filius, et cui voluerit filius revelare.	2020-04-18	Evangelium_secundum_Lucam
+1100000548	et conversus ad discipulos suos, dixit: beati oculi qui vident quae vos videtis.	2020-04-18	Evangelium_secundum_Lucam
+1100000549	dico enim vobis quod multi prophetae et reges voluerunt videre quae vos videtis, et non viderunt: et audire quae auditis, et non audierunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000550	et ecce quidam legisperitus surrexit tentans illum, et dicens: magister, quid faciendo vitam aeternam possidebo?	2020-04-18	Evangelium_secundum_Lucam
+1100000551	at ille dixit ad eum: in lege quid scriptum est? 	2020-04-18	Evangelium_secundum_Lucam
+1100000552	quomodo legis?	2020-04-18	Evangelium_secundum_Lucam
+1100000553	ille respondens dixit: diliges dominum deum tuum ex toto corde tuo, et ex tota anima tua, et ex omnibus virtutibus tuis, et ex omni mente tua: et proximum tuum sicut teipsum.	2020-04-18	Evangelium_secundum_Lucam
+1100000554	dixitque illi: recte respondisti: hoc fac, et vives.	2020-04-18	Evangelium_secundum_Lucam
+1100000555	ille autem volens iustificare seipsum, dixit ad iesum: et quis est meus proximus?	2020-04-18	Evangelium_secundum_Lucam
+1100000556	suscipiens autem iesus, dixit: homo quidam descendebat ab ierusalem in iericho, et incidit in latrones, qui etiam despoliaverunt eum: et plagis impositis abierunt semivivo relicto.	2020-04-18	Evangelium_secundum_Lucam
+1100000557	accidit autem ut sacerdos quidam descenderet eadem via: et viso illo praeterivit.	2020-04-18	Evangelium_secundum_Lucam
+1100000558	similiter et levita, cum esset secus locum, et videret eum, pertransiit.	2020-04-18	Evangelium_secundum_Lucam
+1100000559	samaritanus autem quidam iter faciens, venit secus eum: et videns eum, misericordia motus est.	2020-04-18	Evangelium_secundum_Lucam
+1100000560	et appropians alligavit vulnera eius, infundens oleum et vinum: et imponens illum in iumentum suum, duxit in stabulum, et curam eius egit.	2020-04-18	Evangelium_secundum_Lucam
+1100000561	et altera die protulit duos denarios, et dedit stabulario, et ait: curam illius habe: et quodcumque supererogaveris, ego cum rediero reddam tibi.	2020-04-18	Evangelium_secundum_Lucam
+1100000562	quis horum trium videtur tibi proximus fuisse illi, qui incidit in latrones?	2020-04-18	Evangelium_secundum_Lucam
+1100000563	at ille dixit: qui fecit misericordiam in illum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000564	et ait illi iesus: vade, et tu fac similiter.	2020-04-18	Evangelium_secundum_Lucam
+1100000565	factum est autem, dum irent, et ipse intravit in quoddam castellum: et mulier quaedam, martha nomine, excepit illum in domum suam,et huic erat soror nomine maria, quae etiam sedens secus pedes domini, audiebat verbum illius.	2020-04-18	Evangelium_secundum_Lucam
+1100000566	martha autem satagebat circa frequens ministerium: quae stetit, et ait: domine, non est tibi curae quod soror mea reliquit me solam ministrare? 	2020-04-18	Evangelium_secundum_Lucam
+1100000567	dic ergo illi ut me adiuvet.	2020-04-18	Evangelium_secundum_Lucam
+1100000568	et respondens dixit illi dominus: martha, martha, sollicita es, et turbaris erga plurima,porro unum est necessarium. 	2020-04-18	Evangelium_secundum_Lucam
+1100000569	maria optimam partem elegit, quae non auferetur ab ea.	2020-04-18	Evangelium_secundum_Lucam
+1100000570	caput 11	2020-04-18	Evangelium_secundum_Lucam
+1100000571	et factum est: cum esset in quodam loco orans, ut cessavit, dixit unus ex discipulis eius ad eum: domine, doce nos orare, sicut docuit et ioannes discipulos suos.	2020-04-18	Evangelium_secundum_Lucam
+1100000572	et ait illis: cum oratis, dicite: pater, sanctificetur nomen tuum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000573	adveniat regnum tuum.	2020-04-18	Evangelium_secundum_Lucam
+1100000574	panem nostrum quotidianum da nobis hodie.	2020-04-18	Evangelium_secundum_Lucam
+1100000575	et dimitte nobis peccata nostra, siquidem et ipsi dimittimus omni debenti nobis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000576	et ne nos inducas in tentationem.	2020-04-18	Evangelium_secundum_Lucam
+1100000577	et ait ad illos: quis vestrum habebit amicum, et ibit ad illum media nocte, et dicet illi: amice, commoda mihi tres panes,quoniam amicus meus venit de via ad me, et non habeo quod ponam ante illum,et ille de intus respondens dicat: noli mihi molestus esse, iam ostium clausum est, et pueri mei mecum sunt in cubili: non possum surgere, et dare tibi.	2020-04-18	Evangelium_secundum_Lucam
+1100000578	et si ille perseveraverit pulsans: dico vobis, etsi non dabit illi surgens eo quod amicus eius sit, propter improbitatem tamen eius surget, et dabit illi quotquot habet necessarios.	2020-04-18	Evangelium_secundum_Lucam
+1100000579	et ego dico vobis: petite, et dabitur vobis; quaerite, et invenietis; pulsate, et aperietur vobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000580	omnis enim qui petit, accipit: et qui quaerit, invenit: et pulsanti aperietur.	2020-04-18	Evangelium_secundum_Lucam
+1100000581	quis autem ex vobis patrem petit panem, numquid lapidem dabit illi? 	2020-04-18	Evangelium_secundum_Lucam
+1100000582	aut piscem, numquid pro pisce serpentem dabit illi?	2020-04-18	Evangelium_secundum_Lucam
+1100000583	aut si petierit ovum, numquid porriget illi scorpionem?	2020-04-18	Evangelium_secundum_Lucam
+1100000584	si ergo vos, cum sitis mali, nostis bona data dare filiis vestris: quanto magis pater vester de caelo dabit spiritum bonum petentibus se?	2020-04-18	Evangelium_secundum_Lucam
+1100000585	et erat eiiciens daemonium, et illud erat mutum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000586	et cum eiecisset daemonium, locutus est mutus, et admiratae sunt turbae.	2020-04-18	Evangelium_secundum_Lucam
+1100000587	quidam autem ex eis dixerunt: in beelzebub principe daemoniorum eiicit daemonia.	2020-04-18	Evangelium_secundum_Lucam
+1100000588	et alii tentantes, signum de caelo quaerebant ab eo.	2020-04-18	Evangelium_secundum_Lucam
+1100000589	ipse autem ut vidit cogitationes eorum, dixit eis: omne regnum in seipsum divisum desolabitur, et domus supra domum cadet.	2020-04-18	Evangelium_secundum_Lucam
+1100000590	si autem et satanas in seipsum divisus est, quomodo stabit regnum eius? 	2020-04-18	Evangelium_secundum_Lucam
+1100000591	quia dicitis in beelzebub me eiicere daemonia.	2020-04-18	Evangelium_secundum_Lucam
+1100000592	si autem ego in beelzebub eiicio daemonia: filii vestri in quo eiiciunt? 	2020-04-18	Evangelium_secundum_Lucam
+1100000593	ideo ipsi iudices vestri erunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000594	porro si in digito dei eiicio daemonia: profecto pervenit in vos regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000595	cum fortis armatus custodit atrium suum, in pace sunt ea quae possidet.	2020-04-18	Evangelium_secundum_Lucam
+1100000596	si autem fortior eo superveniens vicerit eum, universa arma eius auferet, in quibus confidebat, et spolia eius distribuet.	2020-04-18	Evangelium_secundum_Lucam
+1100000597	qui non est mecum, contra me est: et qui non colligit mecum, dispergit.	2020-04-18	Evangelium_secundum_Lucam
+1100000598	cum immundus spiritus exierit de homine, ambulat per loca inaquosa, quaerens requiem: et non inveniens dicit: revertar in domum meam unde exivi.	2020-04-18	Evangelium_secundum_Lucam
+1100000599	et cum venerit, invenit eam scopis mundatam, et ornatam.	2020-04-18	Evangelium_secundum_Lucam
+1100000600	tunc vadit, et assumit septem alios spiritus secum, nequiores se, et ingressi habitant ibi. 	2020-04-18	Evangelium_secundum_Lucam
+1100000601	et fiunt novissima hominis illius peiora prioribus.	2020-04-18	Evangelium_secundum_Lucam
+1100000602	factum est autem, cum haec diceret: extollens vocem quaedam mulier de turba dixit illi: beatus venter qui te portavit, et ubera quae suxisti.	2020-04-18	Evangelium_secundum_Lucam
+1100000603	at ille dixit: quinimmo beati, qui audiunt verbum dei et custodiunt illud.	2020-04-18	Evangelium_secundum_Lucam
+1100000604	turbis autem concurrentibus coepit dicere: generatio haec, generatio nequam est: signum quaerit, et signum non dabitur ei, nisi signum ionae prophetae.	2020-04-18	Evangelium_secundum_Lucam
+1100000605	nam sicut fuit ionas signum ninivitis, ita erit et filius hominis generationi isti.	2020-04-18	Evangelium_secundum_Lucam
+1100000606	regina austri surget in iudicio cum viris generationis huius, et condemnabit illos: quia venit a finibus terrae audire sapientiam salomonis: et ecce plus quam salomon hic.	2020-04-18	Evangelium_secundum_Lucam
+1100000607	viri ninivitae surgent in iudicio cum generatione hac, et condemnabunt illam: quia poenitentiam egerunt ad praedicationem ionae, et ecce plus quam ionas hic.	2020-04-18	Evangelium_secundum_Lucam
+1100000608	nemo lucernam accendit, et in abscondito ponit, neque sub modio: sed supra candelabrum, ut qui ingrediuntur, lumen videant.	2020-04-18	Evangelium_secundum_Lucam
+1100000609	lucerna corporis tui est oculus tuus. 	2020-04-18	Evangelium_secundum_Lucam
+1100000610	si oculus tuus fuerit simplex, totum corpus tuum lucidum erit: si autem nequam fuerit, etiam corpus tuum tenebrosum erit.	2020-04-18	Evangelium_secundum_Lucam
+1100000611	vide ergo ne lumen quod in te est, tenebrae sint.	2020-04-18	Evangelium_secundum_Lucam
+1100000612	si ergo corpus tuum totum lucidum fuerit, non habens aliquam partem tenebrarum, erit lucidum totum, et sicut lucerna fulgoris illuminabit te.	2020-04-18	Evangelium_secundum_Lucam
+1100000613	et cum loqueretur, rogavit illum quidam pharisaeus ut pranderet apud se. 	2020-04-18	Evangelium_secundum_Lucam
+1100000614	et ingressus recubuit.	2020-04-18	Evangelium_secundum_Lucam
+1100000615	pharisaeus autem coepit intra se reputans dicere, quare non baptizatus esset ante prandium.	2020-04-18	Evangelium_secundum_Lucam
+1100000616	et ait dominus ad illum: nunc vos pharisaei, quod deforis est calicis et catini, mundatis: quod autem intus est vestrum, plenum est rapina et iniquitate.	2020-04-18	Evangelium_secundum_Lucam
+1100000617	stulti! 	2020-04-18	Evangelium_secundum_Lucam
+1100000618	nonne qui fecit quod deforis est, etiam id quod deintus est fecit?	2020-04-18	Evangelium_secundum_Lucam
+1100000619	verumtamen quod superest, date eleemosynam: et ecce omnia munda sunt vobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000620	sed vae vobis, pharisaeis, quia decimatis mentham, et rutam, et omne olus, et praeteritis iudicium et caritatem dei: haec autem oportuit facere, et illa non omittere.	2020-04-18	Evangelium_secundum_Lucam
+1100000621	vae vobis, pharisaeis, quia diligitis primas cathedras in synagogis, et salutationes in foro.	2020-04-18	Evangelium_secundum_Lucam
+1100000622	vae vobis, quia estis ut monumenta, quae non apparent, et homines ambulantes supra, nesciunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000623	respondens autem quidam ex legisperitis, ait illi: magister, haec dicens etiam contumeliam nobis facis.	2020-04-18	Evangelium_secundum_Lucam
+1100000624	at ille ait: et vobis legisperitis vae: quia oneratis homines oneribus, quae portare non possunt, et ipsi uno digito vestro non tangitis sarcinas.	2020-04-18	Evangelium_secundum_Lucam
+1100000625	vae vobis, qui aedificatis monumenta prophetarum: patres autem vestri occiderunt illos.	2020-04-18	Evangelium_secundum_Lucam
+1100000626	profecto testificamini quod consentitis operibus patrum vestrorum: quoniam ipsi quidem eos occiderunt, vos autem aedificatis eorum sepulchra.	2020-04-18	Evangelium_secundum_Lucam
+1100000627	propterea et sapientia dei dixit: mittam ad illos prophetas, et apostolos, et ex illis occident, et persequentur:ut inquiratur sanguis omnium prophetarum, qui effusus est a constitutione mundi a generatione ista,a sanguine abel, usque ad sanguinem zachariae, qui periit inter altare et aedem. 	2020-04-18	Evangelium_secundum_Lucam
+1100000628	ita dico vobis, requiretur ab hac generatione.	2020-04-18	Evangelium_secundum_Lucam
+1100000629	vae vobis, legisperitis, quia tulistis clavem scientiae: ipsi non introistis, et eos qui introibant, prohibuistis.	2020-04-18	Evangelium_secundum_Lucam
+1100000630	cum autem haec ad illos diceret, coeperunt pharisaei et legisperiti graviter insistere, et os eius opprimere de multis,insidiantes ei, et quaerentes aliquid capere de ore eius, ut accusarent eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000631	caput 12	2020-04-18	Evangelium_secundum_Lucam
+1100000632	multis autem turbis circumstantibus, ita ut se invicem conculcarent, coepit dicere ad discipulos suos: attendite a fermento pharisaeorum, quod est hypocrisis.	2020-04-18	Evangelium_secundum_Lucam
+1100000633	nihil autem opertum est, quod non reveletur: neque absconditum, quod non sciatur.	2020-04-18	Evangelium_secundum_Lucam
+1100000634	quoniam quae in tenebris dixistis, in lumine dicentur: et quod in aurem locuti estis in cubiculis, praedicabitur in tectis.	2020-04-18	Evangelium_secundum_Lucam
+1100000635	dico autem vobis amicis meis: ne terreamini ab his qui occidunt corpus, et post haec non habent amplius quid faciant.	2020-04-18	Evangelium_secundum_Lucam
+1100000636	ostendam autem vobis quem timeatis: timete eum qui, postquam occiderit, habet potestatem mittere in gehennam: ita dico vobis, hunc timete.	2020-04-18	Evangelium_secundum_Lucam
+1100000637	nonne quinque passeres veneunt dipondio, et unus ex illis non est in oblivione coram deo?	2020-04-18	Evangelium_secundum_Lucam
+1100000638	sed et capilli capitis vestri omnes numerati sunt. 	2020-04-18	Evangelium_secundum_Lucam
+1100000639	nolite ergo timere: multis passeribus pluris estis vos.	2020-04-18	Evangelium_secundum_Lucam
+1100000640	dico autem vobis: omnis quicumque confessus fuerit me coram hominibus, et filius hominis confitebitur illum coram angelis dei:qui autem negaverit me coram hominibus, negabitur coram angelis dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000641	et omnis qui dicit verbum in filium hominis, remittetur illi: ei autem qui in spiritum sanctum blasphemaverit, non remittetur.	2020-04-18	Evangelium_secundum_Lucam
+1100000642	cum autem inducent vos in synagogas, et ad magistratus, et potestates, nolite solliciti esse qualiter, aut quid respondeatis, aut quid dicatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000643	spiritus enim sanctus docebit vos in ipsa hora quid oporteat vos dicere.	2020-04-18	Evangelium_secundum_Lucam
+1100000644	ait autem ei quidam de turba: magister, dic fratri meo ut dividat mecum haereditatem.	2020-04-18	Evangelium_secundum_Lucam
+1100000645	at ille dixit illi: homo, quis me constituit iudicem, aut divisorem super vos?	2020-04-18	Evangelium_secundum_Lucam
+1100000646	dixitque ad illos: videte, et cavete ab omni avaritia: quia non in abundantia cuiusquam vita eius est ex his quae possidet.	2020-04-18	Evangelium_secundum_Lucam
+1100000647	dixit autem similitudinem ad illos, dicens: hominis cuiusdam divitis uberes fructus ager attulit:et cogitabat intra se dicens: quid faciam, quia non habeo quo congregem fructus meos?	2020-04-18	Evangelium_secundum_Lucam
+1100000648	et dixit: hoc faciam: destruam horrea mea, et maiora faciam: et illuc congregabo omnia quae nata sunt mihi, et bona mea,et dicam animae meae: anima, habes multa bona posita in annos plurimos: requiesce, comede, bibe, epulare.	2020-04-18	Evangelium_secundum_Lucam
+1100000649	dixit autem illi deus: stulte, hac nocte animam tuam repetunt a te: quae autem parasti, cuius erunt?	2020-04-18	Evangelium_secundum_Lucam
+1100000650	sic est qui sibi thesaurizat, et non est in deum dives.	2020-04-18	Evangelium_secundum_Lucam
+1100000651	dixitque ad discipulos suos: ideo dico vobis, nolite solliciti esse animae vestrae quid manducetis, neque corpori quid induamini.	2020-04-18	Evangelium_secundum_Lucam
+1100000652	anima plus est quam esca, et corpus plus quam vestimentum.	2020-04-18	Evangelium_secundum_Lucam
+1100000653	considerate corvos, quia non seminant, neque metunt, quibus non est cellarium, neque horreum, et deus pascit illos. 	2020-04-18	Evangelium_secundum_Lucam
+1100000654	quanto magis vos pluris estis illis?	2020-04-18	Evangelium_secundum_Lucam
+1100000655	quis autem vestrum cogitando potest adiicere ad staturam suam cubitum unum?	2020-04-18	Evangelium_secundum_Lucam
+1100000656	si ergo neque quod minimum est potestis, quid de ceteris solliciti estis?	2020-04-18	Evangelium_secundum_Lucam
+1100000657	considerate lilia quomodo crescunt: non laborant, neque nent: dico autem vobis, nec salomon in omni gloria sua vestiebatur sicut unum ex istis.	2020-04-18	Evangelium_secundum_Lucam
+1100000658	si autem foenum, quod hodie est in agro, et cras in clibanum mittitur, deus sic vestit: quanto magis vos pusillae fidei?	2020-04-18	Evangelium_secundum_Lucam
+1100000659	et vos nolite quaerere quid manducetis, aut quid bibatis: et nolite in sublime tolli:haec enim omnia gentes mundi quaerunt. 	2020-04-18	Evangelium_secundum_Lucam
+1100000660	pater autem vester scit quoniam his indigetis.	2020-04-18	Evangelium_secundum_Lucam
+1100000661	verumtamen quaerite primum regnum dei, et iustitiam eius: et haec omnia adiicientur vobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000662	nolite timere pusillus grex, quia complacuit patri vestro dare vobis regnum.	2020-04-18	Evangelium_secundum_Lucam
+1100000663	vendite quae possidetis, et date eleemosynam. 	2020-04-18	Evangelium_secundum_Lucam
+1100000664	facite vobis sacculos, qui non veterascunt, thesaurum non deficientem in caelis: quo fur non appropriat, neque tinea corrumpit.	2020-04-18	Evangelium_secundum_Lucam
+1100000665	ubi enim thesaurus vester est, ibi et cor vestrum erit.	2020-04-18	Evangelium_secundum_Lucam
+1100000666	sint lumbi vestri praecincti, et lucernae ardentes in manibus vestris,et vos similes hominibus exspectantibus dominum suum quando revertatur a nuptiis: ut, cum venerit et pulsaverit, confestim aperiant ei.	2020-04-18	Evangelium_secundum_Lucam
+1100000667	beati servi illi quos, cum venerit dominus, invenerit vigilantes: amen dico vobis, quod praecinget se, et faciet illos discumbere, et transiens ministrabit illis.	2020-04-18	Evangelium_secundum_Lucam
+1100000668	et si venerit in secunda vigilia, et si in tertia vigilia venerit, et ita invenerit, beati sunt servi illi.	2020-04-18	Evangelium_secundum_Lucam
+1100000669	hoc autem scitote, quoniam si sciret paterfamilias, qua hora fur veniret, vigilaret utique, et non sineret perfodi domum suam.	2020-04-18	Evangelium_secundum_Lucam
+1100000670	et vos estote parati: quia qua hora non putatis, filius hominis veniet.	2020-04-18	Evangelium_secundum_Lucam
+1100000671	ait autem ei petrus: domine, ad nos dicis hanc parabolam, an et ad omnes?	2020-04-18	Evangelium_secundum_Lucam
+1100000672	dixit autem dominus: quis, putas, est fidelis dispensator, et prudens, quem constituit dominus supra familiam suam, ut det illis in tempore tritici mensuram?	2020-04-18	Evangelium_secundum_Lucam
+1100000673	beatus ille servus quem, cum venerit dominus, invenerit ita facientem.	2020-04-18	Evangelium_secundum_Lucam
+1100000674	vere dico vobis, quoniam supra omnia quae possidet, constituet illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000675	quod si dixerit servus ille in corde suo: moram facit dominus meus venire: et coeperit percutere servos, et ancillas, et edere, et bibere, et inebriari:veniet dominus servi illius in die qua non sperat, et hora qua nescit, et dividet eum, partemque eius cum infidelibus ponet.	2020-04-18	Evangelium_secundum_Lucam
+1100000676	ille autem servus qui cognovit voluntatem domini sui, et non praeparavit, et non facit secundum voluntatem eius, vapulabit multis:qui autem non cognovit, et fecit digna plagis, vapulabit paucis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000677	omni autem cui multum datum est, multum quaeretur ab eo: et cui commendaverunt multum, plus petent ab eo.	2020-04-18	Evangelium_secundum_Lucam
+1100000678	ignem veni mittere in terram, et quid volo nisi ut accendatur?	2020-04-18	Evangelium_secundum_Lucam
+1100000679	baptismo autem habeo baptizari: et quomodo coarctor usque dum perficiatur?	2020-04-18	Evangelium_secundum_Lucam
+1100000680	putatis quia pacem veni dare in terram? 	2020-04-18	Evangelium_secundum_Lucam
+1100000681	non, dico vobis, sed separationem:erunt enim ex hoc quinque in domo una divisi, tres in duos, et duo in tresdividentur: pater in filium, et filius in patrem suum, mater in filiam, et filia in matrem, socrus in nurum suam, et nurus in socrum suam.	2020-04-18	Evangelium_secundum_Lucam
+1100000682	dicebat autem et ad turbas: cum videritis nubem orientem ab occasu, statim dicitis: nimbus venit: et ita fit.	2020-04-18	Evangelium_secundum_Lucam
+1100000683	et cum austrum flantem, dicitis: quia aestus erit: et fit.	2020-04-18	Evangelium_secundum_Lucam
+1100000684	hypocritae! 	2020-04-18	Evangelium_secundum_Lucam
+1100000685	faciem caeli et terrae nostis probare: hoc autem tempus quomodo non probatis?	2020-04-18	Evangelium_secundum_Lucam
+1100000686	quid autem et a vobis ipsis non iudicatis quod iustum est?	2020-04-18	Evangelium_secundum_Lucam
+1100000687	cum autem vadis cum adversario tuo ad principem, in via da operam liberari ab illo, ne forte trahat te ad iudicem, et iudex tradat te exactori, et exactor mittat te in carcerem.	2020-04-18	Evangelium_secundum_Lucam
+1100000688	dico tibi, non exies inde, donec etiam novissimum minutum reddas.	2020-04-18	Evangelium_secundum_Lucam
+1100000689	caput 13	2020-04-18	Evangelium_secundum_Lucam
+1100000690	aderant autem quidam ipso in tempore, nuntiantes illi de galilaeis, quorum sanguinem pilatus miscuit cum sacrificiis eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000691	et respondens dixit illis: putatis quod hi galilaei prae omnibus galilaeis peccatores fuerint, quia talia passi sunt?	2020-04-18	Evangelium_secundum_Lucam
+1100000692	non, dico vobis: sed nisi poenitentiam habueritis, omnes similiter peribitis.	2020-04-18	Evangelium_secundum_Lucam
+1100000693	sicut illi decem et octo, supra quos cecidit turris in siloe, et occidit eos: putatis quia et ipsi debitores fuerint praeter omnes homines habitantes in ierusalem?	2020-04-18	Evangelium_secundum_Lucam
+1100000694	non, dico vobis: sed si poenitentiam non egeritis, omnes similiter peribitis.	2020-04-18	Evangelium_secundum_Lucam
+1100000695	dicebat autem et hanc similitudinem: arborem fici habebat quidam plantatam in vinea sua, et venit quaerens fructum in illa, et non invenit.	2020-04-18	Evangelium_secundum_Lucam
+1100000696	dixit autem ad cultorem vineae: ecce anni tres sunt ex quo venio quaerens fructum in ficulnea hac, et non invenio: succide ergo illam: ut quid etiam terram occupat?	2020-04-18	Evangelium_secundum_Lucam
+1100000697	at ille respondens, dicit illi: domine dimitte illam et hoc anno, usque dum fodiam circa illam, et mittam stercora,et siquidem fecerit fructum: sin autem, in futurum succides eam.	2020-04-18	Evangelium_secundum_Lucam
+1100000698	erat autem docens in synagoga eorum sabbatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000699	et ecce mulier, quae habebat spiritum infirmitatis annis decem et octo: et erat inclinata, nec omnino poterat sursum respicere.	2020-04-18	Evangelium_secundum_Lucam
+1100000700	quam cum videret iesus, vocavit eam ad se, et ait illi: mulier, dimissa es ab infirmitate tua.	2020-04-18	Evangelium_secundum_Lucam
+1100000701	et imposuit illi manus, et confestim erecta est, et glorificabat deum.	2020-04-18	Evangelium_secundum_Lucam
+1100000702	respondens autem archisynagogus, indignans quia sabbato curasset iesus, dicebat turbae: sex dies sunt in quibus oportet operari: in his ergo venite, et curamini, et non in die sabbati.	2020-04-18	Evangelium_secundum_Lucam
+1100000703	respondens autem ad illum dominus, dixit: hypocritae, unusquisque vestrum sabbato non solvit bovem suum, aut asinum a praesepio, et ducit adaquare?	2020-04-18	Evangelium_secundum_Lucam
+1100000704	hanc autem filiam abrahae, quam alligavit satanas, ecce decem et octo annis, non oportuit solvi a vinculo isto die sabbati?	2020-04-18	Evangelium_secundum_Lucam
+1100000705	et cum haec diceret, erubescebant omnes adversarii eius: et omnis populus gaudebat in universis, quae gloriose fiebant ab eo.	2020-04-18	Evangelium_secundum_Lucam
+1100000706	dicebat ergo: cui simile est regnum dei, et cui simile aestimabo illud?	2020-04-18	Evangelium_secundum_Lucam
+1100000707	simile est grano sinapis, quod acceptum homo misit in hortum suum, et crevit, et factum est in arborem magnam: et volucres caeli requieverunt in ramis eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000708	et iterum dixit: cui simile aestimabo regnum dei?	2020-04-18	Evangelium_secundum_Lucam
+1100000709	simile est fermento, quod acceptum mulier abscondit in farinae sata tria, donec fermentaretur totum.	2020-04-18	Evangelium_secundum_Lucam
+1100000710	et ibat per civitates et castella, docens, et iter faciens in ierusalem.	2020-04-18	Evangelium_secundum_Lucam
+1100000711	ait autem illi quidam: domine, si pauci sunt, qui salvantur? 	2020-04-18	Evangelium_secundum_Lucam
+1100000712	ipse autem dixit ad illos:contendite intrare per angustam portam: quia multi, dico vobis, quaerent intrare, et non poterunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000713	cum autem intraverit paterfamilias, et clauserit ostium, incipietis foris stare, et pulsare ostium, dicentes: domine, aperi nobis: et respondens dicet vobis: nescio vos unde sitis:tunc incipietis dicere: manducavimus coram te, et bibimus, et in plateis nostris docuisti.	2020-04-18	Evangelium_secundum_Lucam
+1100000714	et dicet vobis: nescio vos unde sitis: discedite a me omnes operarii iniquitatis.	2020-04-18	Evangelium_secundum_Lucam
+1100000715	ibi erit fletus et stridor dentium: cum videritis abraham, et isaac, et iacob, et omnes prophetas in regno dei, vos autem expelli foras.	2020-04-18	Evangelium_secundum_Lucam
+1100000716	et venient ab oriente, et occidente, et aquilone, et austro, et accumbent in regno dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000717	et ecce sunt novissimi qui erunt primi, et sunt primi qui erunt novissimi.	2020-04-18	Evangelium_secundum_Lucam
+1100000718	in ipsa die accesserunt quidam pharisaeorum, dicentes illi: exi, et vade hinc: quia herodes vult te occidere.	2020-04-18	Evangelium_secundum_Lucam
+1100000719	et ait illis: ite, et dicite vulpi illi: ecce eiicio daemonia, et sanitates perficio hodie, et cras, et tertia die consummor.	2020-04-18	Evangelium_secundum_Lucam
+1100000720	verumtamen oportet me hodie et cras et sequenti die ambulare: quia non capit prophetam perire extra ierusalem.	2020-04-18	Evangelium_secundum_Lucam
+1100000721	ierusalem, ierusalem, quae occidis prophetas, et lapidas eos qui mittuntur ad te, quoties volui congregare filios tuos quemadmodum avis nidum suum sub pennis, et noluisti?	2020-04-18	Evangelium_secundum_Lucam
+1100000722	ecce relinquetur vobis domus vestra deserta. 	2020-04-18	Evangelium_secundum_Lucam
+1100000723	dico autem vobis, quia non videbitis me donec veniat cum dicetis: benedictus qui venit in nomine domini.	2020-04-18	Evangelium_secundum_Lucam
+1100000724	caput 14	2020-04-18	Evangelium_secundum_Lucam
+1100000725	et factum est cum intraret iesus in domum cuiusdam principis pharisaeorum sabbato manducare panem, et ipsi observabant eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000726	et ecce homo quidam hydropicus erat ante illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000727	et respondens iesus dixit ad legisperitos et pharisaeos, dicens: si licet sabbato curare?	2020-04-18	Evangelium_secundum_Lucam
+1100000728	at illi tacuerunt. 	2020-04-18	Evangelium_secundum_Lucam
+1100000729	ipse vero apprehensum sanavit eum, ac dimisit.	2020-04-18	Evangelium_secundum_Lucam
+1100000730	et respondens ad illos dixit: cuius vestrum asinus, aut bos in puteum cadet, et non continuo extrahet illum die sabbati?	2020-04-18	Evangelium_secundum_Lucam
+1100000731	et non poterant ad haec respondere illi.	2020-04-18	Evangelium_secundum_Lucam
+1100000732	dicebat autem et ad invitatos parabolam, intendens quomodo primos accubitus eligerent, dicens ad illos:cum invitatus fueris ad nuptias, non discumbas in primo loco, ne forte honoratior te sit invitatus ab illo.	2020-04-18	Evangelium_secundum_Lucam
+1100000733	et veniens is, qui te et illum vocavit, dicat tibi: da huic locum: et tunc incipias cum rubore novissimum locum tenere.	2020-04-18	Evangelium_secundum_Lucam
+1100000734	sed cum vocatus fueris, vade, recumbe in novissimo loco: ut, cum venerit qui te invitavit, dicat tibi: amice, ascende superius. 	2020-04-18	Evangelium_secundum_Lucam
+1100000735	tunc erit tibi gloria coram simul discumbentibus:quia omnis, qui se exaltat, humiliabitur: et qui se humiliat, exaltabitur.	2020-04-18	Evangelium_secundum_Lucam
+1100000736	dicebat autem et ei, qui invitaverat: cum facis prandium, aut coenam, noli vocare amicos tuos, neque fratres tuos, neque cognatos, neque vicinos divites: ne forte te et ipsi reinvitent, et fiat tibi retributio;sed cum facis convivium, voca pauperes, debiles, claudos, et caecos:et beatus eris, quia non habent retribuere tibi: retribuetur enim tibi in resurrectione iustorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000737	haec cum audisset quidam de simul discumbentibus, dixit illi: beatus qui manducabit panem in regno dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000738	at ipse dixit ei: homo quidam fecit coenam magnam, et vocavit multos.	2020-04-18	Evangelium_secundum_Lucam
+1100000739	et misit servum suum hora coenae dicere invitatis ut venirent, quia iam parata sunt omnia.	2020-04-18	Evangelium_secundum_Lucam
+1100000740	et coeperunt simul omnes excusare. 	2020-04-18	Evangelium_secundum_Lucam
+1100000741	primus dixit ei: villam emi, et necesse habeo exire, et videre illam: rogo te, habe me excusatum.	2020-04-18	Evangelium_secundum_Lucam
+1100000742	et alter dixit: iuga boum emi quinque, et eo probare illa: rogo te, habe me excusatum.	2020-04-18	Evangelium_secundum_Lucam
+1100000743	et alius dixit: uxorem duxi, et ideo non possum venire.	2020-04-18	Evangelium_secundum_Lucam
+1100000744	et reversus servus nuntiavit haec domino suo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000745	tunc iratus paterfamilias, dixit servo suo: exi cito in plateas et vicos civitatis: et pauperes, ac debiles, et caecos, et claudos introduc huc.	2020-04-18	Evangelium_secundum_Lucam
+1100000746	et ait servus: domine, factum est ut imperasti, et adhuc locus est.	2020-04-18	Evangelium_secundum_Lucam
+1100000747	et ait dominus servo: exi in vias, et saepes: et compelle intrare, ut impleatur domus mea.	2020-04-18	Evangelium_secundum_Lucam
+1100000748	dico autem vobis quod nemo virorum illorum qui vocati sunt, gustabit coenam meam.	2020-04-18	Evangelium_secundum_Lucam
+1100000749	ibant autem turbae multae cum eo: et conversus dixit ad illos:si quis venit ad me, et non odit patrem suum, et matrem, et uxorem, et filios, et fratres, et sorores, adhuc autem et animam suam, non potest meus esse discipulus.	2020-04-18	Evangelium_secundum_Lucam
+1100000750	et qui non baiulat crucem suam, et venit post me, non potest meus esse discipulus.	2020-04-18	Evangelium_secundum_Lucam
+1100000751	quis enim ex vobis volens turrim aedificare, non prius sedens computat sumptus, qui necessarii sunt, si habeat ad perficiendum,ne, posteaquam posuerit fundamentum, et non potuerit perficere, omnes qui vident, incipiant illudere ei,dicentes: quia hic homo coepit aedificare, et non potuit consummare?	2020-04-18	Evangelium_secundum_Lucam
+1100000752	aut quis rex iturus committere bellum adversus alium regem, non sedens prius cogitat, si possit cum decem millibus occurrere ei, qui cum viginti millibus venit ad se?	2020-04-18	Evangelium_secundum_Lucam
+1100000753	alioquin adhuc illo longe agente, legationem mittens rogat ea quae pacis sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000754	sic ergo omnis ex vobis, qui non renuntiat omnibus quae possidet, non potest meus esse discipulus.	2020-04-18	Evangelium_secundum_Lucam
+1100000755	bonum est sal: si autem sal evanuerit, in quo condietur?	2020-04-18	Evangelium_secundum_Lucam
+1100000756	neque in terram, neque in sterquilinium utile est, sed foras mittetur. 	2020-04-18	Evangelium_secundum_Lucam
+1100000757	qui habet aures audiendi, audiat.	2020-04-18	Evangelium_secundum_Lucam
+1100000758	caput 15	2020-04-18	Evangelium_secundum_Lucam
+1100000759	erant autem appropinquantes ei publicani, et peccatores ut audirent illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000760	et murmurabant pharisaei, et scribae, dicentes: quia hic peccatores recipit, et manducat cum illis.	2020-04-18	Evangelium_secundum_Lucam
+1100000761	et ait ad illos parabolam istam dicens:quis ex vobis homo, qui habet centum oves, et si perdiderit unam ex illis, nonne dimittit nonaginta novem in deserto, et vadit ad illam quae perierat, donec inveniat eam?	2020-04-18	Evangelium_secundum_Lucam
+1100000762	et cum invenerit eam, imponit in humeros suos gaudens:et veniens domum convocat amicos et vicinos, dicens illis: congratulamini mihi, quia inveni ovem meam, quae perierat.	2020-04-18	Evangelium_secundum_Lucam
+1100000763	dico vobis quod ita gaudium erit in caelo super uno peccatore poenitentiam agente, quam super nonaginta novem iustis, qui non indigent poenitentia.	2020-04-18	Evangelium_secundum_Lucam
+1100000764	aut quae mulier habens drachmas decem, si perdiderit drachmam unam, nonne accendit lucernam, et everrit domum, et quaerit diligenter, donec inveniat?	2020-04-18	Evangelium_secundum_Lucam
+1100000765	et cum invenerit convocat amicas et vicinas, dicens: congratulamini mihi, quia inveni drachmam quam perdideram.	2020-04-18	Evangelium_secundum_Lucam
+1100000766	ita, dico vobis, gaudium erit coram angelis dei super uno peccatore poenitentiam agente.	2020-04-18	Evangelium_secundum_Lucam
+1100000767	ait autem: homo quidam habuit duos filios:et dixit adolescentior ex illis patri: pater, da mihi portionem substantiae, quae me contingit. 	2020-04-18	Evangelium_secundum_Lucam
+1100000768	et divisit illis substantiam.	2020-04-18	Evangelium_secundum_Lucam
+1100000769	et non post multos dies, congregatis omnibus, adolescentior filius peregre profectus est in regionem longinquam, et ibi dissipavit substantiam suam vivendo luxuriose.	2020-04-18	Evangelium_secundum_Lucam
+1100000770	et postquam omnia consummasset, facta est fames valida in regione illa, et ipse coepit egere.	2020-04-18	Evangelium_secundum_Lucam
+1100000771	et abiit, et adhaesit uni civium regionis illius: et misit illum in villam suam ut pasceret porcos.	2020-04-18	Evangelium_secundum_Lucam
+1100000772	et cupiebat implere ventrem suum de siliquis, quas porci manducabant: et nemo illi dabat.	2020-04-18	Evangelium_secundum_Lucam
+1100000773	in se autem reversus, dixit: quanti mercenarii in domo patris mei abundant panibus, ego autem hic fame pereo!	2020-04-18	Evangelium_secundum_Lucam
+1100000774	surgam, et ibo ad patrem meum, et dicam ei: pater, peccavi in caelum, et coram te:iam non sum dignus vocari filius tuus: fac me sicut unum de mercenariis tuis.	2020-04-18	Evangelium_secundum_Lucam
+1100000775	et surgens venit ad patrem suum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000776	cum autem adhuc longe esset, vidit illum pater ipsius, et misericordia motus est, et accurrens cecidit super collum eius, et osculatus est eum.	2020-04-18	Evangelium_secundum_Lucam
+1100000777	dixitque ei filius: pater, peccavi in caelum, et coram te: iam non sum dignus vocari filius tuus.	2020-04-18	Evangelium_secundum_Lucam
+1100000778	dixit autem pater ad servos suos: cito proferte stolam primam, et induite illum, et date annulum in manum eius, et calceamenta in pedes eius:et adducite vitulum saginatum, et occidite, et manducemus, et epulemur:quia hic filius meus mortuus erat, et revixit: perierat, et inventus est. 	2020-04-18	Evangelium_secundum_Lucam
+1100000779	et coeperunt epulari.	2020-04-18	Evangelium_secundum_Lucam
+1100000780	erat autem filius eius senior in agro: et cum veniret, et appropinquaret domui, audivit symphoniam et chorum:et vocavit unum de servis, et interrogavit quid haec essent.	2020-04-18	Evangelium_secundum_Lucam
+1100000781	isque dixit illi: frater tuus venit, et occidit pater tuus vitulum saginatum, quia salvum illum recepit.	2020-04-18	Evangelium_secundum_Lucam
+1100000782	indignatus est autem, et nolebat introire. 	2020-04-18	Evangelium_secundum_Lucam
+1100000783	pater ergo illius egressus, coepit rogare illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000784	at ille respondens, dixit patri suo: ecce tot annis servio tibi, et numquam mandatum tuum praeterivi: et numquam dedisti mihi haedum ut cum amicis meis epularer.	2020-04-18	Evangelium_secundum_Lucam
+1100000785	sed postquam filius tuus hic, qui devoravit substantiam suam cum meretricibus, venit, occidisti illi vitulum saginatum.	2020-04-18	Evangelium_secundum_Lucam
+1100000786	at ipse dixit illi: fili, tu semper mecum es, et omnia mea tua sunt:epulari autem, et gaudere oportebat, quia frater tuus hic mortuus erat, et revixit; perierat, et inventus est.	2020-04-18	Evangelium_secundum_Lucam
+1100000787	caput 16	2020-04-18	Evangelium_secundum_Lucam
+1100000788	dicebat autem et ad discipulos suos: homo quidam erat dives, qui habebat villicum: et hic diffamatus est apud illum quasi dissipasset bona ipsius.	2020-04-18	Evangelium_secundum_Lucam
+1100000789	et vocavit illum, et ait illi: quid hoc audio de te? 	2020-04-18	Evangelium_secundum_Lucam
+1100000790	redde rationem villicationis tuae: iam enim non poteris villicare.	2020-04-18	Evangelium_secundum_Lucam
+1100000791	ait autem villicus intra se: quid faciam, quia dominus meus aufert a me villicationem? 	2020-04-18	Evangelium_secundum_Lucam
+1100000792	fodere non valeo, mendicare erubesco.	2020-04-18	Evangelium_secundum_Lucam
+1100000793	scio quid faciam, ut, cum amotus fuero a villicatione, recipiant me in domos suas.	2020-04-18	Evangelium_secundum_Lucam
+1100000794	convocatis itaque singulis debitoribus domini sui, dicebat primo: quantum debes domino meo?	2020-04-18	Evangelium_secundum_Lucam
+1100000795	at ille dixit: centum cados olei. 	2020-04-18	Evangelium_secundum_Lucam
+1100000796	dixitque illi: accipe cautionem tuam: et sede cito, scribe quinquaginta.	2020-04-18	Evangelium_secundum_Lucam
+1100000797	deinde alii dixit: tu vero quantum debes? 	2020-04-18	Evangelium_secundum_Lucam
+1100000798	qui ait: centum coros tritici. 	2020-04-18	Evangelium_secundum_Lucam
+1100000799	ait illi: accipe litteras tuas, et scribe octoginta.	2020-04-18	Evangelium_secundum_Lucam
+1100000800	et laudavit dominus villicum iniquitatis, quia prudenter fecisset: quia filii huius saeculi prudentiores filiis lucis in generatione sua sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000801	et ego vobis dico: facite vobis amicos de mammona iniquitatis: ut, cum defeceritis, recipiant vos in aeterna tabernacula.	2020-04-18	Evangelium_secundum_Lucam
+1100000802	qui fidelis est in minimo, et in maiori fidelis est: et qui in modico iniquus est, et in maiori iniquus est.	2020-04-18	Evangelium_secundum_Lucam
+1100000803	si ergo in iniquo mammona fideles non fuistis quod verum est, quis credet vobis?	2020-04-18	Evangelium_secundum_Lucam
+1100000804	et si in alieno fideles non fuistis, quod vestrum est, quis dabit vobis?	2020-04-18	Evangelium_secundum_Lucam
+1100000805	nemo servus potest duobus dominis servire: aut enim unum odiet, et alterum diliget: aut uni adhaerebit, et alterum contemnet. 	2020-04-18	Evangelium_secundum_Lucam
+1100000806	non potestis deo servire et mammonae.	2020-04-18	Evangelium_secundum_Lucam
+1100000807	audiebant autem omnia haec pharisaei, qui erant avari: et deridebant illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000808	et ait illis: vos estis qui iustificatis vos coram hominibus: deus autem novit corda vestra: quia quod hominibus altum est, abominatio est ante deum.	2020-04-18	Evangelium_secundum_Lucam
+1100000809	lex et prophetae usque ad ioannem: ex eo regnum dei evangelizatur, et omnis in illud vim facit.	2020-04-18	Evangelium_secundum_Lucam
+1100000810	facilius est autem caelum et terram praeterire, quam de lege unum apicem cadere.	2020-04-18	Evangelium_secundum_Lucam
+1100000811	omnis qui dimittit uxorem suam et alteram ducit, moechatur: et qui dimissam a viro ducit, moechatur.	2020-04-18	Evangelium_secundum_Lucam
+1100000812	homo quidam erat dives, qui induebatur purpura et bysso, et epulabatur quotidie splendide.	2020-04-18	Evangelium_secundum_Lucam
+1100000813	et erat quidam mendicus, nomine lazarus, qui iacebat ad ianuam eius, ulceribus plenus,cupiens saturari de micis quae cadebant de mensa divitis, et nemo illi dabat: sed et canes veniebant, et lingebant ulcera eius.	2020-04-18	Evangelium_secundum_Lucam
+1100000814	factum est autem ut moreretur mendicus, et portaretur ab angelis in sinum abrahae. 	2020-04-18	Evangelium_secundum_Lucam
+1100000815	mortuus est autem et dives, et sepultus est in inferno.	2020-04-18	Evangelium_secundum_Lucam
+1100000816	elevans autem oculos suos, cum esset in tormentis, vidit abraham a longe, et lazarum in sinu eius:et ipse clamans dixit: pater abraham, miserere mei, et mitte lazarum ut intingat extremum digiti sui in aquam, ut refrigeret linguam meam, quia crucior in hac flamma.	2020-04-18	Evangelium_secundum_Lucam
+1100000817	et dixit illi abraham: fili, recordare quia recepisti bona in vita tua, et lazarus similiter mala: nunc autem hic consolatur, tu vero cruciaris:et in his omnibus inter nos et vos chaos magnum firmatum est: ut hi qui volunt hinc transire ad vos, non possint, neque inde huc transmeare.	2020-04-18	Evangelium_secundum_Lucam
+1100000818	et ait: rogo ergo te, pater, ut mittas eum in domum patris mei:habeo enim quinque fratres: ut testetur illis, ne et ipsi veniant in hunc locum tormentorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000819	et ait illi abraham: habent moysen et prophetas: audiant illos.	2020-04-18	Evangelium_secundum_Lucam
+1100000820	at ille dixit: non, pater abraham: sed si quis ex mortuis ierit ad eos, poenitentiam agent.	2020-04-18	Evangelium_secundum_Lucam
+1100000821	ait autem illi: si moysen et prophetas non audiunt, neque si quis ex mortuis resurrexerit, credent.	2020-04-18	Evangelium_secundum_Lucam
+1100000822	caput 17	2020-04-18	Evangelium_secundum_Lucam
+1100000823	et ait ad discipulos suos: impossibile est ut non veniant scandala: vae autem illi per quem veniunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000824	utilius est illi si lapis molaris imponatur circa collum eius, et proiiciatur in mare quam ut scandalizet unum de pusillis istis.	2020-04-18	Evangelium_secundum_Lucam
+1100000825	attendite vobis: si peccaverit in te frater tuus, increpa illum: et si poenitentiam egerit, dimitte illi.	2020-04-18	Evangelium_secundum_Lucam
+1100000826	et si septies in die peccaverit in te, et septies in die conversus fuerit ad te, dicens: poenitet me, dimitte illi.	2020-04-18	Evangelium_secundum_Lucam
+1100000827	et dixerunt apostoli domino: adauge nobis fidem.	2020-04-18	Evangelium_secundum_Lucam
+1100000828	dixit autem dominus: si habueritis fidem sicut granum sinapis, dicetis huic arbori moro: eradicare, et transplantare in mare, et obediet vobis.	2020-04-18	Evangelium_secundum_Lucam
+1100000829	quis autem vestrum habens servum arantem aut pascentem, qui regresso de agro dicat illi: statim transi, recumbe:et non dicat ei: para quod coenem, et praecinge te, et ministra mihi donec manducem, et bibam, et post haec tu manducabis, et bibes?	2020-04-18	Evangelium_secundum_Lucam
+1100000830	numquid gratiam habet servo illi, quia fecit quae ei imperaverat?	2020-04-18	Evangelium_secundum_Lucam
+1100000831	non puto. 	2020-04-18	Evangelium_secundum_Lucam
+1100000832	sic et vos cum feceritis omnia quae praecepta sunt vobis, dicite: servi inutiles sumus: quod debuimus facere, fecimus.	2020-04-18	Evangelium_secundum_Lucam
+1100000833	et factum est, dum iret in ierusalem, transibat per mediam samariam et galilaeam.	2020-04-18	Evangelium_secundum_Lucam
+1100000834	et cum ingrederetur quoddam castellum, occurrerunt ei decem viri leprosi, qui steterunt a longe:et levaverunt vocem, dicentes: iesu praeceptor, miserere nostri.	2020-04-18	Evangelium_secundum_Lucam
+1100000835	quos ut vidit, dixit: ite, ostendite vos sacerdotibus. 	2020-04-18	Evangelium_secundum_Lucam
+1100000836	et factum est, dum irent, mundati sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000837	unus autem ex illis, ut vidit quia mundatus est, regressus est, cum magna voce magnificans deum,et cecidit in faciem ante pedes eius, gratias agens: et hic erat samaritanus.	2020-04-18	Evangelium_secundum_Lucam
+1100000838	respondens autem iesus, dixit: nonne decem mundati sunt? 	2020-04-18	Evangelium_secundum_Lucam
+1100000839	et novem ubi sunt?	2020-04-18	Evangelium_secundum_Lucam
+1100000840	non est inventus qui rediret, et daret gloriam deo, nisi hic alienigena.	2020-04-18	Evangelium_secundum_Lucam
+1100000841	et ait illi: surge, vade: quia fides tua te salvum fecit.	2020-04-18	Evangelium_secundum_Lucam
+1100000842	interrogatus autem a pharisaeis: quando venit regnum dei? 	2020-04-18	Evangelium_secundum_Lucam
+1100000843	respondens eis, dixit: non venit regnum dei cum observatione:neque dicent: ecce hic, aut ecce illic. 	2020-04-18	Evangelium_secundum_Lucam
+1100000844	ecce enim regnum dei intra vos est.	2020-04-18	Evangelium_secundum_Lucam
+1100000845	et ait ad discipulos suos: venient dies quando desideretis videre unum diem filii hominis, et non videbitis.	2020-04-18	Evangelium_secundum_Lucam
+1100000846	et dicent vobis: ecce hic, et ecce illic. 	2020-04-18	Evangelium_secundum_Lucam
+1100000847	nolite ire, neque sectemini:nam, sicut fulgur coruscans de sub caelo in ea quae sub caelo sunt, fulget: ita erit filius hominis in die sua.	2020-04-18	Evangelium_secundum_Lucam
+1100000848	primum autem oportet illum multa pati, et reprobari a generatione hac.	2020-04-18	Evangelium_secundum_Lucam
+1100000849	et sicut factum est in diebus noe, ita erit et in diebus filii hominis:edebant et bibebant: uxores ducebant et dabantur ad nuptias, usque in diem, qua intravit noe in arcam: et venit diluvium, et perdidit omnes.	2020-04-18	Evangelium_secundum_Lucam
+1100000850	similiter sicut factum est in diebus lot: edebant et bibebant, emebant et vendebant, plantabant et aedificabant:qua die autem exiit lot a sodomis, pluit ignem et sulphur de caelo, et omnes perdidit:secundum haec erit qua die filius hominis revelabitur.	2020-04-18	Evangelium_secundum_Lucam
+1100000851	in illa hora, qui fuerit in tecto, et vasa eius in domo, ne descendat tollere illa: et qui in agro, similiter non redeat retro.	2020-04-18	Evangelium_secundum_Lucam
+1100000852	memores estote uxoris lot.	2020-04-18	Evangelium_secundum_Lucam
+1100000853	quicumque quaesierit animam suam salvam facere, perdet illam: et quicumque perdiderit illam, vivificabit eam.	2020-04-18	Evangelium_secundum_Lucam
+1100000854	dico vobis: in illa nocte erunt duo in lecto uno: unus assumetur, et alter relinquetur:duae erunt molentes in unum: una assumetur, et altera relinquetur: duo in agro: unus assumetur, et alter relinquetur.	2020-04-18	Evangelium_secundum_Lucam
+1100000855	respondentes dicunt illi: ubi domine?	2020-04-18	Evangelium_secundum_Lucam
+1100000856	qui dixit illis: ubicumque fuerit corpus, illuc congregabuntur et aquilae.	2020-04-18	Evangelium_secundum_Lucam
+1100000857	caput 18	2020-04-18	Evangelium_secundum_Lucam
+1100000858	dicebat autem et parabolam ad illos, quoniam oportet semper orare et non deficere,dicens: iudex quidam erat in quadam civitate, qui deum non timebat, et hominem non reverebatur.	2020-04-18	Evangelium_secundum_Lucam
+1100000859	vidua autem quaedam erat in civitate illa, et veniebat ad eum, dicens: vindica me de adversario meo.	2020-04-18	Evangelium_secundum_Lucam
+1100000860	et nolebat per multum tempus. 	2020-04-18	Evangelium_secundum_Lucam
+1100000861	post haec autem dixit intra se: etsi deum non timeo, nec hominem revereor:tamen quia molesta est mihi haec vidua, vindicabo illam, ne in novissimo veniens sugillet me.	2020-04-18	Evangelium_secundum_Lucam
+1100000862	ait autem dominus: audite quid iudex iniquitatis dicit:deus autem non faciet vindictam electorum suorum clamantium ad se die ac nocte, et patientiam habebit in illis?	2020-04-18	Evangelium_secundum_Lucam
+1100000863	dico vobis quia cito faciet vindictam illorum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000864	verumtamen filius hominis veniens, putas, inveniet fidem in terra?	2020-04-18	Evangelium_secundum_Lucam
+1100000865	dixit autem et ad quosdam qui in se confidebant tamquam iusti, et aspernabantur ceteros, parabolam istam:duo homines ascenderunt in templum ut orarent: unus pharisaeus et alter publicanus.	2020-04-18	Evangelium_secundum_Lucam
+1100000866	pharisaeus stans, haec apud se orabat: deus, gratias ago tibi, quia non sum sicut ceteri hominum: raptores, iniusti, adulteri, velut etiam hic publicanus:ieiuno bis in sabbato, decimas do omnium quae possideo.	2020-04-18	Evangelium_secundum_Lucam
+1100000867	et publicanus a longe stans, nolebat nec oculos ad caelum levare: sed percutiebat pectus suum, dicens: deus propitius esto mihi peccatori.	2020-04-18	Evangelium_secundum_Lucam
+1100000868	dico vobis, descendit hic iustificatus in domum suam ab illo: quia omnis qui se exaltat, humiliabitur, et qui se humiliat, exaltabitur.	2020-04-18	Evangelium_secundum_Lucam
+1100000869	afferebant autem ad illum et infantes, ut eos tangeret. 	2020-04-18	Evangelium_secundum_Lucam
+1100000870	quod cum viderent discipuli, increpabant illos.	2020-04-18	Evangelium_secundum_Lucam
+1100000871	iesus autem convocans illos, dixit: sinite pueros venire ad me, et nolite vetare eos: talium est enim regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000872	amen dico vobis, quicumque non acceperit regnum dei sicut puer, non intrabit in illud.	2020-04-18	Evangelium_secundum_Lucam
+1100000873	et interrogavit eum quidam princeps, dicens: magister bone, quid faciens vitam aeternam possidebo?	2020-04-18	Evangelium_secundum_Lucam
+1100000874	dixit autem ei iesus: quid me dicis bonum? 	2020-04-18	Evangelium_secundum_Lucam
+1100000875	nemo bonus nisi solus deus.	2020-04-18	Evangelium_secundum_Lucam
+1100000876	mandata nosti: non occides; non moechaberis; non furtum facies; non falsum testimonium dices; honora patrem tuum et matrem.	2020-04-18	Evangelium_secundum_Lucam
+1100000877	qui ait: haec omnia custodivi a iuventute mea.	2020-04-18	Evangelium_secundum_Lucam
+1100000878	quo audito, iesus ait ei: adhuc unum tibi deest: omnia quaecumque habes vende, et da pauperibus, et habebis thesaurum in caelo: et veni, sequere me.	2020-04-18	Evangelium_secundum_Lucam
+1100000879	his ille auditis, contristatus est: quia dives erat valde.	2020-04-18	Evangelium_secundum_Lucam
+1100000880	videns autem iesus illum tristem factum, dixit: quam difficile, qui pecunias habent, in regnum dei intrabunt!	2020-04-18	Evangelium_secundum_Lucam
+1100000881	facilius est enim camelum per foramen acus transire quam divitem intrare in regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100000882	et dixerunt qui audiebant: et quis potest salvus fieri?	2020-04-18	Evangelium_secundum_Lucam
+1100000883	ait illis: quae impossibilia sunt apud homines, possibilia sunt apud deum.	2020-04-18	Evangelium_secundum_Lucam
+1100000884	ait autem petrus: ecce nos dimisimus omnia et secuti sumus te.	2020-04-18	Evangelium_secundum_Lucam
+1100000885	qui dixit eis: amen dico vobis, nemo est qui reliquit domum, aut parentes, aut fratres, aut uxorem, aut filios propter regnum dei,et non recipiat multo plura in hoc tempore, et in saeculo venturo vitam aeternam.	2020-04-18	Evangelium_secundum_Lucam
+1100000886	assumpsit autem iesus duodecim, et ait illis: ecce ascendimus ierosolymam, et consummabuntur omnia quae scripta sunt per prophetas de filio hominis:tradetur enim gentibus, et illudetur, et flagellabitur, et conspuetur:et postquam flagellaverint, occident eum, et tertia die resurget.	2020-04-18	Evangelium_secundum_Lucam
+1100000887	et ipsi nihil horum intellexerunt, et erat verbum istud absconditum ab eis, et non intelligebant quae dicebantur.	2020-04-18	Evangelium_secundum_Lucam
+1100000888	factum est autem, cum appropinquaret iericho, caecus quidam sedebat secus viam, mendicans.	2020-04-18	Evangelium_secundum_Lucam
+1100000889	et cum audiret turbam praetereuntem, interrogabat quid hoc esset.	2020-04-18	Evangelium_secundum_Lucam
+1100000890	dixerunt autem ei quod iesus nazarenus transiret.	2020-04-18	Evangelium_secundum_Lucam
+1100000891	et clamavit, dicens: iesu, fili david, miserere mei.	2020-04-18	Evangelium_secundum_Lucam
+1100000892	et qui praeibant, increpabant eum ut taceret. 	2020-04-18	Evangelium_secundum_Lucam
+1100000893	ipse vero multo magis clamabat: fili david, miserere mei.	2020-04-18	Evangelium_secundum_Lucam
+1100000894	stans autem iesus iussit illum adduci ad se. 	2020-04-18	Evangelium_secundum_Lucam
+1100000895	et cum appropinquasset, interrogavit illum,dicens: quid tibi vis faciam? 	2020-04-18	Evangelium_secundum_Lucam
+1100000896	at ille dixit: domine, ut videam.	2020-04-18	Evangelium_secundum_Lucam
+1100000897	et iesus dixit illi: respice, fides tua te salvum fecit.	2020-04-18	Evangelium_secundum_Lucam
+1100000898	et confestim vidit, et sequebatur illum magnificans deum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000899	et omnis plebs ut vidit, dedit laudem deo.	2020-04-18	Evangelium_secundum_Lucam
+1100000900	caput 19	2020-04-18	Evangelium_secundum_Lucam
+1100000901	et ingressus perambulabat iericho.	2020-04-18	Evangelium_secundum_Lucam
+1100000902	et ecce vir nomine zachaeus: et hic princeps erat publicanorum, et ipse dives:et quaerebat videre iesum, quis esset: et non poterat prae turba, quia statura pusillus erat.	2020-04-18	Evangelium_secundum_Lucam
+1100000903	et praecurrens ascendit in arborem sycomorum ut videret eum: quia inde erat transiturus.	2020-04-18	Evangelium_secundum_Lucam
+1100000904	et cum venisset ad locum, suspiciens iesus vidit illum, et dixit ad eum: zachaee, festinans descende: quia hodie in domo tua oportet me manere.	2020-04-18	Evangelium_secundum_Lucam
+1100000905	et festinans descendit, et excepit illum gaudens.	2020-04-18	Evangelium_secundum_Lucam
+1100000906	et cum viderent omnes, murmurabant, dicentes quod ad hominem peccatorem divertisset.	2020-04-18	Evangelium_secundum_Lucam
+1100000907	stans autem zachaeus, dixit ad dominum: ecce dimidium bonorum meorum, domine, do pauperibus: et si quid aliquem defraudavi, reddo quadruplum.	2020-04-18	Evangelium_secundum_Lucam
+1100000908	ait iesus ad eum: quia hodie salus domui huic facta est: eo quod et ipse filius sit abrahae.	2020-04-18	Evangelium_secundum_Lucam
+1100000909	venit enim filius hominis quaerere, et salvum facere quod perierat.	2020-04-18	Evangelium_secundum_Lucam
+1100000910	haec illis audientibus adiiciens, dixit parabolam, eo quod esset prope ierusalem: et quia existimarent quod confestim regnum dei manifestaretur.	2020-04-18	Evangelium_secundum_Lucam
+1100000911	dixit ergo: homo quidam nobilis abiit in regionem longinquam accipere sibi regnum, et reverti.	2020-04-18	Evangelium_secundum_Lucam
+1100000912	vocatis autem decem servis suis, dedit eis decem mnas, et ait ad illos: negotiamini dum venio.	2020-04-18	Evangelium_secundum_Lucam
+1100000913	cives autem eius oderant eum: et miserunt legationem post illum, dicentes: nolumus hunc regnare super nos.	2020-04-18	Evangelium_secundum_Lucam
+1100000914	et factum est ut rediret accepto regno: et iussit vocari servos, quibus dedit pecuniam, ut sciret quantum quisque negotiatus esset.	2020-04-18	Evangelium_secundum_Lucam
+1100000915	venit autem primus dicens: domine, mna tua decem mnas acquisivit.	2020-04-18	Evangelium_secundum_Lucam
+1100000916	et ait illi: euge bone serve, quia in modico fuisti fidelis, eris potestatem habens super decem civitates.	2020-04-18	Evangelium_secundum_Lucam
+1100000917	et alter venit, dicens: domine, mna tua fecit quinque mnas.	2020-04-18	Evangelium_secundum_Lucam
+1100000918	et huic ait: et tu esto super quinque civitates.	2020-04-18	Evangelium_secundum_Lucam
+1100000919	et alter venit, dicens: domine, ecce mna tua, quam habui repositam in sudario:timui enim te, quia homo austerus es: tollis quod non posuisti, et metis quod non seminasti.	2020-04-18	Evangelium_secundum_Lucam
+1100000920	dicit ei: de ore tuo te iudico, serve nequam. 	2020-04-18	Evangelium_secundum_Lucam
+1100000921	sciebas quod ego homo austerus sum, tollens quod non posui, et metens quod non seminavi:et quare non dedisti pecuniam meam ad mensam, ut ego veniens cum usuris utique exegissem illam?	2020-04-18	Evangelium_secundum_Lucam
+1100000922	et astantibus dixit: auferte ab illo mnam, et date illi qui decem mnas habet.	2020-04-18	Evangelium_secundum_Lucam
+1100000923	et dixerunt ei: domine, habet decem mnas.	2020-04-18	Evangelium_secundum_Lucam
+1100000924	dico autem vobis, quia omni habenti dabitur, et abundabit: ab eo autem qui non habet, et quod habet auferetur ab eo.	2020-04-18	Evangelium_secundum_Lucam
+1100000925	verumtamen inimicos meos illos, qui noluerunt me regnare super se, adducite huc: et interficite ante me.	2020-04-18	Evangelium_secundum_Lucam
+1100000926	et his dictis, praecedebat ascendens ierosolymam.	2020-04-18	Evangelium_secundum_Lucam
+1100000927	et factum est, cum appropinquasset ad bethphage et bethaniam, ad montem qui vocatur oliveti, misit duos discipulos suos,dicens: ite in castellum quod contra est: in quod introeuntes, invenietis pullum asinae alligatum, cui nemo umquam hominum sedit: solvite illum, et adducite.	2020-04-18	Evangelium_secundum_Lucam
+1100000928	et si quis vos interrogaverit: quare solvitis? 	2020-04-18	Evangelium_secundum_Lucam
+1100000929	sic dicetis ei: quia dominus operam eius desiderat.	2020-04-18	Evangelium_secundum_Lucam
+1100000930	abierunt autem qui missi erant: et invenerunt, sicut dixit illis, stantem pullum.	2020-04-18	Evangelium_secundum_Lucam
+1100000931	solventibus autem illis pullum, dixerunt domini eius ad illos: quid solvitis pullum?	2020-04-18	Evangelium_secundum_Lucam
+1100000932	at illi dixerunt: quia dominus eum necessarium habet.	2020-04-18	Evangelium_secundum_Lucam
+1100000933	et duxerunt illum ad iesum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000934	et iactantes vestimenta sua supra pullum, imposuerunt iesum.	2020-04-18	Evangelium_secundum_Lucam
+1100000935	eunte autem illo, substernebant vestimenta sua in via:et cum appropinquaret iam ad descensum montis oliveti, coeperunt omnes turbae discipulorum gaudentes laudare deum voce magna super omnibus, quas viderant, virtutibus,dicentes: benedictus, qui venit rex in nomine domini: pax in caelo, et gloria in excelsis.	2020-04-18	Evangelium_secundum_Lucam
+1100000936	et quidam pharisaeorum de turbis dixerunt ad illum: magister, increpa discipulos tuos.	2020-04-18	Evangelium_secundum_Lucam
+1100000937	quibus ipse ait: dico vobis, quia si hi tacuerint, lapides clamabunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000938	et ut appropinquavit, videns civitatem flevit super illam, dicens:quia si cognovisses et tu, et quidem in hac die tua, quae ad pacem tibi: nunc autem abscondita sunt ab oculis tuis.	2020-04-18	Evangelium_secundum_Lucam
+1100000939	quia venient dies in te: et circumdabunt te inimici tui vallo, et circumdabunt te: et coangustabunt te undique:et ad terram prosternent te, et filios tuos, qui in te sunt, et non relinquent in te lapidem super lapidem: eo quod non cognoveris tempus visitationis tuae.	2020-04-18	Evangelium_secundum_Lucam
+1100000940	et ingressus in templum, coepit eiicere vendentes in illo, et ementes,dicens illis: scriptum est: quia domus mea domus orationis est: vos autem fecistis illam speluncam latronum.	2020-04-18	Evangelium_secundum_Lucam
+1100000941	et erat docens quotidie in templo. 	2020-04-18	Evangelium_secundum_Lucam
+1100000942	principes autem sacerdotum, et scribae, et princeps plebis quaerebant illum perdere:et non inveniebant quid facerent illi. 	2020-04-18	Evangelium_secundum_Lucam
+1100000943	omnis enim populus suspensus erat, audiens illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000944	caput 20	2020-04-18	Evangelium_secundum_Lucam
+1100000945	et factum est in una dierum, docente illo populum in templo, et evangelizante, convenerunt principes sacerdotum, et scribae cum senioribus,et aiunt dicentes ad illum: dic nobis in qua potestate haec facis? 	2020-04-18	Evangelium_secundum_Lucam
+1100000946	aut quis est qui dedit tibi hanc potestatem?	2020-04-18	Evangelium_secundum_Lucam
+1100000947	respondens autem iesus, dixit ad illos: interrogabo vos et ego unum verbum. 	2020-04-18	Evangelium_secundum_Lucam
+1100000948	respondete mihi:baptismus ioannis de caelo erat, an ex hominibus?	2020-04-18	Evangelium_secundum_Lucam
+1100000949	at illi cogitabant intra se, dicentes: quia si dixerimus: de caelo, dicet: quare ergo non credidistis illi?	2020-04-18	Evangelium_secundum_Lucam
+1100000950	si autem dixerimus: ex hominibus, plebs universa lapidabit nos: certi sunt enim ioannem prophetam esse.	2020-04-18	Evangelium_secundum_Lucam
+1100000951	et responderunt se nescire unde esset.	2020-04-18	Evangelium_secundum_Lucam
+1100000952	et iesus ait illis: neque ego dico vobis in qua potestate haec facio.	2020-04-18	Evangelium_secundum_Lucam
+1100000953	coepit autem dicere ad plebem parabolam hanc: homo plantavit vineam, et locavit eam colonis: et ipse peregre fuit multis temporibus.	2020-04-18	Evangelium_secundum_Lucam
+1100000954	et in tempore misit ad cultores servum, ut de fructu vineae darent illi. 	2020-04-18	Evangelium_secundum_Lucam
+1100000955	qui caesum dimiserunt eum inanem.	2020-04-18	Evangelium_secundum_Lucam
+1100000956	et addidit alterum servum mittere. 	2020-04-18	Evangelium_secundum_Lucam
+1100000957	illi autem hunc quoque caedentes, et afficientes contumelia, dimiserunt inanem.	2020-04-18	Evangelium_secundum_Lucam
+1100000958	et addidit tertium mittere: qui et illum vulnerantes eiecerunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000959	dixit autem dominus vineae: quid faciam? 	2020-04-18	Evangelium_secundum_Lucam
+1100000960	mittam filium meum dilectum: forsitan, cum hunc viderint, verebuntur.	2020-04-18	Evangelium_secundum_Lucam
+1100000961	quem cum vidissent coloni, cogitaverunt intra se, dicentes: hic est haeres, occidamus illum, ut nostra fiat haereditas.	2020-04-18	Evangelium_secundum_Lucam
+1100000962	et eiectum illum extra vineam, occiderunt. 	2020-04-18	Evangelium_secundum_Lucam
+1100000963	quid ergo faciet illis dominus vineae?	2020-04-18	Evangelium_secundum_Lucam
+1100000964	veniet, et perdet colonos istos, et dabit vineam aliis. 	2020-04-18	Evangelium_secundum_Lucam
+1100000965	quo audito, dixerunt illi: absit.	2020-04-18	Evangelium_secundum_Lucam
+1100000966	ille autem aspiciens eos, ait: quid est ergo hoc quod scriptum est: lapidem quem reprobaverunt aedificantes, hic factus est in caput anguli?	2020-04-18	Evangelium_secundum_Lucam
+1100000967	omnis qui ceciderit super illum lapidem, conquassabitur: super quem autem ceciderit, comminuet illum.	2020-04-18	Evangelium_secundum_Lucam
+1100000968	et quaerebant principes sacerdotum et scribae mittere in illum manus illa hora, et timuerunt populum: cognoverunt enim quod ad ipsos dixerit similitudinem hanc.	2020-04-18	Evangelium_secundum_Lucam
+1100000969	et observantes miserunt insidiatores, qui se iustos simularent, ut caperent eum in sermone, ut traderent illum principatui, et potestati praesidis.	2020-04-18	Evangelium_secundum_Lucam
+1100000970	et interrogaverunt eum, dicentes: magister, scimus quia recte dicis et doces: et non accipis personam, sed viam dei in veritate doces.	2020-04-18	Evangelium_secundum_Lucam
+1100000971	licet nobis tributum dare caesari, an non?	2020-04-18	Evangelium_secundum_Lucam
+1100000972	considerans autem dolum illorum, dixit ad eos: quid me tentatis?	2020-04-18	Evangelium_secundum_Lucam
+1100000973	ostendite mihi denarium. 	2020-04-18	Evangelium_secundum_Lucam
+1100000974	cuius habet imaginem et inscriptionem? 	2020-04-18	Evangelium_secundum_Lucam
+1100000975	respondentes dixerunt ei: caesaris.	2020-04-18	Evangelium_secundum_Lucam
+1100000976	et ait illis: reddite ergo quae sunt caesaris, caesari: et quae sunt dei, deo.	2020-04-18	Evangelium_secundum_Lucam
+1100000977	et non potuerunt verbum eius reprehendere coram plebe: et mirati in responso eius, tacuerunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000978	accesserunt autem quidam sadducaeorum, qui negant esse resurrectionem, et interrogaverunt eum,dicentes: magister, moyses scripsit nobis: si frater alicuius mortuus fuerit habens uxorem, et hic sine liberis fuerit, ut accipiat eam frater eius uxorem, et suscitet semen fratri suo.	2020-04-18	Evangelium_secundum_Lucam
+1100000979	septem ergo fratres erant: et primus accepit uxorem, et mortuus est sine filiis.	2020-04-18	Evangelium_secundum_Lucam
+1100000980	et sequens accepit illam, et ipse mortuus est sine filio.	2020-04-18	Evangelium_secundum_Lucam
+1100000981	et tertius accepit illam. 	2020-04-18	Evangelium_secundum_Lucam
+1100000982	similiter et omnes septem, et non reliquerunt semen, et mortui sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100000983	novissime omnium mortua est et mulier.	2020-04-18	Evangelium_secundum_Lucam
+1100000984	in resurrectione ergo, cuius eorum erit uxor? 	2020-04-18	Evangelium_secundum_Lucam
+1100000985	siquidem septem habuerunt eam uxorem.	2020-04-18	Evangelium_secundum_Lucam
+1100000986	et ait illis iesus: filii huius saeculi nubunt, et traduntur ad nuptias:illi vero qui digni habebuntur saeculo illo, et resurrectione ex mortuis, neque nubent, neque ducent uxores:neque enim ultra mori potuerunt: aequales enim angelis sunt, et filii sunt dei, cum sint filii resurrectionis.	2020-04-18	Evangelium_secundum_Lucam
+1100000987	quia vero resurgant mortui, et moyses ostendit secus rubum, sicut dicit dominum, deum abraham, et deum isaac, et deum iacob.	2020-04-18	Evangelium_secundum_Lucam
+1100000988	deus autem non est mortuorum, sed vivorum: omnes enim vivunt ei.	2020-04-18	Evangelium_secundum_Lucam
+1100000989	respondentes autem quidam scribarum, dixerunt ei: magister, bene dixisti.	2020-04-18	Evangelium_secundum_Lucam
+1100000990	et amplius non audebant eum quidquam interrogare.	2020-04-18	Evangelium_secundum_Lucam
+1100000991	dixit autem ad illos: quomodo dicunt christum filium esse david?	2020-04-18	Evangelium_secundum_Lucam
+1100000992	et ipse david dicit in libro psalmorum: dixit dominus domino meo: sede a dextris meis,donec ponam inimicos tuos scabellum pedum tuorum.	2020-04-18	Evangelium_secundum_Lucam
+1100000993	david ergo dominum illum vocat: et quomodo filius eius est?	2020-04-18	Evangelium_secundum_Lucam
+1100000994	audiente autem omni populo, dixit discipulis suis:attendite a scribis, qui volunt ambulare in stolis, et amant salutationes in foro, et primas cathedras in synagogis, et primos discubitus in conviviis,qui devorant domos viduarum, simulantes longam orationem: hi accipient damnationem maiorem.	2020-04-18	Evangelium_secundum_Lucam
+1100000995	caput 21	2020-04-18	Evangelium_secundum_Lucam
+1100000996	respiciens autem, vidit eos qui mittebant munera sua in gazophylacium, divites.	2020-04-18	Evangelium_secundum_Lucam
+1100000997	vidit autem et quamdam viduam pauperculam mittentem aera minuta duo.	2020-04-18	Evangelium_secundum_Lucam
+1100000998	et dixit: vere dico vobis, quia vidua haec pauper plus quam omnes misit.	2020-04-18	Evangelium_secundum_Lucam
+1100000999	nam omnes hi ex abundanti sibi miserunt in munera dei: haec autem ex eo quod deest illi, omnem victum suum quem habuit, misit.	2020-04-18	Evangelium_secundum_Lucam
+1100001000	et quibusdam dicentibus de templo quod bonis lapidibus et donis ornatum esset, dixit:haec quae videtis, venient dies in quibus non relinquetur lapis super lapidem, qui non destruatur.	2020-04-18	Evangelium_secundum_Lucam
+1100001001	interrogaverunt autem illum, dicentes: praeceptor, quando haec erunt, et quod signum cum fieri incipient?	2020-04-18	Evangelium_secundum_Lucam
+1100001002	qui dixit: videte ne seducamini: multi enim venient in nomine meo, dicentes quia ego sum: et tempus appropinquavit: nolite ergo ire post eos.	2020-04-18	Evangelium_secundum_Lucam
+1100001003	cum autem audieritis praelia et seditiones, nolite terreri: oportet primum haec fieri, sed nondum statim finis.	2020-04-18	Evangelium_secundum_Lucam
+1100001004	tunc dicebat illis: surget gens contra gentem, et regnum adversus regnum.	2020-04-18	Evangelium_secundum_Lucam
+1100001005	et terraemotus magni erunt per loca, et pestilentiae, et fames, terroresque de caelo, et signa magna erunt.	2020-04-18	Evangelium_secundum_Lucam
+1100001006	sed ante haec omnia iniicient vobis manus suas, et persequentur tradentes in synagogas et custodias, trahentes ad reges et praesides propter nomen meum:continget autem vobis in testimonium.	2020-04-18	Evangelium_secundum_Lucam
+1100001007	ponite ergo in cordibus vestris non praemeditari quemadmodum respondeatis:ego enim dabo vobis os et sapientiam, cui non poterunt resistere et contradicere omnes adversarii vestri.	2020-04-18	Evangelium_secundum_Lucam
+1100001008	trademini autem a parentibus, et fratribus, et cognatis, et amicis, et morte afficient ex vobis:et eritis odio omnibus propter nomen meum:et capillus de capite vestro non peribit.	2020-04-18	Evangelium_secundum_Lucam
+1100001009	in patientia vestra possidebitis animas vestras.	2020-04-18	Evangelium_secundum_Lucam
+1100001010	cum autem videritis circumdari ab exercitu ierusalem, tunc scitote quia appropinquavit desolatio eius:tunc qui in iudaea sunt, fugiant ad montes, et qui in medio eius, discedant: et qui in regionibus, non intrent in eam,quia dies ultionis hi sunt, ut impleantur omnia quae scripta sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100001011	vae autem praegnantibus et nutrientibus in illis diebus! 	2020-04-18	Evangelium_secundum_Lucam
+1100001012	erit enim pressura magna super terram, et ira populo huic.	2020-04-18	Evangelium_secundum_Lucam
+1100001013	et cadent in ore gladii, et captivi ducentur in omnes gentes, et ierusalem calcabitur a gentibus, donec impleantur tempora nationum.	2020-04-18	Evangelium_secundum_Lucam
+1100001014	et erunt signa in sole, et luna, et stellis, et in terris pressura gentium prae confusione sonitus maris, et fluctuum:arescentibus hominibus prae timore, et exspectatione, quae supervenient universo orbi: nam virtutes caelorum movebuntur:et tunc videbunt filium hominis venientem in nube cum potestate magna et maiestate.	2020-04-18	Evangelium_secundum_Lucam
+1100001015	his autem fieri incipientibus, respicite, et levate capita vestra: quoniam appropinquat redemptio vestra.	2020-04-18	Evangelium_secundum_Lucam
+1100001016	et dixit illis similitudinem: videte ficulneam, et omnes arbores:cum producunt iam ex se fructum, scitis quoniam prope est aestas.	2020-04-18	Evangelium_secundum_Lucam
+1100001017	ita et vos cum videritis haec fieri, scitote quoniam prope est regnum dei.	2020-04-18	Evangelium_secundum_Lucam
+1100001018	amen dico vobis, quia non praeteribit generatio haec, donec omnia fiant.	2020-04-18	Evangelium_secundum_Lucam
+1100001019	caelum et terra transibunt: verba autem mea non transibunt.	2020-04-18	Evangelium_secundum_Lucam
+1100001020	attendite autem vobis, ne forte graventur corda vestra in crapula, et ebrietate, et curis huius vitae, et superveniat in vos repentina dies illa:tamquam laqueus enim superveniet in omnes qui sedent super faciem omnis terrae.	2020-04-18	Evangelium_secundum_Lucam
+1100001021	vigilate itaque, omni tempore orantes, ut digni habeamini fugere ista omnia quae futura sunt, et stare ante filium hominis.	2020-04-18	Evangelium_secundum_Lucam
+1100001022	erat autem diebus docens in templo: noctibus vero exiens, morabatur in monte qui vocatur oliveti.	2020-04-18	Evangelium_secundum_Lucam
+1100001023	et omnis populus manicabat ad eum in templo audire eum.	2020-04-18	Evangelium_secundum_Lucam
+1100001024	caput 22	2020-04-18	Evangelium_secundum_Lucam
+1100001025	appropinquabat autem dies festus azymorum, qui dicitur pascha:et quaerebant principes sacerdotum, et scribae, quomodo iesum interficerent: timebant vero plebem.	2020-04-18	Evangelium_secundum_Lucam
+1100001026	intravit autem satanas in iudam, qui cognominabatur iscariotes, unum de duodecim:et abiit, et locutus est cum principibus sacerdotum, et magistratibus, quemadmodum illum traderet eis.	2020-04-18	Evangelium_secundum_Lucam
+1100001027	et gavisi sunt, et pacti sunt pecuniam illi dare.	2020-04-18	Evangelium_secundum_Lucam
+1100001028	et spopondit, et quaerebat opportunitatem ut traderet illum sine turbis.	2020-04-18	Evangelium_secundum_Lucam
+1100001029	venit autem dies azymorum, in qua necesse erat occidi pascha.	2020-04-18	Evangelium_secundum_Lucam
+1100001030	et misit petrum et ioannem, dicens: euntes parate nobis pascha, ut manducemus.	2020-04-18	Evangelium_secundum_Lucam
+1100001031	at illi dixerunt: ubi vis paremus?	2020-04-18	Evangelium_secundum_Lucam
+1100001032	et dixit ad eos: ecce introeuntibus vobis in civitatem occurret vobis homo quidam amphoram aquae portans: sequimini eum in domum, in quam intrat,et dicetis patrifamilias domus: dicit tibi magister: ubi est diversorium, ubi pascha cum discipulis meis manducem?	2020-04-18	Evangelium_secundum_Lucam
+1100001033	et ipse ostendet vobis coenaculum magnum stratum, et ibi parate.	2020-04-18	Evangelium_secundum_Lucam
+1100001034	euntes autem invenerunt sicut dixit illis, et paraverunt pascha.	2020-04-18	Evangelium_secundum_Lucam
+1100001035	et cum facta esset hora, discubuit, et duodecim apostoli cum eo.	2020-04-18	Evangelium_secundum_Lucam
+1100001036	et ait illis: desiderio desideravi hoc pascha manducare vobiscum, antequam patiar.	2020-04-18	Evangelium_secundum_Lucam
+1100001037	dico enim vobis, quia ex hoc non manducabo illud, donec impleatur in regno dei.	2020-04-18	Evangelium_secundum_Lucam
+1100001038	et accepto calice gratias egit, et dixit: accipite, et dividite inter vos.	2020-04-18	Evangelium_secundum_Lucam
+1100001039	dico enim vobis quod non bibam de generatione vitis donec regnum dei veniat.	2020-04-18	Evangelium_secundum_Lucam
+1100001040	et accepto pane gratias egit, et fregit, et dedit eis, dicens: hoc est corpus meum, quod pro vobis datur: hoc facite in meam commemorationem.	2020-04-18	Evangelium_secundum_Lucam
+1100001041	similiter et calicem, postquam coenavit, dicens: hic est calix novum testamentum in sanguine meo, qui pro vobis fundetur.	2020-04-18	Evangelium_secundum_Lucam
+1100001042	verumtamen ecce manus tradentis me, mecum est in mensa.	2020-04-18	Evangelium_secundum_Lucam
+1100001043	et quidem filius hominis, secundum quod definitum est, vadit: verumtamen vae homini illi per quem tradetur.	2020-04-18	Evangelium_secundum_Lucam
+1100001044	et ipsi coeperunt quaerere inter se quis esset ex eis qui hoc facturus esset.	2020-04-18	Evangelium_secundum_Lucam
+1100001045	facta est autem et contentio inter eos, quis eorum videretur esse maior.	2020-04-18	Evangelium_secundum_Lucam
+1100001046	dixit autem eis: reges gentium dominantur eorum: et qui potestatem habent super eos, benefici vocantur.	2020-04-18	Evangelium_secundum_Lucam
+1100001047	vos autem non sic: sed qui maior est in vobis, fiat sicut minor: et qui praecessor est, sicut ministrator.	2020-04-18	Evangelium_secundum_Lucam
+1100001048	nam quis maior est, qui recumbit, an qui ministrat? 	2020-04-18	Evangelium_secundum_Lucam
+1100001049	nonne qui recumbit? 	2020-04-18	Evangelium_secundum_Lucam
+1100001050	ego autem in medio vestrum sum, sicut qui ministrat:vos autem estis, qui permansistis mecum in tentationibus meis.	2020-04-18	Evangelium_secundum_Lucam
+1100001051	et ego dispono vobis sicut disposuit mihi pater meus regnum,ut edatis et bibatis super mensam meam in regno meo, et sedeatis super thronos iudicantes duodecim tribus israel.	2020-04-18	Evangelium_secundum_Lucam
+1100001052	ait autem dominus: simon, simon, ecce satanas expetivit vos ut cribraret sicut triticum:ego autem rogavi pro te ut non deficiat fides tua: et tu aliquando conversus, confirma fratres tuos.	2020-04-18	Evangelium_secundum_Lucam
+1100001053	qui dixit ei: domine, tecum paratus sum et in carcerem et in mortem ire.	2020-04-18	Evangelium_secundum_Lucam
+1100001054	at ille dixit: dico tibi, petre, non cantabit hodie gallus, donec ter abneges nosse me. 	2020-04-18	Evangelium_secundum_Lucam
+1100001055	et dixit eis:quando misi vos sine sacculo, et pera, et calceamentis, numquid aliquid defuit vobis?	2020-04-18	Evangelium_secundum_Lucam
+1100001056	at illi dixerunt: nihil. 	2020-04-18	Evangelium_secundum_Lucam
+1100001057	dixit ergo eis: sed nunc qui habet sacculum, tollat; similiter et peram: et qui non habet, vendat tunicam suam et emat gladium.	2020-04-18	Evangelium_secundum_Lucam
+1100001058	dico enim vobis, quoniam adhuc hoc quod scriptum est, oportet impleri in me: et cum iniquis deputatus est. 	2020-04-18	Evangelium_secundum_Lucam
+1100001059	etenim ea quae sunt de me finem habent.	2020-04-18	Evangelium_secundum_Lucam
+1100001060	at illi dixerunt: domine, ecce duo gladii hic. 	2020-04-18	Evangelium_secundum_Lucam
+1100001061	at ille dixit eis: satis est.	2020-04-18	Evangelium_secundum_Lucam
+1100001062	et egressus ibat secundum consuetudinem in monte olivarum. 	2020-04-18	Evangelium_secundum_Lucam
+1100001063	secuti sunt autem illum et discipuli.	2020-04-18	Evangelium_secundum_Lucam
+1100001064	et cum pervenisset ad locum, dixit illis: orate ne intretis in tentationem.	2020-04-18	Evangelium_secundum_Lucam
+1100001065	et ipse avulsus est ab eis quantum iactus est lapidis: et positis genibus orabat,dicens: pater, si vis, transfer calicem istum a me: verumtamen non mea voluntas, sed tua fiat.	2020-04-18	Evangelium_secundum_Lucam
+1100001066	apparuit autem illi angelus de caelo, confortans eum. 	2020-04-18	Evangelium_secundum_Lucam
+1100001067	et factus in agonia, prolixius orabat.	2020-04-18	Evangelium_secundum_Lucam
+1100001068	et factus est sudor eius sicut guttae sanguinis decurrentis in terram.	2020-04-18	Evangelium_secundum_Lucam
+1100001069	et cum surrexisset ab oratione et venisset ad discipulos suos, invenit eos dormientes prae tristitia.	2020-04-18	Evangelium_secundum_Lucam
+1100001070	et ait illis: quid dormitis? 	2020-04-18	Evangelium_secundum_Lucam
+1100001071	surgite, orate, ne intretis in tentationem.	2020-04-18	Evangelium_secundum_Lucam
+1100001072	adhuc eo loquente, ecce turba: et qui vocabatur iudas, unus de duodecim, antecedebat eos, et appropinquavit iesu ut oscularetur eum.	2020-04-18	Evangelium_secundum_Lucam
+1100001073	iesus autem dixit illi: iuda, osculo filium hominis tradis?	2020-04-18	Evangelium_secundum_Lucam
+1100001074	videntes autem hi qui circa ipsum erant, quod futurum erat, dixerunt ei: domine, si percutimus in gladio?	2020-04-18	Evangelium_secundum_Lucam
+1100001075	et percussit unus ex illis servum principis sacerdotum, et amputavit auriculam eius dexteram.	2020-04-18	Evangelium_secundum_Lucam
+1100001076	respondens autem iesus, ait: sinite usque huc. 	2020-04-18	Evangelium_secundum_Lucam
+1100001077	et cum tetigisset auriculam eius, sanavit eum.	2020-04-18	Evangelium_secundum_Lucam
+1100001078	dixit autem iesus ad eos qui venerant ad se principes sacerdotum, et magistratus templi, et seniores: quasi ad latronem existis cum gladiis et fustibus?	2020-04-18	Evangelium_secundum_Lucam
+1100001079	cum quotidie vobiscum fuerim in templo, non extendistis manus in me: sed haec est hora vestra, et potestas tenebrarum.	2020-04-18	Evangelium_secundum_Lucam
+1100001080	comprehendentes autem eum, duxerunt ad domum principis sacerdotum: petrus vero sequebatur a longe.	2020-04-18	Evangelium_secundum_Lucam
+1100001081	accenso autem igne in medio atrii et circumsedentibus illis, erat petrus in medio eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100001082	quem cum vidisset ancilla quaedam sedentem ad lumen, et eum fuisset intuita, dixit: et hic cum illo erat.	2020-04-18	Evangelium_secundum_Lucam
+1100001083	at ille negavit eum, dicens: mulier, non novi illum.	2020-04-18	Evangelium_secundum_Lucam
+1100001084	et post pusillum alius videns eum, dixit: et tu de illis es. 	2020-04-18	Evangelium_secundum_Lucam
+1100001085	petrus vero ait: o homo, non sum.	2020-04-18	Evangelium_secundum_Lucam
+1100001086	et intervallo facto quasi horae unius, alius quidam affirmabat, dicens: vere et hic cum illo erat: nam et galilaeus est.	2020-04-18	Evangelium_secundum_Lucam
+1100001087	et ait petrus: homo, nescio quid dicis. 	2020-04-18	Evangelium_secundum_Lucam
+1100001088	et continuo, adhuc illo loquente, cantavit gallus.	2020-04-18	Evangelium_secundum_Lucam
+1100001089	et conversus dominus respexit petrum, et recordatus est petrus verbi domini, sicut dixerat: quia priusquam gallus cantet, ter me negabis.	2020-04-18	Evangelium_secundum_Lucam
+1100001090	et egressus foras petrus flevit amare.	2020-04-18	Evangelium_secundum_Lucam
+1100001091	et viri qui tenebant illum, illudebant ei, caedentes.	2020-04-18	Evangelium_secundum_Lucam
+1100001092	et velaverunt eum, et percutiebant faciem eius: et interrogabant eum, dicentes: prophetiza, quis est, qui te percussit?	2020-04-18	Evangelium_secundum_Lucam
+1100001093	et alia multa blasphemantes dicebant in eum.	2020-04-18	Evangelium_secundum_Lucam
+1100001094	et ut factus est dies, convenerunt seniores plebis, et principes sacerdotum, et scribae, et duxerunt illum in concilium suum, dicentes: si tu es christus, dic nobis.	2020-04-18	Evangelium_secundum_Lucam
+1100001095	et ait illis: si vobis dixero, non credetis mihi:si autem et interrogavero, non respondebitis mihi, neque dimittetis.	2020-04-18	Evangelium_secundum_Lucam
+1100001096	ex hoc autem erit filius hominis sedens a dextris virtutis dei.	2020-04-18	Evangelium_secundum_Lucam
+1100001097	dixerunt autem omnes: tu ergo es filius dei? 	2020-04-18	Evangelium_secundum_Lucam
+1100001098	qui ait: vos dicitis, quia ego sum.	2020-04-18	Evangelium_secundum_Lucam
+1100001099	at illi dixerunt: quid adhuc desideramus testimonium? 	2020-04-18	Evangelium_secundum_Lucam
+1100001100	ipsi enim audivimus de ore eius.	2020-04-18	Evangelium_secundum_Lucam
+1100001101	caput 23	2020-04-18	Evangelium_secundum_Lucam
+1100001102	et surgens omnis multitudo eorum, duxerunt illum ad pilatum.	2020-04-18	Evangelium_secundum_Lucam
+1100001103	coeperunt autem illum accusare, dicentes: hunc invenimus subvertentem gentem nostram, et prohibentem tributa dare caesari, et dicentem se christum regem esse.	2020-04-18	Evangelium_secundum_Lucam
+1100001104	pilatus autem interrogavit eum, dicens: tu es rex iudaeorum? 	2020-04-18	Evangelium_secundum_Lucam
+1100001105	at ille respondens ait: tu dicis.	2020-04-18	Evangelium_secundum_Lucam
+1100001106	ait autem pilatus ad principes sacerdotum et turbas: nihil invenio causae in hoc homine.	2020-04-18	Evangelium_secundum_Lucam
+1100001107	at illi invalescebant, dicentes: commovet populum docens per universam iudaeam, incipiens a galilaea usque huc.	2020-04-18	Evangelium_secundum_Lucam
+1100001108	pilatus autem audiens galilaeam, interrogavit si homo galilaeus esset.	2020-04-18	Evangelium_secundum_Lucam
+1100001109	et ut cognovit quod de herodis potestate esset, remisit eum ad herodem, qui et ipse ierosolymis erat illis diebus.	2020-04-18	Evangelium_secundum_Lucam
+1100001110	herodes autem viso iesu, gavisus est valde. 	2020-04-18	Evangelium_secundum_Lucam
+1100001111	erat enim cupiens ex multo tempore videre eum, eo quod audierat multa de eo, et sperabat signum aliquod videre ab eo fieri.	2020-04-18	Evangelium_secundum_Lucam
+1100001112	interrogabat autem eum multis sermonibus. 	2020-04-18	Evangelium_secundum_Lucam
+1100001113	at ipse nihil illi respondebat.	2020-04-18	Evangelium_secundum_Lucam
+1100001114	stabant autem principes sacerdotum et scribae constanter accusantes eum.	2020-04-18	Evangelium_secundum_Lucam
+1100001115	sprevit autem illum herodes cum exercitu suo: et illusit indutum veste alba, et remisit ad pilatum.	2020-04-18	Evangelium_secundum_Lucam
+1100001116	et facti sunt amici herodes et pilatus in ipsa die: nam antea inimici erant ad invicem.	2020-04-18	Evangelium_secundum_Lucam
+1100001117	pilatus autem, convocatis principibus sacerdotum, et magistratibus, et plebe,dixit ad illos: obtulistis mihi hunc hominem, quasi avertentem populum, et ecce ego coram vobis interrogans, nullam causam inveni in homine isto ex his in quibus eum accusatis.	2020-04-18	Evangelium_secundum_Lucam
+1100001118	sed neque herodes: nam remisi vos ad illum, et ecce nihil dignum morte actum est ei.	2020-04-18	Evangelium_secundum_Lucam
+1100001119	emendatum ergo illum dimittam.	2020-04-18	Evangelium_secundum_Lucam
+1100001120	necesse autem habebat dimittere eis per diem festum unum.	2020-04-18	Evangelium_secundum_Lucam
+1100001121	exclamavit autem simul universa turba, dicens: tolle hunc, et dimitte nobis barabbam:qui erat propter seditionem quamdam factam in civitate et homicidium missus in carcerem.	2020-04-18	Evangelium_secundum_Lucam
+1100001122	iterum autem pilatus locutus est ad eos, volens dimittere iesum.	2020-04-18	Evangelium_secundum_Lucam
+1100001123	at illi succlamabant, dicentes: crucifige, crucifige eum.	2020-04-18	Evangelium_secundum_Lucam
+1100001124	ille autem tertio dixit ad illos: quid enim mali fecit iste? 	2020-04-18	Evangelium_secundum_Lucam
+1100001125	nullam causam mortis invenio in eo: corripiam ergo illum et dimittam.	2020-04-18	Evangelium_secundum_Lucam
+1100001126	at illi instabant vocibus magnis postulantes ut crucifigeretur: et invalescebant voces eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100001127	et pilatus adiudicavit fieri petitionem eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100001128	dimisit autem illis eum qui propter homicidium et seditionem missus fuerat in carcerem, quem petebant: iesum vero tradidit voluntati eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100001129	et cum ducerent eum, apprehenderunt simonem quemdam cyrenensem venientem de villa: et imposuerunt illi crucem portare post iesum.	2020-04-18	Evangelium_secundum_Lucam
+1100001130	sequebatur autem illum multa turba populi et mulierum, quae plangebant et lamentabantur eum.	2020-04-18	Evangelium_secundum_Lucam
+1100001131	conversus autem ad illas iesus, dixit: filiae ierusalem, nolite flere super me, sed super vos ipsas flete et super filios vestros.	2020-04-18	Evangelium_secundum_Lucam
+1100001132	quoniam ecce venient dies in quibus dicent: beatae steriles, et ventres qui non genuerunt, et ubera quae non lactaverunt.	2020-04-18	Evangelium_secundum_Lucam
+1100001133	tunc incipient dicere montibus: cadite super nos; et collibus: operite nos.	2020-04-18	Evangelium_secundum_Lucam
+1100001134	quia si in viridi ligno haec faciunt, in arido quid fiet?	2020-04-18	Evangelium_secundum_Lucam
+1100001135	ducebantur autem et alii duo nequam cum eo, ut interficerentur.	2020-04-18	Evangelium_secundum_Lucam
+1100001136	et postquam venerunt in locum qui vocatur calvariae, ibi crucifixerunt eum: et latrones, unum a dextris, et alterum a sinistris.	2020-04-18	Evangelium_secundum_Lucam
+1100001137	iesus autem dicebat: pater, dimitte illis: non enim sciunt quid faciunt. 	2020-04-18	Evangelium_secundum_Lucam
+1100001138	dividentes vero vestimenta eius, miserunt sortes.	2020-04-18	Evangelium_secundum_Lucam
+1100001139	et stabat populus spectans, et deridebant eum principes cum eis, dicentes: alios salvos fecit, se salvum faciat, si hic est christus dei electus.	2020-04-18	Evangelium_secundum_Lucam
+1100001140	illudebant autem ei et milites accedentes, et acetum offerentes ei,et dicentes: si tu es rex iudaeorum, salvum te fac.	2020-04-18	Evangelium_secundum_Lucam
+1100001141	erat autem et superscriptio scripta super eum litteris graecis, et latinis, et hebraicis: hic est rex iudaeorum.	2020-04-18	Evangelium_secundum_Lucam
+1100001142	unus autem de his, qui pendebant, latronibus, blasphemabat eum, dicens: si tu es christus, salvum fac temetipsum et nos.	2020-04-18	Evangelium_secundum_Lucam
+1100001143	respondens autem alter increpabat eum, dicens: neque tu times deum, quod in eadem damnatione es.	2020-04-18	Evangelium_secundum_Lucam
+1100001144	et nos quidem iuste, nam digna factis recipimus: hic vero nihil mali gessit.	2020-04-18	Evangelium_secundum_Lucam
+1100001145	et dicebat ad iesum: domine, memento mei cum veneris in regnum tuum.	2020-04-18	Evangelium_secundum_Lucam
+1100001146	et dixit illi iesus: amen dico tibi: hodie mecum eris in paradiso.	2020-04-18	Evangelium_secundum_Lucam
+1100001147	erat autem fere hora sexta, et tenebrae factae sunt in universam terram usque ad horam nonam.	2020-04-18	Evangelium_secundum_Lucam
+1100001148	et obscuratus est sol, et velum templi scissum est medium.	2020-04-18	Evangelium_secundum_Lucam
+1100001149	et clamans voce magna iesus ait: pater, in manus tuas commendo spiritum meum. 	2020-04-18	Evangelium_secundum_Lucam
+1100001150	et haec dicens, expiravit.	2020-04-18	Evangelium_secundum_Lucam
+1100001151	videns autem centurio quod factum fuerat, glorificavit deum, dicens: vere hic homo iustus erat.	2020-04-18	Evangelium_secundum_Lucam
+1100001152	et omnis turba eorum, qui simul aderant ad spectaculum istud, et videbant quae fiebant, percutientes pectora sua revertebantur.	2020-04-18	Evangelium_secundum_Lucam
+1100001153	stabant autem omnes noti eius a longe, et mulieres, quae secutae eum erant a galilaea, haec videntes.	2020-04-18	Evangelium_secundum_Lucam
+1100001154	et ecce vir nomine ioseph, qui erat decurio, vir bonus et iustus:hic non consenserat consilio, et actibus eorum: ab arimathaea civitate iudaeae, qui exspectabat et ipse regnum dei:hic accessit ad pilatum et petiit corpus iesu:et depositum involvit sindone, et posuit eum in monumento exciso, in quo nondum quisquam positus fuerat.	2020-04-18	Evangelium_secundum_Lucam
+1100001155	et dies erat parasceves, et sabbatum illucescebat.	2020-04-18	Evangelium_secundum_Lucam
+1100001156	subsecutae autem mulieres, quae cum eo venerant de galilaea, viderunt monumentum, et quemadmodum positum erat corpus eius.	2020-04-18	Evangelium_secundum_Lucam
+1100001157	et revertentes paraverunt aromata, et unguenta: et sabbato quidem siluerunt secundum mandatum.	2020-04-18	Evangelium_secundum_Lucam
+1100001158	caput 24	2020-04-18	Evangelium_secundum_Lucam
+1100001159	una autem sabbati valde diluculo venerunt ad monumentum, portantes quae paraverant aromata:et invenerunt lapidem revolutum a monumento.	2020-04-18	Evangelium_secundum_Lucam
+1100001160	et ingressae non invenerunt corpus domini iesu.	2020-04-18	Evangelium_secundum_Lucam
+1100001161	et factum est, dum mente consternatae essent de isto, ecce duo viri steterunt secus illas in veste fulgenti.	2020-04-18	Evangelium_secundum_Lucam
+1100001162	cum timerent autem, et declinarent vultum in terram, dixerunt ad illas: quid quaeritis viventem cum mortuis?	2020-04-18	Evangelium_secundum_Lucam
+1100001163	non est hic, sed surrexit: recordamini qualiter locutus est vobis, cum adhuc in galilaea esset,dicens: quia oportet filium hominis tradi in manus hominum peccatorum, et crucifigi, et die tertia resurgere.	2020-04-18	Evangelium_secundum_Lucam
+1100001164	et recordatae sunt verborum eius.	2020-04-18	Evangelium_secundum_Lucam
+1100001165	et regressae a monumento nuntiaverunt haec omnia illis undecim, et ceteris omnibus.	2020-04-18	Evangelium_secundum_Lucam
+1100001166	erat autem maria magdalene, et ioanna, et maria iacobi, et ceterae quae cum eis erant, quae dicebant ad apostolos haec.	2020-04-18	Evangelium_secundum_Lucam
+1100001167	et visa sunt ante illos sicut deliramentum verba ista, et non crediderunt illis.	2020-04-18	Evangelium_secundum_Lucam
+1100001168	petrus autem surgens cucurrit ad monumentum: et procumbens vidit linteamina sola posita, et abiit secum mirans quod factum fuerat.	2020-04-18	Evangelium_secundum_Lucam
+1100001169	et ecce duo ex illis ibant ipsa die in castellum, quod erat in spatio stadiorum sexaginta ab ierusalem, nomine emmaus.	2020-04-18	Evangelium_secundum_Lucam
+1100001170	et ipsi loquebantur ad invicem de his omnibus quae acciderant.	2020-04-18	Evangelium_secundum_Lucam
+1100001171	et factum est, dum fabularentur, et secum quaererent: et ipse iesus appropinquans ibat cum illis:oculi autem illorum tenebantur ne eum agnoscerent.	2020-04-18	Evangelium_secundum_Lucam
+1100001172	et ait ad illos: qui sunt hi sermones, quos confertis ad invicem ambulantes, et estis tristes?	2020-04-18	Evangelium_secundum_Lucam
+1100001173	et respondens unus, cui nomen cleophas, dixit ei: tu solus peregrinus es in ierusalem, et non cognovisti quae facta sunt in illa his diebus?	2020-04-18	Evangelium_secundum_Lucam
+1100001174	quibus ille dixit: quae? 	2020-04-18	Evangelium_secundum_Lucam
+1100001175	et dixerunt: de iesu nazareno, qui fuit vir propheta, potens in opere et sermone coram deo et omni populo:et quomodo eum tradiderunt summi sacerdotes et principes nostri in damnationem mortis, et crucifixerunt eum:nos autem sperabamus quia ipse esset redempturus israel: et nunc super haec omnia, tertia dies est hodie quod haec facta sunt.	2020-04-18	Evangelium_secundum_Lucam
+1100001176	sed et mulieres quaedam ex nostris terruerunt nos, quae ante lucem fuerunt ad monumentum,et non invento corpore eius, venerunt, dicentes se etiam visionem angelorum vidisse, qui dicunt eum vivere.	2020-04-18	Evangelium_secundum_Lucam
+1100001177	et abierunt quidam ex nostris ad monumentum: et ita invenerunt sicut mulieres dixerunt, ipsum vero non invenerunt.	2020-04-18	Evangelium_secundum_Lucam
+1100001178	et ipse dixit ad eos: o stulti, et tardi corde ad credendum in omnibus quae locuti sunt prophetae!	2020-04-18	Evangelium_secundum_Lucam
+1100001179	nonne haec oportuit pati christum, et ita intrare in gloriam suam?	2020-04-18	Evangelium_secundum_Lucam
+1100001180	et incipiens a moyse, et omnibus prophetis, interpretabatur illis in omnibus scripturis quae de ipso erant.	2020-04-18	Evangelium_secundum_Lucam
+1100001181	et appropinquaverunt castello quo ibant: et ipse se finxit longius ire.	2020-04-18	Evangelium_secundum_Lucam
+1100001182	et coegerunt illum, dicentes: mane nobiscum, quoniam advesperascit, et inclinata est iam dies. 	2020-04-18	Evangelium_secundum_Lucam
+1100001183	et intravit cum illis.	2020-04-18	Evangelium_secundum_Lucam
+1100001184	et factum est, dum recumberet cum eis, accepit panem, et benedixit, ac fregit, et porrigebat illis.	2020-04-18	Evangelium_secundum_Lucam
+1100001185	et aperti sunt oculi eorum, et cognoverunt eum: et ipse evanuit ex oculis eorum.	2020-04-18	Evangelium_secundum_Lucam
+1100001186	et dixerunt ad invicem: nonne cor nostrum ardens erat in nobis dum loqueretur in via, et aperiret nobis scripturas?	2020-04-18	Evangelium_secundum_Lucam
+1100001187	et surgentes eadem hora regressi sunt in ierusalem: et invenerunt congregatos undecim, et eos qui cum illis erant,dicentes: quod surrexit dominus vere, et apparuit simoni.	2020-04-18	Evangelium_secundum_Lucam
+1100001188	et ipsi narrabant quae gesta erant in via, et quomodo cognoverunt eum in fractione panis.	2020-04-18	Evangelium_secundum_Lucam
+1100001189	dum autem haec loquuntur, stetit iesus in medio eorum, et dicit eis: pax vobis: ego sum, nolite timere.	2020-04-18	Evangelium_secundum_Lucam
+1100001190	conturbati vero et conterriti, existimabant se spiritum videre.	2020-04-18	Evangelium_secundum_Lucam
+1100001191	et dixit eis: quid turbati estis, et cogitationes ascendunt in corda vestra?	2020-04-18	Evangelium_secundum_Lucam
+1100001192	videte manus meas, et pedes, quia ego ipse sum; palpate et videte, quia spiritus carnem et ossa non habet, sicut me videtis habere.	2020-04-18	Evangelium_secundum_Lucam
+1100001193	et cum hoc dixisset, ostendit eis manus et pedes.	2020-04-18	Evangelium_secundum_Lucam
+1100001194	adhuc autem illis non credentibus, et mirantibus prae gaudio, dixit: habetis hic aliquid quod manducetur?	2020-04-18	Evangelium_secundum_Lucam
+1100001195	at illi obtulerunt ei partem piscis assi et favum mellis.	2020-04-18	Evangelium_secundum_Lucam
+1100001196	et cum manducasset coram eis, sumens reliquias dedit eis.	2020-04-18	Evangelium_secundum_Lucam
+1100001197	et dixit ad eos: haec sunt verba quae locutus sum ad vos cum adhuc essem vobiscum, quoniam necesse est impleri omnia quae scripta sunt in lege moysi, et prophetis, et psalmis de me.	2020-04-18	Evangelium_secundum_Lucam
+1100001198	tunc aperuit illis sensum ut intelligerent scripturas,et dixit eis: quoniam sic scriptum est, et sic oportebat christum pati, et resurgere a mortuis tertia die:et praedicari in nomine eius poenitentiam, et remissionem peccatorum in omnes gentes, incipientibus ab ierosolyma.	2020-04-18	Evangelium_secundum_Lucam
+1100001199	vos autem testes estis horum.	2020-04-18	Evangelium_secundum_Lucam
+1100001200	et ego mitto promissum patris mei in vos; vos autem sedete in civitate, quoadusque induamini virtute ex alto.	2020-04-18	Evangelium_secundum_Lucam
+1100001201	eduxit autem eos foras in bethaniam, et elevatis manibus suis benedixit eis.	2020-04-18	Evangelium_secundum_Lucam
+1100001202	et factum est, dum benediceret illis, recessit ab eis, et ferebatur in caelum.	2020-04-18	Evangelium_secundum_Lucam
+1100001203	et ipsi adorantes regressi sunt in ierusalem cum gaudio magno:et erant semper in templo, laudantes et benedicentes deum. 	2020-04-18	Evangelium_secundum_Lucam
+1100001204	amen.	2020-04-18	Evangelium_secundum_Lucam

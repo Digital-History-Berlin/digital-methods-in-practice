@@ -1,0 +1,395 @@
+1100000001	apocalypsis b. ioannis apostoli	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000002	caput 1	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000003	apocalypsis iesu christi, quam dedit illi deus palam facere servis suis, quae oportet fieri cito: et significavit, mittens per angelum suum servo suo ioanni,qui testimonium perhibuit verbo dei, et testimonium iesu christi, quaecumque vidit.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000004	beatus qui legit, et audit verba prophetiae huius, et servat ea, quae in ea scripta sunt: tempus enim prope est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000005	ioannes septem ecclesiis, quae sunt in asia. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000006	gratia vobis, et pax ab eo, qui est, et qui erat, et qui venturus est: et a septem spiritibus qui in conspectu throni eius sunt:et a iesu christo, qui est testis fidelis, primogenitus mortuorum, et princeps regum terrae, qui dilexit nos, et lavit nos a peccatis nostris in sanguine suo,et fecit nos regnum, et sacerdotes deo et patri suo: ipsi gloria et imperium in saecula saeculorum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000007	amen.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000008	ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000009	et plangent se super eum omnes tribus terrae. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000010	etiam: amen.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000011	ego sum alpha et omega, principium et finis, dicit dominus deus: qui est, et qui erat, et qui venturus est, omnipotens.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000012	ego ioannes frater vester, et particeps in tribulatione, et regno, et patientia in christo iesu: fui in insula, quae appellatur patmos, propter verbum dei, et testimonium iesu:fui in spiritu in dominica die, et audivi post me vocem magnam tamquam tubae,dicentis: quod vides, scribe in libro: et mitte septem ecclesiis, quae sunt in asia, epheso, et smyrnae, et pergamo, et thyatirae, et sardis, et philadelphiae, et laodiciae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000013	et conversus sum ut viderem vocem, quae loquebatur mecum: et conversus vidi septem candelabra aurea:et in medio septem candelabrorum aureorum, similem filio hominis vestitum podere, et praecinctum ad mamillas zona aurea:caput autem eius, et capilli erant candidi tamquam lana alba, et tamquam nix, et oculi eius tamquam flamma ignis:et pedes eius similes auricalco, sicut in camino ardenti, et vox illius tamquam vox aquarum multarum:et habebat in dextera sua stellas septem: et de ore eius gladius utraque parte acutus exibat: et facies eius sicut sol lucet in virtute sua.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000014	et cum vidissem eum, cecidi ad pedes eius tamquam mortuus. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000015	et posuit dexteram suam super me, dicens: noli timere: ego sum primus, et novissimus,et vivus, et fui mortuus, et ecce sum vivens in saecula saeculorum: et habeo claves mortis, et inferni.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000016	scribe ergo quae vidisti, et quae sunt, et quae oportet fieri post haec.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000017	sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabra aurea: septem stellae, angeli sunt septem ecclesiarum: et candelabra septem, septem ecclesiae sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000018	caput 2	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000019	angelo ephesi ecclesiae scribe: haec dicit, qui tenet septem stellas in dextera sua, qui ambulat in medio septem candelabrorum aureorum:scio opera tua, et laborem, et patientiam tuam, et quia non potes sustinere malos: et tentasti eos, qui se dicunt apostolos esse, et non sunt: et invenisti eos mendaces:et patientiam habes, et sustinuisti propter nomen meum, et non defecisti.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000020	sed habeo adversum te, quod caritatem tuam primam reliquisti.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000021	memor esto itaque unde excideris: et age poenitentiam, et prima opera fac: sin autem, venio tibi, et movebo candelabrum tuum de loco suo, nisi poenitentiam egeris.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000022	sed hoc habes, quia odisti facta nicolaitarum, quae et ego odi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000023	qui habet aurem, audiat quid spiritus dicat ecclesiis: vincenti dabo edere de ligno vitae, quod est in paradiso dei mei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000024	et angelo smyrnae ecclesiae scribe: haec dicit primus, et novissimus, qui fuit mortuus, et vivit:scio tribulationem tuam, et paupertatem tuam, sed dives es: et blasphemaris ab his, qui se dicunt iudaeos esse, et non sunt, sed sunt synagoga satanae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000025	nihil horum timeas quae passurus es. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000026	ecce missurus est diabolus aliquos ex vobis in carcerem ut tentemini: et habebitis tribulationem diebus decem. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000027	esto fidelis usque ad mortem, et dabo tibi coronam vitae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000028	qui habet aurem, audiat quid spiritus dicat ecclesiis: qui vicerit, non laedetur a morte secunda.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000029	et angelo pergami ecclesiae scribe: haec dicit qui habet rhomphaeam utraque parte acutam:scio ubi habitas, ubi sedes est satanae: et tenes nomen meum, et non negasti fidem meam. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000030	et in diebus illis antipas testis meus fidelis, qui occisus est apud vos ubi satanas habitat.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000031	sed habeo adversus te pauca: quia habes illic tenentes doctrinam balaam, qui docebat balac mittere scandalum coram filiis israel, edere, et fornicari:ita habes et tu tenentes doctrinam nicolaitarum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000032	similiter poenitentiam age: si quominus veniam tibi cito, et pugnabo cum illis in gladio oris mei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000033	qui habet aurem, audiat quid spiritus dicat ecclesiis: vincenti dabo manna absconditum, et dabo illi calculum candidum: et in calculo nomen novum scriptum, quod nemo scit, nisi qui accipit.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000034	et angelo thyatirae ecclesiae scribe: haec dicit filius dei, qui habet oculos tamquam flammam ignis, et pedes eius similes auricalco:novi opera tua, et fidem, et caritatem tuam, et ministerium, et patientiam tuam, et opera tua novissima plura prioribus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000035	sed habeo adversus te pauca: quia permittis mulierem iezabel, quae se dicit propheten, docere, et seducere servos meos, fornicari, et manducare de idolothytis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000036	et dedi illi tempus ut poenitentiam ageret: et non vult poenitere a fornicatione sua.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000037	ecce mittam eam in lectum: et qui moechantur cum ea, in tribulatione maxima erunt, nisi poenitentiam ab operibus suis egerint.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000038	et filios eius interficiam in morte, et scient omnes ecclesiae, quia ego sum scrutans renes, et corda: et dabo unicuique vestrum secundum opera sua. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000039	vobis autem dico,et ceteris qui thyatirae estis: quicumque non habent doctrinam hanc, et qui non cognoverunt altitudines satanae, quemadmodum dicunt, non mittam super vos aliud pondus:tamen id quod habetis, tenete donec veniam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000040	et qui vicerit, et custodierit usque in finem opera mea, dabo illi potestatem super gentes,et reget eas in virga ferrea, et tamquam vas figuli confringentur,sicut et ego accepi a patre meo: et dabo illi stellam matutinam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000041	qui habet aurem, audiat quid spiritus dicat ecclesiis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000042	caput 3	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000043	et angelo ecclesiae sardis scribe: haec dicit qui habet septem spiritus dei, et septem stellas: scio opera tua, quia nomen habes quod vivas, et mortuus es.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000044	esto vigilans, et confirma cetera, quae moritura erant. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000045	non enim invenio opera tua plena coram deo meo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000046	in mente ergo habe qualiter acceperis, et audieris, et serva, et poenitentiam age. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000047	si ergo non vigilaveris, veniam ad te tamquam fur et nescies qua hora veniam ad te.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000048	sed habes pauca nomina in sardis qui non inquinaverunt vestimenta sua: et ambulabunt mecum in albis, quia digni sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000049	qui vicerit, sic vestietur vestimentis albis, et non delebo nomen eius de libro vitae, et confitebor nomen eius coram patre meo, et coram angelis eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000050	qui habet aurem, audiat quid spiritus dicat ecclesiis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000051	et angelo philadelphiae ecclesiae scribe: haec dicit sanctus et verus, qui habet clavem david: qui aperit, et nemo claudit: claudit, et nemo aperit:scio opera tua. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000052	ecce dedi coram te ostium apertum, quod nemo potest claudere: quia modicam habes virtutem, et servasti verbum meum, et non negasti nomen meum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000053	ecce dabo de synagoga satanae, qui dicunt se iudaeos esse, et non sunt, sed mentiuntur: ecce faciam illos ut veniant, et adorent ante pedes tuos: et scient quia ego dilexi te,quoniam servasti verbum patientiae meae, et ego servabo te ab hora tentationis, quae ventura est in orbem universum tentare habitantes in terra.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000054	ecce venio cito: tene quod habes, ut nemo accipiat coronam tuam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000055	qui vicerit, faciam illum columnam in templo dei mei, et foras non egredietur amplius: et scribam super eum nomen dei mei, et nomen civitatis dei mei novae ierusalem, quae descendit de caelo a deo meo, et nomen meum novum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000056	qui habet aurem, audiat quid spiritus dicat ecclesiis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000057	et angelo laodiciae ecclesiae scribe: haec dicit: amen, testis fidelis et verus, qui est principium creaturae dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000058	scio opera tua: quia neque frigidus es, neque calidus: utinam frigidus esses, aut calidus:sed quia tepidus es, et nec frigidus, nec calidus, incipiam te evomere ex ore meo:quia dicis: quod dives sum, et locupletatus, et nullius egeo: et nescis quia tu es miser, et miserabilis, et pauper, et caecus, et nudus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000059	suadeo tibi emere a me aurum ignitum probatum, ut locuples fias, et vestimentis albis induaris, et non appareat confusio nuditatis tuae, et collyrio inunge oculos tuos ut videas.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000060	ego quos amo, arguo, et castigo. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000061	aemulare ergo, et poenitentiam age.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000062	ecce sto ad ostium, et pulso: si quis audierit vocem meam, et aperuerit mihi ianuam, intrabo ad illum, et coenabo cum illo, et ipse mecum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000063	qui vicerit, dabo ei sedere mecum in throno meo: sicut et ego vici, et sedi cum patre meo in throno eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000064	qui habet aurem, audiat quid spiritus dicat ecclesiis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000065	caput 4	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000066	post haec vidi: et ecce ostium apertum in caelo, et vox prima, quam audivi tamquam tubae loquentis mecum, dicens: ascende huc, et ostendam tibi quae oportet fieri post haec.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000067	et statim fui in spiritu: et ecce sedes posita erat in caelo, et supra sedem sedens.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000068	et qui sedebat similis erat aspectui lapidis iaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000069	et in circuitu sedis sedilia viginti quatuor: et super thronos viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronae aureae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000070	et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000071	et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quatuor animalia plena oculis ante et retro.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000072	et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilae volanti.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000073	et quatuor animalia, singula eorum habebant alas senas: et in circuitu, et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: sanctus, sanctus, sanctus dominus deus omnipotens, qui erat, et qui est, et qui venturus est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000074	et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in saecula saeculorum,procidebant viginti quatuor seniores ante sedentem in throno, et adorabant viventem in saecula saeculorum, et mittebant coronas suas ante thronum, dicentes:dignus es domine deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000075	caput 5	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000076	et vidi in dextera sedentis supra thronum, librum scriptum intus et foris, signatum sigillis septem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000077	et vidi angelum fortem, praedicantem voce magna: quis est dignus aperire librum, et solvere signacula eius?	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000078	et nemo poterat neque in caelo, neque in terra, neque subtus terram aperire librum, neque respicere illum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000079	et ego flebam multum, quoniam nemo dignus inventus est aperire librum, nec videre eum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000080	et unus de senioribus dixit mihi: ne fleveris: ecce vicit leo de tribu iuda, radix david, aperire librum, et solvere septem signacula eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000081	et vidi: et ecce in medio throni et quatuor animalium, et in medio seniorum, agnum stantem tamquam occisum, habentem cornua septem, et oculos septem: qui sunt septem spiritus dei, missi in omnem terram.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000082	et venit: et accepit de dextera sedentis in throno librum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000083	et cum aperuisset librum, quatuor animalia, et viginti quatuor seniores ceciderunt coram agno, habentes singuli citharas, et phialas aureas plenas odoramentorum, quae sunt orationes sanctorum:et cantabant canticum novum, dicentes: dignus es, domine, accipere librum, et aperire signacula eius: quoniam occisus es, et redemisti nos deo in sanguine tuo ex omni tribu, et lingua, et populo, et natione:et fecisti nos deo nostro regnum, et sacerdotes: et regnabimus super terram.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000084	et vidi, et audivi vocem angelorum multorum in circuitu throni, et animalium, et seniorum: et erat numerus eorum millia millium,dicentium voce magna: dignus est agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000085	et omnem creaturam, quae in caelo est, et super terram, et sub terra, et quae sunt in mari, et quae in eo: omnes audivi dicentes: sedenti in throno, et agno, benedictio et honor, et gloria, et potestas in saecula saeculorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000086	et quatuor animalia dicebant: amen. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000087	et viginti quatuor seniores ceciderunt in facies suas: et adoraverunt viventem in saecula saeculorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000088	caput 6	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000089	et vidi quod aperuisset agnus unum de septem sigillis, et audivi unum de quatuor animalibus, dicens tamquam vocem tonitrui: veni, et vide.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000090	et vidi: et ecce equus albus, et qui sedebat super illum, habebat arcum, et data est ei corona, et exivit vincens ut vinceret.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000091	et cum aperuisset sigillum secundum, audivi secundum animal, dicens: veni, et vide.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000092	et exivit alius equus rufus: et qui sedebat super illum, datum est ei ut sumeret pacem de terra, et ut invicem se interficiant, et datus est ei gladius magnus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000093	et cum aperuisset sigillum tertium, audivi tertium animal, dicens: veni, et vide. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000094	et ecce equus niger: et qui sedebat super illum, habebat stateram in manu sua.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000095	et audivi tamquam vocem in medio quatuor animalium dicentium: bilibris tritici denario et tres bilibres hordei denario, et vinum, et oleum ne laeseris.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000096	et cum aperuisset sigillum quartum, audivi vocem quarti animalis dicentis: veni, et vide.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000097	et ecce equus pallidus: et qui sedebat super eum, nomen illi mors, et infernus sequebatur eum, et data est illi potestas super quatuor partes terrae, interficere gladio, fame, et morte, et bestiis terrae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000098	et cum aperuisset sigillum quintum, vidi subtus altare animas interfectorum propter verbum dei, et propter testimonium, quod habebant:et clamabant voce magna, dicentes: usquequo domine (sanctus et verus), non iudicas, et non vindicas sanguinem nostrum de iis qui habitant in terra?	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000099	et datae sunt illis singulae stolae albae: et dictum est illis ut requiescerent adhuc tempus modicum donec compleantur conservi eorum, et fratres eorum, qui interficiendi sunt sicut et illi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000100	et vidi cum aperuisset sigillum sextum: et ecce terraemotus magnus factus est, et sol factus est niger tamquam saccus cilicinus: et luna tota facta est sicut sanguis:et stellae de caelo ceciderunt super terram, sicut ficus emittit grossos suos cum a vento magno movetur:et caelum recessit sicut liber involutus: et omnis mons, et insulae de locis suis motae sunt:et reges terrae, et principes, et tribuni, et divites, et fortes, et omnis servus, et liber absconderunt se in speluncis, et in petris montium:et dicunt montibus, et petris: cadite super nos, et abscondite nos a facie sedentis super thronum, et ab ira agni:quoniam venit dies magnus irae ipsorum: et quis poterit stare?	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000101	caput 7	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000102	post haec vidi quatuor angelos stantes super quatuor angulos terrae, tenentes quatuor ventos terrae, ne flarent super terram, neque super mare, neque in ullam arborem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000103	et vidi alterum angelum ascendentem ab ortu solis, habentem signum dei vivi: et clamavit voce magna quatuor angelis, quibus datum est nocere terrae et mari,dicens: nolite nocere terrae, et mari, neque arboribus, quoadusque signemus servos dei nostri in frontibus eorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000104	et audivi numerum signatorum, centum quadraginta quatuor millia signati, ex omni tribu filiorum israel.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000105	ex tribu iuda duodecim millia signati: ex tribu ruben duodecim millia signati: ex tribu gad duodecim millia signati:ex tribu aser duodecim millia signati: ex tribu nephthali duodecim millia signati: ex tribu manasse duodecim millia signati:ex tribu simeon duodecim millia signati: ex tribu levi duodecim millia signati: ex tribu issachar duodecim millia signati:ex tribu zabulon duodecim millia signati: ex tribu ioseph duodecim millia signati: ex tribu beniamin duodecim millia signati.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000106	post haec vidi turbam magnam, quam dinumerare nemo poterat, ex omnibus gentibus, et tribubus, et populis, et linguis: stantes ante thronum, et in conspectu agni, amicti stolis albis, et palmae in manibus eorum:et clamabant voce magna, dicentes: salus deo nostro, qui sedet super thronum, et agno.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000107	et omnes angeli stabant in circuitu throni, et seniorum, et quatuor animalium: et ceciderunt in conspectu throni in facies suas, et adoraverunt deum,dicentes: amen. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000108	benedictio, et claritas, et sapientia, et gratiarum actio, honor, et virtus, et fortitudo deo nostro in saecula saeculorum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000109	amen.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000110	et respondit unus de senioribus et dixit mihi: hi, qui amicti sunt stolis albis, qui sunt? 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000111	et unde venerunt?	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000112	et dixi illi: domine mi, tu scis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000113	et dixit mihi: hi sunt, qui venerunt de tribulatione magna, et laverunt stolas suas, et dealbaverunt eas in sanguine agni.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000114	ideo sunt ante thronum dei, et serviunt ei die ac nocte in templo eius: et qui sedet in throno, habitabit super illos:non esurient, neque sitient amplius, nec cadet super illos sol, neque ullus aestus:quoniam agnus, qui in medio throni est, reget illos et deducet eos ad vitae fontes aquarum, et absterget deus omnem lacrimam ab oculis eorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000115	caput 8	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000116	et cum aperuisset sigillum septimum, factum est silentium in caelo, quasi media hora.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000117	et vidi septem angelos stantes in conspectu dei: et datae sunt illis septem tubae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000118	et alius angelus venit, et stetit ante altare habens thuribulum aureum: et data sunt illi incensa multa, ut daret de orationibus sanctorum omnium super altare aureum, quod est ante thronum dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000119	et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram deo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000120	et accepit angelus thuribulum, et implevit illud de igne altaris, et misit in terram: et facta sunt tonitrua, et voces, et fulgura, et terraemotus magnus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000121	et septem angeli, qui habebant septem tubas, praeparaverunt se ut tuba canerent.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000122	et primus angelus tuba cecinit, et facta est grando, et ignis, mista in sanguine, et missum est in terram, et tertia pars terrae combusta est, et tertia pars arborum concremata est, et omne foenum viride combustum est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000123	et secundus angelus tuba cecinit: et tamquam mons magnus igne ardens missus est in mare, et facta est tertia pars maris sanguis,et mortua est tertia pars creaturae eorum, quae habebant animas in mari, et tertia pars navium interiit.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000124	et tertius angelus tuba cecinit: et cecidit de caelo stella magna, ardens tamquam facula, et cecidit in tertiam partem fluminum, et in fontes aquarum:et nomen stellae dicitur absinthium, et facta est tertia pars aquarum in absinthium; et multi hominum mortui sunt de aquis, quia amarae factae sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000125	et quartus angelus tuba cecinit: et percussa est tertia pars solis, et tertia pars lunae, et tertia pars stellarum, ita ut obscuraretur tertia pars eorum, et diei non luceret pars tertia, et noctis similiter.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000126	et vidi, et audivi vocem unius aquilae volantis per medium caeli dicentis voce magna: vae, vae, vae habitantibus in terra de ceteris vocibus trium angelorum, qui erant tuba canituri.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000127	caput 9	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000128	et quintus angelus tuba cecinit: et vidi stellam de caelo cecidisse in terram, et data est ei clavis putei abyssi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000129	et aperuit puteum abyssi: et ascendit fumus putei, sicut fumus fornacis magnae: et obscuratus est sol, et aer de fumo putei:et de fumo putei exierunt locustae in terram, et data est illis potestas, sicut habent potestatem scorpiones terrae:et praeceptum est illis ne laederent foenum terrae, neque omne viride, neque omnem arborem: nisi tantum homines, qui non habent signum dei in frontibus suis:et datum est illis ne occiderent eos: sed ut cruciarent mensibus quinque: et cruciatus eorum, ut cruciatus scorpii cum percutit hominem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000130	et in diebus illis quaerent homines mortem, et non invenient eam: et desiderabunt mori, et fugiet mors ab eis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000131	et similitudines locustarum, similes equis paratis in praelium: et super capita earum tamquam coronae similes auro: et facies earum tamquam facies hominum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000132	et habebant capillos sicut capillos mulierum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000133	et dentes earum, sicut dentes leonum erant:et habebant loricas sicut loricas ferreas, et vox alarum earum sicut vox curruum equorum multorum currentium in bellum:et habebant caudas similes scorpionum, et aculei erant in caudis earum: et potestas earum nocere hominibus mensibus quinque:et habebant super se regem angelum abyssi cui nomen hebraice abaddon, graece autem apollyon, latine habens nomen exterminans.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000134	vae unum abiit, et ecce veniunt adhuc duo vae post haec.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000135	et sextus angelus tuba cecinit: et audivi vocem unam ex quatuor cornibus altaris aurei, quod est ante oculos dei,dicentem sexto angelo, qui habebat tubam: solve quatuor angelos, qui alligati sunt in flumine magno euphrate.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000136	et soluti sunt quatuor angeli, qui parati erant in horam, et diem, et mensem, et annum, ut occiderent tertiam partem hominum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000137	et numerus equestris exercitus vicies millies dena millia. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000138	et audivi numerum eorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000139	et ita vidi equos in visione: et qui sedebant super eos, habebant loricas igneas, et hyacinthinas, et sulphureas, et capita equorum erant tamquam capita leonum: et de ore eorum procedit ignis, et fumus, et sulphur.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000140	et ab his tribus plagis occisa est tertia pars hominum de igne, et de fumo, et sulphure, quae procedebant de ore ipsorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000141	potestas enim equorum in ore eorum est, et in caudis eorum, nam caudae eorum similes serpentibus, habentes capita: et in his nocent.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000142	et ceteri homines, qui non sunt occisi in his plagis, neque poenitentiam egerunt de operibus manuum suarum, ut non adorarent daemonia, et simulacra aurea, et argentea, et aerea, et lapidea, et lignea, quae neque videre possunt, neque audire, neque ambulare,et non egerunt poenitentiam ab homicidiis suis, neque a veneficiis suis, neque a fornicatione sua, neque a furtis suis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000143	caput 10	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000144	et vidi alium angelum fortem descendentem de caelo amictum nube, et iris in capite eius, et facies eius erat ut sol, et pedes eius tamquam columnae ignis:et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:et clamavit voce magna, quemadmodum cum leo rugit. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000145	et cum clamasset, locuta sunt septem tonitrua voces suas.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000146	et cum locuta fuissent septem tonitrua voces suas, ego scripturus eram: et audivi vocem de caelo dicentem mihi: signa quae locuta sunt septem tonitrua: et noli ea scribere.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000147	et angelus, quem vidi stantem super mare et super terram, levavit manum suam ad caelum:et iuravit per viventem in saecula saeculorum, qui creavit caelum, et ea quae in eo sunt: et terram, et ea quae in ea sunt: et mare, et ea quae in eo sunt: quia tempus non erit amplius:sed in diebus vocis septimi angeli, cum coeperit tuba canere, consummabitur mysterium dei sicut evangelizavit per servos suos prophetas.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000148	et audivi vocem de caelo iterum loquentem mecum, et dicentem: vade, et accipe librum apertum de manu angeli stantis super mare, et super terram.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000149	et abii ad angelum, dicens ei, ut daret mihi librum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000150	et dixit mihi: accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000151	et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce, et cum devorassem eum, amaricatus est venter meus:et dixit mihi: oportet te iterum prophetare gentibus, et populis, et linguis, et regibus multis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000152	caput 11	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000153	et datus est mihi calamus similis virgae, et dictum est mihi: surge, et metire templum dei, et altare, et adorantes in eo:atrium autem, quod est foris templum, eiice foras, et ne metiaris illud: quoniam datum est gentibus, et civitatem sanctam calcabunt mensibus quadraginta duobus:et dabo duobus testibus meis, et prophetabunt diebus mille ducentis sexaginta, amicti saccis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000154	hi sunt duae olivae et duo candelabra in conspectu domini terrae stantes.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000155	et si quis voluerit eos nocere, ignis exiet de ore eorum, et devorabit inimicos eorum: et si quis voluerit eos laedere, sic oportet eum occidi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000156	hi habent potestatem claudendi caelum, ne pluat diebus prophetiae ipsorum: et potestatem habent super aquas convertendi eas in sanguinem, et percutere terram omni plaga quotiescumque voluerint.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000157	et cum finierint testimonium suum, bestia, quae ascendit de abysso, faciet adversum eos bellum, et vincet illos, et occidet eos.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000158	et corpora eorum iacebunt in plateis civitatis magnae, quae vocatur spiritualiter sodoma, et aegyptus, ubi et dominus eorum crucifixus est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000159	et videbunt de tribubus, et populis, et linguis, et gentibus corpora eorum per tres dies et dimidium: et corpora eorum non sinent poni in monumentis:et inhabitantes terram gaudebunt super illos, et iucundabuntur: et munera mittent invicem, quoniam hi duo prophetae cruciaverunt eos, qui habitabant super terram.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000160	et post dies tres et dimidium, spiritus vitae a deo intravit in eos. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000161	et steterunt super pedes suos, et timor magnus cecidit super eos qui viderunt eos.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000162	et audierunt vocem magnam de caelo, dicentem eis: ascendite huc. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000163	et ascenderunt in caelum in nube: et viderunt illos inimici eorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000164	et in illa hora factus est terraemotus magnus, et decima pars civitatis cecidit: et occisa sunt in terraemotu nomina hominum septem millia: et reliqui in timorem sunt missi, et dederunt gloriam deo caeli.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000165	vae secundum abiit: et ecce vae tertium veniet cito.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000166	et septimus angelus tuba cecinit: et factae sunt voces magnae in caelo dicentes: factum est regnum huius mundi, domini nostri et christi eius, et regnabit in saecula saeculorum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000167	amen.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000168	et viginti quatuor seniores, qui in conspectu dei sedent in sedibus suis, ceciderunt in facies suas, et adoraverunt deum, dicentes:gratias agimus tibi, domine deus omnipotens, qui es, et qui eras, et qui venturus es: quia accepisti virtutem tuam magnam, et regnasti.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000169	et iratae sunt gentes, et advenit ira tua et tempus mortuorum iudicari, et reddere mercedem servis tuis prophetis, et sanctis, et timentibus nomen tuum pusillis et magnis, et exterminandi eos qui corruperunt terram.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000170	et apertum est templum dei in caelo: et visa est arca testamenti eius in templo eius, et facta sunt fulgura, et voces, et terraemotus, et grando magna.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000171	caput 12	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000172	et signum magnum apparuit in caelo: mulier amicta sole, et luna sub pedibus eius, et in capite eius corona stellarum duodecim:et in utero habens, clamabat parturiens, et cruciabatur ut pariat.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000173	et visum est aliud signum in caelo: et ecce draco magnus rufus habens capita septem, et cornua decem: et in capitibus eius diademata septem,et cauda eius trahebat tertiam partem stellarum caeli, et misit eas in terram: et draco stetit ante mulierem, quae erat paritura, ut cum peperisset, filium eius devoraret.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000174	et peperit filium masculum, qui recturus erat omnes gentes in virga ferrea: et raptus est filius eius ad deum, et ad thronum eius,et mulier fugit in solitudinem ubi habebat locum paratum a deo, ut ibi pascant eam diebus mille ducentis sexaginta.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000175	et factum est praelium magnum in caelo: michael et angeli eius praeliabantur cum dracone, et draco pugnabat, et angeli eius:et non valuerunt, neque locus inventus est eorum amplius in caelo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000176	et proiectus est draco ille magnus, serpens antiquus, qui vocatur diabolus, et satanas, qui seducit universum orbem: et proiectus est in terram, et angeli eius cum illo missi sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000177	et audivi vocem magnam in caelo dicentem: nunc facta est salus, et virtus, et regnum dei nostri, et potestas christi eius: quia proiectus est accusator fratrum nostrorum, qui accusabat illos ante conspectum dei nostri die ac nocte.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000178	et ipsi vicerunt eum propter sanguinem agni, et propter verbum testimonii sui, et non dilexerunt animas suas usque ad mortem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000179	propterea laetamini caeli, et qui habitatis in eis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000180	vae terrae, et mari, quia descendit diabolus ad vos habens iram magnam, sciens quod modicum tempus habet.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000181	et postquam vidit draco quod proiectus esset in terram, persecutus est mulierem, quae peperit masculum:et datae sunt mulieri alae duae aquilae magnae ut volaret in desertum in locum suum, ubi alitur per tempus et tempora, et dimidium temporis a facie serpentis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000182	et misit serpens ex ore suo post mulierem, aquam tamquam flumen, ut eam faceret trahi a flumine.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000183	et adiuvit terra mulierem, et aperuit terra os suum, et absorbuit flumen, quod misit draco de ore suo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000184	et iratus est draco in mulierem: et abiit facere praelium cum reliquis de semine eius, qui custodiunt mandata dei, et habent testimonium iesu christi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000185	et stetit supra arenam maris.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000186	caput 13	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000187	et vidi de mari bestiam ascendentem habentem capita septem, et cornua decem, et super cornua eius decem diademata, et super capita eius nomina blasphemiae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000188	et bestia, quam vidi, similis erat pardo, et pedes eius sicut pedes ursi, et os eius sicut os leonis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000189	et dedit illi draco virtutem suam, et potestatem magnam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000190	et vidi unum de capitibus suis quasi occisum in mortem: et plaga mortis eius curata est. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000191	et admirata est universa terra post bestiam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000192	et adoraverunt draconem, qui dedit potestatem bestiae: et adoraverunt bestiam, dicentes: quis similis bestiae? 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000193	et quis poterit pugnare cum ea?	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000194	et datum est ei os loquens magna et blasphemias: et data est ei potestas facere menses quadraginta duos.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000195	et aperuit os suum in blasphemias ad deum, blasphemare nomen eius, et tabernaculum eius, et eos qui in caelo habitant.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000196	et est datum illi bellum facere cum sanctis, et vincere eos. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000197	et data est illi potestas in omnem tribum, et populum, et linguam, et gentem,et adoraverunt eam omnes, qui inhabitant terram: quorum non sunt scripta nomina in libro vitae agni, qui occisus est ab origine mundi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000198	si quis habet aurem, audiat.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000199	qui in captivitatem duxerit, in captivitatem vadet: qui in gladio occiderit, oportet eum gladio occidi. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000200	hic est patientia, et fides sanctorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000201	et vidi aliam bestiam ascendentem de terra, et habebat cornua duo similia agni, et loquebatur sicut draco.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000202	et potestatem prioris bestiae omnem faciebat in conspectu eius: et fecit terram, et habitantes in ea, adorare bestiam primam, cuius curata est plaga mortis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000203	et fecit signa magna, ut etiam ignem faceret de caelo descendere in terram in conspectu hominum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000204	et seduxit habitantes in terra propter signa, quae data sunt illi facere in conspectu bestiae, dicens habitantibus in terra, ut faciant imaginem bestiae, quae habet plagam gladii, et vixit.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000205	et datum est illi ut daret spiritum imagini bestiae, et ut loquatur imago bestiae: et faciat ut quicumque non adoraverint imaginem bestiae, occidantur.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000206	et faciet omnes pusillos, et magnos, et divites, et pauperes, et liberos, et servos habere caracterem in dextera manu sua, aut in frontibus suis:et nequis possit emere, aut vendere, nisi qui habet caracterem, aut nomen bestiae, aut numerum nominis eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000207	hic sapientia est. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000208	qui habet intellectum, computet numerum bestiae. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000209	numerus enim hominis est: et numerus eius sexcenti sexaginta sex.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000210	caput 14	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000211	et vidi: et ecce agnus stabat supra montem sion, et cum eo centum quadraginta quatuor millia, habentes nomen eius, et nomen patris eius scriptum in frontibus suis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000212	et audivi vocem de caelo, tamquam vocem aquarum multarum, et tamquam vocem tonitrui magni: et vocem, quam audivi, sicut citharoedorum citharizantium in citharis suis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000213	et cantabant quasi canticum novum ante sedem, et ante quatuor animalia, et seniores: et nemo poterat dicere canticum, nisi illa centum quadraginta quatuor millia, qui empti sunt de terra.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000214	hi sunt, qui cum mulieribus non sunt coinquinati: virgines enim sunt. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000215	hi sequuntur agnum quocumque ierit. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000216	hi empti sunt ex hominibus primitiae deo, et agno:et in ore eorum non est inventum mendacium: sine macula enim sunt ante thronum dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000217	et vidi alterum angelum volantem per medium caeli, habentem evangelium aeternum, ut evangelizaret sedentibus super terram, et super omnem gentem, et tribum, et linguam, et populum:dicens magna voce: timete dominum, et date illi honorem, quia venit hora iudicii eius: et adorate eum, qui fecit caelum, et terram, mare, et fontes aquarum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000218	et alius angelus secutus est dicens: cecidit, cecidit babylon illa magna: quae a vino irae fornicationis suae potavit omnes gentes.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000219	et tertius angelus secutus est illos, dicens voce magna: si quis adoraverit bestiam, et imaginem eius, et acceperit caracterem in fronte sua, aut in manu sua:et hic bibet de vino irae dei, quod mistum est mero in calice irae ipsius, et cruciabitur igne, et sulphure in conspectu angelorum sanctorum, et ante conspectum agni:et fumus tormentorum eorum ascendet in saecula saeculorum: nec habent requiem die ac nocte, qui adoraverunt bestiam, et imaginem eius, et si quis acceperit caracterem nominis eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000220	hic patientia sanctorum est, qui custodiunt mandata dei, et fidem iesu.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000221	et audivi vocem de caelo, dicentem mihi: scribe: beati mortui qui in domino moriuntur. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000222	amodo iam dicit spiritus, ut requiescant a laboribus suis: opera enim illorum sequuntur illos.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000223	et vidi: et ecce nubem candidam, et super nubem sedentem similem filio hominis, habentem in capite suo coronam auream, et in manu sua falcem acutam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000224	et alius angelus exivit de templo, clamans voce magna ad sedentem super nubem: mitte falcem tuam, et mete, quia venit hora ut metatur, quoniam aruit messis terrae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000225	et misit qui sedebat super nubem, falcem suam in terram, et demessa est terra.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000226	et alius angelus exivit de templo, quod est in caelo, habens et ipse falcem acutam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000227	et alius angelus exivit de altari, qui habebat potestatem supra ignem: et clamavit voce magna ad eum qui habebat falcem acutam, dicens: mitte falcem tuam acutam, et vindemia botros vineae terrae: quoniam maturae sunt uvae eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000228	et misit angelus falcem suam acutam in terram, et vindemiavit vineam terrae, et misit in lacum irae dei magnum:et calcatus est lacus extra civitatem, et exivit sanguis de lacu usque ad frenos equorum per stadia mille sexcenta.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000229	caput 15	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000230	et vidi aliud signum in caelo magnum et mirabile, angelos septem, habentes plagas septem novissimas: quoniam in illis consummata est ira dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000231	et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem eius, et numerum nominis eius, stantes super mare vitreum, habentes citharas dei:et cantantes canticum moysi servi dei, et canticum agni, dicentes: magna et mirabilia sunt opera tua, domine deus omnipotens: iustae et verae sunt viae tuae, rex saeculorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000232	quis non timebit te, domine, et magnificabit nomen tuum? 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000233	quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam iudicia tua manifesta sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000234	et post haec vidi: et ecce apertum est templum tabernaculi testimonii in caelo,et exierunt septem angeli habentes septem plagas de templo, vestiti lino mundo et candido, et praecincti circa pectora zonis aureis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000235	et unum de quatuor animalibus dedit septem angelis septem phialas aureas, plenas iracundiae dei viventis in saecula saeculorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000236	et impletum est templum fumo a maiestate dei, et de virtute eius: et nemo poterat introire in templum, donec consummarentur septem plagae septem angelorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000237	caput 16	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000238	et audivi vocem magnam de templo, dicentem septem angelis: ite, et effundite septem phialas irae dei in terram.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000239	et abiit primus, et effudit phialam suam in terram, et factum est vulnus saevum et pessimum in homines, qui habebant caracterem bestiae, et in eos qui adoraverunt imaginem eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000240	et secundus angelus effudit phialam suam in mare, et factus est sanguis tamquam mortui: et omnis anima vivens mortua est in mari.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000241	et tertius effudit phialam suam super flumina, et super fontes aquarum, et factus est sanguis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000242	et audivi angelum aquarum dicentem: iustus es, domine, qui es, et qui eras sanctus, qui haec iudicasti:quia sanguinem sanctorum et prophetarum effuderunt, et sanguinem eis dedisti bibere: digni enim sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000243	et audivi alterum ab altari dicentem: etiam domine deus omnipotens, vera et iusta iudicia tua.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000244	et quartus angelus effudit phialam suam in solem, et datum est illi aestu affligere homines, et igni:et aestuaverunt homines aestu magno, et blasphemaverunt nomen dei habentis potestatem super has plagas, neque egerunt poenitentiam ut darent illi gloriam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000245	et quintus angelus effudit phialam suam super sedem bestiae: et factum est regnum eius tenebrosum, et commanducaverunt linguas suas prae dolore:et blasphemaverunt deum caeli prae doloribus, et vulneribus suis, et non egerunt poenitentiam ex operibus suis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000246	et sextus angelus effudit phialam suam in flumen illud magnum euphraten: et siccavit aquam eius, ut praepararetur via regibus ab ortu solis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000247	et vidi de ore draconis, et de ore bestiae, et de ore pseudoprophetae spiritus tres immundos in modum ranarum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000248	sunt enim spiritus daemoniorum facientes signa, et procedunt ad reges totius terrae congregare illos in praelium ad diem magnum omnipotentis dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000249	ecce venio sicut fur. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000250	beatus qui vigilat, et custodit vestimenta sua, ne nudus ambulet, et videant turpitudinem eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000251	et congregabit illos in locum qui vocatur hebraice armagedon.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000252	et septimus angelus effudit phialam suam in aerem, et exivit vox magna de templo a throno, dicens: factum est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000253	et facta sunt fulgura, et voces, et tonitrua, et terraemotus factus est magnus, qualis numquam fuit ex quo homines fuerunt super terram: talis terraemotus, sic magnus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000254	et facta est civitas magna in tres partes: et civitates gentium ceciderunt. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000255	et babylon magna venit in memoriam ante deum, dare illi calicem vini indignationis irae eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000256	et omnis insula fugit, et montes non sunt inventi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000257	et grando magna sicut talentum descendit de caelo in homines: et blasphemaverunt deum homines propter plagam grandinis: quoniam magna facta est vehementer.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000258	caput 17	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000259	et venit unus de septem angelis, qui habebant septem phialas, et locutus est mecum, dicens: veni, ostendam tibi damnationem meretricis magnae, quae sedet super aquas multas,cum qua fornicati sunt reges terrae, et inebriati sunt qui inhabitant terram de vino prostitutionis eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000260	et abstulit me in spiritu in desertum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000261	et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiae, habentem capita septem, et cornua decem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000262	et mulier erat circumdata purpura, et coccino, et inaurata auro, et lapide pretioso, et margaritis, habens poculum aureum in manu sua, plenum abominatione, et immunditia fornicationis eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000263	et in fronte eius nomen scriptum: mysterium: babylon magna, mater fornicationum, et abominationum terrae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000264	et vidi mulierem ebriam de sanguine sanctorum, et de sanguine martyrum iesu. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000265	et miratus sum cum vidissem illam admiratione magna.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000266	et dixit mihi angelus: quare miraris? 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000267	ego dicam tibi sacramentum mulieris, et bestiae, quae portat eam, quae habet capita septem, et cornua decem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000268	bestia, quam vidisti, fuit, et non est, et ascensura est de abysso, et in interitum ibit: et mirabuntur inhabitantes terram (quorum non sunt scripta nomina in libro vitae a constitutione mundi) videntes bestiam, quae erat, et non est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000269	et hic est sensus, qui habet sapientiam. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000270	septem capita, septem montes sunt, super quos mulier sedet, et reges septem sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000271	quinque ceciderunt, unus est, et alius nondum venit: et cum venerit, oportet illum breve tempus manere.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000272	et bestia, quae erat, et non est: et ipsa octava est: et de septem est, et in interitum vadit.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000273	et decem cornua, quae vidisti, decem reges sunt: qui regnum nondum acceperunt, sed potestatem tamquam reges una hora accipient post bestiam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000274	hi unum consilium habent, et virtutem, et potestatem suam bestiae tradent.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000275	hi cum agno pugnabunt, et agnus vincet illos: quoniam dominus dominorum est, et rex regum, et qui cum illo sunt, vocati, electi, et fideles.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000276	et dixit mihi: aquae, quas vidisti ubi meretrix sedet, populi sunt, et gentes, et linguae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000277	et decem cornua, quae vidisti in bestia: hi odient fornicariam, et desolatam facient illam, et nudam, et carnes eius manducabunt, et ipsam igni concremabunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000278	deus enim dedit in corda eorum ut faciant quod placitum est illi: ut dent regnum suum bestiae donec consummentur verba dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000279	et mulier, quam vidisti, est civitas magna, quae habet regnum super reges terrae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000280	caput 18	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000281	et post haec vidi alium angelum descendentem de caelo, habentem potestatem magnam: et terra illuminata est a gloria eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000282	et exclamavit in fortitudine, dicens: cecidit, cecidit babylon magna: et facta est habitatio daemoniorum, et custodia omnis spiritus immundi, et custodia omnis volucris immundae, et odibilis:quia de vino irae fornicationis eius biberunt omnes gentes: et reges terrae cum illa fornicati sunt: et mercatores terrae de virtute deliciarum eius divites facti sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000283	et audivi aliam vocem de caelo, dicentem: exite de illa populus meus: ut ne participes sitis delictorum eius, et de plagis eius non accipiatis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000284	quoniam pervenerunt peccata eius usque ad caelum, et recordatus est dominus iniquitatum eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000285	reddite illi sicut et ipsa reddidit vobis: et duplicate duplicia secundum opera eius: in poculo, quo miscuit, miscete illi duplum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000286	quantum glorificavit se, et in deliciis fuit, tantum date illi tormentum et luctum: quia in corde suo dicit: sedeo regina: et vidua non sum, et luctum non videbo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000287	ideo in una die venient plagae eius, mors, et luctus, et fames, et igne comburetur: quia fortis est deus, qui iudicabit illam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000288	et flebunt, et plangent se super illam reges terrae, qui cum illa fornicati sunt, et in deliciis vixerunt, cum viderint fumum incendii eius:longe stantes propter timorem tormentorum eius, dicentes: vae, vae civitas illa magna babylon, civitas illa fortis: quoniam una hora venit iudicium tuum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000289	et negotiatores terrae flebunt, et lugebunt super illam: quoniam merces eorum nemo emet amplius:merces auri, et argenti, et lapidis pretiosi, et margaritae, et byssi, et purpurae, et serici, et cocci (et omne lignum thyinum, et omnia vasa eboris, et omnia vasa de lapide pretioso, et aeramento, et ferro, et marmore,et cinnamomum) et odoramentorum, et unguenti, et thuris, et vini, et olei, et similae, et tritici, et iumentorum, et ovium, et equorum, et rhedarum, et mancipiorum, et animarum hominum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000290	et poma desiderii animae tuae discesserunt a te, et omnia pinguia et praeclara perierunt a te, et amplius illa iam non invenient.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000291	mercatores horum, qui divites facti sunt, ab ea longe stabunt propter timorem tormentorum eius, flentes, ac lugentes,et dicentes: vae, vae civitas illa magna, quae amicta erat bysso, et purpura, et cocco, et deaurata erat auro, et lapide pretioso, et margaritis:quoniam una hora destitutae sunt tantae divitiae, et omnis gubernator, et omnis qui in lacum navigat, et nautae, et qui in mari operantur, longe steterunt,et clamaverunt videntes locum incendii eius, dicentes: quae similis civitati huic magnae?	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000292	et miserunt pulverem super capita sua, et clamaverunt flentes, et lugentes, dicentes: vae, vae civitas illa magna, in qua divites facti sunt omnes, qui habebant naves in mari de pretiis eius: quoniam una hora desolata est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000293	exsulta super eam caelum, et sancti apostoli, et prophetae: quoniam iudicavit deus iudicium vestrum de illa.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000294	et sustulit unus angelus fortis lapidem quasi molarem magnum, et misit in mare, dicens: hoc impetu mittetur babylon civitas illa magna, et ultra iam non invenietur.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000295	et vox citharoedorum, et musicorum, et tibia canentium, et tuba non audietur in te amplius: et omnis artifex omnis artis non invenietur in te amplius: et vox molae non audietur in te amplius:et lux lucernae non lucebit in te amplius: et vox sponsi et sponsae non audietur adhuc in te: quia mercatores tui erant principes terrae, quia in veneficiis tuis erraverunt omnes gentes.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000296	et in ea sanguis prophetarum et sanctorum inventus est: et omnium qui interfecti sunt in terra.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000297	caput 19	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000298	post haec audivi quasi vocem turbarum multarum in caelo dicentium: alleluia: salus, et gloria, et virtus deo nostro est:quia vera et iusta iudicia sunt eius, qui iudicavit de meretrice magna, quae corrupit terram in prostitutione sua, et vindicavit sanguinem servorum suorum de manibus eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000299	et iterum dixerunt: alleluia. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000300	et fumus eius ascendit in saecula saeculorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000301	et ceciderunt seniores viginti quatuor, et quatuor animalia, et adoraverunt deum sedentem super thronum, dicentes: amen: alleluia.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000302	et vox de throno exivit, dicens: laudem dicite deo nostro omnes servi eius: et qui timetis eum pusilli et magni.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000303	et audivi quasi vocem turbae magnae, et sicut vocem aquarum multarum, et sicut vocem tonitruorum magnorum, dicentium: alleluia: quoniam regnavit dominus deus noster omnipotens.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000304	gaudeamus, et exsultemus: et demus gloriam ei: quia venerunt nuptiae agni, et uxor eius praeparavit se.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000305	et datum est illi ut cooperiat se byssino splendenti et candido. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000306	byssinum enim iustificationes sunt sanctorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000307	et dixit mihi: scribe: beati qui ad coenam nuptiarum agni vocati sunt; et dixit mihi: haec verba dei vera sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000308	et cecidi ante pedes eius, ut adorarem eum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000309	et dicit mihi: vide ne feceris: conservus tuus sum, et fratrum tuorum habentium testimonium iesu. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000310	deum adora. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000311	testimonium enim iesu est spiritus prophetiae.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000312	et vidi caelum apertum, et ecce equus albus, et qui sedebat super eum, vocabatur fidelis, et verax, et cum iustitia iudicat et pugnat.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000313	oculi autem eius sicut flamma ignis, et in capite eius diademata multa, habens nomen scriptum, quod nemo novit nisi ipse.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000314	et vestitus erat veste aspersa sanguine: et vocatur nomen eius: verbum dei.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000315	et exercitus qui sunt in caelo, sequebantur eum in equis albis, vestiti byssino albo et mundo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000316	et de ore eius procedit gladius ex utraque parte acutus, ut in ipso percutiat gentes. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000317	et ipse reget eas in virga ferrea: et ipse calcat torcular vini furoris irae dei omnipotentis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000318	et habet in vestimento et in femore suo scriptum: rex regum et dominus dominantium.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000319	et vidi unum angelum stantem in sole, et clamavit voce magna, dicens omnibus avibus, quae volabant per medium caeli: venite, et congregamini ad coenam magnam dei:ut manducetis carnes regum, et carnes tribunorum, et carnes fortium, et carnes equorum, et sedentium in ipsis, et carnes omnium liberorum, et servorum, et pusillorum et magnorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000320	et vidi bestiam, et reges terrae, et exercitus eorum congregatos ad faciendum praelium cum illo, qui sedebat in equo, et cum exercitu eius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000321	et apprehensa est bestia, et cum ea pseudopropheta: qui fecit signa coram ipso, quibus seduxit eos, qui acceperunt caracterem bestiae, et qui adoraverunt imaginem eius. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000322	vivi missi sunt hi duo in stagnum ignis ardentis sulphure:et ceteri occisi sunt in gladio sedentis super equum, qui procedit de ore ipsius: et omnes aves saturatae sunt carnibus eorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000323	caput 20	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000324	et vidi angelum descendentem de caelo, habentem clavem abyssi, et catenam magnam in manu sua.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000325	et apprehendit draconem, serpentem antiquum, qui est diabolus, et satanas, et ligavit eum per annos mille:et misit eum in abyssum, et clausit, et signavit super illum ut non seducat amplius gentes, donec consummentur mille anni: et post haec oportet illum solvi modico tempore.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000326	et vidi sedes, et sederunt super eas, et iudicium datum est illis: et animas decollatorum propter testimonium iesu, et propter verbum dei, et qui non adoraverunt bestiam, neque imaginem eius, nec acceperunt caracterem eius in frontibus, aut in manibus suis, et vixerunt, et regnaverunt cum christo mille annis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000327	ceteri mortuorum non vixerunt, donec consummentur mille anni. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000328	haec est resurrectio prima.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000329	beatus, et sanctus, qui habet partem in resurrectione prima: in his secunda mors non habet potestatem: sed erunt sacerdotes dei et christi, et regnabunt cum illo mille annis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000330	et cum consummati fuerint mille anni, solvetur satanas de carcere suo, et exibit, et seducet gentes, quae sunt super quatuor angulos terrae, gog, et magog, et congregabit eos in praelium, quorum numerus est sicut arena maris.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000331	et ascenderunt super latitudinem terrae, et circuierunt castra sanctorum, et civitatem dilectam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000332	et descendit ignis a deo de caelo, et devoravit eos: et diabolus, qui seducebat eos, missus est in stagnum ignis, et sulphuris, ubi et bestiaet pseudopropheta cruciabuntur die ac nocte in saecula saeculorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000333	et vidi thronum magnum candidum, et sedentem super eum, a cuius conspectu fugit terra, et caelum, et locus non est inventus eis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000334	et vidi mortuos, magnos et pusillos, stantes in conspectu throni, et libri aperti sunt: et alius liber apertus est, qui est vitae: et iudicati sunt mortui ex his, quae scripta erant in libris, secundum opera ipsorum:et dedit mare mortuos, qui in eo erant: et mors et infernus dederunt mortuos suos, qui in ipsis erant: et iudicatum est de singulis secundum opera ipsorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000335	et infernus et mors missi sunt in stagnum ignis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000336	haec est mors secunda.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000337	et qui non inventus est in libro vitae scriptus, missus est in stagnum ignis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000338	caput 21	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000339	et vidi caelum novum et terram novam. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000340	primum enim caelum, et prima terra abiit, et mare iam non est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000341	et ego ioannes vidi sanctam civitatem ierusalem novam descendentem de caelo a deo, paratam sicut sponsam ornatam viro suo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000342	et audivi vocem magnam de throno dicentem: ecce tabernaculum dei cum hominibus, et habitabit cum eis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000343	et ipsi populus eius erunt, et ipse deus cum eis erit eorum deus:et absterget deus omnem lacrimam ab oculis eorum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abierunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000344	et dixit qui sedebat in throno: ecce nova facio omnia. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000345	et dixit mihi: scribe, quia haec verba fidelissima sunt, et vera.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000346	et dixit mihi: factum est: ego sum alpha et omega, initium et finis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000347	ego sitienti dabo de fonte aquae vitae, gratis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000348	qui vicerit, possidebit haec: et ero illi deus, et ille erit mihi filius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000349	timidis autem, et incredulis, et execratis, et homicidis, et fornicatoribus, et veneficis, et idolatris, et omnibus mendacibus, pars illorum erit in stagno ardenti igne et sulphure: quod est mors secunda.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000350	et venit unus de septem angelis habentibus phialas plenas septem plagis novissimis, et locutus est mecum, dicens: veni, et ostendam tibi sponsam, uxorem agni.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000351	et sustulit me in spiritu in montem magnum et altum, et ostendit mihi civitatem sanctam ierusalem descendentem de caelo a deo,habentem claritatem dei: et lumen eius simile lapidi pretioso tamquam lapidi iaspidis, sicut crystallum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000352	et habebat murum magnum, et altum, habentem portas duodecim: et in portis angelos duodecim, et nomina inscripta, quae sunt nomina duodecim tribuum filiorum israel:ab oriente portae tres, et ab aquilone portae tres, et ab austro portae tres, et ab occasu portae tres.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000353	et murus civitatis habens fundamenta duodecim, et in ipsis duodecim nomina duodecim apostolorum agni.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000354	et qui loquebatur mecum, habebat mensuram arundineam auream, ut metiretur civitatem, et portas eius, et murum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000355	et civitas in quadro posita est, et longitudo eius tanta est quanta et latitudo: et mensus est civitatem de arundine aurea per stadia duodecim millia: et longitudo, et altitudo, et latitudo eius aequalia sunt.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000356	et mensus est murum eius centum quadraginta quatuor cubitorum, mensura hominis, quae est angeli.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000357	et erat structura muri eius ex lapide iaspide: ipsa vero civitas aurum mundum simile vitro mundo.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000358	et fundamenta muri civitatis omni lapide pretioso ornata. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000359	fundamentum primum, iaspis: secundum, sapphirus: tertium, calcedonius: quartum, smaragdus:quintum, sardonyx: sextum, sardius: septimum, chrysolithus: octavum, beryllus: nonum, topazius: decimum, chrysoprasus: undecimum, hyacinthus: duodecimum, amethystus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000360	et duodecim portae, duodecim margaritae sunt, per singulas: et singulae portae erant ex singulis margaritis: et platea civitatis aurum mundum, tamquam vitrum perlucidum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000361	et templum non vidi in ea: dominus enim deus omnipotens templum illius est, et agnus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000362	et civitas non eget sole neque luna ut luceant in ea, nam claritas dei illuminavit eam, et lucerna eius est agnus.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000363	et ambulabunt gentes in lumine eius: et reges terrae afferent gloriam suam et honorem in illam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000364	et portae eius non claudentur per diem: nox enim non erit illic.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000365	et afferent gloriam et honorem gentium in illam.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000366	non intrabit in eam aliquod coinquinatum, aut abominationem faciens et mendacium, nisi qui scripti sunt in libro vitae agni.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000367	caput 22	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000368	et ostendit mihi fluvium aquae vitae, splendidum tamquam crystallum, procedentem de sede dei et agni.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000369	in medio plateae eius, et ex utraque parte fluminis, lignum vitae, afferens fructus duodecim per menses singulos, reddens fructum suum et folia ligni ad sanitatem gentium.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000370	et omne maledictum non erit amplius: sed sedes dei et agni in illa erunt, et servi eius servient illi.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000371	et videbunt faciem eius: et nomen eius in frontibus eorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000372	et nox ultra non erit: et non egebunt lumine lucernae, neque lumine solis, quoniam dominus deus illuminabit illos, et regnabunt in saecula saeculorum.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000373	et dixit mihi: haec verba fidelissima sunt, et vera. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000374	et dominus deus spirituum prophetarum misit angelum suum ostendere servis suis quae oportet fieri cito.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000375	et ecce venio velociter. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000376	beatus, qui custodit verba prophetiae libri huius.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000377	et ego ioannes, qui audivi, et vidi haec. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000378	et postquam audissem, et vidissem, cecidi ut adorarem ante pedes angeli, qui mihi haec ostendebat:et dixit mihi: vide ne feceris: conservus enim tuus sum, et fratrum tuorum prophetarum, et eorum qui servant verba prophetiae libri huius: deum adora.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000379	et dicit mihi: ne signaveris verba prophetiae libri huius: tempus enim prope est.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000380	qui nocet, noceat adhuc: et qui in sordibus est, sordescat adhuc: et qui iustus est, iustificetur adhuc: et sanctus, sanctificetur adhuc.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000381	ecce venio cito, et merces mea mecum est, reddere unicuique secundum opera sua.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000382	ego sum alpha et omega, primus et novissimus, principium et finis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000383	beati, qui lavant stolas suas in sanguine agni: ut sit potestas eorum in ligno vitae, et per portas intrent in civitatem.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000384	foris canes, et venefici, et impudici, et homicidae, et idolis servientes, et omnis qui amat et facit mendacium.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000385	ego iesus misi angelum meum testificari vobis haec in ecclesiis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000386	ego sum radix, et genus david, stella splendida et matutina.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000387	et spiritus, et sponsa dicunt: veni. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000388	et qui audit, dicat: veni. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000389	et qui sitit, veniat: et qui vult, accipiat aquam vitae, gratis.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000390	contestor enim omni audienti verba prophetiae libri huius: si quis apposuerit ad haec, apponet deus super illum plagas scriptas in libro isto.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000391	et si quis diminuerit de verbis libri prophetiae huius, auferet deus partem eius de libro vitae, et de civitate sancta, et de his quae scripta sunt in libro isto:dicit qui testimonium perhibet istorum. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000392	etiam venio cito: amen. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000393	veni, domine iesu.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000394	gratia domini nostri iesu christi cum omnibus vobis. 	2020-04-18	Apocalypsis_B_Ioannis_Apostoli
+1100000395	amen.	2020-04-18	Apocalypsis_B_Ioannis_Apostoli

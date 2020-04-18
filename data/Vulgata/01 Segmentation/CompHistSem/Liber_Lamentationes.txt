@@ -1,0 +1,538 @@
+1100000001	liber lamentationes	2020-04-18	Liber_Lamentationes
+1100000002	caput 1	2020-04-18	Liber_Lamentationes
+1100000003	‹prologus› et factum est, postquam in captivitatem redactus est israel, et ierusalem deserta est, sedit ieremias propheta flens, et planxit lamentatione hac in ierusalem: et amaro animo suspirans et eiulans, dixit:	2020-04-18	Liber_Lamentationes
+1100000004	‹aleph› quomodo sedet sola	2020-04-18	Liber_Lamentationes
+1100000005	civitas plena populo!	2020-04-18	Liber_Lamentationes
+1100000006	facta est quasi vidua	2020-04-18	Liber_Lamentationes
+1100000007	domina gentium;	2020-04-18	Liber_Lamentationes
+1100000008	princeps provinciarum	2020-04-18	Liber_Lamentationes
+1100000009	facta est sub tributo.	2020-04-18	Liber_Lamentationes
+1100000010	‹beth› plorans ploravit in nocte,	2020-04-18	Liber_Lamentationes
+1100000011	et lacrimae eius in maxillis eius:	2020-04-18	Liber_Lamentationes
+1100000012	non est qui consoletur eam	2020-04-18	Liber_Lamentationes
+1100000013	ex omnibus caris eius;	2020-04-18	Liber_Lamentationes
+1100000014	omnes amici eius spreverunt eam,	2020-04-18	Liber_Lamentationes
+1100000015	et facti sunt ei inimici.	2020-04-18	Liber_Lamentationes
+1100000016	‹ghimel› migravit iudas propter afflictionem,	2020-04-18	Liber_Lamentationes
+1100000017	et multitudinem servitutis;	2020-04-18	Liber_Lamentationes
+1100000018	habitavit inter gentes,	2020-04-18	Liber_Lamentationes
+1100000019	nec invenit requiem:	2020-04-18	Liber_Lamentationes
+1100000020	omnes persecutores eius apprehenderunt eam	2020-04-18	Liber_Lamentationes
+1100000021	inter angustias.	2020-04-18	Liber_Lamentationes
+1100000022	‹daleth› viae sion lugent, eo quod non sint	2020-04-18	Liber_Lamentationes
+1100000023	qui veniant ad solemnitatem:	2020-04-18	Liber_Lamentationes
+1100000024	omnes portae eius destructae,	2020-04-18	Liber_Lamentationes
+1100000025	sacerdotes eius gementes;	2020-04-18	Liber_Lamentationes
+1100000026	virgines eius squalidae,	2020-04-18	Liber_Lamentationes
+1100000027	et ipsa oppressa amaritudine.	2020-04-18	Liber_Lamentationes
+1100000028	‹he› facti sunt hostes eius in capite;	2020-04-18	Liber_Lamentationes
+1100000029	inimici eius locupletati sunt:	2020-04-18	Liber_Lamentationes
+1100000030	quia dominus locutus est super eam	2020-04-18	Liber_Lamentationes
+1100000031	propter multitudinem iniquitatum eius.	2020-04-18	Liber_Lamentationes
+1100000032	parvuli eius ducti sunt in captivitatem	2020-04-18	Liber_Lamentationes
+1100000033	ante faciem tribulantis.	2020-04-18	Liber_Lamentationes
+1100000034	‹vau› et egressus est a filia sion	2020-04-18	Liber_Lamentationes
+1100000035	omnis decor eius;	2020-04-18	Liber_Lamentationes
+1100000036	facti sunt principes eius velut arietes	2020-04-18	Liber_Lamentationes
+1100000037	non invenientes pascua,	2020-04-18	Liber_Lamentationes
+1100000038	et abierunt absque fortitudine	2020-04-18	Liber_Lamentationes
+1100000039	ante faciem subsequentis.	2020-04-18	Liber_Lamentationes
+1100000040	‹zain› recordata est ierusalem dierum afflictionis suae,	2020-04-18	Liber_Lamentationes
+1100000041	et praevaricationis,	2020-04-18	Liber_Lamentationes
+1100000042	omnium desiderabilium suorum,	2020-04-18	Liber_Lamentationes
+1100000043	quae habuerat a diebus antiquis,	2020-04-18	Liber_Lamentationes
+1100000044	cum caderet populus eius in manu hostili,	2020-04-18	Liber_Lamentationes
+1100000045	et non esset auxiliator:	2020-04-18	Liber_Lamentationes
+1100000046	viderunt eam hostes,	2020-04-18	Liber_Lamentationes
+1100000047	et deriserunt sabbata eius.	2020-04-18	Liber_Lamentationes
+1100000048	‹heth› peccatum peccavit ierusalem,	2020-04-18	Liber_Lamentationes
+1100000049	propterea instabilis facta est;	2020-04-18	Liber_Lamentationes
+1100000050	omnes qui glorificabant eam spreverunt illam,	2020-04-18	Liber_Lamentationes
+1100000051	quia viderunt ignominiam eius:	2020-04-18	Liber_Lamentationes
+1100000052	ipsa autem gemens	2020-04-18	Liber_Lamentationes
+1100000053	conversa est retrorsum.	2020-04-18	Liber_Lamentationes
+1100000054	‹teth› sordes eius in pedibus eius,	2020-04-18	Liber_Lamentationes
+1100000055	nec recordata est finis sui;	2020-04-18	Liber_Lamentationes
+1100000056	deposita est vehementer,	2020-04-18	Liber_Lamentationes
+1100000057	non habens consolatorem.	2020-04-18	Liber_Lamentationes
+1100000058	vide, domine, afflictionem meam,	2020-04-18	Liber_Lamentationes
+1100000059	quoniam erectus est inimicus.	2020-04-18	Liber_Lamentationes
+1100000060	‹iod› manum suam misit hostis	2020-04-18	Liber_Lamentationes
+1100000061	ad omnia desiderabilia eius,	2020-04-18	Liber_Lamentationes
+1100000062	quia vidit gentes	2020-04-18	Liber_Lamentationes
+1100000063	ingressas sanctuarium suum,	2020-04-18	Liber_Lamentationes
+1100000064	de quibus praeceperas	2020-04-18	Liber_Lamentationes
+1100000065	ne intrarent in ecclesiam tuam.	2020-04-18	Liber_Lamentationes
+1100000066	‹caph› omnis populus eius gemens,	2020-04-18	Liber_Lamentationes
+1100000067	et quaerens panem;	2020-04-18	Liber_Lamentationes
+1100000068	dederunt pretiosa quaeque pro cibo	2020-04-18	Liber_Lamentationes
+1100000069	ad refocillandam animam.	2020-04-18	Liber_Lamentationes
+1100000070	vide, domine, et considera	2020-04-18	Liber_Lamentationes
+1100000071	quoniam facta sum vilis!	2020-04-18	Liber_Lamentationes
+1100000072	‹lamed› o vos omnes qui transitis per viam,	2020-04-18	Liber_Lamentationes
+1100000073	attendite, et videte	2020-04-18	Liber_Lamentationes
+1100000074	si est dolor sicut dolor meus!	2020-04-18	Liber_Lamentationes
+1100000075	quoniam vindemiavit me,	2020-04-18	Liber_Lamentationes
+1100000076	ut locutus est dominus,	2020-04-18	Liber_Lamentationes
+1100000077	in die irae furoris sui.	2020-04-18	Liber_Lamentationes
+1100000078	‹mem› de excelso misit ignem in ossibus meis,	2020-04-18	Liber_Lamentationes
+1100000079	et erudivit me:	2020-04-18	Liber_Lamentationes
+1100000080	expandit rete pedibus meis,	2020-04-18	Liber_Lamentationes
+1100000081	convertit me retrorsum;	2020-04-18	Liber_Lamentationes
+1100000082	posuit me desolatam,	2020-04-18	Liber_Lamentationes
+1100000083	tota die moerore confectam.	2020-04-18	Liber_Lamentationes
+1100000084	‹nun› vigilavit iugum iniquitatum mearum;	2020-04-18	Liber_Lamentationes
+1100000085	in manu eius convolutae sunt,	2020-04-18	Liber_Lamentationes
+1100000086	et impositae collo meo.	2020-04-18	Liber_Lamentationes
+1100000087	infirmata est virtus mea:	2020-04-18	Liber_Lamentationes
+1100000088	dedit me dominus in manu	2020-04-18	Liber_Lamentationes
+1100000089	de qua non potero surgere.	2020-04-18	Liber_Lamentationes
+1100000090	‹samech› abstulit omnes magnificos meos dominus	2020-04-18	Liber_Lamentationes
+1100000091	de medio mei;	2020-04-18	Liber_Lamentationes
+1100000092	vocavit adversum me tempus	2020-04-18	Liber_Lamentationes
+1100000093	ut contereret electos meos.	2020-04-18	Liber_Lamentationes
+1100000094	torcular calcavit dominus	2020-04-18	Liber_Lamentationes
+1100000095	virgini filiae iuda.	2020-04-18	Liber_Lamentationes
+1100000096	‹ain› idcirco ego plorans,	2020-04-18	Liber_Lamentationes
+1100000097	et oculus meus deducens aquas,	2020-04-18	Liber_Lamentationes
+1100000098	quia longe factus est a me consolator,	2020-04-18	Liber_Lamentationes
+1100000099	convertens animam meam.	2020-04-18	Liber_Lamentationes
+1100000100	facti sunt filii mei perditi,	2020-04-18	Liber_Lamentationes
+1100000101	quoniam invaluit inimicus.	2020-04-18	Liber_Lamentationes
+1100000102	‹phe› expandit sion manus suas;	2020-04-18	Liber_Lamentationes
+1100000103	non est qui consoletur eam.	2020-04-18	Liber_Lamentationes
+1100000104	mandavit dominus adversum iacob	2020-04-18	Liber_Lamentationes
+1100000105	in circuitu eius hostes eius;	2020-04-18	Liber_Lamentationes
+1100000106	facta est ierusalem	2020-04-18	Liber_Lamentationes
+1100000107	quasi polluta menstruis inter eos.	2020-04-18	Liber_Lamentationes
+1100000108	‹sade› iustus est dominus,	2020-04-18	Liber_Lamentationes
+1100000109	quia os eius ad iracundiam provocavi.	2020-04-18	Liber_Lamentationes
+1100000110	audite, obsecro, universi populi,	2020-04-18	Liber_Lamentationes
+1100000111	et videte dolorem meum:	2020-04-18	Liber_Lamentationes
+1100000112	virgines meae et iuvenes mei abierunt	2020-04-18	Liber_Lamentationes
+1100000113	in captivitatem.	2020-04-18	Liber_Lamentationes
+1100000114	‹coph› vocavi amicos meos,	2020-04-18	Liber_Lamentationes
+1100000115	et ipsi deceperunt me;	2020-04-18	Liber_Lamentationes
+1100000116	sacerdotes mei et senes mei	2020-04-18	Liber_Lamentationes
+1100000117	in urbe consumpti sunt,	2020-04-18	Liber_Lamentationes
+1100000118	quia quaesierunt cibum sibi	2020-04-18	Liber_Lamentationes
+1100000119	ut refocillarent animam suam.	2020-04-18	Liber_Lamentationes
+1100000120	‹res› vide, domine, quoniam tribulor:	2020-04-18	Liber_Lamentationes
+1100000121	conturbatus est venter meus,	2020-04-18	Liber_Lamentationes
+1100000122	subversum est cor meum in memetipsa,	2020-04-18	Liber_Lamentationes
+1100000123	quoniam amaritudine plena sum.	2020-04-18	Liber_Lamentationes
+1100000124	foris interfecit gladius,	2020-04-18	Liber_Lamentationes
+1100000125	et domi mors similis est.	2020-04-18	Liber_Lamentationes
+1100000126	‹sin› audierunt quia ingemisco ego,	2020-04-18	Liber_Lamentationes
+1100000127	et non est qui consoletur me;	2020-04-18	Liber_Lamentationes
+1100000128	omnes inimici mei audierunt malum meum,	2020-04-18	Liber_Lamentationes
+1100000129	laetati sunt quoniam tu fecisti:	2020-04-18	Liber_Lamentationes
+1100000130	adduxisti diem consolationis,	2020-04-18	Liber_Lamentationes
+1100000131	et fient similes mei.	2020-04-18	Liber_Lamentationes
+1100000132	‹thau› ingrediatur omne malum eorum coram te:	2020-04-18	Liber_Lamentationes
+1100000133	et vindemia eos, sicut vindemiasti me	2020-04-18	Liber_Lamentationes
+1100000134	propter omnes iniquitates meas:	2020-04-18	Liber_Lamentationes
+1100000135	multi enim gemitus mei,	2020-04-18	Liber_Lamentationes
+1100000136	et cor meum moerens.	2020-04-18	Liber_Lamentationes
+1100000137	caput 2	2020-04-18	Liber_Lamentationes
+1100000138	‹aleph› quomodo obtexit caligine in furore suo	2020-04-18	Liber_Lamentationes
+1100000139	dominus filiam sion;	2020-04-18	Liber_Lamentationes
+1100000140	proiecit de caelo in terram	2020-04-18	Liber_Lamentationes
+1100000141	inclytam israel,	2020-04-18	Liber_Lamentationes
+1100000142	et non est recordatus scabelli pedum suorum	2020-04-18	Liber_Lamentationes
+1100000143	in die furoris sui!	2020-04-18	Liber_Lamentationes
+1100000144	‹beth› praecipitavit dominus, nec pepercit	2020-04-18	Liber_Lamentationes
+1100000145	omnia speciosa iacob:	2020-04-18	Liber_Lamentationes
+1100000146	destruxit in furore suo	2020-04-18	Liber_Lamentationes
+1100000147	munitiones virginis iuda,	2020-04-18	Liber_Lamentationes
+1100000148	et deiecit in terram;	2020-04-18	Liber_Lamentationes
+1100000149	polluit regnum et principes eius.	2020-04-18	Liber_Lamentationes
+1100000150	‹ghimel› confregit in ira furoris sui	2020-04-18	Liber_Lamentationes
+1100000151	omne cornu israel;	2020-04-18	Liber_Lamentationes
+1100000152	avertit retrorsum dexteram suam	2020-04-18	Liber_Lamentationes
+1100000153	a facie inimici,	2020-04-18	Liber_Lamentationes
+1100000154	et succendit in iacob quasi ignem	2020-04-18	Liber_Lamentationes
+1100000155	flammae devorantis in gyro.	2020-04-18	Liber_Lamentationes
+1100000156	‹daleth› tetendit arcum suum quasi inimicus,	2020-04-18	Liber_Lamentationes
+1100000157	firmavit dexteram suam quasi hostis,	2020-04-18	Liber_Lamentationes
+1100000158	et occidit omne quod pulchrum erat visu	2020-04-18	Liber_Lamentationes
+1100000159	in tabernaculo filiae sion;	2020-04-18	Liber_Lamentationes
+1100000160	effudit quasi ignem	2020-04-18	Liber_Lamentationes
+1100000161	indignationem suam.	2020-04-18	Liber_Lamentationes
+1100000162	‹he› factus est dominus velut inimicus,	2020-04-18	Liber_Lamentationes
+1100000163	praecipitavit israel:	2020-04-18	Liber_Lamentationes
+1100000164	praecipitavit omnia moenia eius,	2020-04-18	Liber_Lamentationes
+1100000165	dissipavit munitiones eius,	2020-04-18	Liber_Lamentationes
+1100000166	et replevit in filia iuda	2020-04-18	Liber_Lamentationes
+1100000167	humiliatum et humiliatam.	2020-04-18	Liber_Lamentationes
+1100000168	‹vau› et dissipavit quasi hortum tentorium suum;	2020-04-18	Liber_Lamentationes
+1100000169	demolitus est tabernaculum suum.	2020-04-18	Liber_Lamentationes
+1100000170	oblivioni tradidit dominus in sion	2020-04-18	Liber_Lamentationes
+1100000171	festivitatem et sabbatum;	2020-04-18	Liber_Lamentationes
+1100000172	et in opprobrium, et in indignationem furoris sui,	2020-04-18	Liber_Lamentationes
+1100000173	regem et sacerdotem.	2020-04-18	Liber_Lamentationes
+1100000174	‹zain› repulit dominus altare suum;	2020-04-18	Liber_Lamentationes
+1100000175	maledixit sanctificationi suae:	2020-04-18	Liber_Lamentationes
+1100000176	tradidit in manu inimici	2020-04-18	Liber_Lamentationes
+1100000177	muros turrium eius.	2020-04-18	Liber_Lamentationes
+1100000178	vocem dederunt in domo domini	2020-04-18	Liber_Lamentationes
+1100000179	sicut in die solemni.	2020-04-18	Liber_Lamentationes
+1100000180	‹heth› cogitavit dominus dissipare	2020-04-18	Liber_Lamentationes
+1100000181	murum filiae sion;	2020-04-18	Liber_Lamentationes
+1100000182	tetendit funiculum suum,	2020-04-18	Liber_Lamentationes
+1100000183	et non avertit manum suam a perditione:	2020-04-18	Liber_Lamentationes
+1100000184	luxitque antemurale,	2020-04-18	Liber_Lamentationes
+1100000185	et murus pariter dissipatus est.	2020-04-18	Liber_Lamentationes
+1100000186	‹teth› defixae sunt in terra portae eius,	2020-04-18	Liber_Lamentationes
+1100000187	perdidit et contrivit vectes eius;	2020-04-18	Liber_Lamentationes
+1100000188	regem eius et principes eius in gentibus:	2020-04-18	Liber_Lamentationes
+1100000189	non est lex,	2020-04-18	Liber_Lamentationes
+1100000190	et prophetae eius non invenerunt	2020-04-18	Liber_Lamentationes
+1100000191	visionem a domino.	2020-04-18	Liber_Lamentationes
+1100000192	‹iod› sederunt in terra, conticuerunt	2020-04-18	Liber_Lamentationes
+1100000193	senes filiae sion;	2020-04-18	Liber_Lamentationes
+1100000194	consperserunt cinere capita sua,	2020-04-18	Liber_Lamentationes
+1100000195	accincti sunt ciliciis:	2020-04-18	Liber_Lamentationes
+1100000196	abiecerunt in terram capita sua	2020-04-18	Liber_Lamentationes
+1100000197	virgines ierusalem.	2020-04-18	Liber_Lamentationes
+1100000198	‹caph› defecerunt prae lacrimis oculi mei,	2020-04-18	Liber_Lamentationes
+1100000199	conturbata sunt viscera mea;	2020-04-18	Liber_Lamentationes
+1100000200	effusum est in terra iecur meum	2020-04-18	Liber_Lamentationes
+1100000201	super contritione filiae populi mei,	2020-04-18	Liber_Lamentationes
+1100000202	cum deficeret parvulus et lactens	2020-04-18	Liber_Lamentationes
+1100000203	in plateis oppidi.	2020-04-18	Liber_Lamentationes
+1100000204	‹lamed› matribus suis dixerunt:	2020-04-18	Liber_Lamentationes
+1100000205	ubi est triticum et vinum?	2020-04-18	Liber_Lamentationes
+1100000206	cum deficerent quasi vulnerati	2020-04-18	Liber_Lamentationes
+1100000207	in plateis civitatis,	2020-04-18	Liber_Lamentationes
+1100000208	cum exhalarent animas suas	2020-04-18	Liber_Lamentationes
+1100000209	in sinu matrum suarum.	2020-04-18	Liber_Lamentationes
+1100000210	‹mem› cui comparabo te, vel cui assimilabo te,	2020-04-18	Liber_Lamentationes
+1100000211	filia ierusalem?	2020-04-18	Liber_Lamentationes
+1100000212	cui exaequabo te, et consolabor te,	2020-04-18	Liber_Lamentationes
+1100000213	virgo, filia sion?	2020-04-18	Liber_Lamentationes
+1100000214	magna est enim velut mare contritio tua:	2020-04-18	Liber_Lamentationes
+1100000215	quis medebitur tui?	2020-04-18	Liber_Lamentationes
+1100000216	‹nun› prophetae tui viderunt tibi	2020-04-18	Liber_Lamentationes
+1100000217	falsa et stulta;	2020-04-18	Liber_Lamentationes
+1100000218	nec aperiebant iniquitatem tuam,	2020-04-18	Liber_Lamentationes
+1100000219	ut te ad poenitentiam provocarent;	2020-04-18	Liber_Lamentationes
+1100000220	viderunt autem tibi assumptiones falsas,	2020-04-18	Liber_Lamentationes
+1100000221	et eiectiones.	2020-04-18	Liber_Lamentationes
+1100000222	‹samech› plauserunt super te manibus	2020-04-18	Liber_Lamentationes
+1100000223	omnes transeuntes per viam;	2020-04-18	Liber_Lamentationes
+1100000224	sibilaverunt et moverunt caput suum	2020-04-18	Liber_Lamentationes
+1100000225	super filiam ierusalem:	2020-04-18	Liber_Lamentationes
+1100000226	haeccine est urbs, dicentes, perfecti decoris,	2020-04-18	Liber_Lamentationes
+1100000227	gaudium universae terrae?	2020-04-18	Liber_Lamentationes
+1100000228	‹phe› aperuerunt super te os suum	2020-04-18	Liber_Lamentationes
+1100000229	omnes inimici tui:	2020-04-18	Liber_Lamentationes
+1100000230	sibilaverunt, et fremuerunt dentibus,	2020-04-18	Liber_Lamentationes
+1100000231	et dixerunt: devorabimus:	2020-04-18	Liber_Lamentationes
+1100000232	en ista est dies quam exspectabamus;	2020-04-18	Liber_Lamentationes
+1100000233	invenimus, vidimus.	2020-04-18	Liber_Lamentationes
+1100000234	‹ain› fecit dominus quae cogitavit;	2020-04-18	Liber_Lamentationes
+1100000235	complevit sermonem suum,	2020-04-18	Liber_Lamentationes
+1100000236	quem praeceperat a diebus antiquis:	2020-04-18	Liber_Lamentationes
+1100000237	destruxit, et non pepercit,	2020-04-18	Liber_Lamentationes
+1100000238	et laetificavit super te inimicum,	2020-04-18	Liber_Lamentationes
+1100000239	et exaltavit cornu hostium tuorum.	2020-04-18	Liber_Lamentationes
+1100000240	‹sade› clamavit cor eorum ad dominum	2020-04-18	Liber_Lamentationes
+1100000241	super muros filiae sion:	2020-04-18	Liber_Lamentationes
+1100000242	deduc quasi torrentem lacrimas	2020-04-18	Liber_Lamentationes
+1100000243	per diem et noctem;	2020-04-18	Liber_Lamentationes
+1100000244	non des requiem tibi,	2020-04-18	Liber_Lamentationes
+1100000245	neque taceat pupilla oculi tui.	2020-04-18	Liber_Lamentationes
+1100000246	‹coph› consurge, lauda in nocte,	2020-04-18	Liber_Lamentationes
+1100000247	in principio vigiliarum;	2020-04-18	Liber_Lamentationes
+1100000248	effunde sicut aquam cor tuum	2020-04-18	Liber_Lamentationes
+1100000249	ante conspectum domini:	2020-04-18	Liber_Lamentationes
+1100000250	leva ad eum manus tuas	2020-04-18	Liber_Lamentationes
+1100000251	pro anima parvulorum tuorum,	2020-04-18	Liber_Lamentationes
+1100000252	qui defecerunt in fame	2020-04-18	Liber_Lamentationes
+1100000253	in capite omnium compitorum.	2020-04-18	Liber_Lamentationes
+1100000254	‹res› vide, domine, et considera	2020-04-18	Liber_Lamentationes
+1100000255	quem vindemiaveris ita.	2020-04-18	Liber_Lamentationes
+1100000256	ergone comedent mulieres fructum suum,	2020-04-18	Liber_Lamentationes
+1100000257	parvulos ad mensuram palmae?	2020-04-18	Liber_Lamentationes
+1100000258	si occiditur in sanctuario domini	2020-04-18	Liber_Lamentationes
+1100000259	sacerdos et propheta?	2020-04-18	Liber_Lamentationes
+1100000260	‹sin› iacuerunt in terra foris	2020-04-18	Liber_Lamentationes
+1100000261	puer et senex;	2020-04-18	Liber_Lamentationes
+1100000262	virgines meae et iuvenes mei	2020-04-18	Liber_Lamentationes
+1100000263	ceciderunt in gladio:	2020-04-18	Liber_Lamentationes
+1100000264	interfecisti in die furoris tui,	2020-04-18	Liber_Lamentationes
+1100000265	percussisti, nec misertus es.	2020-04-18	Liber_Lamentationes
+1100000266	‹thau› vocasti quasi ad diem solemnem,	2020-04-18	Liber_Lamentationes
+1100000267	qui terrerent me de circuitu;	2020-04-18	Liber_Lamentationes
+1100000268	et non fuit in die furoris domini qui effugeret,	2020-04-18	Liber_Lamentationes
+1100000269	et relinqueretur:	2020-04-18	Liber_Lamentationes
+1100000270	quos educavi et enutrivi,	2020-04-18	Liber_Lamentationes
+1100000271	inimicus meus consumpsit eos.	2020-04-18	Liber_Lamentationes
+1100000272	caput 3	2020-04-18	Liber_Lamentationes
+1100000273	‹aleph› ego vir videns paupertatem meam	2020-04-18	Liber_Lamentationes
+1100000274	in virga indignationis eius.	2020-04-18	Liber_Lamentationes
+1100000275	‹aleph› me minavit, et adduxit in tenebras,	2020-04-18	Liber_Lamentationes
+1100000276	et non in lucem.	2020-04-18	Liber_Lamentationes
+1100000277	‹aleph› tantum in me vertit et convertit	2020-04-18	Liber_Lamentationes
+1100000278	manum suam tota die.	2020-04-18	Liber_Lamentationes
+1100000279	‹beth› vetustam fecit pellem meam et carnem meam;	2020-04-18	Liber_Lamentationes
+1100000280	contrivit ossa mea.	2020-04-18	Liber_Lamentationes
+1100000281	‹beth› aedificavit in gyro meo, et circumdedit me	2020-04-18	Liber_Lamentationes
+1100000282	felle et labore.	2020-04-18	Liber_Lamentationes
+1100000283	‹beth› in tenebrosis collocavit me,	2020-04-18	Liber_Lamentationes
+1100000284	quasi mortuos sempiternos.	2020-04-18	Liber_Lamentationes
+1100000285	‹ghimel› circumaedificavit adversum me, ut non egrediar;	2020-04-18	Liber_Lamentationes
+1100000286	aggravavit compedem meum.	2020-04-18	Liber_Lamentationes
+1100000287	‹ghimel› sed et cum clamavero, et rogavero,	2020-04-18	Liber_Lamentationes
+1100000288	exclusit orationem meam.	2020-04-18	Liber_Lamentationes
+1100000289	‹ghimel› conclusit vias meas lapidibus quadris;	2020-04-18	Liber_Lamentationes
+1100000290	semitas meas subvertit.	2020-04-18	Liber_Lamentationes
+1100000291	‹daleth› ursus insidians factus est mihi,	2020-04-18	Liber_Lamentationes
+1100000292	leo in absconditis.	2020-04-18	Liber_Lamentationes
+1100000293	‹daleth› semitas meas subvertit, et confregit me;	2020-04-18	Liber_Lamentationes
+1100000294	posuit me desolatam.	2020-04-18	Liber_Lamentationes
+1100000295	‹daleth› tetendit arcum suum, et posuit me	2020-04-18	Liber_Lamentationes
+1100000296	quasi signum ad sagittam.	2020-04-18	Liber_Lamentationes
+1100000297	‹he› misit in renibus meis	2020-04-18	Liber_Lamentationes
+1100000298	filias pharetrae suae.	2020-04-18	Liber_Lamentationes
+1100000299	‹he› factus sum in derisum omni populo meo,	2020-04-18	Liber_Lamentationes
+1100000300	canticum eorum tota die.	2020-04-18	Liber_Lamentationes
+1100000301	‹he› replevit me amaritudinibus;	2020-04-18	Liber_Lamentationes
+1100000302	inebriavit me absinthio.	2020-04-18	Liber_Lamentationes
+1100000303	‹vau› et fregit ad numerum dentes meos;	2020-04-18	Liber_Lamentationes
+1100000304	cibavit me cinere.	2020-04-18	Liber_Lamentationes
+1100000305	‹vau› et repulsa est a pace anima mea;	2020-04-18	Liber_Lamentationes
+1100000306	oblitus sum bonorum.	2020-04-18	Liber_Lamentationes
+1100000307	‹vau› et dixi: periit finis meus,	2020-04-18	Liber_Lamentationes
+1100000308	et spes mea a domino.	2020-04-18	Liber_Lamentationes
+1100000309	‹zain› recordare paupertatis, et transgressionis meae,	2020-04-18	Liber_Lamentationes
+1100000310	absinthii et fellis.	2020-04-18	Liber_Lamentationes
+1100000311	‹zain› memoria memor ero, et tabescet	2020-04-18	Liber_Lamentationes
+1100000312	in me anima mea.	2020-04-18	Liber_Lamentationes
+1100000313	‹zain› haec recolens in corde meo,	2020-04-18	Liber_Lamentationes
+1100000314	ideo sperabo.	2020-04-18	Liber_Lamentationes
+1100000315	‹heth› misericordiae domini, quia non sumus consumpti;	2020-04-18	Liber_Lamentationes
+1100000316	quia non defecerunt miserationes eius.	2020-04-18	Liber_Lamentationes
+1100000317	‹heth› novi diluculo,	2020-04-18	Liber_Lamentationes
+1100000318	multa est fides tua.	2020-04-18	Liber_Lamentationes
+1100000319	‹heth› pars mea dominus, dixit anima mea;	2020-04-18	Liber_Lamentationes
+1100000320	propterea exspectabo eum.	2020-04-18	Liber_Lamentationes
+1100000321	‹teth› bonus est dominus sperantibus in eum,	2020-04-18	Liber_Lamentationes
+1100000322	animae quaerenti illum.	2020-04-18	Liber_Lamentationes
+1100000323	‹teth› bonum est praestolari cum silentio	2020-04-18	Liber_Lamentationes
+1100000324	salutare dei.	2020-04-18	Liber_Lamentationes
+1100000325	‹teth› bonum est viro cum portaverit iugum	2020-04-18	Liber_Lamentationes
+1100000326	ab adolescentia sua.	2020-04-18	Liber_Lamentationes
+1100000327	‹iod› sedebit solitarius, et tacebit,	2020-04-18	Liber_Lamentationes
+1100000328	quia levavit super se.	2020-04-18	Liber_Lamentationes
+1100000329	‹iod› ponet in pulvere os suum,	2020-04-18	Liber_Lamentationes
+1100000330	si forte sit spes.	2020-04-18	Liber_Lamentationes
+1100000331	‹iod› dabit percutienti se maxillam:	2020-04-18	Liber_Lamentationes
+1100000332	saturabitur opprobriis.	2020-04-18	Liber_Lamentationes
+1100000333	‹caph› quia non repellet	2020-04-18	Liber_Lamentationes
+1100000334	in sempiternum dominus.	2020-04-18	Liber_Lamentationes
+1100000335	‹caph› quia si abiecit, et miserebitur,	2020-04-18	Liber_Lamentationes
+1100000336	secundum multitudinem misericordiarum suarum.	2020-04-18	Liber_Lamentationes
+1100000337	‹caph› non enim humiliavit ex corde suo	2020-04-18	Liber_Lamentationes
+1100000338	et abiecit filios hominum.	2020-04-18	Liber_Lamentationes
+1100000339	‹lamed› ut conteret sub pedibus suis	2020-04-18	Liber_Lamentationes
+1100000340	omnes vinctos terrae.	2020-04-18	Liber_Lamentationes
+1100000341	‹lamed› ut declinaret iudicium viri	2020-04-18	Liber_Lamentationes
+1100000342	in conspectu vultus altissimi.	2020-04-18	Liber_Lamentationes
+1100000343	‹lamed› ut perverteret hominem in iudicio suo;	2020-04-18	Liber_Lamentationes
+1100000344	dominus ignoravit.	2020-04-18	Liber_Lamentationes
+1100000345	‹mem› quis est iste qui dixit ut fieret,	2020-04-18	Liber_Lamentationes
+1100000346	domino non iubente?	2020-04-18	Liber_Lamentationes
+1100000347	‹mem› ex ore altissimi non egredientur	2020-04-18	Liber_Lamentationes
+1100000348	nec mala nec bona?	2020-04-18	Liber_Lamentationes
+1100000349	‹mem› quid murmuravit homo vivens,	2020-04-18	Liber_Lamentationes
+1100000350	vir pro peccatis suis?	2020-04-18	Liber_Lamentationes
+1100000351	‹nun› scrutemur vias nostras, et quaeramus,	2020-04-18	Liber_Lamentationes
+1100000352	et revertamur ad dominum.	2020-04-18	Liber_Lamentationes
+1100000353	‹nun› levemus corda nostra cum manibus	2020-04-18	Liber_Lamentationes
+1100000354	ad dominum in caelos.	2020-04-18	Liber_Lamentationes
+1100000355	‹nun› nos inique egimus, et ad iracundiam provocavimus;	2020-04-18	Liber_Lamentationes
+1100000356	idcirco tu inexorabilis es.	2020-04-18	Liber_Lamentationes
+1100000357	‹samech› operuisti in furore, et percussisti nos;	2020-04-18	Liber_Lamentationes
+1100000358	occidisti, nec pepercisti.	2020-04-18	Liber_Lamentationes
+1100000359	‹samech› opposuisti nubem tibi,	2020-04-18	Liber_Lamentationes
+1100000360	ne transeat oratio.	2020-04-18	Liber_Lamentationes
+1100000361	‹samech› eradicationem et abiectionem posuisti me	2020-04-18	Liber_Lamentationes
+1100000362	in medio populorum.	2020-04-18	Liber_Lamentationes
+1100000363	‹phe› aperuerunt super nos os suum	2020-04-18	Liber_Lamentationes
+1100000364	omnes inimici.	2020-04-18	Liber_Lamentationes
+1100000365	‹phe› formido et laqueus facta est nobis	2020-04-18	Liber_Lamentationes
+1100000366	vaticinatio, et contritio.	2020-04-18	Liber_Lamentationes
+1100000367	‹phe› divisiones aquarum deduxit oculus meus,	2020-04-18	Liber_Lamentationes
+1100000368	in contritione filiae populi mei.	2020-04-18	Liber_Lamentationes
+1100000369	‹ain› oculus meus afflictus est, nec tacuit,	2020-04-18	Liber_Lamentationes
+1100000370	eo quod non esset requies.	2020-04-18	Liber_Lamentationes
+1100000371	‹ain› donec respiceret et videret	2020-04-18	Liber_Lamentationes
+1100000372	dominus de caelis.	2020-04-18	Liber_Lamentationes
+1100000373	‹ain› oculus meus depraedatus est animam meam	2020-04-18	Liber_Lamentationes
+1100000374	in cunctis filiabus urbis meae.	2020-04-18	Liber_Lamentationes
+1100000375	‹sade› venatione ceperunt me quasi avem	2020-04-18	Liber_Lamentationes
+1100000376	inimici mei gratis.	2020-04-18	Liber_Lamentationes
+1100000377	‹sade› lapsa est in lacum vita mea,	2020-04-18	Liber_Lamentationes
+1100000378	et posuerunt lapidem super me.	2020-04-18	Liber_Lamentationes
+1100000379	‹sade› inundaverunt aquae super caput meum;	2020-04-18	Liber_Lamentationes
+1100000380	dixi: perii.	2020-04-18	Liber_Lamentationes
+1100000381	‹coph› invocavi nomen tuum, domine,	2020-04-18	Liber_Lamentationes
+1100000382	de lacu novissimo.	2020-04-18	Liber_Lamentationes
+1100000383	‹coph› vocem meam audisti; ne avertas aurem tuam	2020-04-18	Liber_Lamentationes
+1100000384	a singultu meo et clamoribus.	2020-04-18	Liber_Lamentationes
+1100000385	‹coph› appropinquasti in die quando invocavi te;	2020-04-18	Liber_Lamentationes
+1100000386	dixisti: ne timeas.	2020-04-18	Liber_Lamentationes
+1100000387	‹res› iudicasti, domine, causam animae meae,	2020-04-18	Liber_Lamentationes
+1100000388	redemptor vitae meae.	2020-04-18	Liber_Lamentationes
+1100000389	‹res› vidisti, domine, iniquitatem illorum adversum me:	2020-04-18	Liber_Lamentationes
+1100000390	iudica iudicium meum.	2020-04-18	Liber_Lamentationes
+1100000391	‹res› vidisti omnem furorem,	2020-04-18	Liber_Lamentationes
+1100000392	universas cogitationes eorum adversum me.	2020-04-18	Liber_Lamentationes
+1100000393	‹sin› audisti opprobrium eorum, domine,	2020-04-18	Liber_Lamentationes
+1100000394	omnes cogitationes eorum adversum me.	2020-04-18	Liber_Lamentationes
+1100000395	‹sin› labia insurgentium mihi, et meditationes eorum	2020-04-18	Liber_Lamentationes
+1100000396	adversum me tota die.	2020-04-18	Liber_Lamentationes
+1100000397	‹sin› sessionem eorum et resurrectionem eorum vide;	2020-04-18	Liber_Lamentationes
+1100000398	ego sum psalmus eorum.	2020-04-18	Liber_Lamentationes
+1100000399	‹thau› redes eis vicem, domine,	2020-04-18	Liber_Lamentationes
+1100000400	iuxta opera manuum suarum.	2020-04-18	Liber_Lamentationes
+1100000401	‹thau› dabis eis scutum cordis,	2020-04-18	Liber_Lamentationes
+1100000402	laborem tuum.	2020-04-18	Liber_Lamentationes
+1100000403	‹thau› persequeris in furore, et conteres eos	2020-04-18	Liber_Lamentationes
+1100000404	sub caelis, domine.	2020-04-18	Liber_Lamentationes
+1100000405	caput 4	2020-04-18	Liber_Lamentationes
+1100000406	‹aleph› quomodo obscuratum est aurum,	2020-04-18	Liber_Lamentationes
+1100000407	mutatus est color optimus!	2020-04-18	Liber_Lamentationes
+1100000408	dispersi sunt lapides sanctuarii	2020-04-18	Liber_Lamentationes
+1100000409	in capite omnium platearum!	2020-04-18	Liber_Lamentationes
+1100000410	‹beth› filii sion inclyti,	2020-04-18	Liber_Lamentationes
+1100000411	et amicti auro primo:	2020-04-18	Liber_Lamentationes
+1100000412	quomodo reputati sunt in vasa testea,	2020-04-18	Liber_Lamentationes
+1100000413	opus manuum figuli!	2020-04-18	Liber_Lamentationes
+1100000414	‹ghimel› sed et lamiae nudaverunt mammam,	2020-04-18	Liber_Lamentationes
+1100000415	lactaverunt catulos suos:	2020-04-18	Liber_Lamentationes
+1100000416	filia populi mei crudelis	2020-04-18	Liber_Lamentationes
+1100000417	quasi struthio in deserto.	2020-04-18	Liber_Lamentationes
+1100000418	‹daleth› adhaesit lingua lactentis	2020-04-18	Liber_Lamentationes
+1100000419	ad palatum eius in siti;	2020-04-18	Liber_Lamentationes
+1100000420	parvuli petierunt panem,	2020-04-18	Liber_Lamentationes
+1100000421	et non erat qui frangeret eis.	2020-04-18	Liber_Lamentationes
+1100000422	‹he› qui vescebantur voluptuose,	2020-04-18	Liber_Lamentationes
+1100000423	interierunt in viis;	2020-04-18	Liber_Lamentationes
+1100000424	qui nutriebantur in croceis,	2020-04-18	Liber_Lamentationes
+1100000425	amplexati sunt stercora.	2020-04-18	Liber_Lamentationes
+1100000426	‹vau› et maior effecta est iniquitas filiae populi mei	2020-04-18	Liber_Lamentationes
+1100000427	peccato sodomorum,	2020-04-18	Liber_Lamentationes
+1100000428	quae subversa est in momento,	2020-04-18	Liber_Lamentationes
+1100000429	et non ceperunt in ea manus.	2020-04-18	Liber_Lamentationes
+1100000430	‹zain› candidiores nazaraei eius nive,	2020-04-18	Liber_Lamentationes
+1100000431	nitidiores lacte,	2020-04-18	Liber_Lamentationes
+1100000432	rubicundiores ebore antiquo,	2020-04-18	Liber_Lamentationes
+1100000433	sapphiro pulchriores.	2020-04-18	Liber_Lamentationes
+1100000434	‹heth› denigrata est super carbones facies eorum	2020-04-18	Liber_Lamentationes
+1100000435	et non sunt cogniti in plateis;	2020-04-18	Liber_Lamentationes
+1100000436	adhaesit cutis eorum ossibus:	2020-04-18	Liber_Lamentationes
+1100000437	aruit, et facta est quasi lignum.	2020-04-18	Liber_Lamentationes
+1100000438	‹teth› melius fuit occisis gladio	2020-04-18	Liber_Lamentationes
+1100000439	quam interfectis fame,	2020-04-18	Liber_Lamentationes
+1100000440	quoniam isti extabuerunt consumpti	2020-04-18	Liber_Lamentationes
+1100000441	a sterilitate terrae.	2020-04-18	Liber_Lamentationes
+1100000442	‹iod› manus mulierum misericordium	2020-04-18	Liber_Lamentationes
+1100000443	coxerunt filios suos;	2020-04-18	Liber_Lamentationes
+1100000444	facti sunt cibus earum	2020-04-18	Liber_Lamentationes
+1100000445	in contritione filiae populi mei.	2020-04-18	Liber_Lamentationes
+1100000446	‹caph› complevit dominus furorem suum,	2020-04-18	Liber_Lamentationes
+1100000447	effudit iram indignationis suae:	2020-04-18	Liber_Lamentationes
+1100000448	et succendit ignem in sion,	2020-04-18	Liber_Lamentationes
+1100000449	et devoravit fundamenta eius.	2020-04-18	Liber_Lamentationes
+1100000450	‹lamed› non crediderunt reges terrae,	2020-04-18	Liber_Lamentationes
+1100000451	et universi habitatores orbis,	2020-04-18	Liber_Lamentationes
+1100000452	quoniam ingrederetur hostis et inimicus	2020-04-18	Liber_Lamentationes
+1100000453	per portas ierusalem.	2020-04-18	Liber_Lamentationes
+1100000454	‹mem› propter peccata prophetarum eius,	2020-04-18	Liber_Lamentationes
+1100000455	et iniquitates sacerdotum eius,	2020-04-18	Liber_Lamentationes
+1100000456	qui effuderunt in medio eius	2020-04-18	Liber_Lamentationes
+1100000457	sanguinem iustorum.	2020-04-18	Liber_Lamentationes
+1100000458	‹nun› erraverunt caeci in plateis,	2020-04-18	Liber_Lamentationes
+1100000459	polluti sunt in sanguine;	2020-04-18	Liber_Lamentationes
+1100000460	cumque non possent,	2020-04-18	Liber_Lamentationes
+1100000461	tenuerunt lacinias suas.	2020-04-18	Liber_Lamentationes
+1100000462	‹samech› recedite polluti, clamaverunt eis;	2020-04-18	Liber_Lamentationes
+1100000463	recedite, abite, nolite tangere:	2020-04-18	Liber_Lamentationes
+1100000464	iurgati quippe sunt, et commoti dixerunt inter gentes:	2020-04-18	Liber_Lamentationes
+1100000465	non addet ultra ut habitet in eis.	2020-04-18	Liber_Lamentationes
+1100000466	‹phe› facies domini divisit eos,	2020-04-18	Liber_Lamentationes
+1100000467	non addet ut respiciat eos;	2020-04-18	Liber_Lamentationes
+1100000468	facies sacerdotum non erubuerunt,	2020-04-18	Liber_Lamentationes
+1100000469	neque senum miserti sunt.	2020-04-18	Liber_Lamentationes
+1100000470	‹ain› cum adhuc subsisteremus, defecerunt oculi nostri	2020-04-18	Liber_Lamentationes
+1100000471	ad auxilium nostrum vanum;	2020-04-18	Liber_Lamentationes
+1100000472	cum respiceremus attenti ad gentem	2020-04-18	Liber_Lamentationes
+1100000473	quae salvare non poterat.	2020-04-18	Liber_Lamentationes
+1100000474	‹sade› lubricaverunt vestigia nostra	2020-04-18	Liber_Lamentationes
+1100000475	in itinere platearum nostrarum;	2020-04-18	Liber_Lamentationes
+1100000476	appropinquavit finis noster, completi sunt dies nostri,	2020-04-18	Liber_Lamentationes
+1100000477	quia venit finis noster.	2020-04-18	Liber_Lamentationes
+1100000478	‹coph› velociores fuerunt persecutores nostri	2020-04-18	Liber_Lamentationes
+1100000479	aquilis caeli;	2020-04-18	Liber_Lamentationes
+1100000480	super montes persecuti sunt nos,	2020-04-18	Liber_Lamentationes
+1100000481	in deserto insidiati sunt nobis.	2020-04-18	Liber_Lamentationes
+1100000482	‹res› spiritus oris nostri, christus dominus,	2020-04-18	Liber_Lamentationes
+1100000483	captus est in peccatis nostris,	2020-04-18	Liber_Lamentationes
+1100000484	cui diximus: in umbra tua	2020-04-18	Liber_Lamentationes
+1100000485	vivemus in gentibus.	2020-04-18	Liber_Lamentationes
+1100000486	‹sin› gaude et laetare, filia edom,	2020-04-18	Liber_Lamentationes
+1100000487	quae habitas in terra hus!	2020-04-18	Liber_Lamentationes
+1100000488	ad te quoque perveniet calix: inebriaberis,	2020-04-18	Liber_Lamentationes
+1100000489	atque nudaberis.	2020-04-18	Liber_Lamentationes
+1100000490	‹thau› completa est iniquitas tua, filia sion:	2020-04-18	Liber_Lamentationes
+1100000491	non addet ultra ut transmigret te.	2020-04-18	Liber_Lamentationes
+1100000492	visitavit iniquitatem tuam, filia edom;	2020-04-18	Liber_Lamentationes
+1100000493	discooperuit peccata tua.	2020-04-18	Liber_Lamentationes
+1100000494	caput 5	2020-04-18	Liber_Lamentationes
+1100000495	recordare, domine, quid acciderit nobis;	2020-04-18	Liber_Lamentationes
+1100000496	intuere et respice opprobrium nostrum.	2020-04-18	Liber_Lamentationes
+1100000497	haereditas nostra versa est ad alienos,	2020-04-18	Liber_Lamentationes
+1100000498	domus nostrae ad extraneos.	2020-04-18	Liber_Lamentationes
+1100000499	pupilli facti sumus absque patre,	2020-04-18	Liber_Lamentationes
+1100000500	matres nostrae quasi viduae.	2020-04-18	Liber_Lamentationes
+1100000501	aquam nostram pecunia bibimus;	2020-04-18	Liber_Lamentationes
+1100000502	ligna nostra pretio comparavimus.	2020-04-18	Liber_Lamentationes
+1100000503	cervicibus nostris minabamur,	2020-04-18	Liber_Lamentationes
+1100000504	lassis non dabatur requies.	2020-04-18	Liber_Lamentationes
+1100000505	aegypto dedimus manum et assyriis,	2020-04-18	Liber_Lamentationes
+1100000506	ut saturaremur pane.	2020-04-18	Liber_Lamentationes
+1100000507	patres nostri peccaverunt, et non sunt:	2020-04-18	Liber_Lamentationes
+1100000508	et nos iniquitates eorum portavimus.	2020-04-18	Liber_Lamentationes
+1100000509	servi dominati sunt nostri:	2020-04-18	Liber_Lamentationes
+1100000510	non fuit qui redimeret de manu eorum.	2020-04-18	Liber_Lamentationes
+1100000511	in animabus nostris afferebamus panem nobis,	2020-04-18	Liber_Lamentationes
+1100000512	a facie gladii in deserto.	2020-04-18	Liber_Lamentationes
+1100000513	pellis nostra quasi clibanus exusta est,	2020-04-18	Liber_Lamentationes
+1100000514	a facie tempestatum famis.	2020-04-18	Liber_Lamentationes
+1100000515	mulieres in sion humiliaverunt,	2020-04-18	Liber_Lamentationes
+1100000516	et virgines in civitatibus iuda.	2020-04-18	Liber_Lamentationes
+1100000517	principes manu suspensi sunt;	2020-04-18	Liber_Lamentationes
+1100000518	facies senum non erubuerunt.	2020-04-18	Liber_Lamentationes
+1100000519	adolescentibus impudice abusi sunt,	2020-04-18	Liber_Lamentationes
+1100000520	et pueri in ligno corruerunt.	2020-04-18	Liber_Lamentationes
+1100000521	senes defecerunt de portis,	2020-04-18	Liber_Lamentationes
+1100000522	iuvenes de choro psallentium.	2020-04-18	Liber_Lamentationes
+1100000523	defecit gaudium cordis nostri;	2020-04-18	Liber_Lamentationes
+1100000524	versus est in luctum chorus noster.	2020-04-18	Liber_Lamentationes
+1100000525	cecidit corona capitis nostri:	2020-04-18	Liber_Lamentationes
+1100000526	vae nobis, quia peccavimus!	2020-04-18	Liber_Lamentationes
+1100000527	propterea moestum factum est cor nostrum;	2020-04-18	Liber_Lamentationes
+1100000528	ideo contenebrati sunt oculi nostri,	2020-04-18	Liber_Lamentationes
+1100000529	propter montem sion quia disperiit;	2020-04-18	Liber_Lamentationes
+1100000530	vulpes ambulaverunt in eo.	2020-04-18	Liber_Lamentationes
+1100000531	tu autem, domine, in aeternum permanebis,	2020-04-18	Liber_Lamentationes
+1100000532	solium tuum in generationem et generationem.	2020-04-18	Liber_Lamentationes
+1100000533	quare in perpetuum oblivisceris nostri,	2020-04-18	Liber_Lamentationes
+1100000534	derelinques nos in longitudine dierum?	2020-04-18	Liber_Lamentationes
+1100000535	converte nos, domine, ad te, et convertemur;	2020-04-18	Liber_Lamentationes
+1100000536	innova dies nostros, sicut a principio.	2020-04-18	Liber_Lamentationes
+1100000537	sed proiiciens repulisti nos:	2020-04-18	Liber_Lamentationes
+1100000538	iratus es contra nos vehementer.	2020-04-18	Liber_Lamentationes

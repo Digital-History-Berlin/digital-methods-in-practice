@@ -1,0 +1,773 @@
+1100000001	liber iudicum	2020-04-18	Liber_Iudicum
+1100000002	caput 1	2020-04-18	Liber_Iudicum
+1100000003	post mortem iosue, consuluerunt filii israel dominum, dicentes: quis ascendet ante nos contra chananaeum, et erit dux belli?	2020-04-18	Liber_Iudicum
+1100000004	dixitque dominus: iudas ascendet: ecce tradidi terram in manus eius.	2020-04-18	Liber_Iudicum
+1100000005	et ait iudas simeoni fratri suo: ascende mecum in sortem meam, et pugna contra chananaeum, ut et ego pergam tecum in sortem tuam. 	2020-04-18	Liber_Iudicum
+1100000006	et abiit cum eo simeon.	2020-04-18	Liber_Iudicum
+1100000007	ascenditque iudas, et tradidit dominus chananaeum ac pherezaeum in manus eorum: et percusserunt in bezec decem millia virorum.	2020-04-18	Liber_Iudicum
+1100000008	inveneruntque adonibezec in bezec, et pugnaverunt contra eum, ac percusserunt chananaeum et pherezaeum.	2020-04-18	Liber_Iudicum
+1100000009	fugit autem adonibezec: quem persecuti comprehenderunt, caesis summitatibus manuum eius ac pedum.	2020-04-18	Liber_Iudicum
+1100000010	dixitque adonibezec: septuaginta reges amputatis manuum ac pedum summitatibus colligebant sub mensa mea ciborum reliquias: sicut feci, ita reddidit mihi deus. 	2020-04-18	Liber_Iudicum
+1100000011	adduxeruntque eum in ierusalem, et ibi mortuus est.	2020-04-18	Liber_Iudicum
+1100000012	oppugnantes ergo filii iuda ierusalem, ceperunt eam, et percusserunt in ore gladii, tradentes cunctam incendio civitatem.	2020-04-18	Liber_Iudicum
+1100000013	et postea descendentes pugnaverunt contra chananaeum, qui habitabat in montanis, et ad meridiem, et in campestribus.	2020-04-18	Liber_Iudicum
+1100000014	pergensque iudas contra chananaeum, qui habitabat in hebron (cuius nomen fuit antiquitus cariath arbe), percussit sesai, et ahiman, et tholmai:atque inde profectus abiit ad habitatores dabir, cuius nomen vetus erat cariath sepher, id est, civitas litterarum.	2020-04-18	Liber_Iudicum
+1100000015	dixitque caleb: qui percusserit cariath sepher, et vastaverit eam, dabo ei axam filiam meam uxorem.	2020-04-18	Liber_Iudicum
+1100000016	cumque cepisset eam othoniel filius cenez frater caleb minor, dedit ei axam filiam suam coniugem.	2020-04-18	Liber_Iudicum
+1100000017	quam pergentem in itinere monuit vir suus ut peteret a patre suo agrum. 	2020-04-18	Liber_Iudicum
+1100000018	quae cum suspirasset sedens in asino, dixit ei caleb: quid habes?	2020-04-18	Liber_Iudicum
+1100000019	at illa respondit: da mihi benedictionem, quia terram arentem dedisti mihi: da et irriguam aquis. 	2020-04-18	Liber_Iudicum
+1100000020	dedit ergo ei caleb irriguum superius, et irriguum inferius.	2020-04-18	Liber_Iudicum
+1100000021	filii autem cinaei cognati moysi ascenderunt de civitate palmarum cum filiis iuda, in desertum sortis eius, quod est ad meridiem arad, et habitaverunt cum eo.	2020-04-18	Liber_Iudicum
+1100000022	abiit autem iudas cum simeone fratre suo, et percusserunt simul chananaeum qui habitabat in sephaath, et interfecerunt eum. 	2020-04-18	Liber_Iudicum
+1100000023	vocatumque est nomen urbis, horma, id est, anathema.	2020-04-18	Liber_Iudicum
+1100000024	cepitque iudas gazam cum finibus suis, et ascalonem, atque accaron cum terminis suis.	2020-04-18	Liber_Iudicum
+1100000025	fuitque dominus cum iuda, et montana possedit: nec potuit delere habitatores vallis, quia falcatis curribus abundabant.	2020-04-18	Liber_Iudicum
+1100000026	dederuntque caleb hebron, sicut dixerat moyses, qui delevit ex ea tres filios enac.	2020-04-18	Liber_Iudicum
+1100000027	iebusaeum autem habitatorem ierusalem non deleverunt filii beniamin: habitavitque iebusaeus cum filiis beniamin in ierusalem, usque in praesentem diem.	2020-04-18	Liber_Iudicum
+1100000028	domus quoque ioseph ascendit in bethel, fuitque dominus cum eis.	2020-04-18	Liber_Iudicum
+1100000029	nam cum obsiderent urbem, quae prius luza vocabatur,viderunt hominem egredientem de civitate, dixeruntque ad eum: ostende nobis introitum civitatis, et faciemus tecum misericordiam.	2020-04-18	Liber_Iudicum
+1100000030	qui cum ostendisset eis, percusserunt urbem in ore gladii: hominem autem illum, et omnem cognationem eius, dimiserunt.	2020-04-18	Liber_Iudicum
+1100000031	qui dimissus, abiit in terram hetthim, et aedificavit ibi civitatem, vocavitque eam luzam: quae ita appellatur usque in praesentem diem.	2020-04-18	Liber_Iudicum
+1100000032	manasses quoque non delevit bethsan, et thanac cum viculis suis, et habitatores dor, et ieblaam, et mageddo cum viculis suis, coepitque chananaeus habitare cum eis.	2020-04-18	Liber_Iudicum
+1100000033	postquam autem confortatus est israel, fecit eos tributarios, et delere noluit.	2020-04-18	Liber_Iudicum
+1100000034	ephraim etiam non interfecit chananaeum, qui habitabat in gazer, sed habitavit cum eo.	2020-04-18	Liber_Iudicum
+1100000035	zabulon non delevit habitatores cetron, et naalol: sed habitavit chananaeus in medio eius, factusque est ei tributarius.	2020-04-18	Liber_Iudicum
+1100000036	aser quoque non delevit habitatores accho, et sidonis, ahalab, et achazib, et helba, et aphec, et rohob:habitavitque in medio chananaei habitatoris illius terrae, nec interfecit eum.	2020-04-18	Liber_Iudicum
+1100000037	nephthali quoque non delevit habitatores bethsames, et bethanath: et habitavit inter chananaeum habitatorem terrae, fueruntque ei bethsamitae et bethanitae tributarii.	2020-04-18	Liber_Iudicum
+1100000038	arctavitque amorrhaeus filios dan in monte, nec dedit eis locum ut ad planiora descenderent:habitavitque in monte hares, quod interpretatur testaceo, in aialon et salebim. 	2020-04-18	Liber_Iudicum
+1100000039	et aggravata est manus domus ioseph, factusque est ei tributarius.	2020-04-18	Liber_Iudicum
+1100000040	fuit autem terminus amorrhaei ab ascensu scorpionis, petra, et superiora loca.	2020-04-18	Liber_Iudicum
+1100000041	caput 2	2020-04-18	Liber_Iudicum
+1100000042	ascenditque angelus domini de galgalis ad locum flentium, et ait: eduxi vos de aegypto, et introduxi in terram, pro qua iuravi patribus vestris: et pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum,ita dumtaxat ut non feriretis foedus cum habitatoribus terrae huius, sed aras eorum subverteretis: et noluistis audire vocem meam: cur hoc fecistis?	2020-04-18	Liber_Iudicum
+1100000043	quam ob rem nolui delere eos a facie vestra: ut habeatis hostes, et dii eorum sint vobis in ruinam.	2020-04-18	Liber_Iudicum
+1100000044	cumque loqueretur angelus domini haec verba ad omnes filios israel, elevaverunt ipsi vocem suam, et fleverunt.	2020-04-18	Liber_Iudicum
+1100000045	et vocatum est nomen loci illius, locus flentium, sive lacrimarum: immolaveruntque ibi hostias domini.	2020-04-18	Liber_Iudicum
+1100000046	dimisit ergo iosue populum, et abierunt filii israel unusquisque in possessionem suam, ut obtinerent eam:servieruntque domino cunctis diebus eius, et seniorum, qui longo post eum vixerunt tempore, et noverant omnia opera domini quae fecerat cum israel.	2020-04-18	Liber_Iudicum
+1100000047	mortuus est autem iosue filius nun, famulus domini, centum et decem annorum,et sepelierunt eum in finibus possessionis suae in thamnathsare in monte ephraim, a septentrionali plaga montis gaas.	2020-04-18	Liber_Iudicum
+1100000048	omnisque illa generatio congregata est ad patres suos: et surrexerunt alii, qui non noverant dominum, et opera quae fecerat cum israel.	2020-04-18	Liber_Iudicum
+1100000049	feceruntque filii israel malum in conspectu domini, et servierunt baalim.	2020-04-18	Liber_Iudicum
+1100000050	ac dimiserunt dominum deum patrum suorum, qui eduxerat eos de terra aegypti, et secuti sunt deos alienos, deosque populorum, qui habitabant in circuitu eorum, et adoraverunt eos: et ad iracundiam concitaverunt dominum,dimittentes eum, et servientes baal et astaroth.	2020-04-18	Liber_Iudicum
+1100000051	iratusque dominus contra israel, tradidit eos in manus diripientium: qui ceperunt eos, et vendiderunt hostibus qui habitabant per gyrum: nec potuerunt resistere adversariis suis,sed quocumque pergere voluissent, manus domini super eos erat, sicut locutus est, et iuravit eis, et vehementer afflicti sunt.	2020-04-18	Liber_Iudicum
+1100000052	suscitavitque dominus iudices, qui liberarent eos de vastantium manibus: sed nec eos audire voluerunt,fornicantes cum diis alienis, et adorantes eos. 	2020-04-18	Liber_Iudicum
+1100000053	cito deseruerunt viam, per quam ingressi fuerant patres eorum: et audientes mandata domini, omnia fecere contraria.	2020-04-18	Liber_Iudicum
+1100000054	cumque dominus iudices suscitaret, in diebus eorum flectebatur misericordia, et audiebat afflictorum gemitus, et liberabat eos de caede vastantium.	2020-04-18	Liber_Iudicum
+1100000055	postquam autem mortuus esset iudex, revertebantur, et multo faciebant peiora quam fecerant patres eorum, sequentes deos alienos, servientes eis, et adorantes illos. 	2020-04-18	Liber_Iudicum
+1100000056	non dimiserunt adinventiones suas, et viam durissimam per quam ambulare consueverunt.	2020-04-18	Liber_Iudicum
+1100000057	iratusque est furor domini in israel, et ait: quia irritum fecit gens ista pactum meum, quod pepigeram cum patribus eorum, et vocem meam audire contempsit:et ego non delebo gentes, quas dimisit iosue, et mortuus est:ut in ipsis experiar israel, utrum custodiant viam domini, et ambulent in ea, sicut custodierunt patres eorum, an non.	2020-04-18	Liber_Iudicum
+1100000058	dimisit ergo dominus omnes nationes has, et cito subvertere noluit, nec tradidit in manus iosue.	2020-04-18	Liber_Iudicum
+1100000059	caput 3	2020-04-18	Liber_Iudicum
+1100000060	hae sunt gentes quas dominus dereliquit, ut erudiret in eis israelem, et omnes qui non noverant bella chananaeorum:ut postea discerent filii eorum certare cum hostibus, et habere consuetudinem praeliandi:quinque satrapas philisthinorum, omnemque chananaeum, et sidonium, atque hevaeum, qui habitabat in monte libano, de monte baal hermon usque ad introitum emath.	2020-04-18	Liber_Iudicum
+1100000061	dimisitque eos, ut in ipsis experiretur israelem, utrum audiret mandata domini quae praeceperat patribus eorum per manum moysi, an non.	2020-04-18	Liber_Iudicum
+1100000062	itaque filii israel habitaverunt in medio chananaei, et hethaei, et amorrhaei, et pherezaei, et hevaei, et iebusaei:et duxerunt uxores filias eorum, ipsique filias suas filiis eorum tradiderunt, et servierunt diis eorum.	2020-04-18	Liber_Iudicum
+1100000063	feceruntque malum in conspectu domini, et obliti sunt dei sui, servientes baalim et astaroth.	2020-04-18	Liber_Iudicum
+1100000064	iratusque contra israel dominus, tradidit eos in manus chusan rasathaim regis mesopotamiae, servieruntque ei octo annis.	2020-04-18	Liber_Iudicum
+1100000065	et clamaverunt ad dominum, qui suscitavit eis salvatorem, et liberavit eos, othoniel videlicet filium cenez, fratrem caleb minorem:fuitque in eo spiritus domini, et iudicavit israel. 	2020-04-18	Liber_Iudicum
+1100000066	egressusque est ad pugnam, et tradidit dominus in manus eius chusan rasathaim regem syriae, et oppressit eum.	2020-04-18	Liber_Iudicum
+1100000067	quievitque terra quadraginta annis, et mortuus est othoniel filius cenez.	2020-04-18	Liber_Iudicum
+1100000068	addiderunt autem filii israel facere malum in conspectu domini: qui confortavit adversum eos eglon regem moab, quia fecerunt malum in conspectu eius.	2020-04-18	Liber_Iudicum
+1100000069	et copulavit ei filios ammon, et amalec: abiitque et percussit israel, atque possedit urbem palmarum.	2020-04-18	Liber_Iudicum
+1100000070	servieruntque filii israel eglon regi moab decem et octo annis.	2020-04-18	Liber_Iudicum
+1100000071	et postea clamaverunt ad dominum, qui suscitavit eis salvatorem vocabulo aod, filium gera, filii iemini, qui utraque manu pro dextera utebatur. 	2020-04-18	Liber_Iudicum
+1100000072	miseruntque filii israel per illum munera eglon regi moab.	2020-04-18	Liber_Iudicum
+1100000073	qui fecit sibi gladium ancipitem, habentem in medio capulum longitudinis palmae manus, et accinctus est eo subter sagum in dextro femore.	2020-04-18	Liber_Iudicum
+1100000074	obtulitque munera eglon regi moab. 	2020-04-18	Liber_Iudicum
+1100000075	erat autem eglon crassus nimis.	2020-04-18	Liber_Iudicum
+1100000076	cumque obtulisset ei munera, prosecutus est socios, qui cum eo venerant.	2020-04-18	Liber_Iudicum
+1100000077	et reversus de galgalis, ubi erant idola, dixit ad regem: verbum secretum habeo ad te, o rex. 	2020-04-18	Liber_Iudicum
+1100000078	et ille imperavit silentium: egressisque omnibus qui circa eum erant,ingressus est aod ad eum: sedebat autem in aestivo coenaculo solus: dixitque: verbum dei habeo ad te. 	2020-04-18	Liber_Iudicum
+1100000079	qui statim surrexit de throno.	2020-04-18	Liber_Iudicum
+1100000080	extenditque aod sinistram manum, et tulit sicam de dextro femore suo, infixitque eam in ventre eiustam valide, ut capulus sequeretur ferrum in vulnere, ac pinguissimo adipe stringeretur. 	2020-04-18	Liber_Iudicum
+1100000081	nec eduxit gladium, sed ita ut percusserat, reliquit in corpore: statimque per secreta naturae alvi stercora proruperunt.	2020-04-18	Liber_Iudicum
+1100000082	aod autem clausis diligentissime ostiis coenaculi, et obfirmatis sera,per posticum egressus est. 	2020-04-18	Liber_Iudicum
+1100000083	servique regis ingressi viderunt clausas fores coenaculi, atque dixerunt: forsitan purgat alvum in aestivo cubiculo.	2020-04-18	Liber_Iudicum
+1100000084	expectantesque diu donec erubescerent, et videntes quod nullus aperiret, tulerunt clavem: et aperientes invenerunt dominum suum in terra iacentem mortuum.	2020-04-18	Liber_Iudicum
+1100000085	aod autem, dum illi turbarentur, effugit, et pertransiit locum idolorum, unde reversus fuerat. 	2020-04-18	Liber_Iudicum
+1100000086	venitque in seirath:et statim insonuit buccina in monte ephraim, descenderuntque cum eo filii israel, ipso in fronte gradiente.	2020-04-18	Liber_Iudicum
+1100000087	qui dixit ad eos: sequimini me: tradidit enim dominus inimicos nostros moabitas in manus nostras. 	2020-04-18	Liber_Iudicum
+1100000088	descenderuntque post eum, et occupaverunt vada iordanis quae transmittunt in moab: et non dimiserunt transire quemquam:sed percusserunt moabitas in tempore illo, circiter decem millia, omnes robustos et fortes viros. 	2020-04-18	Liber_Iudicum
+1100000089	nullus eorum evadere potuit.	2020-04-18	Liber_Iudicum
+1100000090	humiliatusque est moab in die illo sub manu israel: et quievit terra octoginta annis.	2020-04-18	Liber_Iudicum
+1100000091	post hunc fuit samgar filius anath, qui percussit de philisthiim sexcentos viros vomere: et ipse quoque defendit israel.	2020-04-18	Liber_Iudicum
+1100000092	caput 4	2020-04-18	Liber_Iudicum
+1100000093	addideruntque filii israel facere malum in conspectu domini post mortem aod,et tradidit illos dominus in manus iabin regis chanaan, qui regnavit in asor: habuitque ducem exercitus sui nomine sisaram, ipse autem habitabat in haroseth gentium.	2020-04-18	Liber_Iudicum
+1100000094	clamaveruntque filii israel ad dominum: nongentos enim habebat falcatos currus, et per viginti annos vehementer oppresserat eos.	2020-04-18	Liber_Iudicum
+1100000095	erat autem debbora prophetis uxor lapidoth, quae iudicabat populum in illo tempore.	2020-04-18	Liber_Iudicum
+1100000096	et sedebat sub palma, quae nomine illius vocabatur, inter rama et bethel in monte ephraim: ascendebantque ad eam filii israel in omne iudicium.	2020-04-18	Liber_Iudicum
+1100000097	quae misit et vocavit barac filium abinoem de cedes nephthali: dixitque ad eum: praecepit tibi dominus deus israel: vade, et duc exercitum in montem thabor, tollesque tecum decem millia pugnatorum de filiis nephthali, et de filiis zabulon:ego autem adducam ad te in loco torrentis cison, sisaram principem exercitus iabin, et currus eius, atque omnem multitudinem, et tradam eos in manu tua.	2020-04-18	Liber_Iudicum
+1100000098	dixitque ad eam barac: si venis mecum, vadam: si nolueris venire mecum, non pergam.	2020-04-18	Liber_Iudicum
+1100000099	quae dixit ad eum: ibo quidem tecum, sed in hac vice victoria non reputabitur tibi, quia in manu mulieris tradetur sisara. 	2020-04-18	Liber_Iudicum
+1100000100	surrexit itaque debbora, et perrexit cum barac in cedes.	2020-04-18	Liber_Iudicum
+1100000101	qui, accitis zabulon et nephthali, ascendit cum decem millibus pugnatorum, habens debboram in comitatu suo.	2020-04-18	Liber_Iudicum
+1100000102	haber autem cinaeus recesserat quondam a ceteris cinaeis fratribus suis, filiis hobab cognati moysi: et tetenderat tabernacula usque ad vallem, quae vocatur sennim, et erat iuxta cedes.	2020-04-18	Liber_Iudicum
+1100000103	nuntiatumque est sisarae quod ascendisset barac filius abinoem in montem thabor:et congregavit nongentos falcatos currus, et omnem exercitum de haroseth gentium ad torrentem cison.	2020-04-18	Liber_Iudicum
+1100000104	dixitque debbora ad barac: surge, haec est enim dies, in qua tradidit dominus sisaram in manus tuas: en ipse ductor est tuus. 	2020-04-18	Liber_Iudicum
+1100000105	descendit itaque barac de monte thabor, et decem millia pugnatorum cum eo.	2020-04-18	Liber_Iudicum
+1100000106	perterruitque dominus sisaram, et omnes currus eius, universamque multitudinem in ore gladii ad conspectum barac: in tantum, ut sisara de curru desiliens, pedibus fugeret,et barac persequeretur fugientes currus, et exercitum usque ad haroseth gentium, et omnis hostium multitudo usque ad internecionem caderet.	2020-04-18	Liber_Iudicum
+1100000107	sisara autem fugiens pervenit ad tentorium iahel uxoris haber cinaei. 	2020-04-18	Liber_Iudicum
+1100000108	erat enim pax inter iabin regem asor, et domum haber cinaei.	2020-04-18	Liber_Iudicum
+1100000109	egressa igitur iahel in occursum sisarae, dixit ad eum: intra ad me, domine mi: intra, ne timeas. 	2020-04-18	Liber_Iudicum
+1100000110	qui ingressus tabernaculum eius, et opertus ab ea pallio,dixit ad eam: da mihi, obsecro, paululum aquae, quia sitio valde. 	2020-04-18	Liber_Iudicum
+1100000111	quae aperuit utrem lactis, et dedit ei bibere, et operuit illum.	2020-04-18	Liber_Iudicum
+1100000112	dixitque sisara ad eam: sta ante ostium tabernaculi: et cum venerit aliquis interrogans te, et dicens: numquid hic est aliquis? 	2020-04-18	Liber_Iudicum
+1100000113	respondebis: nullus est.	2020-04-18	Liber_Iudicum
+1100000114	tulit itaque iahel uxor haber clavum tabernaculi, assumens pariter et malleum: et ingressa abscondite et cum silentio, posuit supra tempus capitis eius clavum, percussumque malleo defixit in cerebrum usque ad terram: qui soporem morti consocians defecit, et mortuus est.	2020-04-18	Liber_Iudicum
+1100000115	et ecce barac sequens sisaram veniebat: egressaque iahel in occursum eius, dixit ei: veni, et ostendam tibi virum quem quaeris. 	2020-04-18	Liber_Iudicum
+1100000116	qui cum intrasset ad eam, vidit sisaram iacentem mortuum, et clavum infixum in tempore eius.	2020-04-18	Liber_Iudicum
+1100000117	humiliavit ergo deus in die illo iabin regem chanaan coram filiis israel:qui crescebant quotidie, et forti manu opprimebant iabin regem chanaan, donec delerent eum.	2020-04-18	Liber_Iudicum
+1100000118	caput 5	2020-04-18	Liber_Iudicum
+1100000119	cecineruntque debbora et barac filius abinoem in illo die, dicentes:	2020-04-18	Liber_Iudicum
+1100000120	qui sponte obtulistis de israel animas vestras ad periculum,	2020-04-18	Liber_Iudicum
+1100000121	benedicite domino.	2020-04-18	Liber_Iudicum
+1100000122	audite, reges; auribus percipite, principes:	2020-04-18	Liber_Iudicum
+1100000123	ego sum, ego sum, quae domino canam,	2020-04-18	Liber_Iudicum
+1100000124	psallam domino deo israel.	2020-04-18	Liber_Iudicum
+1100000125	domine, cum exires de seir,	2020-04-18	Liber_Iudicum
+1100000126	et transires per regiones edom,	2020-04-18	Liber_Iudicum
+1100000127	terra mota est,	2020-04-18	Liber_Iudicum
+1100000128	caelique ac nubes distillaverunt aquis.	2020-04-18	Liber_Iudicum
+1100000129	montes fluxerunt a facie domini,	2020-04-18	Liber_Iudicum
+1100000130	et sinai a facie domini dei israel.	2020-04-18	Liber_Iudicum
+1100000131	in diebus samgar filii anath,	2020-04-18	Liber_Iudicum
+1100000132	in diebus iahel quieverunt semitae:	2020-04-18	Liber_Iudicum
+1100000133	et qui ingrediebantur per eas,	2020-04-18	Liber_Iudicum
+1100000134	ambulaverunt per calles devios.	2020-04-18	Liber_Iudicum
+1100000135	cessaverunt fortes in israel, et quieverunt:	2020-04-18	Liber_Iudicum
+1100000136	donec surgeret debbora,	2020-04-18	Liber_Iudicum
+1100000137	surgeret mater in israel.	2020-04-18	Liber_Iudicum
+1100000138	nova bella elegit dominus,	2020-04-18	Liber_Iudicum
+1100000139	et portas hostium ipse subvertit:	2020-04-18	Liber_Iudicum
+1100000140	clypeus et hasta si apparuerint	2020-04-18	Liber_Iudicum
+1100000141	in quadraginta millibus israel.	2020-04-18	Liber_Iudicum
+1100000142	cor meum diligit principes israel:	2020-04-18	Liber_Iudicum
+1100000143	qui propria voluntate obtulistis vos discrimini,	2020-04-18	Liber_Iudicum
+1100000144	benedicite domino.	2020-04-18	Liber_Iudicum
+1100000145	qui ascenditis super nitentes asinos,	2020-04-18	Liber_Iudicum
+1100000146	et sedetis in iudicio,	2020-04-18	Liber_Iudicum
+1100000147	et ambulatis in via,	2020-04-18	Liber_Iudicum
+1100000148	loquimini.	2020-04-18	Liber_Iudicum
+1100000149	ubi collisi sunt currus,	2020-04-18	Liber_Iudicum
+1100000150	et hostium suffocatus est exercitus,	2020-04-18	Liber_Iudicum
+1100000151	ibi narrentur iustitiae domini,	2020-04-18	Liber_Iudicum
+1100000152	et clementia in fortes israel:	2020-04-18	Liber_Iudicum
+1100000153	tunc descendit populus domini ad portas,	2020-04-18	Liber_Iudicum
+1100000154	et obtinuit principatum.	2020-04-18	Liber_Iudicum
+1100000155	surge, surge debbora;	2020-04-18	Liber_Iudicum
+1100000156	surge, surge, et loquere canticum:	2020-04-18	Liber_Iudicum
+1100000157	surge barac, et apprehende captivos tuos, fili abinoem.	2020-04-18	Liber_Iudicum
+1100000158	salvatae sunt reliquiae populi:	2020-04-18	Liber_Iudicum
+1100000159	dominus in fortibus dimicavit.	2020-04-18	Liber_Iudicum
+1100000160	ex ephraim delevit eos in amalec,	2020-04-18	Liber_Iudicum
+1100000161	et post eum ex beniamin in populos tuos, o amalec:	2020-04-18	Liber_Iudicum
+1100000162	de machir principes descenderunt,	2020-04-18	Liber_Iudicum
+1100000163	et de zabulon qui exercitum ducerent ad bellandum.	2020-04-18	Liber_Iudicum
+1100000164	duces issachar fuere cum debbora,	2020-04-18	Liber_Iudicum
+1100000165	et barac vestigia sunt secuti,	2020-04-18	Liber_Iudicum
+1100000166	qui quasi in praeceps ac barathrum se discrimini dedit:	2020-04-18	Liber_Iudicum
+1100000167	diviso contra se ruben,	2020-04-18	Liber_Iudicum
+1100000168	magnanimorum reperta est contentio.	2020-04-18	Liber_Iudicum
+1100000169	quare habitas inter duos terminos,	2020-04-18	Liber_Iudicum
+1100000170	ut audias sibilos gregum?	2020-04-18	Liber_Iudicum
+1100000171	diviso contra se ruben,	2020-04-18	Liber_Iudicum
+1100000172	magnanimorum reperta est contentio.	2020-04-18	Liber_Iudicum
+1100000173	galaad trans iordanem quiescebat,	2020-04-18	Liber_Iudicum
+1100000174	et dan vacabat navibus:	2020-04-18	Liber_Iudicum
+1100000175	aser habitabat in littore maris,	2020-04-18	Liber_Iudicum
+1100000176	et in portubus morabatur.	2020-04-18	Liber_Iudicum
+1100000177	zabulon vero et nephthali obtulerunt animas suas morti	2020-04-18	Liber_Iudicum
+1100000178	in regione merome.	2020-04-18	Liber_Iudicum
+1100000179	venerunt reges et pugnaverunt:	2020-04-18	Liber_Iudicum
+1100000180	pugnaverunt reges chanaan	2020-04-18	Liber_Iudicum
+1100000181	in thanach iuxta aquas mageddo,	2020-04-18	Liber_Iudicum
+1100000182	et tamen nihil tulere praedantes.	2020-04-18	Liber_Iudicum
+1100000183	de caelo dimicatum est contra eos:	2020-04-18	Liber_Iudicum
+1100000184	stellae manentes in ordine et cursu suo,	2020-04-18	Liber_Iudicum
+1100000185	adversus sisaram pugnaverunt.	2020-04-18	Liber_Iudicum
+1100000186	torrens cison traxit cadavera eorum,	2020-04-18	Liber_Iudicum
+1100000187	torrens cadumim, torrens cison:	2020-04-18	Liber_Iudicum
+1100000188	conculca, anima mea, robustos.	2020-04-18	Liber_Iudicum
+1100000189	ungulae equorum ceciderunt, fugientibus impetu,	2020-04-18	Liber_Iudicum
+1100000190	et per praeceps ruentibus fortissimis hostium.	2020-04-18	Liber_Iudicum
+1100000191	maledicite terrae meroz, dixit angelus domini:	2020-04-18	Liber_Iudicum
+1100000192	maledicite habitatoribus eius,	2020-04-18	Liber_Iudicum
+1100000193	quia non venerunt ad auxilium domini,	2020-04-18	Liber_Iudicum
+1100000194	in adiutorium fortissimorum eius.	2020-04-18	Liber_Iudicum
+1100000195	benedicta inter mulieres iahel uxor haber cinaei,	2020-04-18	Liber_Iudicum
+1100000196	et benedicatur in tabernaculo suo.	2020-04-18	Liber_Iudicum
+1100000197	aquam petenti lac dedit,	2020-04-18	Liber_Iudicum
+1100000198	et in phiala principum obtulit butyrum.	2020-04-18	Liber_Iudicum
+1100000199	sinistram manum misit ad clavum,	2020-04-18	Liber_Iudicum
+1100000200	et dexteram ad fabrorum malleos.	2020-04-18	Liber_Iudicum
+1100000201	percussitque sisaram quaerens in capite vulneri locum,	2020-04-18	Liber_Iudicum
+1100000202	et tempus valide perforans:	2020-04-18	Liber_Iudicum
+1100000203	inter pedes eius ruit; defecit, et mortuus est:	2020-04-18	Liber_Iudicum
+1100000204	volvebatur ante pedes eius,	2020-04-18	Liber_Iudicum
+1100000205	et iacebat exanimis et miserabilis.	2020-04-18	Liber_Iudicum
+1100000206	per fenestram respiciens, ululabat mater eius:	2020-04-18	Liber_Iudicum
+1100000207	et de coenaculo loquebatur:	2020-04-18	Liber_Iudicum
+1100000208	cur moratur regredi currus eius?	2020-04-18	Liber_Iudicum
+1100000209	quare tardaverunt pedes quadrigarum illius?	2020-04-18	Liber_Iudicum
+1100000210	una sapientior ceteris uxoribus eius,	2020-04-18	Liber_Iudicum
+1100000211	haec socrui verba respondit:	2020-04-18	Liber_Iudicum
+1100000212	forsitan nunc dividit spolia,	2020-04-18	Liber_Iudicum
+1100000213	et pulcherrima feminarum eligitur ei:	2020-04-18	Liber_Iudicum
+1100000214	vestes diversorum colorum sisarae traduntur in praedam,	2020-04-18	Liber_Iudicum
+1100000215	et supellex varia ad ornanda colla congeritur.	2020-04-18	Liber_Iudicum
+1100000216	sic pereant omnes inimici tui, domine:	2020-04-18	Liber_Iudicum
+1100000217	qui autem diligunt te, sicut sol in ortu suo splendet, ita rutilent.	2020-04-18	Liber_Iudicum
+1100000218	quievitque terra per quadraginta annos.	2020-04-18	Liber_Iudicum
+1100000219	caput 6	2020-04-18	Liber_Iudicum
+1100000220	fecerunt autem filii israel malum in conspectu domini: qui tradidit illos in manu madian septem annis,et oppressi sunt valde ab eis. 	2020-04-18	Liber_Iudicum
+1100000221	feceruntque sibi antra et speluncas in montibus, et munitissima ad repugnandum loca.	2020-04-18	Liber_Iudicum
+1100000222	cumque sevisset israel, ascendebat madian et amalec, ceterique orientalium nationum:et apud eos figentes tentoria, sicut erant in herbis cuncta vastabant usque ad introitum gazae: nihilque omnino ad vitam pertinens relinquebant in israel, non oves, non boves, non asinos.	2020-04-18	Liber_Iudicum
+1100000223	ipsi enim et universi greges eorum veniebant cum tabernaculis suis, et instar locustarum universa complebant, innumera multitudo hominum et camelorum, quidquid tetigerant devastantes.	2020-04-18	Liber_Iudicum
+1100000224	humiliatusque est israel valde in conspectu madian.	2020-04-18	Liber_Iudicum
+1100000225	et clamavit ad dominum postulans auxilium contra madianitas.	2020-04-18	Liber_Iudicum
+1100000226	qui misit ad eos virum prophetam, et locutus est: haec dicit dominus deus israel: ego vos feci conscendere de aegypto, et eduxi vos de domo servitutis,et liberavi de manu aegyptiorum, et omnium inimicorum qui affligebant vos: eiecique eos ad introitum vestrum, et tradidi vobis terram eorum.	2020-04-18	Liber_Iudicum
+1100000227	et dixi: ego dominus deus vester: ne timeatis deos amorrhaeorum, in quorum terra habitatis. 	2020-04-18	Liber_Iudicum
+1100000228	et noluistis audire vocem meam.	2020-04-18	Liber_Iudicum
+1100000229	venit autem angelus domini, et sedit sub quercu, quae erat in ephra, et pertinebat ad ioas patrem familiae ezri. 	2020-04-18	Liber_Iudicum
+1100000230	cumque gedeon filius eius excuteret atque purgaret frumenta in torculari, ut fugeret madian,apparuit ei angelus domini, et ait: dominus tecum, virorum fortissime.	2020-04-18	Liber_Iudicum
+1100000231	dixitque ei gedeon: obsecro, mi domine, si dominus nobiscum est, cur apprehenderunt nos haec omnia? 	2020-04-18	Liber_Iudicum
+1100000232	ubi sunt mirabilia eius, quae narraverunt patres nostri, atque dixerunt: de aegypto eduxit nos dominus? 	2020-04-18	Liber_Iudicum
+1100000233	nunc autem dereliquit nos dominus, et tradidit in manu madian.	2020-04-18	Liber_Iudicum
+1100000234	respexitque ad eum dominus, et ait: vade in hac fortitudine tua, et liberabis israel de manu madian: scito quod miserim te.	2020-04-18	Liber_Iudicum
+1100000235	qui respondens ait: obsecro, mi domine, in quo liberabo israel? 	2020-04-18	Liber_Iudicum
+1100000236	ecce familia mea infima est in manasse, et ego minimus in domo patris mei.	2020-04-18	Liber_Iudicum
+1100000237	dixitque ei dominus: ego ero tecum: et percuties madian quasi unum virum.	2020-04-18	Liber_Iudicum
+1100000238	et ille: si inveni, inquit, gratiam coram te, da mihi signum quod tu sis qui loqueris ad me:nec recedas hinc, donec revertar ad te, portans sacrificium, et offerens tibi. 	2020-04-18	Liber_Iudicum
+1100000239	qui respondit: ego praestolabor adventum tuum.	2020-04-18	Liber_Iudicum
+1100000240	ingressus est itaque gedeon, et coxit haedum, et de farinae modio azymos panes: carnesque ponens in canistro, et ius carnium mittens in ollam, tulit omnia sub quercu, et obtulit ei.	2020-04-18	Liber_Iudicum
+1100000241	cui dixit angelus domini: tolle carnes et azymos panes, et pone supra petram illam, et ius desuper funde. 	2020-04-18	Liber_Iudicum
+1100000242	cumque fecisset ita,extendit angelus domini summitatem virgae, quam tenebat in manu, et tetigit carnes et panes azymos: ascenditque ignis de petra, et carnes azymosque panes consumpsit: angelus autem domini evanuit ex oculis eius.	2020-04-18	Liber_Iudicum
+1100000243	vidensque gedeon quod esset angelus domini, ait: heu mi domine deus: quia vidi angelum domini facie ad faciem.	2020-04-18	Liber_Iudicum
+1100000244	dixitque ei dominus: pax tecum: ne timeas, non morieris.	2020-04-18	Liber_Iudicum
+1100000245	aedificavit ergo ibi gedeon altare domino, vocavitque illud, domini pax, usque in praesentem diem. 	2020-04-18	Liber_Iudicum
+1100000246	cumque adhuc esset in ephra, quae est familiae ezri,nocte illa dixit dominus ad eum: tolle taurum patris tui, et alterum taurum annorum septem, destruesque aram baal, quae est patris tui, et nemus, quod circa aram est, succide.	2020-04-18	Liber_Iudicum
+1100000247	et aedificabis altare domino deo tuo in summitate petrae huius, super quam ante sacrificium posuisti: tollesque taurum secundum, et offeres holocaustum super struem lignorum, quae de nemore succideris.	2020-04-18	Liber_Iudicum
+1100000248	assumptis ergo gedeon decem viris de servis suis, fecit sicut praeceperat ei dominus. 	2020-04-18	Liber_Iudicum
+1100000249	timens autem domum patris sui, et homines illius civitatis, per diem noluit id facere, sed omnia nocte complevit.	2020-04-18	Liber_Iudicum
+1100000250	cumque surrexissent viri oppidi eius mane, viderunt destructam aram baal, lucumque succisum, et taurum alterum impositum super altare, quod tunc aedificatum erat.	2020-04-18	Liber_Iudicum
+1100000251	dixeruntque ad invicem: quis hoc fecit? 	2020-04-18	Liber_Iudicum
+1100000252	cumque perquirerent auctorem facti, dictum est: gedeon filius ioas fecit haec omnia.	2020-04-18	Liber_Iudicum
+1100000253	et dixerunt ad ioas: produc filium tuum huc, ut moriatur: quia destruxit aram baal, et succidit nemus.	2020-04-18	Liber_Iudicum
+1100000254	quibus ille respondit: numquid ultores estis baal, ut pugnetis pro eo? 	2020-04-18	Liber_Iudicum
+1100000255	qui adversarius est eius, moriatur antequam lux crastina veniat: si deus est, vindicet se de eo, qui suffodit aram eius.	2020-04-18	Liber_Iudicum
+1100000256	ex illo die vocatus est gedeon ierobaal, eo quod dixisset ioas: ulciscatur se de eo baal, qui suffodit aram eius.	2020-04-18	Liber_Iudicum
+1100000257	igitur omnis madian, et amalec, et orientales populi, congregati sunt simul: et transeuntes iordanem, castrametati sunt in valle iezrael.	2020-04-18	Liber_Iudicum
+1100000258	spiritus autem domini induit gedeon, qui clangens buccina convocavit domum abiezer, ut sequeretur se.	2020-04-18	Liber_Iudicum
+1100000259	misitque nuntios in universum manassen, qui et ipse secutus est eum: et alios nuntios in aser et zabulon et nephthali, qui occurrerunt ei.	2020-04-18	Liber_Iudicum
+1100000260	dixitque gedeon ad deum: si salvum facis per manum meam israel, sicut locutus es,ponam hoc vellus lanae in area: si ros in solo vellere fuerit, et in omni terra siccitas, sciam quod per manum meam, sicut locutus es, liberabis israel.	2020-04-18	Liber_Iudicum
+1100000261	factumque est ita. 	2020-04-18	Liber_Iudicum
+1100000262	et de nocte consurgens expresso vellere, concham rore implevit.	2020-04-18	Liber_Iudicum
+1100000263	dixitque rursus ad deum: ne irascatur furor tuus contra me si adhuc semel tentavero, signum quaerens in vellere. 	2020-04-18	Liber_Iudicum
+1100000264	oro ut solum vellus siccum sit, et omnis terra rore madens.	2020-04-18	Liber_Iudicum
+1100000265	fecitque deus nocte illa ut postulaverat: et fuit siccitas in solo vellere, et ros in omni terra.	2020-04-18	Liber_Iudicum
+1100000266	caput 7	2020-04-18	Liber_Iudicum
+1100000267	igitur ierobaal qui et gedeon, de nocte consurgens, et omnis populus cum eo, venit ad fontem qui vocatur harad. 	2020-04-18	Liber_Iudicum
+1100000268	erant autem castra madian in valle ad septentrionalem plagam collis excelsi.	2020-04-18	Liber_Iudicum
+1100000269	dixitque dominus ad gedeon: multus tecum est populus, nec tradetur madian in manus eius: ne glorietur contra me israel, et dicat: meis viribus liberatus sum.	2020-04-18	Liber_Iudicum
+1100000270	loquere ad populum, et cunctis audientibus praedica: qui formidolosus et timidus est, revertatur. 	2020-04-18	Liber_Iudicum
+1100000271	recesseruntque de monte galaad, et reversi sunt de populo viginti duo millia virorum, et tantum decem millia remanserunt.	2020-04-18	Liber_Iudicum
+1100000272	dixitque dominus ad gedeon: adhuc populus multus est: duc eos ad aquas et ibi probabo illos: et de quo dixero tibi ut tecum vadat, ipse pergat; quem ire prohibuero, revertatur.	2020-04-18	Liber_Iudicum
+1100000273	cumque descendisset populus ad aquas, dixit dominus ad gedeon: qui lingua lambuerint aquas, sicut solent canes lambere, separabis eos seorsum: qui autem curvatis genibus biberint, in altera parte erunt.	2020-04-18	Liber_Iudicum
+1100000274	fuit itaque numerus eorum qui manu ad os proiiciente lambuerunt aquas, trecenti viri: omnis autem reliqua multitudo flexo poplite biberat.	2020-04-18	Liber_Iudicum
+1100000275	et ait dominus ad gedeon: in trecentis viris qui lambuerunt aquas, liberabo vos, et tradam in manu tua madian: omnis autem reliqua multitudo revertatur in locum suum.	2020-04-18	Liber_Iudicum
+1100000276	sumptis itaque pro numero cibariis et tubis, omnem reliquam multitudinem abire praecepit ad tabernacula sua: et ipse cum trecentis viris se certamini dedit. 	2020-04-18	Liber_Iudicum
+1100000277	castra autem madian erant subter in valle.	2020-04-18	Liber_Iudicum
+1100000278	eadem nocte dixit dominus ad eum: surge, et descende in castra: quia tradidi eos in manu tua.	2020-04-18	Liber_Iudicum
+1100000279	sin autem solus ire formidas, descendat tecum phara puer tuus.	2020-04-18	Liber_Iudicum
+1100000280	et cum audieris quid loquantur, tunc confortabuntur manus tuae, et securior ad hostium castra descendes. 	2020-04-18	Liber_Iudicum
+1100000281	descendit ergo ipse et phara puer eius in partem castrorum, ubi erant armatorum vigiliae.	2020-04-18	Liber_Iudicum
+1100000282	madian autem et amalec, et omnes orientales populi, fusi iacebant in valle, ut locustarum multitudo: cameli quoque innumerabiles erant, sicut arena quae iacet in littore maris.	2020-04-18	Liber_Iudicum
+1100000283	cumque venisset gedeon, narrabat aliquis somnium proximo suo: et in hunc modum referebat quod viderat: vidi somnium, et videbatur mihi quasi subcinericius panis ex hordeo volvi, et in castra madian descendere: cumque pervenisset ad tabernaculum, percussit illud, atque subvertit, et terrae funditus coaequavit.	2020-04-18	Liber_Iudicum
+1100000284	respondit is, cui loquebatur: non est hoc aliud, nisi gladius gedeonis filii ioas viri israelitae: tradidit enim dominus in manus eius madian, et omnia castra eius.	2020-04-18	Liber_Iudicum
+1100000285	cumque audisset gedeon somnium, et interpretationem eius, adoravit: et reversus est ad castra israel, et ait: surgite, tradidit enim dominus in manus nostras castra madian.	2020-04-18	Liber_Iudicum
+1100000286	divisitque trecentos viros in tres partes, et dedit tubas in manibus eorum, lagenasque vacuas, ac lampades in medio lagenarum.	2020-04-18	Liber_Iudicum
+1100000287	et dixit ad eos: quod me facere videritis, hoc facite: ingrediar partem castrorum, et quod fecero, sectamini.	2020-04-18	Liber_Iudicum
+1100000288	quando personuerit tuba in manu mea, vos quoque per castrorum circuitum clangite, et conclamate: domino et gedeoni.	2020-04-18	Liber_Iudicum
+1100000289	ingressusque est gedeon, et trecenti viri qui erant cum eo, in partem castrorum, incipientibus vigiliis noctis mediae: et custodibus suscitatis, coeperunt buccinis clangere, et complodere inter se lagenas.	2020-04-18	Liber_Iudicum
+1100000290	cumque per gyrum castrorum in tribus personarent locis, et hydrias confregissent, tenuerunt sinistris manibus lampades, et dextris sonantes tubas, clamaveruntque: gladius domini et gedeonis:stantes singuli in loco suo per circuitum castrorum hostilium. 	2020-04-18	Liber_Iudicum
+1100000291	omnia itaque castra turbata sunt, et vociferantes ululantesque fugerunt:et nihilominus insistebant trecenti viri buccinis personantes. 	2020-04-18	Liber_Iudicum
+1100000292	immisitque dominus gladium omnibus castris, et mutua se caede truncabant,fugientes usque ad bethsetta, et crepidinem abelmehula in tebbath. 	2020-04-18	Liber_Iudicum
+1100000293	conclamantes autem viri israel de nephthali, et aser, et omni manasse, persequebantur madian.	2020-04-18	Liber_Iudicum
+1100000294	misitque gedeon nuntios in omnem montem ephraim, dicens: descendite in occursum madian, et occupate aquas usque bethbera atque iordanem. 	2020-04-18	Liber_Iudicum
+1100000295	clamavitque omnis ephraim, et praeoccupavit aquas atque iordanem usque bethbera.	2020-04-18	Liber_Iudicum
+1100000296	apprehensosque duos viros madian, oreb et zeb, interfecit oreb in petra oreb, zeb vero in torculari zeb. 	2020-04-18	Liber_Iudicum
+1100000297	et persecuti sunt madian, capita oreb et zeb portantes ad gedeon trans fluenta iordanis.	2020-04-18	Liber_Iudicum
+1100000298	caput 8	2020-04-18	Liber_Iudicum
+1100000299	dixeruntque ad eum viri ephraim: quid est hoc quod facere voluisti, ut nos non vocares, cum ad pugnam pergeres contra madian? 	2020-04-18	Liber_Iudicum
+1100000300	iurgantes fortiter, et prope vim inferentes.	2020-04-18	Liber_Iudicum
+1100000301	quibus ille respondit: quod enim tale facere potui, quale vos fecistis? 	2020-04-18	Liber_Iudicum
+1100000302	nonne melior est racemus ephraim, vindemiis abiezer?	2020-04-18	Liber_Iudicum
+1100000303	in manus vestras dominus tradidit principes madian, oreb et zeb: quid tale facere potui, quale vos fecistis? 	2020-04-18	Liber_Iudicum
+1100000304	quod cum locutus esset, requievit spiritus eorum, quo tumebant contra eum.	2020-04-18	Liber_Iudicum
+1100000305	cumque venisset gedeon ad iordanem, transivit eum cum trecentis viris, qui secum erant: et prae lassitudine, fugientes persequi non poterant.	2020-04-18	Liber_Iudicum
+1100000306	dixitque ad viros soccoth: date, obsecro, panes populo qui mecum est, quia valde defecerunt: ut possimus persequi zebee et salmana reges madian.	2020-04-18	Liber_Iudicum
+1100000307	responderunt principes soccoth: forsitan palmae manuum zebee et salmana in manu tua sunt, et idcirco postulas ut demus exercitui tuo panes.	2020-04-18	Liber_Iudicum
+1100000308	quibus ille ait: cum ergo tradiderit dominus zebee et salmana in manus meas, conteram carnes vestras cum spinis tribulisque deserti.	2020-04-18	Liber_Iudicum
+1100000309	et inde conscendens, venit in phanuel: locutusque est ad viros loci illius similia. 	2020-04-18	Liber_Iudicum
+1100000310	cui et illi responderunt, sicut responderant viri soccoth.	2020-04-18	Liber_Iudicum
+1100000311	dixit itaque et eis: cum reversus fuero victor in pace, destruam turrim hanc.	2020-04-18	Liber_Iudicum
+1100000312	zebee autem et salmana requiescebant cum omni exercitu suo. 	2020-04-18	Liber_Iudicum
+1100000313	quindecim enim millia viri remanserant ex omnibus turmis orientalium populorum, caesis centum viginti millibus bellatorum educentium gladium.	2020-04-18	Liber_Iudicum
+1100000314	ascendensque gedeon per viam eorum, qui in tabernaculis morabantur, ad orientalem partem nobe et iegbaa, percussit castra hostium, qui securi erant, et nihil adversi suspicabantur.	2020-04-18	Liber_Iudicum
+1100000315	fugeruntque zebee et salmana, quos persequens gedeon comprehendit, turbato omni exercitu eorum.	2020-04-18	Liber_Iudicum
+1100000316	revertensque de bello ante solis ortum,apprehendit puerum de viris soccoth: interrogavitque eum nomina principum et seniorum soccoth, et descripsit septuaginta septem viros.	2020-04-18	Liber_Iudicum
+1100000317	venitque ad soccoth, et dixit eis: en zebee et salmana, super quibus exprobrastis mihi, dicentes: forsitan manus zebee et salmana in manibus tuis sunt, et idcirco postulas ut demus viris, qui lassi sunt et defecerunt, panes.	2020-04-18	Liber_Iudicum
+1100000318	tulit ergo seniores civitatis et spinas deserti ac tribulos, et contrivit cum eis atque comminuit viros soccoth.	2020-04-18	Liber_Iudicum
+1100000319	turrim quoque phanuel subvertit, occisis habitatoribus civitatis.	2020-04-18	Liber_Iudicum
+1100000320	dixitque ad zebee et salmana: quales fuerunt viri, quos occidistis in thabor? 	2020-04-18	Liber_Iudicum
+1100000321	qui responderunt: similes tui, et unus ex eis quasi filius regis.	2020-04-18	Liber_Iudicum
+1100000322	quibus ille respondit: fratres mei fuerunt, filii matris meae. 	2020-04-18	Liber_Iudicum
+1100000323	vivit dominus, quia si servassetis eos, non vos occiderem.	2020-04-18	Liber_Iudicum
+1100000324	dixitque iether primogenito suo: surge, et interfice eos. 	2020-04-18	Liber_Iudicum
+1100000325	qui non eduxit gladium: timebat enim, quia adhuc puer erat.	2020-04-18	Liber_Iudicum
+1100000326	dixeruntque zebee et salmana: tu surge, et irrue in nos: quia iuxta aetatem robur est hominis. 	2020-04-18	Liber_Iudicum
+1100000327	surrexit gedeon, et interfecit zebee et salmana: et tulit ornamenta ac bullas quibus colla regalium camelorum decorari solent.	2020-04-18	Liber_Iudicum
+1100000328	dixeruntque omnes viri israel ad gedeon: dominare nostri tu, et filius tuus, et filius filii tui: quia liberasti nos de manu madian.	2020-04-18	Liber_Iudicum
+1100000329	quibus ille ait: non dominabor vestri, nec dominabitur in vos filius meus, sed dominabitur vobis dominus.	2020-04-18	Liber_Iudicum
+1100000330	dixitque ad eos: unam petitionem postulo a vobis: date mihi inaures ex praeda vestra. 	2020-04-18	Liber_Iudicum
+1100000331	inaures enim aureas ismaelitae habere consueverant.	2020-04-18	Liber_Iudicum
+1100000332	qui responderunt: libentissime dabimus. 	2020-04-18	Liber_Iudicum
+1100000333	expandentesque super terram pallium, proiecerunt in eo inaures de praeda:et fuit pondus postulatarum inaurium, mille septingenti auri sicli, absque ornamentis, et monilibus, et veste purpurea, quibus reges madian uti soliti erant, et praeter torques aureas camelorum.	2020-04-18	Liber_Iudicum
+1100000334	fecitque ex eo gedeon ephod, et posuit illud in civitate sua ephra. 	2020-04-18	Liber_Iudicum
+1100000335	fornicatusque est omnis israel in eo, et factum est gedeoni et omni domui eius in ruinam.	2020-04-18	Liber_Iudicum
+1100000336	humiliatus est autem madian coram filiis israel, nec potuerunt ultra cervices elevare: sed quievit terra per quadraginta annos, quibus gedeon praefuit.	2020-04-18	Liber_Iudicum
+1100000337	abiit itaque ierobaal filius ioas, et habitavit in domo sua:habuitque septuaginta filios, qui egressi sunt de femore eius: eo quod plures haberet uxores.	2020-04-18	Liber_Iudicum
+1100000338	concubina autem illius, quam habebat in sichem, genuit ei filium nomine abimelech.	2020-04-18	Liber_Iudicum
+1100000339	mortuusque est gedeon filius ioas in senectute bona, et sepultus est in sepulchro ioas patris sui in ephra de familia ezri.	2020-04-18	Liber_Iudicum
+1100000340	postquam autem mortuus est gedeon, aversi sunt filii israel, et fornicati sunt cum baalim. 	2020-04-18	Liber_Iudicum
+1100000341	percusseruntque cum baal foedus, ut esset eis in deum:nec recordati sunt domini dei sui, qui eruit eos de manibus inimicorum suorum omnium per circuitum:nec fecerunt misericordiam cum domo ierobaal gedeon, iuxta omnia bona quae fecerat israeli.	2020-04-18	Liber_Iudicum
+1100000342	caput 9	2020-04-18	Liber_Iudicum
+1100000343	abiit autem abimelech filius ierobaal in sichem ad fratres matris suae, et locutus est ad eos, et ad omnem cognationem domus patris matris suae, dicens:loquimini ad omnes viros sichem: quid vobis est melius, ut dominentur vestri septuaginta viri omnes filii ierobaal, an ut dominetur unus vir? 	2020-04-18	Liber_Iudicum
+1100000344	simulque considerate quod os vestrum et caro vestra sum.	2020-04-18	Liber_Iudicum
+1100000345	locutique sunt fratres matris eius de eo ad omnes viros sichem universos sermones istos, et inclinaverunt cor eorum post abimelech, dicentes: frater noster est.	2020-04-18	Liber_Iudicum
+1100000346	dederuntque illi septuaginta pondo argenti de fano baalberit. 	2020-04-18	Liber_Iudicum
+1100000347	qui conduxit sibi ex eo viros inopes et vagos, secutique sunt eum.	2020-04-18	Liber_Iudicum
+1100000348	et venit in domum patris sui in ephra, et occidit fratres suos filios ierobaal, septuaginta viros super lapidem unum: remansitque ioatham filius ierobaal minimus, et absconditus est.	2020-04-18	Liber_Iudicum
+1100000349	congregati sunt autem omnes viri sichem, et universae familiae urbis mello: abieruntque et constituerunt regem abimelech, iuxta quercum quae stabat in sichem.	2020-04-18	Liber_Iudicum
+1100000350	quod cum nuntiatum esset ioatham, ivit, et stetit in vertice montis garizim: elevataque voce, clamavit, et dixit: audite me, viri sichem; ita audiat vos deus.	2020-04-18	Liber_Iudicum
+1100000351	ierunt ligna, ut ungerent super se regem: dixeruntque olivae: impera nobis.	2020-04-18	Liber_Iudicum
+1100000352	quae respondit: numquid possum deserere pinguedinem meam, qua et dii utuntur et homines, et venire ut inter ligna promovear?	2020-04-18	Liber_Iudicum
+1100000353	dixeruntque ligna ad arborem ficum: veni, et super nos regnum accipe.	2020-04-18	Liber_Iudicum
+1100000354	quae respondit eis: numquid possum deserere dulcedinem meam, fructusque suavissimos, et ire ut inter cetera ligna promovear?	2020-04-18	Liber_Iudicum
+1100000355	locutaque sunt ligna ad vitem: veni, et impera nobis.	2020-04-18	Liber_Iudicum
+1100000356	quae respondit eis: numquid possum deserere vinum meum, quod laetificat deum et homines, et inter ligna cetera promoveri?	2020-04-18	Liber_Iudicum
+1100000357	dixeruntque omnia ligna ad rhamnum: veni, et impera super nos.	2020-04-18	Liber_Iudicum
+1100000358	quae respondit eis: si vere me regem vobis constituitis, venite, et sub umbra mea requiescite: si autem non vultis, egrediatur ignis de rhamno, et devoret cedros libani.	2020-04-18	Liber_Iudicum
+1100000359	nunc igitur, si recte et absque peccato constituistis super vos regem abimelech, et bene egistis cum ierobaal, et cum domo eius, et reddidistis vicem beneficiis eius, qui pugnavit pro vobis,et animam suam dedit periculis, ut erueret vos de manu madian,qui nunc surrexistis contra domum patris mei, et interfecistis filios eius septuaginta viros super unum lapidem, et constituistis regem abimelech filium ancillae eius super habitatores sichem, eo quod frater vester sit:si ergo recte et absque vitio egistis cum ierobaal et domo eius, hodie laetamini in abimelech, et ille laetetur in vobis.	2020-04-18	Liber_Iudicum
+1100000360	sin autem perverse: egrediatur ignis ex eo, et consumat habitatores sichem, et oppidum mello: egrediaturque ignis de viris sichem, et de oppido mello, et devoret abimelech.	2020-04-18	Liber_Iudicum
+1100000361	quae cum dixisset, fugit, et abiit in bera: habitavitque ibi ob metum abimelech fratris sui.	2020-04-18	Liber_Iudicum
+1100000362	regnavit itaque abimelech super israel tribus annis.	2020-04-18	Liber_Iudicum
+1100000363	misitque dominus spiritum pessimum inter abimelech et habitatores sichem: qui coeperunt eum detestari,et scelus interfectionis septuaginta filiorum ierobaal, et effusionem sanguinis eorum conferre in abimelech fratrem suum, et in ceteros sichimorum principes, qui eum adiuverant.	2020-04-18	Liber_Iudicum
+1100000364	posueruntque insidias adversus eum in summitate montium: et dum illius praestolabantur adventum, exercebant latrocinia, agentes praedas de praetereuntibus: nuntiatumque est abimelech.	2020-04-18	Liber_Iudicum
+1100000365	venit autem gaal filius obed cum fratribus suis, et transivit in sichimam. 	2020-04-18	Liber_Iudicum
+1100000366	ad cuius adventum erecti habitatores sichem,egressi sunt in agros, vastantes vineas, uvasque calcantes: et factis cantantium choris, ingressi sunt fanum dei sui, et inter epulas et pocula maledicebant abimelech,clamante gaal filio obed: quis est abimelech, et quae est sichem, ut serviamus ei? 	2020-04-18	Liber_Iudicum
+1100000367	numquid non est filius ierobaal, et constituit principem zebul servum suum super viros emor patris sichem? 	2020-04-18	Liber_Iudicum
+1100000368	cur ergo serviemus ei?	2020-04-18	Liber_Iudicum
+1100000369	utinam daret aliquis populum istum sub manu mea, ut auferrem de medio abimelech. 	2020-04-18	Liber_Iudicum
+1100000370	dictumque est abimelech: congrega exercitus multitudinem, et veni.	2020-04-18	Liber_Iudicum
+1100000371	zebul enim princeps civitatis, auditis sermonibus gaal filii obed, iratus est valde,et misit clam ad abimelech nuntios, dicens: ecce gaal filius obed venit in sichimam cum fratribus suis, et oppugnat adversum te civitatem.	2020-04-18	Liber_Iudicum
+1100000372	surge itaque nocte cum populo qui tecum est, et latita in agro:et primo mane, oriente sole, irrue super civitatem. 	2020-04-18	Liber_Iudicum
+1100000373	illo autem egrediente adversum te cum populo suo, fac ei quod potueris.	2020-04-18	Liber_Iudicum
+1100000374	surrexit itaque abimelech cum omni exercitu suo nocte, et tetendit insidias iuxta sichimam in quatuor locis.	2020-04-18	Liber_Iudicum
+1100000375	egressusque est gaal filius obed, et stetit in introitu portae civitatis. 	2020-04-18	Liber_Iudicum
+1100000376	surrexit autem abimelech, et omnis exercitus cum eo, de insidiarum loco.	2020-04-18	Liber_Iudicum
+1100000377	cumque vidisset populum gaal, dixit ad zebul: ecce de montibus multitudo descendit. 	2020-04-18	Liber_Iudicum
+1100000378	cui ille respondit: umbras montium vides quasi capita hominum, et hoc errore deciperis.	2020-04-18	Liber_Iudicum
+1100000379	rursumque gaal ait: ecce populus de umbilico terrae descendit, et unus cuneus venit per viam quae respicit quercum.	2020-04-18	Liber_Iudicum
+1100000380	cui dixit zebul: ubi est nunc os tuum, quo loquebaris: quis est abimelech ut serviamus ei? 	2020-04-18	Liber_Iudicum
+1100000381	nonne hic populus est, quem despiciebas? 	2020-04-18	Liber_Iudicum
+1100000382	egredere, et pugna contra eum.	2020-04-18	Liber_Iudicum
+1100000383	abiit ergo gaal, spectante sichimorum populo, et pugnavit contra abimelech,qui persecutus est eum fugientem, et in urbem compulit: cecideruntque ex parte eius plurimi, usque ad portam civitatis.	2020-04-18	Liber_Iudicum
+1100000384	et abimelech sedit in ruma: zebul autem gaal et socios eius expulit de urbe, nec in ea passus est commorari.	2020-04-18	Liber_Iudicum
+1100000385	sequenti ergo die, egressus est populus in campum. 	2020-04-18	Liber_Iudicum
+1100000386	quod cum nuntiatum esset abimelech,tulit exercitum suum, et divisit in tres turmas, tendens insidias in agris. 	2020-04-18	Liber_Iudicum
+1100000387	vidensque quod egrederetur populus de civitate, surrexit, et irruit in eoscum cuneo suo, oppugnans et obsidens civitatem: duae autem turmae palantes per campum adversarios persequebantur.	2020-04-18	Liber_Iudicum
+1100000388	porro abimelech omni die illo oppugnabat urbem: quam cepit, interfectis habitatoribus eius, ipsaque destructa, ita ut sal in ea dispergeret.	2020-04-18	Liber_Iudicum
+1100000389	quod cum audissent qui habitabant in turre sichimorum, ingressi sunt fanum dei sui berith, ubi foedus cum eo pepigerant, et ex eo locus nomen acceperat: qui erat munitus valde.	2020-04-18	Liber_Iudicum
+1100000390	abimelech quoque audiens viros turris sichimorum pariter conglobatos,ascendit in montem selmon cum omni populo suo: et arrepta securi, praecidit arboris ramum, impositumque ferens humero, dixit ad socios: quod me videtis facere, cito facite.	2020-04-18	Liber_Iudicum
+1100000391	igitur certatim ramos de arboribus praecidentes, sequebantur ducem. 	2020-04-18	Liber_Iudicum
+1100000392	qui circumdantes praesidium, succenderunt: atque ita factum est, ut fumo et igne mille homines necarentur, viri pariter et mulieres, habitatorum turris sichem.	2020-04-18	Liber_Iudicum
+1100000393	abimelech autem inde proficiscens venit ad oppidum thebes, quod circumdans obsidebat exercitu.	2020-04-18	Liber_Iudicum
+1100000394	erat autem turris excelsa in media civitate, ad quam confugerant simul viri ac mulieres, et omnes principes civitatis, clausa firmissime ianua, et super turris tectum stantes per propugnacula.	2020-04-18	Liber_Iudicum
+1100000395	accedensque abimelech iuxta turrim, pugnabat fortiter: et appropinquans ostio, ignem supponere nitebatur:et ecce una mulier fragmen molae desuper iaciens, illisit capiti abimelech, et confregit cerebrum eius.	2020-04-18	Liber_Iudicum
+1100000396	qui vocavit cito armigerum suum, et ait ad eum: evagina gladium tuum, et percute me, ne forte dicatur quod a femina interfectus sim. 	2020-04-18	Liber_Iudicum
+1100000397	qui iussa perficiens, interfecit eum.	2020-04-18	Liber_Iudicum
+1100000398	illoque mortuo, omnes qui cum eo erant de israel, reversi sunt in sedes suas:et reddidit deus malum quod fecerat abimelech contra patrem suum, interfectis septuaginta fratribus suis.	2020-04-18	Liber_Iudicum
+1100000399	sichimitis quoque quod operati erant, retributum est, et venit super eos maledictio ioatham filii ierobaal.	2020-04-18	Liber_Iudicum
+1100000400	caput 10	2020-04-18	Liber_Iudicum
+1100000401	post abimelech surrexit dux in israel thola filius phua patrui abimelech, vir de issachar, qui habitavit in samir montis ephraim:et iudicavit israelem viginti et tribus annis, mortuusque est, ac sepultus in samir.	2020-04-18	Liber_Iudicum
+1100000402	huic successit iair galaadites, qui iudicavit israel per viginti et duos annos,habens triginta filios sedentes super triginta pullos asinarum, et principes triginta civitatum, quae ex nomine eius sunt appellatae havoth iair, id est, oppida iair, usque in praesentem diem, in terra galaad.	2020-04-18	Liber_Iudicum
+1100000403	mortuusque est iair, ac sepultus in loco cui est vocabulum camon.	2020-04-18	Liber_Iudicum
+1100000404	filii autem israel peccatis veteribus iungentes nova, fecerunt malum in conspectu domini, et servierunt idolis, baalim et astaroth, et diis syriae ac sidonis et moab et filiorum ammon et philisthiim: dimiseruntque dominum, et non coluerunt eum.	2020-04-18	Liber_Iudicum
+1100000405	contra quos dominus iratus, tradidit eos in manus philisthiim et filiorum ammon.	2020-04-18	Liber_Iudicum
+1100000406	afflictique sunt, et vehementer oppressi per annos decem et octo, omnes qui habitabant trans iordanem in terra amorrhaei, qui est in galaad:in tantum ut filii ammon, iordane transmisso, vastarent iudam et beniamin et ephraim: afflictusque est israel nimis.	2020-04-18	Liber_Iudicum
+1100000407	et clamantes ad dominum, dixerunt: peccavimus tibi, quia dereliquimus dominum deum nostrum, et servivimus baalim.	2020-04-18	Liber_Iudicum
+1100000408	quibus locutus est dominus: numquid non aegyptii et amorrhaei, filiique ammon et philisthiim,sidonii quoque et amalec et chanaan oppresserunt vos, et clamastis ad me, et erui vos de manu eorum?	2020-04-18	Liber_Iudicum
+1100000409	et tamen reliquistis me, et coluistis deos alienos: idcirco non addam ut ultra vos liberem:ite, et invocate deos quos elegistis: ipsi vos liberent in tempore angustiae.	2020-04-18	Liber_Iudicum
+1100000410	dixeruntque filii israel ad dominum: peccavimus, redde tu nobis quidquid tibi placet: tantum nunc libera nos.	2020-04-18	Liber_Iudicum
+1100000411	quae dicentes, omnia de finibus suis alienorum deorum idola proiecerunt, et servierunt domino deo: qui doluit super miseriis eorum.	2020-04-18	Liber_Iudicum
+1100000412	itaque filii ammon conclamantes in galaad fixere tentoria, contra quos congregati filii israel in maspha castrametati sunt.	2020-04-18	Liber_Iudicum
+1100000413	dixeruntque principes galaad singuli ad proximos suos: qui primus ex nobis contra filios ammon coeperit dimicare, erit dux populi galaad.	2020-04-18	Liber_Iudicum
+1100000414	caput 11	2020-04-18	Liber_Iudicum
+1100000415	fuit illo tempore iephte galaadites vir fortissimus atque pugnator, filius mulieris meretricis, qui natus est de galaad.	2020-04-18	Liber_Iudicum
+1100000416	habuit autem galaad uxorem, de qua suscepit filios: qui postquam creverant, eiecerunt iephte, dicentes: haeres in domo patris nostri esse non poteris, quia de altera matre natus es.	2020-04-18	Liber_Iudicum
+1100000417	quos ille fugiens atque devitans, habitavit in terra tob: congregatique sunt ad eum viri inopes, et latrocinantes, et quasi principem sequebantur.	2020-04-18	Liber_Iudicum
+1100000418	in illis diebus pugnabant filii ammon contra israel.	2020-04-18	Liber_Iudicum
+1100000419	quibus acriter instantibus perrexerunt maiores natu de galaad, ut tollerent in auxilium sui iephte de terra tob:dixeruntque ad eum: veni et esto princeps noster, et pugna contra filios ammon.	2020-04-18	Liber_Iudicum
+1100000420	quibus ille respondit: nonne vos estis, qui odistis me, et eiecistis de domo patris mei? 	2020-04-18	Liber_Iudicum
+1100000421	et nunc venistis ad me necessitate compulsi.	2020-04-18	Liber_Iudicum
+1100000422	dixeruntque principes galaad ad iephte: ob hanc igitur causam nunc ad te venimus, ut proficiscaris nobiscum, et pugnes contra filios ammon, sisque dux omnium qui habitant in galaad.	2020-04-18	Liber_Iudicum
+1100000423	iephte quoque dixit eis: si vere venistis ad me, ut pugnem pro vobis contra filios ammon, tradideritque eos dominus in manus meas, ego ero vester princeps?	2020-04-18	Liber_Iudicum
+1100000424	qui responderunt ei: dominus, qui haec audit, ipse mediator ac testis est quod nostra promissa faciemus.	2020-04-18	Liber_Iudicum
+1100000425	abiit itaque iephte cum principibus galaad, fecitque eum omnis populus principem sui. 	2020-04-18	Liber_Iudicum
+1100000426	locutusque est iephte omnes sermones suos coram domino in maspha.	2020-04-18	Liber_Iudicum
+1100000427	et misit nuntios ad regem filiorum ammon, qui ex persona sua dicerent: quid mihi et tibi est, quia venisti contra me, ut vastares terram meam?	2020-04-18	Liber_Iudicum
+1100000428	quibus ille respondit: quia tulit israel terram meam, quando ascendit de aegypto, a finibus arnon usque iaboc atque iordanem: nunc ergo cum pace redde mihi eam.	2020-04-18	Liber_Iudicum
+1100000429	per quos rursum mandavit iephte, et imperavit eis ut dicerent regi ammon:haec dicit iephte: non tulit israel terram moab, nec terram filiorum ammon:sed quando de aegypto conscenderunt, ambulavit per solitudinem usque ad mare rubrum, et venit in cades.	2020-04-18	Liber_Iudicum
+1100000430	misitque nuntios ad regem edom, dicens: dimitte me ut transeam per terram tuam. 	2020-04-18	Liber_Iudicum
+1100000431	qui noluit acquiescere precibus eius. 	2020-04-18	Liber_Iudicum
+1100000432	misit quoque ad regem moab, qui et ipse transitum praebere contempsit. 	2020-04-18	Liber_Iudicum
+1100000433	mansit itaque in cades,et circuivit ex latere terram edom et terram moab: venitque contra orientalem plagam terrae moab, et castrametatus est trans arnon: nec voluit intrare terminos moab. (	2020-04-18	Liber_Iudicum
+1100000434	arnon quippe confinium est terrae moab.)	2020-04-18	Liber_Iudicum
+1100000435	misit itaque israel nuntios ad sehon regem amorrhaeorum, qui habitabat in hesebon, et dixerunt ei: dimitte ut transeam per terram tuam usque ad fluvium.	2020-04-18	Liber_Iudicum
+1100000436	qui et ipse israel verba despiciens, non dimisit eum transire per terminos suos: sed infinita multitudine congregata, egressus est contra eum in iasa, et fortiter resistebat.	2020-04-18	Liber_Iudicum
+1100000437	tradiditque eum dominus in manus israel cum omni exercitu suo: qui percussit eum, et possedit omnem terram amorrhaei habitatoris regionis illius,et universos fines eius, de arnon usque iaboc, et de solitudine usque ad iordanem.	2020-04-18	Liber_Iudicum
+1100000438	dominus ergo deus israel subvertit amorrhaeum, pugnante contra illum populo suo israel, et tu nunc vis possidere terram eius?	2020-04-18	Liber_Iudicum
+1100000439	nonne ea quae possidet chamos deus tuus, tibi iure debentur? 	2020-04-18	Liber_Iudicum
+1100000440	quae autem dominus deus noster victor obtinuit, in nostram cedent possessionem:nisi forte melior es balac filio sephor rege moab; aut docere potes, quod iurgatus sit contra israel, et pugnaverit contra eum,quando habitavit in hesebon et viculis eius, et in aroer et villis illius, vel in cunctis civitatibus iuxta iordanem, per trecentos annos. 	2020-04-18	Liber_Iudicum
+1100000441	quare tanto tempore nihil super hac repetitione tentastis?	2020-04-18	Liber_Iudicum
+1100000442	igitur non ego pecco in te, sed tu contra me male agis, indicens mihi bella non iusta. 	2020-04-18	Liber_Iudicum
+1100000443	iudicet dominus arbiter huius diei inter israel, et inter filios ammon.	2020-04-18	Liber_Iudicum
+1100000444	noluitque acquiescere rex filiorum ammon verbis iephte, quae per nuntios mandaverat.	2020-04-18	Liber_Iudicum
+1100000445	factus est ergo super iephte spiritus domini, et circuiens galaad et manasse, maspha quoque galaad, et inde transiens ad filios ammon,votum vovit domino, dicens: si tradideris filios ammon in manus meas,quicumque primus fuerit egressus de foribus domus meae, mihique occurrerit revertenti cum pace a filiis ammon, eum holocaustum offeram domino.	2020-04-18	Liber_Iudicum
+1100000446	transivitque iephte ad filios ammon, ut pugnaret contra eos: quos tradidit dominus in manus eius.	2020-04-18	Liber_Iudicum
+1100000447	percussitque ab aroer usque dum venias in mennith, viginti civitates, et usque ad abel, quae est vineis consita, plaga magna nimis: humiliatique sunt filii ammon a filiis israel.	2020-04-18	Liber_Iudicum
+1100000448	revertente autem iephte in maspha domum suam, occurrit ei unigenita filia sua cum tympanis et choris: non enim habebat alios liberos.	2020-04-18	Liber_Iudicum
+1100000449	qua visa, scidit vestimenta sua, et ait: heu me, filia mea! 	2020-04-18	Liber_Iudicum
+1100000450	decepisti me, et ipsa decepta es: aperui enim os meum ad dominum, et aliud facere non potero.	2020-04-18	Liber_Iudicum
+1100000451	cui illa respondit: pater mi, si aperuisti os tuum ad dominum, fac mihi quodcumque pollicitus es, concessa tibi ultione atque victoria de hostibus tuis.	2020-04-18	Liber_Iudicum
+1100000452	dixitque ad patrem: hoc solum mihi praesta quod deprecor: dimitte me ut duobus mensibus circumeam montes, et plangam virginitatem meam cum sodalibus meis.	2020-04-18	Liber_Iudicum
+1100000453	cui ille respondit: vade. 	2020-04-18	Liber_Iudicum
+1100000454	et dimisit eam duobus mensibus. 	2020-04-18	Liber_Iudicum
+1100000455	cumque abiisset cum sociis ac sodalibus suis, flebat virginitatem suam in montibus.	2020-04-18	Liber_Iudicum
+1100000456	expletisque duobus mensibus, reversa est ad patrem suum, et fecit ei sicut voverat, quae ignorabat virum. 	2020-04-18	Liber_Iudicum
+1100000457	exinde mos increbruit in israel, et consuetudo servata est,ut post anni circulum conveniant in unum filiae israel, et plangant filiam iephte galaaditae diebus quatuor.	2020-04-18	Liber_Iudicum
+1100000458	caput 12	2020-04-18	Liber_Iudicum
+1100000459	ecce autem in ephraim orta est seditio: nam transeuntes contra aquilonem, dixerunt ad iephte: quare vadens ad pugnam contra filios ammon, vocare nos noluisti, ut pergeremus tecum? 	2020-04-18	Liber_Iudicum
+1100000460	igitur incendemus domum tuam.	2020-04-18	Liber_Iudicum
+1100000461	quibus ille respondit: disceptatio erat mihi et populo meo contra filios ammon vehemens: vocavique vos, ut praeberetis mihi auxilium, et facere noluistis.	2020-04-18	Liber_Iudicum
+1100000462	quod cernens, posui animam meam in manibus meis, transivique ad filios ammon, et tradidit eos dominus in manus meas. 	2020-04-18	Liber_Iudicum
+1100000463	quid commerui, ut adversum me consurgatis in praelium?	2020-04-18	Liber_Iudicum
+1100000464	vocatis itaque ad se cunctis viris galaad, pugnabat contra ephraim: percusseruntque viri galaad ephraim, quia dixerat: fugitivus est galaad de ephraim, et habitat in medio ephraim et manasse.	2020-04-18	Liber_Iudicum
+1100000465	occupaveruntque galaaditae vada iordanis, per quae ephraim reversurus erat. 	2020-04-18	Liber_Iudicum
+1100000466	cumque venisset ad ea de ephraim numero, fugiens, atque dixisset: obsecro ut me transire permittatis: dicebant ei galaaditae: numquid ephrathaeus es? 	2020-04-18	Liber_Iudicum
+1100000467	quo dicente: non sum:interrogabant eum: dic ergo scibboleth, quod interpretatur spica. 	2020-04-18	Liber_Iudicum
+1100000468	qui respondebat: sibboleth: eadem littera spicam exprimere non valens. 	2020-04-18	Liber_Iudicum
+1100000469	statimque apprehensum iugulabant in ipso iordanis transitu. 	2020-04-18	Liber_Iudicum
+1100000470	et ceciderunt in illo tempore de ephraim quadraginta duo millia.	2020-04-18	Liber_Iudicum
+1100000471	iudicavit itaque iephte galaadites israel sex annis: et mortuus est, ac sepultus in civitate sua galaad.	2020-04-18	Liber_Iudicum
+1100000472	post hunc iudicavit israel abesan de bethlehem:qui habuit triginta filios, et totidem filias, quas emittens foras, maritis dedit, et eiusdem numeri filiis suis accepit uxores, introducens in domum suam. 	2020-04-18	Liber_Iudicum
+1100000473	qui septem annis iudicavit israel:mortuusque est, ac sepultus in bethlehem.	2020-04-18	Liber_Iudicum
+1100000474	cui successit ahialon zabulonites: et iudicavit israel decem annis:mortuusque est, ac sepultus in zabulon.	2020-04-18	Liber_Iudicum
+1100000475	post hunc iudicavit israel abdon filius illel pharathonites:qui habuit quadraginta filios, et triginta ex eis nepotes, ascendentes super septuaginta pullos asinarum. 	2020-04-18	Liber_Iudicum
+1100000476	et iudicavit israel octo annis:mortuusque est, ac sepultus in pharathon terrae ephraim, in monte amalec.	2020-04-18	Liber_Iudicum
+1100000477	caput 13	2020-04-18	Liber_Iudicum
+1100000478	rursumque filii israel fecerunt malum in conspectu domini: qui tradidit eos in manus philisthinorum quadraginta annis.	2020-04-18	Liber_Iudicum
+1100000479	erat autem quidam vir de saraa, et de stirpe dan, nomine manue, habens uxorem sterilem.	2020-04-18	Liber_Iudicum
+1100000480	cui apparuit angelus domini, et dixit ad eam: sterilis es et absque liberis: sed concipies, et paries filium.	2020-04-18	Liber_Iudicum
+1100000481	cave ergo ne bibas vinum ac siceram, nec immundum quidquam comedas:quia concipies, et paries filium, cuius non tanget caput novacula: erit enim nazaraeus dei ab infantia sua et ex matris utero, et ipse incipiet liberare israel de manu philisthinorum.	2020-04-18	Liber_Iudicum
+1100000482	quae cum venisset ad maritum suum, dixit ei: vir dei venit ad me, habens vultum angelicum, terribilis nimis. 	2020-04-18	Liber_Iudicum
+1100000483	quem cum interrogassem quis esset, et unde venisset, et quo nomine vocaretur, noluit mihi dicere:sed hoc respondit: ecce concipies et paries filium: cave ne vinum bibas, nec siceram, et ne aliquo vescaris immundo: erit enim puer nazaraeus dei ab infantia sua, ex utero matris suae usque ad diem mortis suae.	2020-04-18	Liber_Iudicum
+1100000484	oravit itaque manue dominum, et ait: obsecro, domine, ut vir dei, quem misisti, veniat iterum, et doceat nos quid debeamus facere de puero, qui nasciturus est.	2020-04-18	Liber_Iudicum
+1100000485	exaudivitque dominus deprecantem manue, et apparuit rursum angelus dei uxori eius sedenti in agro: manue autem maritus eius non erat cum ea. 	2020-04-18	Liber_Iudicum
+1100000486	quae cum vidisset angelum,festinavit, et cucurrit ad virum suum: nuntiavitque ei, dicens: ecce apparuit mihi vir, quem ante videram.	2020-04-18	Liber_Iudicum
+1100000487	qui surrexit, et secutus est uxorem suam: veniensque ad virum, dixit ei: tu es qui locutus es mulieri? 	2020-04-18	Liber_Iudicum
+1100000488	et ille respondit: ego sum.	2020-04-18	Liber_Iudicum
+1100000489	cui manue: quando, inquit, sermo tuus fuerit expletus, quid vis ut faciat puer? 	2020-04-18	Liber_Iudicum
+1100000490	aut a quo se observare debebit?	2020-04-18	Liber_Iudicum
+1100000491	dixitque angelus domini ad manue: ab omnibus, quae locutus sum uxori tuae, abstineat se,et quidquid ex vinea nascitur, non comedat: vinum et siceram non bibat; nullo vescatur immundo: et quod ei praecepi, impleat atque custodiat.	2020-04-18	Liber_Iudicum
+1100000492	dixitque manue ad angelum domini: obsecro te ut acquiescas precibus meis, et faciamus tibi haedum de capris.	2020-04-18	Liber_Iudicum
+1100000493	cui respondit angelus: si me cogis, non comedam panes tuos: si autem vis holocaustum facere, offer illud domino. 	2020-04-18	Liber_Iudicum
+1100000494	et nesciebat manue quod angelus domini esset.	2020-04-18	Liber_Iudicum
+1100000495	dixitque ad eum: quod est tibi nomen, ut, si sermo tuus fuerit expletus, honoremus te?	2020-04-18	Liber_Iudicum
+1100000496	cui ille respondit: cur quaeris nomen meum, quod est mirabile?	2020-04-18	Liber_Iudicum
+1100000497	tulit itaque manue haedum de capris, et libamenta, et posuit super petram, offerens domino, qui facit mirabilia: ipse autem et uxor eius intuebantur.	2020-04-18	Liber_Iudicum
+1100000498	cumque ascenderet flamma altaris in caelum, angelus domini pariter in flamma ascendit. 	2020-04-18	Liber_Iudicum
+1100000499	quod cum vidissent manue et uxor eius, proni ceciderunt in terram,et ultra eis non apparuit angelus domini. 	2020-04-18	Liber_Iudicum
+1100000500	statimque intellexit manue angelum domini esse,et dixit ad uxorem suam: morte moriemur, quia vidimus deum.	2020-04-18	Liber_Iudicum
+1100000501	cui respondit mulier: si dominus nos vellet occidere, de manibus nostris holocaustum et libamenta non suscepisset, nec ostendisset nobis haec omnia, neque ea quae sunt ventura dixisset.	2020-04-18	Liber_Iudicum
+1100000502	peperit itaque filium, et vocavit nomen eius samson. 	2020-04-18	Liber_Iudicum
+1100000503	crevitque puer, et benedixit ei dominus.	2020-04-18	Liber_Iudicum
+1100000504	coepitque spiritus domini esse cum eo in castris dan inter saraa et esthaol.	2020-04-18	Liber_Iudicum
+1100000505	caput 14	2020-04-18	Liber_Iudicum
+1100000506	descendit ergo samson in thamnatha: vidensque ibi mulierem de filiabus philisthiim,ascendit, et nuntiavit patri suo et matri suae, dicens: vidi mulierem in thamnatha de filiabus philisthinorum: quam quaeso ut mihi accipiatis uxorem.	2020-04-18	Liber_Iudicum
+1100000507	cui dixerunt pater et mater sua: numquid non est mulier in filiabus fratrum tuorum, et in omni populo meo, quia vis accipere uxorem de philisthiim, qui incircumcisi sunt? 	2020-04-18	Liber_Iudicum
+1100000508	dixitque samson ad patrem suum: hanc mihi accipe: quia placuit oculis meis.	2020-04-18	Liber_Iudicum
+1100000509	parentes autem eius nesciebant quod res a domino fieret, et quaereret occasionem contra philisthiim: eo enim tempore philisthiim dominabantur israeli.	2020-04-18	Liber_Iudicum
+1100000510	descendit itaque samson cum patre suo et matre in thamnatha. 	2020-04-18	Liber_Iudicum
+1100000511	cumque venissent ad vineas oppidi, apparuit catulus leonis saevus, et rugiens, et occurrit ei.	2020-04-18	Liber_Iudicum
+1100000512	irruit autem spiritus domini in samson, et dilaceravit leonem, quasi haedum in frustra discerpens, nihil omnino habens in manu: et hoc patri et matri noluit indicare.	2020-04-18	Liber_Iudicum
+1100000513	descenditque, et locutus est mulieri quae placuerat oculis eius.	2020-04-18	Liber_Iudicum
+1100000514	et post aliquot dies revertens ut acciperet eam, declinavit ut videret cadaver leonis, et ecce examen apum in ore leonis erat ac favus mellis.	2020-04-18	Liber_Iudicum
+1100000515	quem cum sumpsisset in manibus comedebat in via: veniensque ad patrem suum et matrem, dedit eis partem, qui et ipsi comederunt: nec tamen eis voluit indicare quod mel de corpore leonis assumpserat.	2020-04-18	Liber_Iudicum
+1100000516	descendit itaque pater eius ad mulierem, et fecit filio suo samson convivium: sic enim iuvenes facere consueverant.	2020-04-18	Liber_Iudicum
+1100000517	cum ergo cives loci illius vidissent eum, dederunt ei sodales triginta ut essent cum eo.	2020-04-18	Liber_Iudicum
+1100000518	quibus locutus est samson: proponam vobis problema: quod si solveritis mihi intra septem dies convivii, dabo vobis triginta sindones, et totidem tunicas:sin autem non potueritis solvere, vos dabitis mihi triginta sindones, et eiusdem numeri tunicas. 	2020-04-18	Liber_Iudicum
+1100000519	qui responderunt ei: propone problema, ut audiamus.	2020-04-18	Liber_Iudicum
+1100000520	dixitque eis:	2020-04-18	Liber_Iudicum
+1100000521	de comedente exivit cibus,	2020-04-18	Liber_Iudicum
+1100000522	et de forti egressa est dulcedo.	2020-04-18	Liber_Iudicum
+1100000523	nec potuerunt per tres dies propositionem solvere.	2020-04-18	Liber_Iudicum
+1100000524	cumque adesset dies septimus, dixerunt ad uxorem samson: blandire viro tuo et suade ei ut indicet tibi quid significet problema: quod si facere nolueris, incendemus te, et domum patris tui: an idcirco vocastis nos ad nuptias ut spoliaretis?	2020-04-18	Liber_Iudicum
+1100000525	quae fundebat apud samson lacrimas, et quaerebatur, dicens: odisti me, et non diligis: idcirco problema, quod proposuisti filiis populi mei, non vis mihi exponere. 	2020-04-18	Liber_Iudicum
+1100000526	at ille respondit: patri meo et matri nolui dicere: et tibi indicare potero?	2020-04-18	Liber_Iudicum
+1100000527	septem igitur diebus convivii flebat ante eum: tandemque die septimo cum ei esset molesta, exposuit. 	2020-04-18	Liber_Iudicum
+1100000528	quae statim indicavit civibus suis.	2020-04-18	Liber_Iudicum
+1100000529	et illi dixerunt ei die septimo ante solis occubitum:	2020-04-18	Liber_Iudicum
+1100000530	quid dulcius melle,	2020-04-18	Liber_Iudicum
+1100000531	et quid fortius leone?	2020-04-18	Liber_Iudicum
+1100000532	qui ait ad eos:	2020-04-18	Liber_Iudicum
+1100000533	si non arassetis in vitula mea,	2020-04-18	Liber_Iudicum
+1100000534	non invenissetis propositionem meam.	2020-04-18	Liber_Iudicum
+1100000535	irruit itaque in eum spiritus domini, descenditque ascalonem, et percussit ibi triginta viros: quorum ablatas vestes dedit iis qui problema solverant. 	2020-04-18	Liber_Iudicum
+1100000536	iratusque nimis ascendit in domum patris sui:uxor autem eius accepit maritum unum de amicis eius et pronubis.	2020-04-18	Liber_Iudicum
+1100000537	caput 15	2020-04-18	Liber_Iudicum
+1100000538	post aliquantulum autem temporis, cum dies triticeae messis instarent, venit samson, invisere volens uxorem suam, et attulit ei haedum de capris. 	2020-04-18	Liber_Iudicum
+1100000539	cumque cubiculum eius solito vellet intrare, prohibuit eum pater illius, dicens:putavi quod odisses eam, et ideo tradidi illam amico tuo: sed habet sororem, quae iunior et pulchrior illa est: sit tibi pro ea uxor.	2020-04-18	Liber_Iudicum
+1100000540	cui samson respondit: ab hac die non erit culpa in me contra philisthaeos: faciam enim vobis mala.	2020-04-18	Liber_Iudicum
+1100000541	perrexitque et cepit trecentas vulpes, caudasque earum iunxit ad caudas, et faces ligavit in medio:quas igne succendens, dimisit ut huc illucque discurrerent. 	2020-04-18	Liber_Iudicum
+1100000542	quae statim perrexerunt in segetes philisthinorum. 	2020-04-18	Liber_Iudicum
+1100000543	quibus succensis, et comportatae iam fruges, et adhuc stantes in stipula, concrematae sunt, in tantum ut vineas quoque et oliveta flamma consumeret.	2020-04-18	Liber_Iudicum
+1100000544	dixeruntque philisthiim: quis fecit hanc rem? 	2020-04-18	Liber_Iudicum
+1100000545	quibus dictum est: samson gener thamnathaei: quia tulit uxorem eius, et alteri tradidit, haec operatus est. 	2020-04-18	Liber_Iudicum
+1100000546	ascenderuntque philisthiim, et combusserunt tam mulierem quam patrem eius.	2020-04-18	Liber_Iudicum
+1100000547	quibus ait samson: licet haec feceritis, tamen adhuc ex vobis expetam ultionem, et tunc quiescam.	2020-04-18	Liber_Iudicum
+1100000548	percussitque eos ingenti plaga, ita ut stupentes suram femori imponerent. 	2020-04-18	Liber_Iudicum
+1100000549	et descendens habitavit in spelunca petrae etam.	2020-04-18	Liber_Iudicum
+1100000550	igitur ascendentes philisthiim in terram iuda, castrametati sunt in loco, qui postea vocatus est lechi, id est, maxilla, ubi eorum effusus est exercitus.	2020-04-18	Liber_Iudicum
+1100000551	dixeruntque ad eos de tribu iuda: cur ascendistis adversum nos? 	2020-04-18	Liber_Iudicum
+1100000552	qui responderunt: ut ligemus samson venimus, et reddamus ei quae in nos operatus est.	2020-04-18	Liber_Iudicum
+1100000553	descenderunt ergo tria millia virorum de iuda ad specum silicis etam, dixeruntque ad samson: nescis quod philisthiim imperent nobis? 	2020-04-18	Liber_Iudicum
+1100000554	quare hoc facere voluisti? 	2020-04-18	Liber_Iudicum
+1100000555	quibus ille ait: sicut fecerunt mihi, sic feci eis.	2020-04-18	Liber_Iudicum
+1100000556	ligare, inquiunt, te venimus, et tradere in manus philisthinorum. 	2020-04-18	Liber_Iudicum
+1100000557	quibus samson: iurate, ait, et spondete mihi quod non occidatis me.	2020-04-18	Liber_Iudicum
+1100000558	dixerunt: non te occidemus, sed vinctum trademus. 	2020-04-18	Liber_Iudicum
+1100000559	ligaveruntque eum duobus novis funibus, et tulerunt eum de petra etam.	2020-04-18	Liber_Iudicum
+1100000560	qui cum venisset ad locum maxillae, et philisthiim vociferantes occurrissent ei, irruit spiritus domini in eum: et sicut solent ad odorem ignis lina consumi, ita vincula, quibus ligatus erat, dissipata sunt et soluta.	2020-04-18	Liber_Iudicum
+1100000561	inventamque maxillam, id est, mandibulam asini, quae iacebat, arripiens interfecit in ea mille viros,et ait:	2020-04-18	Liber_Iudicum
+1100000562	in maxilla asini,	2020-04-18	Liber_Iudicum
+1100000563	in mandibula pulli asinarum,	2020-04-18	Liber_Iudicum
+1100000564	delevi eos,	2020-04-18	Liber_Iudicum
+1100000565	et percussi mille viros.	2020-04-18	Liber_Iudicum
+1100000566	cumque haec verba canens complesset, proiecit mandibulam de manu, et vocavit nomen loci illius ramathlechi, quod interpretatur, elevatio maxillae.	2020-04-18	Liber_Iudicum
+1100000567	sitiensque valde, clamavit ad dominum, et ait: tu dedisti in manu servi tui salutem hanc maximam atque victoriam: en siti morior, incidamque in manus incircumcisorum.	2020-04-18	Liber_Iudicum
+1100000568	aperuit itaque dominus molarem dentem in maxilla asini, et egressae sunt ex eo aquae. 	2020-04-18	Liber_Iudicum
+1100000569	quibus haustis, refocillavit spiritum, et vires recepit. 	2020-04-18	Liber_Iudicum
+1100000570	idcirco appellatum est nomen loci illius, fons invocantis de maxilla, usque in praesentem diem.	2020-04-18	Liber_Iudicum
+1100000571	iudicavitque israel in diebus philisthiim viginti annis.	2020-04-18	Liber_Iudicum
+1100000572	caput 16	2020-04-18	Liber_Iudicum
+1100000573	abiit quoque in gazam, et vidit ibi mulierem meretricem, ingressusque est ad eam.	2020-04-18	Liber_Iudicum
+1100000574	quod cum audissent philisthiim, et percrebruisset apud eos intrasse urbem samson, circumdederunt eum, positis in porta civitatis custodibus: et ibi tota nocte cum silentio praestolantes, ut facto mane exeuntem occiderent.	2020-04-18	Liber_Iudicum
+1100000575	dormivit autem samson usque ad medium noctem: et inde consurgens, apprehendit ambas portae fores cum postibus suis et sera, impositasque humeris suis portavit ad verticem montis, qui respicit hebron.	2020-04-18	Liber_Iudicum
+1100000576	post haec amavit mulierem, quae habitabat in valle sorec, et vocabatur dalila.	2020-04-18	Liber_Iudicum
+1100000577	veneruntque ad eam principes philisthinorum, atque dixerunt: decipe eum, et disce ab illo, in quo habeat tantam fortitudinem, et quomodo eum superare valeamus, et vinctum affligere: quod si feceris, dabimus tibi singuli mille et centum argenteos.	2020-04-18	Liber_Iudicum
+1100000578	locuta est ergo dalila ad samson: dic mihi, obsecro, in quo sit tua maxima fortitudo, et quid sit quo ligatus erumpere nequeas?	2020-04-18	Liber_Iudicum
+1100000579	cui respondit samson: si septem nerviceis funibus necdum siccis, et adhuc humentibus, ligatus fuero, infirmus ero ut ceteri homines.	2020-04-18	Liber_Iudicum
+1100000580	attuleruntque ad eam satrapae philisthinorum septem funes, ut dixerat: quibus vinxit eam,latentibus apud se insidiis, et in cubiculo finem rei expectantibus: clamavitque ad eum: philisthiim super te, samson. 	2020-04-18	Liber_Iudicum
+1100000581	qui rupit vincula, quomodo si rumpat quis filum de stuppae tortum putamine, cum odorem ignis acceperit: et non est cognitum in quo esset fortitudo eius.	2020-04-18	Liber_Iudicum
+1100000582	dixitque ad eum dalila: ecce illusisti mihi, et falsum locutus es: saltem nunc indica mihi quo ligari debeas.	2020-04-18	Liber_Iudicum
+1100000583	cui ille respondit: si ligatus fuero novis funibus, qui numquam fuerunt in opere, infirmus ero, et aliorum hominum similis.	2020-04-18	Liber_Iudicum
+1100000584	quibus rursum dalila vinxit eum, et clamavit: philisthiim super te, samson: in cubiculo insidiis praeparatis. 	2020-04-18	Liber_Iudicum
+1100000585	qui ita rupit vincula quasi fila telarum.	2020-04-18	Liber_Iudicum
+1100000586	dixitque dalila rursum ad eum: usquequo decipis me, et falsum loqueris? 	2020-04-18	Liber_Iudicum
+1100000587	ostende quo vinciri debeas. 	2020-04-18	Liber_Iudicum
+1100000588	cui respondit samson: si septem crines capitis mei cum licio plexueris, et clavum his circumligatum terrae fixeris, infirmus ero.	2020-04-18	Liber_Iudicum
+1100000589	quod cum fecisset dalila, dixit ad eum: philisthiim super te, samson. 	2020-04-18	Liber_Iudicum
+1100000590	qui consurgens de somno extraxit clavum cum crinibus et licio.	2020-04-18	Liber_Iudicum
+1100000591	dixitque ad eum dalila: quomodo dicis quod amas me, cum animus tuus non sit mecum? 	2020-04-18	Liber_Iudicum
+1100000592	per tres vices mentitus es mihi, et noluisti dicere in quo sit maxima fortitudo tua.	2020-04-18	Liber_Iudicum
+1100000593	cumque molesta esset ei, et per multos dies iugiter adhaereret, spatium ad quietem non tribuens, defecit anima eius, et ad mortem usque lassata est.	2020-04-18	Liber_Iudicum
+1100000594	tunc aperiens veritatem rei, dixit ad eam: ferrum numquam ascendit super caput meum, quia nazaraeus, id est, consecratus deo, sum de utero matris meae: si rasum fuerit caput meum, recedet a me fortitudo mea, et deficiam, eroque sicut ceteri homines.	2020-04-18	Liber_Iudicum
+1100000595	vidensque illa quod confessus ei esset omnem animum suum, misit ad principes philisthinorum ac mandavit: ascende adhuc semel, quia nunc mihi aperuit cor suum. 	2020-04-18	Liber_Iudicum
+1100000596	qui ascenderunt assumpta pecunia, quam promiserant.	2020-04-18	Liber_Iudicum
+1100000597	at illa dormire eum fecit super genua sua, et in sinu suo reclinare caput. 	2020-04-18	Liber_Iudicum
+1100000598	vocavitque tonsorem, et rasit septem crines eius, et coepit abigere eum, et a se repellere: statim enim ab eo fortitudo discessit.	2020-04-18	Liber_Iudicum
+1100000599	dixitque: philisthiim super te, samson. 	2020-04-18	Liber_Iudicum
+1100000600	qui de somno consurgens, dixit in animo suo: egrediar sicut ante feci, et me excutiam: nesciens quod recessisset ab eo dominus.	2020-04-18	Liber_Iudicum
+1100000601	quem cum apprehendissent philisthiim, statim eruerunt oculos eius, et duxerunt gazam vinctum catenis, et clausum in carcere molere fecerunt.	2020-04-18	Liber_Iudicum
+1100000602	iamque capilli eius renasci coeperunt.	2020-04-18	Liber_Iudicum
+1100000603	et principes philisthinorum convenerunt in unum ut immolarent hostias magnificas dagon deo suo, et epularentur, dicentes: tradidit deus noster inimicum nostrum samson in manus nostras.	2020-04-18	Liber_Iudicum
+1100000604	quod etiam populus videns, laudabat deum suum, eademque dicebat: tradidit deus noster adversarium nostrum in manus nostras, qui delevit terram nostram, et occidit plurimos.	2020-04-18	Liber_Iudicum
+1100000605	laetantesque per convivia, sumptis iam epulis, praeceperunt ut vocaretur samson, et ante eos luderet. 	2020-04-18	Liber_Iudicum
+1100000606	qui adductus de carcere ludebat ante eos, feceruntque eum stare inter duas columnas.	2020-04-18	Liber_Iudicum
+1100000607	qui dixit puero regenti gressus suos: dimitte me, ut tangam columnas, quibus omnis imminet domus, et recliner super eas, et paululum requiescam.	2020-04-18	Liber_Iudicum
+1100000608	domus autem erat plena virorum ac mulierum, et erant ibi omnes principes philisthinorum, ac de tecto et solario circiter tria millia utriusque sexus spectantes ludentem samson.	2020-04-18	Liber_Iudicum
+1100000609	at ille invocato domino ait: domine deus, memento mei, et redde mihi nunc fortitudinem pristinam, deus meus, ut ulciscar me de hostibus meis, et pro amissione duorum luminum unam ultionem recipiam.	2020-04-18	Liber_Iudicum
+1100000610	et apprehendens ambas columnas quibus innitebatur domus, alteramque earum dextera et alteram laeva tenens,ait: moriatur anima mea cum philisthiim. 	2020-04-18	Liber_Iudicum
+1100000611	concussisque fortiter columnis, cecidit domus super omnes principes, et ceteram multitudinem quae ibi erat: multoque plures interfecit moriens, quam ante vivus occiderat.	2020-04-18	Liber_Iudicum
+1100000612	descendentes autem fratres eius et universa cognatio, tulerunt corpus eius, et sepelierunt inter saraa et esthaol in sepulchro patris sui manue: iudicavitque israel viginti annis.	2020-04-18	Liber_Iudicum
+1100000613	caput 17	2020-04-18	Liber_Iudicum
+1100000614	fuit eo tempore vir quidam de monte ephraim nomine michas,qui dixit matri suae: mille et centum argenteos, quos separaveras tibi, et super quibus me audiente iuraveras, ecce ego habeo, et apud me sunt. 	2020-04-18	Liber_Iudicum
+1100000615	cui illa respondit: benedictus filius meus domino.	2020-04-18	Liber_Iudicum
+1100000616	reddidit ergo eos matri suae, quae dixerat ei: consecravi et vovi hoc argentum domino, ut de manu mea suscipiat filius meus, et faciat sculptile atque conflatile: et nunc trado illud tibi.	2020-04-18	Liber_Iudicum
+1100000617	reddidit igitur eos matri suae: quae tulit ducentos argenteos, et dedit eos argentario, ut faceret ex eis sculptile atque conflatile, quod fuit in domo michae.	2020-04-18	Liber_Iudicum
+1100000618	qui aediculam quoque in ea deo separavit, et fecit ephod, et theraphim, id est, vestem sacerdotalem, et idola: implevitque unius filiorum suorum manum, et factus est ei sacerdos.	2020-04-18	Liber_Iudicum
+1100000619	in diebus illis non erat rex in israel, sed unusquisque quod sibi rectum videbatur, hoc faciebat.	2020-04-18	Liber_Iudicum
+1100000620	fuit quoque alter adolescens de bethlehem iuda, ex cognatione eius: eratque ipse levites, et habitabat ibi.	2020-04-18	Liber_Iudicum
+1100000621	egressusque de civitate bethlehem, peregrinari voluit ubicumque sibi commodum reperisset. 	2020-04-18	Liber_Iudicum
+1100000622	cumque venisset in montem ephraim, iter faciens, et declinasset parumper in domum michae,interrogatus est ab eo unde venisset. 	2020-04-18	Liber_Iudicum
+1100000623	qui respondit: levita sum de bethlehem iuda, et vado ut habitem ubi potuero, et utile mihi esse perspexero.	2020-04-18	Liber_Iudicum
+1100000624	dixitque michas: mane apud me, et esto mihi parens ac sacerdos: daboque tibi per annos singulos decem argenteos, ac vestem duplicem, et quae ad victum sunt necessaria.	2020-04-18	Liber_Iudicum
+1100000625	acquievit, et mansit apud hominem, fuitque illi quasi unus de filiis.	2020-04-18	Liber_Iudicum
+1100000626	implevitque michas manum eius, et habuit puerum sacerdotem apud se:nunc scio, dicens, quod benefaciet mihi deus habenti levitici generis sacerdotem.	2020-04-18	Liber_Iudicum
+1100000627	caput 18	2020-04-18	Liber_Iudicum
+1100000628	in diebus illis non erat rex in israel, et tribus dan quaerebat possessionem sibi, ut habitaret in ea: usque ad illum enim diem inter ceteras tribus sortem non acceperat.	2020-04-18	Liber_Iudicum
+1100000629	miserunt ergo filii dan stirpis et familiae suae quinque viros fortissimos de saraa et esthaol, ut explorarent terram, et diligenter inspicerent: dixeruntque eis: ite, et considerate terram. 	2020-04-18	Liber_Iudicum
+1100000630	qui cum pergentes venissent in montem ephraim, et intrassent domum michae, requieverunt ibi:et agnoscentes vocem adolescentis levitae, utentesque illius diversorio, dixerunt ad eum: quis te huc adducit? 	2020-04-18	Liber_Iudicum
+1100000631	quid hic agis? 	2020-04-18	Liber_Iudicum
+1100000632	quam ob causam huc venire voluisti?	2020-04-18	Liber_Iudicum
+1100000633	qui respondit eis: haec et haec praestitit mihi michas, et me mercede conduxit, ut sim ei sacerdos.	2020-04-18	Liber_Iudicum
+1100000634	rogaverunt autem eum ut consuleret dominum ut scire possent an prospero itinere pergerent, et res haberet effectum.	2020-04-18	Liber_Iudicum
+1100000635	qui respondit eis: ite in pace: dominus respicit viam vestram, et iter quo pergitis.	2020-04-18	Liber_Iudicum
+1100000636	euntes igitur quinque viri venerunt lais: videruntque populum habitantem in ea absque ullo timore, iuxta consuetudinem sidoniorum, securum et quietum, nullo ei penitus resistente, magnarumque opum, et procul a sidone atque a cunctis hominibus separatum.	2020-04-18	Liber_Iudicum
+1100000637	reversique ad fratres suos in saraa et esthaol, et quid egissent sciscitantibus responderunt:surgite, ascendamus ad eos: vidimus enim terram valde opulentam et uberem. 	2020-04-18	Liber_Iudicum
+1100000638	nolite negligere, nolite cessare: eamus, et possideamus eam: nullus erit labor.	2020-04-18	Liber_Iudicum
+1100000639	intrabimus ad securos, in regionem latissimam, tradetque nobis dominus locum, in quo nullius rei est penuria eorum quae gignuntur in terra.	2020-04-18	Liber_Iudicum
+1100000640	profecti igitur sunt de cognatione dan, id est, de saraa et esthaol, sexcenti viri accincti armis bellicis,ascendentesque manserunt in cariathiarim iudae: qui locus ex eo tempore castrorum dan nomen accepit, et est post tergum cariathiarim.	2020-04-18	Liber_Iudicum
+1100000641	inde transierunt in montem ephraim. 	2020-04-18	Liber_Iudicum
+1100000642	cumque venissent ad domum michae,dixerunt quinque viri, qui prius missi fuerant ad considerandam terram lais, ceteris fratribus suis: nostis quod in domibus istis sit ephod, et theraphim, et sculptile, atque conflatile: videte quid vobis placeat.	2020-04-18	Liber_Iudicum
+1100000643	et cum paululum declinassent, ingressi sunt domum adolescentis levitae, qui erat in domo michae: salutaveruntque eum verbis pacificis.	2020-04-18	Liber_Iudicum
+1100000644	sexcenti autem viri ita ut erant armati, stabant ante ostium.	2020-04-18	Liber_Iudicum
+1100000645	at illi, qui ingressi fuerant domum iuvenis, sculptile, et ephod, et theraphim, atque conflatile tollere nitebantur, et sacerdos stabat ante ostium, sexcentis viris fortissimis haud procul expectantibus.	2020-04-18	Liber_Iudicum
+1100000646	tulerunt igitur qui intraverant sculptile, ephod, et idola, atque conflatile. 	2020-04-18	Liber_Iudicum
+1100000647	quibus dixit sacerdos: quid facitis?	2020-04-18	Liber_Iudicum
+1100000648	cui responderunt: tace et pone digitum super os tuum: venique nobiscum, ut habeamus te patrem, ac sacerdotem. 	2020-04-18	Liber_Iudicum
+1100000649	quid tibi melius est, ut sis sacerdos in domo unius viri, an in una tribu et familia in israel?	2020-04-18	Liber_Iudicum
+1100000650	quod cum audisset, acquievit sermonibus eorum, et tulit ephod, et idola, ac sculptile, et profectus est cum eis.	2020-04-18	Liber_Iudicum
+1100000651	qui cum pergerent, et ante se ire fecissent parvulos ac iumenta, et omne quod erat pretiosum,et iam a domo michae essent procul, viri qui habitabant in aedibus michae conclamantes secuti sunt,et post tergum clamare coeperunt. 	2020-04-18	Liber_Iudicum
+1100000652	qui cum respexissent, dixerunt ad micham: quid tibi vis? 	2020-04-18	Liber_Iudicum
+1100000653	cur clamas?	2020-04-18	Liber_Iudicum
+1100000654	qui respondit: deos meos, quos mihi feci, tulistis, et sacerdotem, et omnia quae habeo, et dicitis: quid tibi est?	2020-04-18	Liber_Iudicum
+1100000655	dixeruntque ei filii dan: cave ne ultra loquaris ad nos, et veniant ad te viri animo concitati, et ipse cum omni domo tua pereas.	2020-04-18	Liber_Iudicum
+1100000656	et sic coepto itinere perrexerunt. 	2020-04-18	Liber_Iudicum
+1100000657	videns autem michas quod fortiores se essent, reversus est in domum suam.	2020-04-18	Liber_Iudicum
+1100000658	sexcenti autem viri tulerunt sacerdotem, et quae supra diximus: veneruntque in lais ad populum quiescentem atque securum, et percusserunt eos in ore gladii: urbemque incendio tradiderunt,nullo penitus ferente praesidium, eo quod procul habitarent a sidone, et cum nullo hominum haberent quidquam societatis ac negotii. 	2020-04-18	Liber_Iudicum
+1100000659	erat autem civitas sita in regione rohob: quam rursum exstruentes habitaverunt in ea,vocato nomine civitatis dan, iuxta vocabulum patris sui, quem genuerat israel, quae prius lais dicebatur.	2020-04-18	Liber_Iudicum
+1100000660	posueruntque sibi sculptile, et ionathan filium gersam filii moysi ac filios eius sacerdotes in tribu dan, usque ad diem captivitatis suae.	2020-04-18	Liber_Iudicum
+1100000661	mansitque apud eos idolum michae omni tempore quo fuit domus dei in silo. 	2020-04-18	Liber_Iudicum
+1100000662	in diebus illis non erat rex in israel.	2020-04-18	Liber_Iudicum
+1100000663	caput 19	2020-04-18	Liber_Iudicum
+1100000664	fuit quidam vir levites habitans in latere montis ephraim, qui accepit uxorem de bethlehem iuda:quae reliquit eum, et reversa est in domum patris sui in bethlehem, mansitque apud eum quatuor mensibus.	2020-04-18	Liber_Iudicum
+1100000665	secutusque est eam vir suus, volens reconciliari ei, atque blandiri, et secum reducere, habens in comitatu puerum et duos asinos: quae suscepit eum, et introduxit in domum patris sui. 	2020-04-18	Liber_Iudicum
+1100000666	quod cum audisset socer eius, eumque vidisset, occurrit ei laetus,et amplexatus est hominem. 	2020-04-18	Liber_Iudicum
+1100000667	mansitque gener in domo soceri tribus diebus, comedens cum eo et bibens familiariter.	2020-04-18	Liber_Iudicum
+1100000668	die autem quarto de nocte consurgens, proficisci voluit: quem tenuit socer, et ait ad eum: gusta prius pauxillum panis, et conforta stomachum, et sic proficisceris.	2020-04-18	Liber_Iudicum
+1100000669	sederuntque simul, ac comederunt et biberunt. 	2020-04-18	Liber_Iudicum
+1100000670	dixitque pater puellae ad generum suum: quaeso te ut hodie hic maneas, pariterque laetemur.	2020-04-18	Liber_Iudicum
+1100000671	at ille consurgens, coepit velle proficisci. 	2020-04-18	Liber_Iudicum
+1100000672	et nihilominus obnixe eum socer tenuit, et apud se fecit manere.	2020-04-18	Liber_Iudicum
+1100000673	mane autem facto, parabat levites iter. 	2020-04-18	Liber_Iudicum
+1100000674	cui socer rursum: oro te, inquit, ut paululum cibi capias, et assumptis viribus donec increscat dies, postea proficiscaris. 	2020-04-18	Liber_Iudicum
+1100000675	comederunt ergo simul.	2020-04-18	Liber_Iudicum
+1100000676	surrexitque adolescens, ut pergeret cum uxore sua et puero. 	2020-04-18	Liber_Iudicum
+1100000677	cui rursum locutus est socer: considera quod dies ad occasum declivior sit, et propinquat ad vesperum: mane apud me etiam hodie, et duc laetum diem, et cras proficisceris ut vadas in domum tuam.	2020-04-18	Liber_Iudicum
+1100000678	noluit gener acquiescere sermonibus eius: sed statim perrexit, et venit contra iebus, quae altero nomine vocatur ierusalem, ducens secum duos asinos onustos, et concubinam.	2020-04-18	Liber_Iudicum
+1100000679	iamque erant iuxta iebus, et dies mutabatur in noctem: dixitque puer ad dominum suum: veni, obsecro: declinemus ad urbem iebusaeorum, et maneamus in ea.	2020-04-18	Liber_Iudicum
+1100000680	cui respondit dominus: non ingrediar oppidum gentis alienae, quae non est de filiis israel: sed transibo usque gabaa,et cum illuc pervenero, manebimus in ea, aut certe in urbe rama.	2020-04-18	Liber_Iudicum
+1100000681	transierunt ergo iebus, et coeptum carpebant iter, occubuitque eis sol iuxta gabaa, quae est in tribu beniamin:diverteruntque ad eam, ut manerent ibi. 	2020-04-18	Liber_Iudicum
+1100000682	quo cum intrassent, sedebant in platea civitatis, et nullus eos recipere voluit hospitio.	2020-04-18	Liber_Iudicum
+1100000683	et ecce, apparuit homo senex, revertens de agro et de opere suo vesperi, qui et ipse de monte erat ephraim, et peregrinus habitabat in gabaa: homines autem regionis illius erant filii iemini.	2020-04-18	Liber_Iudicum
+1100000684	elevatisque oculis, vidit senex sedentem hominem cum sarcinulis suis in platea civitatis, et dixit ad eum: unde venis? 	2020-04-18	Liber_Iudicum
+1100000685	et quo vadis?	2020-04-18	Liber_Iudicum
+1100000686	qui respondit ei: profecti sumus de bethlehem iuda, et pergimus ad locum nostrum, qui est in latere montis ephraim, unde ieramus in bethlehem: et nunc vadimus ad domum dei, nullusque sub tectum suum nos vult recipere,habentes paleas et foenum in asinorum pabulum, et panem ac vinum in meos et ancillae tuae usus, et pueri qui mecum est: nulla re indigemus nisi hospitio.	2020-04-18	Liber_Iudicum
+1100000687	cui respondit senex: pax tecum sit, ego praebebo omnia quae necessaria sunt: tantum, quaeso, ne in platea maneas.	2020-04-18	Liber_Iudicum
+1100000688	introduxitque eum in domum suam, et pabulum asinis praebuit: ac postquam laverunt pedes suos, recepit eos in convivium.	2020-04-18	Liber_Iudicum
+1100000689	illis epulantibus, et post laborem itineris cibo et potu reficientibus corpora, venerunt viri civitatis illius, filii belial (id est, absque iugo), et circumdantes domum senis, fores pulsare coeperunt, clamantes ad dominum domus atque dicentes: educ virum, qui ingressus est domum tuam, ut abutamur eo.	2020-04-18	Liber_Iudicum
+1100000690	egressusque est ad eos senex, et ait: nolite, fratres, nolite facere malum hoc, quia ingressus est homo hospitium meum: et cessate ab hac stultitia.	2020-04-18	Liber_Iudicum
+1100000691	habeo filiam virginem, et hic homo habet concubinam: educam eas ad vos, ut humilietis eas, et vestram libidinem compleatis: tantum, obsecro, ne scelus hoc contra naturam operemini in virum.	2020-04-18	Liber_Iudicum
+1100000692	nolebant acquiescere sermonibus illius: quod cernens homo, eduxit ad eos concubinam suam, et eis tradidit illudendam: qua cum tota nocte abusi essent, dimiserunt eam mane.	2020-04-18	Liber_Iudicum
+1100000693	at mulier, recedentibus tenebris, venit ad ostium domus, ubi manebat dominus suus, et ibi corruit.	2020-04-18	Liber_Iudicum
+1100000694	mane facto, surrexit homo, et aperuit ostium, ut coeptam expleret viam: et ecce concubina eius iacebat ante ostium sparsis in limine manibus.	2020-04-18	Liber_Iudicum
+1100000695	cui ille, putans eam quiescere, loquebatur: surge, et ambulemus. 	2020-04-18	Liber_Iudicum
+1100000696	qua nihil respondente, intelligens quod erat mortua, tulit eam, et imposuit asino, reversusque est in domum suam.	2020-04-18	Liber_Iudicum
+1100000697	quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos israel.	2020-04-18	Liber_Iudicum
+1100000698	quod cum vidissent singuli, conclamabant: numquam res talis facta est in israel, ex eo die quo ascenderunt patres nostri de aegypto usque in praesens tempus: ferte sententiam, et in commune decernite quid facto opus sit.	2020-04-18	Liber_Iudicum
+1100000699	caput 20	2020-04-18	Liber_Iudicum
+1100000700	egressi itaque sunt omnes filii israel, et pariter congregati, quasi vir unus, de dan usque bersabee, et terra galaad, ad dominum in maspha.	2020-04-18	Liber_Iudicum
+1100000701	omnesque anguli populorum, et cunctae tribus israel in ecclesiam populi dei convenerunt, quadringenta millia peditum pugnatorum.(	2020-04-18	Liber_Iudicum
+1100000702	nec latuit filios beniamin quod ascendissent filii israel in maspha.) 	2020-04-18	Liber_Iudicum
+1100000703	interrogatusque levita, maritus mulieris interfectae, quomodo tantum scelus perpetratum esset,respondit: veni in gabaa beniamin cum uxore mea, illucque diverti:et ecce homines civitatis illius circumdederunt nocte domum in qua manebam, volentes me occidere, et uxorem meam incredibili furore libidinis vexantes, denique mortua est.	2020-04-18	Liber_Iudicum
+1100000704	quam arreptam, in frustra concidi, misique partes in omnes terminos possessionis vestrae: quia numquam tantum nefas, et tam grande piaculum, factum est in israel.	2020-04-18	Liber_Iudicum
+1100000705	adestis, omnes filii israel: decernite quid facere debeatis.	2020-04-18	Liber_Iudicum
+1100000706	stansque omnis populus, quasi unius hominis sermone respondit: non recedemus in tabernacula nostra, nec suam quisquam intrabit domum:sed hoc contra gabaa in commune faciamus.	2020-04-18	Liber_Iudicum
+1100000707	decem viri eligantur e centum ex omnibus tribubus israel, et centum de mille, et mille de decem millibus, ut comportent exercitui cibaria, et possimus pugnare contra gabaa beniamin, et reddere ei pro scelere, quod meretur.	2020-04-18	Liber_Iudicum
+1100000708	convenitque universus israel ad civitatem, quasi homo unus eadem mente, unoque consilio.	2020-04-18	Liber_Iudicum
+1100000709	et miserunt nuntios ad omnem tribum beniamin, qui dicerent: cur tantum nefas in vobis repertum est?	2020-04-18	Liber_Iudicum
+1100000710	tradite homines de gabaa, qui hoc flagitium perpetrarunt, ut moriantur, et auferatur malum de israel. 	2020-04-18	Liber_Iudicum
+1100000711	qui noluerunt fratrum suorum filiorum israel audire mandatum:sed ex cunctis urbibus, quae sortis suae erant, convenerunt in gabaa, ut illis ferrent auxilium, et contra universum populum israel dimicarent.	2020-04-18	Liber_Iudicum
+1100000712	inventique sunt viginti quinque millia de beniamin educentium gladium, praeter habitatores gabaa,qui septingenti erant viri fortissimi, ita sinistra ut dextra praeliantes: et sic fundis lapides ad certum iacientes, ut capillum quoque possent percutere, et nequaquam in alteram partem ictus lapidis deferretur.	2020-04-18	Liber_Iudicum
+1100000713	virorum quoque israel, absque filiis beniamin, inventa sunt quadringenta millia educentium gladium, et paratorum ad pugnam.	2020-04-18	Liber_Iudicum
+1100000714	qui surgentes venerunt in domum dei, hoc est, in silo: consulueruntque deum, atque dixerunt: quis erit in exercitu nostro princeps certaminis contra filios beniamin? 	2020-04-18	Liber_Iudicum
+1100000715	quibus respondit dominus: iudas sit dux vester.	2020-04-18	Liber_Iudicum
+1100000716	statimque filii israel surgentes mane, castrametati sunt iuxta gabaa:et inde procedentes ad pugnam contra beniamin, urbem oppugnare coeperunt.	2020-04-18	Liber_Iudicum
+1100000717	egressique filii beniamin de gabaa, occiderunt de filiis israel die illo viginti duo millia virorum.	2020-04-18	Liber_Iudicum
+1100000718	rursum filii israel et fortitudine et numero confidentes, in eodem loco in quo prius certaverant, aciem direxerunt:ita tamen ut prius ascenderent et flerent coram domino usque ad noctem, consulerentque eum, et dicerent: debeo ultra procedere ad dimicandum contra filios beniamin fratres meos, an non? 	2020-04-18	Liber_Iudicum
+1100000719	quibus ille respondit: ascendite ad eos, et inite certamen.	2020-04-18	Liber_Iudicum
+1100000720	cumque filii israel altera die contra filios beniamin ad praelium processissent,eruperunt filii beniamin de portis gabaa: et occurrentes eis tanta in illos caede bacchati sunt, ut decem et octo millia virorum educentium gladium prosternerent.	2020-04-18	Liber_Iudicum
+1100000721	quam ob rem omnes filii israel venerunt in domum dei, et sedentes flebant coram domino: ieiunaveruntque die illo usque ad vesperam, et obtulerunt ei holocausta, atque pacificas victimas,et super statu suo interrogaverunt. 	2020-04-18	Liber_Iudicum
+1100000722	eo tempore ibi erat arca foederis dei,et phinees filius eleazari filii aaron praepositus domus. 	2020-04-18	Liber_Iudicum
+1100000723	consuluerunt igitur dominum, atque dixerunt: exire ultra debemus ad pugnam contra filios beniamin fratres nostros, an quiescere? 	2020-04-18	Liber_Iudicum
+1100000724	quibus ait dominus: ascendite: cras enim tradam eos in manus vestras.	2020-04-18	Liber_Iudicum
+1100000725	posueruntque filii israel insidias per circuitum urbis gabaa:et tertia vice, sicut semel et bis, contra beniamin exercitum produxerunt.	2020-04-18	Liber_Iudicum
+1100000726	sed et filii beniamin audacter eruperunt de civitate, et fugientes adversarios longius persecuti sunt, ita ut vulnerarent ex eis sicut primo die et secundo, et caederent per duas semitas vertentes terga, quarum una ferebatur in bethel et altera in gabaa, atque prosternerent triginta circiter viros:putaverunt enim solito eos more cedere. 	2020-04-18	Liber_Iudicum
+1100000727	qui fugam arte simulantes inierunt consilium ut abstraherent eos de civitate, et quasi fugientes ad supradictas semitas perducerent.	2020-04-18	Liber_Iudicum
+1100000728	omnes itaque filii israel surgentes de sedibus suis, tetenderunt aciem in loco qui vocatur baalthamar. 	2020-04-18	Liber_Iudicum
+1100000729	insidiae quoque, quae circa urbem erant, paulatim se aperire coeperunt,et ab occidentali urbis parte procedere. 	2020-04-18	Liber_Iudicum
+1100000730	sed et alia decem millia virorum de universo israel, habitatores urbis ad certamina provocabant. 	2020-04-18	Liber_Iudicum
+1100000731	ingravatumque est bellum contra filios beniamin: et non intellexerunt quod ex omni parte illis instaret interitus.	2020-04-18	Liber_Iudicum
+1100000732	percussitque eos dominus in conspectu filiorum israel, et interfecerunt ex eis in illo die viginti quinque millia, et centum viros, omnes bellatores et educentes gladium.	2020-04-18	Liber_Iudicum
+1100000733	filii autem beniamin cum se inferiores esse vidissent, coeperunt fugere. 	2020-04-18	Liber_Iudicum
+1100000734	quod cernentes filii israel, dederunt eis ad fugiendum locum, ut ad praeparatas insidias devenirent, quas iuxta urbem posuerant.	2020-04-18	Liber_Iudicum
+1100000735	qui cum repente de latibulis surrexissent, et beniamin terga caedentibus daret, ingressi sunt civitatem, et percusserunt eam in ore gladii.	2020-04-18	Liber_Iudicum
+1100000736	signum autem dederant filii israel his quos in insidiis collocaverant, ut postquam urbem cepissent, ignem accenderent: ut ascendente in altum fumo, captam urbem demonstrarent.	2020-04-18	Liber_Iudicum
+1100000737	quod cum cernerent filii israel in ipso certamine positi (putaverunt enim filii beniamin eos fugere, et instantius persequebantur, caesis de exercitu eorum triginta viris),et viderent quasi columnam fumi de civitate conscendere: beniamin quoque aspiciens retro, cum captam cerneret civitatem, et flammas in sublime ferri:qui prius simulaverant fugam, versa facie fortius resistebant. 	2020-04-18	Liber_Iudicum
+1100000738	quod cum vidissent filii beniamin, in fugam versi sunt,et ad viam deserti ire coeperunt, illuc quoque eos adversariis persequentibus: sed et hi qui urbem succenderant, occurrerunt eis.	2020-04-18	Liber_Iudicum
+1100000739	atque ita factum est, ut ex utraque parte ab hostibus caederentur, nec erat ulla requies morientium. 	2020-04-18	Liber_Iudicum
+1100000740	ceciderunt, atque prostrati sunt ad orientalem plagam urbis gabaa.	2020-04-18	Liber_Iudicum
+1100000741	fuerunt autem qui in eodem loco interfecti sunt, decem et octo millia virorum, omnes robustissimi pugnatores.	2020-04-18	Liber_Iudicum
+1100000742	quod cum vidissent qui remanserant de beniamin, fugerunt in solitudinem: et pergebant ad petram, cuius vocabulum est remmon. 	2020-04-18	Liber_Iudicum
+1100000743	in illa quoque fuga palantes, et in diversa tendentes, occiderunt quinque millia virorum. 	2020-04-18	Liber_Iudicum
+1100000744	et cum ultra tenderent, persecuti sunt eos, et interfecerunt etiam alia duo millia.	2020-04-18	Liber_Iudicum
+1100000745	et sic factum est, ut omnes qui ceciderant de beniamin in diversis locis essent viginti quinque millia pugnatores ad bella promptissimi.	2020-04-18	Liber_Iudicum
+1100000746	remanserunt itaque de omni numero beniamin, qui evadere et fugere in solitudinem potuerunt, sexcenti viri: sederuntque in petra remmon mensibus quatuor.	2020-04-18	Liber_Iudicum
+1100000747	regressi autem filii israel, omnes reliquias civitatis a viris usque ad iumenta gladio percusserunt, cunctasque urbes et viculos beniamin vorax flamma consumpsit.	2020-04-18	Liber_Iudicum
+1100000748	caput 21	2020-04-18	Liber_Iudicum
+1100000749	iuraverunt quoque filii israel in maspha, et dixerunt: nullus nostrum dabit filiis beniamin de filiabus suis uxorem.	2020-04-18	Liber_Iudicum
+1100000750	veneruntque omnes ad domum dei in silo, et in conspectu eius sedentes usque ad vesperam, levaverunt vocem, et magno ululatu coeperunt flere, dicentes:quare, domine deus israel, factum est hoc malum in populo tuo, ut hodie una tribus auferretur ex nobis?	2020-04-18	Liber_Iudicum
+1100000751	altera autem die diluculo consurgentes, exstruxerunt altare: obtuleruntque ibi holocausta, et pacificas victimas, et dixerunt:quis non ascendit in exercitu domini de universis tribubus israel? 	2020-04-18	Liber_Iudicum
+1100000752	grandi enim iuramento se constrinxerant, cum essent in maspha, interfici eos qui defuissent.	2020-04-18	Liber_Iudicum
+1100000753	ductique poenitentia filii israel super fratre suo beniamin, coeperunt dicere: ablata est tribus una de israel:unde uxores accipient? 	2020-04-18	Liber_Iudicum
+1100000754	omnes enim in commune iuravimus, non daturos nos his filias nostras.	2020-04-18	Liber_Iudicum
+1100000755	idcirco dixerunt: quis est de universis tribubus israel, qui non ascendit ad dominum in maspha? 	2020-04-18	Liber_Iudicum
+1100000756	et ecce inventi sunt habitatores iabes galaad in illo exercitu non fuisse.(	2020-04-18	Liber_Iudicum
+1100000757	eo quoque tempore cum essent in silo, nullus ex eis ibi repertus est.)	2020-04-18	Liber_Iudicum
+1100000758	miserunt itaque decem millia viros robustissimos, et praeceperunt eis: ite, et percutite habitatores iabes galaad in ore gladii, tam uxores quam parvulos eorum.	2020-04-18	Liber_Iudicum
+1100000759	et hoc erit quod observare debebitis: omne generis masculini, et mulieres quae cognoverunt viros, interficite; virgines autem reservate.	2020-04-18	Liber_Iudicum
+1100000760	inventaeque sunt de iabes galaad quadringentae virgines, quae nescierunt viri thorum: et adduxerunt eas ad castra in silo, in terram chanaan.	2020-04-18	Liber_Iudicum
+1100000761	miseruntque nuntios ad filios beniamin, qui erant in petra remmon, et praeceperunt eis, ut eos susciperent in pace.	2020-04-18	Liber_Iudicum
+1100000762	veneruntque filii beniamin in illo tempore, et datae sunt eis uxores de filiabus iabes galaad: alias autem non repererunt, quas simili modo traderent.	2020-04-18	Liber_Iudicum
+1100000763	universusque israel valde doluit, et egit poenitentiam super interfectione unius tribus ex israel.	2020-04-18	Liber_Iudicum
+1100000764	dixeruntque maiores natu: quid faciemus reliquis, qui non acceperunt uxores? 	2020-04-18	Liber_Iudicum
+1100000765	omnes in beniamin feminae conciderunt,et magna nobis cura, ingentique studio providendum est, ne una tribus deleatur ex israel.	2020-04-18	Liber_Iudicum
+1100000766	filias enim nostras eis dare non possumus, constricti iuramento et maledictione qua diximus: maledictus qui dederit de filiabus suis uxorem beniamin.	2020-04-18	Liber_Iudicum
+1100000767	ceperuntque consilium, atque dixerunt: ecce solemnitas domini est in silo anniversaria, quae sita est ad septentrionem urbis bethel, et ad orientalem plagam viae, quae de bethel tendit ad sichimam, et ad meridiem oppidi lebona.	2020-04-18	Liber_Iudicum
+1100000768	praeceperuntque filiis beniamin, atque dixerunt: ite, ad latitate in vineis.	2020-04-18	Liber_Iudicum
+1100000769	cumque videritis filias silo ad ducendos choros ex more procedere, exite repente de vineis, et rapite ex eis singuli uxores singulas, et pergite in terram beniamin.	2020-04-18	Liber_Iudicum
+1100000770	cumque venerint patres earum, ac fratres, et adversum vos queri coeperint atque iurgari, dicemus eis: miseremini eorum: non enim rapuerunt eas iure bellantium atque victorum: sed rogantibus ut acciperent, non dedistis, et a vestra parte peccatum est.	2020-04-18	Liber_Iudicum
+1100000771	feceruntque filii beniamin ut sibi fuerat imperatum: et iuxta numerum suum, rapuerunt sibi de his quae ducebant choros, uxores singulas: abieruntque in possessionem suam aedificantes urbes, et habitantes in eis.	2020-04-18	Liber_Iudicum
+1100000772	filii quoque israel reversi sunt per tribus et familias in tabernacula sua. 	2020-04-18	Liber_Iudicum
+1100000773	in diebus illis non erat rex in israel: sed unusquisque quod sibi rectum videbatur, hoc faciebat.	2020-04-18	Liber_Iudicum

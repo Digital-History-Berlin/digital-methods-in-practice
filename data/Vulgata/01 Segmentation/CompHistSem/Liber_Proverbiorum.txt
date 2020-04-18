@@ -1,0 +1,1951 @@
+1100000001	liber proverbiorum	2020-04-18	Liber_Proverbiorum
+1100000002	caput 1	2020-04-18	Liber_Proverbiorum
+1100000003	parabolae salomonis, filii david, regis israel,	2020-04-18	Liber_Proverbiorum
+1100000004	ad sciendam sapientiam et disciplinam;	2020-04-18	Liber_Proverbiorum
+1100000005	ad intelligenda verba prudentiae,	2020-04-18	Liber_Proverbiorum
+1100000006	et suscipiendam eruditionem doctrinae,	2020-04-18	Liber_Proverbiorum
+1100000007	iustitiam, et iudicium, et aequitatem:	2020-04-18	Liber_Proverbiorum
+1100000008	ut detur parvulis astutia,	2020-04-18	Liber_Proverbiorum
+1100000009	adolescenti scientia et intellectus.	2020-04-18	Liber_Proverbiorum
+1100000010	audiens sapiens, sapientior erit,	2020-04-18	Liber_Proverbiorum
+1100000011	et intelligens gubernacula possidebit.	2020-04-18	Liber_Proverbiorum
+1100000012	animadvertet parabolam et interpretationem,	2020-04-18	Liber_Proverbiorum
+1100000013	verba sapientum et aenigmata eorum.	2020-04-18	Liber_Proverbiorum
+1100000014	timor domini principium sapientiae;	2020-04-18	Liber_Proverbiorum
+1100000015	sapientiam atque doctrinam stulti despiciunt.	2020-04-18	Liber_Proverbiorum
+1100000016	audi, fili mi, disciplinam patris tui,	2020-04-18	Liber_Proverbiorum
+1100000017	et ne dimittas legem matris tuae:	2020-04-18	Liber_Proverbiorum
+1100000018	ut addatur gratia capiti tuo,	2020-04-18	Liber_Proverbiorum
+1100000019	et torques collo tuo.	2020-04-18	Liber_Proverbiorum
+1100000020	fili mi, si te lactaverint peccatores,	2020-04-18	Liber_Proverbiorum
+1100000021	ne acquiescas eis.	2020-04-18	Liber_Proverbiorum
+1100000022	si dixerint: veni nobiscum, insidiemur sanguini;	2020-04-18	Liber_Proverbiorum
+1100000023	abscondamus tendiculas contra insontem frustra;	2020-04-18	Liber_Proverbiorum
+1100000024	deglutiamus eum sicut infernus viventem,	2020-04-18	Liber_Proverbiorum
+1100000025	et integrum quasi descendentem in lacum;	2020-04-18	Liber_Proverbiorum
+1100000026	omnem pretiosam substantiam reperiemus;	2020-04-18	Liber_Proverbiorum
+1100000027	implebimus domos nostras spoliis:	2020-04-18	Liber_Proverbiorum
+1100000028	sortem mitte nobiscum,	2020-04-18	Liber_Proverbiorum
+1100000029	marsupium unum sit omnium nostrum:	2020-04-18	Liber_Proverbiorum
+1100000030	fili mi, ne ambules cum eis;	2020-04-18	Liber_Proverbiorum
+1100000031	prohibe pedem tuum a semitis eorum:	2020-04-18	Liber_Proverbiorum
+1100000032	pedes enim illorum ad malum currunt,	2020-04-18	Liber_Proverbiorum
+1100000033	et festinant ut effundant sanguinem.	2020-04-18	Liber_Proverbiorum
+1100000034	frustra autem iacitur rete	2020-04-18	Liber_Proverbiorum
+1100000035	ante oculos pennatorum.	2020-04-18	Liber_Proverbiorum
+1100000036	ipsi quoque contra sanguinem suum insidiantur,	2020-04-18	Liber_Proverbiorum
+1100000037	et moliuntur fraudes contra animas suas.	2020-04-18	Liber_Proverbiorum
+1100000038	sic semitae omnis avari:	2020-04-18	Liber_Proverbiorum
+1100000039	animas possidentium rapiunt.	2020-04-18	Liber_Proverbiorum
+1100000040	sapientia foris praedicat;	2020-04-18	Liber_Proverbiorum
+1100000041	in plateis dat vocem suam:	2020-04-18	Liber_Proverbiorum
+1100000042	in capite turbarum clamitat;	2020-04-18	Liber_Proverbiorum
+1100000043	in foribus portarum urbis profert verba sua, dicens:	2020-04-18	Liber_Proverbiorum
+1100000044	usquequo, parvuli, diligitis infantiam,	2020-04-18	Liber_Proverbiorum
+1100000045	et stulti ea quae sibi sunt noxia cupient,	2020-04-18	Liber_Proverbiorum
+1100000046	et imprudentes odibunt scientiam?	2020-04-18	Liber_Proverbiorum
+1100000047	convertimini ad correptionem meam.	2020-04-18	Liber_Proverbiorum
+1100000048	en proferam vobis spiritum meum,	2020-04-18	Liber_Proverbiorum
+1100000049	et ostendam vobis verba mea.	2020-04-18	Liber_Proverbiorum
+1100000050	quia vocavi, et renuistis;	2020-04-18	Liber_Proverbiorum
+1100000051	extendi manum meam, et non fuit qui aspiceret:	2020-04-18	Liber_Proverbiorum
+1100000052	despexistis omne consilium meum,	2020-04-18	Liber_Proverbiorum
+1100000053	et increpationes meas neglexistis.	2020-04-18	Liber_Proverbiorum
+1100000054	ego quoque in interitu vestro ridebo,	2020-04-18	Liber_Proverbiorum
+1100000055	et subsannabo cum vobis id quod timebatis advenerit.	2020-04-18	Liber_Proverbiorum
+1100000056	cum irruerit repentina calamitas,	2020-04-18	Liber_Proverbiorum
+1100000057	et interitus quasi tempestas ingruerit;	2020-04-18	Liber_Proverbiorum
+1100000058	quando venerit super vos tribulatio et angustia:	2020-04-18	Liber_Proverbiorum
+1100000059	tunc invocabunt me, et non exaudiam;	2020-04-18	Liber_Proverbiorum
+1100000060	mane consurgent, et non invenient me:	2020-04-18	Liber_Proverbiorum
+1100000061	eo quod exosam habuerint disciplinam,	2020-04-18	Liber_Proverbiorum
+1100000062	et timorem domini non susceperint,	2020-04-18	Liber_Proverbiorum
+1100000063	nec acquieverint consilio meo,	2020-04-18	Liber_Proverbiorum
+1100000064	et detraxerint universae correptioni meae.	2020-04-18	Liber_Proverbiorum
+1100000065	comedent igitur fructus viae suae,	2020-04-18	Liber_Proverbiorum
+1100000066	suisque consiliis saturabuntur.	2020-04-18	Liber_Proverbiorum
+1100000067	aversio parvulorum interficiet eos,	2020-04-18	Liber_Proverbiorum
+1100000068	et prosperitas stultorum perdet illos.	2020-04-18	Liber_Proverbiorum
+1100000069	qui autem me audierit, absque terrore requiescet,	2020-04-18	Liber_Proverbiorum
+1100000070	et abundantia perfruetur, timore malorum sublato.	2020-04-18	Liber_Proverbiorum
+1100000071	caput 2	2020-04-18	Liber_Proverbiorum
+1100000072	fili mi, si susceperis sermones meos,	2020-04-18	Liber_Proverbiorum
+1100000073	et mandata mea absconderis penes te:	2020-04-18	Liber_Proverbiorum
+1100000074	ut audiat sapientiam auris tua,	2020-04-18	Liber_Proverbiorum
+1100000075	inclina cor tuum ad cognoscendam prudentiam.	2020-04-18	Liber_Proverbiorum
+1100000076	si enim sapientiam invocaveris,	2020-04-18	Liber_Proverbiorum
+1100000077	et inclinaveris cor tuum prudentiae;	2020-04-18	Liber_Proverbiorum
+1100000078	si quaesieris eam quasi pecuniam,	2020-04-18	Liber_Proverbiorum
+1100000079	et sicut thesauros effoderis illam:	2020-04-18	Liber_Proverbiorum
+1100000080	tunc intelliges timorem domini,	2020-04-18	Liber_Proverbiorum
+1100000081	et scientiam dei invenies,	2020-04-18	Liber_Proverbiorum
+1100000082	quia dominus dat sapientiam,	2020-04-18	Liber_Proverbiorum
+1100000083	et ex ore eius prudentia et scientia.	2020-04-18	Liber_Proverbiorum
+1100000084	custodiet rectorum salutem,	2020-04-18	Liber_Proverbiorum
+1100000085	et proteget gradientes simpliciter,	2020-04-18	Liber_Proverbiorum
+1100000086	servans semitas iustitiae,	2020-04-18	Liber_Proverbiorum
+1100000087	et vias sanctorum custodiens.	2020-04-18	Liber_Proverbiorum
+1100000088	tunc intelliges iustitiam, et iudicium,	2020-04-18	Liber_Proverbiorum
+1100000089	et aequitatem, et omnem semitam bonam.	2020-04-18	Liber_Proverbiorum
+1100000090	si intraverit sapientia cor tuum,	2020-04-18	Liber_Proverbiorum
+1100000091	et scientia animae tuae placuerit,	2020-04-18	Liber_Proverbiorum
+1100000092	consilium custodiet te,	2020-04-18	Liber_Proverbiorum
+1100000093	et prudentia servabit te:	2020-04-18	Liber_Proverbiorum
+1100000094	ut eruaris a via mala,	2020-04-18	Liber_Proverbiorum
+1100000095	et ab homine qui perversa loquitur;	2020-04-18	Liber_Proverbiorum
+1100000096	qui relinquunt iter rectum,	2020-04-18	Liber_Proverbiorum
+1100000097	et ambulant per vias tenebrosas;	2020-04-18	Liber_Proverbiorum
+1100000098	qui laetantur cum malefecerint,	2020-04-18	Liber_Proverbiorum
+1100000099	et exsultant in rebus pessimis;	2020-04-18	Liber_Proverbiorum
+1100000100	quorum viae perversae sunt,	2020-04-18	Liber_Proverbiorum
+1100000101	et infames gressus eorum.	2020-04-18	Liber_Proverbiorum
+1100000102	ut eruaris a muliere aliena,	2020-04-18	Liber_Proverbiorum
+1100000103	et ab extranea quae mollit sermones suos,	2020-04-18	Liber_Proverbiorum
+1100000104	et relinquit ducem pubertatis suae,	2020-04-18	Liber_Proverbiorum
+1100000105	et pacti dei sui oblita est.	2020-04-18	Liber_Proverbiorum
+1100000106	inclinata est enim ad mortem domus eius,	2020-04-18	Liber_Proverbiorum
+1100000107	et ad inferos semitae ipsius.	2020-04-18	Liber_Proverbiorum
+1100000108	omnes qui ingrediuntur ad eam non revertentur,	2020-04-18	Liber_Proverbiorum
+1100000109	nec apprehendent semitas vitae.	2020-04-18	Liber_Proverbiorum
+1100000110	ut ambules in via bona,	2020-04-18	Liber_Proverbiorum
+1100000111	et calles iustorum custodias:	2020-04-18	Liber_Proverbiorum
+1100000112	qui enim recti sunt habitabunt in terra,	2020-04-18	Liber_Proverbiorum
+1100000113	et simplices permanebunt in ea;	2020-04-18	Liber_Proverbiorum
+1100000114	impii vero de terra perdentur,	2020-04-18	Liber_Proverbiorum
+1100000115	et qui inique agunt auferentur ex ea.	2020-04-18	Liber_Proverbiorum
+1100000116	caput 3	2020-04-18	Liber_Proverbiorum
+1100000117	fili mi, ne obliviscaris legis meae,	2020-04-18	Liber_Proverbiorum
+1100000118	et praecepta mea cor tuum custodiat:	2020-04-18	Liber_Proverbiorum
+1100000119	longitudinem enim dierum, et annos vitae, et pacem,	2020-04-18	Liber_Proverbiorum
+1100000120	apponent tibi.	2020-04-18	Liber_Proverbiorum
+1100000121	misericordia et veritas te non deserant;	2020-04-18	Liber_Proverbiorum
+1100000122	circumda eas gutturi tuo,	2020-04-18	Liber_Proverbiorum
+1100000123	et describe in tabulis cordis tui:	2020-04-18	Liber_Proverbiorum
+1100000124	et invenies gratiam, et disciplinam bonam,	2020-04-18	Liber_Proverbiorum
+1100000125	coram deo et hominibus.	2020-04-18	Liber_Proverbiorum
+1100000126	habe fiduciam in domino ex toto corde tuo,	2020-04-18	Liber_Proverbiorum
+1100000127	et ne innitaris prudentiae tuae.	2020-04-18	Liber_Proverbiorum
+1100000128	in omnibus viis tuis cogita illum,	2020-04-18	Liber_Proverbiorum
+1100000129	et ipse diriget gressus tuos.	2020-04-18	Liber_Proverbiorum
+1100000130	ne sis sapiens apud temetipsum;	2020-04-18	Liber_Proverbiorum
+1100000131	time deum, et recede a malo:	2020-04-18	Liber_Proverbiorum
+1100000132	sanitas quippe erit umbilico tuo,	2020-04-18	Liber_Proverbiorum
+1100000133	et irrigatio ossium tuorum.	2020-04-18	Liber_Proverbiorum
+1100000134	honora dominum de tua substantia,	2020-04-18	Liber_Proverbiorum
+1100000135	et de primitiis omnium frugum tuarum da ei:	2020-04-18	Liber_Proverbiorum
+1100000136	et implebuntur horrea tua saturitate,	2020-04-18	Liber_Proverbiorum
+1100000137	et vino torcularia tua redundabunt.	2020-04-18	Liber_Proverbiorum
+1100000138	disciplinam domini, fili mi, ne abiicias,	2020-04-18	Liber_Proverbiorum
+1100000139	nec deficias cum ab eo corriperis:	2020-04-18	Liber_Proverbiorum
+1100000140	quem enim diligit dominus, corripit,	2020-04-18	Liber_Proverbiorum
+1100000141	et quasi pater in filio complacet sibi.	2020-04-18	Liber_Proverbiorum
+1100000142	beatus homo qui invenit sapientiam,	2020-04-18	Liber_Proverbiorum
+1100000143	et qui affluit prudentia.	2020-04-18	Liber_Proverbiorum
+1100000144	melior est acquisitio eius negotiatione argenti,	2020-04-18	Liber_Proverbiorum
+1100000145	et auri primi et purissimi fructus eius.	2020-04-18	Liber_Proverbiorum
+1100000146	pretiosior est cunctis opibus,	2020-04-18	Liber_Proverbiorum
+1100000147	et omnia quae desiderantur huic non valent comparari.	2020-04-18	Liber_Proverbiorum
+1100000148	longitudo dierum in dextera eius,	2020-04-18	Liber_Proverbiorum
+1100000149	et in sinistra illius divitiae et gloria.	2020-04-18	Liber_Proverbiorum
+1100000150	viae eius viae pulchrae,	2020-04-18	Liber_Proverbiorum
+1100000151	et omnes semitae illius pacificae.	2020-04-18	Liber_Proverbiorum
+1100000152	lignum vitae est his qui apprehenderint eam,	2020-04-18	Liber_Proverbiorum
+1100000153	et qui tenuerit eam beatus.	2020-04-18	Liber_Proverbiorum
+1100000154	dominus sapientia fundavit terram;	2020-04-18	Liber_Proverbiorum
+1100000155	stabilivit caelos prudentia.	2020-04-18	Liber_Proverbiorum
+1100000156	sapientia illius eruperunt abyssi,	2020-04-18	Liber_Proverbiorum
+1100000157	et nubes rore concrescunt.	2020-04-18	Liber_Proverbiorum
+1100000158	fili mi, ne effluant haec ab oculis tuis.	2020-04-18	Liber_Proverbiorum
+1100000159	custodi legem atque consilium,	2020-04-18	Liber_Proverbiorum
+1100000160	et erit vita animae tuae,	2020-04-18	Liber_Proverbiorum
+1100000161	et gratia faucibus tuis.	2020-04-18	Liber_Proverbiorum
+1100000162	tunc ambulabis fiducialiter in via tua,	2020-04-18	Liber_Proverbiorum
+1100000163	et pes tuus non impinget.	2020-04-18	Liber_Proverbiorum
+1100000164	si dormieris, non timebis;	2020-04-18	Liber_Proverbiorum
+1100000165	quiesces, et suavis erit somnus tuus.	2020-04-18	Liber_Proverbiorum
+1100000166	ne paveas repentino terrore,	2020-04-18	Liber_Proverbiorum
+1100000167	et irruentes tibi potentias impiorum.	2020-04-18	Liber_Proverbiorum
+1100000168	dominus enim erit in latere tuo,	2020-04-18	Liber_Proverbiorum
+1100000169	et custodiet pedem tuum, ne capiaris.	2020-04-18	Liber_Proverbiorum
+1100000170	noli prohibere benefacere eum qui potest:	2020-04-18	Liber_Proverbiorum
+1100000171	si vales, et ipse benefac.	2020-04-18	Liber_Proverbiorum
+1100000172	ne dicas amico tuo: vade, et revertere: cras dabo tibi:	2020-04-18	Liber_Proverbiorum
+1100000173	cum statim possis dare.	2020-04-18	Liber_Proverbiorum
+1100000174	ne moliaris amico tuo malum,	2020-04-18	Liber_Proverbiorum
+1100000175	cum ille in te habeat fiduciam.	2020-04-18	Liber_Proverbiorum
+1100000176	ne contendas adversus hominem frustra,	2020-04-18	Liber_Proverbiorum
+1100000177	cum ipse tibi nihil mali fecerit.	2020-04-18	Liber_Proverbiorum
+1100000178	ne aemuleris hominem iniustum,	2020-04-18	Liber_Proverbiorum
+1100000179	nec imiteris vias eius:	2020-04-18	Liber_Proverbiorum
+1100000180	quia abominatio domini est omnis illusor,	2020-04-18	Liber_Proverbiorum
+1100000181	et cum simplicibus sermocinatio eius.	2020-04-18	Liber_Proverbiorum
+1100000182	egestas a domino in domo impii;	2020-04-18	Liber_Proverbiorum
+1100000183	habitacula autem iustorum benedicentur.	2020-04-18	Liber_Proverbiorum
+1100000184	ipse deludet illusores,	2020-04-18	Liber_Proverbiorum
+1100000185	et mansuetis dabit gratiam.	2020-04-18	Liber_Proverbiorum
+1100000186	gloriam sapientes possidebunt;	2020-04-18	Liber_Proverbiorum
+1100000187	stultorum exaltatio ignominia.	2020-04-18	Liber_Proverbiorum
+1100000188	caput 4	2020-04-18	Liber_Proverbiorum
+1100000189	audite, filii, disciplinam patris,	2020-04-18	Liber_Proverbiorum
+1100000190	et attendite ut sciatis prudentiam.	2020-04-18	Liber_Proverbiorum
+1100000191	donum bonum tribuam vobis:	2020-04-18	Liber_Proverbiorum
+1100000192	legem meam ne derelinquatis.	2020-04-18	Liber_Proverbiorum
+1100000193	nam et ego filius fui patris mei,	2020-04-18	Liber_Proverbiorum
+1100000194	tenellus et unigenitus coram matre mea.	2020-04-18	Liber_Proverbiorum
+1100000195	et docebat me, atque dicebat:	2020-04-18	Liber_Proverbiorum
+1100000196	suscipiat verba mea cor tuum;	2020-04-18	Liber_Proverbiorum
+1100000197	custodi praecepta mea, et vives.	2020-04-18	Liber_Proverbiorum
+1100000198	posside sapientiam, posside prudentiam:	2020-04-18	Liber_Proverbiorum
+1100000199	ne obliviscaris, neque declines a verbis oris mei.	2020-04-18	Liber_Proverbiorum
+1100000200	ne dimittas eam, et custodiet te:	2020-04-18	Liber_Proverbiorum
+1100000201	dilige eam, et conservabit te.	2020-04-18	Liber_Proverbiorum
+1100000202	principium sapientiae: posside sapientiam,	2020-04-18	Liber_Proverbiorum
+1100000203	et in omni possessione tua acquire prudentiam.	2020-04-18	Liber_Proverbiorum
+1100000204	arripe illam, et exaltabit te;	2020-04-18	Liber_Proverbiorum
+1100000205	glorificaberis ab ea cum eam fueris amplexatus.	2020-04-18	Liber_Proverbiorum
+1100000206	dabit capiti tuo augmenta gratiarum,	2020-04-18	Liber_Proverbiorum
+1100000207	et corona inclyta proteget te.	2020-04-18	Liber_Proverbiorum
+1100000208	audi, fili mi, et suscipe verba mea,	2020-04-18	Liber_Proverbiorum
+1100000209	ut multiplicentur tibi anni vitae.	2020-04-18	Liber_Proverbiorum
+1100000210	viam sapientiae monstrabo tibi;	2020-04-18	Liber_Proverbiorum
+1100000211	ducam te per semitas aequitatis:	2020-04-18	Liber_Proverbiorum
+1100000212	quas cum ingressus fueris, non arctabuntur gressus tui,	2020-04-18	Liber_Proverbiorum
+1100000213	et currens non habebis offendiculum.	2020-04-18	Liber_Proverbiorum
+1100000214	tene disciplinam, ne dimittas eam;	2020-04-18	Liber_Proverbiorum
+1100000215	custodi illam, quia ipsa est vita tua.	2020-04-18	Liber_Proverbiorum
+1100000216	ne delecteris in semitis impiorum,	2020-04-18	Liber_Proverbiorum
+1100000217	nec tibi placeat malorum via.	2020-04-18	Liber_Proverbiorum
+1100000218	fuge ab ea, nec transeas per illam;	2020-04-18	Liber_Proverbiorum
+1100000219	declina, et desere eam.	2020-04-18	Liber_Proverbiorum
+1100000220	non enim dormiunt nisi malefecerint,	2020-04-18	Liber_Proverbiorum
+1100000221	et rapitur somnus ab eis nisi supplantaverint.	2020-04-18	Liber_Proverbiorum
+1100000222	comedunt panem impietatis,	2020-04-18	Liber_Proverbiorum
+1100000223	et vinum iniquitatis bibunt.	2020-04-18	Liber_Proverbiorum
+1100000224	iustorum autem semita quasi lux splendens procedit,	2020-04-18	Liber_Proverbiorum
+1100000225	et crescit usque ad perfectam diem.	2020-04-18	Liber_Proverbiorum
+1100000226	via impiorum tenebrosa;	2020-04-18	Liber_Proverbiorum
+1100000227	nesciunt ubi corruant.	2020-04-18	Liber_Proverbiorum
+1100000228	fili mi, ausculta sermones meos,	2020-04-18	Liber_Proverbiorum
+1100000229	et ad eloquia mea inclina aurem tuam.	2020-04-18	Liber_Proverbiorum
+1100000230	ne recedant ab oculis tuis:	2020-04-18	Liber_Proverbiorum
+1100000231	custodi ea in medio cordis tui:	2020-04-18	Liber_Proverbiorum
+1100000232	vita enim sunt invenientibus ea,	2020-04-18	Liber_Proverbiorum
+1100000233	et universae carni sanitas.	2020-04-18	Liber_Proverbiorum
+1100000234	omni custodia serva cor tuum,	2020-04-18	Liber_Proverbiorum
+1100000235	quia ex ipso vita procedit.	2020-04-18	Liber_Proverbiorum
+1100000236	remove a te os pravum,	2020-04-18	Liber_Proverbiorum
+1100000237	et detrahentia labia sint procul a te.	2020-04-18	Liber_Proverbiorum
+1100000238	oculi tui recta videant,	2020-04-18	Liber_Proverbiorum
+1100000239	et palpebrae tuae praecedant gressus tuos.	2020-04-18	Liber_Proverbiorum
+1100000240	dirige semitam pedibus tuis,	2020-04-18	Liber_Proverbiorum
+1100000241	et omnes viae tuae stabilientur.	2020-04-18	Liber_Proverbiorum
+1100000242	ne declines ad dexteram neque ad sinistram;	2020-04-18	Liber_Proverbiorum
+1100000243	averte pedem tuum a malo:	2020-04-18	Liber_Proverbiorum
+1100000244	vias enim quae a dextris sunt novit dominus:	2020-04-18	Liber_Proverbiorum
+1100000245	perversae vero sunt quae a sinistris sunt.	2020-04-18	Liber_Proverbiorum
+1100000246	ipse autem rectos faciet cursus tuos,	2020-04-18	Liber_Proverbiorum
+1100000247	itinera autem tua in pace producet.	2020-04-18	Liber_Proverbiorum
+1100000248	caput 5	2020-04-18	Liber_Proverbiorum
+1100000249	fili mi, attende ad sapientiam meam,	2020-04-18	Liber_Proverbiorum
+1100000250	et prudentiae meae inclina aurem tuam:	2020-04-18	Liber_Proverbiorum
+1100000251	ut custodias cogitationes, et disciplinam labia tua conservent.	2020-04-18	Liber_Proverbiorum
+1100000252	ne attendas fallaciae mulieris;	2020-04-18	Liber_Proverbiorum
+1100000253	favus enim distillans labia meretricis,	2020-04-18	Liber_Proverbiorum
+1100000254	et nitidius oleo guttur eius:	2020-04-18	Liber_Proverbiorum
+1100000255	novissima autem illius amara quasi absinthium,	2020-04-18	Liber_Proverbiorum
+1100000256	et acuta quasi gladius biceps.	2020-04-18	Liber_Proverbiorum
+1100000257	pedes eius descendunt in mortem,	2020-04-18	Liber_Proverbiorum
+1100000258	et ad inferos gressus illius penetrant.	2020-04-18	Liber_Proverbiorum
+1100000259	per semitam vitae non ambulant;	2020-04-18	Liber_Proverbiorum
+1100000260	vagi sunt gressus eius et investigabiles.	2020-04-18	Liber_Proverbiorum
+1100000261	nunc ergo fili mi, audi me,	2020-04-18	Liber_Proverbiorum
+1100000262	et ne recedas a verbis oris mei.	2020-04-18	Liber_Proverbiorum
+1100000263	longe fac ab ea viam tuam,	2020-04-18	Liber_Proverbiorum
+1100000264	et ne appropinques foribus domus eius.	2020-04-18	Liber_Proverbiorum
+1100000265	ne des alienis honorem tuum,	2020-04-18	Liber_Proverbiorum
+1100000266	et annos tuos crudeli:	2020-04-18	Liber_Proverbiorum
+1100000267	ne forte implentur extranei viribus tuis,	2020-04-18	Liber_Proverbiorum
+1100000268	et labores tui sint in domo aliena,	2020-04-18	Liber_Proverbiorum
+1100000269	et gemas in novissimis,	2020-04-18	Liber_Proverbiorum
+1100000270	quando consumpseris carnes tuas et corpus tuum,	2020-04-18	Liber_Proverbiorum
+1100000271	et dicas:cur detestatus sum disciplinam,	2020-04-18	Liber_Proverbiorum
+1100000272	et increpationibus non acquievit cor meum,	2020-04-18	Liber_Proverbiorum
+1100000273	nec audivi vocem docentium me,	2020-04-18	Liber_Proverbiorum
+1100000274	et magistris non inclinavi aurem meam?	2020-04-18	Liber_Proverbiorum
+1100000275	pene fui in omni malo,	2020-04-18	Liber_Proverbiorum
+1100000276	in medio ecclesiae et synagogae.	2020-04-18	Liber_Proverbiorum
+1100000277	bibe aquam de cisterna tua,	2020-04-18	Liber_Proverbiorum
+1100000278	et fluenta putei tui;	2020-04-18	Liber_Proverbiorum
+1100000279	deriventur fontes tui foras,	2020-04-18	Liber_Proverbiorum
+1100000280	et in plateis aquas tuas divide.	2020-04-18	Liber_Proverbiorum
+1100000281	habeto eas solus,	2020-04-18	Liber_Proverbiorum
+1100000282	nec sint alieni participes tui.	2020-04-18	Liber_Proverbiorum
+1100000283	sit vena tua benedicta,	2020-04-18	Liber_Proverbiorum
+1100000284	et laetare cum muliere adolescentiae tuae.	2020-04-18	Liber_Proverbiorum
+1100000285	cerva carissima, et gratissimus hinnulus:	2020-04-18	Liber_Proverbiorum
+1100000286	ubera eius inebrient te in omni tempore;	2020-04-18	Liber_Proverbiorum
+1100000287	in amore eius delectare iugiter.	2020-04-18	Liber_Proverbiorum
+1100000288	quare seduceris, fili mi, ab aliena,	2020-04-18	Liber_Proverbiorum
+1100000289	et foveris in sinu alterius?	2020-04-18	Liber_Proverbiorum
+1100000290	respicit dominus vias hominis,	2020-04-18	Liber_Proverbiorum
+1100000291	et omnes gressus eius considerat.	2020-04-18	Liber_Proverbiorum
+1100000292	iniquitates suas capiunt impium,	2020-04-18	Liber_Proverbiorum
+1100000293	et funibus peccatorum suorum constringitur.	2020-04-18	Liber_Proverbiorum
+1100000294	ipse morietur, quia non habuit disciplinam,	2020-04-18	Liber_Proverbiorum
+1100000295	et in multitudine stultitiae suae decipietur.	2020-04-18	Liber_Proverbiorum
+1100000296	caput 6	2020-04-18	Liber_Proverbiorum
+1100000297	fili mi, si spoponderis pro amico tuo,	2020-04-18	Liber_Proverbiorum
+1100000298	defixisti apud extraneum manum tuam:	2020-04-18	Liber_Proverbiorum
+1100000299	illaqueatus es verbis oris tui,	2020-04-18	Liber_Proverbiorum
+1100000300	et captus propriis sermonibus.	2020-04-18	Liber_Proverbiorum
+1100000301	fac ergo quod dico, fili mi, et temetipsum libera,	2020-04-18	Liber_Proverbiorum
+1100000302	quia incidisti in manum proximi tui.	2020-04-18	Liber_Proverbiorum
+1100000303	discurre, festina, suscita amicum tuum.	2020-04-18	Liber_Proverbiorum
+1100000304	ne dederis somnum oculis tuis,	2020-04-18	Liber_Proverbiorum
+1100000305	nec dormitent palpebrae tuae.	2020-04-18	Liber_Proverbiorum
+1100000306	eruere quasi damula de manu,	2020-04-18	Liber_Proverbiorum
+1100000307	et quasi avis de manu aucupis.	2020-04-18	Liber_Proverbiorum
+1100000308	vade ad formicam, o piger,	2020-04-18	Liber_Proverbiorum
+1100000309	et considera vias eius, et disce sapientiam.	2020-04-18	Liber_Proverbiorum
+1100000310	quae cum non habeat ducem,	2020-04-18	Liber_Proverbiorum
+1100000311	nec praeceptorem, nec principem,	2020-04-18	Liber_Proverbiorum
+1100000312	parat in aestate cibum sibi,	2020-04-18	Liber_Proverbiorum
+1100000313	et congregat in messe quod comedat.	2020-04-18	Liber_Proverbiorum
+1100000314	usquequo, piger, dormies?	2020-04-18	Liber_Proverbiorum
+1100000315	quando consurges e somno tuo?	2020-04-18	Liber_Proverbiorum
+1100000316	paululum dormies, paululum dormitabis,	2020-04-18	Liber_Proverbiorum
+1100000317	paululum conseres manus ut dormias;	2020-04-18	Liber_Proverbiorum
+1100000318	et veniet tibi quasi viator egestas,	2020-04-18	Liber_Proverbiorum
+1100000319	et pauperies quasi vir armatus.	2020-04-18	Liber_Proverbiorum
+1100000320	si vero impiger fueris, veniet ut fons messis tua,	2020-04-18	Liber_Proverbiorum
+1100000321	et egestas longe fugiet a te.	2020-04-18	Liber_Proverbiorum
+1100000322	homo apostata, vir inutilis, graditur ore perverso;	2020-04-18	Liber_Proverbiorum
+1100000323	annuit oculis, terit pede, digito loquitur,	2020-04-18	Liber_Proverbiorum
+1100000324	pravo corde machinatur malum,	2020-04-18	Liber_Proverbiorum
+1100000325	et omni tempore iurgia seminat.	2020-04-18	Liber_Proverbiorum
+1100000326	huic extemplo veniet perditio sua,	2020-04-18	Liber_Proverbiorum
+1100000327	et subito conteretur, nec habebit ultra medicinam.	2020-04-18	Liber_Proverbiorum
+1100000328	sex sunt quae odit dominus,	2020-04-18	Liber_Proverbiorum
+1100000329	et septimum detestatur anima eius:	2020-04-18	Liber_Proverbiorum
+1100000330	oculos sublimes, linguam mendacem,	2020-04-18	Liber_Proverbiorum
+1100000331	manus effundentes innoxium sanguinem,	2020-04-18	Liber_Proverbiorum
+1100000332	cor machinans cogitationes pessimas,	2020-04-18	Liber_Proverbiorum
+1100000333	pedes veloces ad currendum in malum,	2020-04-18	Liber_Proverbiorum
+1100000334	proferentem mendacia testem fallacem,	2020-04-18	Liber_Proverbiorum
+1100000335	et eum qui seminat inter fratres discordias.	2020-04-18	Liber_Proverbiorum
+1100000336	conserva, fili mi, praecepta patris tui,	2020-04-18	Liber_Proverbiorum
+1100000337	et ne dimittas legem matris tuae.	2020-04-18	Liber_Proverbiorum
+1100000338	liga ea in corde tuo iugiter,	2020-04-18	Liber_Proverbiorum
+1100000339	et circumda gutturi tuo.	2020-04-18	Liber_Proverbiorum
+1100000340	cum ambulaveris, gradiantur tecum;	2020-04-18	Liber_Proverbiorum
+1100000341	cum dormieris, custodiant te:	2020-04-18	Liber_Proverbiorum
+1100000342	et evigilans loquere cum eis.	2020-04-18	Liber_Proverbiorum
+1100000343	quia mandatum lucerna est, et lex lux,	2020-04-18	Liber_Proverbiorum
+1100000344	et via vitae increpatio disciplinae:	2020-04-18	Liber_Proverbiorum
+1100000345	ut custodiant te a muliere mala,	2020-04-18	Liber_Proverbiorum
+1100000346	et a blanda lingua extraneae.	2020-04-18	Liber_Proverbiorum
+1100000347	non concupiscat pulchritudinem eius cor tuum,	2020-04-18	Liber_Proverbiorum
+1100000348	nec capiaris nutibus illius:	2020-04-18	Liber_Proverbiorum
+1100000349	pretium enim scorti vix est unius panis,	2020-04-18	Liber_Proverbiorum
+1100000350	mulier autem viri pretiosam animam capit.	2020-04-18	Liber_Proverbiorum
+1100000351	numquid potest homo abscondere ignem in sinu suo,	2020-04-18	Liber_Proverbiorum
+1100000352	ut vestimenta illius non ardeant?	2020-04-18	Liber_Proverbiorum
+1100000353	aut ambulare super prunas,	2020-04-18	Liber_Proverbiorum
+1100000354	ut non comburantur plantae eius?	2020-04-18	Liber_Proverbiorum
+1100000355	sic qui ingreditur ad mulierem proximi sui,	2020-04-18	Liber_Proverbiorum
+1100000356	non erit mundus cum tetigerit eam.	2020-04-18	Liber_Proverbiorum
+1100000357	non grandis est culpa cum quis furatus fuerit:	2020-04-18	Liber_Proverbiorum
+1100000358	furatur enim ut esurientem impleat animam;	2020-04-18	Liber_Proverbiorum
+1100000359	deprehensus quoque reddet septuplum,	2020-04-18	Liber_Proverbiorum
+1100000360	et omnem substantiam domus suae tradet.	2020-04-18	Liber_Proverbiorum
+1100000361	qui autem adulter est,	2020-04-18	Liber_Proverbiorum
+1100000362	propter cordis inopiam perdet animam suam;	2020-04-18	Liber_Proverbiorum
+1100000363	turpitudinem et ignominiam congregat sibi,	2020-04-18	Liber_Proverbiorum
+1100000364	et opprobrium illius non delebitur:	2020-04-18	Liber_Proverbiorum
+1100000365	quia zelus et furor viri	2020-04-18	Liber_Proverbiorum
+1100000366	non parcet in die vindictae,	2020-04-18	Liber_Proverbiorum
+1100000367	nec acquiescet cuiusquam precibus,	2020-04-18	Liber_Proverbiorum
+1100000368	nec suscipiet pro redemptione dona plurima.	2020-04-18	Liber_Proverbiorum
+1100000369	caput 7	2020-04-18	Liber_Proverbiorum
+1100000370	fili mi, custodi sermones meos,	2020-04-18	Liber_Proverbiorum
+1100000371	et praecepta mea reconde tibi.	2020-04-18	Liber_Proverbiorum
+1100000372	fili,serva mandata mea, et vives;	2020-04-18	Liber_Proverbiorum
+1100000373	et legem meam quasi pupillam oculi tui:	2020-04-18	Liber_Proverbiorum
+1100000374	liga eam in digitis tuis,	2020-04-18	Liber_Proverbiorum
+1100000375	scribe illam in tabulis cordis tui.	2020-04-18	Liber_Proverbiorum
+1100000376	dic sapientiae: soror mea es,	2020-04-18	Liber_Proverbiorum
+1100000377	et prudentiam voca amicam tuam:	2020-04-18	Liber_Proverbiorum
+1100000378	ut custodiant te a muliere extranea,	2020-04-18	Liber_Proverbiorum
+1100000379	et ab aliena quae verba sua dulcia facit.	2020-04-18	Liber_Proverbiorum
+1100000380	de fenestra enim domus meae	2020-04-18	Liber_Proverbiorum
+1100000381	per cancellos prospexi,	2020-04-18	Liber_Proverbiorum
+1100000382	et video parvulos;	2020-04-18	Liber_Proverbiorum
+1100000383	considero vecordem iuvenem,	2020-04-18	Liber_Proverbiorum
+1100000384	qui transit per plateam iuxta angulum	2020-04-18	Liber_Proverbiorum
+1100000385	et prope viam domus illius graditur:	2020-04-18	Liber_Proverbiorum
+1100000386	in obscuro, advesperascente die,	2020-04-18	Liber_Proverbiorum
+1100000387	in noctis tenebris et caligine.	2020-04-18	Liber_Proverbiorum
+1100000388	et ecce occurrit illi mulier ornatu meretricio,	2020-04-18	Liber_Proverbiorum
+1100000389	praeparata ad capiendas animas:	2020-04-18	Liber_Proverbiorum
+1100000390	garrula et vaga,	2020-04-18	Liber_Proverbiorum
+1100000391	quietis impatiens,	2020-04-18	Liber_Proverbiorum
+1100000392	nec valens in domo consistere pedibus suis;	2020-04-18	Liber_Proverbiorum
+1100000393	nunc foris, nunc in plateis,	2020-04-18	Liber_Proverbiorum
+1100000394	nunc iuxta angulos insidians.	2020-04-18	Liber_Proverbiorum
+1100000395	apprehensumque deosculatur iuvenem,	2020-04-18	Liber_Proverbiorum
+1100000396	et procaci vultu blanditur, dicens:	2020-04-18	Liber_Proverbiorum
+1100000397	victimas pro salute vovi;	2020-04-18	Liber_Proverbiorum
+1100000398	hodie reddidi vota mea:	2020-04-18	Liber_Proverbiorum
+1100000399	idcirco egressa sum in occursum tuum,	2020-04-18	Liber_Proverbiorum
+1100000400	desiderans te videre, et reperi.	2020-04-18	Liber_Proverbiorum
+1100000401	intexui funibus lectulum meum;	2020-04-18	Liber_Proverbiorum
+1100000402	stravi tapetibus pictis ex aegypto:	2020-04-18	Liber_Proverbiorum
+1100000403	aspersi cubile meum myrrha,	2020-04-18	Liber_Proverbiorum
+1100000404	et aloe, et cinnamomo.	2020-04-18	Liber_Proverbiorum
+1100000405	veni, inebriemur uberibus,	2020-04-18	Liber_Proverbiorum
+1100000406	et fruamur cupitis amplexibus donec illucescat dies.	2020-04-18	Liber_Proverbiorum
+1100000407	non est enim vir in domo sua:	2020-04-18	Liber_Proverbiorum
+1100000408	abiit via longissima:	2020-04-18	Liber_Proverbiorum
+1100000409	sacculum pecuniae secum tulit;	2020-04-18	Liber_Proverbiorum
+1100000410	in die plenae lunae reversurus est in domum suam.	2020-04-18	Liber_Proverbiorum
+1100000411	irretivit eum multis sermonibus,	2020-04-18	Liber_Proverbiorum
+1100000412	et blanditiis labiorum protraxit illum.	2020-04-18	Liber_Proverbiorum
+1100000413	statim eam sequitur quasi bos ductus ad victimam,	2020-04-18	Liber_Proverbiorum
+1100000414	et quasi agnus lasciviens,	2020-04-18	Liber_Proverbiorum
+1100000415	et ignorans quod ad vincula stultus trahatur:	2020-04-18	Liber_Proverbiorum
+1100000416	donec transfigat sagitta iecur eius,	2020-04-18	Liber_Proverbiorum
+1100000417	velut si avis festinet ad laqueum,	2020-04-18	Liber_Proverbiorum
+1100000418	et nescit quod de periculo animae illius agitur.	2020-04-18	Liber_Proverbiorum
+1100000419	nunc ergo, fili mi, audi me,	2020-04-18	Liber_Proverbiorum
+1100000420	et attende verbis oris mei.	2020-04-18	Liber_Proverbiorum
+1100000421	ne abstrahatur in viis illius mens tua,	2020-04-18	Liber_Proverbiorum
+1100000422	neque decipiaris semitis eius;	2020-04-18	Liber_Proverbiorum
+1100000423	multos enim vulneratos deiecit,	2020-04-18	Liber_Proverbiorum
+1100000424	et fortissimi quique interfecti sunt ab ea.	2020-04-18	Liber_Proverbiorum
+1100000425	viae inferi domus eius,	2020-04-18	Liber_Proverbiorum
+1100000426	penetrantes in interiora mortis.	2020-04-18	Liber_Proverbiorum
+1100000427	caput 8	2020-04-18	Liber_Proverbiorum
+1100000428	numquid non sapientia clamitat,	2020-04-18	Liber_Proverbiorum
+1100000429	et prudentia dat vocem suam?	2020-04-18	Liber_Proverbiorum
+1100000430	in summis excelsisque verticibus supra viam,	2020-04-18	Liber_Proverbiorum
+1100000431	in mediis semitis stans,	2020-04-18	Liber_Proverbiorum
+1100000432	iuxta portas civitatis,	2020-04-18	Liber_Proverbiorum
+1100000433	in ipsis foribus loquitur, dicens:	2020-04-18	Liber_Proverbiorum
+1100000434	o viri, ad vos clamito,	2020-04-18	Liber_Proverbiorum
+1100000435	et vox mea ad filios hominum.	2020-04-18	Liber_Proverbiorum
+1100000436	intelligite, parvuli, astutiam,	2020-04-18	Liber_Proverbiorum
+1100000437	et insipientes, animadvertite.	2020-04-18	Liber_Proverbiorum
+1100000438	audite, quoniam de rebus magnis locutura sum,	2020-04-18	Liber_Proverbiorum
+1100000439	et aperientur labia mea ut recta praedicent.	2020-04-18	Liber_Proverbiorum
+1100000440	veritatem meditabitur guttur meum,	2020-04-18	Liber_Proverbiorum
+1100000441	et labia mea detestabuntur impium.	2020-04-18	Liber_Proverbiorum
+1100000442	iusti sunt omnes sermones mei:	2020-04-18	Liber_Proverbiorum
+1100000443	non est in eis pravum quid, neque perversum;	2020-04-18	Liber_Proverbiorum
+1100000444	recti sunt intelligentibus,	2020-04-18	Liber_Proverbiorum
+1100000445	et aequi invenientibus scientiam.	2020-04-18	Liber_Proverbiorum
+1100000446	accipite disciplinam meam, et non pecuniam;	2020-04-18	Liber_Proverbiorum
+1100000447	doctrinam magis quam aurum eligite:	2020-04-18	Liber_Proverbiorum
+1100000448	melior est enim sapientia cunctis pretiosissimis,	2020-04-18	Liber_Proverbiorum
+1100000449	et omne desiderabile ei non potest comparari.	2020-04-18	Liber_Proverbiorum
+1100000450	ego sapientia, habito in consilio,	2020-04-18	Liber_Proverbiorum
+1100000451	et eruditis intersum cogitationibus.	2020-04-18	Liber_Proverbiorum
+1100000452	timor domini odit malum:	2020-04-18	Liber_Proverbiorum
+1100000453	arrogantiam, et superbiam,	2020-04-18	Liber_Proverbiorum
+1100000454	et viam pravam, et os bilingue, detestor.	2020-04-18	Liber_Proverbiorum
+1100000455	meum est consilium et aequitas;	2020-04-18	Liber_Proverbiorum
+1100000456	mea est prudentia, mea est fortitudo.	2020-04-18	Liber_Proverbiorum
+1100000457	per me reges regnant,	2020-04-18	Liber_Proverbiorum
+1100000458	et legum conditores iusta decernunt;	2020-04-18	Liber_Proverbiorum
+1100000459	per me principes imperant,	2020-04-18	Liber_Proverbiorum
+1100000460	et potentes decernunt iustitiam.	2020-04-18	Liber_Proverbiorum
+1100000461	ego diligentes me diligo,	2020-04-18	Liber_Proverbiorum
+1100000462	et qui mane vigilant ad me, invenient me.	2020-04-18	Liber_Proverbiorum
+1100000463	mecum sunt divitiae et gloria,	2020-04-18	Liber_Proverbiorum
+1100000464	opes superbae et iustitia.	2020-04-18	Liber_Proverbiorum
+1100000465	melior est enim fructus meus auro et lapide pretioso,	2020-04-18	Liber_Proverbiorum
+1100000466	et genimina me argento electo.	2020-04-18	Liber_Proverbiorum
+1100000467	in viis iustitiae ambulo,	2020-04-18	Liber_Proverbiorum
+1100000468	in medio semitarum iudicii:	2020-04-18	Liber_Proverbiorum
+1100000469	ut ditem diligentes me,	2020-04-18	Liber_Proverbiorum
+1100000470	et thesauros eorum repleam.	2020-04-18	Liber_Proverbiorum
+1100000471	dominus possedit me in initio viarum suarum	2020-04-18	Liber_Proverbiorum
+1100000472	antequam quidquam faceret a principio.	2020-04-18	Liber_Proverbiorum
+1100000473	ab aeterno ordinata sum,	2020-04-18	Liber_Proverbiorum
+1100000474	et ex antiquis antequam terra fieret.	2020-04-18	Liber_Proverbiorum
+1100000475	nondum erant abyssi, et ego iam concepta eram:	2020-04-18	Liber_Proverbiorum
+1100000476	necdum fontes aquarum eruperant,	2020-04-18	Liber_Proverbiorum
+1100000477	necdum montes gravi mole constiterant:	2020-04-18	Liber_Proverbiorum
+1100000478	ante colles ego parturiebar.	2020-04-18	Liber_Proverbiorum
+1100000479	adhuc terram non fecerat, et flumina,	2020-04-18	Liber_Proverbiorum
+1100000480	et cardines orbis terrae.	2020-04-18	Liber_Proverbiorum
+1100000481	quando praeparabat caelos, aderam;	2020-04-18	Liber_Proverbiorum
+1100000482	quando certa lege et gyro vallabat abyssos;	2020-04-18	Liber_Proverbiorum
+1100000483	quando aethera firmabat sursum,	2020-04-18	Liber_Proverbiorum
+1100000484	et librabat fontes aquarum;	2020-04-18	Liber_Proverbiorum
+1100000485	quando circumdabat mari terminum suum,	2020-04-18	Liber_Proverbiorum
+1100000486	et legem ponebat aquis, ne transirent fines suos;	2020-04-18	Liber_Proverbiorum
+1100000487	quando appendebat fundamenta terrae:	2020-04-18	Liber_Proverbiorum
+1100000488	cum eo eram, cuncta componens.	2020-04-18	Liber_Proverbiorum
+1100000489	et delectabar per singulos dies,	2020-04-18	Liber_Proverbiorum
+1100000490	ludens coram eo omni tempore,	2020-04-18	Liber_Proverbiorum
+1100000491	ludens in orbe terrarum;	2020-04-18	Liber_Proverbiorum
+1100000492	et deliciae meae esse cum filiis hominum.	2020-04-18	Liber_Proverbiorum
+1100000493	nunc ergo, filii, audite me:	2020-04-18	Liber_Proverbiorum
+1100000494	beati qui custodiunt vias meas.	2020-04-18	Liber_Proverbiorum
+1100000495	audite disciplinam, et estote sapientes,	2020-04-18	Liber_Proverbiorum
+1100000496	et nolite abiicere eam.	2020-04-18	Liber_Proverbiorum
+1100000497	beatus homo qui audit me,	2020-04-18	Liber_Proverbiorum
+1100000498	et qui vigilat ad fores meas quotidie,	2020-04-18	Liber_Proverbiorum
+1100000499	et observat ad postes ostii mei.	2020-04-18	Liber_Proverbiorum
+1100000500	qui me invenerit, inveniet vitam,	2020-04-18	Liber_Proverbiorum
+1100000501	et hauriet salutem a domino.	2020-04-18	Liber_Proverbiorum
+1100000502	qui autem in me peccaverit, laedet animam suam;	2020-04-18	Liber_Proverbiorum
+1100000503	omnes qui me oderunt diligunt mortem.	2020-04-18	Liber_Proverbiorum
+1100000504	caput 9	2020-04-18	Liber_Proverbiorum
+1100000505	sapientia aedificavit sibi domum:	2020-04-18	Liber_Proverbiorum
+1100000506	excidit columnas septem.	2020-04-18	Liber_Proverbiorum
+1100000507	immolavit victimas suas, miscuit vinum,	2020-04-18	Liber_Proverbiorum
+1100000508	et proposuit mensam suam.	2020-04-18	Liber_Proverbiorum
+1100000509	misit ancillas suas ut vocarent	2020-04-18	Liber_Proverbiorum
+1100000510	ad arcem et ad moenia civitatis.	2020-04-18	Liber_Proverbiorum
+1100000511	si quis est parvulus, veniat ad me.	2020-04-18	Liber_Proverbiorum
+1100000512	et insipientibus locuta est:	2020-04-18	Liber_Proverbiorum
+1100000513	venite, comedite panem meum,	2020-04-18	Liber_Proverbiorum
+1100000514	et bibite vinum quod miscui vobis.	2020-04-18	Liber_Proverbiorum
+1100000515	relinquite infantiam, et vivite,	2020-04-18	Liber_Proverbiorum
+1100000516	et ambulate per vias prudentiae.	2020-04-18	Liber_Proverbiorum
+1100000517	qui erudit derisorem, ipse iniuriam sibi facit,	2020-04-18	Liber_Proverbiorum
+1100000518	et qui arguit impium, sibi maculam generat.	2020-04-18	Liber_Proverbiorum
+1100000519	noli arguere derisorem, ne oderit te:	2020-04-18	Liber_Proverbiorum
+1100000520	argue sapientem, et diliget te.	2020-04-18	Liber_Proverbiorum
+1100000521	da sapienti occasionem, et addetur ei sapientia;	2020-04-18	Liber_Proverbiorum
+1100000522	doce iustum, et festinabit accipere.	2020-04-18	Liber_Proverbiorum
+1100000523	principium sapientiae timor domini,	2020-04-18	Liber_Proverbiorum
+1100000524	et scientia sanctorum prudentia.	2020-04-18	Liber_Proverbiorum
+1100000525	per me enim multiplicabuntur dies tui,	2020-04-18	Liber_Proverbiorum
+1100000526	et addentur tibi anni vitae.	2020-04-18	Liber_Proverbiorum
+1100000527	si sapiens fueris, tibimetipsi eris;	2020-04-18	Liber_Proverbiorum
+1100000528	si autem illusor, solus portabis malum.	2020-04-18	Liber_Proverbiorum
+1100000529	mulier stulta et clamosa,	2020-04-18	Liber_Proverbiorum
+1100000530	plenaque illecebris, et nihil omnino sciens,	2020-04-18	Liber_Proverbiorum
+1100000531	sedit in foribus domus suae,	2020-04-18	Liber_Proverbiorum
+1100000532	super sellam in excelso urbis loco,	2020-04-18	Liber_Proverbiorum
+1100000533	ut vocaret transeuntes per viam,	2020-04-18	Liber_Proverbiorum
+1100000534	et pergentes itinere suo:	2020-04-18	Liber_Proverbiorum
+1100000535	qui est parvulus declinet ad me.	2020-04-18	Liber_Proverbiorum
+1100000536	et vecordi locuta est:	2020-04-18	Liber_Proverbiorum
+1100000537	aquae furtivae dulciores sunt,	2020-04-18	Liber_Proverbiorum
+1100000538	et panis absconditus suavior.	2020-04-18	Liber_Proverbiorum
+1100000539	et ignoravit quod ibi sint gigantes,	2020-04-18	Liber_Proverbiorum
+1100000540	et in profundis inferni convivae eius.	2020-04-18	Liber_Proverbiorum
+1100000541	caput 10	2020-04-18	Liber_Proverbiorum
+1100000542	filius sapiens laetificat patrem,	2020-04-18	Liber_Proverbiorum
+1100000543	filius vero stultus moestitia est matris suae.	2020-04-18	Liber_Proverbiorum
+1100000544	nil proderunt thesauri impietatis,	2020-04-18	Liber_Proverbiorum
+1100000545	iustitia vero liberabit a morte.	2020-04-18	Liber_Proverbiorum
+1100000546	non affliget dominus fame animam iusti,	2020-04-18	Liber_Proverbiorum
+1100000547	et insidias impiorum subvertet.	2020-04-18	Liber_Proverbiorum
+1100000548	egestatem operata est manus remissa;	2020-04-18	Liber_Proverbiorum
+1100000549	manus autem fortium divitias parat.	2020-04-18	Liber_Proverbiorum
+1100000550	qui nititur mendaciis, hic pascit ventos;	2020-04-18	Liber_Proverbiorum
+1100000551	idem autem ipse sequitur aves volantes.	2020-04-18	Liber_Proverbiorum
+1100000552	qui congregat in messe, filius sapiens est;	2020-04-18	Liber_Proverbiorum
+1100000553	qui autem stertit aestate, filius confusionis.	2020-04-18	Liber_Proverbiorum
+1100000554	benedictio domini super caput iusti;	2020-04-18	Liber_Proverbiorum
+1100000555	os autem impiorum operit iniquitas.	2020-04-18	Liber_Proverbiorum
+1100000556	memoria iusti cum laudibus,	2020-04-18	Liber_Proverbiorum
+1100000557	et nomen impiorum putrescet.	2020-04-18	Liber_Proverbiorum
+1100000558	sapiens corde praecepta suscipit;	2020-04-18	Liber_Proverbiorum
+1100000559	stultus caeditur labiis.	2020-04-18	Liber_Proverbiorum
+1100000560	qui ambulat simpliciter ambulat confidenter;	2020-04-18	Liber_Proverbiorum
+1100000561	qui autem depravat vias suas manifestus erit.	2020-04-18	Liber_Proverbiorum
+1100000562	qui annuit oculo dabit dolorem;	2020-04-18	Liber_Proverbiorum
+1100000563	et stultus labiis verberabitur.	2020-04-18	Liber_Proverbiorum
+1100000564	vena vitae os iusti,	2020-04-18	Liber_Proverbiorum
+1100000565	et os impiorum operit iniquitatem.	2020-04-18	Liber_Proverbiorum
+1100000566	odium suscitat rixas,	2020-04-18	Liber_Proverbiorum
+1100000567	et universa delicta operit caritas.	2020-04-18	Liber_Proverbiorum
+1100000568	in labiis sapientis invenitur sapientia,	2020-04-18	Liber_Proverbiorum
+1100000569	et virga in dorso eius qui indiget corde.	2020-04-18	Liber_Proverbiorum
+1100000570	sapientes abscondunt scientiam;	2020-04-18	Liber_Proverbiorum
+1100000571	os autem stulti confusioni proximum est.	2020-04-18	Liber_Proverbiorum
+1100000572	substantia divitis, urbs fortitudinis eius;	2020-04-18	Liber_Proverbiorum
+1100000573	pavor pauperum egestas eorum.	2020-04-18	Liber_Proverbiorum
+1100000574	opus iusti ad vitam,	2020-04-18	Liber_Proverbiorum
+1100000575	fructus autem impii ad peccatum.	2020-04-18	Liber_Proverbiorum
+1100000576	via vitae custodienti disciplinam;	2020-04-18	Liber_Proverbiorum
+1100000577	qui autem increpationes relinquit, errat.	2020-04-18	Liber_Proverbiorum
+1100000578	abscondunt odium labia mendacia;	2020-04-18	Liber_Proverbiorum
+1100000579	qui profert contumeliam, insipiens est.	2020-04-18	Liber_Proverbiorum
+1100000580	in multiloquio non deerit peccatum,	2020-04-18	Liber_Proverbiorum
+1100000581	qui autem moderatur labia sua prudentissimus est.	2020-04-18	Liber_Proverbiorum
+1100000582	argentum electum lingua iusti;	2020-04-18	Liber_Proverbiorum
+1100000583	cor autem impiorum pro nihilo.	2020-04-18	Liber_Proverbiorum
+1100000584	labia iusti erudiunt plurimos;	2020-04-18	Liber_Proverbiorum
+1100000585	qui autem indocti sunt in cordis egestate morientur.	2020-04-18	Liber_Proverbiorum
+1100000586	benedictio domini divites facit,	2020-04-18	Liber_Proverbiorum
+1100000587	nec sociabitur eis afflictio.	2020-04-18	Liber_Proverbiorum
+1100000588	quasi per risum stultus operatur scelus,	2020-04-18	Liber_Proverbiorum
+1100000589	sapientia autem est viro prudentia.	2020-04-18	Liber_Proverbiorum
+1100000590	quod timet impius veniet super eum;	2020-04-18	Liber_Proverbiorum
+1100000591	desiderium suum iustus dabitur.	2020-04-18	Liber_Proverbiorum
+1100000592	quasi tempestas transiens non erit impius;	2020-04-18	Liber_Proverbiorum
+1100000593	iustus autem quasi fundamentum sempiternum.	2020-04-18	Liber_Proverbiorum
+1100000594	sicut acetum dentibus, et fumus oculis,	2020-04-18	Liber_Proverbiorum
+1100000595	sic piger his qui miserunt eum.	2020-04-18	Liber_Proverbiorum
+1100000596	timor domini apponet dies,	2020-04-18	Liber_Proverbiorum
+1100000597	et anni impiorum breviabuntur.	2020-04-18	Liber_Proverbiorum
+1100000598	exspectatio iustorum laetitia,	2020-04-18	Liber_Proverbiorum
+1100000599	spes autem impiorum peribit.	2020-04-18	Liber_Proverbiorum
+1100000600	fortitudo simplicis via domini,	2020-04-18	Liber_Proverbiorum
+1100000601	et pavor his qui operantur malum.	2020-04-18	Liber_Proverbiorum
+1100000602	iustus in aeternum non commovebitur,	2020-04-18	Liber_Proverbiorum
+1100000603	impii autem non habitabunt super terram.	2020-04-18	Liber_Proverbiorum
+1100000604	os iusti parturiet sapientiam;	2020-04-18	Liber_Proverbiorum
+1100000605	lingua pravorum peribit.	2020-04-18	Liber_Proverbiorum
+1100000606	labia iusti considerant placita,	2020-04-18	Liber_Proverbiorum
+1100000607	et os impiorum perversa.	2020-04-18	Liber_Proverbiorum
+1100000608	caput 11	2020-04-18	Liber_Proverbiorum
+1100000609	statera dolosa abominatio est apud dominum,	2020-04-18	Liber_Proverbiorum
+1100000610	et pondus aequum voluntas eius.	2020-04-18	Liber_Proverbiorum
+1100000611	ubi fuerit superbia, ibi erit et contumelia;	2020-04-18	Liber_Proverbiorum
+1100000612	ubi autem est humilitas, ibi et sapientia.	2020-04-18	Liber_Proverbiorum
+1100000613	simplicitas iustorum diriget eos,	2020-04-18	Liber_Proverbiorum
+1100000614	et supplantatio perversorum vastabit illos.	2020-04-18	Liber_Proverbiorum
+1100000615	non proderunt divitiae in die ultionis;	2020-04-18	Liber_Proverbiorum
+1100000616	iustitia autem liberabit a morte.	2020-04-18	Liber_Proverbiorum
+1100000617	iustitia simplicis diriget viam eius,	2020-04-18	Liber_Proverbiorum
+1100000618	et in impietate sua corruet impius.	2020-04-18	Liber_Proverbiorum
+1100000619	iustitia rectorum liberabit eos,	2020-04-18	Liber_Proverbiorum
+1100000620	et in insidiis suis capientur iniqui.	2020-04-18	Liber_Proverbiorum
+1100000621	mortuo homine impio, nulla erit ultra spes,	2020-04-18	Liber_Proverbiorum
+1100000622	et exspectatio sollicitorum peribit.	2020-04-18	Liber_Proverbiorum
+1100000623	iustus de angustia liberatus est,	2020-04-18	Liber_Proverbiorum
+1100000624	et tradetur impius pro eo.	2020-04-18	Liber_Proverbiorum
+1100000625	simulator ore decipit amicum suum;	2020-04-18	Liber_Proverbiorum
+1100000626	iusti autem liberabuntur scientia.	2020-04-18	Liber_Proverbiorum
+1100000627	in bonis iustorum exsultabit civitas,	2020-04-18	Liber_Proverbiorum
+1100000628	et in perditione impiorum erit laudatio.	2020-04-18	Liber_Proverbiorum
+1100000629	benedictione iustorum exaltabitur civitas,	2020-04-18	Liber_Proverbiorum
+1100000630	et ore impiorum subvertetur.	2020-04-18	Liber_Proverbiorum
+1100000631	qui despicit amicum suum indigens corde est;	2020-04-18	Liber_Proverbiorum
+1100000632	vir autem prudens tacebit.	2020-04-18	Liber_Proverbiorum
+1100000633	qui ambulat fraudulenter, revelat arcana;	2020-04-18	Liber_Proverbiorum
+1100000634	qui autem fidelis est animi, celat amici commissum.	2020-04-18	Liber_Proverbiorum
+1100000635	ubi non est gubernator, populus corruet;	2020-04-18	Liber_Proverbiorum
+1100000636	salus autem, ubi multa consilia.	2020-04-18	Liber_Proverbiorum
+1100000637	affligetur malo qui fidem facit pro extraneo;	2020-04-18	Liber_Proverbiorum
+1100000638	qui autem cavet laqueos securus erit.	2020-04-18	Liber_Proverbiorum
+1100000639	mulier gratiosa inveniet gloriam,	2020-04-18	Liber_Proverbiorum
+1100000640	et robusti habebunt divitias.	2020-04-18	Liber_Proverbiorum
+1100000641	benefacit animae suae vir misericors;	2020-04-18	Liber_Proverbiorum
+1100000642	qui autem crudelis est, etiam propinquos abiicit.	2020-04-18	Liber_Proverbiorum
+1100000643	impius facit opus instabile,	2020-04-18	Liber_Proverbiorum
+1100000644	seminanti autem iustitiam merces fidelis.	2020-04-18	Liber_Proverbiorum
+1100000645	clementia praeparat vitam,	2020-04-18	Liber_Proverbiorum
+1100000646	et sectatio malorum mortem.	2020-04-18	Liber_Proverbiorum
+1100000647	abominabile domino cor pravum,	2020-04-18	Liber_Proverbiorum
+1100000648	et voluntas eius in iis qui simpliciter ambulant.	2020-04-18	Liber_Proverbiorum
+1100000649	manus in manu non erit innocens malus;	2020-04-18	Liber_Proverbiorum
+1100000650	semen autem iustorum salvabitur.	2020-04-18	Liber_Proverbiorum
+1100000651	circulus aureus in naribus suis,	2020-04-18	Liber_Proverbiorum
+1100000652	mulier pulchra et fatua.	2020-04-18	Liber_Proverbiorum
+1100000653	desiderium iustorum omne bonum est;	2020-04-18	Liber_Proverbiorum
+1100000654	praestolatio impiorum furor.	2020-04-18	Liber_Proverbiorum
+1100000655	alii dividunt propria, et ditiores fiunt;	2020-04-18	Liber_Proverbiorum
+1100000656	alii rapiunt non sua, et semper in egestate sunt.	2020-04-18	Liber_Proverbiorum
+1100000657	anima quae benedicit impinguabitur,	2020-04-18	Liber_Proverbiorum
+1100000658	et qui inebriat, ipse quoque inebriabitur.	2020-04-18	Liber_Proverbiorum
+1100000659	qui abscondit frumenta maledicetur in populis;	2020-04-18	Liber_Proverbiorum
+1100000660	benedictio autem super caput vendentium.	2020-04-18	Liber_Proverbiorum
+1100000661	bene consurgit diluculo qui quaerit bona;	2020-04-18	Liber_Proverbiorum
+1100000662	qui autem investigator malorum est, opprimetur ab eis.	2020-04-18	Liber_Proverbiorum
+1100000663	qui confidit in divitiis suis corruet:	2020-04-18	Liber_Proverbiorum
+1100000664	iusti autem quasi virens folium germinabunt.	2020-04-18	Liber_Proverbiorum
+1100000665	qui conturbat domum suam possidebit ventos,	2020-04-18	Liber_Proverbiorum
+1100000666	et qui stultus est serviet sapienti.	2020-04-18	Liber_Proverbiorum
+1100000667	fructus iusti lignum vitae,	2020-04-18	Liber_Proverbiorum
+1100000668	et qui suscipit animas sapiens est.	2020-04-18	Liber_Proverbiorum
+1100000669	si iustus in terra recipit,	2020-04-18	Liber_Proverbiorum
+1100000670	quanto magis impius et peccator!	2020-04-18	Liber_Proverbiorum
+1100000671	caput 12	2020-04-18	Liber_Proverbiorum
+1100000672	qui diligit disciplinam diligit scientiam;	2020-04-18	Liber_Proverbiorum
+1100000673	qui autem odit increpationes insipiens est.	2020-04-18	Liber_Proverbiorum
+1100000674	qui bonus est hauriet gratiam a domino;	2020-04-18	Liber_Proverbiorum
+1100000675	qui autem confidit in cogitationibus suis impie agit.	2020-04-18	Liber_Proverbiorum
+1100000676	non roborabitur homo ex impietate,	2020-04-18	Liber_Proverbiorum
+1100000677	et radix iustorum non commovebitur.	2020-04-18	Liber_Proverbiorum
+1100000678	mulier diligens corona est viro suo;	2020-04-18	Liber_Proverbiorum
+1100000679	et putredo in ossibus eius, quae confusione res dignas gerit.	2020-04-18	Liber_Proverbiorum
+1100000680	cogitationes iustorum iudicia,	2020-04-18	Liber_Proverbiorum
+1100000681	et consilia impiorum fraudulenta.	2020-04-18	Liber_Proverbiorum
+1100000682	verba impiorum insidiantur sanguini;	2020-04-18	Liber_Proverbiorum
+1100000683	os iustorum liberabit eos.	2020-04-18	Liber_Proverbiorum
+1100000684	verte impios, et non erunt;	2020-04-18	Liber_Proverbiorum
+1100000685	domus autem iustorum permanebit.	2020-04-18	Liber_Proverbiorum
+1100000686	doctrina sua noscetur vir;	2020-04-18	Liber_Proverbiorum
+1100000687	qui autem vanus et excors est patebit contemptui.	2020-04-18	Liber_Proverbiorum
+1100000688	melior est pauper et sufficiens sibi	2020-04-18	Liber_Proverbiorum
+1100000689	quam gloriosus et indigens pane.	2020-04-18	Liber_Proverbiorum
+1100000690	novit iustus iumentorum suorum animas;	2020-04-18	Liber_Proverbiorum
+1100000691	viscera autem impiorum crudelia.	2020-04-18	Liber_Proverbiorum
+1100000692	qui operatur terram suam satiabitur panibus;	2020-04-18	Liber_Proverbiorum
+1100000693	qui autem sectatur otium stultissimus est.	2020-04-18	Liber_Proverbiorum
+1100000694	qui suavis est in vini demorationibus,	2020-04-18	Liber_Proverbiorum
+1100000695	in suis munitionibus relinquit contumeliam.	2020-04-18	Liber_Proverbiorum
+1100000696	desiderium impii munimentum est pessimorum;	2020-04-18	Liber_Proverbiorum
+1100000697	radix autem iustorum proficiet.	2020-04-18	Liber_Proverbiorum
+1100000698	propter peccata labiorum ruina proximat malo;	2020-04-18	Liber_Proverbiorum
+1100000699	effugiet autem iustus de angustia.	2020-04-18	Liber_Proverbiorum
+1100000700	de fructu oris sui unusquisque replebitur bonis,	2020-04-18	Liber_Proverbiorum
+1100000701	et iuxta opera manuum suarum retribuetur ei.	2020-04-18	Liber_Proverbiorum
+1100000702	via stulti recta in oculis eius;	2020-04-18	Liber_Proverbiorum
+1100000703	qui autem sapiens est audit consilia.	2020-04-18	Liber_Proverbiorum
+1100000704	fatuus statim indicat iram suam;	2020-04-18	Liber_Proverbiorum
+1100000705	qui autem dissimulat iniuriam callidus est.	2020-04-18	Liber_Proverbiorum
+1100000706	qui quod novit loquitur, index iustitiae est;	2020-04-18	Liber_Proverbiorum
+1100000707	qui autem mentitur, testis est fraudulentus.	2020-04-18	Liber_Proverbiorum
+1100000708	est qui promittit, et quasi gladio pungitur conscientiae:	2020-04-18	Liber_Proverbiorum
+1100000709	lingua autem sapientium sanitas est.	2020-04-18	Liber_Proverbiorum
+1100000710	labium veritatis firmum erit in perpetuum;	2020-04-18	Liber_Proverbiorum
+1100000711	qui autem testis est repentinus, concinnat linguam mendacii.	2020-04-18	Liber_Proverbiorum
+1100000712	dolus in corde cogitantium mala;	2020-04-18	Liber_Proverbiorum
+1100000713	qui autem pacis ineunt consilia, sequitur eos gaudium.	2020-04-18	Liber_Proverbiorum
+1100000714	non contristabit iustum quidquid ei acciderit:	2020-04-18	Liber_Proverbiorum
+1100000715	impii autem replebuntur malo.	2020-04-18	Liber_Proverbiorum
+1100000716	abominatio est domino labia mendacia;	2020-04-18	Liber_Proverbiorum
+1100000717	qui autem fideliter agunt placent ei.	2020-04-18	Liber_Proverbiorum
+1100000718	homo versatus celat scientiam,	2020-04-18	Liber_Proverbiorum
+1100000719	et cor insipientium provocat stultitiam.	2020-04-18	Liber_Proverbiorum
+1100000720	manus fortium dominabitur;	2020-04-18	Liber_Proverbiorum
+1100000721	quae autem remissa est, tributis serviet.	2020-04-18	Liber_Proverbiorum
+1100000722	moeror in corde viri humiliabit illum,	2020-04-18	Liber_Proverbiorum
+1100000723	et sermone bono laetificabitur.	2020-04-18	Liber_Proverbiorum
+1100000724	qui negligit damnum propter amicum, iustus est;	2020-04-18	Liber_Proverbiorum
+1100000725	iter autem impiorum decipiet eos.	2020-04-18	Liber_Proverbiorum
+1100000726	non inveniet fraudulentus lucrum,	2020-04-18	Liber_Proverbiorum
+1100000727	et substantia hominis erit auri pretium.	2020-04-18	Liber_Proverbiorum
+1100000728	in semita iustitiae vita;	2020-04-18	Liber_Proverbiorum
+1100000729	iter autem devium ducit ad mortem.	2020-04-18	Liber_Proverbiorum
+1100000730	caput 13	2020-04-18	Liber_Proverbiorum
+1100000731	filius sapiens doctrina patris;	2020-04-18	Liber_Proverbiorum
+1100000732	qui autem illusor est non audit cum arguitur.	2020-04-18	Liber_Proverbiorum
+1100000733	de fructu oris sui homo satiabitur bonis:	2020-04-18	Liber_Proverbiorum
+1100000734	anima autem praevaricatorum iniqua.	2020-04-18	Liber_Proverbiorum
+1100000735	qui custodit os suum custodit animam suam;	2020-04-18	Liber_Proverbiorum
+1100000736	qui autem inconsideratus est ad loquendum, sentiet mala.	2020-04-18	Liber_Proverbiorum
+1100000737	vult et non vult piger;	2020-04-18	Liber_Proverbiorum
+1100000738	anima autem operantium impinguabitur.	2020-04-18	Liber_Proverbiorum
+1100000739	verbum mendax iustus detestabitur;	2020-04-18	Liber_Proverbiorum
+1100000740	impius autem confundit, et confundetur.	2020-04-18	Liber_Proverbiorum
+1100000741	iustitia custodit innocentis viam,	2020-04-18	Liber_Proverbiorum
+1100000742	impietas autem peccatorem supplantat.	2020-04-18	Liber_Proverbiorum
+1100000743	est quasi dives, cum nihil habeat,	2020-04-18	Liber_Proverbiorum
+1100000744	et est quasi pauper, cum in multis divitiis sit.	2020-04-18	Liber_Proverbiorum
+1100000745	redemptio animae viri divitiae suae;	2020-04-18	Liber_Proverbiorum
+1100000746	qui autem pauper est, increpationem non sustinet.	2020-04-18	Liber_Proverbiorum
+1100000747	lux iustorum laetificat:	2020-04-18	Liber_Proverbiorum
+1100000748	lucerna autem impiorum extinguetur.	2020-04-18	Liber_Proverbiorum
+1100000749	inter superbos semper iurgia sunt;	2020-04-18	Liber_Proverbiorum
+1100000750	qui autem agunt omnia cum consilio, reguntur sapientia.	2020-04-18	Liber_Proverbiorum
+1100000751	substantia festinata minuetur;	2020-04-18	Liber_Proverbiorum
+1100000752	quae autem paulatim colligitur manu, multiplicabitur.	2020-04-18	Liber_Proverbiorum
+1100000753	spes quae differtur affligit animam;	2020-04-18	Liber_Proverbiorum
+1100000754	lignum vitae desiderium veniens.	2020-04-18	Liber_Proverbiorum
+1100000755	qui detrahit alicui rei, ipse se in futurum obligat;	2020-04-18	Liber_Proverbiorum
+1100000756	qui autem timet praeceptum, in pace versabitur.	2020-04-18	Liber_Proverbiorum
+1100000757	animae dolosae errant in peccatis:	2020-04-18	Liber_Proverbiorum
+1100000758	iusti autem misericordes sunt, et miserantur.	2020-04-18	Liber_Proverbiorum
+1100000759	lex sapientis fons vitae,	2020-04-18	Liber_Proverbiorum
+1100000760	ut declinet a ruina mortis.	2020-04-18	Liber_Proverbiorum
+1100000761	doctrina bona dabit gratiam;	2020-04-18	Liber_Proverbiorum
+1100000762	in itinere contemptorum vorago.	2020-04-18	Liber_Proverbiorum
+1100000763	astutus omnia agit cum consilio;	2020-04-18	Liber_Proverbiorum
+1100000764	qui autem fatuus est aperit stultitiam.	2020-04-18	Liber_Proverbiorum
+1100000765	nuntius impii cadet in malum;	2020-04-18	Liber_Proverbiorum
+1100000766	legatus autem fidelis, sanitas.	2020-04-18	Liber_Proverbiorum
+1100000767	egestas et ignominia ei qui deserit disciplinam;	2020-04-18	Liber_Proverbiorum
+1100000768	qui autem acquiescit arguenti glorificabitur.	2020-04-18	Liber_Proverbiorum
+1100000769	desiderium si compleatur delectat animam;	2020-04-18	Liber_Proverbiorum
+1100000770	detestantur stulti eos qui fugiunt mala.	2020-04-18	Liber_Proverbiorum
+1100000771	qui cum sapientibus graditur sapiens erit;	2020-04-18	Liber_Proverbiorum
+1100000772	amicus stultorum similis efficietur.	2020-04-18	Liber_Proverbiorum
+1100000773	peccatores persequitur malum,	2020-04-18	Liber_Proverbiorum
+1100000774	et iustis retribuentur bona.	2020-04-18	Liber_Proverbiorum
+1100000775	bonus reliquit haeredes filios et nepotes,	2020-04-18	Liber_Proverbiorum
+1100000776	et custoditur iusto substantia peccatoris.	2020-04-18	Liber_Proverbiorum
+1100000777	multi cibi in novalibus patrum,	2020-04-18	Liber_Proverbiorum
+1100000778	et aliis congregantur absque iudicio.	2020-04-18	Liber_Proverbiorum
+1100000779	qui parcit virgae odit filium suum;	2020-04-18	Liber_Proverbiorum
+1100000780	qui autem diligit illum instanter erudit.	2020-04-18	Liber_Proverbiorum
+1100000781	iustus comedit et replet animam suam;	2020-04-18	Liber_Proverbiorum
+1100000782	venter autem impiorum insaturabilis.	2020-04-18	Liber_Proverbiorum
+1100000783	caput 14	2020-04-18	Liber_Proverbiorum
+1100000784	sapiens mulier aedificat domum suam;	2020-04-18	Liber_Proverbiorum
+1100000785	insipiens exstructam quoque manibus destruet.	2020-04-18	Liber_Proverbiorum
+1100000786	ambulans recto itinere, et timens deum,	2020-04-18	Liber_Proverbiorum
+1100000787	despicitur ab eo qui infami graditur via.	2020-04-18	Liber_Proverbiorum
+1100000788	in ore stulti virga superbiae;	2020-04-18	Liber_Proverbiorum
+1100000789	labia autem sapientium custodiunt eos.	2020-04-18	Liber_Proverbiorum
+1100000790	ubi non sunt boves, praesepe vacuum est;	2020-04-18	Liber_Proverbiorum
+1100000791	ubi autem plurimae segetes, ibi manifesta est fortitudo bovis.	2020-04-18	Liber_Proverbiorum
+1100000792	testis fidelis non mentitur;	2020-04-18	Liber_Proverbiorum
+1100000793	profert autem mendacium dolosus testis.	2020-04-18	Liber_Proverbiorum
+1100000794	quaerit derisor sapientiam, et non invenit;	2020-04-18	Liber_Proverbiorum
+1100000795	doctrina prudentium facilis.	2020-04-18	Liber_Proverbiorum
+1100000796	vade contra virum stultum,	2020-04-18	Liber_Proverbiorum
+1100000797	et nescit labia prudentiae.	2020-04-18	Liber_Proverbiorum
+1100000798	sapientia callidi est intelligere viam suam,	2020-04-18	Liber_Proverbiorum
+1100000799	et imprudentia stultorum errans.	2020-04-18	Liber_Proverbiorum
+1100000800	stultus illudet peccatum,	2020-04-18	Liber_Proverbiorum
+1100000801	et inter iustos morabitur gratia.	2020-04-18	Liber_Proverbiorum
+1100000802	cor quod novit amaritudinem animae suae,	2020-04-18	Liber_Proverbiorum
+1100000803	in gaudio eius non miscebitur extraneus.	2020-04-18	Liber_Proverbiorum
+1100000804	domus impiorum delebitur:	2020-04-18	Liber_Proverbiorum
+1100000805	tabernacula vero iustorum germinabunt.	2020-04-18	Liber_Proverbiorum
+1100000806	est via quae videtur homini iusta,	2020-04-18	Liber_Proverbiorum
+1100000807	novissima autem eius deducunt ad mortem.	2020-04-18	Liber_Proverbiorum
+1100000808	risus dolore miscebitur,	2020-04-18	Liber_Proverbiorum
+1100000809	et extrema gaudii luctus occupat.	2020-04-18	Liber_Proverbiorum
+1100000810	viis suis replebitur stultus,	2020-04-18	Liber_Proverbiorum
+1100000811	et super eum erit vir bonus.	2020-04-18	Liber_Proverbiorum
+1100000812	innocens credit omni verbo;	2020-04-18	Liber_Proverbiorum
+1100000813	astutus considerat gressus suos.	2020-04-18	Liber_Proverbiorum
+1100000814	filio doloso nihil erit boni;	2020-04-18	Liber_Proverbiorum
+1100000815	servo autem sapienti prosperi erunt actus,	2020-04-18	Liber_Proverbiorum
+1100000816	et dirigetur via eius.	2020-04-18	Liber_Proverbiorum
+1100000817	sapiens timet, et declinat a malo;	2020-04-18	Liber_Proverbiorum
+1100000818	stultus transilit, et confidit.	2020-04-18	Liber_Proverbiorum
+1100000819	impatiens operabitur stultitiam,	2020-04-18	Liber_Proverbiorum
+1100000820	et vir versutus odiosus est.	2020-04-18	Liber_Proverbiorum
+1100000821	possidebunt parvuli stultitiam,	2020-04-18	Liber_Proverbiorum
+1100000822	et exspectabunt astuti scientiam.	2020-04-18	Liber_Proverbiorum
+1100000823	iacebunt mali ante bonos,	2020-04-18	Liber_Proverbiorum
+1100000824	et impii ante portas iustorum.	2020-04-18	Liber_Proverbiorum
+1100000825	etiam proximo suo pauper odiosus erit:	2020-04-18	Liber_Proverbiorum
+1100000826	amici vero divitum multi.	2020-04-18	Liber_Proverbiorum
+1100000827	qui despicit proximum suum peccat;	2020-04-18	Liber_Proverbiorum
+1100000828	qui autem miseretur pauperis beatus erit.	2020-04-18	Liber_Proverbiorum
+1100000829	qui credit in domino misericordiam diligit.	2020-04-18	Liber_Proverbiorum
+1100000830	errant qui operantur malum;	2020-04-18	Liber_Proverbiorum
+1100000831	misericordia et veritas praeparant bona.	2020-04-18	Liber_Proverbiorum
+1100000832	in omni opere erit abundantia;	2020-04-18	Liber_Proverbiorum
+1100000833	ubi autem verba sunt plurima, ibi frequenter egestas.	2020-04-18	Liber_Proverbiorum
+1100000834	corona sapientium divitiae eorum;	2020-04-18	Liber_Proverbiorum
+1100000835	fatuitas stultorum imprudentia.	2020-04-18	Liber_Proverbiorum
+1100000836	liberat animas testis fidelis,	2020-04-18	Liber_Proverbiorum
+1100000837	et profert mendacia versipellis.	2020-04-18	Liber_Proverbiorum
+1100000838	in timore domini fiducia fortitudinis,	2020-04-18	Liber_Proverbiorum
+1100000839	et filiis eius erit spes.	2020-04-18	Liber_Proverbiorum
+1100000840	timor domini fons vitae,	2020-04-18	Liber_Proverbiorum
+1100000841	ut declinent a ruina mortis.	2020-04-18	Liber_Proverbiorum
+1100000842	in multitudine populi dignitas regis,	2020-04-18	Liber_Proverbiorum
+1100000843	et in paucitate plebis ignominia principis.	2020-04-18	Liber_Proverbiorum
+1100000844	qui patiens est multa gubernatur prudentia;	2020-04-18	Liber_Proverbiorum
+1100000845	qui autem impatiens est exaltat stultitiam suam.	2020-04-18	Liber_Proverbiorum
+1100000846	vita carnium sanitas cordis;	2020-04-18	Liber_Proverbiorum
+1100000847	putredo ossium invidia.	2020-04-18	Liber_Proverbiorum
+1100000848	qui calumniatur egentem exprobrat factori eius;	2020-04-18	Liber_Proverbiorum
+1100000849	honorat autem eum qui miseretur pauperis.	2020-04-18	Liber_Proverbiorum
+1100000850	in malitia sua expelletur impius:	2020-04-18	Liber_Proverbiorum
+1100000851	sperat autem iustus in morte sua.	2020-04-18	Liber_Proverbiorum
+1100000852	in corde prudentis requiescit sapientia,	2020-04-18	Liber_Proverbiorum
+1100000853	et indoctos quosque erudiet.	2020-04-18	Liber_Proverbiorum
+1100000854	iustitia elevat gentem;	2020-04-18	Liber_Proverbiorum
+1100000855	miseros autem facit populos peccatum.	2020-04-18	Liber_Proverbiorum
+1100000856	acceptus est regi minister intelligens;	2020-04-18	Liber_Proverbiorum
+1100000857	iracundiam eius inutilis sustinebit.	2020-04-18	Liber_Proverbiorum
+1100000858	caput 15	2020-04-18	Liber_Proverbiorum
+1100000859	responsio mollis frangit iram;	2020-04-18	Liber_Proverbiorum
+1100000860	sermo durus suscitat furorem.	2020-04-18	Liber_Proverbiorum
+1100000861	lingua sapientium ornat scientiam;	2020-04-18	Liber_Proverbiorum
+1100000862	os fatuorum ebullit stultitiam.	2020-04-18	Liber_Proverbiorum
+1100000863	in omni loco, oculi domini	2020-04-18	Liber_Proverbiorum
+1100000864	contemplantur bonos et malos.	2020-04-18	Liber_Proverbiorum
+1100000865	lingua placabilis lignum vitae;	2020-04-18	Liber_Proverbiorum
+1100000866	quae autem immoderata est conteret spiritum.	2020-04-18	Liber_Proverbiorum
+1100000867	stultus irridet disciplinam patris sui;	2020-04-18	Liber_Proverbiorum
+1100000868	qui autem custodit increpationes astutior fiet.	2020-04-18	Liber_Proverbiorum
+1100000869	in abundanti iustitia virtus maxima est:	2020-04-18	Liber_Proverbiorum
+1100000870	cogitationes autem impiorum eradicabuntur.	2020-04-18	Liber_Proverbiorum
+1100000871	domus iusti plurima fortitudo,	2020-04-18	Liber_Proverbiorum
+1100000872	et in fructibus impii conturbatio.	2020-04-18	Liber_Proverbiorum
+1100000873	labia sapientium disseminabunt scientiam;	2020-04-18	Liber_Proverbiorum
+1100000874	cor stultorum dissimile erit.	2020-04-18	Liber_Proverbiorum
+1100000875	victimae impiorum abominabiles domino;	2020-04-18	Liber_Proverbiorum
+1100000876	vota iustorum placabilia.	2020-04-18	Liber_Proverbiorum
+1100000877	abominatio est domino via impii;	2020-04-18	Liber_Proverbiorum
+1100000878	qui sequitur iustitiam diligitur ab eo.	2020-04-18	Liber_Proverbiorum
+1100000879	doctrina mala deserenti viam vitae;	2020-04-18	Liber_Proverbiorum
+1100000880	qui increpationes odit, morietur.	2020-04-18	Liber_Proverbiorum
+1100000881	infernus et perditio coram domino;	2020-04-18	Liber_Proverbiorum
+1100000882	quanto magis corda filiorum hominum!	2020-04-18	Liber_Proverbiorum
+1100000883	non amat pestilens eum qui se corripit,	2020-04-18	Liber_Proverbiorum
+1100000884	nec ad sapientes graditur.	2020-04-18	Liber_Proverbiorum
+1100000885	cor gaudens exhilarat faciem;	2020-04-18	Liber_Proverbiorum
+1100000886	in moerore animi deiicitur spiritus.	2020-04-18	Liber_Proverbiorum
+1100000887	cor sapientis quaerit doctrinam,	2020-04-18	Liber_Proverbiorum
+1100000888	et os stultorum pascitur imperitia.	2020-04-18	Liber_Proverbiorum
+1100000889	omnes dies pauperis, mali;	2020-04-18	Liber_Proverbiorum
+1100000890	secura mens quasi iuge convivium.	2020-04-18	Liber_Proverbiorum
+1100000891	melius est parum cum timore domini,	2020-04-18	Liber_Proverbiorum
+1100000892	quam thesauri magni et insatiabiles.	2020-04-18	Liber_Proverbiorum
+1100000893	melius est vocari ad olera cum caritate,	2020-04-18	Liber_Proverbiorum
+1100000894	quam ad vitulum saginatum cum odio.	2020-04-18	Liber_Proverbiorum
+1100000895	vir iracundus provocat rixas;	2020-04-18	Liber_Proverbiorum
+1100000896	qui patiens est mitigat suscitatas.	2020-04-18	Liber_Proverbiorum
+1100000897	iter pigrorum quasi sepes spinarum;	2020-04-18	Liber_Proverbiorum
+1100000898	via iustorum absque offendiculo.	2020-04-18	Liber_Proverbiorum
+1100000899	filius sapiens laetificat patrem,	2020-04-18	Liber_Proverbiorum
+1100000900	et stultus homo despicit matrem suam.	2020-04-18	Liber_Proverbiorum
+1100000901	stultitia gaudium stulto,	2020-04-18	Liber_Proverbiorum
+1100000902	et vir prudens dirigit gressus suos.	2020-04-18	Liber_Proverbiorum
+1100000903	dissipantur cogitationes ubi non est consilium;	2020-04-18	Liber_Proverbiorum
+1100000904	ubi vero sunt plures consiliarii, confirmantur.	2020-04-18	Liber_Proverbiorum
+1100000905	laetatur homo in sententia oris sui,	2020-04-18	Liber_Proverbiorum
+1100000906	et sermo opportunus est optimus.	2020-04-18	Liber_Proverbiorum
+1100000907	semita vitae super eruditum,	2020-04-18	Liber_Proverbiorum
+1100000908	ut declinet de inferno novissimo.	2020-04-18	Liber_Proverbiorum
+1100000909	domum superborum demolietur dominus,	2020-04-18	Liber_Proverbiorum
+1100000910	et firmos faciet terminos viduae.	2020-04-18	Liber_Proverbiorum
+1100000911	abominatio domini cogitationes malae,	2020-04-18	Liber_Proverbiorum
+1100000912	et purus sermo pulcherrimus firmabitur ab eo.	2020-04-18	Liber_Proverbiorum
+1100000913	conturbat domum suam qui sectatur avaritiam;	2020-04-18	Liber_Proverbiorum
+1100000914	qui autem odit munera, vivet.	2020-04-18	Liber_Proverbiorum
+1100000915	per misericordiam et fidem purgantur peccata:	2020-04-18	Liber_Proverbiorum
+1100000916	per timorem autem domini declinat omnis a malo.	2020-04-18	Liber_Proverbiorum
+1100000917	mens iusti meditatur obedientiam;	2020-04-18	Liber_Proverbiorum
+1100000918	os impiorum redundat malis.	2020-04-18	Liber_Proverbiorum
+1100000919	longe est dominus ab impiis,	2020-04-18	Liber_Proverbiorum
+1100000920	et orationes iustorum exaudiet.	2020-04-18	Liber_Proverbiorum
+1100000921	lux oculorum laetificat animam;	2020-04-18	Liber_Proverbiorum
+1100000922	fama bona impinguat ossa.	2020-04-18	Liber_Proverbiorum
+1100000923	auris quae audit increpationes vitae	2020-04-18	Liber_Proverbiorum
+1100000924	in medio sapientium commorabitur.	2020-04-18	Liber_Proverbiorum
+1100000925	qui abiicit disciplinam despicit animam suam;	2020-04-18	Liber_Proverbiorum
+1100000926	qui autem acquiescit increpationibus possessor est cordis.	2020-04-18	Liber_Proverbiorum
+1100000927	timor domini disciplina sapientiae,	2020-04-18	Liber_Proverbiorum
+1100000928	et gloriam praecedit humilitas.	2020-04-18	Liber_Proverbiorum
+1100000929	caput 16	2020-04-18	Liber_Proverbiorum
+1100000930	hominis est animam praeparare,	2020-04-18	Liber_Proverbiorum
+1100000931	et domini gubernare linguam.	2020-04-18	Liber_Proverbiorum
+1100000932	omnes viae hominis patent oculis eius;	2020-04-18	Liber_Proverbiorum
+1100000933	spirituum ponderator est dominus.	2020-04-18	Liber_Proverbiorum
+1100000934	revela domino opera tua,	2020-04-18	Liber_Proverbiorum
+1100000935	et dirigentur cogitationes tuae.	2020-04-18	Liber_Proverbiorum
+1100000936	universa propter semetipsum operatus est dominus;	2020-04-18	Liber_Proverbiorum
+1100000937	impium quoque ad diem malum.	2020-04-18	Liber_Proverbiorum
+1100000938	abominatio domini est omnis arrogans;	2020-04-18	Liber_Proverbiorum
+1100000939	etiamsi manus ad manum fuerit, non est innocens.	2020-04-18	Liber_Proverbiorum
+1100000940	initium viae bonae facere iustitiam;	2020-04-18	Liber_Proverbiorum
+1100000941	accepta est autem apud deum magis quam immolare hostias.	2020-04-18	Liber_Proverbiorum
+1100000942	misericordia et veritate redimitur iniquitas,	2020-04-18	Liber_Proverbiorum
+1100000943	et in timore domini declinatur a malo.	2020-04-18	Liber_Proverbiorum
+1100000944	cum placuerint domino viae hominis,	2020-04-18	Liber_Proverbiorum
+1100000945	inimicos quoque eius convertet ad pacem.	2020-04-18	Liber_Proverbiorum
+1100000946	melius est parum cum iustitia	2020-04-18	Liber_Proverbiorum
+1100000947	quam multi fructus cum iniquitate.	2020-04-18	Liber_Proverbiorum
+1100000948	cor hominis disponit viam suam,	2020-04-18	Liber_Proverbiorum
+1100000949	sed domini est dirigere gressus eius.	2020-04-18	Liber_Proverbiorum
+1100000950	divinatio in labiis regis;	2020-04-18	Liber_Proverbiorum
+1100000951	in iudicio non errabit os eius.	2020-04-18	Liber_Proverbiorum
+1100000952	pondus et statera iudicia domini sunt,	2020-04-18	Liber_Proverbiorum
+1100000953	et opera eius omnes lapides sacculi.	2020-04-18	Liber_Proverbiorum
+1100000954	abominabiles regi qui agunt impie,	2020-04-18	Liber_Proverbiorum
+1100000955	quoniam iustitia firmatur solium.	2020-04-18	Liber_Proverbiorum
+1100000956	voluntas regum labia iusta;	2020-04-18	Liber_Proverbiorum
+1100000957	qui recta loquitur diligetur.	2020-04-18	Liber_Proverbiorum
+1100000958	indignatio regis nuntii mortis,	2020-04-18	Liber_Proverbiorum
+1100000959	et vir sapiens placabit eam.	2020-04-18	Liber_Proverbiorum
+1100000960	in hilaritate vultus regis vita,	2020-04-18	Liber_Proverbiorum
+1100000961	et clementia eius quasi imber serotinus.	2020-04-18	Liber_Proverbiorum
+1100000962	posside sapientiam, quia auro melior est,	2020-04-18	Liber_Proverbiorum
+1100000963	et acquire prudentiam, quia pretiosior est argento.	2020-04-18	Liber_Proverbiorum
+1100000964	semita iustorum declinat mala;	2020-04-18	Liber_Proverbiorum
+1100000965	custos animae suae servat viam suam.	2020-04-18	Liber_Proverbiorum
+1100000966	contritionem praecedit superbia,	2020-04-18	Liber_Proverbiorum
+1100000967	et ante ruinam exaltatur spiritus.	2020-04-18	Liber_Proverbiorum
+1100000968	melius est humiliari cum mitibus	2020-04-18	Liber_Proverbiorum
+1100000969	quam dividere spolia cum superbis.	2020-04-18	Liber_Proverbiorum
+1100000970	eruditus in verbo reperiet bona,	2020-04-18	Liber_Proverbiorum
+1100000971	et qui sperat in domino beatus est.	2020-04-18	Liber_Proverbiorum
+1100000972	qui sapiens est corde appellabitur prudens,	2020-04-18	Liber_Proverbiorum
+1100000973	et qui dulcis eloquio maiora percipiet.	2020-04-18	Liber_Proverbiorum
+1100000974	fons vitae eruditio possidentis;	2020-04-18	Liber_Proverbiorum
+1100000975	doctrina stultorum fatuitas.	2020-04-18	Liber_Proverbiorum
+1100000976	cor sapientis erudiet os eius,	2020-04-18	Liber_Proverbiorum
+1100000977	et labiis eius addet gratiam.	2020-04-18	Liber_Proverbiorum
+1100000978	favus mellis composita verba;	2020-04-18	Liber_Proverbiorum
+1100000979	dulcedo animae sanitas ossium.	2020-04-18	Liber_Proverbiorum
+1100000980	est via quae videtur homini recta,	2020-04-18	Liber_Proverbiorum
+1100000981	et novissima eius ducunt ad mortem.	2020-04-18	Liber_Proverbiorum
+1100000982	anima laborantis laborat sibi,	2020-04-18	Liber_Proverbiorum
+1100000983	quia compulit eum os suum.	2020-04-18	Liber_Proverbiorum
+1100000984	vir impius fodit malum,	2020-04-18	Liber_Proverbiorum
+1100000985	et in labiis eius ignis ardescit.	2020-04-18	Liber_Proverbiorum
+1100000986	homo perversus suscitat lites,	2020-04-18	Liber_Proverbiorum
+1100000987	et verbosus separat principes.	2020-04-18	Liber_Proverbiorum
+1100000988	vir iniquus lactat amicum suum,	2020-04-18	Liber_Proverbiorum
+1100000989	et ducit eum per viam non bonam.	2020-04-18	Liber_Proverbiorum
+1100000990	qui attonitis oculis cogitat prava,	2020-04-18	Liber_Proverbiorum
+1100000991	mordens labia sua perficit malum.	2020-04-18	Liber_Proverbiorum
+1100000992	corona dignitatis senectus,	2020-04-18	Liber_Proverbiorum
+1100000993	quae in viis iustitiae reperietur.	2020-04-18	Liber_Proverbiorum
+1100000994	melior est patiens viro forti,	2020-04-18	Liber_Proverbiorum
+1100000995	et qui dominatur animo suo expugnatore urbium.	2020-04-18	Liber_Proverbiorum
+1100000996	sortes mittuntur in sinum,	2020-04-18	Liber_Proverbiorum
+1100000997	sed a domino temperantur.	2020-04-18	Liber_Proverbiorum
+1100000998	caput 17	2020-04-18	Liber_Proverbiorum
+1100000999	melior est buccella sicca cum gaudio	2020-04-18	Liber_Proverbiorum
+1100001000	quam domus plena victimis cum iurgio.	2020-04-18	Liber_Proverbiorum
+1100001001	servus sapiens dominabitur filiis stultis,	2020-04-18	Liber_Proverbiorum
+1100001002	et inter fratres haereditatem dividet.	2020-04-18	Liber_Proverbiorum
+1100001003	sicut igne probatur argentum et aurum camino,	2020-04-18	Liber_Proverbiorum
+1100001004	ita corda probat dominus.	2020-04-18	Liber_Proverbiorum
+1100001005	malus obedit linguae iniquae,	2020-04-18	Liber_Proverbiorum
+1100001006	et fallax obtemperat labiis mendacibus.	2020-04-18	Liber_Proverbiorum
+1100001007	qui despicit pauperem exprobrat factori eius,	2020-04-18	Liber_Proverbiorum
+1100001008	et qui ruina laetatur alterius non erit impunitus.	2020-04-18	Liber_Proverbiorum
+1100001009	corona senum filii filiorum,	2020-04-18	Liber_Proverbiorum
+1100001010	et gloria filiorum patres eorum.	2020-04-18	Liber_Proverbiorum
+1100001011	non decent stultum verba composita,	2020-04-18	Liber_Proverbiorum
+1100001012	nec principem labium mentiens.	2020-04-18	Liber_Proverbiorum
+1100001013	gemma gratissima exspectatio praestolantis;	2020-04-18	Liber_Proverbiorum
+1100001014	quocumque se vertit, prudenter intelligit.	2020-04-18	Liber_Proverbiorum
+1100001015	qui celat delictum quaerit amicitias;	2020-04-18	Liber_Proverbiorum
+1100001016	qui altero sermone repetit, separat foederatos.	2020-04-18	Liber_Proverbiorum
+1100001017	plus proficit correptio apud prudentem,	2020-04-18	Liber_Proverbiorum
+1100001018	quam centum plagae apud stultum.	2020-04-18	Liber_Proverbiorum
+1100001019	semper iurgia quaerit malus:	2020-04-18	Liber_Proverbiorum
+1100001020	angelus autem crudelis mittetur contra eum.	2020-04-18	Liber_Proverbiorum
+1100001021	expedit magis ursae occurrere raptis foetibus,	2020-04-18	Liber_Proverbiorum
+1100001022	quam fatuo confidenti in stultitia sua.	2020-04-18	Liber_Proverbiorum
+1100001023	qui reddit mala pro bonis,	2020-04-18	Liber_Proverbiorum
+1100001024	non recedet malum de domo eius.	2020-04-18	Liber_Proverbiorum
+1100001025	qui dimittit aquam caput est iurgiorum,	2020-04-18	Liber_Proverbiorum
+1100001026	et antequam patiatur contumeliam iudicium deserit.	2020-04-18	Liber_Proverbiorum
+1100001027	qui iustificat impium, et qui condemnat iustum,	2020-04-18	Liber_Proverbiorum
+1100001028	abominabilis est uterque apud deum.	2020-04-18	Liber_Proverbiorum
+1100001029	quid prodest stulto habere divitias,	2020-04-18	Liber_Proverbiorum
+1100001030	cum sapientiam emere non possit?	2020-04-18	Liber_Proverbiorum
+1100001031	qui altum facit domum suam quaerit ruinam,	2020-04-18	Liber_Proverbiorum
+1100001032	et qui evitat discere incidet in mala.	2020-04-18	Liber_Proverbiorum
+1100001033	omni tempore diligit qui amicus est,	2020-04-18	Liber_Proverbiorum
+1100001034	et frater in angustiis comprobatur.	2020-04-18	Liber_Proverbiorum
+1100001035	stultus homo plaudet manibus,	2020-04-18	Liber_Proverbiorum
+1100001036	cum spoponderit pro amico suo.	2020-04-18	Liber_Proverbiorum
+1100001037	qui meditatur discordias diligit rixas,	2020-04-18	Liber_Proverbiorum
+1100001038	et qui exaltat ostium quaerit ruinam.	2020-04-18	Liber_Proverbiorum
+1100001039	qui perversi cordis est non inveniet bonum,	2020-04-18	Liber_Proverbiorum
+1100001040	et qui vertit linguam incidet in malum.	2020-04-18	Liber_Proverbiorum
+1100001041	natus est stultus in ignominiam suam;	2020-04-18	Liber_Proverbiorum
+1100001042	sed nec pater in fatuo laetabitur.	2020-04-18	Liber_Proverbiorum
+1100001043	animus gaudens aetatem floridam facit;	2020-04-18	Liber_Proverbiorum
+1100001044	spiritus tristis exsiccat ossa.	2020-04-18	Liber_Proverbiorum
+1100001045	munera de sinu impius accipit,	2020-04-18	Liber_Proverbiorum
+1100001046	ut pervertat semitas iudicii.	2020-04-18	Liber_Proverbiorum
+1100001047	in facie prudentis lucet sapientia;	2020-04-18	Liber_Proverbiorum
+1100001048	oculi stultorum in finibus terrae.	2020-04-18	Liber_Proverbiorum
+1100001049	ira patris filius stultus,	2020-04-18	Liber_Proverbiorum
+1100001050	et dolor matris quae genuit eum.	2020-04-18	Liber_Proverbiorum
+1100001051	non est bonum damnum inferre iusto,	2020-04-18	Liber_Proverbiorum
+1100001052	nec percutere principem qui recta iudicat.	2020-04-18	Liber_Proverbiorum
+1100001053	qui moderatur sermones suos doctus et prudens est,	2020-04-18	Liber_Proverbiorum
+1100001054	et pretiosi spiritus vir eruditus.	2020-04-18	Liber_Proverbiorum
+1100001055	stultus quoque, si tacuerit, sapiens reputabitur,	2020-04-18	Liber_Proverbiorum
+1100001056	et si compresserit labia sua, intelligens.	2020-04-18	Liber_Proverbiorum
+1100001057	caput 18	2020-04-18	Liber_Proverbiorum
+1100001058	occasiones quaerit qui vult recedere ab amico:	2020-04-18	Liber_Proverbiorum
+1100001059	omni tempore erit exprobrabilis.	2020-04-18	Liber_Proverbiorum
+1100001060	non recipit stultus verba prudentiae,	2020-04-18	Liber_Proverbiorum
+1100001061	nisi ea dixeris quae versantur in corde eius.	2020-04-18	Liber_Proverbiorum
+1100001062	impius, cum in profundum venerit peccatorum, contemnit;	2020-04-18	Liber_Proverbiorum
+1100001063	sed sequitur eum ignominia et opprobrium.	2020-04-18	Liber_Proverbiorum
+1100001064	aqua profunda verba ex ore viri,	2020-04-18	Liber_Proverbiorum
+1100001065	et torrens redundans fons sapientiae.	2020-04-18	Liber_Proverbiorum
+1100001066	accipere personam impii non est bonum,	2020-04-18	Liber_Proverbiorum
+1100001067	ut declines a veritate iudicii.	2020-04-18	Liber_Proverbiorum
+1100001068	labia stulti miscent se rixis,	2020-04-18	Liber_Proverbiorum
+1100001069	et os eius iurgia provocat.	2020-04-18	Liber_Proverbiorum
+1100001070	os stulti contritio eius,	2020-04-18	Liber_Proverbiorum
+1100001071	et labia ipsius ruina animae eius.	2020-04-18	Liber_Proverbiorum
+1100001072	verba bilinguis quasi simplicia,	2020-04-18	Liber_Proverbiorum
+1100001073	et ipsa perveniunt usque ad interiora ventris.	2020-04-18	Liber_Proverbiorum
+1100001074	pigrum deiicit timor;	2020-04-18	Liber_Proverbiorum
+1100001075	animae autem effeminatorum esurient.	2020-04-18	Liber_Proverbiorum
+1100001076	qui mollis et dissolutus est in opere suo	2020-04-18	Liber_Proverbiorum
+1100001077	frater est sua opera dissipantis.	2020-04-18	Liber_Proverbiorum
+1100001078	turris fortissima nomen domini;	2020-04-18	Liber_Proverbiorum
+1100001079	ad ipsum currit iustus, et exaltabitur.	2020-04-18	Liber_Proverbiorum
+1100001080	substantia divitis urbs roboris eius,	2020-04-18	Liber_Proverbiorum
+1100001081	et quasi murus validus circumdans eum.	2020-04-18	Liber_Proverbiorum
+1100001082	antequam conteratur, exaltatur cor hominis,	2020-04-18	Liber_Proverbiorum
+1100001083	et antequam glorificetur, humiliatur.	2020-04-18	Liber_Proverbiorum
+1100001084	qui prius respondet quam audiat,	2020-04-18	Liber_Proverbiorum
+1100001085	stultum se esse demonstrat, et confusione dignum.	2020-04-18	Liber_Proverbiorum
+1100001086	spiritus viri sustentat imbecillitatem suam;	2020-04-18	Liber_Proverbiorum
+1100001087	spiritum vero ad irascendum facilem quis poterit sustinere?	2020-04-18	Liber_Proverbiorum
+1100001088	cor prudens possidebit scientiam,	2020-04-18	Liber_Proverbiorum
+1100001089	et auris sapientium quaerit doctrinam.	2020-04-18	Liber_Proverbiorum
+1100001090	donum hominis dilatat viam eius,	2020-04-18	Liber_Proverbiorum
+1100001091	et ante principes spatium ei facit.	2020-04-18	Liber_Proverbiorum
+1100001092	iustus prior est accusator sui:	2020-04-18	Liber_Proverbiorum
+1100001093	venit amicus eius, et investigabit eum.	2020-04-18	Liber_Proverbiorum
+1100001094	contradictiones comprimit sors,	2020-04-18	Liber_Proverbiorum
+1100001095	et inter potentes quoque diiudicat.	2020-04-18	Liber_Proverbiorum
+1100001096	frater qui adiuvatur a fratre quasi civitas firma,	2020-04-18	Liber_Proverbiorum
+1100001097	et iudicia quasi vectes urbium.	2020-04-18	Liber_Proverbiorum
+1100001098	de fructu oris viri replebitur venter eius,	2020-04-18	Liber_Proverbiorum
+1100001099	et genimina labiorum ipsius saturabunt eum.	2020-04-18	Liber_Proverbiorum
+1100001100	mors et vita in manu linguae;	2020-04-18	Liber_Proverbiorum
+1100001101	qui diligunt eam comedent fructus eius.	2020-04-18	Liber_Proverbiorum
+1100001102	qui invenit mulierem bonam invenit bonum,	2020-04-18	Liber_Proverbiorum
+1100001103	et hauriet iucunditatem a domino.	2020-04-18	Liber_Proverbiorum
+1100001104	qui expellit mulierem bonam expellit bonum;	2020-04-18	Liber_Proverbiorum
+1100001105	qui autem tenet adulteram stultus est et impius.	2020-04-18	Liber_Proverbiorum
+1100001106	cum obsecrationibus loquetur pauper,	2020-04-18	Liber_Proverbiorum
+1100001107	et dives effabitur rigide.	2020-04-18	Liber_Proverbiorum
+1100001108	vir amabilis ad societatem	2020-04-18	Liber_Proverbiorum
+1100001109	magis amicus erit quam frater.	2020-04-18	Liber_Proverbiorum
+1100001110	caput 19	2020-04-18	Liber_Proverbiorum
+1100001111	melior est pauper qui ambulat in simplicitate sua	2020-04-18	Liber_Proverbiorum
+1100001112	quam dives torquens labia sua, et insipiens.	2020-04-18	Liber_Proverbiorum
+1100001113	ubi non est scientia animae, non est bonum,	2020-04-18	Liber_Proverbiorum
+1100001114	et qui festinus est pedibus offendet.	2020-04-18	Liber_Proverbiorum
+1100001115	stultitia hominis supplantat gressus eius,	2020-04-18	Liber_Proverbiorum
+1100001116	et contra deum fervet animo suo.	2020-04-18	Liber_Proverbiorum
+1100001117	divitiae addunt amicos plurimos;	2020-04-18	Liber_Proverbiorum
+1100001118	a paupere autem et hi quos habuit separantur.	2020-04-18	Liber_Proverbiorum
+1100001119	testis falsus non erit impunitus,	2020-04-18	Liber_Proverbiorum
+1100001120	et qui mendacia loquitur non effugiet.	2020-04-18	Liber_Proverbiorum
+1100001121	multi colunt personam potentis,	2020-04-18	Liber_Proverbiorum
+1100001122	et amici sunt dona tribuentis.	2020-04-18	Liber_Proverbiorum
+1100001123	fratres hominis pauperis oderunt eum;	2020-04-18	Liber_Proverbiorum
+1100001124	insuper et amici procul recesserunt ab eo.	2020-04-18	Liber_Proverbiorum
+1100001125	qui tantum verba sectatur nihil habebit;	2020-04-18	Liber_Proverbiorum
+1100001126	qui autem possessor est mentis diligit animam suam,	2020-04-18	Liber_Proverbiorum
+1100001127	et custos prudentiae inveniet bona.	2020-04-18	Liber_Proverbiorum
+1100001128	falsus testis non erit impunitus,	2020-04-18	Liber_Proverbiorum
+1100001129	et qui loquitur mendacia peribit.	2020-04-18	Liber_Proverbiorum
+1100001130	non decent stultum deliciae,	2020-04-18	Liber_Proverbiorum
+1100001131	nec servum dominari principibus.	2020-04-18	Liber_Proverbiorum
+1100001132	doctrina viri per patientiam noscitur,	2020-04-18	Liber_Proverbiorum
+1100001133	et gloria eius est iniqua praetergredi.	2020-04-18	Liber_Proverbiorum
+1100001134	sicut fremitus leonis, ita et regis ira,	2020-04-18	Liber_Proverbiorum
+1100001135	et sicut ros super herbam, ita et hilaritas eius.	2020-04-18	Liber_Proverbiorum
+1100001136	dolor patris filius stultus,	2020-04-18	Liber_Proverbiorum
+1100001137	et tecta iugiter perstillantia litigiosa mulier.	2020-04-18	Liber_Proverbiorum
+1100001138	domus et divitiae dantur a parentibus;	2020-04-18	Liber_Proverbiorum
+1100001139	a domino autem proprie uxor prudens.	2020-04-18	Liber_Proverbiorum
+1100001140	pigredo immittit soporem,	2020-04-18	Liber_Proverbiorum
+1100001141	et anima dissoluta esuriet.	2020-04-18	Liber_Proverbiorum
+1100001142	qui custodit mandatum custodit animam suam;	2020-04-18	Liber_Proverbiorum
+1100001143	qui autem negligit viam suam mortificabitur.	2020-04-18	Liber_Proverbiorum
+1100001144	foeneratur domino qui miseretur pauperis,	2020-04-18	Liber_Proverbiorum
+1100001145	et vicissitudinem suam reddet ei.	2020-04-18	Liber_Proverbiorum
+1100001146	erudi filium tuum; ne desperes:	2020-04-18	Liber_Proverbiorum
+1100001147	ad interfectionem autem eius ne ponas animam tuam.	2020-04-18	Liber_Proverbiorum
+1100001148	qui impatiens est sustinebit damnum,	2020-04-18	Liber_Proverbiorum
+1100001149	et cum rapuerit, aliud apponet.	2020-04-18	Liber_Proverbiorum
+1100001150	audi consilium, et suscipe disciplinam,	2020-04-18	Liber_Proverbiorum
+1100001151	ut sis sapiens in novissimis tuis.	2020-04-18	Liber_Proverbiorum
+1100001152	multae cogitationes in corde viri;	2020-04-18	Liber_Proverbiorum
+1100001153	voluntas autem domini permanebit.	2020-04-18	Liber_Proverbiorum
+1100001154	homo indigens misericors est,	2020-04-18	Liber_Proverbiorum
+1100001155	et melior est pauper quam vir mendax.	2020-04-18	Liber_Proverbiorum
+1100001156	timor domini ad vitam,	2020-04-18	Liber_Proverbiorum
+1100001157	et in plenitudine commorabitur absque visitatione pessima.	2020-04-18	Liber_Proverbiorum
+1100001158	abscondit piger manum suam sub ascella,	2020-04-18	Liber_Proverbiorum
+1100001159	nec ad os suum applicat eam.	2020-04-18	Liber_Proverbiorum
+1100001160	pestilente flagellato stultus sapientior erit;	2020-04-18	Liber_Proverbiorum
+1100001161	si autem corripueris sapientem, intelliget disciplinam.	2020-04-18	Liber_Proverbiorum
+1100001162	qui affligit patrem, et fugat matrem,	2020-04-18	Liber_Proverbiorum
+1100001163	ignominiosus est et infelix.	2020-04-18	Liber_Proverbiorum
+1100001164	non cesses, fili, audire doctrinam,	2020-04-18	Liber_Proverbiorum
+1100001165	nec ignores sermones scientiae.	2020-04-18	Liber_Proverbiorum
+1100001166	testis iniquus deridet iudicium,	2020-04-18	Liber_Proverbiorum
+1100001167	et os impiorum devorat iniquitatem.	2020-04-18	Liber_Proverbiorum
+1100001168	parata sunt derisoribus iudicia,	2020-04-18	Liber_Proverbiorum
+1100001169	et mallei percutientes stultorum corporibus.	2020-04-18	Liber_Proverbiorum
+1100001170	caput 20	2020-04-18	Liber_Proverbiorum
+1100001171	luxuriosa res vinum, et tumultuosa ebrietas:	2020-04-18	Liber_Proverbiorum
+1100001172	quicumque his delectatur non erit sapiens.	2020-04-18	Liber_Proverbiorum
+1100001173	sicut rugitus leonis, ita et terror regis:	2020-04-18	Liber_Proverbiorum
+1100001174	qui provocat eum peccat in animam suam.	2020-04-18	Liber_Proverbiorum
+1100001175	honor est homini qui separat se a contentionibus;	2020-04-18	Liber_Proverbiorum
+1100001176	omnes autem stulti miscentur contumeliis.	2020-04-18	Liber_Proverbiorum
+1100001177	propter frigus piger arare noluit;	2020-04-18	Liber_Proverbiorum
+1100001178	mendicabit ergo aestate, et non dabitur illi.	2020-04-18	Liber_Proverbiorum
+1100001179	sicut aqua profunda, sic consilium in corde viri;	2020-04-18	Liber_Proverbiorum
+1100001180	sed homo sapiens exhauriet illud.	2020-04-18	Liber_Proverbiorum
+1100001181	multi homines misericordes vocantur;	2020-04-18	Liber_Proverbiorum
+1100001182	virum autem fidelem quis inveniet?	2020-04-18	Liber_Proverbiorum
+1100001183	iustus qui ambulat in simplicitate sua	2020-04-18	Liber_Proverbiorum
+1100001184	beatos post se filios derelinquet.	2020-04-18	Liber_Proverbiorum
+1100001185	rex qui sedet in solio iudicii	2020-04-18	Liber_Proverbiorum
+1100001186	dissipat omne malum intuitu suo.	2020-04-18	Liber_Proverbiorum
+1100001187	quis potest dicere: mundum est cor meum;	2020-04-18	Liber_Proverbiorum
+1100001188	purus sum a peccato?	2020-04-18	Liber_Proverbiorum
+1100001189	pondus et pondus, mensura et mensura:	2020-04-18	Liber_Proverbiorum
+1100001190	utrumque abominabile est apud deum.	2020-04-18	Liber_Proverbiorum
+1100001191	ex studiis suis intelligitur puer,	2020-04-18	Liber_Proverbiorum
+1100001192	si munda et recta sint opera eius.	2020-04-18	Liber_Proverbiorum
+1100001193	aurem audientem, et oculum videntem:	2020-04-18	Liber_Proverbiorum
+1100001194	dominus fecit utrumque.	2020-04-18	Liber_Proverbiorum
+1100001195	noli diligere somnum, ne te egestas opprimat:	2020-04-18	Liber_Proverbiorum
+1100001196	aperi oculos tuos, et saturare panibus.	2020-04-18	Liber_Proverbiorum
+1100001197	malum est, malum est, dicit omnis emptor;	2020-04-18	Liber_Proverbiorum
+1100001198	et cum recesserit, tunc gloriabitur.	2020-04-18	Liber_Proverbiorum
+1100001199	est aurum et multitudo gemmarum,	2020-04-18	Liber_Proverbiorum
+1100001200	et vas pretiosum labia scientiae.	2020-04-18	Liber_Proverbiorum
+1100001201	tolle vestimentum eius qui fideiussor extitit alieni,	2020-04-18	Liber_Proverbiorum
+1100001202	et pro extraneis aufer pignus ab eo.	2020-04-18	Liber_Proverbiorum
+1100001203	suavis est homini panis mendacii,	2020-04-18	Liber_Proverbiorum
+1100001204	et postea implebitur os eius calculo.	2020-04-18	Liber_Proverbiorum
+1100001205	cogitationes consiliis roborantur,	2020-04-18	Liber_Proverbiorum
+1100001206	et gubernaculis tractanda sunt bella.	2020-04-18	Liber_Proverbiorum
+1100001207	ei qui revelat mysteria, et ambulat fraudulenter,	2020-04-18	Liber_Proverbiorum
+1100001208	et dilatat labia sua, ne commiscearis.	2020-04-18	Liber_Proverbiorum
+1100001209	qui maledicit patri suo et matri,	2020-04-18	Liber_Proverbiorum
+1100001210	extinguetur lucerna eius in mediis tenebris:	2020-04-18	Liber_Proverbiorum
+1100001211	haereditas ad quam festinatur in principio,	2020-04-18	Liber_Proverbiorum
+1100001212	in novissimo benedictione carebit.	2020-04-18	Liber_Proverbiorum
+1100001213	ne dicas: reddam malum:	2020-04-18	Liber_Proverbiorum
+1100001214	exspecta dominum, et liberabit te.	2020-04-18	Liber_Proverbiorum
+1100001215	abominatio est apud dominum pondus et pondus;	2020-04-18	Liber_Proverbiorum
+1100001216	statera dolosa non est bona.	2020-04-18	Liber_Proverbiorum
+1100001217	a domino diriguntur gressus viri:	2020-04-18	Liber_Proverbiorum
+1100001218	quis autem hominum intelligere potest viam suam?	2020-04-18	Liber_Proverbiorum
+1100001219	ruina est homini devorare sanctos,	2020-04-18	Liber_Proverbiorum
+1100001220	et post vota retractare.	2020-04-18	Liber_Proverbiorum
+1100001221	dissipat impios rex sapiens,	2020-04-18	Liber_Proverbiorum
+1100001222	et incurvat super eos fornicem.	2020-04-18	Liber_Proverbiorum
+1100001223	lucerna domini spiraculum hominis,	2020-04-18	Liber_Proverbiorum
+1100001224	quae investigat omnia secreta ventris.	2020-04-18	Liber_Proverbiorum
+1100001225	misericordia et veritas custodiunt regem,	2020-04-18	Liber_Proverbiorum
+1100001226	et roboratur clementia thronus eius.	2020-04-18	Liber_Proverbiorum
+1100001227	exsultatio iuvenum fortitudo eorum,	2020-04-18	Liber_Proverbiorum
+1100001228	et dignitas senum canities.	2020-04-18	Liber_Proverbiorum
+1100001229	livor vulneris absterget mala,	2020-04-18	Liber_Proverbiorum
+1100001230	et plagae in secretioribus ventris.	2020-04-18	Liber_Proverbiorum
+1100001231	caput 21	2020-04-18	Liber_Proverbiorum
+1100001232	sicut divisiones aquarum, ita cor regis in manu domini:	2020-04-18	Liber_Proverbiorum
+1100001233	quocumque voluerit, inclinabit illud.	2020-04-18	Liber_Proverbiorum
+1100001234	omnis via viri recta sibi videtur:	2020-04-18	Liber_Proverbiorum
+1100001235	appendit autem corda dominus.	2020-04-18	Liber_Proverbiorum
+1100001236	facere misericordiam et iudicium	2020-04-18	Liber_Proverbiorum
+1100001237	magis placet domino quam victimae.	2020-04-18	Liber_Proverbiorum
+1100001238	exaltatio oculorum est dilatatio cordis;	2020-04-18	Liber_Proverbiorum
+1100001239	lucerna impiorum peccatum.	2020-04-18	Liber_Proverbiorum
+1100001240	cogitationes robusti semper in abundantia;	2020-04-18	Liber_Proverbiorum
+1100001241	omnis autem piger semper in egestate est.	2020-04-18	Liber_Proverbiorum
+1100001242	qui congregat thesauros lingua mendacii vanus et excors est,	2020-04-18	Liber_Proverbiorum
+1100001243	et impingetur ad laqueos mortis.	2020-04-18	Liber_Proverbiorum
+1100001244	rapinae impiorum detrahent eos,	2020-04-18	Liber_Proverbiorum
+1100001245	quia noluerunt facere iudicium.	2020-04-18	Liber_Proverbiorum
+1100001246	perversa via viri aliena est;	2020-04-18	Liber_Proverbiorum
+1100001247	qui autem mundus est, rectum opus eius.	2020-04-18	Liber_Proverbiorum
+1100001248	melius est sedere in angulo domatis,	2020-04-18	Liber_Proverbiorum
+1100001249	quam cum muliere litigiosa, et in domo communi.	2020-04-18	Liber_Proverbiorum
+1100001250	anima impii desiderat malum:	2020-04-18	Liber_Proverbiorum
+1100001251	non miserebitur proximo suo.	2020-04-18	Liber_Proverbiorum
+1100001252	mulctato pestilente, sapientior erit parvulus,	2020-04-18	Liber_Proverbiorum
+1100001253	et si sectetur sapientem, sumet scientiam.	2020-04-18	Liber_Proverbiorum
+1100001254	excogitat iustus de domo impii,	2020-04-18	Liber_Proverbiorum
+1100001255	ut detrahat impios a malo.	2020-04-18	Liber_Proverbiorum
+1100001256	qui obturat aurem suam ad clamorem pauperis,	2020-04-18	Liber_Proverbiorum
+1100001257	et ipse clamabit, et non exaudietur.	2020-04-18	Liber_Proverbiorum
+1100001258	munus absconditum extinguit iras,	2020-04-18	Liber_Proverbiorum
+1100001259	et donum in sinu indignationem maximam.	2020-04-18	Liber_Proverbiorum
+1100001260	gaudium iusto est facere iudicium,	2020-04-18	Liber_Proverbiorum
+1100001261	et pavor operantibus iniquitatem.	2020-04-18	Liber_Proverbiorum
+1100001262	vir qui erraverit a via doctrinae	2020-04-18	Liber_Proverbiorum
+1100001263	in coetu gigantum commorabitur.	2020-04-18	Liber_Proverbiorum
+1100001264	qui diligit epulas in egestate erit;	2020-04-18	Liber_Proverbiorum
+1100001265	qui amat vinum et pinguia non ditabitur.	2020-04-18	Liber_Proverbiorum
+1100001266	pro iusto datur impius,	2020-04-18	Liber_Proverbiorum
+1100001267	et pro rectis iniquus.	2020-04-18	Liber_Proverbiorum
+1100001268	melius est habitare in terra deserta	2020-04-18	Liber_Proverbiorum
+1100001269	quam cum muliere rixosa et iracunda.	2020-04-18	Liber_Proverbiorum
+1100001270	thesaurus desiderabilis, et oleum in habitaculo iusti:	2020-04-18	Liber_Proverbiorum
+1100001271	et imprudens homo dissipabit illud.	2020-04-18	Liber_Proverbiorum
+1100001272	qui sequitur iustitiam et misericordiam	2020-04-18	Liber_Proverbiorum
+1100001273	inveniet vitam, iustitiam, et gloriam.	2020-04-18	Liber_Proverbiorum
+1100001274	civitatem fortium ascendit sapiens,	2020-04-18	Liber_Proverbiorum
+1100001275	et destruxit robur fiduciae eius.	2020-04-18	Liber_Proverbiorum
+1100001276	qui custodit os suum et linguam suam	2020-04-18	Liber_Proverbiorum
+1100001277	custodit ab angustiis animam suam.	2020-04-18	Liber_Proverbiorum
+1100001278	superbus et arrogans vocatur indoctus,	2020-04-18	Liber_Proverbiorum
+1100001279	qui in ira operatur superbiam.	2020-04-18	Liber_Proverbiorum
+1100001280	desideria occidunt pigrum:	2020-04-18	Liber_Proverbiorum
+1100001281	noluerunt enim quidquam manus eius operari.	2020-04-18	Liber_Proverbiorum
+1100001282	tota die concupiscit et desiderat;	2020-04-18	Liber_Proverbiorum
+1100001283	qui autem iustus est, tribuet, et non cessabit.	2020-04-18	Liber_Proverbiorum
+1100001284	hostiae impiorum abominabiles,	2020-04-18	Liber_Proverbiorum
+1100001285	quia offeruntur ex scelere.	2020-04-18	Liber_Proverbiorum
+1100001286	testis mendax peribit;	2020-04-18	Liber_Proverbiorum
+1100001287	vir obediens loquetur victoriam.	2020-04-18	Liber_Proverbiorum
+1100001288	vir impius procaciter obfirmat vultum suum;	2020-04-18	Liber_Proverbiorum
+1100001289	qui autem rectus est corrigit viam suam.	2020-04-18	Liber_Proverbiorum
+1100001290	non est sapientia, non est prudentia,	2020-04-18	Liber_Proverbiorum
+1100001291	non est consilium contra dominum.	2020-04-18	Liber_Proverbiorum
+1100001292	equus paratur ad diem belli;	2020-04-18	Liber_Proverbiorum
+1100001293	dominus autem salutem tribuit.	2020-04-18	Liber_Proverbiorum
+1100001294	caput 22	2020-04-18	Liber_Proverbiorum
+1100001295	melius est nomen bonum quam divitiae multae;	2020-04-18	Liber_Proverbiorum
+1100001296	super argentum et aurum gratia bona.	2020-04-18	Liber_Proverbiorum
+1100001297	dives et pauper obviaverunt sibi:	2020-04-18	Liber_Proverbiorum
+1100001298	utriusque operator est dominus.	2020-04-18	Liber_Proverbiorum
+1100001299	callidus vidit malum, et abscondit se;	2020-04-18	Liber_Proverbiorum
+1100001300	innocens pertransiit, et afflictus est damno.	2020-04-18	Liber_Proverbiorum
+1100001301	finis modestiae timor domini,	2020-04-18	Liber_Proverbiorum
+1100001302	divitiae, et gloria, et vita.	2020-04-18	Liber_Proverbiorum
+1100001303	arma et gladii in via perversi;	2020-04-18	Liber_Proverbiorum
+1100001304	custos autem animae suae longe recedit ab eis.	2020-04-18	Liber_Proverbiorum
+1100001305	proverbium est: adolescens iuxta viam suam;	2020-04-18	Liber_Proverbiorum
+1100001306	etiam cum senuerit, non recedet ab ea.	2020-04-18	Liber_Proverbiorum
+1100001307	dives pauperibus imperat,	2020-04-18	Liber_Proverbiorum
+1100001308	et qui accipit mutuum servus est foenerantis.	2020-04-18	Liber_Proverbiorum
+1100001309	qui seminat iniquitatem metet mala,	2020-04-18	Liber_Proverbiorum
+1100001310	et virga irae suae consummabitur.	2020-04-18	Liber_Proverbiorum
+1100001311	qui pronus est ad misericordiam benedicetur:	2020-04-18	Liber_Proverbiorum
+1100001312	de panibus enim suis dedit pauperi.	2020-04-18	Liber_Proverbiorum
+1100001313	victoriam et honorem acquiret qui dat munera;	2020-04-18	Liber_Proverbiorum
+1100001314	animam autem aufert accipientium.	2020-04-18	Liber_Proverbiorum
+1100001315	eiice derisorem, et exibit cum eo iurgium,	2020-04-18	Liber_Proverbiorum
+1100001316	cessabuntque causae et contumeliae.	2020-04-18	Liber_Proverbiorum
+1100001317	qui diligit cordis munditiam,	2020-04-18	Liber_Proverbiorum
+1100001318	propter gratiam labiorum suorum habebit amicum regem.	2020-04-18	Liber_Proverbiorum
+1100001319	oculi domini custodiunt scientiam,	2020-04-18	Liber_Proverbiorum
+1100001320	et supplantantur verba iniqui.	2020-04-18	Liber_Proverbiorum
+1100001321	dicit piger: leo est foris;	2020-04-18	Liber_Proverbiorum
+1100001322	in medio platearum occidendus sum.	2020-04-18	Liber_Proverbiorum
+1100001323	fovea profunda os alienae:	2020-04-18	Liber_Proverbiorum
+1100001324	cui iratus est dominus, incidet in eam.	2020-04-18	Liber_Proverbiorum
+1100001325	stultitia colligata est in corde pueri,	2020-04-18	Liber_Proverbiorum
+1100001326	et virga disciplinae fugabit eam.	2020-04-18	Liber_Proverbiorum
+1100001327	qui calumniatur pauperem ut augeat divitias suas,	2020-04-18	Liber_Proverbiorum
+1100001328	dabit ipse ditiori, et egebit.	2020-04-18	Liber_Proverbiorum
+1100001329	inclina aurem tuam, et audi verba sapientium:	2020-04-18	Liber_Proverbiorum
+1100001330	appone autem cor ad doctrinam meam,	2020-04-18	Liber_Proverbiorum
+1100001331	quae pulchra erit tibi cum servaveris eam in ventre tuo,	2020-04-18	Liber_Proverbiorum
+1100001332	et redundabit in labiis tuis:	2020-04-18	Liber_Proverbiorum
+1100001333	ut sit in domino fiducia tua,	2020-04-18	Liber_Proverbiorum
+1100001334	unde et ostendi eam tibi hodie.	2020-04-18	Liber_Proverbiorum
+1100001335	ecce descripsi eam tibi tripliciter,	2020-04-18	Liber_Proverbiorum
+1100001336	in cogitationibus et scientia:	2020-04-18	Liber_Proverbiorum
+1100001337	ut ostenderem tibi firmitatem et eloquia veritatis,	2020-04-18	Liber_Proverbiorum
+1100001338	respondere ex his illis qui miserunt te.	2020-04-18	Liber_Proverbiorum
+1100001339	non facias violentiam pauperi quia pauper est,	2020-04-18	Liber_Proverbiorum
+1100001340	neque conteras egenum in porta:	2020-04-18	Liber_Proverbiorum
+1100001341	quia iudicabit dominus causam eius,	2020-04-18	Liber_Proverbiorum
+1100001342	et configet eos qui confixerunt animam eius.	2020-04-18	Liber_Proverbiorum
+1100001343	noli esse amicus homini iracundo,	2020-04-18	Liber_Proverbiorum
+1100001344	neque ambules cum viro furioso:	2020-04-18	Liber_Proverbiorum
+1100001345	ne forte discas semitas eius,	2020-04-18	Liber_Proverbiorum
+1100001346	et sumas scandalum animae tuae.	2020-04-18	Liber_Proverbiorum
+1100001347	noli esse cum his qui defigunt manus suas,	2020-04-18	Liber_Proverbiorum
+1100001348	et qui vades se offerunt pro debitis:	2020-04-18	Liber_Proverbiorum
+1100001349	si enim non habes unde restituas,	2020-04-18	Liber_Proverbiorum
+1100001350	quid causae est ut tollat operimentum de cubili tuo?	2020-04-18	Liber_Proverbiorum
+1100001351	ne transgrediaris terminos antiquos,	2020-04-18	Liber_Proverbiorum
+1100001352	quos posuerunt patres tui.	2020-04-18	Liber_Proverbiorum
+1100001353	vidisti virum velocem in opere suo?	2020-04-18	Liber_Proverbiorum
+1100001354	coram regibus stabit, nec erit ante ignobiles.	2020-04-18	Liber_Proverbiorum
+1100001355	caput 23	2020-04-18	Liber_Proverbiorum
+1100001356	quando sederis ut comedas cum principe,	2020-04-18	Liber_Proverbiorum
+1100001357	diligenter attende quae apposita sunt ante faciem tuam.	2020-04-18	Liber_Proverbiorum
+1100001358	et statue cultrum in gutture tuo:	2020-04-18	Liber_Proverbiorum
+1100001359	si tamen habes in potestate animam tuam.	2020-04-18	Liber_Proverbiorum
+1100001360	ne desideres de cibis eius,	2020-04-18	Liber_Proverbiorum
+1100001361	in quo est panis mendacii.	2020-04-18	Liber_Proverbiorum
+1100001362	noli laborare ut diteris,	2020-04-18	Liber_Proverbiorum
+1100001363	sed prudentiae tuae pone modum.	2020-04-18	Liber_Proverbiorum
+1100001364	ne erigas oculos tuos ad opes quas non potes habere,	2020-04-18	Liber_Proverbiorum
+1100001365	quia facient sibi pennas quasi aquilae, et volabunt in caelum.	2020-04-18	Liber_Proverbiorum
+1100001366	ne comedas cum homine invido,	2020-04-18	Liber_Proverbiorum
+1100001367	et ne desideres cibos eius:	2020-04-18	Liber_Proverbiorum
+1100001368	quoniam in similitudinem arioli et coniectoris	2020-04-18	Liber_Proverbiorum
+1100001369	aestimat quod ignorat.	2020-04-18	Liber_Proverbiorum
+1100001370	comede et bibe, dicet tibi;	2020-04-18	Liber_Proverbiorum
+1100001371	et mens eius non est tecum.	2020-04-18	Liber_Proverbiorum
+1100001372	cibos quos comederas evomes,	2020-04-18	Liber_Proverbiorum
+1100001373	et perdes pulchros sermones tuos.	2020-04-18	Liber_Proverbiorum
+1100001374	in auribus insipientium ne loquaris,	2020-04-18	Liber_Proverbiorum
+1100001375	qui despicient doctrinam eloquii tui.	2020-04-18	Liber_Proverbiorum
+1100001376	ne attingas parvulorum terminos,	2020-04-18	Liber_Proverbiorum
+1100001377	et agrum pupillorum ne introeas:	2020-04-18	Liber_Proverbiorum
+1100001378	propinquus enim illorum fortis est,	2020-04-18	Liber_Proverbiorum
+1100001379	et ipse iudicabit contra te causam illorum.	2020-04-18	Liber_Proverbiorum
+1100001380	ingrediatur ad doctrinam cor tuum,	2020-04-18	Liber_Proverbiorum
+1100001381	et aures tuae ad verba scientiae.	2020-04-18	Liber_Proverbiorum
+1100001382	noli subtrahere a puero disciplinam:	2020-04-18	Liber_Proverbiorum
+1100001383	si enim percusseris eum virga, non morietur.	2020-04-18	Liber_Proverbiorum
+1100001384	tu virga percuties eum,	2020-04-18	Liber_Proverbiorum
+1100001385	et animam eius de inferno liberabis.	2020-04-18	Liber_Proverbiorum
+1100001386	fili mi, si sapiens fuerit animus tuus,	2020-04-18	Liber_Proverbiorum
+1100001387	gaudebit tecum cor meum:	2020-04-18	Liber_Proverbiorum
+1100001388	et exsultabunt renes mei,	2020-04-18	Liber_Proverbiorum
+1100001389	cum locuta fuerint rectum labia tua.	2020-04-18	Liber_Proverbiorum
+1100001390	non aemuletur cor tuum peccatores,	2020-04-18	Liber_Proverbiorum
+1100001391	sed in timore domini esto tota die:	2020-04-18	Liber_Proverbiorum
+1100001392	quia habebis spem in novissimo,	2020-04-18	Liber_Proverbiorum
+1100001393	et praestolatio tua non auferetur.	2020-04-18	Liber_Proverbiorum
+1100001394	audi, fili mi, et esto sapiens,	2020-04-18	Liber_Proverbiorum
+1100001395	et dirige in via animum tuum.	2020-04-18	Liber_Proverbiorum
+1100001396	noli esse in conviviis potatorum,	2020-04-18	Liber_Proverbiorum
+1100001397	nec in comessationibus eorum qui carnes ad vescendum conferunt:	2020-04-18	Liber_Proverbiorum
+1100001398	quia vacantes potibus et dantes symbola consumentur,	2020-04-18	Liber_Proverbiorum
+1100001399	et vestietur pannis dormitatio.	2020-04-18	Liber_Proverbiorum
+1100001400	audi patrem tuum, qui genuit te,	2020-04-18	Liber_Proverbiorum
+1100001401	et ne contemnas cum senuerit mater tua.	2020-04-18	Liber_Proverbiorum
+1100001402	veritatem eme, et noli vendere sapientiam,	2020-04-18	Liber_Proverbiorum
+1100001403	et doctrinam, et intelligentiam.	2020-04-18	Liber_Proverbiorum
+1100001404	exsultat gaudio pater iusti;	2020-04-18	Liber_Proverbiorum
+1100001405	qui sapientem genuit, laetabitur in eo.	2020-04-18	Liber_Proverbiorum
+1100001406	gaudeat pater tuus et mater tua,	2020-04-18	Liber_Proverbiorum
+1100001407	et exsultet quae genuit te.	2020-04-18	Liber_Proverbiorum
+1100001408	praebe, fili mi, cor tuum mihi,	2020-04-18	Liber_Proverbiorum
+1100001409	et oculi tui vias meas custodiant.	2020-04-18	Liber_Proverbiorum
+1100001410	fovea enim profunda est meretrix,	2020-04-18	Liber_Proverbiorum
+1100001411	et puteus angustus aliena.	2020-04-18	Liber_Proverbiorum
+1100001412	insidiatur in via quasi latro,	2020-04-18	Liber_Proverbiorum
+1100001413	et quos incautos viderit, interficiet.	2020-04-18	Liber_Proverbiorum
+1100001414	cui vae? 	2020-04-18	Liber_Proverbiorum
+1100001415	cuius patri vae?	2020-04-18	Liber_Proverbiorum
+1100001416	cui rixae? 	2020-04-18	Liber_Proverbiorum
+1100001417	cui foveae?	2020-04-18	Liber_Proverbiorum
+1100001418	cui sine causa vulnera? 	2020-04-18	Liber_Proverbiorum
+1100001419	cui suffusio oculorum?	2020-04-18	Liber_Proverbiorum
+1100001420	nonne his qui commorantur in vino,	2020-04-18	Liber_Proverbiorum
+1100001421	et student calicibus epotandis?	2020-04-18	Liber_Proverbiorum
+1100001422	ne intuearis vinum quando flavescit,	2020-04-18	Liber_Proverbiorum
+1100001423	cum splenduerit in vitro color eius:	2020-04-18	Liber_Proverbiorum
+1100001424	ingreditur blande,	2020-04-18	Liber_Proverbiorum
+1100001425	sed in novissimo mordebit ut coluber,	2020-04-18	Liber_Proverbiorum
+1100001426	et sicut regulus venena diffundet.	2020-04-18	Liber_Proverbiorum
+1100001427	oculi tui videbunt extraneas,	2020-04-18	Liber_Proverbiorum
+1100001428	et cor tuum loquetur perversa.	2020-04-18	Liber_Proverbiorum
+1100001429	et eris sicut dormiens in medio mari,	2020-04-18	Liber_Proverbiorum
+1100001430	et quasi sopitus gubernator, amisso clavo.	2020-04-18	Liber_Proverbiorum
+1100001431	et dices: verberaverunt me, sed non dolui;	2020-04-18	Liber_Proverbiorum
+1100001432	traxerunt me, et ego non sensi.	2020-04-18	Liber_Proverbiorum
+1100001433	quando evigilabo, et rursus vina reperiam?	2020-04-18	Liber_Proverbiorum
+1100001434	caput 24	2020-04-18	Liber_Proverbiorum
+1100001435	ne aemuleris viros malos,	2020-04-18	Liber_Proverbiorum
+1100001436	nec desideres esse cum eis:	2020-04-18	Liber_Proverbiorum
+1100001437	quia rapinas meditatur mens eorum,	2020-04-18	Liber_Proverbiorum
+1100001438	et fraudes labia eorum loquuntur.	2020-04-18	Liber_Proverbiorum
+1100001439	sapientia aedificabitur domus,	2020-04-18	Liber_Proverbiorum
+1100001440	et prudentia roborabitur.	2020-04-18	Liber_Proverbiorum
+1100001441	in doctrina replebuntur cellaria,	2020-04-18	Liber_Proverbiorum
+1100001442	universa substantia pretiosa et pulcherrima.	2020-04-18	Liber_Proverbiorum
+1100001443	vir sapiens fortis est,	2020-04-18	Liber_Proverbiorum
+1100001444	et vir doctus robustus et validus:	2020-04-18	Liber_Proverbiorum
+1100001445	quia cum dispositione initur bellum,	2020-04-18	Liber_Proverbiorum
+1100001446	et erit salus ubi multa consilia sunt.	2020-04-18	Liber_Proverbiorum
+1100001447	excelsa stulto sapientia;	2020-04-18	Liber_Proverbiorum
+1100001448	in porta non aperiet os suum.	2020-04-18	Liber_Proverbiorum
+1100001449	qui cogitat mala facere stultus vocabitur:	2020-04-18	Liber_Proverbiorum
+1100001450	cogitatio stulti peccatum est,	2020-04-18	Liber_Proverbiorum
+1100001451	et abominatio hominum detractor.	2020-04-18	Liber_Proverbiorum
+1100001452	si desperaveris lassus in die angustiae,	2020-04-18	Liber_Proverbiorum
+1100001453	imminuetur fortitudo tua.	2020-04-18	Liber_Proverbiorum
+1100001454	erue eos qui ducuntur ad mortem,	2020-04-18	Liber_Proverbiorum
+1100001455	et qui trahuntur ad interitum, liberare ne cesses.	2020-04-18	Liber_Proverbiorum
+1100001456	si dixeris: vires non suppetunt;	2020-04-18	Liber_Proverbiorum
+1100001457	qui inspector est cordis ipse intelligit:	2020-04-18	Liber_Proverbiorum
+1100001458	et servatorem animae tuae nihil fallit,	2020-04-18	Liber_Proverbiorum
+1100001459	reddetque homini iuxta opera sua.	2020-04-18	Liber_Proverbiorum
+1100001460	comede, fili mi, mel, quia bonum est,	2020-04-18	Liber_Proverbiorum
+1100001461	et favum dulcissimum gutturi tuo.	2020-04-18	Liber_Proverbiorum
+1100001462	sic et doctrina sapientiae animae tuae:	2020-04-18	Liber_Proverbiorum
+1100001463	quam cum inveneris, habebis in novissimis spem,	2020-04-18	Liber_Proverbiorum
+1100001464	et spes tua non peribit.	2020-04-18	Liber_Proverbiorum
+1100001465	ne insidieris, et quaeras impietatem in domo iusti,	2020-04-18	Liber_Proverbiorum
+1100001466	neque vastes requiem eius.	2020-04-18	Liber_Proverbiorum
+1100001467	septies enim cadet iustus, et resurget:	2020-04-18	Liber_Proverbiorum
+1100001468	impii autem corruent in malum.	2020-04-18	Liber_Proverbiorum
+1100001469	cum ceciderit inimicus tuus ne gaudeas,	2020-04-18	Liber_Proverbiorum
+1100001470	et in ruina eius ne exsultet cor tuum:	2020-04-18	Liber_Proverbiorum
+1100001471	ne forte videat dominus, et displiceat ei,	2020-04-18	Liber_Proverbiorum
+1100001472	et auferat ab eo iram suam.	2020-04-18	Liber_Proverbiorum
+1100001473	ne contendas cum pessimis,	2020-04-18	Liber_Proverbiorum
+1100001474	nec aemuleris impios:	2020-04-18	Liber_Proverbiorum
+1100001475	quoniam non habent futurorum spem mali,	2020-04-18	Liber_Proverbiorum
+1100001476	et lucerna impiorum extinguetur.	2020-04-18	Liber_Proverbiorum
+1100001477	time dominum, fili mi, et regem,	2020-04-18	Liber_Proverbiorum
+1100001478	et cum detractoribus non commiscearis:	2020-04-18	Liber_Proverbiorum
+1100001479	quoniam repente consurget perditio eorum,	2020-04-18	Liber_Proverbiorum
+1100001480	et ruinam utriusque quis novit?	2020-04-18	Liber_Proverbiorum
+1100001481	haec quoque sapientibus.	2020-04-18	Liber_Proverbiorum
+1100001482	cognoscere personam in iudicio non est bonum.	2020-04-18	Liber_Proverbiorum
+1100001483	qui dicunt impio: iustus es: maledicent eis populi,	2020-04-18	Liber_Proverbiorum
+1100001484	et detestabuntur eos tribus.	2020-04-18	Liber_Proverbiorum
+1100001485	qui arguunt eum laudabuntur,	2020-04-18	Liber_Proverbiorum
+1100001486	et super ipsos veniet benedictio.	2020-04-18	Liber_Proverbiorum
+1100001487	labia deosculabitur	2020-04-18	Liber_Proverbiorum
+1100001488	qui recta verba respondet.	2020-04-18	Liber_Proverbiorum
+1100001489	praepara foris opus tuum,	2020-04-18	Liber_Proverbiorum
+1100001490	et diligenter exerce agrum tuum,	2020-04-18	Liber_Proverbiorum
+1100001491	ut postea aedifices domum tuam.	2020-04-18	Liber_Proverbiorum
+1100001492	ne sis testis frustra contra proximum tuum,	2020-04-18	Liber_Proverbiorum
+1100001493	nec lactes quemquam labiis tuis.	2020-04-18	Liber_Proverbiorum
+1100001494	ne dicas: quomodo fecit mihi, sic faciam ei;	2020-04-18	Liber_Proverbiorum
+1100001495	reddam unicuique secundum opus suum.	2020-04-18	Liber_Proverbiorum
+1100001496	per agrum hominis pigri transivi,	2020-04-18	Liber_Proverbiorum
+1100001497	et per vineam viri stulti:	2020-04-18	Liber_Proverbiorum
+1100001498	et ecce totum repleverant urticae,	2020-04-18	Liber_Proverbiorum
+1100001499	et operuerant superficiem eius spinae,	2020-04-18	Liber_Proverbiorum
+1100001500	et maceria lapidum destructa erat.	2020-04-18	Liber_Proverbiorum
+1100001501	quod cum vidissem, posui in corde meo,	2020-04-18	Liber_Proverbiorum
+1100001502	et exemplo didici disciplinam.	2020-04-18	Liber_Proverbiorum
+1100001503	parum, inquam, dormies, modicum dormitabis;	2020-04-18	Liber_Proverbiorum
+1100001504	pauxillum manus conseres ut quiescas:	2020-04-18	Liber_Proverbiorum
+1100001505	et veniet tibi quasi cursor egestas,	2020-04-18	Liber_Proverbiorum
+1100001506	et mendicitas quasi vir armatus.	2020-04-18	Liber_Proverbiorum
+1100001507	caput 25	2020-04-18	Liber_Proverbiorum
+1100001508	hae quoque parabolae salomonis, quas transtulerunt viri ezechiae regis iuda.	2020-04-18	Liber_Proverbiorum
+1100001509	gloria dei est celare verbum,	2020-04-18	Liber_Proverbiorum
+1100001510	et gloria regum investigare sermonem.	2020-04-18	Liber_Proverbiorum
+1100001511	caelum sursum, et terra deorsum,	2020-04-18	Liber_Proverbiorum
+1100001512	et cor regum inscrutabile.	2020-04-18	Liber_Proverbiorum
+1100001513	aufer rubiginem de argento,	2020-04-18	Liber_Proverbiorum
+1100001514	et egredietur vas purissimum.	2020-04-18	Liber_Proverbiorum
+1100001515	aufer impietatem de vultu regis,	2020-04-18	Liber_Proverbiorum
+1100001516	et firmabitur iustitia thronus eius.	2020-04-18	Liber_Proverbiorum
+1100001517	ne gloriosus appareas coram rege,	2020-04-18	Liber_Proverbiorum
+1100001518	et in loco magnorum ne steteris.	2020-04-18	Liber_Proverbiorum
+1100001519	melius est enim ut dicatur tibi: ascende huc,	2020-04-18	Liber_Proverbiorum
+1100001520	quam ut humilieris coram principe.	2020-04-18	Liber_Proverbiorum
+1100001521	quae viderunt oculi tui ne proferas in iurgio cito,	2020-04-18	Liber_Proverbiorum
+1100001522	ne postea emendare non possis,	2020-04-18	Liber_Proverbiorum
+1100001523	cum dehonestaveris amicum tuum.	2020-04-18	Liber_Proverbiorum
+1100001524	causam tuam tracta cum amico tuo,	2020-04-18	Liber_Proverbiorum
+1100001525	et secretum extraneo ne reveles:	2020-04-18	Liber_Proverbiorum
+1100001526	ne forte insultet tibi cum audierit,	2020-04-18	Liber_Proverbiorum
+1100001527	et exprobrare non cesset.	2020-04-18	Liber_Proverbiorum
+1100001528	gratia et amicitia liberant:	2020-04-18	Liber_Proverbiorum
+1100001529	quas tibi serva, ne exprobrabilis fias.	2020-04-18	Liber_Proverbiorum
+1100001530	mala aurea in lectis argenteis,	2020-04-18	Liber_Proverbiorum
+1100001531	qui loquitur verbum in tempore suo.	2020-04-18	Liber_Proverbiorum
+1100001532	inauris aurea, et margaritum fulgens,	2020-04-18	Liber_Proverbiorum
+1100001533	qui arguit sapientem et aurem obedientem.	2020-04-18	Liber_Proverbiorum
+1100001534	sicut frigus nivis in die messis,	2020-04-18	Liber_Proverbiorum
+1100001535	ita legatus fidelis ei qui misit eum:	2020-04-18	Liber_Proverbiorum
+1100001536	animam ipsius requiescere facit.	2020-04-18	Liber_Proverbiorum
+1100001537	nubes, et ventus, et pluviae non sequentes,	2020-04-18	Liber_Proverbiorum
+1100001538	vir gloriosus et promissa non complens.	2020-04-18	Liber_Proverbiorum
+1100001539	patientia lenietur princeps,	2020-04-18	Liber_Proverbiorum
+1100001540	et lingua mollis confringet duritiam.	2020-04-18	Liber_Proverbiorum
+1100001541	mel invenisti: comede quod sufficit tibi,	2020-04-18	Liber_Proverbiorum
+1100001542	ne forte satiatus evomas illud.	2020-04-18	Liber_Proverbiorum
+1100001543	subtrahe pedem tuum de domo proximi tui,	2020-04-18	Liber_Proverbiorum
+1100001544	nequando satiatus oderit te.	2020-04-18	Liber_Proverbiorum
+1100001545	iaculum, et gladius, et sagitta acuta,	2020-04-18	Liber_Proverbiorum
+1100001546	homo qui loquitur contra proximum suum falsum testimonium.	2020-04-18	Liber_Proverbiorum
+1100001547	dens putridus, et pes lassus,	2020-04-18	Liber_Proverbiorum
+1100001548	qui sperat super infideli in die angustiae,	2020-04-18	Liber_Proverbiorum
+1100001549	et amittit pallium in die frigoris.	2020-04-18	Liber_Proverbiorum
+1100001550	acetum in nitro,	2020-04-18	Liber_Proverbiorum
+1100001551	qui cantat carmina cordi pessimo.	2020-04-18	Liber_Proverbiorum
+1100001552	sicut tinea vestimento, et vermis ligno,	2020-04-18	Liber_Proverbiorum
+1100001553	ita tristitia viri nocet cordi.	2020-04-18	Liber_Proverbiorum
+1100001554	si esurierit inimicus tuus, ciba illum;	2020-04-18	Liber_Proverbiorum
+1100001555	si sitierit, da ei aquam bibere:	2020-04-18	Liber_Proverbiorum
+1100001556	prunas enim congregabis super caput eius,	2020-04-18	Liber_Proverbiorum
+1100001557	et dominus reddet tibi.	2020-04-18	Liber_Proverbiorum
+1100001558	ventus aquilo dissipat pluvias,	2020-04-18	Liber_Proverbiorum
+1100001559	et facies tristis linguam detrahentem.	2020-04-18	Liber_Proverbiorum
+1100001560	melius est sedere in angulo domatis	2020-04-18	Liber_Proverbiorum
+1100001561	quam cum muliere litigiosa et in domo communi.	2020-04-18	Liber_Proverbiorum
+1100001562	aqua frigida animae sitienti,	2020-04-18	Liber_Proverbiorum
+1100001563	et nuntius bonus de terra longinqua.	2020-04-18	Liber_Proverbiorum
+1100001564	fons turbatus pede et vena corrupta,	2020-04-18	Liber_Proverbiorum
+1100001565	iustus cadens coram impio.	2020-04-18	Liber_Proverbiorum
+1100001566	sicut qui mel multum comedit non est ei bonum,	2020-04-18	Liber_Proverbiorum
+1100001567	sic qui scrutator est maiestatis opprimetur a gloria.	2020-04-18	Liber_Proverbiorum
+1100001568	sicut urbs patens et absque murorum ambitu,	2020-04-18	Liber_Proverbiorum
+1100001569	ita vir qui non potest in loquendo cohibere spiritum suum.	2020-04-18	Liber_Proverbiorum
+1100001570	caput 26	2020-04-18	Liber_Proverbiorum
+1100001571	quomodo nix in aestate, et pluviae in messe,	2020-04-18	Liber_Proverbiorum
+1100001572	sic indecens est stulto gloria.	2020-04-18	Liber_Proverbiorum
+1100001573	sicut avis ad alia transvolans, et passer quolibet vadens,	2020-04-18	Liber_Proverbiorum
+1100001574	sic maledictum frustra prolatum in quempiam superveniet.	2020-04-18	Liber_Proverbiorum
+1100001575	flagellum equo, et camus asino,	2020-04-18	Liber_Proverbiorum
+1100001576	et virga in dorso imprudentium.	2020-04-18	Liber_Proverbiorum
+1100001577	ne respondeas stulto iuxta stultitiam suam,	2020-04-18	Liber_Proverbiorum
+1100001578	ne efficiaris ei similis.	2020-04-18	Liber_Proverbiorum
+1100001579	responde stulto iuxta stultitiam suam,	2020-04-18	Liber_Proverbiorum
+1100001580	ne sibi sapiens esse videatur.	2020-04-18	Liber_Proverbiorum
+1100001581	claudus pedibus, et iniquitatem bibens,	2020-04-18	Liber_Proverbiorum
+1100001582	qui mittit verba per nuntium stultum.	2020-04-18	Liber_Proverbiorum
+1100001583	quomodo pulchras frustra habet claudus tibias,	2020-04-18	Liber_Proverbiorum
+1100001584	sic indecens est in ore stultorum parabola.	2020-04-18	Liber_Proverbiorum
+1100001585	sicut qui mittit lapidem in acervum mercurii,	2020-04-18	Liber_Proverbiorum
+1100001586	ita qui tribuit insipienti honorem.	2020-04-18	Liber_Proverbiorum
+1100001587	quomodo si spina nascatur in manu temulenti,	2020-04-18	Liber_Proverbiorum
+1100001588	sic parabola in ore stultorum.	2020-04-18	Liber_Proverbiorum
+1100001589	iudicium determinat causas,	2020-04-18	Liber_Proverbiorum
+1100001590	et qui imponit stulto silentium iras mitigat.	2020-04-18	Liber_Proverbiorum
+1100001591	sicut canis qui revertitur ad vomitum suum,	2020-04-18	Liber_Proverbiorum
+1100001592	sic imprudens qui iterat stultitiam suam.	2020-04-18	Liber_Proverbiorum
+1100001593	vidisti hominem sapientem sibi videri?	2020-04-18	Liber_Proverbiorum
+1100001594	magis illo spem habebit insipiens.	2020-04-18	Liber_Proverbiorum
+1100001595	dicit piger: leo est in via,	2020-04-18	Liber_Proverbiorum
+1100001596	et leaena in itineribus.	2020-04-18	Liber_Proverbiorum
+1100001597	sicut ostium vertitur in cardine suo,	2020-04-18	Liber_Proverbiorum
+1100001598	ita piger in lectulo suo.	2020-04-18	Liber_Proverbiorum
+1100001599	abscondit piger manum sub ascella sua,	2020-04-18	Liber_Proverbiorum
+1100001600	et laborat si ad os suum eam converterit.	2020-04-18	Liber_Proverbiorum
+1100001601	sapientior sibi piger videtur	2020-04-18	Liber_Proverbiorum
+1100001602	septem viris loquentibus sententias.	2020-04-18	Liber_Proverbiorum
+1100001603	sicut qui apprehendit auribus canem,	2020-04-18	Liber_Proverbiorum
+1100001604	sic qui transit impatiens et commiscetur rixae alterius.	2020-04-18	Liber_Proverbiorum
+1100001605	sicut noxius est qui mittit sagittas et lanceas in mortem,	2020-04-18	Liber_Proverbiorum
+1100001606	ita vir fraudulenter nocet amico suo,	2020-04-18	Liber_Proverbiorum
+1100001607	et cum fuerit deprehensus dicit: ludens feci.	2020-04-18	Liber_Proverbiorum
+1100001608	cum defecerint ligna extinguetur ignis,	2020-04-18	Liber_Proverbiorum
+1100001609	et susurrone subtracto, iurgia conquiescent.	2020-04-18	Liber_Proverbiorum
+1100001610	sicut carbones ad prunas, et ligna ad ignem,	2020-04-18	Liber_Proverbiorum
+1100001611	sic homo iracundus suscitat rixas.	2020-04-18	Liber_Proverbiorum
+1100001612	verba susurronis quasi simplicia,	2020-04-18	Liber_Proverbiorum
+1100001613	et ipsa perveniunt ad intima ventris.	2020-04-18	Liber_Proverbiorum
+1100001614	quomodo si argento sordido ornare velis vas fictile,	2020-04-18	Liber_Proverbiorum
+1100001615	sic labia tumentia cum pessimo corde sociata.	2020-04-18	Liber_Proverbiorum
+1100001616	labiis suis intelligitur inimicus,	2020-04-18	Liber_Proverbiorum
+1100001617	cum in corde tractaverit dolos.	2020-04-18	Liber_Proverbiorum
+1100001618	quando submiserit vocem suam, ne credideris ei,	2020-04-18	Liber_Proverbiorum
+1100001619	quoniam septem nequitiae sunt in corde illius.	2020-04-18	Liber_Proverbiorum
+1100001620	qui operit odium fraudulenter,	2020-04-18	Liber_Proverbiorum
+1100001621	revelabitur malitia eius in consilio.	2020-04-18	Liber_Proverbiorum
+1100001622	qui fodit foveam incidet in eam,	2020-04-18	Liber_Proverbiorum
+1100001623	et qui volvit lapidem revertetur ad eum.	2020-04-18	Liber_Proverbiorum
+1100001624	lingua fallax non amat veritatem,	2020-04-18	Liber_Proverbiorum
+1100001625	et os lubricum operatur ruinas.	2020-04-18	Liber_Proverbiorum
+1100001626	caput 27	2020-04-18	Liber_Proverbiorum
+1100001627	ne glorieris in crastinum,	2020-04-18	Liber_Proverbiorum
+1100001628	ignorans quid superventura pariat dies.	2020-04-18	Liber_Proverbiorum
+1100001629	laudet te alienus, et non os tuum;	2020-04-18	Liber_Proverbiorum
+1100001630	extraneus, et non labia tua.	2020-04-18	Liber_Proverbiorum
+1100001631	grave est saxum, et onerosa arena,	2020-04-18	Liber_Proverbiorum
+1100001632	sed ira stulti utroque gravior.	2020-04-18	Liber_Proverbiorum
+1100001633	ira non habet misericordiam nec erumpens furor,	2020-04-18	Liber_Proverbiorum
+1100001634	et impetum concitati ferre quis poterit?	2020-04-18	Liber_Proverbiorum
+1100001635	melior est manifesta correptio	2020-04-18	Liber_Proverbiorum
+1100001636	quam amor absconditus.	2020-04-18	Liber_Proverbiorum
+1100001637	meliora sunt vulnera diligentis	2020-04-18	Liber_Proverbiorum
+1100001638	quam fraudulenta oscula odientis.	2020-04-18	Liber_Proverbiorum
+1100001639	anima saturata calcabit favum,	2020-04-18	Liber_Proverbiorum
+1100001640	et anima esuriens etiam amarum pro dulci sumet.	2020-04-18	Liber_Proverbiorum
+1100001641	sicut avis transmigrans de nido suo,	2020-04-18	Liber_Proverbiorum
+1100001642	sic vir qui derelinquit locum suum.	2020-04-18	Liber_Proverbiorum
+1100001643	unguento et variis odoribus delectatur cor,	2020-04-18	Liber_Proverbiorum
+1100001644	et bonis amici consiliis anima dulcoratur.	2020-04-18	Liber_Proverbiorum
+1100001645	amicum tuum et amicum patris tui ne dimiseris,	2020-04-18	Liber_Proverbiorum
+1100001646	et domum fratris tui ne ingrediaris in die afflictionis tuae.	2020-04-18	Liber_Proverbiorum
+1100001647	melior est vicinus iuxta	2020-04-18	Liber_Proverbiorum
+1100001648	quam frater procul.	2020-04-18	Liber_Proverbiorum
+1100001649	stude sapientiae, fili mi, et laetifica cor meum,	2020-04-18	Liber_Proverbiorum
+1100001650	ut possis exprobranti respondere sermonem.	2020-04-18	Liber_Proverbiorum
+1100001651	astutus videns malum, absconditus est:	2020-04-18	Liber_Proverbiorum
+1100001652	parvuli transeuntes sustinuerunt dispendia.	2020-04-18	Liber_Proverbiorum
+1100001653	tolle vestimentum eius qui spopondit pro extraneo,	2020-04-18	Liber_Proverbiorum
+1100001654	et pro alienis aufer ei pignus.	2020-04-18	Liber_Proverbiorum
+1100001655	qui benedicit proximo suo voce grandi,	2020-04-18	Liber_Proverbiorum
+1100001656	de nocte consurgens maledicenti similis erit.	2020-04-18	Liber_Proverbiorum
+1100001657	tecta perstillantia in die frigoris	2020-04-18	Liber_Proverbiorum
+1100001658	et litigiosa mulier comparantur.	2020-04-18	Liber_Proverbiorum
+1100001659	qui retinet eam quasi qui ventum teneat,	2020-04-18	Liber_Proverbiorum
+1100001660	et oleum dexterae suae vocabit.	2020-04-18	Liber_Proverbiorum
+1100001661	ferrum ferro exacuitur,	2020-04-18	Liber_Proverbiorum
+1100001662	et homo exacuit faciem amici sui.	2020-04-18	Liber_Proverbiorum
+1100001663	qui servat ficum comedet fructus eius,	2020-04-18	Liber_Proverbiorum
+1100001664	et qui custos est domini sui glorificabitur.	2020-04-18	Liber_Proverbiorum
+1100001665	quomodo in aquis resplendent vultus prospicientium,	2020-04-18	Liber_Proverbiorum
+1100001666	sic corda hominum manifesta sunt prudentibus.	2020-04-18	Liber_Proverbiorum
+1100001667	infernus et perditio numquam implentur:	2020-04-18	Liber_Proverbiorum
+1100001668	similiter et oculi hominum insatiabiles.	2020-04-18	Liber_Proverbiorum
+1100001669	quomodo probatur in conflatorio argentum et in fornace aurum,	2020-04-18	Liber_Proverbiorum
+1100001670	sic probatur homo ore laudantis.	2020-04-18	Liber_Proverbiorum
+1100001671	cor iniqui inquirit mala,	2020-04-18	Liber_Proverbiorum
+1100001672	cor autem rectum inquirit scientiam.	2020-04-18	Liber_Proverbiorum
+1100001673	si contuderis stultum in pila	2020-04-18	Liber_Proverbiorum
+1100001674	quasi ptisanas feriente desuper pilo,	2020-04-18	Liber_Proverbiorum
+1100001675	non auferetur ab eo stultitia eius.	2020-04-18	Liber_Proverbiorum
+1100001676	diligenter agnosce vultum pecoris tui,	2020-04-18	Liber_Proverbiorum
+1100001677	tuosque greges considera:	2020-04-18	Liber_Proverbiorum
+1100001678	non enim habebis iugiter potestatem,	2020-04-18	Liber_Proverbiorum
+1100001679	sed corona tribuetur in generationem et generationem.	2020-04-18	Liber_Proverbiorum
+1100001680	aperta sunt prata, et apparuerunt herbae virentes,	2020-04-18	Liber_Proverbiorum
+1100001681	et collecta sunt foena de montibus.	2020-04-18	Liber_Proverbiorum
+1100001682	agni ad vestimentum tuum,	2020-04-18	Liber_Proverbiorum
+1100001683	et haedi ad agri pretium.	2020-04-18	Liber_Proverbiorum
+1100001684	sufficiat tibi lac caprarum in cibos tuos,	2020-04-18	Liber_Proverbiorum
+1100001685	et in necessaria domus tuae, et ad victum ancillis tuis.	2020-04-18	Liber_Proverbiorum
+1100001686	caput 28	2020-04-18	Liber_Proverbiorum
+1100001687	fugit impius nemine persequente;	2020-04-18	Liber_Proverbiorum
+1100001688	iustus autem, quasi leo confidens, absque terrore erit.	2020-04-18	Liber_Proverbiorum
+1100001689	propter peccata terrae multi principes eius;	2020-04-18	Liber_Proverbiorum
+1100001690	et propter hominis sapientiam, et horum scientiam quae dicuntur,	2020-04-18	Liber_Proverbiorum
+1100001691	vita ducis longior erit.	2020-04-18	Liber_Proverbiorum
+1100001692	vir pauper calumnians pauperes	2020-04-18	Liber_Proverbiorum
+1100001693	similis est imbri vehementi in quo paratur fames.	2020-04-18	Liber_Proverbiorum
+1100001694	qui derelinquunt legem laudant impium;	2020-04-18	Liber_Proverbiorum
+1100001695	qui custodiunt, succenduntur contra eum.	2020-04-18	Liber_Proverbiorum
+1100001696	viri mali non cogitant iudicium;	2020-04-18	Liber_Proverbiorum
+1100001697	qui autem inquirunt dominum animadvertunt omnia.	2020-04-18	Liber_Proverbiorum
+1100001698	melior est pauper ambulans in simplicitate sua	2020-04-18	Liber_Proverbiorum
+1100001699	quam dives in pravis itineribus.	2020-04-18	Liber_Proverbiorum
+1100001700	qui custodit legem filius sapiens est;	2020-04-18	Liber_Proverbiorum
+1100001701	qui autem comessatores pascit confundit patrem suum.	2020-04-18	Liber_Proverbiorum
+1100001702	qui coacervat divitias usuris et foenore,	2020-04-18	Liber_Proverbiorum
+1100001703	liberali in pauperes congregat eas.	2020-04-18	Liber_Proverbiorum
+1100001704	qui declinat aures suas ne audiat legem,	2020-04-18	Liber_Proverbiorum
+1100001705	oratio eius erit execrabilis.	2020-04-18	Liber_Proverbiorum
+1100001706	qui decipit iustos in via mala, in interitu suo corruet,	2020-04-18	Liber_Proverbiorum
+1100001707	et simplices possidebunt bona eius.	2020-04-18	Liber_Proverbiorum
+1100001708	sapiens sibi videtur vir dives;	2020-04-18	Liber_Proverbiorum
+1100001709	pauper autem prudens scrutabitur eum.	2020-04-18	Liber_Proverbiorum
+1100001710	in exsultatione iustorum multa gloria est;	2020-04-18	Liber_Proverbiorum
+1100001711	regnantibus impiis, ruinae hominum.	2020-04-18	Liber_Proverbiorum
+1100001712	qui abscondit scelera sua non dirigetur;	2020-04-18	Liber_Proverbiorum
+1100001713	qui autem confessus fuerit et reliquerit ea, misericordiam consequetur.	2020-04-18	Liber_Proverbiorum
+1100001714	beatus homo qui semper est pavidus;	2020-04-18	Liber_Proverbiorum
+1100001715	qui vero mentis est durae corruet in malum.	2020-04-18	Liber_Proverbiorum
+1100001716	leo rugiens et ursus esuriens,	2020-04-18	Liber_Proverbiorum
+1100001717	princeps impius super populum pauperem.	2020-04-18	Liber_Proverbiorum
+1100001718	dux indigens prudentia multos opprimet per calumniam;	2020-04-18	Liber_Proverbiorum
+1100001719	qui autem odit avaritiam, longi fient dies eius.	2020-04-18	Liber_Proverbiorum
+1100001720	hominem qui calumniatur animae sanguinem,	2020-04-18	Liber_Proverbiorum
+1100001721	si usque ad lacum fugerit, nemo sustinet.	2020-04-18	Liber_Proverbiorum
+1100001722	qui ambulat simpliciter salvus erit;	2020-04-18	Liber_Proverbiorum
+1100001723	qui perversis graditur viis concidet semel.	2020-04-18	Liber_Proverbiorum
+1100001724	qui operatur terram suam satiabitur panibus;	2020-04-18	Liber_Proverbiorum
+1100001725	qui autem sectatur otium replebitur egestate.	2020-04-18	Liber_Proverbiorum
+1100001726	vir fidelis multum laudabitur;	2020-04-18	Liber_Proverbiorum
+1100001727	qui autem festinat ditari non erit innocens.	2020-04-18	Liber_Proverbiorum
+1100001728	qui cognoscit in iudicio faciem non bene facit;	2020-04-18	Liber_Proverbiorum
+1100001729	iste et pro buccella panis deserit veritatem.	2020-04-18	Liber_Proverbiorum
+1100001730	vir qui festinat ditari, et aliis invidet,	2020-04-18	Liber_Proverbiorum
+1100001731	ignorat quod egestas superveniet ei.	2020-04-18	Liber_Proverbiorum
+1100001732	qui corripit hominem gratiam postea inveniet apud eum,	2020-04-18	Liber_Proverbiorum
+1100001733	magis quam ille qui per linguae blandimenta decipit.	2020-04-18	Liber_Proverbiorum
+1100001734	qui subtrahit aliquid a patre suo et a matre,	2020-04-18	Liber_Proverbiorum
+1100001735	et dicit hoc non esse peccatum,	2020-04-18	Liber_Proverbiorum
+1100001736	particeps homicidae est.	2020-04-18	Liber_Proverbiorum
+1100001737	qui se iactat et dilatat, iurgia concitat;	2020-04-18	Liber_Proverbiorum
+1100001738	qui vero sperat in domino sanabitur.	2020-04-18	Liber_Proverbiorum
+1100001739	qui confidit in corde suo stultus est;	2020-04-18	Liber_Proverbiorum
+1100001740	qui autem graditur sapienter, ipse salvabitur.	2020-04-18	Liber_Proverbiorum
+1100001741	qui dat pauperi non indigebit;	2020-04-18	Liber_Proverbiorum
+1100001742	qui despicit deprecantem sustinebit penuriam.	2020-04-18	Liber_Proverbiorum
+1100001743	cum surrexerint impii, abscondentur homines;	2020-04-18	Liber_Proverbiorum
+1100001744	cum illi perierint, multiplicabuntur iusti.	2020-04-18	Liber_Proverbiorum
+1100001745	caput 29	2020-04-18	Liber_Proverbiorum
+1100001746	viro qui corripientem dura cervice contemnit,	2020-04-18	Liber_Proverbiorum
+1100001747	repentinus ei superveniet interitus,	2020-04-18	Liber_Proverbiorum
+1100001748	et eum sanitas non sequetur.	2020-04-18	Liber_Proverbiorum
+1100001749	in multiplicatione iustorum laetabitur vulgus;	2020-04-18	Liber_Proverbiorum
+1100001750	cum impii sumpserint principatum, gemet populus.	2020-04-18	Liber_Proverbiorum
+1100001751	vir qui amat sapientiam laetificat patrem suum;	2020-04-18	Liber_Proverbiorum
+1100001752	qui autem nutrit scorta perdet substantiam.	2020-04-18	Liber_Proverbiorum
+1100001753	rex iustus erigit terram;	2020-04-18	Liber_Proverbiorum
+1100001754	vir avarus destruet eam.	2020-04-18	Liber_Proverbiorum
+1100001755	homo qui blandis fictisque sermonibus loquitur amico suo	2020-04-18	Liber_Proverbiorum
+1100001756	rete expandit gressibus eius.	2020-04-18	Liber_Proverbiorum
+1100001757	peccantem virum iniquum involvet laqueus,	2020-04-18	Liber_Proverbiorum
+1100001758	et iustus laudabit atque gaudebit.	2020-04-18	Liber_Proverbiorum
+1100001759	novit iustus causam pauperum;	2020-04-18	Liber_Proverbiorum
+1100001760	impius ignorat scientiam.	2020-04-18	Liber_Proverbiorum
+1100001761	homines pestilentes dissipant civitatem;	2020-04-18	Liber_Proverbiorum
+1100001762	sapientes vero avertunt furorem.	2020-04-18	Liber_Proverbiorum
+1100001763	vir sapiens si cum stulto contenderit,	2020-04-18	Liber_Proverbiorum
+1100001764	sive irascatur, sive rideat, non inveniet requiem.	2020-04-18	Liber_Proverbiorum
+1100001765	viri sanguinum oderunt simplicem;	2020-04-18	Liber_Proverbiorum
+1100001766	iusti autem quaerunt animam eius.	2020-04-18	Liber_Proverbiorum
+1100001767	totum spiritum suum profert stultus;	2020-04-18	Liber_Proverbiorum
+1100001768	sapiens differt, et reservat in posterum.	2020-04-18	Liber_Proverbiorum
+1100001769	princeps qui libenter audit verba mendacii,	2020-04-18	Liber_Proverbiorum
+1100001770	omnes ministros habet impios.	2020-04-18	Liber_Proverbiorum
+1100001771	pauper et creditor obviaverunt sibi:	2020-04-18	Liber_Proverbiorum
+1100001772	utriusque illuminator est dominus.	2020-04-18	Liber_Proverbiorum
+1100001773	rex qui iudicat in veritate pauperes,	2020-04-18	Liber_Proverbiorum
+1100001774	thronus eius in aeternum firmabitur.	2020-04-18	Liber_Proverbiorum
+1100001775	virga atque correptio tribuit sapientiam;	2020-04-18	Liber_Proverbiorum
+1100001776	puer autem qui dimittitur voluntati suae confundit matrem suam.	2020-04-18	Liber_Proverbiorum
+1100001777	in multiplicatione impiorum multiplicabuntur scelera,	2020-04-18	Liber_Proverbiorum
+1100001778	et iusti ruinas eorum videbunt.	2020-04-18	Liber_Proverbiorum
+1100001779	erudi filium tuum, et refrigerabit te,	2020-04-18	Liber_Proverbiorum
+1100001780	et dabit delicias animae tuae.	2020-04-18	Liber_Proverbiorum
+1100001781	cum prophetia defecerit, dissipabitur populus;	2020-04-18	Liber_Proverbiorum
+1100001782	qui vero custodit legem beatus est.	2020-04-18	Liber_Proverbiorum
+1100001783	servus verbis non potest erudiri,	2020-04-18	Liber_Proverbiorum
+1100001784	quia quod dicis intelligit, et respondere contemnit.	2020-04-18	Liber_Proverbiorum
+1100001785	vidisti hominem velocem ad loquendum?	2020-04-18	Liber_Proverbiorum
+1100001786	stultitia magis speranda est quam illius correptio.	2020-04-18	Liber_Proverbiorum
+1100001787	qui delicate a pueritia nutrit servum suum	2020-04-18	Liber_Proverbiorum
+1100001788	postea sentiet eum contumacem.	2020-04-18	Liber_Proverbiorum
+1100001789	vir iracundus provocat rixas,	2020-04-18	Liber_Proverbiorum
+1100001790	et qui ad indignandum facilis est erit ad peccandum proclivior.	2020-04-18	Liber_Proverbiorum
+1100001791	superbum sequitur humilitas,	2020-04-18	Liber_Proverbiorum
+1100001792	et humilem spiritu suscipiet gloria.	2020-04-18	Liber_Proverbiorum
+1100001793	qui cum fure participat odit animam suam;	2020-04-18	Liber_Proverbiorum
+1100001794	adiurantem audit, et non indicat.	2020-04-18	Liber_Proverbiorum
+1100001795	qui timet hominem cito corruet;	2020-04-18	Liber_Proverbiorum
+1100001796	qui sperat in domino sublevabitur.	2020-04-18	Liber_Proverbiorum
+1100001797	multi requirunt faciem principis,	2020-04-18	Liber_Proverbiorum
+1100001798	et iudicium a domino egreditur singulorum.	2020-04-18	Liber_Proverbiorum
+1100001799	abominantur iusti virum impium,	2020-04-18	Liber_Proverbiorum
+1100001800	et abominantur impii eos qui in recta sunt via.	2020-04-18	Liber_Proverbiorum
+1100001801	verbum custodiens filius	2020-04-18	Liber_Proverbiorum
+1100001802	extra perditionem erit.	2020-04-18	Liber_Proverbiorum
+1100001803	caput 30	2020-04-18	Liber_Proverbiorum
+1100001804	verba congregantis, filii vomentis. 	2020-04-18	Liber_Proverbiorum
+1100001805	visio quam locutus est vir cum quo est deus, et qui deo secum morante confortatus, ait:	2020-04-18	Liber_Proverbiorum
+1100001806	stultissimus sum virorum,	2020-04-18	Liber_Proverbiorum
+1100001807	et sapientia hominum non est mecum.	2020-04-18	Liber_Proverbiorum
+1100001808	non didici sapientiam,	2020-04-18	Liber_Proverbiorum
+1100001809	et non novi scientiam sanctorum.	2020-04-18	Liber_Proverbiorum
+1100001810	quis ascendit in caelum, atque descendit?	2020-04-18	Liber_Proverbiorum
+1100001811	quis continuit spiritum in manibus suis?	2020-04-18	Liber_Proverbiorum
+1100001812	quis colligavit aquas quasi in vestimento?	2020-04-18	Liber_Proverbiorum
+1100001813	quis suscitavit omnes terminos terrae?	2020-04-18	Liber_Proverbiorum
+1100001814	quod nomen est eius, et quod nomen filii eius, si nosti?	2020-04-18	Liber_Proverbiorum
+1100001815	omnis sermo dei ignitus:	2020-04-18	Liber_Proverbiorum
+1100001816	clypeus est sperantibus in se.	2020-04-18	Liber_Proverbiorum
+1100001817	ne addas quidquam verbis illius,	2020-04-18	Liber_Proverbiorum
+1100001818	et arguaris, inveniarisque mendax.	2020-04-18	Liber_Proverbiorum
+1100001819	duo rogavi te:	2020-04-18	Liber_Proverbiorum
+1100001820	ne deneges mihi antequam moriar:	2020-04-18	Liber_Proverbiorum
+1100001821	vanitatem et verba mendacia longe fac a me;	2020-04-18	Liber_Proverbiorum
+1100001822	mendicitatem et divitias ne dederis mihi:	2020-04-18	Liber_Proverbiorum
+1100001823	tribue tantum victui meo necessaria,	2020-04-18	Liber_Proverbiorum
+1100001824	ne forte satiatus illiciar ad negandum,	2020-04-18	Liber_Proverbiorum
+1100001825	et dicam: quis est dominus?	2020-04-18	Liber_Proverbiorum
+1100001826	aut egestate compulsus, furer,	2020-04-18	Liber_Proverbiorum
+1100001827	et periurem nomen dei mei.	2020-04-18	Liber_Proverbiorum
+1100001828	ne accuses servum ad dominum suum,	2020-04-18	Liber_Proverbiorum
+1100001829	ne forte maledicat tibi, et corruas.	2020-04-18	Liber_Proverbiorum
+1100001830	generatio quae patri suo maledicit,	2020-04-18	Liber_Proverbiorum
+1100001831	et quae matri suae non benedicit;	2020-04-18	Liber_Proverbiorum
+1100001832	generatio quae sibi munda videtur,	2020-04-18	Liber_Proverbiorum
+1100001833	et tamen non est lota a sordibus suis;	2020-04-18	Liber_Proverbiorum
+1100001834	generatio cuius excelsi sunt oculi,	2020-04-18	Liber_Proverbiorum
+1100001835	et palpebrae eius in alta surrectae;	2020-04-18	Liber_Proverbiorum
+1100001836	generatio quae pro dentibus gladios habet,	2020-04-18	Liber_Proverbiorum
+1100001837	et commandit molaribus suis,	2020-04-18	Liber_Proverbiorum
+1100001838	ut comedat inopes de terra,	2020-04-18	Liber_Proverbiorum
+1100001839	et pauperes ex hominibus.	2020-04-18	Liber_Proverbiorum
+1100001840	sanguisugae duae sunt filiae,	2020-04-18	Liber_Proverbiorum
+1100001841	dicentes: affer, affer.	2020-04-18	Liber_Proverbiorum
+1100001842	tria sunt insaturabilia,	2020-04-18	Liber_Proverbiorum
+1100001843	et quartum quod numquam dicit: sufficit.	2020-04-18	Liber_Proverbiorum
+1100001844	infernus, et os vulvae,	2020-04-18	Liber_Proverbiorum
+1100001845	et terra quae non satiatur aqua:	2020-04-18	Liber_Proverbiorum
+1100001846	ignis vero numquam dicit: sufficit.	2020-04-18	Liber_Proverbiorum
+1100001847	oculum qui subsannat patrem,	2020-04-18	Liber_Proverbiorum
+1100001848	et qui despicit partum matris suae,	2020-04-18	Liber_Proverbiorum
+1100001849	effodiant eum corvi de torrentibus,	2020-04-18	Liber_Proverbiorum
+1100001850	et comedant eum filii aquilae!	2020-04-18	Liber_Proverbiorum
+1100001851	tria sunt difficilia mihi,	2020-04-18	Liber_Proverbiorum
+1100001852	et quartum penitus ignoro:	2020-04-18	Liber_Proverbiorum
+1100001853	viam aquilae in caelo,	2020-04-18	Liber_Proverbiorum
+1100001854	viam colubri super petram,	2020-04-18	Liber_Proverbiorum
+1100001855	viam navis in medio mari,	2020-04-18	Liber_Proverbiorum
+1100001856	et viam viri in adolescentia.	2020-04-18	Liber_Proverbiorum
+1100001857	talis est et via mulieris adulterae,	2020-04-18	Liber_Proverbiorum
+1100001858	quae comedit, et tergens os suum	2020-04-18	Liber_Proverbiorum
+1100001859	dicit: non sum operata malum.	2020-04-18	Liber_Proverbiorum
+1100001860	per tria movetur terra,	2020-04-18	Liber_Proverbiorum
+1100001861	et quartum non potest sustinere:	2020-04-18	Liber_Proverbiorum
+1100001862	per servum, cum regnaverit;	2020-04-18	Liber_Proverbiorum
+1100001863	per stultum, cum saturatus fuerit cibo;	2020-04-18	Liber_Proverbiorum
+1100001864	per odiosam mulierem, cum in matrimonio fuerit assumpta;	2020-04-18	Liber_Proverbiorum
+1100001865	et per ancillam, cum fuerit haeres dominae suae.	2020-04-18	Liber_Proverbiorum
+1100001866	quatuor sunt minima terrae,	2020-04-18	Liber_Proverbiorum
+1100001867	et ipsa sunt sapientiora sapientibus:	2020-04-18	Liber_Proverbiorum
+1100001868	formicae, populus infirmus,	2020-04-18	Liber_Proverbiorum
+1100001869	qui praeparat in messe cibum sibi;	2020-04-18	Liber_Proverbiorum
+1100001870	lepusculus, plebs invalida,	2020-04-18	Liber_Proverbiorum
+1100001871	qui collocat in petra cubile suum;	2020-04-18	Liber_Proverbiorum
+1100001872	regem locusta non habet,	2020-04-18	Liber_Proverbiorum
+1100001873	et egreditur universa per turmas suas;	2020-04-18	Liber_Proverbiorum
+1100001874	stellio manibus nititur,	2020-04-18	Liber_Proverbiorum
+1100001875	et moratur in aedibus regis.	2020-04-18	Liber_Proverbiorum
+1100001876	tria sunt quae bene gradiuntur,	2020-04-18	Liber_Proverbiorum
+1100001877	et quartum quod incedit feliciter:	2020-04-18	Liber_Proverbiorum
+1100001878	leo, fortissimus bestiarum,	2020-04-18	Liber_Proverbiorum
+1100001879	ad nullius pavebit occursum;	2020-04-18	Liber_Proverbiorum
+1100001880	gallus succinctus lumbos;	2020-04-18	Liber_Proverbiorum
+1100001881	et aries; nec est rex, qui resistat ei.	2020-04-18	Liber_Proverbiorum
+1100001882	est qui stultus apparuit postquam elevatus est in sublime;	2020-04-18	Liber_Proverbiorum
+1100001883	si enim intellexisset, ori suo imposuisset manum.	2020-04-18	Liber_Proverbiorum
+1100001884	qui autem fortiter premit ubera ad eliciendum lac exprimit butyrum;	2020-04-18	Liber_Proverbiorum
+1100001885	et qui vehementer emungit elicit sanguinem;	2020-04-18	Liber_Proverbiorum
+1100001886	et qui provocat iras producit discordias.	2020-04-18	Liber_Proverbiorum
+1100001887	caput 31	2020-04-18	Liber_Proverbiorum
+1100001888	verba lamuelis regis. 	2020-04-18	Liber_Proverbiorum
+1100001889	visio qua erudivit eum mater sua.	2020-04-18	Liber_Proverbiorum
+1100001890	quid, dilecte mi? 	2020-04-18	Liber_Proverbiorum
+1100001891	quid, dilecte uteri mei?	2020-04-18	Liber_Proverbiorum
+1100001892	quid, dilecte votorum meorum?	2020-04-18	Liber_Proverbiorum
+1100001893	ne dederis mulieribus substantiam tuam,	2020-04-18	Liber_Proverbiorum
+1100001894	et divitias tuas ad delendos reges.	2020-04-18	Liber_Proverbiorum
+1100001895	noli regibus, o lamuel, noli regibus dare vinum,	2020-04-18	Liber_Proverbiorum
+1100001896	quia nullum secretum est ubi regnat ebrietas;	2020-04-18	Liber_Proverbiorum
+1100001897	et ne forte bibant, et obliviscantur iudiciorum,	2020-04-18	Liber_Proverbiorum
+1100001898	et mutent causam filiorum pauperis.	2020-04-18	Liber_Proverbiorum
+1100001899	date siceram moerentibus,	2020-04-18	Liber_Proverbiorum
+1100001900	et vinum his qui amaro sunt animo.	2020-04-18	Liber_Proverbiorum
+1100001901	bibant, et obliviscantur egestatis suae,	2020-04-18	Liber_Proverbiorum
+1100001902	et doloris sui non recordentur amplius.	2020-04-18	Liber_Proverbiorum
+1100001903	aperi os tuum muto,	2020-04-18	Liber_Proverbiorum
+1100001904	et causis omnium filiorum qui pertranseunt.	2020-04-18	Liber_Proverbiorum
+1100001905	aperi os tuum, decerne quod iustum est,	2020-04-18	Liber_Proverbiorum
+1100001906	et iudica inopem et pauperem.	2020-04-18	Liber_Proverbiorum
+1100001907	mulierem fortem quis inveniet?	2020-04-18	Liber_Proverbiorum
+1100001908	procul et de ultimis finibus pretium eius.	2020-04-18	Liber_Proverbiorum
+1100001909	confidit in ea cor viri sui,	2020-04-18	Liber_Proverbiorum
+1100001910	et spoliis non indigebit.	2020-04-18	Liber_Proverbiorum
+1100001911	reddet ei bonum, et non malum,	2020-04-18	Liber_Proverbiorum
+1100001912	omnibus diebus vitae suae.	2020-04-18	Liber_Proverbiorum
+1100001913	quaesivit lanam et linum,	2020-04-18	Liber_Proverbiorum
+1100001914	et operata est consilia manuum suarum.	2020-04-18	Liber_Proverbiorum
+1100001915	facta est quasi navis institoris,	2020-04-18	Liber_Proverbiorum
+1100001916	de longe portans panem suum.	2020-04-18	Liber_Proverbiorum
+1100001917	et de nocte surrexit,	2020-04-18	Liber_Proverbiorum
+1100001918	deditque praedam domesticis suis,	2020-04-18	Liber_Proverbiorum
+1100001919	et cibaria ancillis suis.	2020-04-18	Liber_Proverbiorum
+1100001920	consideravit agrum, et emit eum;	2020-04-18	Liber_Proverbiorum
+1100001921	de fructu manuum suarum plantavit vineam.	2020-04-18	Liber_Proverbiorum
+1100001922	accinxit fortitudine lumbos suos,	2020-04-18	Liber_Proverbiorum
+1100001923	et roboravit brachium suum.	2020-04-18	Liber_Proverbiorum
+1100001924	gustavit, et vidit quia bona est negotiatio eius;	2020-04-18	Liber_Proverbiorum
+1100001925	non extinguetur in nocte lucerna eius.	2020-04-18	Liber_Proverbiorum
+1100001926	manum suam misit ad fortia,	2020-04-18	Liber_Proverbiorum
+1100001927	et digiti eius apprehenderunt fusum.	2020-04-18	Liber_Proverbiorum
+1100001928	manum suam aperuit inopi,	2020-04-18	Liber_Proverbiorum
+1100001929	et palmas suas extendit ad pauperem.	2020-04-18	Liber_Proverbiorum
+1100001930	non timebit domui suae a frigoribus nivis;	2020-04-18	Liber_Proverbiorum
+1100001931	omnes enim domestici eius vestiti sunt duplicibus.	2020-04-18	Liber_Proverbiorum
+1100001932	stragulatam vestem fecit sibi;	2020-04-18	Liber_Proverbiorum
+1100001933	byssus et purpura indumentum eius.	2020-04-18	Liber_Proverbiorum
+1100001934	nobilis in portis vir eius,	2020-04-18	Liber_Proverbiorum
+1100001935	quando sederit cum senatoribus terrae.	2020-04-18	Liber_Proverbiorum
+1100001936	sindonem fecit, et vendidit,	2020-04-18	Liber_Proverbiorum
+1100001937	et cingulum tradidit chananaeo.	2020-04-18	Liber_Proverbiorum
+1100001938	fortitudo et decor indumentum eius,	2020-04-18	Liber_Proverbiorum
+1100001939	et ridebit in die novissimo.	2020-04-18	Liber_Proverbiorum
+1100001940	os suum aperuit sapientiae,	2020-04-18	Liber_Proverbiorum
+1100001941	et lex clementiae in lingua eius.	2020-04-18	Liber_Proverbiorum
+1100001942	consideravit semitas domus suae,	2020-04-18	Liber_Proverbiorum
+1100001943	et panem otiosa non comedit.	2020-04-18	Liber_Proverbiorum
+1100001944	surrexerunt filii eius, et beatissimam praedicaverunt;	2020-04-18	Liber_Proverbiorum
+1100001945	vir eius, et laudavit eam.	2020-04-18	Liber_Proverbiorum
+1100001946	multae filiae congregaverunt divitias;	2020-04-18	Liber_Proverbiorum
+1100001947	tu supergressa es universas.	2020-04-18	Liber_Proverbiorum
+1100001948	fallax gratia, et vana est pulchritudo:	2020-04-18	Liber_Proverbiorum
+1100001949	mulier timens dominum, ipsa laudabitur.	2020-04-18	Liber_Proverbiorum
+1100001950	date ei de fructu manuum suarum,	2020-04-18	Liber_Proverbiorum
+1100001951	et laudent eam in portis opera eius.	2020-04-18	Liber_Proverbiorum

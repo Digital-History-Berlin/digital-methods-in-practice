@@ -1,0 +1,238 @@
+1100000001	liber esdrae	2020-04-18	Liber_Esdrae
+1100000002	caput 1	2020-04-18	Liber_Esdrae
+1100000003	in anno primo cyri regis persarum, ut compleretur verbum domini ex ore ieremiae, suscitavit dominus spiritum cyri regis persarum: et traduxit vocem in omni regno suo, etiam per scripturam, dicens:haec dicit cyrus rex persarum: omnia regna terrae dedit mihi dominus deus caeli, et ipse praecepit mihi ut aedificarem ei domum in ierusalem, quae est in iudaea.	2020-04-18	Liber_Esdrae
+1100000004	quis est in vobis de universo populo eius? 	2020-04-18	Liber_Esdrae
+1100000005	sit deus illius cum ipso. 	2020-04-18	Liber_Esdrae
+1100000006	ascendat in ierusalem, quae est in iudaea, et aedificet domum domini dei israel: ipse est deus qui est in ierusalem.	2020-04-18	Liber_Esdrae
+1100000007	et omnes reliqui in cunctis locis ubicumque habitant, adiuvent eum viri de loco suo argento et auro, et substantia, et pecoribus, excepto quod voluntarie offerunt templo dei, quod est in ierusalem.	2020-04-18	Liber_Esdrae
+1100000008	et surrexerunt principes patrum de iuda et beniamin, et sacerdotes, et levitae, et omnis cuius deus suscitavit spiritum, ut ascenderent ad aedificandum templum domini, quod erat in ierusalem.	2020-04-18	Liber_Esdrae
+1100000009	universique qui erant in circuitu, adiuverunt manus eorum in vasis argenteis et aureis, in substantia et iumentis, in supellectili, exceptis his quae sponte obtulerant.	2020-04-18	Liber_Esdrae
+1100000010	rex quoque cyrus protulit vasa templi domini, quae tulerat nabuchodonosor de ierusalem, et posuerat ea in templo dei sui.	2020-04-18	Liber_Esdrae
+1100000011	protulit autem ea cyrus rex persarum per manum mithridatis filii gazabar, et annumeravit ea sassabasar principi iuda.	2020-04-18	Liber_Esdrae
+1100000012	et hic est numerus eorum: phialae aureae triginta, phialae argenteae mille, cultri viginti novem, scyphi aurei triginta,scyphi argentei secundi quadringenti decem, vasa alia mille.	2020-04-18	Liber_Esdrae
+1100000013	omnia vasa aurea et argentea quinque millia quadringenta: universa tulit sassabasar cum his qui ascendebant de transmigratione babylonis in ierusalem.	2020-04-18	Liber_Esdrae
+1100000014	caput 2	2020-04-18	Liber_Esdrae
+1100000015	hi sunt autem provinciae filii, qui ascenderunt de captivitate, quam transtulerat nabuchodonosor rex babylonis in babylonem, et reversi sunt in ierusalem et iudam, unusquisque in civitatem suam.	2020-04-18	Liber_Esdrae
+1100000016	qui venerunt cum zorobabel, iosue, nehemia, saraia, rahelaia, mardochai, belsan, mesphar, beguai, rehum, baana. 	2020-04-18	Liber_Esdrae
+1100000017	numerus virorum populi israel:filii pharos duo millia centum septuaginta duo.	2020-04-18	Liber_Esdrae
+1100000018	filii sephatia, trecenti septuaginta duo.	2020-04-18	Liber_Esdrae
+1100000019	filii area, septingenti septuaginta quinque.	2020-04-18	Liber_Esdrae
+1100000020	filii phahath moab, filiorum iosue: ioab, duo millia octingenti duodecim.	2020-04-18	Liber_Esdrae
+1100000021	filii aelam, mille ducenti quinquaginta quatuor.	2020-04-18	Liber_Esdrae
+1100000022	filii zethua, nongenti quadraginta quinque.	2020-04-18	Liber_Esdrae
+1100000023	filii zachai, septingenti sexaginta.	2020-04-18	Liber_Esdrae
+1100000024	filii bani, sexcenti quadraginta duo.	2020-04-18	Liber_Esdrae
+1100000025	filii bebai, sexcenti viginti tres.	2020-04-18	Liber_Esdrae
+1100000026	filii azgad, mille ducenti viginti duo.	2020-04-18	Liber_Esdrae
+1100000027	filii adonicam, sexcenti sexaginta sex.	2020-04-18	Liber_Esdrae
+1100000028	filii beguai, duo millia quinquaginta sex.	2020-04-18	Liber_Esdrae
+1100000029	filii adin, quadringenti quinquaginta quatuor.	2020-04-18	Liber_Esdrae
+1100000030	filii ather, qui erant ex ezechia, nonaginta octo.	2020-04-18	Liber_Esdrae
+1100000031	filii besai, trecenti viginti tres.	2020-04-18	Liber_Esdrae
+1100000032	filii iora, centum duodecim.	2020-04-18	Liber_Esdrae
+1100000033	filii hasum, ducenti viginti tres.	2020-04-18	Liber_Esdrae
+1100000034	filii gebbar, nonaginta quinque.	2020-04-18	Liber_Esdrae
+1100000035	filii bethlehem, centum viginti tres.	2020-04-18	Liber_Esdrae
+1100000036	viri netupha, quinquaginta sex.	2020-04-18	Liber_Esdrae
+1100000037	viri anathoth, centum viginti octo.	2020-04-18	Liber_Esdrae
+1100000038	filii azmaveth, quadraginta duo.	2020-04-18	Liber_Esdrae
+1100000039	filii cariathiarim, cephira et beroth, septingenti quadraginta tres.	2020-04-18	Liber_Esdrae
+1100000040	filii rama et gabaa, sexcenti viginti unus.	2020-04-18	Liber_Esdrae
+1100000041	viri machmas, centum viginti duo.	2020-04-18	Liber_Esdrae
+1100000042	viri bethel et hai, ducenti viginti tres.	2020-04-18	Liber_Esdrae
+1100000043	filii nebo, quinquaginta duo.	2020-04-18	Liber_Esdrae
+1100000044	filii megbis, centum quinquaginta sex.	2020-04-18	Liber_Esdrae
+1100000045	filii aelam alterius, mille ducenti quinquaginta quatuor.	2020-04-18	Liber_Esdrae
+1100000046	filii harim, trecenti viginti.	2020-04-18	Liber_Esdrae
+1100000047	filii lod hadid, et ono, septingenti viginti quinque.	2020-04-18	Liber_Esdrae
+1100000048	filii iericho, trecenti quadraginta quinque.	2020-04-18	Liber_Esdrae
+1100000049	filii senaa, tria millia sexcenti triginta.	2020-04-18	Liber_Esdrae
+1100000050	sacerdotes: filii iadaia in domo iosue, nongenti septuaginta tres.	2020-04-18	Liber_Esdrae
+1100000051	filii emmer, mille quinquaginta duo.	2020-04-18	Liber_Esdrae
+1100000052	filii pheshur, mille ducenti quadraginta septem.	2020-04-18	Liber_Esdrae
+1100000053	filii harim, mille decem et septem.	2020-04-18	Liber_Esdrae
+1100000054	levitae: filii iosue et cedmihel filiorum odoviae, septuaginta quatuor.	2020-04-18	Liber_Esdrae
+1100000055	cantores: filii asaph, centum viginti octo.	2020-04-18	Liber_Esdrae
+1100000056	filii ianitorum: filii sellum, filii ater, filii telmon, filii accub, filii hatitha, filii sobai: universi centum triginta novem.	2020-04-18	Liber_Esdrae
+1100000057	nathinaei: filii siha, filii hasupha, filii tabbaoth,filii ceros, filii siaa, filii phadon,filii lebana, filii hagaba, filii accub,filii hagab, filii semlai, filii hanan,filii gaddel, filii gaher, filii raaia,filii rasin, filii necoda, filii gazam,filii aza, filii phasea, filii besee,filii asena, filii munim, filii nephusim,filii bacbuc, filii hacupha, filii harhur,filii besluth, filii mahida, filii harsa,filii bercos, filii sisara, filii thema,filii nasia, filii hatipha,filii servorum salomonis, filii sotai, filii sophereth, filii pharuda,filii iala, filii dercon, filii geddel,filii saphatia, filii hatil, filii phochereth, qui erant de asebaim, filii ami:omnes nathinaei, et filii servorum salomonis, trecenti nonaginta duo.	2020-04-18	Liber_Esdrae
+1100000058	et hi qui ascenderunt de thelmala, thelharsa, cherub, et adon, et emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex israel essent.	2020-04-18	Liber_Esdrae
+1100000059	filii dalaia, filii tobia, filii necoda, sexcenti quinquaginta duo.	2020-04-18	Liber_Esdrae
+1100000060	et de filiis sacerdotum: filii hobia, filii accos, filii berzellai, qui accepit de filiabus berzellai galaaditis, uxorem, et vocatus est nomine eorum:hi quaesierunt scripturam genealogiae suae, et non invenerunt, et eiecti sunt de sacerdotio.	2020-04-18	Liber_Esdrae
+1100000061	et dixit athersatha eis ut non comederent de sancto sanctorum, donec surgeret sacerdos doctus atque perfectus.	2020-04-18	Liber_Esdrae
+1100000062	omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:exceptis servis eorum, et ancillis, qui erant septem millia trecenti triginta septem: et in ipsis cantores atque cantatrices ducenti.	2020-04-18	Liber_Esdrae
+1100000063	equi eorum septingenti triginta sex, muli eorum, ducenti quadraginta quinque,cameli eorum, quadringenti triginta quinque, asini eorum, sex millia septingenti viginti.	2020-04-18	Liber_Esdrae
+1100000064	et de principibus patrum, cum ingrederentur templum domini, quod est in ierusalem, sponte obtulerunt in domum dei ad exstruendam eam in loco suo.	2020-04-18	Liber_Esdrae
+1100000065	secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.	2020-04-18	Liber_Esdrae
+1100000066	habitaverunt ergo sacerdotes, et levitae, et de populo, et cantores, et ianitores, et nathinaei, in urbibus suis, universusque israel in civitatibus suis.	2020-04-18	Liber_Esdrae
+1100000067	caput 3	2020-04-18	Liber_Esdrae
+1100000068	iamque venerat mensis septimus, et erant filii israel in civitatibus suis: congregatus est ergo populus quasi vir unus in ierusalem.	2020-04-18	Liber_Esdrae
+1100000069	et surrexit iosue filius iosedec, et fratres eius sacerdotes, et zorobabel filius salathiel, et fratres eius, et aedificaverunt altare dei israel ut offerrent in eo holocautomata, sicut scriptum est in lege moysi viri dei.	2020-04-18	Liber_Esdrae
+1100000070	collocaverunt autem altare dei super bases suas, deterrentibus eos per circuitum populis terrarum: et obtulerunt super illud holocaustum domino mane et vespere.	2020-04-18	Liber_Esdrae
+1100000071	feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum praeceptum opus diei in die suo.	2020-04-18	Liber_Esdrae
+1100000072	et post haec holocaustum iuge, tam in calendis quam in universis solemnitatibus domini quae erant consecratae, et in omnibus in quibus ultro offerebatur munus domino.	2020-04-18	Liber_Esdrae
+1100000073	a primo die mensis septimi coeperunt offerre holocaustum domino: porro templum dei nondum fundatum erat.	2020-04-18	Liber_Esdrae
+1100000074	dederunt autem pecunias latomis et caementariis: cibum quoque, et potum, et oleum sidoniis tyriisque, ut deferrent ligna cedrina de libano ad mare ioppe, iuxta quod praeceperat cyrus rex persarum eis.	2020-04-18	Liber_Esdrae
+1100000075	anno autem secundo adventus eorum ad templum dei in ierusalem, mense secundo, coeperunt zorobabel filius salathiel, et iosue filius iosedec, et reliqui de fratribus eorum sacerdotes, et levitae, et omnes qui venerant de captivitate in ierusalem, et constituerunt levitas a viginti annis et supra, ut urgerent opus domini.	2020-04-18	Liber_Esdrae
+1100000076	stetitque iosue et filii eius et fratres eius, cedmihel et filii eius, et filii iuda, quasi vir unus, ut instarent super eos qui faciebant opus in templo dei: filii henadad, et filii eorum, et fratres eorum levitae.	2020-04-18	Liber_Esdrae
+1100000077	fundato igitur a caementariis templo domini, steterunt sacerdotes in ornatu suo cum tubis, et levitae filii asaph in cymbalis, ut laudarent deum per manus david regis israel.	2020-04-18	Liber_Esdrae
+1100000078	et concinebant in hymnis, et confessione domino: quoniam bonus, quoniam in aeternum misericordia eius super israel. 	2020-04-18	Liber_Esdrae
+1100000079	omnis quoque populus vociferabatur clamore magno in laudando dominum, eo quod fundatum esset templum domini.	2020-04-18	Liber_Esdrae
+1100000080	plurimi etiam de sacerdotibus et levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum, in oculis eorum, flebant voce magna: et multi vociferantes in laetitia, elevabant vocem.	2020-04-18	Liber_Esdrae
+1100000081	nec poterat quisquam agnoscere vocem clamoris laetantium, et vocem fletus populi: commistim enim populus vociferabatur clamore magno, et vox audiebatur procul.	2020-04-18	Liber_Esdrae
+1100000082	caput 4	2020-04-18	Liber_Esdrae
+1100000083	audierunt autem hostes iudae et beniamin, quia filii captivitatis aedificarent templum domino deo israel:et accedentes ad zorobabel, et ad principes patrum, dixerunt eis: aedificemus vobiscum, quia ita ut vos, quaerimus deum vestrum: ecce nos immolavimus victimas a diebus asor haddan regis assur, qui adduxit nos huc.	2020-04-18	Liber_Esdrae
+1100000084	et dixit eis zorobabel, et iosue, et reliqui principes patrum israel: non est vobis et nobis ut aedificemus domum deo nostro, sed nos ipsi soli aedificabimus domino deo nostro, sicut praecepit nobis cyrus rex persarum.	2020-04-18	Liber_Esdrae
+1100000085	factum est igitur ut populus terrae impediret manus populi iudae, et turbaret eos in aedificando.	2020-04-18	Liber_Esdrae
+1100000086	conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus cyri regis persarum, et usque ad regnum darii regis persarum.	2020-04-18	Liber_Esdrae
+1100000087	in regno autem assueri, in principio regni eius, scripserunt accusationem adversus habitatores iudae et ierusalem.	2020-04-18	Liber_Esdrae
+1100000088	et in diebus artaxerxis scripsit beselam, mithridates, et thabeel, et reliqui qui erant in consilio eorum, ad artaxerxem regem persarum: epistola autem accusationis scripta erat syriace, et legebatur sermone syro.	2020-04-18	Liber_Esdrae
+1100000089	reum beelteem, et samsai scriba, scripserunt epistolam unam de ierusalem artaxerxi regi, huiuscemodi:reum beelteem, et samsai scriba, et reliqui consiliatores eorum, dinaei, et apharsathachaei, terphalaei, apharsaei, erchuaei, babylonii, susanechaei, dievi, et aelamitae,et ceteri de gentibus, quas transtulit asenaphar magnus et gloriosus, et habitare eas fecit in civitatibus samariae, et in reliquis regionibus trans flumen in pace(hoc est exemplar epistolae, quam miserunt ad eum), artaxerxi regi, servi tui, viri qui sunt trans fluvium, salutem dicunt.	2020-04-18	Liber_Esdrae
+1100000090	notum sit regi quia iudaei, qui ascenderunt a te ad nos, venerunt in ierusalem civitatem rebellem et pessimam, quam aedificant exstruentes muros eius, et parietes componentes.	2020-04-18	Liber_Esdrae
+1100000091	nunc igitur notum sit regi, quia si civitas illa aedificata fuerit, et muri eius instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges haec noxa perveniet.	2020-04-18	Liber_Esdrae
+1100000092	nos autem memores salis, quod in palatio comedimus, et quia laesiones regis videre nefas ducimus, idcirco misimus et nuntiavimus regi,ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est.	2020-04-18	Liber_Esdrae
+1100000093	nuntiamus nos regi, quoniam si civitas illa aedificata fuerit, et muri ipsius instaurati, possessionem trans fluvium non habebis.	2020-04-18	Liber_Esdrae
+1100000094	verbum misit rex ad reum beelteem, et samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores samariae, et ceteris trans fluvium, salutem dicens et pacem.	2020-04-18	Liber_Esdrae
+1100000095	accusatio, quam misistis ad nos, manifeste lecta est coram me,et a me praeceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et praelia concitantur in ea:nam et reges fortissimi fuerunt in ierusalem, qui et dominati sunt omni regioni quae trans fluvium est: tributum quoque et vectigal, et reditus accipiebant.	2020-04-18	Liber_Esdrae
+1100000096	nunc ergo audite sententiam: prohibeatis viros illos, ut urbs illa non aedificetur donec si forte a me iussum fuerit.	2020-04-18	Liber_Esdrae
+1100000097	videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges.	2020-04-18	Liber_Esdrae
+1100000098	itaque exemplum edicti artaxerxis regis lectum est coram reum beelteem, et samsai scriba, et consiliariis eorum: et abierunt festini in ierusalem ad iudaeos, et prohibuerunt eos in brachio et robore.	2020-04-18	Liber_Esdrae
+1100000099	tunc intermissum est opus domus domini in ierusalem, et non fiebat usque ad annum secundum regni darii regis persarum.	2020-04-18	Liber_Esdrae
+1100000100	caput 5	2020-04-18	Liber_Esdrae
+1100000101	prophetaverunt autem aggaeus propheta, et zacharias filius addo, prophetantes ad iudaeos qui erant in iudaea et ierusalem, in nomine dei israel.	2020-04-18	Liber_Esdrae
+1100000102	tunc surrexerunt zorobabel filius salathiel, et iosue filius iosedec, et coeperunt aedificare templum dei in ierusalem, et cum eis prophetae dei adiuvantes eos.	2020-04-18	Liber_Esdrae
+1100000103	in ipso autem tempore venit ad eos thathanai, qui erat dux trans flumen, et stharbuzanai, et consiliarii eorum: sicque dixerunt eis: quis dedit vobis consilium ut domum hanc aedificaretis, et muros eius instauraretis?	2020-04-18	Liber_Esdrae
+1100000104	ad quod respondimus eis, quae essent nomina hominum auctorum aedificationis illius.	2020-04-18	Liber_Esdrae
+1100000105	oculus autem dei eorum factus est super senes iudaeorum, et non potuerunt inhibere eos. 	2020-04-18	Liber_Esdrae
+1100000106	placuitque ut res ad darium referretur, et tunc satisfacerent adversus accusationem illam.	2020-04-18	Liber_Esdrae
+1100000107	exemplar epistolae, quam misit thathanai dux regionis trans flumen, et stharbuzanai, et consiliatores eius arphasachaei, qui erant trans flumen, ad darium regem.	2020-04-18	Liber_Esdrae
+1100000108	sermo, quem miserant ei, sic scriptus erat: dario regi pax omnis.	2020-04-18	Liber_Esdrae
+1100000109	notum sit regi, isse nos ad iudaeam provinciam, ad domum dei magni, quae aedificatur lapide impolito, et ligna ponuntur in parietibus: opusque illud diligenter exstruitur, et crescit in manibus eorum.	2020-04-18	Liber_Esdrae
+1100000110	interrogavimus ergo senes illos, et ita diximus eis: quis dedit vobis potestatem ut domum hanc aedificaretis, et muros hos instauraretis?	2020-04-18	Liber_Esdrae
+1100000111	sed et nomina eorum quaesivimus ab eis, ut nuntiaremus tibi: scripsimusque nomina eorum virorum, qui sunt principes in eis.	2020-04-18	Liber_Esdrae
+1100000112	huiuscemodi autem sermonem responderunt nobis dicentes: nos sumus servi dei caeli et terrae, et aedificamus templum, quod erat exstructum ante hos annos multos, quodque rex israel magnus aedificaverat, et exstruxerat.	2020-04-18	Liber_Esdrae
+1100000113	postquam autem ad iracundiam provocaverunt patres nostri deum caeli, tradidit eos in manus nabuchodonosor regis babylonis chaldaei, domum quoque hanc destruxit, et populum eius transtulit in babylonem.	2020-04-18	Liber_Esdrae
+1100000114	anno autem primo cyri regis babylonis, cyrus rex proposuit edictum ut domus dei haec aedificaretur.	2020-04-18	Liber_Esdrae
+1100000115	nam et vasa templi dei aurea et argentea, quae nabuchodonosor tulerat de templo, quod erat in ierusalem, et asportaverat ea in templum babylonis, protulit cyrus rex de templo babylonis, et data sunt sassabasar vocabulo, quem et principem constituit,dixitque ei: haec vasa tolle, et vade, et pone ea in templo, quod est in ierusalem, et domus dei aedificetur in loco suo.	2020-04-18	Liber_Esdrae
+1100000116	tunc itaque sassabasar ille venit et posuit fundamenta templi dei in ierusalem, et ex eo tempore usque nunc aedificatur, et necdum completum est.	2020-04-18	Liber_Esdrae
+1100000117	nunc ergo si videtur regi bonum, recenseat in bibliotheca regis, quae est in babylone, utrumnam a cyro rege iussum fuerit ut aedificaretur domus dei in ierusalem, et voluntatem regis super hac re mittat ad nos.	2020-04-18	Liber_Esdrae
+1100000118	caput 6	2020-04-18	Liber_Esdrae
+1100000119	tunc darius rex praecepit: et recensuerunt in bibliotheca librorum, qui erant repositi in babylone.	2020-04-18	Liber_Esdrae
+1100000120	et inventum est in ecbatanis, quod est castrum in medena provincia, volumen unum: talisque scriptus erat in eo commentarius:anno primo cyri regis, cyrus rex decrevit ut domus dei aedificaretur, quae est in ierusalem, in loco ubi immolent hostias, et ut ponant fundamenta supportantia altitudinem cubitorum sexaginta, et latitudinem cubitorum sexaginta,ordines de lapidibus impolitis tres, et sic ordines de lignis novis: sumptus autem de domo regis dabuntur.	2020-04-18	Liber_Esdrae
+1100000121	sed et vasa templi dei aurea et argentea, quae nabuchodonosor tulerat de templo ierusalem, et attulerat ea in babylonem, reddantur, et referantur in templum in ierusalem in locum suum, quae et posita sunt in templo dei.	2020-04-18	Liber_Esdrae
+1100000122	nunc ergo thathanai dux regionis, quae est trans flumen, stharbuzanai, et consiliarii vestri apharsachaei, qui estis trans flumen, procul recedite ab illis,et dimittite fieri templum dei illud a duce iudaeorum, et a senioribus eorum, ut domum dei illam aedificent in loco suo.	2020-04-18	Liber_Esdrae
+1100000123	sed et a me praeceptum est quid oporteat fieri a presbyteris iudaeorum illis ut aedificetur domus dei, scilicet ut de arca regis, id est, de tributis quae dantur de regione trans flumen, studiose sumptus dentur viris illis, ne impediatur opus.	2020-04-18	Liber_Esdrae
+1100000124	quod si necesse fuerit, et vitulos, et agnos, et haedos in holocaustum deo caeli, frumentum, sal, vinum, et oleum, secundum ritum sacerdotum, qui sunt in ierusalem, detur eis per singulos dies, ne sit in aliquo querimonia.	2020-04-18	Liber_Esdrae
+1100000125	et offerant oblationes deo caeli, orentque pro vita regis, et filiorum eius.	2020-04-18	Liber_Esdrae
+1100000126	a me ergo positum est decretum: ut omnis homo qui hanc mutaverit iussionem, tollatur lignum de domum ipsius, et erigatur, et configatur in eo, domus autem eius publicetur.	2020-04-18	Liber_Esdrae
+1100000127	deus autem, qui habitare fecit nomen suum ibi, dissipet omnia regna, et populum qui extenderit manum suam ut repugnet, et dissipet domum dei illam, quae est in ierusalem. 	2020-04-18	Liber_Esdrae
+1100000128	ego darius statui decretum, quod studiose impleri volo.	2020-04-18	Liber_Esdrae
+1100000129	igitur thathanai dux regionis trans flumen, et stharbuzanai, et consiliarii eius, secundum quod praeceperat darius rex, sic diligenter executi sunt.	2020-04-18	Liber_Esdrae
+1100000130	seniores autem iudaeorum aedificabant, et prosperabantur iuxta prophetiam aggaei prophetae, et zachariae filii addo: et aedificaverunt et construxerunt, iubente deo israel, et iubente cyro, et dario, et artaxerxe regibus persarum:et compleverunt domum dei istam, usque ad diem tertium mensis adar, qui est annus sextus regni darii regis.	2020-04-18	Liber_Esdrae
+1100000131	fecerunt autem filii israel sacerdotes et levitae, et reliqui filiorum transmigrationis, dedicationem domus dei in gaudio.	2020-04-18	Liber_Esdrae
+1100000132	et obtulerunt in dedicationem domus dei, vitulos centum, arietes ducentos, agnos quadringentos, hircos caprarum pro peccato totius israel duodecim, iuxta numerum tribuum israel.	2020-04-18	Liber_Esdrae
+1100000133	et statuerunt sacerdotes in ordinibus suis, et levitas in vicibus suis, super opera dei in ierusalem, sicut scriptum est in libro moysi.	2020-04-18	Liber_Esdrae
+1100000134	fecerunt autem filii israel transmigrationis pascha, quartadecima die mensis primi.	2020-04-18	Liber_Esdrae
+1100000135	purificati enim fuerant sacerdotes et levitae quasi unus: omnes mundi ad immolandum pascha universis filiis transmigrationis, et fratribus suis sacerdotibus, et sibi.	2020-04-18	Liber_Esdrae
+1100000136	et comederunt filii israel, qui reversi fuerant de transmigratione, et omnes qui se separaverant a coinquinatione gentium terrae ad eos, ut quaererent dominum deum israel.	2020-04-18	Liber_Esdrae
+1100000137	et fecerunt solemnitatem azymorum septem diebus in laetitia, quoniam laetificaverat eos dominus, et converterat cor regis assur ad eos, ut adiuvaret manus eorum in opere domus domini dei israel.	2020-04-18	Liber_Esdrae
+1100000138	caput 7	2020-04-18	Liber_Esdrae
+1100000139	post haec autem verba in regno artaxerxis regis persarum, esdras filius saraiae, filii azariae, filii helciae,filii sellum, filii sadoc, filii achitob,filii amariae, filii azariae, filii maraioth,filii zarahiae, filii ozi, filii bocci,filii abisue, filii phinees, filii eleazar, filii aaron sacerdotis ab initio.	2020-04-18	Liber_Esdrae
+1100000140	ipse esdras ascendit de babylone, et ipse scriba velox in lege moysi, quam dominus deus dedit israel: et dedit ei rex secundum manum domini dei eius super eum, omnem petitionem eius.	2020-04-18	Liber_Esdrae
+1100000141	et ascenderunt de filiis israel, et de filiis sacerdotum, et de filiis levitarum, et de cantoribus, et de ianitoribus, et de nathinaeis, in ierusalem, anno septimo artaxerxis regis.	2020-04-18	Liber_Esdrae
+1100000142	et venerunt in ierusalem mense quinto, ipse est annus septimus regis.	2020-04-18	Liber_Esdrae
+1100000143	quia in primo die mensis primi coepit ascendere de babylone, et in primo die mensis quinti venit in ierusalem, iuxta manum dei sui bonam super se.	2020-04-18	Liber_Esdrae
+1100000144	esdras enim paravit cor suum, ut investigaret legem domini, et faceret et doceret in israel praeceptum et iudicium.	2020-04-18	Liber_Esdrae
+1100000145	hoc est autem exemplar epistolae edicti, quod dedit rex artaxerxes esdrae sacerdoti, scribae erudito in sermonibus et praeceptis domini, et caeremoniis eius in israel.	2020-04-18	Liber_Esdrae
+1100000146	artaxerxes rex regum esdrae sacerdoti scribae legis dei caeli doctissimo, salutem.	2020-04-18	Liber_Esdrae
+1100000147	a me decretum est, ut cuicumque placuerit in regno meo de populo israel, et de sacerdotibus eius, et de levitis, ire in ierusalem, tecum vadat.	2020-04-18	Liber_Esdrae
+1100000148	a facie enim regis, et septem consiliatorum eius, missus es, ut visites iudaeam et ierusalem in lege dei tui, quae est in manu tua:et ut feras argentum et aurum quod rex, et consiliatores eius, sponte obtulerunt deo israel, cuius in ierusalem tabernaculum est.	2020-04-18	Liber_Esdrae
+1100000149	et omne argentum et aurum quodcumque inveneris in universa provincia babylonis, et populus offerre voluerit, et de sacerdotibus quae sponte obtulerint domui dei sui, quae est in ierusalem,libere accipe, et studiose eme de hac pecunia vitulos, arietes, agnos, et sacrificia, et libamina eorum, et offer ea super altare templi dei vestri, quod est in ierusalem.	2020-04-18	Liber_Esdrae
+1100000150	sed et si quid tibi et fratribus tuis placuerit de reliquo argento et auro ut faciatis, iuxta voluntatem dei vestri facite.	2020-04-18	Liber_Esdrae
+1100000151	vasa quoque, quae dantur tibi in ministerium domus dei tui, trade in conspectu dei in ierusalem.	2020-04-18	Liber_Esdrae
+1100000152	sed et cetera, quibus opus fuerit in domum dei tui, quantumcumque necesse est ut expendas, dabitur de thesauro, et de fisco regis,et a me. 	2020-04-18	Liber_Esdrae
+1100000153	ego artaxerxes rex, statui atque decrevi omnibus custodibus arcae publicae, qui sunt trans flumen, ut quodcumque petierit a vobis esdras sacerdos, scriba legis dei caeli, absque mora detis,usque ad argenti talenta centum, et usque ad frumenti coros centum, et usque ad vini batos centum, et usque ad batos olei centum, sal vero absque mensura.	2020-04-18	Liber_Esdrae
+1100000154	omne quod ad ritum dei caeli pertinet, tribuatur diligenter in domo dei caeli: ne forte irascatur contra regnum regis, et filiorum eius.	2020-04-18	Liber_Esdrae
+1100000155	vobis quoque notum facimus de universis sacerdotibus, et levitis, et cantoribus, et ianitoribus, nathinaeis, et ministris domus dei huius, ut vectigal, et tributum, et annonas non habeatis potestatem imponendi super eos.	2020-04-18	Liber_Esdrae
+1100000156	tu autem esdra, secundum sapientiam dei tui, quae est in manu tua, constitue iudices et praesides, ut iudicent omni populo qui est trans flumen, his videlicet qui noverunt legem dei tui: sed et imperitos docete libere.	2020-04-18	Liber_Esdrae
+1100000157	et omnis qui non fecerit legem dei tui, et legem regis, diligenter, iudicium erit de eo sive in mortem, sive in exilium, sive in condemnationem substantiae eius, vel certe in carcerem.	2020-04-18	Liber_Esdrae
+1100000158	benedictus dominus deus patrum nostrorum, qui dedit hoc in corde regis ut glorificaret domum domini quae est in ierusalem,et in me inclinavit misericordiam suam coram rege et consiliatoribus eius, et universis principibus regis potentibus: et ego confortatus manu domini dei mei, quae erat in me, congregavi de israel principes qui ascenderent mecum.	2020-04-18	Liber_Esdrae
+1100000159	caput 8	2020-04-18	Liber_Esdrae
+1100000160	hi sunt ergo principes familiarum, et genealogia eorum, qui ascenderunt mecum in regno artaxerxis regis de babylone.	2020-04-18	Liber_Esdrae
+1100000161	de filiis phinees, gersom. 	2020-04-18	Liber_Esdrae
+1100000162	de filiis ithamar, daniel. 	2020-04-18	Liber_Esdrae
+1100000163	de filiis david, hattus.	2020-04-18	Liber_Esdrae
+1100000164	de filiis secheniae, filiis pharos, zacharias: et cum eo numerati sunt viri centum quinquaginta.	2020-04-18	Liber_Esdrae
+1100000165	de filiis phahath moab, elioenai filius zarehe, et cum eo ducenti viri.	2020-04-18	Liber_Esdrae
+1100000166	de filiis secheniae, filius ezechiel, et cum eo trecenti viri.	2020-04-18	Liber_Esdrae
+1100000167	de filiis adan, abed filius ionathan, et cum eo quinquaginta viri.	2020-04-18	Liber_Esdrae
+1100000168	de filiis alam, isaias filius athaliae, et cum eo septuaginta viri.	2020-04-18	Liber_Esdrae
+1100000169	de filiis saphatiae, zebedia filius michael, et cum eo octoginta viri.	2020-04-18	Liber_Esdrae
+1100000170	de filiis ioab, obedia filius iahiel, et cum eo ducenti decem et octo viri.	2020-04-18	Liber_Esdrae
+1100000171	de filiis selomith, filius iosphiae, et cum eo centum sexaginta viri.	2020-04-18	Liber_Esdrae
+1100000172	de filiis bebai, zacharias filius bebai, et cum eo viginti octo viri.	2020-04-18	Liber_Esdrae
+1100000173	de filiis azgad, iohanan filius eccetan, et cum eo centum et decem viri.	2020-04-18	Liber_Esdrae
+1100000174	de filiis adonicam, qui erant novissimi: et haec nomina eorum: elipheleth, et iehiel, et samaias, et cum eis sexaginta viri.	2020-04-18	Liber_Esdrae
+1100000175	de filii begui, uthai et zachur, et cum eis septuaginta viri.	2020-04-18	Liber_Esdrae
+1100000176	congregavi autem eos ad fluvium qui decurrit ad ahava, et mansimus ibi tribus diebus: quaesivique in populo et in sacerdotibus de filiis levi, et non inveni ibi.	2020-04-18	Liber_Esdrae
+1100000177	itaque misi eliezer, et ariel, et semeiam, et elnathan, et iarib, et alterum elnathan, et nathan, et zachariam, et mosollam principes: et ioiarib, et elnathan sapientes.	2020-04-18	Liber_Esdrae
+1100000178	et misi eos ad eddo, qui est primus in chasphiae loco, et posui in ore eorum verba, quae loquerentur ad eddo, et fratres eius nathinaeos in loco chasphiae, ut adducerent nobis ministros domus dei nostri.	2020-04-18	Liber_Esdrae
+1100000179	et adduxerunt nobis per manum dei nostri bonam super nos, virum doctissimum de filiis moholi filii levi, filii israel, et sarabiam et filios eius et fratres eius decem et octo,et hasabiam, et cum eo isaiam de filiis merari, fratresque eius, et filios eius viginti:et de nathinaeis, quos dederat david et principes ad ministeria levitarum, nathinaeos ducentos viginti: omnes hi suis nominibus vocabantur.	2020-04-18	Liber_Esdrae
+1100000180	et praedicavi ibi ieiunium iuxta fluvium ahava, ut affligeremur coram domino deo nostro, et peteremus ab eo viam rectam nobis et filiis nostris, universaeque substantiae nostrae.	2020-04-18	Liber_Esdrae
+1100000181	erubui enim petere a rege auxilium et equites, qui defenderent nos ab inimico in via: quia dixeramus regi: manus dei nostri est super omnes qui quaerunt eum in bonitate: et imperium eius, et fortitudo eius, et furor, super omnes qui derelinquunt eum.	2020-04-18	Liber_Esdrae
+1100000182	ieiunavimus autem, et rogavimus deum nostrum per hoc: et evenit nobis prospere.	2020-04-18	Liber_Esdrae
+1100000183	et separavi de principibus sacerdotum duodecim, sarabiam, et hasabiam, et cum eis de fratribus eorum decem:appendique eis argentum et aurum, et vasa consecrata domus dei nostri, quae obtulerat rex et consiliatores eius, et principes eius, universusque israel eorum qui inventi fuerant:et appendi in manibus eorum argenti talenta sexcenta quinquaginta, et vasa argentea centum, auri centum talenta:et crateres aureos viginti, qui habebant solidos millenos, et vasa aeris fulgentis optimi duo, pulchra ut aurum.	2020-04-18	Liber_Esdrae
+1100000184	et dixi eis: vos sancti domini, et vasa sancta, et argentum et aurum, quod sponte oblatum est domino deo patrum nostrorum:vigilate et custodite, donec appendatis coram principibus sacerdotum, et levitarum, et ducibus familiarum israel in ierusalem, in thesaurum domus domini.	2020-04-18	Liber_Esdrae
+1100000185	susceperunt autem sacerdotes et levitae pondus argenti, et auri, et vasorum, ut deferrent ierusalem in domum dei nostri.	2020-04-18	Liber_Esdrae
+1100000186	promovimus ergo a flumine ahava duodecimo die mensis primi ut pergeremus ierusalem: et manus dei nostri fuit super nos, et liberavit nos de manu inimici et insidiatoris in via.	2020-04-18	Liber_Esdrae
+1100000187	et venimus ierusalem, et mansimus ibi tribus diebus.	2020-04-18	Liber_Esdrae
+1100000188	die autem quarta appensum est argentum, et aurum, et vasa in domo dei nostri per manum meremoth filii uriae sacerdotis, et cum eo eleazar filius phinees, cumque eis iozabed filius iosue, et noadaia filius bennoi levitae,iuxta numerum et pondus omnium: descriptumque est omne pondus in tempore illo.	2020-04-18	Liber_Esdrae
+1100000189	sed et qui venerant de captivitate filii transmigrationis, obtulerunt holocautomata deo israel, vitulos duodecim pro omni populo israel, arietes nonaginta sex, agnos septuaginta septem, hircos pro peccato duodecim: omnia in holocaustum domino.	2020-04-18	Liber_Esdrae
+1100000190	dederunt autem edicta regis satrapis qui erant de conspectu regis, et ducibus trans flumen, et elevaverunt populum et domum dei.	2020-04-18	Liber_Esdrae
+1100000191	caput 9	2020-04-18	Liber_Esdrae
+1100000192	postquam autem haec completa sunt, accesserunt ad me principes, dicentes: non est separatus populus israel, sacerdotes et levitae, a populis terrarum et abominationibus eorum: chananaei videlicet, et hethaei, et pherezaei, et iebusaei, et ammonitarum, et moabitarum, et aegyptiorum, et amorrhaeorum:tulerunt enim de filiabus eorum sibi et filiis suis, et commiscuerunt semen sanctum cum populis terrarum: manus etiam principum et magistratuum fuit in transgressione hac prima.	2020-04-18	Liber_Esdrae
+1100000193	cumque audissem sermonem istum, scidi pallium meum et tunicam, et evelli capillos capitis mei et barbae, et sedi moerens.	2020-04-18	Liber_Esdrae
+1100000194	convenerunt autem ad me omnes qui timebant verbum dei israel, pro transgressione eorum qui de captivitate venerant, et ego sedebam tristis usque ad sacrificium vespertinum:et in sacrificio vespertino, surrexi de afflictione mea, et scisso pallio et tunica, curvavi genua mea, et expandi manus meas ad dominum deum meum.	2020-04-18	Liber_Esdrae
+1100000195	et dixi: deus meus, confundor et erubesco levare faciem meam ad te: quoniam iniquitates nostrae multiplicatae sunt super caput nostrum, et delicta nostra creverunt usque ad caelum,a diebus patrum nostrorum: sed et nos ipsi peccavimus graviter usque ad diem hanc, et in iniquitatibus nostris traditi sumus ipsi, et reges nostri, et sacerdotes nostri, in manum regum terrarum, et in gladium, et in captivitatem, et in rapinam, et in confusionem vultus, sicut et die hac.	2020-04-18	Liber_Esdrae
+1100000196	et nunc quasi parum et ad momentum facta est deprecatio nostra apud dominum deum nostrum, ut dimitterentur nobis reliquiae, et daretur nobis paxillus in loco sancto eius, et illuminaret oculos nostros deus noster, et daret nobis vitam modicam in servitute nostra:quia servi sumus, et in servitute nostra non dereliquit nos deus noster, sed inclinavit super nos misericordiam coram rege persarum, ut daret nobis vitam, et sublimaret domum dei nostri, et exstrueret solitudines eius, et daret nobis sepem in iuda et ierusalem.	2020-04-18	Liber_Esdrae
+1100000197	et nunc quid dicemus, deus noster, post haec? 	2020-04-18	Liber_Esdrae
+1100000198	quia dereliquimus mandata tua,quae praecepisti in manu servorum tuorum prophetarum, dicens: terra, ad quam vos ingredimini ut possideatis eam, terra immunda est iuxta immunditiam populorum, ceterarumque terrarum, abominationibus eorum qui repleverunt eam ab ore usque ad os in coinquinatione sua.	2020-04-18	Liber_Esdrae
+1100000199	nunc ergo filias vestras ne detis filiis eorum, et filias eorum ne accipiatis filiis vestris, et non quaeratis pacem eorum et prosperitatem eorum usque in aeternum: ut confortemini, et comedatis quae bona sunt terrae, et haeredes habeatis filios vestros usque in saeculum.	2020-04-18	Liber_Esdrae
+1100000200	et post omnia quae venerunt super nos in operibus nostris pessimis, et in delicto nostro magno, quia tu, deus noster, liberasti nos de iniquitate nostra, et dedisti nobis salutem sicut est hodie,ut non converteremur, et irrita faceremus mandata tua, neque matrimonia iungeremus cum populis abominationum istarum. 	2020-04-18	Liber_Esdrae
+1100000201	numquid iratus es nobis usque ad consummationem, ne dimitteres nobis reliquias ad salutem?	2020-04-18	Liber_Esdrae
+1100000202	domine deus israel, iustus es tu: quoniam derelicti sumus, qui salvaremur sicut die hac. 	2020-04-18	Liber_Esdrae
+1100000203	ecce coram te sumus in delicto nostro: non enim stari potest coram te super hoc.	2020-04-18	Liber_Esdrae
+1100000204	caput 10	2020-04-18	Liber_Esdrae
+1100000205	sic ergo orante esdra, et implorante eo et flente, et iacente ante templum dei, collectus est ad eum de israel coetus grandis nimis virorum et mulierum et puerorum, et flevit populus fletu multo.	2020-04-18	Liber_Esdrae
+1100000206	et respondit sechenias filius iehiel de filiis aelam, et dixit esdrae: nos praevaricati sumus in deum nostrum, et duximus uxores alienigenas de populis terrae: et nunc, si est poenitentia in israel super hoc,percutiamus foedus cum domino deo nostro, ut proiiciamus universas uxores, et eos qui de his nati sunt, iuxta voluntatem domini, et eorum qui timent praeceptum domini dei nostri: secundum legem fiat.	2020-04-18	Liber_Esdrae
+1100000207	surge, tuum est decernere, nosque erimus tecum: confortare, et fac.	2020-04-18	Liber_Esdrae
+1100000208	surrexit ergo esdras, et adiuravit principes sacerdotum et levitarum, et omnem israel, ut facerent secundum verbum hoc: et iuraverunt.	2020-04-18	Liber_Esdrae
+1100000209	et surrexit esdras ante domum dei, et abiit ad cubiculum iohanan filii eliasib, et ingressus est illuc: panem non comedit, et aquam non bibit: lugebat enim transgressionem eorum, qui venerant de captivitate.	2020-04-18	Liber_Esdrae
+1100000210	et missa est vox in iuda et in ierusalem omnibus filiis transmigrationis, ut congregarentur in ierusalem:et omnis qui non venerit in tribus diebus iuxta consilium principum et seniorum, auferetur universa substantia eius, et ipse abiicietur de coetu transmigrationis.	2020-04-18	Liber_Esdrae
+1100000211	convenerunt igitur omnes viri iuda et beniamin in ierusalem tribus diebus: ipse est mensis nonus, vigesimo die mensis: et sedit omnis populus in platea domus dei, trementes pro peccato, et pluviis.	2020-04-18	Liber_Esdrae
+1100000212	et surrexit esdras sacerdos, et dixit ad eos: vos transgressi estis, et duxistis uxores alienigenas, ut adderetis super delictum israel.	2020-04-18	Liber_Esdrae
+1100000213	et nunc date confessionem domino deo patrum vestrorum, et facite placitum eius, et separamini a populis terrae, et ab uxoribus alienigenis.	2020-04-18	Liber_Esdrae
+1100000214	et respondit universa multitudo, dixitque voce magna: iuxta verbum tuum ad nos, sic fiat.	2020-04-18	Liber_Esdrae
+1100000215	verumtamen quia populus multus est, et tempus pluviae, et non sustinemus stare foris, et opus non est diei unius vel duorum (vehementer quippe peccavimus in sermone isto),constituantur principes in universa multitudine: et omnes in civitatibus nostris qui duxerunt uxores alienigenas veniant in temporibus statutis, et cum his seniores per civitatem et civitatem, et iudices eius, donec avertatur ira dei nostri a nobis super peccato hoc.	2020-04-18	Liber_Esdrae
+1100000216	igitur ionathan filius azahel, et iaasia filius thecue, steterunt super hoc, et messollam et sebethai levites adiuverunt eos:feceruntque sic filii transmigrationis. 	2020-04-18	Liber_Esdrae
+1100000217	et abierunt esdras sacerdos, et viri principes familiarum, in domos patrum suorum, et omnes per nomina sua, et sederunt in die primo mensis decimi ut quaererent rem.	2020-04-18	Liber_Esdrae
+1100000218	et consummati sunt omnes viri, qui duxerant uxores alienigenas, usque ad diem primam mensis primi.	2020-04-18	Liber_Esdrae
+1100000219	et inventi sunt de filiis sacerdotum qui duxerant uxores alienigenas. 	2020-04-18	Liber_Esdrae
+1100000220	de filiis iosue filii iosedec, et fratres eius, maasia, et eliezer, et iarib, et godolia.	2020-04-18	Liber_Esdrae
+1100000221	et dederunt manus suas ut eiicerent uxores suas, et pro delicto suo arietem de ovibus offerrent.	2020-04-18	Liber_Esdrae
+1100000222	et de filiis emmer, hanani, et zebedia.	2020-04-18	Liber_Esdrae
+1100000223	et de filiis harim, maasia, et elia, et semeia, et iehiel, et ozias.	2020-04-18	Liber_Esdrae
+1100000224	et de filiis pheshur, elioenai, maasia, ismael, nathanael, iozabed, et elasa.	2020-04-18	Liber_Esdrae
+1100000225	et de filiis levitarum, iozabed, et semei, et celaia, ipse est calita, phataia, iuda, et eliezer.	2020-04-18	Liber_Esdrae
+1100000226	et de cantoribus, eliasib. 	2020-04-18	Liber_Esdrae
+1100000227	et de ianitoribus, sellum, et telem, et uri.	2020-04-18	Liber_Esdrae
+1100000228	et ex israel, de filiis pharos, remeia, et iesia, et melchia, et miamin, et eliezer, et melchia, et banea.	2020-04-18	Liber_Esdrae
+1100000229	et de filiis aelam, mathania, zacharias, et iehiel, et abdi, et ierimoth, et elia.	2020-04-18	Liber_Esdrae
+1100000230	et de filiis zethua, elioenai, eliasib, mathania, et ierimuth, et zabad, et aziza.	2020-04-18	Liber_Esdrae
+1100000231	et de filiis bebai, iohanan, hanania, zabbai, athalai.	2020-04-18	Liber_Esdrae
+1100000232	et de filiis bani, mosollam, et melluch, et adaia, iasub, et saal, et ramoth.	2020-04-18	Liber_Esdrae
+1100000233	et de filiis phahath moab, edna, et chalal, banaias, et maasias, mathanias, beseleel, bennui, et manasse.	2020-04-18	Liber_Esdrae
+1100000234	et de filiis herem, eliezer, iosue, melchias, semeias, simeon,beniamin, maloch, samarias.	2020-04-18	Liber_Esdrae
+1100000235	et de filiis hasom, mathanai, mathatha, zabad, eliphelet, iermai, manasse, semei.	2020-04-18	Liber_Esdrae
+1100000236	de filiis bani, maadi, amram, et vel,baneas, et badaias, cheliau,vania, marimuth, et eliasib,mathanias, mathanai, et iasi,et bani, et bennui, semei,et salmias, et nathan, et adaias,et mechnedebai, sisai, sarai,ezrel, et selemiau, semeria,sellum, amaria, ioseph.	2020-04-18	Liber_Esdrae
+1100000237	de filiis nebo, iehiel, mathathias, zabad, zabina, ieddu, et ioel, et banaia.	2020-04-18	Liber_Esdrae
+1100000238	omnes hi acceperant uxores alienigenas, et fuerunt ex eis mulieres, quae pepererant filios.	2020-04-18	Liber_Esdrae

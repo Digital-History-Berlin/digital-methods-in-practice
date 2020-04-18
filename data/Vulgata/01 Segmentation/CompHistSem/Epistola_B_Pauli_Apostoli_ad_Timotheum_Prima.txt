@@ -1,0 +1,93 @@
+1100000001	epistola b. pauli apostoli ad timotheum prima	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000003	paulus apostolus iesu christi secundum imperium dei salvatoris nostri, et christi iesu spei nostrae,timotheo dilecto filio in fide. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000004	gratia, misericordia, et pax a deo patre, et christo iesu domino nostro.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000005	sicut rogavi te ut remaneres ephesi cum irem in macedoniam, ut denuntiares quibusdam ne aliter docerent,neque intenderent fabulis, et genealogiis interminatis: quae quaestiones praestant magis quam aedificationem dei, quae est in fide.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000006	finis autem praecepti est caritas de corde puro, et conscientia bona, et fide non ficta.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000007	a quibus quidam aberrantes, conversi sunt in vaniloquium,volentes esse legis doctores, non intelligentes neque quae loquuntur, neque de quibus affirmant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000008	scimus autem quia bona est lex si quis ea legitime utatur:sciens hoc quia lex iusto non est posita, sed iniustis, et non subditis, impiis, et peccatoribus, sceleratis, et contaminatis, parricidis, et matricidis, homicidis,fornicariis, masculorum concubitoribus, plagiariis, mendacibus, et periuris, et si quid aliud sanae doctrinae adversatur,quae est secundum evangelium gloriae beati dei, quod creditum est mihi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000009	gratias ago ei, qui me confortavit, christo iesu domino nostro, quia fidelem me existimavit, ponens in ministerio:qui prius blasphemus fui, et persecutor, et contumeliosus: sed misericordiam dei consecutus sum, quia ignorans feci in incredulitate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000010	superabundavit autem gratia domini nostri cum fide, et dilectione, quae est in christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000011	fidelis sermo, et omni acceptione dignus: quod christus iesus venit in hunc mundum peccatores salvos facere, quorum primus ego sum.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000012	sed ideo misericordiam consecutus sum: ut in me primo ostenderet christus iesus omnem patientiam ad informationem eorum, qui credituri sunt illi, in vitam aeternam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000013	regi autem saeculorum immortali, invisibili, soli deo honor et gloria in saecula saeculorum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000014	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000015	hoc praeceptum commendo tibi, fili timothee, secundum praecedentes in te prophetias, ut milites in illis bonam militiam,habens fidem, et bonam conscientiam, quam quidam repellentes, circa fidem naufragaverunt:ex quibus est hymenaeus, et alexander: quos tradidi satanae, ut discant non blasphemare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000016	caput 2	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000017	obsecro igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones, pro omnibus hominibus:pro regibus, et omnibus qui in sublimitate sunt, ut quietam et tranquillam vitam agamus in omni pietate, et castitate:hoc enim bonum est, et acceptum coram salvatore nostro deo,qui omnes homines vult salvos fieri, et ad agnitionem veritatis venire.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000018	unus enim deus, unus et mediator dei et hominum homo christus iesus:qui dedit redemptionem semetipsum pro omnibus, testimonium temporibus suis:in quo positus sum ego praedicator, et apostolus (veritatem dico, non mentior) doctor gentium in fide, et veritate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000019	volo ergo viros orare in omni loco, levantes puras manus sine ira et disceptatione.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000020	similiter et mulieres in habitu ornato, cum verecundia et sobrietate ornantes se, et non in tortis crinibus, aut auro, aut margaritas, vel veste pretiosa:sed quod decet mulieres, promittentes pietatem per opera bona.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000021	mulier in silentio discat cum omni subiectione.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000022	docere autem mulieri non permitto, neque dominari in virum: sed esse in silentio.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000023	adam enim primus formatus est: deinde heva:et adam non est seductus: mulier autem seducta in praevaricatione fuit.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000024	salvabitur autem per filiorum generationem, si permanserit in fide, et dilectione, et sanctificatione cum sobrietate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000025	caput 3	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000026	fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000027	oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,non vinolentum, non percussorem, sed modestum: non litigiosum, non cupidum, sedsuae domui bene praepositum: filios habentem subditos cum omni castitate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000028	si quis autem domui suae praeesse nescit, quomodo ecclesiae dei diligentiam habebit?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000029	non neophytum: ne in superbiam elatus, in iudicium incidat diaboli.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000030	oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000031	diaconos similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes:habentes mysterium fidei in conscientia pura.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000032	et hi autem probentur primum: et sic ministrent, nullum crimen habentes.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000033	mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000034	diaconi sint unius uxoris viri, qui filiis suis bene praesint, et suis domibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000035	qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quae est in christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000036	haec tibi scribo, sperans me ad te venire cito:si autem tardavero, ut scias quomodo oporteat te in domo dei conversari, quae est ecclesia dei vivi, columna et firmamentum veritatis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000037	et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, iustificatum est in spiritu, apparuit angelis, praedicatum est gentibus, creditum est in mundo, assumptum est in gloria.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000038	caput 4	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000039	spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus erroris, et doctrinis daemoniorum,in hypocrisi loquentium mendacium, et cauteriatam habentium suam conscientiam,prohibentium nubere, abstinere a cibis, quod deus creavit ad percipiendum cum gratiarum actione fidelibus, et iis qui cognoverunt veritatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000040	quia omnis creatura dei bona est, et nihil reiiciendum quod cum gratiarum actione percipitur:sanctificatur enim per verbum dei, et orationem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000041	haec proponens fratribus, bonus eris minister christi iesu enutritus verbis fidei, et bonae doctrinae, quam assecutus es.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000042	ineptas autem, et aniles fabulas devita: exerce autem teipsum ad pietatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000043	nam corporalis exercitatio, ad modicum utilis est: pietas autem ad omnia utilis est, promissionem habens vitae, quae nunc est, et futurae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000044	fidelis sermo, et omni acceptione dignus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000045	in hoc enim laboramus, et maledicimur, quia speramus in deum vivum, qui est salvator omnium hominum, maxime fidelium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000046	praecipe haec, et doce.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000047	nemo adolescentiam tuam contemnat: sed exemplum esto fidelium in verbo, in conversatione, in caritate, in fide, in castitate.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000048	dum venio, attende lectioni, exhortationi, et doctrinae.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000049	noli negligere gratiam, quae in te est, quae data est tibi per prophetiam, cum impositione manuum presbyterii.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000050	haec meditare, in his esto: ut profectus tuus manifestus sit omnibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000051	attende tibi, et doctrinae: insta in illis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000052	hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000053	caput 5	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000054	seniorem ne increpaveris, sed obsecra ut patrem: iuvenes, ut fratres:anus, ut matres: iuvenculas, ut sorores in omni castitate:viduas honora, quae vere viduae sunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000055	si qua autem vidua filios, aut nepotes habet: discat primum domum suam regere, et mutuam vicem reddere parentibus: hoc enim acceptum est coram deo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000056	quae autem vere vidua est, et desolata, speret in deum, et instet obsecrationibus, et orationibus nocte ac die.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000057	nam quae in deliciis est, vivens mortua est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000058	et hoc praecipe, ut irreprehensibiles sint.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000059	si quis autem suorum, et maxime domesticorum, curam non habet, fidem negavit, et est infideli deterior.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000060	vidua eligatur non minus sexaginta annorum, quae fuerit unius viri uxor,in operibus bonis testimonium habens, si filios educavit, si hospitio recepit, si sanctorum pedes lavit, si tribulationem patientibus subministravit, si omne opus bonum subsecuta est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000061	adolescentiores autem viduas devita: cum enim luxuriatae fuerint in christo, nubere volunt:habentes damnationem, quia primam fidem irritam fecerunt;simul autem et otiosae discunt circuire domos: non solum otiosae, sed et verbosae, et curiosae, loquentes quae non oportet.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000062	volo ergo iuniores nubere, filios procreare, matresfamilias esse, nullam occasionem dare adversario maledicti gratia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000063	iam enim quaedam conversae sunt retro satanam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000064	si quis fidelis habet viduas, subministret illis, et non gravetur ecclesia: ut iis quae vere viduae sunt, sufficiat.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000065	qui bene praesunt presbyteri, duplici honore digni habeantur: maxime qui laborant in verbo et doctrina.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000066	dicit enim scriptura: non alligabis os bovi trituranti. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000067	et: dignus est operarius mercede sua.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000068	adversus presbyterum accusationem noli recipere, nisi sub duobus aut tribus testibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000069	peccantes coram omnibus argue: ut et ceteri timorem habeant.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000070	testor coram deo et christo iesu, et electis angelis, ut haec custodias sine praeiudicio, nihil faciens in alteram partem declinando.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000071	manus cito nemini imposueris, neque communicaveris peccatis alienis. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000072	teipsum castum custodi.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000073	noli adhuc aquam bibere, sed modico vino utere propter stomachum tuum, et frequentes tuas infirmitates.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000074	quorumdam hominum peccata manifesta sunt, praecedentia ad iudicium: quosdam autem et subsequuntur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000075	similiter et facta bona, manifesta sunt: et quae aliter se habent, abscondi non possunt.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000076	caput 6	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000077	quicumque sunt sub iugo servi, dominos suos omni honore dignos arbitrentur, ne nomen domini et doctrina blasphemetur.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000078	qui autem fideles habent dominos, non contemnant, quia fratres sunt: sed magis serviant, quia fideles sunt et dilecti, qui beneficii participes sunt. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000079	haec doce, et exhortare.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000080	si quis aliter docet, et non acquiescit sanis sermonibus domini nostri iesu christi, et ei, quae secundum pietatem est, doctrinae:superbus est, nihil sciens, sed languens circa quaestiones, et pugnas verborum: ex quibus oriuntur invidiae, contentiones, blasphemiae, suspiciones malae,conflictationes hominum mente corruptorum, et qui veritate privati sunt, existimantium quaestum esse pietatem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000081	est autem quaestus magnus pietas cum sufficientia.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000082	nihil enim intulimus in hunc mundum: haud dubium quod nec auferre quid possumus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000083	habentes autem alimenta, et quibus tegamur, his contenti simus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000084	nam qui volunt divites fieri, incidunt in tentationem, et in laqueum diaboli, et desideria multa inutilia, et nociva, quae mergunt homines in interitum et perditionem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000085	radix enim omnium malorum est cupiditas: quam quidam appetentes erraverunt a fide, et inseruerunt se doloribus multis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000086	tu autem, o homo dei, haec fuge: sectare vero iustitiam, pietatem, fidem, caritatem, patientiam, mansuetudinem.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000087	certa bonum certamen fidei, apprehende vitam aeternam, in qua vocatus es, et confessus bonam confessionem coram multis testibus.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000088	praecipio tibi coram deo, qui vivificat omnia, et christo iesu, qui testimonium reddidit sub pontio pilato, bonam confessionem,ut serves mandatum sine macula, irreprehensibile usque in adventum domini nostri iesu christi,quem suis temporibus ostendet beatus et solus potens, rex regum, et dominus dominantium:qui solus habet immortalitatem, et lucem inhabitat inaccessibilem: quem nullus hominum vidit, sed nec videre potest: cui honor, et imperium sempiternum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000089	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000090	divitibus huius saeculi praecipe non sublime sapere, neque sperare in incerto divitiarum, sed in deo vivo (qui praestat nobis omnia abunde ad fruendum)bene agere, divites fieri in bonis operibus, facile tribuere, communicare,thesaurizare sibi fundamentum bonum in futurum, ut apprehendant veram vitam.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000091	o timothee, depositum custodi, devitans profanas vocum novitates, et oppositiones falsi nominis scientiae,quam quidam promittentes, circa fidem exciderunt. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000092	gratia tecum. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima
+1100000093	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Timotheum_Prima

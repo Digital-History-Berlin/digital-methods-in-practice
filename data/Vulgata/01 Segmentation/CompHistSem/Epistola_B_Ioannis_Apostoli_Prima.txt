@@ -1,0 +1,130 @@
+1100000001	epistola b. ioannis apostoli prima	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000002	caput 1	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000003	quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostrae contrectaverunt de verbo vitae:et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam aeternam, quae erat apud patrem, et apparuit nobis:quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum patre, et cum filio eius iesu christo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000004	et haec scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000005	et haec est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam deus lux est, et tenebrae in eo non sunt ullae.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000006	si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000007	si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis iesu christi, filii eius, emundat nos ab omni peccato.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000008	si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000009	si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000010	si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum eius non est in nobis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000011	caput 2	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000012	filioli mei, haec scribo vobis, ut non peccetis. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000013	sed et si quis peccaverit, advocatum habemus apud patrem, iesum christum iustum:et ipse est propitiatio pro peccatis nostris: non pro nostris autem tantum, sed etiam pro totius mundi.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000014	et in hoc scimus quoniam cognovimus eum, si mandata eius observemus.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000015	qui dicit se nosse eum, et mandata eius non custodit, mendax est, et in hoc veritas non est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000016	qui autem servat verbum eius, vere in hoc caritas dei perfecta est: et in hoc scimus quoniam in ipso sumus.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000017	qui dicit se in ipso manere, debet, sicut ille ambulavit, et ipse ambulare.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000018	carissimi, non mandatum novum scribo vobis, sed mandatum vetus, quod habuistis ab initio. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000019	mandatum vetus est verbum, quod audistis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000020	iterum mandatum novum scribo vobis, quod verum est et in ipso, et in vobis: quia tenebrae transierunt, et verum lumen iam lucet.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000021	qui dicit se in luce esse, et fratrem suum odit, in tenebris est usque adhuc.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000022	qui diligit fratrem suum, in lumine manet, et scandalum in eo non est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000023	qui autem odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat: quia tenebrae obcaecaverunt oculos eius.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000024	scribo vobis, filioli, quoniam remittuntur vobis peccata propter nomen eius.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000025	scribo vobis, patres, quoniam cognovistis eum, qui ab initio est. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000026	scribo vobis, adolescentes, quoniam vicistis malignum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000027	scribo vobis, infantes, quoniam cognovistis patrem. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000028	scribo vobis iuvenes, quoniam fortes estis, et verbum dei manet in vobis, et vicistis malignum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000029	nolite diligere mundum, neque ea quae in mundo sunt. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000030	si quis diligit mundum, non est caritas patris in eo:quoniam omne quod est in mundo, concupiscentia carnis est, et concupiscentia oculorum, et superbia vitae: quae non est ex patre, sed ex mundo est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000031	et mundus transit, et concupiscentia eius: qui autem facit voluntatem dei manet in aeternum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000032	filioli, novissima hora est: et sicut audistis quia antichristus venit, et nunc antichristi multi facti sunt; unde scimus, quia novissima hora est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000033	ex nobis prodierunt, sed non erant ex nobis, nam, si fuissent ex nobis, permansissent utique nobiscum: sed ut manifesti sint quoniam non sunt omnes ex nobis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000034	sed vos unctionem habetis a sancto, et nostis omnia.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000035	non scripsi vobis quasi ignorantibus veritatem, sed quasi scientibus eam: et quoniam omne mendacium ex veritate non est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000036	quis est mendax, nisi is qui negat quoniam iesus est christus? 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000037	hic est antichristus, qui negat patrem, et filium.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000038	omnis qui negat filium, nec patrem habet: qui confitetur filium, et patrem habet.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000039	vos quod audistis ab initio, in vobis permaneat: si in vobis permanserit quod audistis ab initio, et vos in filio et patre manebitis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000040	et haec est repromissio, quam ipse pollicitus est nobis, vitam aeternam.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000041	haec scripsi vobis de his, qui seducant vos.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000042	et vos unctionem, quam accepistis ab eo, maneat in vobis. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000043	et non necesse habetis ut aliquis doceat vos: sed sicut unctio eius docet vos de omnibus, et verum est, et non est mendacium. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000044	et sicut docuit vos: manete in eo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000045	et nunc, filioli, manete in eo: ut cum apparuerit, habeamus fiduciam, et non confundamur ab eo in adventu eius.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000046	si scitis quoniam iustus est, scitote quoniam et omnis, qui facit iustitiam, ex ipso natus est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000047	caput 3	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000048	videte qualem caritatem dedit nobis pater, ut filii dei nominemur et simus. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000049	propter hoc mundus non novit nos: quia non novit eum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000050	carissimi, nunc filii dei sumus: et nondum apparuit quid erimus. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000051	scimus quoniam cum apparuerit, similes ei erimus: quoniam videbimus eum sicuti est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000052	et omnis qui habet hanc spem in eo, sanctificat se, sicut et ille sanctus est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000053	omnis qui facit peccatum, et iniquitatem facit: et peccatum est iniquitas.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000054	et scitis quia ille apparuit ut peccata nostra tolleret: et peccatum in eo non est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000055	omnis qui in eo manet, non peccat: et omnis qui peccat, non vidit eum, nec cognovit eum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000056	filioli, nemo vos seducat. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000057	qui facit iustitiam, iustus est, sicut et ille iustus est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000058	qui facit peccatum, ex diabolo est: quoniam ab initio diabolus peccat. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000059	in hoc apparuit filius dei, ut dissolvat opera diaboli.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000060	omnis qui natus est ex deo, peccatum non facit: quoniam semen ipsius in eo manet, et non potest peccare, quoniam ex deo natus est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000061	in hoc manifesti sunt filii dei, et filii diaboli. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000062	omnis qui non est iustus, non est ex deo, et qui non diligit fratrem suum:quoniam haec est annuntiatio, quam audistis ab initio, ut diligatis alterutrum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000063	non sicut cain, qui ex maligno erat, et occidit fratrem suum. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000064	et propter quid occidit eum? 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000065	quoniam opera eius maligna erant: fratris autem eius, iusta.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000066	nolite mirari, fratres, si odit vos mundus.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000067	nos scimus quoniam translati sumus de morte ad vitam, quoniam diligimus fratres. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000068	qui non diligit, manet in morte:omnis qui odit fratrem suum, homicida est. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000069	et scitis quoniam omnis homicida non habet vitam aeternam in semetipso manentem.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000070	in hoc cognovimus caritatem dei, quoniam ille animam suam pro nobis posuit: et nos debemus pro fratribus animas ponere.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000071	qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem habere, et clauserit viscera sua ab eo: quomodo caritas dei manet in eo?	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000072	filioli mei, non diligamus verbo neque lingua, sed opere et veritate:in hoc cognoscimus quoniam ex veritate sumus: et in conspectu eius suadebimus corda nostra.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000073	quoniam si reprehenderit nos cor nostrum: maior est deus corde nostro, et novit omnia.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000074	carissimi, si cor nostrum non reprehenderit nos, fiduciam habemus ad deum:et quidquid petierimus, accipiemus ab eo: quoniam mandata eius custodimus, et ea, quae sunt placita coram eo, facimus.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000075	et hoc est mandatum eius: ut credamus in nomine filii eius iesu christi: et diligamus alterutrum, sicut dedit mandatum nobis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000076	et qui servat mandata eius, in illo manet, et ipse in eo: et in hoc scimus quoniam manet in nobis, de spiritu quem dedit nobis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000077	caput 4	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000078	carissimi, nolite omni spiritui credere, sed probate spiritus si ex deo sint: quoniam multi pseudoprophetae exierunt in mundum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000079	in hoc cognoscitur spiritus dei: omnis spiritus qui confitetur iesum christum in carne venisse, ex deo est:et omnis spiritus qui solvit iesum, ex deo non est, et hic est antichristus, de quo audistis quoniam venit, et nunc iam in mundo est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000080	vos ex deo estis filioli, et vicistis eum, quoniam maior est qui in vobis est, quam qui in mundo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000081	ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000082	nos ex deo sumus. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000083	qui novit deum, audit nos; qui non est ex deo, non audit nos: in hoc cognoscimus spiritum veritatis, et spiritum erroris.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000084	carissimi, diligamus nos invicem: quia caritas ex deo est. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000085	et omnis qui diligit, ex deo natus est, et cognoscit deum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000086	qui non diligit, non novit deum: quoniam deus caritas est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000087	in hoc apparuit caritas dei in nobis, quoniam filium suum unigenitum misit deus in mundum, ut vivamus per eum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000088	in hoc est caritas: non quasi nos dilexerimus deum, sed quoniam ipse prior dilexit nos, et misit filium suum propitiationem pro peccatis nostris.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000089	carissimi, si sic deus dilexit nos: et nos debemus alterutrum diligere.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000090	deum nemo vidit umquam. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000091	si diligamus invicem, deus in nobis manet, et caritas eius in nobis perfecta est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000092	in hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de spiritu suo dedit nobis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000093	et nos vidimus, et testificamur quoniam pater misit filium suum salvatorem mundi.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000094	quisquis confessus fuerit quoniam iesus est filius dei, deus in eo manet, et ipse in deo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000095	et nos cognovimus, et credidimus caritati, quam habet deus in nobis. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000096	deus caritas est: et qui manet in caritate, in deo manet, et deus in eo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000097	in hoc perfecta est caritas dei nobiscum, ut fiduciam habeamus in die iudicii: quia sicut ille est, et nos sumus in hoc mundo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000098	timor non est in caritate: sed perfecta caritas foras mittit timorem, quoniam timor poenam habet: qui autem timet, non est perfectus in caritate.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000099	nos ergo diligamus deum, quoniam deus prior dilexit nos.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000100	si quis dixerit: quoniam diligo deum, et fratrem suum oderit, mendax est. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000101	qui enim non diligit fratrem suum quem vidit, deum, quem non vidit, quomodo potest diligere?	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000102	et hoc mandatum habemus a deo: ut qui diligit deum, diligat et fratrem suum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000103	caput 5	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000104	omnis qui credit quoniam iesus est christus, ex deo natus est. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000105	et omnis qui diligit eum qui genuit, diligit et eum qui natus est ex eo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000106	in hoc cognoscimus quoniam diligamus natos dei, cum deum diligamus, et mandata eius faciamus.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000107	haec est enim caritas dei, ut mandata eius custodiamus: et mandata eius gravia non sunt.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000108	quoniam omne quod natum est ex deo, vincit mundum: et haec est victoria, quae vincit mundum, fides nostra.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000109	quis est, qui vincit mundum, nisi qui credit quoniam iesus est filius dei?	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000110	hic est, qui venit per aquam et sanguinem, iesus christus: non in aqua solum, sed in aqua et sanguine. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000111	et spiritus est, qui testificatur quoniam christus est veritas.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000112	quoniam tres sunt, qui testimonium dant in caelo: pater, verbum, et spiritus sanctus: et hi tres unum sunt.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000113	et tres sunt, qui testimonium dant in terra: spiritus, et aqua, et sanguis: et hi tres unum sunt.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000114	si testimonium hominum accipimus, testimonium dei maius est: quoniam hoc est testimonium dei, quod maius est, quoniam testificatus est de filio suo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000115	qui credit in filium dei, habet testimonium dei in se. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000116	qui non credit filio, mendacem facit eum: quia non credit in testimonium quod testificatus est deus de filio suo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000117	et hoc est testimonium, quoniam vitam aeternam dedit nobis deus: et haec vita in filio eius est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000118	qui habet filium, habet vitam: qui non habet filium, vitam non habet.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000119	haec scribo vobis ut sciatis quoniam vitam habetis aeternam, qui creditis in nomine filii dei.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000120	et haec est fiducia, quam habemus ad eum: quia quodcumque petierimus, secundum voluntatem eius, audit nos.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000121	et scimus quia audit nos quidquid petierimus: scimus quoniam habemus petitiones quas postulamus ab eo.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000122	qui scit fratrem suum peccare peccatum non ad mortem, petat, et dabitur ei vita peccanti non ad mortem. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000123	est peccatum ad mortem: non pro illo dico ut roget quis.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000124	omnis iniquitas, peccatum est: et est peccatum ad mortem.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000125	scimus quia omnis qui natus est ex deo, non peccat: sed generatio dei conservat eum, et malignus non tangit eum.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000126	scimus quoniam ex deo sumus: et mundus totus in maligno positus est.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000127	et scimus quoniam filius dei venit, et dedit nobis sensum ut cognoscamus verum deum, et simus in vero filio eius. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000128	hic est verus deus, et vita aeterna.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000129	filioli, custodite vos a simulacris. 	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima
+1100000130	amen.	2020-04-18	Epistola_B_Ioannis_Apostoli_Prima

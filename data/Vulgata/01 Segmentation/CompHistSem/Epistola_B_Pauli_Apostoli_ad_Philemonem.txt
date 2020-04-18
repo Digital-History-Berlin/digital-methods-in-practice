@@ -1,0 +1,17 @@
+1100000001	epistola b. pauli apostoli ad philemonem	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000002	caput 1	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000003	paulus vinctus christi iesu, et timotheus frater, philemoni dilecto, et adiutori nostro,et appiae sorori carissimae, et archippo commilitoni nostro, et ecclesiae, quae in domo tua est.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000004	gratia vobis, et pax a deo patre nostro, et domino iesu christo.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000005	gratias ago deo meo, semper memoriam tui faciens in orationibus meis,audiens caritatem tuam, et fidem, quam habes in domino iesu, et in omnes sanctos:ut communicatio fidei tuae evidens fiat in agnitione omnis operis boni, quod est in vobis in christo iesu.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000006	gaudium enim magnum habui, et consolationem in caritate tua: quia viscera sanctorum requieverunt per te, frater.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000007	propter quod multam fiduciam habens in christo iesu imperandi tibi quod ad rem pertinet:propter caritatem magis obsecro, cum sis talis, ut paulus senex, nunc autem et vinctus iesu christi:obsecro te pro meo filio, quem genui in vinculis, onesimo,qui tibi aliquando inutilis fuit, nunc autem et mihi et tibi utilis,quem remisi tibi. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000008	tu autem illum, ut mea viscera, suscipe:quem ego volueram mecum detinere, ut pro te mihi ministraret in vinculis evangelii:sine consilio autem tuo nihil volui facere, uti ne velut ex necessitate bonum tuum esset, sed voluntarium.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000009	forsitan enim ideo discessit ad horam a te, ut aeternum illum reciperes:iam non ut servum, sed pro servo carissimum fratrem, maxime mihi: quanto autem magis tibi et in carne, et in domino?	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000010	si ergo habes me socium, suscipe illum sicut me:si autem aliquid nocuit tibi, aut debet, hoc mihi imputa.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000011	ego paulus scripsi mea manu: ego reddam, ut non dicam tibi, quod et teipsum mihi debes:ita, frater. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000012	ego te fruar in domino: refice viscera mea in domino.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000013	confidens in obedientia tua scripsi tibi: sciens quoniam et super id, quod dico, facies.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000014	simul autem et para mihi hospitium: nam spero per orationes vestras donari me vobis.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000015	salutat te epaphras concaptivus meus in christo iesu,marcus, aristarchus, demas, et lucas, adiutores mei.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000016	gratia domini nostri iesu christi cum spiritu vestro. 	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
+1100000017	amen.	2020-04-18	Epistola_B_Pauli_Apostoli_ad_Philemonem
