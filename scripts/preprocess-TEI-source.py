@@ -22,7 +22,7 @@ import ast
 
 # Get current timestamp for provenance-date
 timestamp = time.time()
-timestamp = datetime.datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
+timestamp = datetime.datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
 
 allowed_pos_tags = ["n", "v", "a"]
 
