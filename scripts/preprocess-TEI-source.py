@@ -76,6 +76,7 @@ print("Extracting text and lemmas from TEI file...")
 for s in sentences:
     # Extract and store text from TEI
     new_line = s.get_text().encode("utf8")
+    new_line = new_line.lower()
     source_writer.writerow([line_index] + [new_line] + [timestamp] + [source_title])
     line_index += 1
 
