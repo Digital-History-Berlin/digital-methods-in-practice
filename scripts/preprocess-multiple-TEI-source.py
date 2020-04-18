@@ -23,10 +23,6 @@ try:
     tei_dir = sys.argv[1]
     output_dir = sys.argv[2]
 
-    # if output_dir.endswith("/"):
-    #     print("Output must be a directory path and end with '/'")
-    #     sys.exit()
-
     source_number = sys.argv[3]
 except IndexError:
     print("Not enough arguments. Please give the TEI directory as a first argument, the name of the output directory as the second (must end with '/'), and the number of your source as the third (for the text id in the tracer input)")
