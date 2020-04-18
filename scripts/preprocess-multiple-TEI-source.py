@@ -11,7 +11,7 @@
 #
 # The program needs to take three arguments on startup:
 # 1. Path and name of the input TEI directory
-# 2. Path and name of the directory for the output files. Must end with '/'. The output directory and lemma file will have the same name
+# 2. Path and name of the directory for the output files. The output directory and lemma file will have the same name
 # 3. Number of the source (this is needed for the id in the txt for processing by tracer)
 
 import sys
