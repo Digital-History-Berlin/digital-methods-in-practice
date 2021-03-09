@@ -1,7 +1,10 @@
 # prepare-vulgata.py
+"""
+Script preprocesses Vulgata text by removing brackets in the Book of Psalms
 
-# Remove brackets before Psalms
-# OBSOLETE WITH VULGATA VERSION FROM COMPHISTSEM
+This script was written for a different version of the Vulgate, than the
+one from CompHistSem, used in the paper.
+"""
 
 import re
 
