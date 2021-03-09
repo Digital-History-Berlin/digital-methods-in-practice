@@ -1,25 +1,33 @@
 # lemmatise-vulgata.py
-# @author: Philipp Schneider
-# @date: 2020-02-24
-#
-# Lemmatises Vulgata.tsv by using the LiLa lemma-Endpoint <https://lila-erc.eu/sparql/dataset.html?tab=query&ds=/lemmaBank>
-# Formates file by tracer standards
-# Stores lemmas to Vulgata.lemma
-# output file is not sorted
+"""
+@author: Philipp Schneider
+@date: 2020-02-24
+
+Lemmatises Vulgata.tsv by using the LiLa lemma-Endpoint <https://lila-erc.eu/sparql/dataset.html?tab=query&ds=/lemmaBank>
+Formates file by tracer standards <https://tracer.gitbook.io/-manual/manual/pos-tagging-lemmatisation-and-wordnets>
+Stores lemmas to Vulgata.lemma
+output file is not sorted
+"""
 
 from SPARQLWrapper import SPARQLWrapper, JSON
 import sys
 
-# Check if a string is a number
 def is_number(string):
+    """
+    Check if a string is a number
+    """
+
     try:
         float(string)
         return True
     except ValueError:
         return False
 
-# Query the LiLa database for lemmas and POS-names for one word
 def get_lemmas_by_word(word):
+    """
+    Query the LiLa database for lemmas and POS-names for one word
+    """
+
     sparql = SPARQLWrapper("https://lila-erc.eu/sparql/lemmaBank/")
     sparql.setQuery("""
         PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
