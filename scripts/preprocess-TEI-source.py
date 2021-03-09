@@ -1,17 +1,19 @@
 # preprocess-TEI-source.py
-# @author: Philipp Schneider
-# @date: 2020-02-25
-#
-# Prepares Chronicle from https://www.comphistsem.org/texts.html for Tracer
-# Extracts segmented text from TEI
-# Text is stored as txt accoridng to tracer standards
-# Extracts lemmas from TEI
-# Stores lemmas in seperate file
-#
-# The program needs to take three arguments on startup:
-# 1. Path and name of the input TEI file
-# 2. Path and name of the output file. No file suffix. The txt and lemma file will have the same name
-# 3. Number of the source (this is needed for the id in the txt for processing by tracer)
+"""
+@author: Philipp Schneider
+@date: 2020-02-25
+
+Prepares a text from <https://www.comphistsem.org/texts.html> for Tracer
+Extracts segmented text from TEI
+Text is stored as txt accoridng to tracer requirements <https://tracer.gitbook.io/-manual/manual/corpus-preparation>
+Extracts lemmas from TEI
+Stores lemmas in seperate file according to tracer requirements <https://tracer.gitbook.io/-manual/manual/pos-tagging-lemmatisation-and-wordnets>
+
+The program needs to take three arguments on startup:
+1. Path and name of the input TEI file
+2. Path and name of the output file. No file suffix. The txt and lemma file will have the same name
+3. Number of the source (this is needed for the id in the txt for processing by tracer)
+"""
 
 from bs4 import BeautifulSoup
 import sys
@@ -19,6 +21,7 @@ import csv
 import time
 import datetime
 import ast
+import re
 
 # Get current timestamp for provenance-date
 timestamp = time.time()
@@ -38,8 +41,6 @@ try:
 except IndexError:
     print("Not enough arguments. Please give the TEI file as a first argument, the name of the output file as the second (no file suffix), and the number of your source as the third (for the text id in the tracer input)")
     sys.exit()
-
-
 
 # filename = sys.argv[1]
 # filename = filename.replace(".xml", "")
@@ -73,12 +74,68 @@ lemmas = ""
 
 print("Extracting text and lemmas from TEI file...")
 
+full_line = ""
+
 for s in sentences:
     # Extract and store text from TEI
     new_line = s.get_text().encode("utf8")
     new_line = new_line.lower()
-    source_writer.writerow([line_index] + [new_line] + [timestamp] + [source_title])
-    line_index += 1
+    new_line = new_line.strip()
+
+    print(new_line)
+    print(new_line[-1])
+
+    if "(" not in new_line and ")" not in new_line:
+        #line_segmented = new_line.split(".")
+        line_segmented = new_line.split(".")
+        line_segmented = re.split('\.|; |\: ', new_line)
+        print(line_segmented)
+    else:
+        line_segmented = re.split('; |\: ', new_line)
+        #line_segmented = [new_line]
+    # for segment in line_segmented:
+    #     if len(segment) < 6:
+
+    print(line_segmented)
+    print(len(line_segmented))
+
+    # Remove last segment if it is empty
+    if line_segmented[-1] == "":
+        del line_segmented[-1]
+
+    print(line_segmented)
+    print(len(line_segmented))
+
+    # Reconnect two segments if there is an open bracket without a closed one
+    # i = 1
+    # for segment in line_segmented:
+    #     if ")" in line_segmented[i] and not "(" in line_segmented[i]:
+    #         h = i - 1
+    #         line_segmented[h] = line_segmented[h] + line_segmented[i]
+    #         del line_segmented[i]
+    #         i += 1
+
+    # Check if segmentation for sentences is correct in source edition (not multiple sentences in one line)
+    if len(line_segmented) > 1:# and line_segmented[-1] != 0:
+        # print(len(line_segmented[-1]))
+        # if len(line_segmented[-1]) != 0:
+        #line_segmented[-1] = line_segmented[-1] + "."
+
+        for segment in line_segmented:
+            print(segment)
+            print("true")
+            source_writer.writerow([line_index] + [segment] + [timestamp] + [source_title])
+            line_index += 1
+    else:
+        # Check if segmentation for sentences is correct in source edition (not one sentence over multiple lines)
+        if new_line[-1] != "." and new_line[-1] != "!" and new_line[-1] != "?":
+            full_line += new_line + " "
+        else:
+            print("false")
+            full_line += new_line
+            source_writer.writerow([line_index] + [full_line] + [timestamp] + [source_title])
+            line_index += 1
+            full_line = ""
 
     # Extract and store lemmas from TEI
     words = s.find_all("w")
@@ -105,6 +162,9 @@ for s in sentences:
                 lemmas += current_word + "\t" + new_lemma[0] + "\t" + pos_tag + "\n"
 
             #lemmas += current_word + "\t" + new_lemma[0] + "\t" + new_lemma[1] + "\n"
+
+if full_line != "":
+    source_writer.writerow([line_index] + [full_line] + [timestamp] + [source_title])
 
 # Write lemmas to file
 lemmas = lemmas.encode("utf8")
