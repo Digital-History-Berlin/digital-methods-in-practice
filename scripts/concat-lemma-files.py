@@ -1,14 +1,16 @@
 # concat-lemma-files.py
-# @author: Philipp Schneider
-# @date: 2020-04-18
-#
-# Concatenates multiple lemma files to one.
-# Obliterates doublets
+"""
+@author: Philipp Schneider
+@date: 2020-04-18
+
+The script concatenates multiple lemma files to one. Duplicate entries are merged.
+Obliterates doublets
+"""
 
 import sys
 from os import walk
 
-lemma_dir = "data/lemma_files/"
+lemma_dir = "data/lemma_files/spelling-variants/"
 all_lemmas = ""
 
 # Get all lemma files from first directory level
