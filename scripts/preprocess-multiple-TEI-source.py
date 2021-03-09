@@ -1,18 +1,22 @@
 # preprocess-multiple-TEI-source.py
-# @author: Philipp Schneider
-# @date: 2020-04-18
-# 
-# Prepares multiple file source from https://www.comphistsem.org/texts.html for Tracer
-# requires preprocess-TEI-source.py
-# Extracts segmented text from TEI
-# Text is stored as txt accoridng to tracer standards
-# Extracts lemmas from TEI
-# Stores lemmas in one seperate file
-#
-# The program needs to take three arguments on startup:
-# 1. Path and name of the input TEI directory
-# 2. Path and name of the directory for the output files. The output directory and lemma file will have the same name
-# 3. Number of the source (this is needed for the id in the txt for processing by tracer)
+"""
+@author: Philipp Schneider
+@date: 2020-04-18
+
+Prepares multiple file source from https://www.comphistsem.org/texts.html for Tracer
+This script calls preprocess-TEI-source.py from the same directory it is stored in.
+Extracts segmented text from TEI
+Text is stored as txt accoridng to tracer standards
+Extracts lemmas from TEI
+Stores lemmas in one seperate file
+
+The program needs to take three arguments on startup:
+1. Path and name of the input TEI directory
+2. Path and name of the directory for the output files. The output directory and lemma file will have the same name
+3. Number of the source (this is needed for the id in the txt for processing by tracer)
+
+All data is stored according to Tracer requirements <https://tracer.gitbook.io/-manual/>
+"""
 
 import sys
 import os
