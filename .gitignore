@@ -1,6 +1,7 @@
 .DS_Store
 *.code-workspace
 launch.json
+scans
 nohup.out
 tracer.zip
 tracer-master//nbproject/private/
