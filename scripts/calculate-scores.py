@@ -1,12 +1,14 @@
 # calculate-scores.py
-# @author: Philipp Schneider
-# @date: 2020-04-10
-# 
-# Calculates the precision, recall and f-score for the result of a text reuse analysis with tracer
-# 
-# The program needs the following arguments:
-# 1. A concordance table as a csv. Must include the coloumns 'vulgata_zeile' and '\xef\xbb\xbfhistoria-francorum_zeile'
-# A tracer result file (reuses.js)
+"""
+@author: Philipp Schneider
+@date: 2020-04-10
+
+Calculates the precision, recall and f-score for the result of a text reuse analysis with tracer
+
+The program needs the following arguments:
+1. A concordance table as a csv. Must include the coloumns 'vulgata_zeile' and '\xef\xbb\xbfhistoria-francorum_zeile'
+A tracer result file (reuses.js)
+"""
 
 import sys
 import csv
@@ -49,24 +51,30 @@ evaluation_path = result_path.replace("reuses.js", "") + "evaluation_scores.txt"
 
 number_relevant_retrieved = 0
 
+relevant_results = []
+
 for retrieved in reuse_results:
     for rel in concordance_data:
         if str(retrieved["i"]) == rel[0]:
             if str(retrieved["j"]) == rel[1]:
+                print(str(retrieved["i"]) + " " + str(retrieved["j"]))
+                number_relevant_retrieved += 1
+#                relevant_results = relevant_results.append(str(retrieved["i"]) + " " + str(retrieved["j"]))
+        elif str(retrieved["j"]) == rel[0]:
+            if str(retrieved["i"]) == rel[1]:
+                print(str(retrieved["j"]) + " " + str(retrieved["i"]))
                 number_relevant_retrieved += 1
 
 number_retrieved = len(reuse_results)
 number_relevant = len(concordance_data)
+
+print(relevant_results)
 
 if number_retrieved == 0 or number_relevant == 0 or number_relevant_retrieved == 0:
     print("number_retrieved: " + str(number_retrieved))
     print("number_relevant: " + str(number_relevant))
     print("number_relevant_retrieved: " + str(number_relevant_retrieved))
     sys.exit()
-
-# print(number_relevant)
-# print(number_retrieved)
-# print(number_relevant_retrieved)
 
 precision_frac = str(number_relevant_retrieved) + "/" + str(number_retrieved)
 precision = float(number_relevant_retrieved) / float(number_retrieved)
