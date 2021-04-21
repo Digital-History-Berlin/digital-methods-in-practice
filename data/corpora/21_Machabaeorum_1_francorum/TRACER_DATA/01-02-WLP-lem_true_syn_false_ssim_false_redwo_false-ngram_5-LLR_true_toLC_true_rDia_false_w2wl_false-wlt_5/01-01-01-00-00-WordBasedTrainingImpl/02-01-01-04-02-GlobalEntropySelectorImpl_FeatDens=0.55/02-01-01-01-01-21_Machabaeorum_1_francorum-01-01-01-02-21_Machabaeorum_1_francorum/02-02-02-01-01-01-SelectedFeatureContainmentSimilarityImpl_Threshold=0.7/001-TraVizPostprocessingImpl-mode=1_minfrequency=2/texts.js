@@ -1,0 +1,1 @@
+var texts = [{title:"Liber_I_Machabaeorum",min:1100000001,max:1100001134},{title:"historia-francorum",min:1200000001,max:1200002197}];

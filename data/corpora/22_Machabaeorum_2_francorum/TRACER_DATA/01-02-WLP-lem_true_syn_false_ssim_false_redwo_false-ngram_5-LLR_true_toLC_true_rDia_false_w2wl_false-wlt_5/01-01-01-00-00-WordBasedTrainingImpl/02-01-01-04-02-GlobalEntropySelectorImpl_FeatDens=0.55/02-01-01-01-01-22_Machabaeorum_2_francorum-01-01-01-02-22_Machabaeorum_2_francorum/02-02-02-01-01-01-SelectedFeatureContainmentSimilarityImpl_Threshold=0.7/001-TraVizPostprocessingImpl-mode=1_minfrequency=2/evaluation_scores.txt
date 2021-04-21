@@ -1,0 +1,7 @@
+precision_frac: 1/3969
+precision: 0.000251952632905
+---
+recall_frac: 1/9
+recall: 0.111111111111
+---
+f_measure: 0.000502765208648
