@@ -3,7 +3,7 @@
 Script corrects line break errors in the file data/spelling-variants.lemma
 """
 
-with open("data/spelling-variants.lemma", "r") as spelling_variants_file:
+with open("../data/spelling-variants.lemma", "r") as spelling_variants_file:
     spelling_variants = spelling_variants_file.readlines()
 
 new_spelling_variants = ""
@@ -39,5 +39,5 @@ for line in spelling_variants:
 
 print(new_spelling_variants)
 
-with open("data/spelling-variants_pretty.lemma", "w") as new_spelling_file:
+with open("../data/spelling-variants_pretty.lemma", "w") as new_spelling_file:
     new_spelling_file.write(new_spelling_variants)

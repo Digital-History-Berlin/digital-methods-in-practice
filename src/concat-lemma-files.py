@@ -10,7 +10,7 @@ Obliterates doublets
 import sys
 from os import walk
 
-lemma_dir = "data/lemma_files/spelling-variants/"
+lemma_dir = "../data/lemma_files/spelling-variants/"
 all_lemmas = ""
 
 # Get all lemma files from first directory level
@@ -33,5 +33,5 @@ for l_file_name in lemma_files:
             if lemma not in all_lemmas:
                 all_lemmas += lemma
 
-with open("data/latin.lemma", "w") as new_lemma_file:
+with open("../data/latin.lemma", "w") as new_lemma_file:
     new_lemma_file.write(all_lemmas)

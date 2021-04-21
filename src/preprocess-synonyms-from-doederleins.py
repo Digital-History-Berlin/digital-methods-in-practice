@@ -25,11 +25,11 @@ def lemmatize_word(word):
     
     return word
 
-with open("data/Doederlein-s-Hand-book-of-Latin-Synonymes/33197-8.txt", "r") as synonyms_file:
+with open("../data/Doederlein-s-Hand-book-of-Latin-Synonymes/33197-8.txt", "r") as synonyms_file:
     synonyms_source = synonyms_file.read()
 
 # Open lemma file to lemmatize synonyms
-with open("data/latin.lemma", "r") as lemma_file:
+with open("../data/latin.lemma", "r") as lemma_file:
     lemma_source = lemma_file.readlines()
 
 # Cut the appendix to avoid wrong matches that do not belong to the list of synonyms
@@ -62,7 +62,7 @@ for syn_entry in synonyms:
         # synonyms_tracer += syn_lemma.lower() + "\t" + syn_entry_list[i].lower() + "\n"
         # synonyms_tracer += syn_entry_list[i].lower() + "\t" + syn_lemma.lower() + "\n"
 
-synonyms_tracer_file = open("data/latin.syns", "w")
+synonyms_tracer_file = open("../data/latin.syns", "w")
 synonyms_tracer_file.write(synonyms_tracer)
 synonyms_tracer_file.close()
 

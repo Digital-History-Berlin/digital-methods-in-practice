@@ -185,5 +185,5 @@ output_table += """</table>
                     </body>
                 </html>"""
 
-with open("result_data/22_Machabaeorum_2_francorum.html", "w") as output_file:
+with open("../result_data/22_Machabaeorum_2_francorum.html", "w") as output_file:
     output_file.write(output_table)

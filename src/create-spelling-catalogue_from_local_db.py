@@ -8,7 +8,7 @@ import rdflib
 import sys
 
 g = rdflib.Graph()
-g.parse("data/lemmaBank/lemmaBank.ttl", format = "turtle")
+g.parse("../data/lemmaBank/lemmaBank.ttl", format = "turtle")
 
 # Check if a string is a number
 def is_number(string):
@@ -69,7 +69,7 @@ def get_lemmas_by_word(word):
 
 #print(get_lemmas_by_word("caryota"))
 
-with open("data/latin.lemma", "r") as lemma_file:
+with open("../data/latin.lemma", "r") as lemma_file:
     old_lemmas = lemma_file.readlines()
 
 spelling_cat = ""
@@ -95,7 +95,7 @@ for line in old_lemmas:
 
 print(spelling_cat)
 
-with open("data/2_spelling-variants.lemma", "w") as spelling_cat_file:
+with open("../data/2_spelling-variants.lemma", "w") as spelling_cat_file:
     spelling_cat_file.write(spelling_cat)
 
 print("Done")
