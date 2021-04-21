@@ -1,4 +1,4 @@
-# 2_create-spelling-catalogue.py
+# create-spelling-catalogue_from_local_db.py
 """
 Creates a list of spelling variants from a locally stored copy of the LiLa database <https://lila-erc.eu/sparql/lemmaBank/>
 """
