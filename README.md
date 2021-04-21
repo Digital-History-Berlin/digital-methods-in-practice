@@ -1,9 +1,7 @@
 # Digital Methods in Practice
 
 This repository includes the research data and source code from the following paper:
-> ```
 > Torsten Hiltmann, Jan Keupp, Melanie Althage, Philipp Schneider: Digital Methods in Practice. The Epistemological Implications of Applying Text Re-Use Analysis to the Bloody Accounts of the Conquest of Jerusalem (1099), in: Geschichte und Gesellschaft 47, 2021, S. 1-36.
-> ```
 
 ## Abstract
 While the question concerning the possible epistemological impact and implications of digital methods on the production of historical knowledge has been raised time and again, detailed studies in this regard have been scarce. Taking the analysis of the use of the Bible in the accounts on the Conquest of Jerusalem in 1099 as an example, this paper examines the differences between the analogue and the digital approach. Drawing on the method of text re-use analysis and the tool "Tracer", it demonstrates the application of digital methods in practice and shows the consequences this has for historical research. 
