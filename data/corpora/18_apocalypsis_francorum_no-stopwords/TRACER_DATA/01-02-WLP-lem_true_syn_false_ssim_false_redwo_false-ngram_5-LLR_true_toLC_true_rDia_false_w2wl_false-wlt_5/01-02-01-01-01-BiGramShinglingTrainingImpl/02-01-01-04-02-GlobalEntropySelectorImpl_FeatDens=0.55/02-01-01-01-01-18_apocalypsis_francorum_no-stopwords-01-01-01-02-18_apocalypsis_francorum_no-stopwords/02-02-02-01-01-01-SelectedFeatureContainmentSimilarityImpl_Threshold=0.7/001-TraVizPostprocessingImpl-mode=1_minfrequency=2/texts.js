@@ -1,0 +1,1 @@
+var texts = [{title:"Apocalypsis_B_Ioannis_Apostoli",min:1100000001,max:1100000719},{title:"historia-francorum",min:1200000001,max:1200002196}];
