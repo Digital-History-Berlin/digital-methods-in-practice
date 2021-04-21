@@ -19,11 +19,11 @@ The research data is divided into three groups to seperate code, pre- and postpr
 digital-methods-in-practice/
 ├── data
 │   ├── corpora
-|   |   ├── 20_apocalypsis_francorum
-|   |   |   ├── 20_apocalypsis_francorum.txt
-|   |   |   ├── TRACER_DATA
-|   |   |   ├── ...
-|   |   ├── ...
+│   │   ├── 20_apocalypsis_francorum
+│   │   │   ├── 20_apocalypsis_francorum.txt
+│   │   │   ├── TRACER_DATA
+│   │   │   ├── ...
+│   │   ├── ...
 │   ├── Historia_Francorum
 │   ├── Vulgata
 │   ├── ...
