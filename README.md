@@ -39,4 +39,4 @@ digital-methods-in-practice/
 
 ## Acknowledgements
 
-The result data from this research project was created with the tool [Tracer](https://vcs.etrap.eu/tracer-framework/tracer) (DOI: [doi.org/21.11101/0000-0007-C9CA-3](doi.org/21.11101/0000-0007-C9CA-3)). Tracer is a software for text reuse detection, created by Marco Büchler. You can find more information on this project here: https://www.etrap.eu/research/tracer/
+The result data from this research project was created with the tool [Tracer](https://vcs.etrap.eu/tracer-framework/tracer) (DOI: [doi.org/21.11101/0000-0007-C9CA-3](https://doi.org/21.11101/0000-0007-C9CA-3)). Tracer is a software for text reuse detection, created by Marco Büchler. You can find more information on this project here: https://www.etrap.eu/research/tracer/
