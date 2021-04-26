@@ -37,6 +37,10 @@ digital-methods-in-practice/
 * [Melanie Althage](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/althage) ([ORCID](https://orcid.org/0000-0001-5233-1061))
 * [Philipp Schneider](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/philipp-schneider-m-a) ([ORCID](https://orcid.org/0000-0002-6743-8600))
 
+## License
+
+The source code of this project is licensed under [Public Domain](https://unlicense.org/). The research data generated during the various processing steps is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Acknowledgements
 
 The result data from this research project was created with the tool [Tracer](https://vcs.etrap.eu/tracer-framework/tracer) (DOI: [doi.org/21.11101/0000-0007-C9CA-3](https://doi.org/21.11101/0000-0007-C9CA-3)). Tracer is a software for text reuse detection, created by Marco Büchler. You can find more information on this project here: https://www.etrap.eu/research/tracer/
