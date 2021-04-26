@@ -1,5 +1,7 @@
 # Digital Methods in Practice
 
+[![DOI](https://zenodo.org/badge/242783621.svg)](https://zenodo.org/badge/latestdoi/242783621)
+
 This repository includes the research data and source code from the following paper:
 > Torsten Hiltmann, Jan Keupp, Melanie Althage, Philipp Schneider: Digital Methods in Practice. The Epistemological Implications of Applying Text Re-Use Analysis to the Bloody Accounts of the Conquest of Jerusalem (1099), in: Geschichte und Gesellschaft 47, 2021, S. 1-36.
 
